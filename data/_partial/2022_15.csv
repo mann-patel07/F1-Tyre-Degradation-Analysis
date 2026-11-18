@@ -1,0 +1,1393 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,79.66,1.0,SOFT,1.0,1,False,Red Bull Racing,True,1.0,,26.613,23.203,,False,False,3796.566,15,Dutch Grand Prix
+VER,2.0,76.249,1.0,SOFT,2.0,12,True,Red Bull Racing,True,1.0,26.437,26.658,23.154,,False,False,3872.815,15,Dutch Grand Prix
+VER,3.0,76.523,1.0,SOFT,3.0,1,True,Red Bull Racing,True,1.0,26.412,26.918,23.193,,False,False,3949.338,15,Dutch Grand Prix
+VER,4.0,76.656,1.0,SOFT,4.0,12,True,Red Bull Racing,True,1.0,26.448,27.024,23.184,,False,False,4025.994,15,Dutch Grand Prix
+VER,5.0,76.449,1.0,SOFT,5.0,1,True,Red Bull Racing,True,1.0,26.298,27.021,23.13,,False,False,4102.443,15,Dutch Grand Prix
+VER,6.0,76.35,1.0,SOFT,6.0,1,True,Red Bull Racing,True,1.0,26.223,27.009,23.118,,False,False,4178.793,15,Dutch Grand Prix
+VER,7.0,76.253,1.0,SOFT,7.0,1,True,Red Bull Racing,True,1.0,26.165,26.934,23.154,,False,False,4255.046,15,Dutch Grand Prix
+VER,8.0,76.486,1.0,SOFT,8.0,1,True,Red Bull Racing,True,1.0,26.222,27.037,23.227,,False,False,4331.532,15,Dutch Grand Prix
+VER,9.0,76.51,1.0,SOFT,9.0,1,True,Red Bull Racing,True,1.0,26.295,27.062,23.153,,False,False,4408.042,15,Dutch Grand Prix
+VER,10.0,76.636,1.0,SOFT,10.0,1,True,Red Bull Racing,True,1.0,26.301,27.106,23.229,,False,False,4484.678,15,Dutch Grand Prix
+VER,11.0,76.671,1.0,SOFT,11.0,1,True,Red Bull Racing,True,1.0,26.316,27.062,23.293,,False,False,4561.349,15,Dutch Grand Prix
+VER,12.0,76.698,1.0,SOFT,12.0,1,True,Red Bull Racing,True,1.0,26.338,27.018,23.342,,False,False,4638.047,15,Dutch Grand Prix
+VER,13.0,76.521,1.0,SOFT,13.0,1,True,Red Bull Racing,True,1.0,26.174,27.14,23.207,,False,False,4714.568,15,Dutch Grand Prix
+VER,14.0,76.461,1.0,SOFT,14.0,1,True,Red Bull Racing,True,1.0,26.211,27.008,23.242,,False,False,4791.029,15,Dutch Grand Prix
+VER,15.0,76.519,1.0,SOFT,15.0,1,True,Red Bull Racing,True,1.0,26.231,27.066,23.222,,False,False,4867.548,15,Dutch Grand Prix
+VER,16.0,76.537,1.0,SOFT,16.0,1,True,Red Bull Racing,True,1.0,26.221,27.123,23.193,,False,False,4944.085,15,Dutch Grand Prix
+VER,17.0,76.492,1.0,SOFT,17.0,1,True,Red Bull Racing,True,1.0,26.221,27.123,23.148,,False,False,5020.577,15,Dutch Grand Prix
+VER,18.0,79.428,1.0,SOFT,18.0,1,False,Red Bull Racing,True,1.0,26.213,26.937,26.278,,True,False,5100.005,15,Dutch Grand Prix
+VER,19.0,94.74,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,3.0,45.035,26.65,23.055,,False,True,5194.745,15,Dutch Grand Prix
+VER,20.0,75.904,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,3.0,26.065,26.785,23.054,,False,False,5270.649,15,Dutch Grand Prix
+VER,21.0,76.259,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,3.0,26.205,26.94,23.114,,False,False,5346.908,15,Dutch Grand Prix
+VER,22.0,75.996,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,3.0,26.147,26.786,23.063,,False,False,5422.904,15,Dutch Grand Prix
+VER,23.0,76.164,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,3.0,26.186,26.875,23.103,,False,False,5499.068,15,Dutch Grand Prix
+VER,24.0,76.224,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,3.0,26.18,26.962,23.082,,False,False,5575.292,15,Dutch Grand Prix
+VER,25.0,76.102,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,3.0,26.176,26.808,23.118,,False,False,5651.394,15,Dutch Grand Prix
+VER,26.0,76.083,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,3.0,26.075,26.889,23.119,,False,False,5727.477,15,Dutch Grand Prix
+VER,27.0,75.725,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,3.0,26.051,26.823,22.851,,False,False,5803.202,15,Dutch Grand Prix
+VER,28.0,76.051,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,2.0,26.058,26.801,23.192,,False,False,5879.253,15,Dutch Grand Prix
+VER,29.0,76.127,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,26.142,26.863,23.122,,False,False,5955.38,15,Dutch Grand Prix
+VER,30.0,76.359,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,1.0,26.226,26.932,23.201,,False,False,6031.739,15,Dutch Grand Prix
+VER,31.0,76.553,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,1.0,26.209,27.097,23.247,,False,False,6108.292,15,Dutch Grand Prix
+VER,32.0,76.327,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,1.0,26.267,26.879,23.181,,False,False,6184.619,15,Dutch Grand Prix
+VER,33.0,76.269,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,26.132,26.968,23.169,,False,False,6260.888,15,Dutch Grand Prix
+VER,34.0,76.279,2.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,26.174,26.949,23.156,,False,False,6337.167,15,Dutch Grand Prix
+VER,35.0,76.334,2.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,26.167,26.98,23.187,,False,False,6413.501,15,Dutch Grand Prix
+VER,36.0,76.096,2.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,26.159,26.847,23.09,,False,False,6489.597,15,Dutch Grand Prix
+VER,37.0,76.102,2.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,26.183,26.825,23.094,,False,False,6565.699,15,Dutch Grand Prix
+VER,38.0,76.119,2.0,MEDIUM,20.0,1,True,Red Bull Racing,True,1.0,26.168,26.912,23.039,,False,False,6641.818,15,Dutch Grand Prix
+VER,39.0,76.035,2.0,MEDIUM,21.0,1,True,Red Bull Racing,True,1.0,26.161,26.834,23.04,,False,False,6717.853,15,Dutch Grand Prix
+VER,40.0,75.84,2.0,MEDIUM,22.0,1,True,Red Bull Racing,True,1.0,26.102,26.686,23.052,,False,False,6793.693,15,Dutch Grand Prix
+VER,41.0,76.097,2.0,MEDIUM,23.0,1,True,Red Bull Racing,True,1.0,26.228,26.808,23.061,,False,False,6869.79,15,Dutch Grand Prix
+VER,42.0,75.94,2.0,MEDIUM,24.0,1,True,Red Bull Racing,True,1.0,25.994,26.838,23.108,,False,False,6945.73,15,Dutch Grand Prix
+VER,43.0,76.578,2.0,MEDIUM,25.0,1,True,Red Bull Racing,True,1.0,26.208,27.136,23.234,,False,False,7022.308,15,Dutch Grand Prix
+VER,44.0,75.656,2.0,MEDIUM,26.0,12,True,Red Bull Racing,True,1.0,25.971,26.649,23.036,,False,False,7097.964,15,Dutch Grand Prix
+VER,45.0,77.222,2.0,MEDIUM,27.0,21,True,Red Bull Racing,True,1.0,27.294,26.744,23.184,,False,False,7175.186,15,Dutch Grand Prix
+VER,46.0,75.599,2.0,MEDIUM,28.0,1,True,Red Bull Racing,True,1.0,25.94,26.649,23.01,,False,False,7250.785,15,Dutch Grand Prix
+VER,47.0,75.756,2.0,MEDIUM,29.0,12,True,Red Bull Racing,True,1.0,26.003,26.712,23.041,,False,False,7326.541,15,Dutch Grand Prix
+VER,48.0,99.284,2.0,MEDIUM,30.0,26,False,Red Bull Racing,True,1.0,29.617,35.384,34.283,,True,False,7425.825,15,Dutch Grand Prix
+VER,49.0,121.445,3.0,HARD,1.0,6,False,Red Bull Racing,True,1.0,53.249,34.616,33.58,,False,True,7547.27,15,Dutch Grand Prix
+VER,50.0,83.226,3.0,HARD,2.0,671,False,Red Bull Racing,True,1.0,33.61,26.534,23.082,,False,False,7630.496,15,Dutch Grand Prix
+VER,51.0,74.454,3.0,HARD,3.0,1,True,Red Bull Racing,True,1.0,25.769,25.918,22.767,,False,False,7704.95,15,Dutch Grand Prix
+VER,52.0,74.649,3.0,HARD,4.0,1,True,Red Bull Racing,True,1.0,25.69,26.139,22.82,,False,False,7779.599,15,Dutch Grand Prix
+VER,53.0,74.445,3.0,HARD,5.0,1,True,Red Bull Racing,True,1.0,25.716,26.007,22.722,,False,False,7854.044,15,Dutch Grand Prix
+VER,54.0,74.54,3.0,HARD,6.0,1,True,Red Bull Racing,True,1.0,25.777,26.014,22.749,,False,False,7928.584,15,Dutch Grand Prix
+VER,55.0,74.843,3.0,HARD,7.0,12,True,Red Bull Racing,True,1.0,25.646,26.024,23.173,,False,False,8003.427,15,Dutch Grand Prix
+VER,56.0,86.101,3.0,HARD,8.0,24,False,Red Bull Racing,True,1.0,25.918,26.116,34.067,,True,False,8089.528,15,Dutch Grand Prix
+VER,57.0,154.609,4.0,SOFT,4.0,4,False,Red Bull Racing,False,3.0,57.359,46.375,50.875,,True,True,8244.137,15,Dutch Grand Prix
+VER,58.0,137.717,5.0,SOFT,5.0,4,False,Red Bull Racing,False,2.0,53.776,44.859,39.082,,False,True,8381.854,15,Dutch Grand Prix
+VER,59.0,127.225,5.0,SOFT,6.0,4,False,Red Bull Racing,False,2.0,45.17,45.196,36.859,,False,False,8509.079,15,Dutch Grand Prix
+VER,60.0,122.12,5.0,SOFT,7.0,41,False,Red Bull Racing,False,2.0,39.703,40.533,41.884,,False,False,8631.199,15,Dutch Grand Prix
+VER,61.0,73.682,5.0,SOFT,8.0,1,True,Red Bull Racing,False,1.0,25.454,25.782,22.446,,False,False,8704.881,15,Dutch Grand Prix
+VER,62.0,73.652,5.0,SOFT,9.0,1,True,Red Bull Racing,False,1.0,25.329,25.834,22.489,,False,False,8778.533,15,Dutch Grand Prix
+VER,63.0,73.78,5.0,SOFT,10.0,1,True,Red Bull Racing,False,1.0,25.372,25.938,22.47,,False,False,8852.313,15,Dutch Grand Prix
+VER,64.0,73.891,5.0,SOFT,11.0,1,True,Red Bull Racing,False,1.0,25.526,25.885,22.48,,False,False,8926.204,15,Dutch Grand Prix
+VER,65.0,73.929,5.0,SOFT,12.0,1,True,Red Bull Racing,False,1.0,25.408,26.04,22.481,,False,False,9000.133,15,Dutch Grand Prix
+VER,66.0,73.96,5.0,SOFT,13.0,1,True,Red Bull Racing,False,1.0,25.529,25.967,22.464,,False,False,9074.093,15,Dutch Grand Prix
+VER,67.0,73.968,5.0,SOFT,14.0,1,True,Red Bull Racing,False,1.0,25.442,26.025,22.501,,False,False,9148.061,15,Dutch Grand Prix
+VER,68.0,73.948,5.0,SOFT,15.0,1,True,Red Bull Racing,False,1.0,25.44,26.086,22.422,,False,False,9222.009,15,Dutch Grand Prix
+VER,69.0,74.027,5.0,SOFT,16.0,1,True,Red Bull Racing,False,1.0,25.417,26.06,22.55,,False,False,9296.036,15,Dutch Grand Prix
+VER,70.0,74.23,5.0,SOFT,17.0,1,True,Red Bull Racing,False,1.0,25.451,26.175,22.604,,False,False,9370.266,15,Dutch Grand Prix
+VER,71.0,74.352,5.0,SOFT,18.0,1,True,Red Bull Racing,False,1.0,25.537,26.141,22.674,,False,False,9444.618,15,Dutch Grand Prix
+VER,72.0,75.061,5.0,SOFT,19.0,1,True,Red Bull Racing,False,1.0,25.693,26.339,23.029,,False,False,9519.679,15,Dutch Grand Prix
+GAS,1.0,87.863,1.0,SOFT,4.0,1,False,AlphaTauri,False,12.0,,29.284,24.501,,False,False,3804.769,15,Dutch Grand Prix
+GAS,2.0,78.934,1.0,SOFT,5.0,12,True,AlphaTauri,False,12.0,27.099,27.968,23.867,,False,False,3883.703,15,Dutch Grand Prix
+GAS,3.0,78.139,1.0,SOFT,6.0,1,True,AlphaTauri,False,12.0,26.979,27.726,23.434,,False,False,3961.842,15,Dutch Grand Prix
+GAS,4.0,77.924,1.0,SOFT,7.0,12,True,AlphaTauri,False,12.0,26.864,27.574,23.486,,False,False,4039.766,15,Dutch Grand Prix
+GAS,5.0,78.002,1.0,SOFT,8.0,1,True,AlphaTauri,False,12.0,26.873,27.699,23.43,,False,False,4117.768,15,Dutch Grand Prix
+GAS,6.0,77.951,1.0,SOFT,9.0,1,True,AlphaTauri,False,12.0,26.89,27.691,23.37,,False,False,4195.719,15,Dutch Grand Prix
+GAS,7.0,78.279,1.0,SOFT,10.0,1,True,AlphaTauri,False,12.0,26.779,27.984,23.516,,False,False,4273.998,15,Dutch Grand Prix
+GAS,8.0,78.183,1.0,SOFT,11.0,1,True,AlphaTauri,False,12.0,26.915,27.783,23.485,,False,False,4352.181,15,Dutch Grand Prix
+GAS,9.0,78.708,1.0,SOFT,12.0,1,True,AlphaTauri,False,12.0,26.685,28.243,23.78,,False,False,4430.889,15,Dutch Grand Prix
+GAS,10.0,79.466,1.0,SOFT,13.0,1,True,AlphaTauri,False,13.0,27.559,28.029,23.878,,False,False,4510.355,15,Dutch Grand Prix
+GAS,11.0,82.423,1.0,SOFT,14.0,1,False,AlphaTauri,False,16.0,27.358,28.106,26.959,,True,False,4592.778,15,Dutch Grand Prix
+GAS,12.0,96.059,2.0,MEDIUM,2.0,1,False,AlphaTauri,False,18.0,44.995,27.481,23.583,,False,True,4688.837,15,Dutch Grand Prix
+GAS,13.0,77.281,2.0,MEDIUM,3.0,1,True,AlphaTauri,False,17.0,26.495,27.126,23.66,,False,False,4766.118,15,Dutch Grand Prix
+GAS,14.0,77.838,2.0,MEDIUM,4.0,1,True,AlphaTauri,False,15.0,26.68,27.877,23.281,,False,False,4843.956,15,Dutch Grand Prix
+GAS,15.0,77.327,2.0,MEDIUM,5.0,1,True,AlphaTauri,False,14.0,26.709,27.43,23.188,,False,False,4921.283,15,Dutch Grand Prix
+GAS,16.0,77.315,2.0,MEDIUM,6.0,1,True,AlphaTauri,False,14.0,26.626,27.306,23.383,,False,False,4998.598,15,Dutch Grand Prix
+GAS,17.0,77.23,2.0,MEDIUM,7.0,1,True,AlphaTauri,False,13.0,26.529,27.334,23.367,,False,False,5075.828,15,Dutch Grand Prix
+GAS,18.0,77.488,2.0,MEDIUM,8.0,1,True,AlphaTauri,False,13.0,26.744,27.402,23.342,,False,False,5153.316,15,Dutch Grand Prix
+GAS,19.0,77.88,2.0,MEDIUM,9.0,1,True,AlphaTauri,False,13.0,26.654,27.667,23.559,,False,False,5231.196,15,Dutch Grand Prix
+GAS,20.0,77.515,2.0,MEDIUM,10.0,1,True,AlphaTauri,False,13.0,26.575,27.575,23.365,,False,False,5308.711,15,Dutch Grand Prix
+GAS,21.0,77.43,2.0,MEDIUM,11.0,1,True,AlphaTauri,False,13.0,26.731,27.469,23.23,,False,False,5386.141,15,Dutch Grand Prix
+GAS,22.0,77.577,2.0,MEDIUM,12.0,1,True,AlphaTauri,False,12.0,26.707,27.504,23.366,,False,False,5463.718,15,Dutch Grand Prix
+GAS,23.0,78.094,2.0,MEDIUM,13.0,1,True,AlphaTauri,False,12.0,26.798,27.627,23.669,,False,False,5541.812,15,Dutch Grand Prix
+GAS,24.0,78.168,2.0,MEDIUM,14.0,1,True,AlphaTauri,False,12.0,26.715,27.642,23.811,,False,False,5619.98,15,Dutch Grand Prix
+GAS,25.0,77.816,2.0,MEDIUM,15.0,1,True,AlphaTauri,False,12.0,26.609,27.594,23.613,,False,False,5697.796,15,Dutch Grand Prix
+GAS,26.0,77.719,2.0,MEDIUM,16.0,1,True,AlphaTauri,False,12.0,26.607,27.532,23.58,,False,False,5775.515,15,Dutch Grand Prix
+GAS,27.0,77.716,2.0,MEDIUM,17.0,1,True,AlphaTauri,False,12.0,26.701,27.341,23.674,,False,False,5853.231,15,Dutch Grand Prix
+GAS,28.0,77.656,2.0,MEDIUM,18.0,1,True,AlphaTauri,False,12.0,26.496,27.499,23.661,,False,False,5930.887,15,Dutch Grand Prix
+GAS,29.0,77.881,2.0,MEDIUM,19.0,1,True,AlphaTauri,False,12.0,26.755,27.513,23.613,,False,False,6008.768,15,Dutch Grand Prix
+GAS,30.0,77.728,2.0,MEDIUM,20.0,1,True,AlphaTauri,False,12.0,26.527,27.57,23.631,,False,False,6086.496,15,Dutch Grand Prix
+GAS,31.0,77.898,2.0,MEDIUM,21.0,1,True,AlphaTauri,False,12.0,26.689,27.567,23.642,,False,False,6164.394,15,Dutch Grand Prix
+GAS,32.0,80.952,2.0,MEDIUM,22.0,1,False,AlphaTauri,False,13.0,26.53,27.493,26.929,,True,False,6245.346,15,Dutch Grand Prix
+GAS,33.0,95.8,3.0,HARD,2.0,1,False,AlphaTauri,False,18.0,44.971,27.13,23.699,,False,True,6341.146,15,Dutch Grand Prix
+GAS,34.0,76.565,3.0,HARD,3.0,1,True,AlphaTauri,False,17.0,26.37,26.813,23.382,,False,False,6417.711,15,Dutch Grand Prix
+GAS,35.0,76.53,3.0,HARD,4.0,1,True,AlphaTauri,False,15.0,26.265,26.852,23.413,,False,False,6494.241,15,Dutch Grand Prix
+GAS,36.0,76.609,3.0,HARD,5.0,1,True,AlphaTauri,False,14.0,26.215,26.989,23.405,,False,False,6570.85,15,Dutch Grand Prix
+GAS,37.0,76.502,3.0,HARD,6.0,1,True,AlphaTauri,False,14.0,26.207,26.917,23.378,,False,False,6647.352,15,Dutch Grand Prix
+GAS,38.0,76.445,3.0,HARD,7.0,1,True,AlphaTauri,False,13.0,26.25,26.853,23.342,,False,False,6723.797,15,Dutch Grand Prix
+GAS,39.0,76.327,3.0,HARD,8.0,1,True,AlphaTauri,False,13.0,26.21,26.858,23.259,,False,False,6800.124,15,Dutch Grand Prix
+GAS,40.0,76.398,3.0,HARD,9.0,1,True,AlphaTauri,False,13.0,26.209,26.917,23.272,,False,False,6876.522,15,Dutch Grand Prix
+GAS,41.0,76.362,3.0,HARD,10.0,1,True,AlphaTauri,False,13.0,26.172,26.869,23.321,,False,False,6952.884,15,Dutch Grand Prix
+GAS,42.0,76.261,3.0,HARD,11.0,1,True,AlphaTauri,False,13.0,26.175,26.867,23.219,,False,False,7029.145,15,Dutch Grand Prix
+GAS,43.0,76.122,3.0,HARD,12.0,12,True,AlphaTauri,False,11.0,26.065,26.826,23.231,,False,False,7105.267,15,Dutch Grand Prix
+GAS,44.0,76.861,3.0,HARD,13.0,21,True,AlphaTauri,False,11.0,26.396,27.065,23.4,,False,False,7182.128,15,Dutch Grand Prix
+GAS,45.0,76.461,3.0,HARD,14.0,1,True,AlphaTauri,False,11.0,26.379,26.781,23.301,,False,False,7258.589,15,Dutch Grand Prix
+GAS,46.0,76.11,3.0,HARD,15.0,12,True,AlphaTauri,False,11.0,26.212,26.739,23.159,,False,False,7334.699,15,Dutch Grand Prix
+GAS,47.0,98.536,3.0,HARD,16.0,26,False,AlphaTauri,False,11.0,32.893,35.448,30.195,,False,False,7433.235,15,Dutch Grand Prix
+GAS,48.0,103.678,3.0,HARD,17.0,6,False,AlphaTauri,False,11.0,35.806,36.909,30.963,,False,False,7536.913,15,Dutch Grand Prix
+GAS,49.0,87.842,3.0,HARD,18.0,671,False,AlphaTauri,False,11.0,35.532,28.825,23.485,,False,False,7624.755,15,Dutch Grand Prix
+GAS,50.0,76.502,3.0,HARD,19.0,1,True,AlphaTauri,False,11.0,26.42,26.845,23.237,,False,False,7701.257,15,Dutch Grand Prix
+GAS,51.0,76.212,3.0,HARD,20.0,1,True,AlphaTauri,False,11.0,26.165,26.748,23.299,,False,False,7777.469,15,Dutch Grand Prix
+GAS,52.0,76.614,3.0,HARD,21.0,1,True,AlphaTauri,False,11.0,26.297,26.876,23.441,,False,False,7854.083,15,Dutch Grand Prix
+GAS,53.0,77.55,3.0,HARD,22.0,1,True,AlphaTauri,False,11.0,26.969,27.241,23.34,,False,False,7931.633,15,Dutch Grand Prix
+GAS,54.0,76.337,3.0,HARD,23.0,12,True,AlphaTauri,False,11.0,26.267,26.85,23.22,,False,False,8007.97,15,Dutch Grand Prix
+GAS,55.0,85.599,3.0,HARD,24.0,24,False,AlphaTauri,False,11.0,26.239,26.918,32.442,,False,False,8093.569,15,Dutch Grand Prix
+GAS,56.0,105.276,3.0,HARD,25.0,4,False,AlphaTauri,False,11.0,35.549,37.45,32.277,,True,False,8198.845,15,Dutch Grand Prix
+GAS,57.0,103.309,4.0,SOFT,1.0,4,False,AlphaTauri,True,11.0,46.236,28.742,28.331,,True,True,8302.154,15,Dutch Grand Prix
+GAS,58.0,103.163,5.0,SOFT,2.0,4,False,AlphaTauri,False,11.0,41.256,28.85,33.057,,False,True,8405.317,15,Dutch Grand Prix
+GAS,59.0,119.427,5.0,SOFT,3.0,4,False,AlphaTauri,False,11.0,38.908,42.452,38.067,,False,False,8524.744,15,Dutch Grand Prix
+GAS,60.0,110.689,5.0,SOFT,4.0,41,False,AlphaTauri,False,11.0,39.34,36.319,35.03,,False,False,8635.433,15,Dutch Grand Prix
+GAS,61.0,76.671,5.0,SOFT,5.0,1,True,AlphaTauri,False,11.0,26.546,26.702,23.423,,False,False,8712.104,15,Dutch Grand Prix
+GAS,62.0,76.206,5.0,SOFT,6.0,1,True,AlphaTauri,False,11.0,26.116,27.045,23.045,,False,False,8788.31,15,Dutch Grand Prix
+GAS,63.0,75.17,5.0,SOFT,7.0,1,True,AlphaTauri,False,11.0,25.86,26.507,22.803,,False,False,8863.48,15,Dutch Grand Prix
+GAS,64.0,75.324,5.0,SOFT,8.0,1,True,AlphaTauri,False,11.0,25.922,26.673,22.729,,False,False,8938.804,15,Dutch Grand Prix
+GAS,65.0,75.165,5.0,SOFT,9.0,1,True,AlphaTauri,False,11.0,25.777,26.688,22.7,,False,False,9013.969,15,Dutch Grand Prix
+GAS,66.0,75.171,5.0,SOFT,10.0,1,True,AlphaTauri,False,11.0,25.827,26.577,22.767,,False,False,9089.14,15,Dutch Grand Prix
+GAS,67.0,75.548,5.0,SOFT,11.0,1,True,AlphaTauri,False,11.0,25.963,26.711,22.874,,False,False,9164.688,15,Dutch Grand Prix
+GAS,68.0,76.116,5.0,SOFT,12.0,1,True,AlphaTauri,False,11.0,25.927,26.881,23.308,,False,False,9240.804,15,Dutch Grand Prix
+GAS,69.0,75.966,5.0,SOFT,13.0,1,True,AlphaTauri,False,11.0,26.007,26.855,23.104,,False,False,9316.77,15,Dutch Grand Prix
+GAS,70.0,76.27,5.0,SOFT,14.0,1,True,AlphaTauri,False,11.0,26.228,26.861,23.181,,False,False,9393.04,15,Dutch Grand Prix
+GAS,71.0,76.947,5.0,SOFT,15.0,1,True,AlphaTauri,False,11.0,26.276,27.412,23.259,,False,False,9469.987,15,Dutch Grand Prix
+GAS,72.0,76.701,5.0,SOFT,16.0,1,True,AlphaTauri,False,11.0,26.276,27.135,23.29,,False,False,9546.688,15,Dutch Grand Prix
+PER,1.0,83.729,1.0,SOFT,6.0,1,False,Red Bull Racing,False,5.0,,27.83,23.778,,False,False,3800.635,15,Dutch Grand Prix
+PER,2.0,77.045,1.0,SOFT,7.0,12,True,Red Bull Racing,False,5.0,26.472,27.036,23.537,,False,False,3877.68,15,Dutch Grand Prix
+PER,3.0,77.127,1.0,SOFT,8.0,1,True,Red Bull Racing,False,5.0,26.462,27.167,23.498,,False,False,3954.807,15,Dutch Grand Prix
+PER,4.0,76.901,1.0,SOFT,9.0,12,True,Red Bull Racing,False,5.0,26.422,27.083,23.396,,False,False,4031.708,15,Dutch Grand Prix
+PER,5.0,76.873,1.0,SOFT,10.0,1,True,Red Bull Racing,False,5.0,26.346,27.116,23.411,,False,False,4108.581,15,Dutch Grand Prix
+PER,6.0,76.796,1.0,SOFT,11.0,1,True,Red Bull Racing,False,5.0,26.262,27.16,23.374,,False,False,4185.377,15,Dutch Grand Prix
+PER,7.0,77.028,1.0,SOFT,12.0,1,True,Red Bull Racing,False,5.0,26.286,27.315,23.427,,False,False,4262.405,15,Dutch Grand Prix
+PER,8.0,76.868,1.0,SOFT,13.0,1,True,Red Bull Racing,False,5.0,26.232,27.338,23.298,,False,False,4339.273,15,Dutch Grand Prix
+PER,9.0,77.147,1.0,SOFT,14.0,1,True,Red Bull Racing,False,5.0,26.285,27.452,23.41,,False,False,4416.42,15,Dutch Grand Prix
+PER,10.0,77.452,1.0,SOFT,15.0,1,True,Red Bull Racing,False,5.0,26.358,27.629,23.465,,False,False,4493.872,15,Dutch Grand Prix
+PER,11.0,77.563,1.0,SOFT,16.0,1,True,Red Bull Racing,False,5.0,26.394,27.619,23.55,,False,False,4571.435,15,Dutch Grand Prix
+PER,12.0,77.521,1.0,SOFT,17.0,1,True,Red Bull Racing,False,5.0,26.364,27.656,23.501,,False,False,4648.956,15,Dutch Grand Prix
+PER,13.0,77.499,1.0,SOFT,18.0,1,True,Red Bull Racing,False,5.0,26.427,27.611,23.461,,False,False,4726.455,15,Dutch Grand Prix
+PER,14.0,80.281,1.0,SOFT,19.0,1,False,Red Bull Racing,False,6.0,26.441,27.477,26.363,,True,False,4806.736,15,Dutch Grand Prix
+PER,15.0,94.641,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,8.0,44.546,26.667,23.428,,False,True,4901.377,15,Dutch Grand Prix
+PER,16.0,76.419,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,8.0,26.508,26.669,23.242,,False,False,4977.796,15,Dutch Grand Prix
+PER,17.0,76.497,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,7.0,26.248,26.839,23.41,,False,False,5054.293,15,Dutch Grand Prix
+PER,18.0,76.417,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,5.0,26.204,26.829,23.384,,False,False,5130.71,15,Dutch Grand Prix
+PER,19.0,76.138,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,5.0,26.163,26.787,23.188,,False,False,5206.848,15,Dutch Grand Prix
+PER,20.0,76.22,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,5.0,26.137,26.866,23.217,,False,False,5283.068,15,Dutch Grand Prix
+PER,21.0,76.026,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,5.0,26.074,26.744,23.208,,False,False,5359.094,15,Dutch Grand Prix
+PER,22.0,76.405,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,5.0,26.142,26.935,23.328,,False,False,5435.499,15,Dutch Grand Prix
+PER,23.0,76.24,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,5.0,26.236,26.86,23.144,,False,False,5511.739,15,Dutch Grand Prix
+PER,24.0,76.569,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,5.0,26.326,26.976,23.267,,False,False,5588.308,15,Dutch Grand Prix
+PER,25.0,76.366,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,5.0,26.212,26.919,23.235,,False,False,5664.674,15,Dutch Grand Prix
+PER,26.0,76.192,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,5.0,26.157,26.881,23.154,,False,False,5740.866,15,Dutch Grand Prix
+PER,27.0,76.299,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,5.0,26.149,26.96,23.19,,False,False,5817.165,15,Dutch Grand Prix
+PER,28.0,76.251,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,5.0,26.139,26.867,23.245,,False,False,5893.416,15,Dutch Grand Prix
+PER,29.0,76.394,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,5.0,26.123,27.064,23.207,,False,False,5969.81,15,Dutch Grand Prix
+PER,30.0,76.585,2.0,MEDIUM,16.0,1,True,Red Bull Racing,True,4.0,26.101,27.12,23.364,,False,False,6046.395,15,Dutch Grand Prix
+PER,31.0,76.805,2.0,MEDIUM,17.0,1,True,Red Bull Racing,True,4.0,26.277,27.22,23.308,,False,False,6123.2,15,Dutch Grand Prix
+PER,32.0,76.921,2.0,MEDIUM,18.0,1,True,Red Bull Racing,True,3.0,26.25,27.267,23.404,,False,False,6200.121,15,Dutch Grand Prix
+PER,33.0,76.651,2.0,MEDIUM,19.0,1,True,Red Bull Racing,True,3.0,26.257,27.199,23.195,,False,False,6276.772,15,Dutch Grand Prix
+PER,34.0,76.669,2.0,MEDIUM,20.0,1,True,Red Bull Racing,True,3.0,26.156,27.189,23.324,,False,False,6353.441,15,Dutch Grand Prix
+PER,35.0,76.871,2.0,MEDIUM,21.0,1,True,Red Bull Racing,True,3.0,26.216,27.375,23.28,,False,False,6430.312,15,Dutch Grand Prix
+PER,36.0,77.613,2.0,MEDIUM,22.0,1,True,Red Bull Racing,True,3.0,26.626,27.218,23.769,,False,False,6507.925,15,Dutch Grand Prix
+PER,37.0,79.807,2.0,MEDIUM,23.0,1,True,Red Bull Racing,True,4.0,27.772,28.375,23.66,,False,False,6587.732,15,Dutch Grand Prix
+PER,38.0,76.862,2.0,MEDIUM,24.0,1,True,Red Bull Racing,True,4.0,26.233,27.272,23.357,,False,False,6664.594,15,Dutch Grand Prix
+PER,39.0,77.718,2.0,MEDIUM,25.0,1,True,Red Bull Racing,True,5.0,27.044,27.383,23.291,,False,False,6742.312,15,Dutch Grand Prix
+PER,40.0,79.441,2.0,MEDIUM,26.0,1,False,Red Bull Racing,True,5.0,26.198,27.157,26.086,,True,False,6821.753,15,Dutch Grand Prix
+PER,41.0,94.088,3.0,HARD,1.0,1,False,Red Bull Racing,True,7.0,44.799,26.26,23.029,,False,True,6915.841,15,Dutch Grand Prix
+PER,42.0,74.93,3.0,HARD,2.0,1,True,Red Bull Racing,True,7.0,25.864,26.352,22.714,,False,False,6990.771,15,Dutch Grand Prix
+PER,43.0,76.586,3.0,HARD,3.0,1,True,Red Bull Racing,True,7.0,26.523,26.914,23.149,,False,False,7067.357,15,Dutch Grand Prix
+PER,44.0,75.729,3.0,HARD,4.0,12,True,Red Bull Racing,True,5.0,26.296,26.383,23.05,,False,False,7143.086,15,Dutch Grand Prix
+PER,45.0,75.111,3.0,HARD,5.0,1,True,Red Bull Racing,True,5.0,25.916,26.264,22.931,,False,False,7218.197,15,Dutch Grand Prix
+PER,46.0,75.096,3.0,HARD,6.0,1,True,Red Bull Racing,True,5.0,25.929,26.326,22.841,,False,False,7293.293,15,Dutch Grand Prix
+PER,47.0,88.798,3.0,HARD,7.0,126,False,Red Bull Racing,True,5.0,25.933,26.54,36.325,,False,False,7382.091,15,Dutch Grand Prix
+PER,48.0,100.716,3.0,HARD,8.0,6,False,Red Bull Racing,True,5.0,34.082,34.135,32.499,,False,False,7482.807,15,Dutch Grand Prix
+PER,49.0,99.65,3.0,HARD,9.0,671,False,Red Bull Racing,True,5.0,36.037,34.291,29.322,,False,False,7582.457,15,Dutch Grand Prix
+PER,50.0,75.777,3.0,HARD,10.0,1,True,Red Bull Racing,True,5.0,26.369,26.306,23.102,,False,False,7658.234,15,Dutch Grand Prix
+PER,51.0,74.908,3.0,HARD,11.0,1,True,Red Bull Racing,True,5.0,25.811,26.228,22.869,,False,False,7733.142,15,Dutch Grand Prix
+PER,52.0,75.118,3.0,HARD,12.0,1,True,Red Bull Racing,True,5.0,25.852,26.348,22.918,,False,False,7808.26,15,Dutch Grand Prix
+PER,53.0,75.121,3.0,HARD,13.0,1,True,Red Bull Racing,True,5.0,25.781,26.413,22.927,,False,False,7883.381,15,Dutch Grand Prix
+PER,54.0,75.606,3.0,HARD,14.0,1,True,Red Bull Racing,True,5.0,25.851,26.809,22.946,,False,False,7958.987,15,Dutch Grand Prix
+PER,55.0,75.107,3.0,HARD,15.0,12,True,Red Bull Racing,True,5.0,25.758,26.366,22.983,,False,False,8034.094,15,Dutch Grand Prix
+PER,56.0,96.708,3.0,HARD,16.0,24,False,Red Bull Racing,True,5.0,25.894,37.312,33.502,,True,False,8130.802,15,Dutch Grand Prix
+PER,57.0,127.915,4.0,MEDIUM,1.0,4,False,Red Bull Racing,True,5.0,54.391,36.961,36.563,,True,True,8258.717,15,Dutch Grand Prix
+PER,58.0,131.362,5.0,MEDIUM,2.0,4,False,Red Bull Racing,False,5.0,47.3,45.912,38.15,,False,True,8390.079,15,Dutch Grand Prix
+PER,59.0,123.497,5.0,MEDIUM,3.0,4,False,Red Bull Racing,False,5.0,41.98,45.346,36.171,,False,False,8513.576,15,Dutch Grand Prix
+PER,60.0,119.266,5.0,MEDIUM,4.0,41,False,Red Bull Racing,False,5.0,38.861,40.866,39.539,,False,False,8632.842,15,Dutch Grand Prix
+PER,61.0,76.569,5.0,MEDIUM,5.0,1,True,Red Bull Racing,False,6.0,26.858,26.69,23.021,,False,False,8709.411,15,Dutch Grand Prix
+PER,62.0,74.841,5.0,MEDIUM,6.0,1,True,Red Bull Racing,False,6.0,25.888,26.19,22.763,,False,False,8784.252,15,Dutch Grand Prix
+PER,63.0,74.404,5.0,MEDIUM,7.0,1,True,Red Bull Racing,False,6.0,25.83,25.97,22.604,,False,False,8858.656,15,Dutch Grand Prix
+PER,64.0,74.992,5.0,MEDIUM,8.0,1,True,Red Bull Racing,False,6.0,25.892,26.457,22.643,,False,False,8933.648,15,Dutch Grand Prix
+PER,65.0,75.028,5.0,MEDIUM,9.0,1,True,Red Bull Racing,False,6.0,26.068,26.401,22.559,,False,False,9008.676,15,Dutch Grand Prix
+PER,66.0,75.198,5.0,MEDIUM,10.0,1,True,Red Bull Racing,False,6.0,26.02,26.479,22.699,,False,False,9083.874,15,Dutch Grand Prix
+PER,67.0,75.436,5.0,MEDIUM,11.0,1,True,Red Bull Racing,False,6.0,26.369,26.511,22.556,,False,False,9159.31,15,Dutch Grand Prix
+PER,68.0,75.9,5.0,MEDIUM,12.0,1,True,Red Bull Racing,False,6.0,26.48,26.608,22.812,,False,False,9235.21,15,Dutch Grand Prix
+PER,69.0,75.126,5.0,MEDIUM,13.0,1,True,Red Bull Racing,False,6.0,25.845,26.51,22.771,,False,False,9310.336,15,Dutch Grand Prix
+PER,70.0,76.759,5.0,MEDIUM,14.0,1,True,Red Bull Racing,False,6.0,27.019,26.593,23.147,,False,False,9387.095,15,Dutch Grand Prix
+PER,71.0,75.403,5.0,MEDIUM,15.0,1,True,Red Bull Racing,False,6.0,25.916,26.479,23.008,,False,False,9462.498,15,Dutch Grand Prix
+PER,72.0,75.349,5.0,MEDIUM,16.0,1,True,Red Bull Racing,False,6.0,25.78,26.611,22.958,,False,False,9537.847,15,Dutch Grand Prix
+ALO,1.0,87.995,1.0,SOFT,1.0,1,False,Alpine,True,13.0,,29.186,24.407,,False,False,3804.901,15,Dutch Grand Prix
+ALO,2.0,79.093,1.0,SOFT,2.0,12,True,Alpine,True,13.0,27.274,27.983,23.836,,False,False,3883.994,15,Dutch Grand Prix
+ALO,3.0,78.214,1.0,SOFT,3.0,1,True,Alpine,True,13.0,27.176,27.606,23.432,,False,False,3962.208,15,Dutch Grand Prix
+ALO,4.0,78.132,1.0,SOFT,4.0,12,True,Alpine,True,13.0,26.89,27.716,23.526,,False,False,4040.34,15,Dutch Grand Prix
+ALO,5.0,78.008,1.0,SOFT,5.0,1,True,Alpine,True,13.0,26.873,27.696,23.439,,False,False,4118.348,15,Dutch Grand Prix
+ALO,6.0,78.155,1.0,SOFT,6.0,1,True,Alpine,True,13.0,26.712,27.848,23.595,,False,False,4196.503,15,Dutch Grand Prix
+ALO,7.0,77.75,1.0,SOFT,7.0,1,True,Alpine,True,13.0,26.542,27.844,23.364,,False,False,4274.253,15,Dutch Grand Prix
+ALO,8.0,78.609,1.0,SOFT,8.0,1,True,Alpine,True,13.0,27.391,27.704,23.514,,False,False,4352.862,15,Dutch Grand Prix
+ALO,9.0,78.057,1.0,SOFT,9.0,1,True,Alpine,True,13.0,26.488,28.026,23.543,,False,False,4430.919,15,Dutch Grand Prix
+ALO,10.0,77.51,1.0,SOFT,10.0,1,True,Alpine,True,12.0,26.662,27.459,23.389,,False,False,4508.429,15,Dutch Grand Prix
+ALO,11.0,78.22,1.0,SOFT,11.0,1,True,Alpine,True,12.0,27.082,27.773,23.365,,False,False,4586.649,15,Dutch Grand Prix
+ALO,12.0,80.795,1.0,SOFT,12.0,1,False,Alpine,True,12.0,26.758,27.526,26.511,,True,False,4667.444,15,Dutch Grand Prix
+ALO,13.0,96.116,2.0,HARD,1.0,1,False,Alpine,True,16.0,45.604,26.921,23.591,,False,True,4763.56,15,Dutch Grand Prix
+ALO,14.0,76.932,2.0,HARD,2.0,1,True,Alpine,True,13.0,26.494,26.98,23.458,,False,False,4840.492,15,Dutch Grand Prix
+ALO,15.0,76.6,2.0,HARD,3.0,1,True,Alpine,True,12.0,26.389,26.818,23.393,,False,False,4917.092,15,Dutch Grand Prix
+ALO,16.0,76.558,2.0,HARD,4.0,1,True,Alpine,True,12.0,26.223,26.969,23.366,,False,False,4993.65,15,Dutch Grand Prix
+ALO,17.0,76.813,2.0,HARD,5.0,1,True,Alpine,True,11.0,26.238,27.106,23.469,,False,False,5070.463,15,Dutch Grand Prix
+ALO,18.0,76.635,2.0,HARD,6.0,1,True,Alpine,True,11.0,26.326,26.974,23.335,,False,False,5147.098,15,Dutch Grand Prix
+ALO,19.0,76.692,2.0,HARD,7.0,1,True,Alpine,True,10.0,26.217,27.093,23.382,,False,False,5223.79,15,Dutch Grand Prix
+ALO,20.0,76.901,2.0,HARD,8.0,1,True,Alpine,True,10.0,26.392,27.06,23.449,,False,False,5300.691,15,Dutch Grand Prix
+ALO,21.0,77.002,2.0,HARD,9.0,1,True,Alpine,True,10.0,26.31,27.191,23.501,,False,False,5377.693,15,Dutch Grand Prix
+ALO,22.0,77.163,2.0,HARD,10.0,1,True,Alpine,True,9.0,26.415,27.334,23.414,,False,False,5454.856,15,Dutch Grand Prix
+ALO,23.0,77.098,2.0,HARD,11.0,1,True,Alpine,True,9.0,26.302,27.361,23.435,,False,False,5531.954,15,Dutch Grand Prix
+ALO,24.0,76.845,2.0,HARD,12.0,1,True,Alpine,True,9.0,26.257,27.136,23.452,,False,False,5608.799,15,Dutch Grand Prix
+ALO,25.0,76.945,2.0,HARD,13.0,1,True,Alpine,True,9.0,26.346,27.319,23.28,,False,False,5685.744,15,Dutch Grand Prix
+ALO,26.0,77.04,2.0,HARD,14.0,1,True,Alpine,True,9.0,26.268,27.312,23.46,,False,False,5762.784,15,Dutch Grand Prix
+ALO,27.0,77.155,2.0,HARD,15.0,1,True,Alpine,True,9.0,26.386,27.247,23.522,,False,False,5839.939,15,Dutch Grand Prix
+ALO,28.0,77.149,2.0,HARD,16.0,1,True,Alpine,True,9.0,26.357,27.274,23.518,,False,False,5917.088,15,Dutch Grand Prix
+ALO,29.0,77.215,2.0,HARD,17.0,1,True,Alpine,True,9.0,26.358,27.404,23.453,,False,False,5994.303,15,Dutch Grand Prix
+ALO,30.0,76.866,2.0,HARD,18.0,1,True,Alpine,True,9.0,26.243,27.227,23.396,,False,False,6071.169,15,Dutch Grand Prix
+ALO,31.0,77.158,2.0,HARD,19.0,1,True,Alpine,True,9.0,26.309,27.482,23.367,,False,False,6148.327,15,Dutch Grand Prix
+ALO,32.0,77.236,2.0,HARD,20.0,1,True,Alpine,True,9.0,26.342,27.325,23.569,,False,False,6225.563,15,Dutch Grand Prix
+ALO,33.0,77.034,2.0,HARD,21.0,1,True,Alpine,True,9.0,26.314,27.27,23.45,,False,False,6302.597,15,Dutch Grand Prix
+ALO,34.0,76.942,2.0,HARD,22.0,1,True,Alpine,True,9.0,26.358,27.159,23.425,,False,False,6379.539,15,Dutch Grand Prix
+ALO,35.0,76.682,2.0,HARD,23.0,1,True,Alpine,True,9.0,26.226,27.14,23.316,,False,False,6456.221,15,Dutch Grand Prix
+ALO,36.0,77.2,2.0,HARD,24.0,1,True,Alpine,True,9.0,26.425,27.284,23.491,,False,False,6533.421,15,Dutch Grand Prix
+ALO,37.0,76.949,2.0,HARD,25.0,1,True,Alpine,True,9.0,26.238,27.269,23.442,,False,False,6610.37,15,Dutch Grand Prix
+ALO,38.0,76.736,2.0,HARD,26.0,1,True,Alpine,True,8.0,26.281,27.255,23.2,,False,False,6687.106,15,Dutch Grand Prix
+ALO,39.0,76.659,2.0,HARD,27.0,1,True,Alpine,True,8.0,26.034,27.202,23.423,,False,False,6763.765,15,Dutch Grand Prix
+ALO,40.0,76.509,2.0,HARD,28.0,1,True,Alpine,True,8.0,26.143,27.102,23.264,,False,False,6840.274,15,Dutch Grand Prix
+ALO,41.0,77.495,2.0,HARD,29.0,1,True,Alpine,True,8.0,26.605,27.555,23.335,,False,False,6917.769,15,Dutch Grand Prix
+ALO,42.0,76.78,2.0,HARD,30.0,1,True,Alpine,True,8.0,26.385,27.072,23.323,,False,False,6994.549,15,Dutch Grand Prix
+ALO,43.0,76.525,2.0,HARD,31.0,1,True,Alpine,True,8.0,26.094,27.039,23.392,,False,False,7071.074,15,Dutch Grand Prix
+ALO,44.0,77.665,2.0,HARD,32.0,12,True,Alpine,True,7.0,26.758,27.414,23.493,,False,False,7148.739,15,Dutch Grand Prix
+ALO,45.0,76.837,2.0,HARD,33.0,1,True,Alpine,True,7.0,26.198,27.201,23.438,,False,False,7225.576,15,Dutch Grand Prix
+ALO,46.0,76.984,2.0,HARD,34.0,1,True,Alpine,True,7.0,26.184,27.318,23.482,,False,False,7302.56,15,Dutch Grand Prix
+ALO,47.0,91.663,2.0,HARD,35.0,126,False,Alpine,True,7.0,26.641,30.718,34.304,,True,False,7394.223,15,Dutch Grand Prix
+ALO,48.0,122.283,3.0,SOFT,1.0,6,False,Alpine,True,9.0,55.361,35.291,31.631,,False,True,7516.506,15,Dutch Grand Prix
+ALO,49.0,91.621,3.0,SOFT,2.0,671,False,Alpine,True,9.0,35.445,33.206,22.97,,False,False,7608.127,15,Dutch Grand Prix
+ALO,50.0,74.563,3.0,SOFT,3.0,1,True,Alpine,True,9.0,25.829,26.164,22.57,,False,False,7682.69,15,Dutch Grand Prix
+ALO,51.0,74.144,3.0,SOFT,4.0,1,True,Alpine,True,9.0,25.519,26.128,22.497,,False,False,7756.834,15,Dutch Grand Prix
+ALO,52.0,74.753,3.0,SOFT,5.0,1,True,Alpine,True,9.0,25.612,26.598,22.543,,False,False,7831.587,15,Dutch Grand Prix
+ALO,53.0,76.825,3.0,SOFT,6.0,1,True,Alpine,True,9.0,26.765,27.054,23.006,,False,False,7908.412,15,Dutch Grand Prix
+ALO,54.0,75.798,3.0,SOFT,7.0,12,True,Alpine,True,9.0,25.871,26.838,23.089,,False,False,7984.21,15,Dutch Grand Prix
+ALO,55.0,76.327,3.0,SOFT,8.0,24,False,Alpine,True,9.0,26.215,26.977,23.135,,False,False,8060.537,15,Dutch Grand Prix
+ALO,56.0,107.112,3.0,SOFT,9.0,4,False,Alpine,True,8.0,38.758,36.217,32.137,,False,False,8167.649,15,Dutch Grand Prix
+ALO,57.0,107.501,3.0,SOFT,10.0,4,False,Alpine,True,8.0,39.25,31.932,36.319,,True,False,8275.15,15,Dutch Grand Prix
+ALO,58.0,119.751,4.0,SOFT,11.0,4,False,Alpine,False,7.0,46.365,35.548,37.838,,False,True,8394.901,15,Dutch Grand Prix
+ALO,59.0,121.609,4.0,SOFT,12.0,4,False,Alpine,False,7.0,41.41,43.748,36.451,,False,False,8516.51,15,Dutch Grand Prix
+ALO,60.0,116.977,4.0,SOFT,13.0,41,False,Alpine,False,7.0,39.193,40.123,37.661,,False,False,8633.487,15,Dutch Grand Prix
+ALO,61.0,76.619,4.0,SOFT,14.0,1,True,Alpine,False,7.0,26.493,27.031,23.095,,False,False,8710.106,15,Dutch Grand Prix
+ALO,62.0,75.147,4.0,SOFT,15.0,1,True,Alpine,False,7.0,25.932,26.444,22.771,,False,False,8785.253,15,Dutch Grand Prix
+ALO,63.0,75.032,4.0,SOFT,16.0,1,True,Alpine,False,7.0,25.749,26.471,22.812,,False,False,8860.285,15,Dutch Grand Prix
+ALO,64.0,74.971,4.0,SOFT,17.0,1,True,Alpine,False,7.0,25.803,26.436,22.732,,False,False,8935.256,15,Dutch Grand Prix
+ALO,65.0,75.153,4.0,SOFT,18.0,1,True,Alpine,False,7.0,25.888,26.495,22.77,,False,False,9010.409,15,Dutch Grand Prix
+ALO,66.0,75.112,4.0,SOFT,19.0,1,True,Alpine,False,7.0,25.788,26.558,22.766,,False,False,9085.521,15,Dutch Grand Prix
+ALO,67.0,75.532,4.0,SOFT,20.0,1,True,Alpine,False,7.0,26.205,26.601,22.726,,False,False,9161.053,15,Dutch Grand Prix
+ALO,68.0,75.275,4.0,SOFT,21.0,1,True,Alpine,False,7.0,25.873,26.613,22.789,,False,False,9236.328,15,Dutch Grand Prix
+ALO,69.0,75.043,4.0,SOFT,22.0,1,True,Alpine,False,7.0,25.697,26.637,22.709,,False,False,9311.371,15,Dutch Grand Prix
+ALO,70.0,76.186,4.0,SOFT,23.0,1,True,Alpine,False,7.0,26.268,27.06,22.858,,False,False,9387.557,15,Dutch Grand Prix
+ALO,71.0,75.371,4.0,SOFT,24.0,1,True,Alpine,False,7.0,25.841,26.772,22.758,,False,False,9462.928,15,Dutch Grand Prix
+ALO,72.0,75.505,4.0,SOFT,25.0,1,True,Alpine,False,7.0,25.866,26.879,22.76,,False,False,9538.433,15,Dutch Grand Prix
+LEC,1.0,80.348,1.0,SOFT,4.0,1,False,Ferrari,False,2.0,,26.689,23.075,,False,False,3797.254,15,Dutch Grand Prix
+LEC,2.0,76.554,1.0,SOFT,5.0,12,True,Ferrari,False,2.0,26.462,26.815,23.277,,False,False,3873.808,15,Dutch Grand Prix
+LEC,3.0,77.062,1.0,SOFT,6.0,1,True,Ferrari,False,2.0,26.619,27.136,23.307,,False,False,3950.87,15,Dutch Grand Prix
+LEC,4.0,76.428,1.0,SOFT,7.0,12,True,Ferrari,False,2.0,26.291,26.919,23.218,,False,False,4027.298,15,Dutch Grand Prix
+LEC,5.0,76.333,1.0,SOFT,8.0,1,True,Ferrari,False,2.0,26.194,26.964,23.175,,False,False,4103.631,15,Dutch Grand Prix
+LEC,6.0,76.213,1.0,SOFT,9.0,1,True,Ferrari,False,2.0,26.181,26.807,23.225,,False,False,4179.844,15,Dutch Grand Prix
+LEC,7.0,76.834,1.0,SOFT,10.0,1,True,Ferrari,False,2.0,26.359,27.145,23.33,,False,False,4256.678,15,Dutch Grand Prix
+LEC,8.0,76.531,1.0,SOFT,11.0,1,True,Ferrari,False,2.0,26.151,27.184,23.196,,False,False,4333.209,15,Dutch Grand Prix
+LEC,9.0,76.658,1.0,SOFT,12.0,1,True,Ferrari,False,2.0,26.337,27.116,23.205,,False,False,4409.867,15,Dutch Grand Prix
+LEC,10.0,76.6,1.0,SOFT,13.0,1,True,Ferrari,False,2.0,26.171,27.196,23.233,,False,False,4486.467,15,Dutch Grand Prix
+LEC,11.0,76.82,1.0,SOFT,14.0,1,True,Ferrari,False,2.0,26.257,27.256,23.307,,False,False,4563.287,15,Dutch Grand Prix
+LEC,12.0,76.951,1.0,SOFT,15.0,1,True,Ferrari,False,2.0,26.403,27.217,23.331,,False,False,4640.238,15,Dutch Grand Prix
+LEC,13.0,76.813,1.0,SOFT,16.0,1,True,Ferrari,False,2.0,26.206,27.371,23.236,,False,False,4717.051,15,Dutch Grand Prix
+LEC,14.0,76.913,1.0,SOFT,17.0,1,True,Ferrari,False,2.0,26.253,27.363,23.297,,False,False,4793.964,15,Dutch Grand Prix
+LEC,15.0,77.15,1.0,SOFT,18.0,1,True,Ferrari,False,2.0,26.405,27.398,23.347,,False,False,4871.114,15,Dutch Grand Prix
+LEC,16.0,77.413,1.0,SOFT,19.0,1,True,Ferrari,False,2.0,26.431,27.586,23.396,,False,False,4948.527,15,Dutch Grand Prix
+LEC,17.0,80.164,1.0,SOFT,20.0,1,False,Ferrari,False,2.0,26.338,27.479,26.347,,True,False,5028.691,15,Dutch Grand Prix
+LEC,18.0,94.652,2.0,MEDIUM,1.0,1,False,Ferrari,True,4.0,44.97,26.466,23.216,,False,True,5123.343,15,Dutch Grand Prix
+LEC,19.0,76.318,2.0,MEDIUM,2.0,1,True,Ferrari,True,4.0,26.369,26.705,23.244,,False,False,5199.661,15,Dutch Grand Prix
+LEC,20.0,76.27,2.0,MEDIUM,3.0,1,True,Ferrari,True,4.0,26.202,26.851,23.217,,False,False,5275.931,15,Dutch Grand Prix
+LEC,21.0,76.166,2.0,MEDIUM,4.0,1,True,Ferrari,True,4.0,26.118,26.803,23.245,,False,False,5352.097,15,Dutch Grand Prix
+LEC,22.0,76.303,2.0,MEDIUM,5.0,1,True,Ferrari,True,4.0,26.134,26.985,23.184,,False,False,5428.4,15,Dutch Grand Prix
+LEC,23.0,76.077,2.0,MEDIUM,6.0,1,True,Ferrari,True,4.0,26.109,26.836,23.132,,False,False,5504.477,15,Dutch Grand Prix
+LEC,24.0,76.105,2.0,MEDIUM,7.0,1,True,Ferrari,True,4.0,26.02,26.917,23.168,,False,False,5580.582,15,Dutch Grand Prix
+LEC,25.0,76.278,2.0,MEDIUM,8.0,1,True,Ferrari,True,4.0,26.142,27.026,23.11,,False,False,5656.86,15,Dutch Grand Prix
+LEC,26.0,76.195,2.0,MEDIUM,9.0,1,True,Ferrari,True,4.0,26.037,27.077,23.081,,False,False,5733.055,15,Dutch Grand Prix
+LEC,27.0,76.523,2.0,MEDIUM,10.0,1,True,Ferrari,True,4.0,26.222,27.103,23.198,,False,False,5809.578,15,Dutch Grand Prix
+LEC,28.0,76.62,2.0,MEDIUM,11.0,1,True,Ferrari,True,4.0,26.279,26.999,23.342,,False,False,5886.198,15,Dutch Grand Prix
+LEC,29.0,76.787,2.0,MEDIUM,12.0,1,True,Ferrari,True,4.0,26.203,27.227,23.357,,False,False,5962.985,15,Dutch Grand Prix
+LEC,30.0,76.623,2.0,MEDIUM,13.0,1,True,Ferrari,True,3.0,26.29,27.11,23.223,,False,False,6039.608,15,Dutch Grand Prix
+LEC,31.0,76.532,2.0,MEDIUM,14.0,1,True,Ferrari,True,3.0,26.28,27.093,23.159,,False,False,6116.14,15,Dutch Grand Prix
+LEC,32.0,76.485,2.0,MEDIUM,15.0,1,True,Ferrari,True,2.0,26.194,27.064,23.227,,False,False,6192.625,15,Dutch Grand Prix
+LEC,33.0,76.369,2.0,MEDIUM,16.0,1,True,Ferrari,True,2.0,26.175,27.08,23.114,,False,False,6268.994,15,Dutch Grand Prix
+LEC,34.0,76.451,2.0,MEDIUM,17.0,1,True,Ferrari,True,2.0,26.176,27.105,23.17,,False,False,6345.445,15,Dutch Grand Prix
+LEC,35.0,76.44,2.0,MEDIUM,18.0,1,True,Ferrari,True,2.0,26.213,26.961,23.266,,False,False,6421.885,15,Dutch Grand Prix
+LEC,36.0,76.523,2.0,MEDIUM,19.0,1,True,Ferrari,True,2.0,26.127,27.186,23.21,,False,False,6498.408,15,Dutch Grand Prix
+LEC,37.0,76.584,2.0,MEDIUM,20.0,1,True,Ferrari,True,2.0,26.289,27.022,23.273,,False,False,6574.992,15,Dutch Grand Prix
+LEC,38.0,76.538,2.0,MEDIUM,21.0,1,True,Ferrari,True,2.0,26.277,27.104,23.157,,False,False,6651.53,15,Dutch Grand Prix
+LEC,39.0,76.336,2.0,MEDIUM,22.0,1,True,Ferrari,True,2.0,26.219,27.083,23.034,,False,False,6727.866,15,Dutch Grand Prix
+LEC,40.0,76.397,2.0,MEDIUM,23.0,1,True,Ferrari,True,2.0,26.203,27.135,23.059,,False,False,6804.263,15,Dutch Grand Prix
+LEC,41.0,76.316,2.0,MEDIUM,24.0,1,True,Ferrari,True,2.0,26.148,27.145,23.023,,False,False,6880.579,15,Dutch Grand Prix
+LEC,42.0,76.38,2.0,MEDIUM,25.0,1,True,Ferrari,True,2.0,26.105,27.173,23.102,,False,False,6956.959,15,Dutch Grand Prix
+LEC,43.0,76.374,2.0,MEDIUM,26.0,1,True,Ferrari,True,2.0,26.195,27.054,23.125,,False,False,7033.333,15,Dutch Grand Prix
+LEC,44.0,76.224,2.0,MEDIUM,27.0,12,True,Ferrari,True,2.0,26.088,27.011,23.125,,False,False,7109.557,15,Dutch Grand Prix
+LEC,45.0,81.109,2.0,MEDIUM,28.0,21,False,Ferrari,True,3.0,26.388,28.053,26.668,,True,False,7190.666,15,Dutch Grand Prix
+LEC,46.0,95.746,3.0,HARD,1.0,1,False,Ferrari,True,4.0,45.845,26.762,23.139,,False,True,7286.412,15,Dutch Grand Prix
+LEC,47.0,81.541,3.0,HARD,2.0,126,False,Ferrari,True,4.0,26.13,26.043,29.368,,False,False,7367.953,15,Dutch Grand Prix
+LEC,48.0,103.57,3.0,HARD,3.0,6,False,Ferrari,True,4.0,34.508,35.006,34.056,,False,False,7471.523,15,Dutch Grand Prix
+LEC,49.0,102.795,3.0,HARD,4.0,67,False,Ferrari,True,4.0,36.107,36.703,29.985,,False,False,7574.318,15,Dutch Grand Prix
+LEC,50.0,77.075,3.0,HARD,5.0,71,False,Ferrari,True,4.0,27.362,26.724,22.989,,False,False,7651.393,15,Dutch Grand Prix
+LEC,51.0,74.824,3.0,HARD,6.0,1,True,Ferrari,True,4.0,25.929,26.234,22.661,,False,False,7726.217,15,Dutch Grand Prix
+LEC,52.0,77.714,3.0,HARD,7.0,1,True,Ferrari,True,4.0,27.906,26.759,23.049,,False,False,7803.931,15,Dutch Grand Prix
+LEC,53.0,75.104,3.0,HARD,8.0,1,True,Ferrari,True,4.0,25.951,26.418,22.735,,False,False,7879.035,15,Dutch Grand Prix
+LEC,54.0,75.257,3.0,HARD,9.0,1,True,Ferrari,True,4.0,26.144,26.365,22.748,,False,False,7954.292,15,Dutch Grand Prix
+LEC,55.0,75.031,3.0,HARD,10.0,12,True,Ferrari,True,4.0,25.803,26.332,22.896,,False,False,8029.323,15,Dutch Grand Prix
+LEC,56.0,96.578,3.0,HARD,11.0,24,False,Ferrari,True,4.0,26.205,35.983,34.39,,True,False,8125.901,15,Dutch Grand Prix
+LEC,57.0,128.137,4.0,SOFT,4.0,4,False,Ferrari,False,4.0,53.478,36.684,37.975,,True,True,8254.038,15,Dutch Grand Prix
+LEC,58.0,133.906,5.0,SOFT,5.0,4,False,Ferrari,False,4.0,49.257,45.982,38.667,,False,True,8387.944,15,Dutch Grand Prix
+LEC,59.0,124.741,5.0,SOFT,6.0,4,False,Ferrari,False,4.0,42.666,45.886,36.189,,False,False,8512.685,15,Dutch Grand Prix
+LEC,60.0,119.368,5.0,SOFT,7.0,41,False,Ferrari,False,4.0,39.027,40.046,40.295,,False,False,8632.053,15,Dutch Grand Prix
+LEC,61.0,75.7,5.0,SOFT,8.0,1,True,Ferrari,False,4.0,26.54,26.449,22.711,,False,False,8707.753,15,Dutch Grand Prix
+LEC,62.0,74.413,5.0,SOFT,9.0,1,True,Ferrari,False,4.0,25.725,26.149,22.539,,False,False,8782.166,15,Dutch Grand Prix
+LEC,63.0,74.42,5.0,SOFT,10.0,1,True,Ferrari,False,4.0,25.619,26.176,22.625,,False,False,8856.586,15,Dutch Grand Prix
+LEC,64.0,74.597,5.0,SOFT,11.0,1,True,Ferrari,False,4.0,25.856,26.408,22.333,,False,False,8931.183,15,Dutch Grand Prix
+LEC,65.0,74.89,5.0,SOFT,12.0,1,True,Ferrari,False,4.0,26.167,26.346,22.377,,False,False,9006.073,15,Dutch Grand Prix
+LEC,66.0,74.72,5.0,SOFT,13.0,1,True,Ferrari,False,3.0,25.725,26.408,22.587,,False,False,9080.793,15,Dutch Grand Prix
+LEC,67.0,74.635,5.0,SOFT,14.0,1,True,Ferrari,False,3.0,25.707,26.228,22.7,,False,False,9155.428,15,Dutch Grand Prix
+LEC,68.0,74.455,5.0,SOFT,15.0,1,True,Ferrari,False,3.0,25.642,26.271,22.542,,False,False,9229.883,15,Dutch Grand Prix
+LEC,69.0,74.604,5.0,SOFT,16.0,1,True,Ferrari,False,3.0,25.628,26.392,22.584,,False,False,9304.487,15,Dutch Grand Prix
+LEC,70.0,74.766,5.0,SOFT,17.0,1,True,Ferrari,False,3.0,25.667,26.43,22.669,,False,False,9379.253,15,Dutch Grand Prix
+LEC,71.0,75.156,5.0,SOFT,18.0,1,True,Ferrari,False,3.0,25.752,26.473,22.931,,False,False,9454.409,15,Dutch Grand Prix
+LEC,72.0,76.199,5.0,SOFT,19.0,1,True,Ferrari,False,3.0,26.023,26.833,23.343,,False,False,9530.608,15,Dutch Grand Prix
+STR,1.0,85.398,1.0,SOFT,1.0,1,False,Aston Martin,True,8.0,,28.33,23.765,,False,False,3802.304,15,Dutch Grand Prix
+STR,2.0,78.19,1.0,SOFT,2.0,12,True,Aston Martin,True,8.0,26.886,27.619,23.685,,False,False,3880.494,15,Dutch Grand Prix
+STR,3.0,78.078,1.0,SOFT,3.0,1,True,Aston Martin,True,8.0,26.97,27.604,23.504,,False,False,3958.572,15,Dutch Grand Prix
+STR,4.0,77.369,1.0,SOFT,4.0,12,True,Aston Martin,True,8.0,26.548,27.434,23.387,,False,False,4035.941,15,Dutch Grand Prix
+STR,5.0,77.277,1.0,SOFT,5.0,1,True,Aston Martin,True,8.0,26.511,27.521,23.245,,False,False,4113.218,15,Dutch Grand Prix
+STR,6.0,77.785,1.0,SOFT,6.0,1,True,Aston Martin,True,8.0,26.683,27.568,23.534,,False,False,4191.003,15,Dutch Grand Prix
+STR,7.0,77.621,1.0,SOFT,7.0,1,True,Aston Martin,True,8.0,26.385,27.666,23.57,,False,False,4268.624,15,Dutch Grand Prix
+STR,8.0,77.589,1.0,SOFT,8.0,1,True,Aston Martin,True,8.0,26.467,27.544,23.578,,False,False,4346.213,15,Dutch Grand Prix
+STR,9.0,77.645,1.0,SOFT,9.0,1,True,Aston Martin,True,8.0,26.363,27.621,23.661,,False,False,4423.858,15,Dutch Grand Prix
+STR,10.0,77.66,1.0,SOFT,10.0,1,True,Aston Martin,True,8.0,26.376,27.71,23.574,,False,False,4501.518,15,Dutch Grand Prix
+STR,11.0,77.803,1.0,SOFT,11.0,1,True,Aston Martin,True,8.0,26.405,27.821,23.577,,False,False,4579.321,15,Dutch Grand Prix
+STR,12.0,78.164,1.0,SOFT,12.0,1,True,Aston Martin,True,8.0,26.617,27.741,23.806,,False,False,4657.485,15,Dutch Grand Prix
+STR,13.0,77.843,1.0,SOFT,13.0,1,True,Aston Martin,True,8.0,26.486,27.733,23.624,,False,False,4735.328,15,Dutch Grand Prix
+STR,14.0,77.664,1.0,SOFT,14.0,1,True,Aston Martin,True,8.0,26.399,27.619,23.646,,False,False,4812.992,15,Dutch Grand Prix
+STR,15.0,77.676,1.0,SOFT,15.0,1,True,Aston Martin,True,6.0,26.432,27.612,23.632,,False,False,4890.668,15,Dutch Grand Prix
+STR,16.0,80.529,1.0,SOFT,16.0,1,False,Aston Martin,True,6.0,26.329,27.542,26.658,,True,False,4971.197,15,Dutch Grand Prix
+STR,17.0,96.191,2.0,MEDIUM,2.0,1,False,Aston Martin,False,10.0,45.861,26.837,23.493,,False,True,5067.388,15,Dutch Grand Prix
+STR,18.0,77.101,2.0,MEDIUM,3.0,1,True,Aston Martin,False,10.0,26.289,27.306,23.506,,False,False,5144.489,15,Dutch Grand Prix
+STR,19.0,77.191,2.0,MEDIUM,4.0,1,True,Aston Martin,False,9.0,26.343,27.353,23.495,,False,False,5221.68,15,Dutch Grand Prix
+STR,20.0,77.372,2.0,MEDIUM,5.0,1,True,Aston Martin,False,9.0,26.414,27.422,23.536,,False,False,5299.052,15,Dutch Grand Prix
+STR,21.0,77.23,2.0,MEDIUM,6.0,1,True,Aston Martin,False,8.0,26.354,27.399,23.477,,False,False,5376.282,15,Dutch Grand Prix
+STR,22.0,77.109,2.0,MEDIUM,7.0,1,True,Aston Martin,False,8.0,26.387,27.415,23.307,,False,False,5453.391,15,Dutch Grand Prix
+STR,23.0,76.933,2.0,MEDIUM,8.0,1,True,Aston Martin,False,8.0,26.329,27.252,23.352,,False,False,5530.324,15,Dutch Grand Prix
+STR,24.0,77.047,2.0,MEDIUM,9.0,1,True,Aston Martin,False,8.0,26.231,27.381,23.435,,False,False,5607.371,15,Dutch Grand Prix
+STR,25.0,77.053,2.0,MEDIUM,10.0,1,True,Aston Martin,False,8.0,26.37,27.351,23.332,,False,False,5684.424,15,Dutch Grand Prix
+STR,26.0,76.949,2.0,MEDIUM,11.0,1,True,Aston Martin,False,8.0,26.245,27.372,23.332,,False,False,5761.373,15,Dutch Grand Prix
+STR,27.0,77.096,2.0,MEDIUM,12.0,1,True,Aston Martin,False,8.0,26.295,27.406,23.395,,False,False,5838.469,15,Dutch Grand Prix
+STR,28.0,77.288,2.0,MEDIUM,13.0,1,True,Aston Martin,False,8.0,26.456,27.39,23.442,,False,False,5915.757,15,Dutch Grand Prix
+STR,29.0,77.018,2.0,MEDIUM,14.0,1,True,Aston Martin,False,8.0,26.233,27.388,23.397,,False,False,5992.775,15,Dutch Grand Prix
+STR,30.0,77.172,2.0,MEDIUM,15.0,1,True,Aston Martin,False,8.0,26.353,27.335,23.484,,False,False,6069.947,15,Dutch Grand Prix
+STR,31.0,77.001,2.0,MEDIUM,16.0,1,True,Aston Martin,False,8.0,26.243,27.365,23.393,,False,False,6146.948,15,Dutch Grand Prix
+STR,32.0,77.221,2.0,MEDIUM,17.0,1,True,Aston Martin,False,8.0,26.472,27.372,23.377,,False,False,6224.169,15,Dutch Grand Prix
+STR,33.0,77.089,2.0,MEDIUM,18.0,1,True,Aston Martin,False,8.0,26.328,27.411,23.35,,False,False,6301.258,15,Dutch Grand Prix
+STR,34.0,77.097,2.0,MEDIUM,19.0,1,True,Aston Martin,False,8.0,26.297,27.347,23.453,,False,False,6378.355,15,Dutch Grand Prix
+STR,35.0,76.83,2.0,MEDIUM,20.0,1,True,Aston Martin,False,8.0,26.27,27.22,23.34,,False,False,6455.185,15,Dutch Grand Prix
+STR,36.0,76.934,2.0,MEDIUM,21.0,1,True,Aston Martin,False,8.0,26.234,27.317,23.383,,False,False,6532.119,15,Dutch Grand Prix
+STR,37.0,77.004,2.0,MEDIUM,22.0,1,True,Aston Martin,False,8.0,26.308,27.305,23.391,,False,False,6609.123,15,Dutch Grand Prix
+STR,38.0,80.393,2.0,MEDIUM,23.0,1,False,Aston Martin,False,9.0,26.227,27.551,26.615,,True,False,6689.516,15,Dutch Grand Prix
+STR,39.0,96.957,3.0,HARD,2.0,1,False,Aston Martin,False,11.0,47.034,26.687,23.236,,False,True,6786.473,15,Dutch Grand Prix
+STR,40.0,75.873,3.0,HARD,3.0,1,True,Aston Martin,False,11.0,26.115,26.56,23.198,,False,False,6862.346,15,Dutch Grand Prix
+STR,41.0,75.887,3.0,HARD,4.0,1,True,Aston Martin,False,11.0,26.072,26.679,23.136,,False,False,6938.233,15,Dutch Grand Prix
+STR,42.0,75.782,3.0,HARD,5.0,1,True,Aston Martin,False,10.0,26.018,26.744,23.02,,False,False,7014.015,15,Dutch Grand Prix
+STR,43.0,75.462,3.0,HARD,6.0,12,True,Aston Martin,False,10.0,25.716,26.558,23.188,,False,False,7089.477,15,Dutch Grand Prix
+STR,44.0,76.419,3.0,HARD,7.0,21,True,Aston Martin,False,10.0,26.556,26.717,23.146,,False,False,7165.896,15,Dutch Grand Prix
+STR,45.0,75.773,3.0,HARD,8.0,1,True,Aston Martin,False,10.0,25.994,26.522,23.257,,False,False,7241.669,15,Dutch Grand Prix
+STR,46.0,76.076,3.0,HARD,9.0,1,True,Aston Martin,False,10.0,26.072,26.765,23.239,,False,False,7317.745,15,Dutch Grand Prix
+STR,47.0,92.874,3.0,HARD,10.0,126,False,Aston Martin,False,10.0,26.361,35.583,30.93,,False,False,7410.619,15,Dutch Grand Prix
+STR,48.0,107.181,3.0,HARD,11.0,6,False,Aston Martin,False,10.0,39.964,35.358,31.859,,False,False,7517.8,15,Dutch Grand Prix
+STR,49.0,91.482,3.0,HARD,12.0,671,False,Aston Martin,False,10.0,35.213,32.537,23.732,,False,False,7609.282,15,Dutch Grand Prix
+STR,50.0,76.097,3.0,HARD,13.0,1,True,Aston Martin,False,10.0,26.106,26.704,23.287,,False,False,7685.379,15,Dutch Grand Prix
+STR,51.0,75.752,3.0,HARD,14.0,1,True,Aston Martin,False,10.0,25.957,26.613,23.182,,False,False,7761.131,15,Dutch Grand Prix
+STR,52.0,75.937,3.0,HARD,15.0,1,True,Aston Martin,False,10.0,25.909,26.822,23.206,,False,False,7837.068,15,Dutch Grand Prix
+STR,53.0,75.678,3.0,HARD,16.0,1,True,Aston Martin,False,10.0,25.928,26.592,23.158,,False,False,7912.746,15,Dutch Grand Prix
+STR,54.0,75.818,3.0,HARD,17.0,12,True,Aston Martin,False,10.0,25.868,26.748,23.202,,False,False,7988.564,15,Dutch Grand Prix
+STR,55.0,78.185,3.0,HARD,18.0,24,False,Aston Martin,False,10.0,25.996,26.891,25.298,,False,False,8066.749,15,Dutch Grand Prix
+STR,56.0,107.511,3.0,HARD,19.0,4,False,Aston Martin,False,10.0,37.468,36.166,33.877,,True,False,8174.26,15,Dutch Grand Prix
+STR,57.0,119.286,4.0,SOFT,4.0,4,False,Aston Martin,False,10.0,47.258,36.15,35.878,,True,True,8293.546,15,Dutch Grand Prix
+STR,58.0,107.926,5.0,SOFT,5.0,4,False,Aston Martin,False,10.0,40.453,31.208,36.265,,False,True,8401.472,15,Dutch Grand Prix
+STR,59.0,120.522,5.0,SOFT,6.0,4,False,Aston Martin,False,10.0,40.565,43.765,36.192,,False,False,8521.994,15,Dutch Grand Prix
+STR,60.0,112.939,5.0,SOFT,7.0,41,False,Aston Martin,False,10.0,39.618,37.484,35.837,,False,False,8634.933,15,Dutch Grand Prix
+STR,61.0,76.585,5.0,SOFT,8.0,1,True,Aston Martin,False,10.0,26.549,26.965,23.071,,False,False,8711.518,15,Dutch Grand Prix
+STR,62.0,76.066,5.0,SOFT,9.0,1,True,Aston Martin,False,10.0,26.191,26.931,22.944,,False,False,8787.584,15,Dutch Grand Prix
+STR,63.0,75.175,5.0,SOFT,10.0,1,True,Aston Martin,False,10.0,25.893,26.633,22.649,,False,False,8862.759,15,Dutch Grand Prix
+STR,64.0,75.121,5.0,SOFT,11.0,1,True,Aston Martin,False,10.0,25.741,26.707,22.673,,False,False,8937.88,15,Dutch Grand Prix
+STR,65.0,75.043,5.0,SOFT,12.0,1,True,Aston Martin,False,10.0,25.719,26.767,22.557,,False,False,9012.923,15,Dutch Grand Prix
+STR,66.0,75.311,5.0,SOFT,13.0,1,True,Aston Martin,False,10.0,25.828,26.835,22.648,,False,False,9088.234,15,Dutch Grand Prix
+STR,67.0,75.372,5.0,SOFT,14.0,1,True,Aston Martin,False,10.0,25.835,26.871,22.666,,False,False,9163.606,15,Dutch Grand Prix
+STR,68.0,75.384,5.0,SOFT,15.0,1,True,Aston Martin,False,10.0,25.705,26.967,22.712,,False,False,9238.99,15,Dutch Grand Prix
+STR,69.0,75.601,5.0,SOFT,16.0,1,True,Aston Martin,False,10.0,25.861,26.979,22.761,,False,False,9314.591,15,Dutch Grand Prix
+STR,70.0,75.824,5.0,SOFT,17.0,1,True,Aston Martin,False,10.0,25.955,27.122,22.747,,False,False,9390.415,15,Dutch Grand Prix
+STR,71.0,75.884,5.0,SOFT,18.0,1,True,Aston Martin,False,10.0,25.933,26.912,23.039,,False,False,9466.299,15,Dutch Grand Prix
+STR,72.0,75.839,5.0,SOFT,19.0,1,True,Aston Martin,False,10.0,25.787,27.077,22.975,,False,False,9542.138,15,Dutch Grand Prix
+MAG,1.0,88.945,1.0,MEDIUM,1.0,1,False,Haas F1 Team,True,15.0,,28.928,24.827,,False,False,3805.851,15,Dutch Grand Prix
+MAG,2.0,85.799,1.0,MEDIUM,2.0,12,True,Haas F1 Team,True,20.0,34.165,27.893,23.741,,False,False,3891.65,15,Dutch Grand Prix
+MAG,3.0,77.902,1.0,MEDIUM,3.0,1,True,Haas F1 Team,True,20.0,26.856,27.444,23.602,,False,False,3969.552,15,Dutch Grand Prix
+MAG,4.0,77.946,1.0,MEDIUM,4.0,12,True,Haas F1 Team,True,20.0,26.818,27.366,23.762,,False,False,4047.498,15,Dutch Grand Prix
+MAG,5.0,77.871,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,20.0,26.771,27.48,23.62,,False,False,4125.369,15,Dutch Grand Prix
+MAG,6.0,77.887,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,20.0,26.871,27.675,23.341,,False,False,4203.256,15,Dutch Grand Prix
+MAG,7.0,78.337,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,20.0,26.926,27.767,23.644,,False,False,4281.593,15,Dutch Grand Prix
+MAG,8.0,79.09,1.0,MEDIUM,8.0,1,True,Haas F1 Team,True,20.0,27.595,28.061,23.434,,False,False,4360.683,15,Dutch Grand Prix
+MAG,9.0,78.959,1.0,MEDIUM,9.0,1,True,Haas F1 Team,True,20.0,27.263,28.025,23.671,,False,False,4439.642,15,Dutch Grand Prix
+MAG,10.0,79.185,1.0,MEDIUM,10.0,1,True,Haas F1 Team,True,19.0,27.821,27.877,23.487,,False,False,4518.827,15,Dutch Grand Prix
+MAG,11.0,79.182,1.0,MEDIUM,11.0,1,True,Haas F1 Team,True,18.0,27.286,27.835,24.061,,False,False,4598.009,15,Dutch Grand Prix
+MAG,12.0,78.978,1.0,MEDIUM,12.0,1,True,Haas F1 Team,True,16.0,27.246,27.859,23.873,,False,False,4676.987,15,Dutch Grand Prix
+MAG,13.0,78.504,1.0,MEDIUM,13.0,1,True,Haas F1 Team,True,14.0,26.976,27.666,23.862,,False,False,4755.491,15,Dutch Grand Prix
+MAG,14.0,81.438,1.0,MEDIUM,14.0,1,False,Haas F1 Team,True,12.0,26.963,27.636,26.839,,True,False,4836.929,15,Dutch Grand Prix
+MAG,15.0,96.878,2.0,MEDIUM,1.0,1,False,Haas F1 Team,True,19.0,46.44,27.022,23.416,,False,True,4933.807,15,Dutch Grand Prix
+MAG,16.0,77.099,2.0,MEDIUM,2.0,1,True,Haas F1 Team,True,19.0,26.69,27.081,23.328,,False,False,5010.906,15,Dutch Grand Prix
+MAG,17.0,77.406,2.0,MEDIUM,3.0,1,True,Haas F1 Team,True,19.0,26.587,27.268,23.551,,False,False,5088.312,15,Dutch Grand Prix
+MAG,18.0,77.643,2.0,MEDIUM,4.0,1,True,Haas F1 Team,True,19.0,26.657,27.467,23.519,,False,False,5165.955,15,Dutch Grand Prix
+MAG,19.0,77.721,2.0,MEDIUM,5.0,1,True,Haas F1 Team,True,19.0,26.827,27.431,23.463,,False,False,5243.676,15,Dutch Grand Prix
+MAG,20.0,77.74,2.0,MEDIUM,6.0,1,True,Haas F1 Team,True,19.0,26.742,27.487,23.511,,False,False,5321.416,15,Dutch Grand Prix
+MAG,21.0,77.566,2.0,MEDIUM,7.0,1,True,Haas F1 Team,True,19.0,26.662,27.402,23.502,,False,False,5398.982,15,Dutch Grand Prix
+MAG,22.0,78.121,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,19.0,26.785,27.698,23.638,,False,False,5477.103,15,Dutch Grand Prix
+MAG,23.0,77.669,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,19.0,26.672,27.563,23.434,,False,False,5554.772,15,Dutch Grand Prix
+MAG,24.0,77.871,2.0,MEDIUM,10.0,1,True,Haas F1 Team,True,19.0,26.738,27.799,23.334,,False,False,5632.643,15,Dutch Grand Prix
+MAG,25.0,77.907,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,19.0,26.798,27.786,23.323,,False,False,5710.55,15,Dutch Grand Prix
+MAG,26.0,78.003,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,19.0,26.726,27.849,23.428,,False,False,5788.553,15,Dutch Grand Prix
+MAG,27.0,77.802,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,18.0,26.906,27.607,23.289,,False,False,5866.355,15,Dutch Grand Prix
+MAG,28.0,77.826,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,18.0,26.747,27.603,23.476,,False,False,5944.181,15,Dutch Grand Prix
+MAG,29.0,77.876,2.0,MEDIUM,15.0,1,True,Haas F1 Team,True,18.0,26.666,27.681,23.529,,False,False,6022.057,15,Dutch Grand Prix
+MAG,30.0,77.872,2.0,MEDIUM,16.0,1,True,Haas F1 Team,True,18.0,26.687,27.585,23.6,,False,False,6099.929,15,Dutch Grand Prix
+MAG,31.0,77.934,2.0,MEDIUM,17.0,1,True,Haas F1 Team,True,18.0,26.647,27.653,23.634,,False,False,6177.863,15,Dutch Grand Prix
+MAG,32.0,77.932,2.0,MEDIUM,18.0,1,True,Haas F1 Team,True,18.0,26.717,27.502,23.713,,False,False,6255.795,15,Dutch Grand Prix
+MAG,33.0,78.137,2.0,MEDIUM,19.0,1,True,Haas F1 Team,True,17.0,26.783,27.761,23.593,,False,False,6333.932,15,Dutch Grand Prix
+MAG,34.0,81.059,2.0,MEDIUM,20.0,1,False,Haas F1 Team,True,16.0,26.887,27.512,26.66,,True,False,6414.991,15,Dutch Grand Prix
+MAG,35.0,100.432,3.0,HARD,1.0,1,False,Haas F1 Team,True,19.0,49.915,27.126,23.391,,False,True,6515.423,15,Dutch Grand Prix
+MAG,36.0,76.803,3.0,HARD,2.0,1,True,Haas F1 Team,True,19.0,26.455,27.028,23.32,,False,False,6592.226,15,Dutch Grand Prix
+MAG,37.0,77.12,3.0,HARD,3.0,1,True,Haas F1 Team,True,19.0,26.559,27.347,23.214,,False,False,6669.346,15,Dutch Grand Prix
+MAG,38.0,76.395,3.0,HARD,4.0,1,True,Haas F1 Team,True,19.0,26.562,27.0,22.833,,False,False,6745.741,15,Dutch Grand Prix
+MAG,39.0,76.734,3.0,HARD,5.0,1,True,Haas F1 Team,True,19.0,26.534,27.187,23.013,,False,False,6822.475,15,Dutch Grand Prix
+MAG,40.0,77.025,3.0,HARD,6.0,1,True,Haas F1 Team,True,19.0,26.275,27.281,23.469,,False,False,6899.5,15,Dutch Grand Prix
+MAG,41.0,77.5,3.0,HARD,7.0,1,True,Haas F1 Team,True,18.0,27.086,27.184,23.23,,False,False,6977.0,15,Dutch Grand Prix
+MAG,42.0,76.937,3.0,HARD,8.0,1,True,Haas F1 Team,True,18.0,26.67,26.994,23.273,,False,False,7053.937,15,Dutch Grand Prix
+MAG,43.0,76.599,3.0,HARD,9.0,12,True,Haas F1 Team,True,17.0,26.526,26.98,23.093,,False,False,7130.536,15,Dutch Grand Prix
+MAG,44.0,77.109,3.0,HARD,10.0,21,True,Haas F1 Team,True,17.0,26.601,27.173,23.335,,False,False,7207.645,15,Dutch Grand Prix
+MAG,45.0,76.875,3.0,HARD,11.0,1,True,Haas F1 Team,True,17.0,26.524,27.018,23.333,,False,False,7284.52,15,Dutch Grand Prix
+MAG,46.0,84.656,3.0,HARD,12.0,126,False,Haas F1 Team,True,17.0,26.555,27.412,30.689,,False,False,7369.176,15,Dutch Grand Prix
+MAG,47.0,105.471,3.0,HARD,13.0,6,False,Haas F1 Team,True,17.0,35.036,38.559,31.876,,True,False,7474.647,15,Dutch Grand Prix
+MAG,48.0,118.427,4.0,SOFT,4.0,671,False,Haas F1 Team,False,17.0,56.416,35.534,26.477,,False,True,7593.074,15,Dutch Grand Prix
+MAG,49.0,75.463,4.0,SOFT,5.0,1,True,Haas F1 Team,False,17.0,26.264,26.377,22.822,,False,False,7668.537,15,Dutch Grand Prix
+MAG,50.0,75.402,4.0,SOFT,6.0,1,True,Haas F1 Team,False,17.0,25.954,26.552,22.896,,False,False,7743.939,15,Dutch Grand Prix
+MAG,51.0,75.464,4.0,SOFT,7.0,1,True,Haas F1 Team,False,17.0,26.017,26.492,22.955,,False,False,7819.403,15,Dutch Grand Prix
+MAG,52.0,75.413,4.0,SOFT,8.0,1,True,Haas F1 Team,False,17.0,25.954,26.612,22.847,,False,False,7894.816,15,Dutch Grand Prix
+MAG,53.0,75.369,4.0,SOFT,9.0,1,True,Haas F1 Team,False,17.0,26.08,26.51,22.779,,False,False,7970.185,15,Dutch Grand Prix
+MAG,54.0,75.603,4.0,SOFT,10.0,12,True,Haas F1 Team,False,16.0,25.92,26.615,23.068,,False,False,8045.788,15,Dutch Grand Prix
+MAG,55.0,100.709,4.0,SOFT,11.0,24,False,Haas F1 Team,False,16.0,33.901,35.652,31.156,,False,False,8146.497,15,Dutch Grand Prix
+MAG,56.0,109.584,4.0,SOFT,12.0,4,False,Haas F1 Team,False,15.0,37.261,35.592,36.731,,True,False,8256.081,15,Dutch Grand Prix
+MAG,57.0,133.268,5.0,SOFT,13.0,4,False,Haas F1 Team,False,15.0,48.381,46.317,38.57,,False,True,8389.349,15,Dutch Grand Prix
+MAG,58.0,91.236,5.0,SOFT,14.0,4,False,Haas F1 Team,False,15.0,38.042,28.744,24.45,,False,False,8480.585,15,Dutch Grand Prix
+MAG,59.0,76.109,5.0,SOFT,15.0,4,False,Haas F1 Team,False,15.0,26.472,26.646,22.991,,False,False,8556.694,15,Dutch Grand Prix
+MAG,60.0,80.366,5.0,SOFT,16.0,41,False,Haas F1 Team,False,15.0,26.246,28.647,25.473,,False,False,8637.06,15,Dutch Grand Prix
+MAG,61.0,77.856,5.0,SOFT,17.0,1,True,Haas F1 Team,False,15.0,27.354,27.285,23.217,,False,False,8714.916,15,Dutch Grand Prix
+MAG,62.0,76.772,5.0,SOFT,18.0,1,True,Haas F1 Team,False,15.0,26.461,27.181,23.13,,False,False,8791.688,15,Dutch Grand Prix
+MAG,63.0,76.35,5.0,SOFT,19.0,1,True,Haas F1 Team,False,15.0,26.05,27.287,23.013,,False,False,8868.038,15,Dutch Grand Prix
+MAG,64.0,76.28,5.0,SOFT,20.0,1,True,Haas F1 Team,False,15.0,26.282,27.101,22.897,,False,False,8944.318,15,Dutch Grand Prix
+MAG,65.0,76.296,5.0,SOFT,21.0,1,True,Haas F1 Team,False,15.0,26.125,27.259,22.912,,False,False,9020.614,15,Dutch Grand Prix
+MAG,66.0,76.205,5.0,SOFT,22.0,1,True,Haas F1 Team,False,15.0,26.133,27.123,22.949,,False,False,9096.819,15,Dutch Grand Prix
+MAG,67.0,76.675,5.0,SOFT,23.0,1,True,Haas F1 Team,False,15.0,26.47,27.128,23.077,,False,False,9173.494,15,Dutch Grand Prix
+MAG,68.0,76.531,5.0,SOFT,24.0,1,True,Haas F1 Team,False,15.0,26.342,27.158,23.031,,False,False,9250.025,15,Dutch Grand Prix
+MAG,69.0,76.482,5.0,SOFT,25.0,1,True,Haas F1 Team,False,15.0,26.385,27.159,22.938,,False,False,9326.507,15,Dutch Grand Prix
+MAG,70.0,76.49,5.0,SOFT,26.0,1,True,Haas F1 Team,False,15.0,26.214,27.253,23.023,,False,False,9402.997,15,Dutch Grand Prix
+MAG,71.0,76.726,5.0,SOFT,27.0,1,True,Haas F1 Team,False,15.0,26.369,27.318,23.039,,False,False,9479.723,15,Dutch Grand Prix
+MAG,72.0,76.825,5.0,SOFT,28.0,1,True,Haas F1 Team,False,15.0,26.393,27.338,23.094,,False,False,9556.548,15,Dutch Grand Prix
+TSU,1.0,87.229,1.0,SOFT,4.0,1,False,AlphaTauri,False,11.0,,29.143,24.181,,False,False,3804.135,15,Dutch Grand Prix
+TSU,2.0,78.905,1.0,SOFT,5.0,12,True,AlphaTauri,False,11.0,27.384,27.74,23.781,,False,False,3883.04,15,Dutch Grand Prix
+TSU,3.0,78.167,1.0,SOFT,6.0,1,True,AlphaTauri,False,11.0,27.067,27.584,23.516,,False,False,3961.207,15,Dutch Grand Prix
+TSU,4.0,78.088,1.0,SOFT,7.0,12,True,AlphaTauri,False,11.0,26.889,27.624,23.575,,False,False,4039.295,15,Dutch Grand Prix
+TSU,5.0,77.687,1.0,SOFT,8.0,1,True,AlphaTauri,False,11.0,26.872,27.541,23.274,,False,False,4116.982,15,Dutch Grand Prix
+TSU,6.0,78.055,1.0,SOFT,9.0,1,True,AlphaTauri,False,11.0,27.03,27.666,23.359,,False,False,4195.037,15,Dutch Grand Prix
+TSU,7.0,78.242,1.0,SOFT,10.0,1,True,AlphaTauri,False,11.0,27.064,27.707,23.471,,False,False,4273.279,15,Dutch Grand Prix
+TSU,8.0,78.087,1.0,SOFT,11.0,1,True,AlphaTauri,False,11.0,26.834,27.722,23.531,,False,False,4351.366,15,Dutch Grand Prix
+TSU,9.0,78.405,1.0,SOFT,12.0,1,True,AlphaTauri,False,11.0,26.841,27.852,23.712,,False,False,4429.771,15,Dutch Grand Prix
+TSU,10.0,78.253,1.0,SOFT,13.0,1,True,AlphaTauri,False,11.0,26.816,27.917,23.52,,False,False,4508.024,15,Dutch Grand Prix
+TSU,11.0,78.371,1.0,SOFT,14.0,1,True,AlphaTauri,False,11.0,27.019,27.791,23.561,,False,False,4586.395,15,Dutch Grand Prix
+TSU,12.0,79.713,1.0,SOFT,15.0,1,True,AlphaTauri,False,11.0,27.698,28.181,23.834,,False,False,4666.108,15,Dutch Grand Prix
+TSU,13.0,81.202,1.0,SOFT,16.0,1,False,AlphaTauri,False,11.0,26.828,27.726,26.648,,True,False,4747.31,15,Dutch Grand Prix
+TSU,14.0,96.224,2.0,MEDIUM,2.0,1,False,AlphaTauri,False,14.0,45.227,27.511,23.486,,False,True,4843.534,15,Dutch Grand Prix
+TSU,15.0,77.32,2.0,MEDIUM,3.0,1,True,AlphaTauri,False,13.0,26.618,27.357,23.345,,False,False,4920.854,15,Dutch Grand Prix
+TSU,16.0,77.138,2.0,MEDIUM,4.0,1,True,AlphaTauri,False,13.0,26.548,27.191,23.399,,False,False,4997.992,15,Dutch Grand Prix
+TSU,17.0,77.336,2.0,MEDIUM,5.0,1,True,AlphaTauri,False,12.0,26.591,27.279,23.466,,False,False,5075.328,15,Dutch Grand Prix
+TSU,18.0,77.467,2.0,MEDIUM,6.0,1,True,AlphaTauri,False,12.0,26.732,27.322,23.413,,False,False,5152.795,15,Dutch Grand Prix
+TSU,19.0,77.652,2.0,MEDIUM,7.0,1,True,AlphaTauri,False,12.0,26.66,27.478,23.514,,False,False,5230.447,15,Dutch Grand Prix
+TSU,20.0,77.771,2.0,MEDIUM,8.0,1,True,AlphaTauri,False,12.0,26.717,27.564,23.49,,False,False,5308.218,15,Dutch Grand Prix
+TSU,21.0,77.482,2.0,MEDIUM,9.0,1,True,AlphaTauri,False,12.0,26.616,27.425,23.441,,False,False,5385.7,15,Dutch Grand Prix
+TSU,22.0,77.521,2.0,MEDIUM,10.0,1,True,AlphaTauri,False,11.0,26.634,27.427,23.46,,False,False,5463.221,15,Dutch Grand Prix
+TSU,23.0,77.324,2.0,MEDIUM,11.0,1,True,AlphaTauri,False,11.0,26.518,27.403,23.403,,False,False,5540.545,15,Dutch Grand Prix
+TSU,24.0,77.58,2.0,MEDIUM,12.0,1,True,AlphaTauri,False,11.0,26.659,27.505,23.416,,False,False,5618.125,15,Dutch Grand Prix
+TSU,25.0,77.412,2.0,MEDIUM,13.0,1,True,AlphaTauri,False,11.0,26.567,27.444,23.401,,False,False,5695.537,15,Dutch Grand Prix
+TSU,26.0,77.442,2.0,MEDIUM,14.0,1,True,AlphaTauri,False,11.0,26.663,27.408,23.371,,False,False,5772.979,15,Dutch Grand Prix
+TSU,27.0,77.703,2.0,MEDIUM,15.0,1,True,AlphaTauri,False,11.0,26.566,27.487,23.65,,False,False,5850.682,15,Dutch Grand Prix
+TSU,28.0,77.542,2.0,MEDIUM,16.0,1,True,AlphaTauri,False,11.0,26.698,27.352,23.492,,False,False,5928.224,15,Dutch Grand Prix
+TSU,29.0,77.482,2.0,MEDIUM,17.0,1,True,AlphaTauri,False,11.0,26.664,27.394,23.424,,False,False,6005.706,15,Dutch Grand Prix
+TSU,30.0,77.241,2.0,MEDIUM,18.0,1,True,AlphaTauri,False,11.0,26.522,27.356,23.363,,False,False,6082.947,15,Dutch Grand Prix
+TSU,31.0,77.359,2.0,MEDIUM,19.0,1,True,AlphaTauri,False,11.0,26.616,27.289,23.454,,False,False,6160.306,15,Dutch Grand Prix
+TSU,32.0,77.493,2.0,MEDIUM,20.0,1,True,AlphaTauri,False,11.0,26.57,27.423,23.5,,False,False,6237.799,15,Dutch Grand Prix
+TSU,33.0,77.526,2.0,MEDIUM,21.0,1,True,AlphaTauri,False,11.0,26.632,27.406,23.488,,False,False,6315.325,15,Dutch Grand Prix
+TSU,34.0,77.623,2.0,MEDIUM,22.0,1,True,AlphaTauri,False,11.0,26.683,27.43,23.51,,False,False,6392.948,15,Dutch Grand Prix
+TSU,35.0,77.761,2.0,MEDIUM,23.0,1,True,AlphaTauri,False,11.0,26.783,27.502,23.476,,False,False,6470.709,15,Dutch Grand Prix
+TSU,36.0,77.778,2.0,MEDIUM,24.0,1,True,AlphaTauri,False,11.0,26.591,27.512,23.675,,False,False,6548.487,15,Dutch Grand Prix
+TSU,37.0,77.721,2.0,MEDIUM,25.0,1,True,AlphaTauri,False,11.0,26.724,27.488,23.509,,False,False,6626.208,15,Dutch Grand Prix
+TSU,38.0,77.818,2.0,MEDIUM,26.0,1,True,AlphaTauri,False,11.0,26.8,27.54,23.478,,False,False,6704.026,15,Dutch Grand Prix
+TSU,39.0,77.362,2.0,MEDIUM,27.0,1,True,AlphaTauri,False,10.0,26.614,27.328,23.42,,False,False,6781.388,15,Dutch Grand Prix
+TSU,40.0,77.462,2.0,MEDIUM,28.0,1,True,AlphaTauri,False,10.0,26.531,27.512,23.419,,False,False,6858.85,15,Dutch Grand Prix
+TSU,41.0,77.276,2.0,MEDIUM,29.0,1,True,AlphaTauri,False,10.0,26.579,27.272,23.425,,False,False,6936.126,15,Dutch Grand Prix
+TSU,42.0,80.208,2.0,MEDIUM,30.0,1,False,AlphaTauri,False,11.0,26.561,27.396,26.251,,True,False,7016.334,15,Dutch Grand Prix
+TSU,43.0,,3.0,HARD,2.0,12,False,AlphaTauri,False,20.0,,52.399,41.886,,True,True,7224.68,15,Dutch Grand Prix
+ALB,1.0,89.058,1.0,MEDIUM,1.0,1,False,Williams,True,16.0,,29.821,24.39,,False,False,3805.964,15,Dutch Grand Prix
+ALB,2.0,79.365,1.0,MEDIUM,2.0,12,True,Williams,True,15.0,27.677,27.826,23.862,,False,False,3885.329,15,Dutch Grand Prix
+ALB,3.0,78.238,1.0,MEDIUM,3.0,1,True,Williams,True,15.0,27.014,27.743,23.481,,False,False,3963.567,15,Dutch Grand Prix
+ALB,4.0,78.214,1.0,MEDIUM,4.0,12,True,Williams,True,15.0,26.703,27.921,23.59,,False,False,4041.781,15,Dutch Grand Prix
+ALB,5.0,78.084,1.0,MEDIUM,5.0,1,True,Williams,True,15.0,26.601,27.95,23.533,,False,False,4119.865,15,Dutch Grand Prix
+ALB,6.0,78.23,1.0,MEDIUM,6.0,1,True,Williams,True,15.0,26.779,27.908,23.543,,False,False,4198.095,15,Dutch Grand Prix
+ALB,7.0,78.279,1.0,MEDIUM,7.0,1,True,Williams,True,15.0,26.609,28.05,23.62,,False,False,4276.374,15,Dutch Grand Prix
+ALB,8.0,78.575,1.0,MEDIUM,8.0,1,True,Williams,True,15.0,26.744,28.152,23.679,,False,False,4354.949,15,Dutch Grand Prix
+ALB,9.0,78.41,1.0,MEDIUM,9.0,1,True,Williams,True,15.0,26.812,27.932,23.666,,False,False,4433.359,15,Dutch Grand Prix
+ALB,10.0,78.585,1.0,MEDIUM,10.0,1,True,Williams,True,15.0,26.679,28.203,23.703,,False,False,4511.944,15,Dutch Grand Prix
+ALB,11.0,79.023,1.0,MEDIUM,11.0,1,True,Williams,True,14.0,26.912,28.497,23.614,,False,False,4590.967,15,Dutch Grand Prix
+ALB,12.0,78.849,1.0,MEDIUM,12.0,1,True,Williams,True,13.0,26.821,28.118,23.91,,False,False,4669.816,15,Dutch Grand Prix
+ALB,13.0,78.095,1.0,MEDIUM,13.0,1,True,Williams,True,12.0,26.633,27.839,23.623,,False,False,4747.911,15,Dutch Grand Prix
+ALB,14.0,77.978,1.0,MEDIUM,14.0,1,True,Williams,True,10.0,26.642,27.856,23.48,,False,False,4825.889,15,Dutch Grand Prix
+ALB,15.0,78.232,1.0,MEDIUM,15.0,1,True,Williams,True,9.0,26.663,28.006,23.563,,False,False,4904.121,15,Dutch Grand Prix
+ALB,16.0,78.109,1.0,MEDIUM,16.0,1,True,Williams,True,9.0,26.562,27.869,23.678,,False,False,4982.23,15,Dutch Grand Prix
+ALB,17.0,78.21,1.0,MEDIUM,17.0,1,True,Williams,True,8.0,26.629,27.982,23.599,,False,False,5060.44,15,Dutch Grand Prix
+ALB,18.0,78.194,1.0,MEDIUM,18.0,1,True,Williams,True,7.0,26.657,28.03,23.507,,False,False,5138.634,15,Dutch Grand Prix
+ALB,19.0,77.993,1.0,MEDIUM,19.0,1,True,Williams,True,6.0,26.618,27.818,23.557,,False,False,5216.627,15,Dutch Grand Prix
+ALB,20.0,79.308,1.0,MEDIUM,20.0,1,True,Williams,True,7.0,27.4,28.172,23.736,,False,False,5295.935,15,Dutch Grand Prix
+ALB,21.0,81.291,1.0,MEDIUM,21.0,1,False,Williams,True,9.0,26.579,27.997,26.715,,True,False,5377.226,15,Dutch Grand Prix
+ALB,22.0,95.909,2.0,MEDIUM,1.0,1,False,Williams,True,16.0,45.188,27.353,23.368,,False,True,5473.135,15,Dutch Grand Prix
+ALB,23.0,77.427,2.0,MEDIUM,2.0,1,True,Williams,True,16.0,26.493,27.519,23.415,,False,False,5550.562,15,Dutch Grand Prix
+ALB,24.0,77.315,2.0,MEDIUM,3.0,1,True,Williams,True,16.0,26.434,27.511,23.37,,False,False,5627.877,15,Dutch Grand Prix
+ALB,25.0,77.454,2.0,MEDIUM,4.0,1,True,Williams,True,16.0,26.458,27.669,23.327,,False,False,5705.331,15,Dutch Grand Prix
+ALB,26.0,77.438,2.0,MEDIUM,5.0,1,True,Williams,True,16.0,26.393,27.654,23.391,,False,False,5782.769,15,Dutch Grand Prix
+ALB,27.0,77.644,2.0,MEDIUM,6.0,1,True,Williams,True,16.0,26.424,27.802,23.418,,False,False,5860.413,15,Dutch Grand Prix
+ALB,28.0,77.533,2.0,MEDIUM,7.0,1,True,Williams,True,16.0,26.431,27.799,23.303,,False,False,5937.946,15,Dutch Grand Prix
+ALB,29.0,77.456,2.0,MEDIUM,8.0,1,True,Williams,True,16.0,26.508,27.729,23.219,,False,False,6015.402,15,Dutch Grand Prix
+ALB,30.0,77.368,2.0,MEDIUM,9.0,1,True,Williams,True,16.0,26.362,27.706,23.3,,False,False,6092.77,15,Dutch Grand Prix
+ALB,31.0,78.04,2.0,MEDIUM,10.0,1,True,Williams,True,16.0,26.598,27.869,23.573,,False,False,6170.81,15,Dutch Grand Prix
+ALB,32.0,77.868,2.0,MEDIUM,11.0,1,True,Williams,True,16.0,26.515,27.921,23.432,,False,False,6248.678,15,Dutch Grand Prix
+ALB,33.0,77.693,2.0,MEDIUM,12.0,1,True,Williams,True,14.0,26.449,27.982,23.262,,False,False,6326.371,15,Dutch Grand Prix
+ALB,34.0,77.451,2.0,MEDIUM,13.0,1,True,Williams,True,13.0,26.397,27.74,23.314,,False,False,6403.822,15,Dutch Grand Prix
+ALB,35.0,77.178,2.0,MEDIUM,14.0,1,True,Williams,True,13.0,26.418,27.579,23.181,,False,False,6481.0,15,Dutch Grand Prix
+ALB,36.0,77.272,2.0,MEDIUM,15.0,1,True,Williams,True,13.0,26.349,27.639,23.284,,False,False,6558.272,15,Dutch Grand Prix
+ALB,37.0,77.225,2.0,MEDIUM,16.0,1,True,Williams,True,13.0,26.403,27.526,23.296,,False,False,6635.497,15,Dutch Grand Prix
+ALB,38.0,77.157,2.0,MEDIUM,17.0,1,True,Williams,True,12.0,26.414,27.508,23.235,,False,False,6712.654,15,Dutch Grand Prix
+ALB,39.0,77.235,2.0,MEDIUM,18.0,1,True,Williams,True,12.0,26.259,27.636,23.34,,False,False,6789.889,15,Dutch Grand Prix
+ALB,40.0,77.187,2.0,MEDIUM,19.0,1,True,Williams,True,12.0,26.281,27.669,23.237,,False,False,6867.076,15,Dutch Grand Prix
+ALB,41.0,77.061,2.0,MEDIUM,20.0,1,True,Williams,True,12.0,26.354,27.499,23.208,,False,False,6944.137,15,Dutch Grand Prix
+ALB,42.0,80.291,2.0,MEDIUM,21.0,1,False,Williams,True,12.0,26.266,27.557,26.468,,True,False,7024.428,15,Dutch Grand Prix
+ALB,43.0,96.277,3.0,HARD,1.0,12,False,Williams,True,12.0,46.025,27.087,23.165,,False,True,7120.705,15,Dutch Grand Prix
+ALB,44.0,76.592,3.0,HARD,2.0,21,True,Williams,True,12.0,26.501,26.888,23.203,,False,False,7197.297,15,Dutch Grand Prix
+ALB,45.0,76.318,3.0,HARD,3.0,1,True,Williams,True,12.0,26.328,26.924,23.066,,False,False,7273.615,15,Dutch Grand Prix
+ALB,46.0,76.269,3.0,HARD,4.0,126,False,Williams,True,12.0,26.217,27.016,23.036,,False,False,7349.884,15,Dutch Grand Prix
+ALB,47.0,105.813,3.0,HARD,5.0,6,False,Williams,True,12.0,37.798,35.851,32.164,,False,False,7455.697,15,Dutch Grand Prix
+ALB,48.0,103.395,3.0,HARD,6.0,6,False,Williams,True,12.0,36.754,35.499,31.142,,False,False,7559.092,15,Dutch Grand Prix
+ALB,49.0,81.066,3.0,HARD,7.0,671,False,Williams,True,12.0,31.12,26.91,23.036,,False,False,7640.158,15,Dutch Grand Prix
+ALB,50.0,76.109,3.0,HARD,8.0,1,True,Williams,True,12.0,26.115,26.855,23.139,,False,False,7716.267,15,Dutch Grand Prix
+ALB,51.0,77.3,3.0,HARD,9.0,1,True,Williams,True,12.0,26.21,27.855,23.235,,False,False,7793.567,15,Dutch Grand Prix
+ALB,52.0,77.661,3.0,HARD,10.0,1,True,Williams,True,12.0,27.213,27.437,23.011,,False,False,7871.228,15,Dutch Grand Prix
+ALB,53.0,75.768,3.0,HARD,11.0,1,True,Williams,True,12.0,25.902,26.921,22.945,,False,False,7946.996,15,Dutch Grand Prix
+ALB,54.0,75.784,3.0,HARD,12.0,12,True,Williams,True,12.0,25.902,26.896,22.986,,False,False,8022.78,15,Dutch Grand Prix
+ALB,55.0,93.432,3.0,HARD,13.0,24,False,Williams,True,12.0,26.186,34.033,33.213,,True,False,8116.212,15,Dutch Grand Prix
+ALB,56.0,129.526,4.0,SOFT,1.0,4,False,Williams,True,12.0,54.738,36.256,38.532,,True,True,8245.738,15,Dutch Grand Prix
+ALB,57.0,137.338,5.0,SOFT,2.0,4,False,Williams,False,12.0,53.079,45.362,38.897,,False,True,8383.076,15,Dutch Grand Prix
+ALB,58.0,92.025,5.0,SOFT,3.0,4,False,Williams,False,12.0,40.97,27.705,23.35,,False,False,8475.101,15,Dutch Grand Prix
+ALB,59.0,77.549,5.0,SOFT,4.0,4,False,Williams,False,12.0,26.993,26.878,23.678,,False,False,8552.65,15,Dutch Grand Prix
+ALB,60.0,83.248,5.0,SOFT,5.0,41,False,Williams,False,12.0,27.057,27.975,28.216,,False,False,8635.898,15,Dutch Grand Prix
+ALB,61.0,76.774,5.0,SOFT,6.0,1,True,Williams,False,12.0,26.512,27.325,22.937,,False,False,8712.672,15,Dutch Grand Prix
+ALB,62.0,76.534,5.0,SOFT,7.0,1,True,Williams,False,12.0,26.222,27.364,22.948,,False,False,8789.206,15,Dutch Grand Prix
+ALB,63.0,75.811,5.0,SOFT,8.0,1,True,Williams,False,12.0,26.014,26.869,22.928,,False,False,8865.017,15,Dutch Grand Prix
+ALB,64.0,75.702,5.0,SOFT,9.0,1,True,Williams,False,12.0,25.869,27.027,22.806,,False,False,8940.719,15,Dutch Grand Prix
+ALB,65.0,75.534,5.0,SOFT,10.0,1,True,Williams,False,12.0,25.827,26.864,22.843,,False,False,9016.253,15,Dutch Grand Prix
+ALB,66.0,75.612,5.0,SOFT,11.0,1,True,Williams,False,12.0,25.88,26.971,22.761,,False,False,9091.865,15,Dutch Grand Prix
+ALB,67.0,75.803,5.0,SOFT,12.0,1,True,Williams,False,12.0,25.933,26.836,23.034,,False,False,9167.668,15,Dutch Grand Prix
+ALB,68.0,76.066,5.0,SOFT,13.0,1,True,Williams,False,12.0,26.052,27.22,22.794,,False,False,9243.734,15,Dutch Grand Prix
+ALB,69.0,76.138,5.0,SOFT,14.0,1,True,Williams,False,12.0,25.946,27.199,22.993,,False,False,9319.872,15,Dutch Grand Prix
+ALB,70.0,76.144,5.0,SOFT,15.0,1,True,Williams,False,12.0,25.905,27.182,23.057,,False,False,9396.016,15,Dutch Grand Prix
+ALB,71.0,76.82,5.0,SOFT,16.0,1,True,Williams,False,12.0,26.011,27.566,23.243,,False,False,9472.836,15,Dutch Grand Prix
+ALB,72.0,77.233,5.0,SOFT,17.0,1,True,Williams,False,12.0,26.016,27.359,23.858,,False,False,9550.069,15,Dutch Grand Prix
+ZHO,1.0,88.456,1.0,SOFT,1.0,1,False,Alfa Romeo,True,14.0,,29.215,24.632,,False,False,3805.362,15,Dutch Grand Prix
+ZHO,2.0,79.223,1.0,SOFT,2.0,12,True,Alfa Romeo,True,14.0,27.227,28.025,23.971,,False,False,3884.585,15,Dutch Grand Prix
+ZHO,3.0,78.228,1.0,SOFT,3.0,1,True,Alfa Romeo,True,14.0,27.287,27.572,23.369,,False,False,3962.813,15,Dutch Grand Prix
+ZHO,4.0,78.08,1.0,SOFT,4.0,12,True,Alfa Romeo,True,14.0,26.852,27.824,23.404,,False,False,4040.893,15,Dutch Grand Prix
+ZHO,5.0,78.151,1.0,SOFT,5.0,1,True,Alfa Romeo,True,14.0,26.963,27.737,23.451,,False,False,4119.044,15,Dutch Grand Prix
+ZHO,6.0,78.011,1.0,SOFT,6.0,1,True,Alfa Romeo,True,14.0,26.856,27.768,23.387,,False,False,4197.055,15,Dutch Grand Prix
+ZHO,7.0,78.067,1.0,SOFT,7.0,1,True,Alfa Romeo,True,14.0,26.747,27.821,23.499,,False,False,4275.122,15,Dutch Grand Prix
+ZHO,8.0,78.358,1.0,SOFT,8.0,1,True,Alfa Romeo,True,14.0,26.848,27.912,23.598,,False,False,4353.48,15,Dutch Grand Prix
+ZHO,9.0,78.144,1.0,SOFT,9.0,1,True,Alfa Romeo,True,14.0,26.588,27.882,23.674,,False,False,4431.624,15,Dutch Grand Prix
+ZHO,10.0,78.906,1.0,SOFT,10.0,1,True,Alfa Romeo,True,14.0,27.273,27.997,23.636,,False,False,4510.53,15,Dutch Grand Prix
+ZHO,11.0,79.549,1.0,SOFT,11.0,1,True,Alfa Romeo,True,13.0,27.951,28.013,23.585,,False,False,4590.079,15,Dutch Grand Prix
+ZHO,12.0,81.319,1.0,SOFT,12.0,1,False,Alfa Romeo,True,15.0,26.578,27.701,27.04,,True,False,4671.398,15,Dutch Grand Prix
+ZHO,13.0,96.272,2.0,SOFT,4.0,1,False,Alfa Romeo,False,18.0,45.837,26.873,23.562,,False,True,4767.67,15,Dutch Grand Prix
+ZHO,14.0,76.941,2.0,SOFT,5.0,1,True,Alfa Romeo,False,16.0,26.556,27.222,23.163,,False,False,4844.611,15,Dutch Grand Prix
+ZHO,15.0,77.553,2.0,SOFT,6.0,1,True,Alfa Romeo,False,15.0,26.605,27.64,23.308,,False,False,4922.164,15,Dutch Grand Prix
+ZHO,16.0,77.186,2.0,SOFT,7.0,1,True,Alfa Romeo,False,15.0,26.618,27.396,23.172,,False,False,4999.35,15,Dutch Grand Prix
+ZHO,17.0,77.162,2.0,SOFT,8.0,1,True,Alfa Romeo,False,14.0,26.404,27.495,23.263,,False,False,5076.512,15,Dutch Grand Prix
+ZHO,18.0,77.605,2.0,SOFT,9.0,1,True,Alfa Romeo,False,14.0,26.664,27.689,23.252,,False,False,5154.117,15,Dutch Grand Prix
+ZHO,19.0,77.525,2.0,SOFT,10.0,1,True,Alfa Romeo,False,14.0,26.639,27.551,23.335,,False,False,5231.642,15,Dutch Grand Prix
+ZHO,20.0,77.848,2.0,SOFT,11.0,1,True,Alfa Romeo,False,14.0,26.71,27.754,23.384,,False,False,5309.49,15,Dutch Grand Prix
+ZHO,21.0,77.7,2.0,SOFT,12.0,1,True,Alfa Romeo,False,14.0,26.7,27.667,23.333,,False,False,5387.19,15,Dutch Grand Prix
+ZHO,22.0,77.87,2.0,SOFT,13.0,1,True,Alfa Romeo,False,13.0,26.644,27.586,23.64,,False,False,5465.06,15,Dutch Grand Prix
+ZHO,23.0,77.911,2.0,SOFT,14.0,1,True,Alfa Romeo,False,13.0,26.761,27.63,23.52,,False,False,5542.971,15,Dutch Grand Prix
+ZHO,24.0,77.657,2.0,SOFT,15.0,1,True,Alfa Romeo,False,13.0,26.557,27.662,23.438,,False,False,5620.628,15,Dutch Grand Prix
+ZHO,25.0,77.645,2.0,SOFT,16.0,1,True,Alfa Romeo,False,13.0,26.604,27.722,23.319,,False,False,5698.273,15,Dutch Grand Prix
+ZHO,26.0,77.645,2.0,SOFT,17.0,1,True,Alfa Romeo,False,13.0,26.706,27.716,23.223,,False,False,5775.918,15,Dutch Grand Prix
+ZHO,27.0,77.785,2.0,SOFT,18.0,1,True,Alfa Romeo,False,13.0,26.857,27.568,23.36,,False,False,5853.703,15,Dutch Grand Prix
+ZHO,28.0,77.501,2.0,SOFT,19.0,1,True,Alfa Romeo,False,13.0,26.543,27.764,23.194,,False,False,5931.204,15,Dutch Grand Prix
+ZHO,29.0,78.117,2.0,SOFT,20.0,1,True,Alfa Romeo,False,13.0,27.078,27.607,23.432,,False,False,6009.321,15,Dutch Grand Prix
+ZHO,30.0,77.461,2.0,SOFT,21.0,1,True,Alfa Romeo,False,13.0,26.53,27.725,23.206,,False,False,6086.782,15,Dutch Grand Prix
+ZHO,31.0,78.164,2.0,SOFT,22.0,1,True,Alfa Romeo,False,13.0,27.117,27.716,23.331,,False,False,6164.946,15,Dutch Grand Prix
+ZHO,32.0,77.771,2.0,SOFT,23.0,1,True,Alfa Romeo,False,12.0,26.607,27.717,23.447,,False,False,6242.717,15,Dutch Grand Prix
+ZHO,33.0,77.271,2.0,SOFT,24.0,1,True,Alfa Romeo,False,12.0,26.392,27.486,23.393,,False,False,6319.988,15,Dutch Grand Prix
+ZHO,34.0,77.517,2.0,SOFT,25.0,1,True,Alfa Romeo,False,12.0,26.586,27.46,23.471,,False,False,6397.505,15,Dutch Grand Prix
+ZHO,35.0,77.424,2.0,SOFT,26.0,1,True,Alfa Romeo,False,12.0,26.461,27.479,23.484,,False,False,6474.929,15,Dutch Grand Prix
+ZHO,36.0,78.124,2.0,SOFT,27.0,1,True,Alfa Romeo,False,12.0,26.538,27.802,23.784,,False,False,6553.053,15,Dutch Grand Prix
+ZHO,37.0,81.99,2.0,SOFT,28.0,1,False,Alfa Romeo,False,12.0,26.722,27.833,27.435,,True,False,6635.043,15,Dutch Grand Prix
+ZHO,38.0,103.266,3.0,MEDIUM,1.0,1,False,Alfa Romeo,True,15.0,52.636,27.248,23.382,,False,True,6738.309,15,Dutch Grand Prix
+ZHO,39.0,78.4,3.0,MEDIUM,2.0,1,True,Alfa Romeo,True,15.0,26.285,27.788,24.327,,False,False,6816.709,15,Dutch Grand Prix
+ZHO,40.0,76.711,3.0,MEDIUM,3.0,1,True,Alfa Romeo,True,15.0,26.513,26.961,23.237,,False,False,6893.42,15,Dutch Grand Prix
+ZHO,41.0,76.613,3.0,MEDIUM,4.0,1,True,Alfa Romeo,True,15.0,26.457,26.935,23.221,,False,False,6970.033,15,Dutch Grand Prix
+ZHO,42.0,76.872,3.0,MEDIUM,5.0,1,True,Alfa Romeo,True,15.0,26.453,27.144,23.275,,False,False,7046.905,15,Dutch Grand Prix
+ZHO,43.0,77.214,3.0,MEDIUM,6.0,12,True,Alfa Romeo,True,14.0,26.487,27.33,23.397,,False,False,7124.119,15,Dutch Grand Prix
+ZHO,44.0,77.017,3.0,MEDIUM,7.0,21,True,Alfa Romeo,True,14.0,26.464,27.229,23.324,,False,False,7201.136,15,Dutch Grand Prix
+ZHO,45.0,76.717,3.0,MEDIUM,8.0,1,True,Alfa Romeo,True,14.0,26.393,27.098,23.226,,False,False,7277.853,15,Dutch Grand Prix
+ZHO,46.0,81.571,3.0,MEDIUM,9.0,126,False,Alfa Romeo,True,14.0,26.426,27.118,28.027,,False,False,7359.424,15,Dutch Grand Prix
+ZHO,47.0,103.031,3.0,MEDIUM,10.0,6,False,Alfa Romeo,True,14.0,36.593,34.349,32.089,,False,False,7462.455,15,Dutch Grand Prix
+ZHO,48.0,102.67,3.0,MEDIUM,11.0,67,False,Alfa Romeo,True,14.0,36.787,34.409,31.474,,False,False,7565.125,15,Dutch Grand Prix
+ZHO,49.0,83.183,3.0,MEDIUM,12.0,71,False,Alfa Romeo,True,14.0,30.989,27.833,24.361,,False,False,7648.308,15,Dutch Grand Prix
+ZHO,50.0,77.958,3.0,MEDIUM,13.0,1,True,Alfa Romeo,True,14.0,26.917,27.139,23.902,,False,False,7726.266,15,Dutch Grand Prix
+ZHO,51.0,79.011,3.0,MEDIUM,14.0,1,True,Alfa Romeo,True,14.0,28.188,27.327,23.496,,False,False,7805.277,15,Dutch Grand Prix
+ZHO,52.0,76.523,3.0,MEDIUM,15.0,1,True,Alfa Romeo,True,14.0,26.43,26.918,23.175,,False,False,7881.8,15,Dutch Grand Prix
+ZHO,53.0,78.139,3.0,MEDIUM,16.0,1,True,Alfa Romeo,True,14.0,26.267,28.189,23.683,,False,False,7959.939,15,Dutch Grand Prix
+ZHO,54.0,76.953,3.0,MEDIUM,17.0,12,True,Alfa Romeo,True,13.0,26.502,26.996,23.455,,False,False,8036.892,15,Dutch Grand Prix
+ZHO,55.0,99.384,3.0,MEDIUM,18.0,24,False,Alfa Romeo,True,13.0,28.56,36.635,34.189,,True,False,8136.276,15,Dutch Grand Prix
+ZHO,56.0,126.368,4.0,SOFT,4.0,4,False,Alfa Romeo,False,16.0,52.604,36.382,37.382,,True,True,8262.644,15,Dutch Grand Prix
+ZHO,57.0,128.769,5.0,SOFT,5.0,4,False,Alfa Romeo,False,16.0,46.32,45.341,37.108,,False,True,8391.413,15,Dutch Grand Prix
+ZHO,58.0,94.134,5.0,SOFT,6.0,4,False,Alfa Romeo,False,16.0,39.535,30.344,24.255,,False,False,8485.547,15,Dutch Grand Prix
+ZHO,59.0,77.485,5.0,SOFT,7.0,4,False,Alfa Romeo,False,16.0,26.846,27.095,23.544,,False,False,8563.032,15,Dutch Grand Prix
+ZHO,60.0,76.641,5.0,SOFT,8.0,41,False,Alfa Romeo,False,16.0,26.745,26.705,23.191,,False,False,8639.673,15,Dutch Grand Prix
+ZHO,61.0,76.597,5.0,SOFT,9.0,1,True,Alfa Romeo,False,16.0,26.648,26.812,23.137,,False,False,8716.27,15,Dutch Grand Prix
+ZHO,62.0,76.131,5.0,SOFT,10.0,1,True,Alfa Romeo,False,16.0,26.208,26.733,23.19,,False,False,8792.401,15,Dutch Grand Prix
+ZHO,63.0,75.94,5.0,SOFT,11.0,1,True,Alfa Romeo,False,16.0,26.189,26.724,23.027,,False,False,8868.341,15,Dutch Grand Prix
+ZHO,64.0,76.53,5.0,SOFT,12.0,1,True,Alfa Romeo,False,16.0,26.573,26.87,23.087,,False,False,8944.871,15,Dutch Grand Prix
+ZHO,65.0,76.254,5.0,SOFT,13.0,1,True,Alfa Romeo,False,16.0,26.222,26.931,23.101,,False,False,9021.125,15,Dutch Grand Prix
+ZHO,66.0,76.01,5.0,SOFT,14.0,1,True,Alfa Romeo,False,16.0,26.349,26.701,22.96,,False,False,9097.135,15,Dutch Grand Prix
+ZHO,67.0,76.789,5.0,SOFT,15.0,1,True,Alfa Romeo,False,16.0,26.849,27.01,22.93,,False,False,9173.924,15,Dutch Grand Prix
+ZHO,68.0,76.407,5.0,SOFT,16.0,1,True,Alfa Romeo,False,16.0,26.506,26.87,23.031,,False,False,9250.331,15,Dutch Grand Prix
+ZHO,69.0,76.711,5.0,SOFT,17.0,1,True,Alfa Romeo,False,16.0,26.805,26.849,23.057,,False,False,9327.042,15,Dutch Grand Prix
+ZHO,70.0,76.253,5.0,SOFT,18.0,1,True,Alfa Romeo,False,16.0,26.216,27.079,22.958,,False,False,9403.295,15,Dutch Grand Prix
+ZHO,71.0,76.829,5.0,SOFT,19.0,1,True,Alfa Romeo,False,16.0,26.701,27.041,23.087,,False,False,9480.124,15,Dutch Grand Prix
+ZHO,72.0,76.875,5.0,SOFT,20.0,1,True,Alfa Romeo,False,16.0,26.415,27.282,23.178,,False,False,9556.999,15,Dutch Grand Prix
+RIC,1.0,89.735,1.0,SOFT,1.0,1,False,McLaren,True,17.0,,29.754,24.937,,False,False,3806.641,15,Dutch Grand Prix
+RIC,2.0,79.254,1.0,SOFT,2.0,12,True,McLaren,True,16.0,27.332,27.987,23.935,,False,False,3885.895,15,Dutch Grand Prix
+RIC,3.0,78.43,1.0,SOFT,3.0,1,True,McLaren,True,16.0,26.977,27.875,23.578,,False,False,3964.325,15,Dutch Grand Prix
+RIC,4.0,78.286,1.0,SOFT,4.0,12,True,McLaren,True,16.0,26.821,27.774,23.691,,False,False,4042.611,15,Dutch Grand Prix
+RIC,5.0,78.074,1.0,SOFT,5.0,1,True,McLaren,True,16.0,26.616,27.864,23.594,,False,False,4120.685,15,Dutch Grand Prix
+RIC,6.0,78.356,1.0,SOFT,6.0,1,True,McLaren,True,16.0,26.706,27.907,23.743,,False,False,4199.041,15,Dutch Grand Prix
+RIC,7.0,78.094,1.0,SOFT,7.0,1,True,McLaren,True,16.0,26.736,27.633,23.725,,False,False,4277.135,15,Dutch Grand Prix
+RIC,8.0,78.395,1.0,SOFT,8.0,1,True,McLaren,True,16.0,26.773,27.825,23.797,,False,False,4355.53,15,Dutch Grand Prix
+RIC,9.0,78.647,1.0,SOFT,9.0,1,True,McLaren,True,16.0,26.932,28.01,23.705,,False,False,4434.177,15,Dutch Grand Prix
+RIC,10.0,78.491,1.0,SOFT,10.0,1,True,McLaren,True,16.0,26.734,27.896,23.861,,False,False,4512.668,15,Dutch Grand Prix
+RIC,11.0,82.628,1.0,SOFT,11.0,1,False,McLaren,True,17.0,26.928,28.258,27.442,,True,False,4595.296,15,Dutch Grand Prix
+RIC,12.0,97.459,2.0,MEDIUM,1.0,1,False,McLaren,True,20.0,46.046,27.73,23.683,,False,True,4692.755,15,Dutch Grand Prix
+RIC,13.0,78.079,2.0,MEDIUM,2.0,1,True,McLaren,True,20.0,26.825,27.509,23.745,,False,False,4770.834,15,Dutch Grand Prix
+RIC,14.0,78.039,2.0,MEDIUM,3.0,1,True,McLaren,True,19.0,26.796,27.725,23.518,,False,False,4848.873,15,Dutch Grand Prix
+RIC,15.0,78.408,2.0,MEDIUM,4.0,1,True,McLaren,True,18.0,26.589,27.805,24.014,,False,False,4927.281,15,Dutch Grand Prix
+RIC,16.0,78.178,2.0,MEDIUM,5.0,1,True,McLaren,True,18.0,26.918,27.774,23.486,,False,False,5005.459,15,Dutch Grand Prix
+RIC,17.0,79.203,2.0,MEDIUM,6.0,1,True,McLaren,True,18.0,27.303,28.079,23.821,,False,False,5084.662,15,Dutch Grand Prix
+RIC,18.0,78.794,2.0,MEDIUM,7.0,1,True,McLaren,True,18.0,26.784,28.095,23.915,,False,False,5163.456,15,Dutch Grand Prix
+RIC,19.0,78.161,2.0,MEDIUM,8.0,1,True,McLaren,True,18.0,26.774,28.003,23.384,,False,False,5241.617,15,Dutch Grand Prix
+RIC,20.0,78.009,2.0,MEDIUM,9.0,1,True,McLaren,True,18.0,26.71,27.942,23.357,,False,False,5319.626,15,Dutch Grand Prix
+RIC,21.0,77.85,2.0,MEDIUM,10.0,1,True,McLaren,True,18.0,26.766,27.672,23.412,,False,False,5397.476,15,Dutch Grand Prix
+RIC,22.0,78.287,2.0,MEDIUM,11.0,1,True,McLaren,True,18.0,26.896,27.951,23.44,,False,False,5475.763,15,Dutch Grand Prix
+RIC,23.0,78.105,2.0,MEDIUM,12.0,1,True,McLaren,True,18.0,26.673,27.934,23.498,,False,False,5553.868,15,Dutch Grand Prix
+RIC,24.0,77.911,2.0,MEDIUM,13.0,1,True,McLaren,True,18.0,26.707,27.809,23.395,,False,False,5631.779,15,Dutch Grand Prix
+RIC,25.0,77.964,2.0,MEDIUM,14.0,1,True,McLaren,True,18.0,26.62,27.827,23.517,,False,False,5709.743,15,Dutch Grand Prix
+RIC,26.0,78.276,2.0,MEDIUM,15.0,1,True,McLaren,True,18.0,26.682,27.904,23.69,,False,False,5788.019,15,Dutch Grand Prix
+RIC,27.0,80.852,2.0,MEDIUM,16.0,1,False,McLaren,True,19.0,26.556,27.729,26.567,,True,False,5868.871,15,Dutch Grand Prix
+RIC,28.0,98.317,3.0,HARD,1.0,1,False,McLaren,True,19.0,46.804,27.761,23.752,,False,True,5967.188,15,Dutch Grand Prix
+RIC,29.0,77.091,3.0,HARD,2.0,1,True,McLaren,True,19.0,26.514,27.069,23.508,,False,False,6044.279,15,Dutch Grand Prix
+RIC,30.0,76.879,3.0,HARD,3.0,1,True,McLaren,True,19.0,26.412,27.089,23.378,,False,False,6121.158,15,Dutch Grand Prix
+RIC,31.0,77.033,3.0,HARD,4.0,1,True,McLaren,True,19.0,26.372,27.12,23.541,,False,False,6198.191,15,Dutch Grand Prix
+RIC,32.0,76.767,3.0,HARD,5.0,1,True,McLaren,True,19.0,26.315,27.064,23.388,,False,False,6274.958,15,Dutch Grand Prix
+RIC,33.0,76.728,3.0,HARD,6.0,1,True,McLaren,True,19.0,26.349,27.034,23.345,,False,False,6351.686,15,Dutch Grand Prix
+RIC,34.0,81.313,3.0,HARD,7.0,1,True,McLaren,True,18.0,26.722,30.447,24.144,,False,False,6432.999,15,Dutch Grand Prix
+RIC,35.0,78.043,3.0,HARD,8.0,1,True,McLaren,True,17.0,27.093,27.346,23.604,,False,False,6511.042,15,Dutch Grand Prix
+RIC,36.0,78.928,3.0,HARD,9.0,1,True,McLaren,True,17.0,26.643,28.727,23.558,,False,False,6589.97,15,Dutch Grand Prix
+RIC,37.0,77.491,3.0,HARD,10.0,1,True,McLaren,True,17.0,26.558,27.724,23.209,,False,False,6667.461,15,Dutch Grand Prix
+RIC,38.0,77.038,3.0,HARD,11.0,1,True,McLaren,True,17.0,26.373,27.343,23.322,,False,False,6744.499,15,Dutch Grand Prix
+RIC,39.0,76.782,3.0,HARD,12.0,1,True,McLaren,True,17.0,26.418,27.19,23.174,,False,False,6821.281,15,Dutch Grand Prix
+RIC,40.0,78.026,3.0,HARD,13.0,1,True,McLaren,True,18.0,26.264,27.561,24.201,,False,False,6899.307,15,Dutch Grand Prix
+RIC,41.0,79.124,3.0,HARD,14.0,1,True,McLaren,True,19.0,27.87,27.59,23.664,,False,False,6978.431,15,Dutch Grand Prix
+RIC,42.0,77.488,3.0,HARD,15.0,1,True,McLaren,True,19.0,26.498,27.433,23.557,,False,False,7055.919,15,Dutch Grand Prix
+RIC,43.0,77.346,3.0,HARD,16.0,12,True,McLaren,True,18.0,26.442,27.43,23.474,,False,False,7133.265,15,Dutch Grand Prix
+RIC,44.0,77.177,3.0,HARD,17.0,21,True,McLaren,True,18.0,26.392,27.189,23.596,,False,False,7210.442,15,Dutch Grand Prix
+RIC,45.0,77.92,3.0,HARD,18.0,1,True,McLaren,True,18.0,26.762,27.634,23.524,,False,False,7288.362,15,Dutch Grand Prix
+RIC,46.0,84.279,3.0,HARD,19.0,126,False,McLaren,True,18.0,26.952,27.247,30.08,,False,False,7372.641,15,Dutch Grand Prix
+RIC,47.0,107.517,3.0,HARD,20.0,6,False,McLaren,True,18.0,37.456,36.668,33.393,,True,False,7480.158,15,Dutch Grand Prix
+RIC,48.0,113.555,4.0,SOFT,1.0,671,False,McLaren,True,18.0,53.455,35.213,24.887,,False,True,7593.713,15,Dutch Grand Prix
+RIC,49.0,76.114,4.0,SOFT,2.0,1,True,McLaren,True,18.0,26.368,26.556,23.19,,False,False,7669.827,15,Dutch Grand Prix
+RIC,50.0,75.667,4.0,SOFT,3.0,1,True,McLaren,True,18.0,25.96,26.602,23.105,,False,False,7745.494,15,Dutch Grand Prix
+RIC,51.0,75.771,4.0,SOFT,4.0,1,True,McLaren,True,18.0,25.996,26.639,23.136,,False,False,7821.265,15,Dutch Grand Prix
+RIC,52.0,75.577,4.0,SOFT,5.0,1,True,McLaren,True,18.0,25.893,26.62,23.064,,False,False,7896.842,15,Dutch Grand Prix
+RIC,53.0,75.658,4.0,SOFT,6.0,1,True,McLaren,True,18.0,25.963,26.732,22.963,,False,False,7972.5,15,Dutch Grand Prix
+RIC,54.0,76.084,4.0,SOFT,7.0,12,True,McLaren,True,17.0,26.161,26.816,23.107,,False,False,8048.584,15,Dutch Grand Prix
+RIC,55.0,105.119,4.0,SOFT,8.0,24,False,McLaren,True,17.0,36.781,33.718,34.62,,True,False,8153.703,15,Dutch Grand Prix
+RIC,56.0,128.784,5.0,SOFT,1.0,4,False,McLaren,True,17.0,58.254,31.392,39.138,,True,True,8282.487,15,Dutch Grand Prix
+RIC,57.0,116.922,6.0,SOFT,2.0,4,False,McLaren,False,17.0,44.397,36.436,36.089,,False,True,8399.409,15,Dutch Grand Prix
+RIC,58.0,90.474,6.0,SOFT,3.0,4,False,McLaren,False,17.0,35.46,31.508,23.506,,False,False,8489.883,15,Dutch Grand Prix
+RIC,59.0,76.875,6.0,SOFT,4.0,4,False,McLaren,False,17.0,26.885,26.819,23.171,,False,False,8566.758,15,Dutch Grand Prix
+RIC,60.0,75.652,6.0,SOFT,5.0,41,False,McLaren,False,17.0,26.041,26.634,22.977,,False,False,8642.41,15,Dutch Grand Prix
+RIC,61.0,76.259,6.0,SOFT,6.0,1,True,McLaren,False,17.0,26.098,26.945,23.216,,False,False,8718.669,15,Dutch Grand Prix
+RIC,62.0,75.859,6.0,SOFT,7.0,1,True,McLaren,False,17.0,26.036,26.841,22.982,,False,False,8794.528,15,Dutch Grand Prix
+RIC,63.0,75.734,6.0,SOFT,8.0,1,True,McLaren,False,17.0,25.881,26.725,23.128,,False,False,8870.262,15,Dutch Grand Prix
+RIC,64.0,76.244,6.0,SOFT,9.0,1,True,McLaren,False,17.0,26.189,26.883,23.172,,False,False,8946.506,15,Dutch Grand Prix
+RIC,65.0,75.952,6.0,SOFT,10.0,1,True,McLaren,False,17.0,26.015,26.892,23.045,,False,False,9022.458,15,Dutch Grand Prix
+RIC,66.0,75.951,6.0,SOFT,11.0,1,True,McLaren,False,17.0,25.984,26.931,23.036,,False,False,9098.409,15,Dutch Grand Prix
+RIC,67.0,76.298,6.0,SOFT,12.0,1,True,McLaren,False,17.0,26.178,27.181,22.939,,False,False,9174.707,15,Dutch Grand Prix
+RIC,68.0,76.663,6.0,SOFT,13.0,1,True,McLaren,False,17.0,26.301,27.224,23.138,,False,False,9251.37,15,Dutch Grand Prix
+RIC,69.0,76.572,6.0,SOFT,14.0,1,True,McLaren,False,17.0,26.193,27.34,23.039,,False,False,9327.942,15,Dutch Grand Prix
+RIC,70.0,76.414,6.0,SOFT,15.0,1,True,McLaren,False,17.0,26.156,27.216,23.042,,False,False,9404.356,15,Dutch Grand Prix
+RIC,71.0,76.767,6.0,SOFT,16.0,1,True,McLaren,False,17.0,26.137,27.24,23.39,,False,False,9481.123,15,Dutch Grand Prix
+RIC,72.0,76.32,6.0,SOFT,17.0,1,True,McLaren,False,17.0,26.159,27.176,22.985,,False,False,9557.443,15,Dutch Grand Prix
+OCO,1.0,85.889,1.0,SOFT,1.0,1,False,Alpine,True,9.0,,28.541,23.871,,False,False,3802.795,15,Dutch Grand Prix
+OCO,2.0,78.241,1.0,SOFT,2.0,12,True,Alpine,True,9.0,27.249,27.399,23.593,,False,False,3881.036,15,Dutch Grand Prix
+OCO,3.0,77.949,1.0,SOFT,3.0,1,True,Alpine,True,9.0,27.192,27.421,23.336,,False,False,3958.985,15,Dutch Grand Prix
+OCO,4.0,77.692,1.0,SOFT,4.0,12,True,Alpine,True,9.0,27.034,27.334,23.324,,False,False,4036.677,15,Dutch Grand Prix
+OCO,5.0,77.709,1.0,SOFT,5.0,1,True,Alpine,True,9.0,26.748,27.582,23.379,,False,False,4114.386,15,Dutch Grand Prix
+OCO,6.0,77.99,1.0,SOFT,6.0,1,True,Alpine,True,9.0,26.781,27.636,23.573,,False,False,4192.376,15,Dutch Grand Prix
+OCO,7.0,77.755,1.0,SOFT,7.0,1,True,Alpine,True,9.0,26.747,27.513,23.495,,False,False,4270.131,15,Dutch Grand Prix
+OCO,8.0,77.811,1.0,SOFT,8.0,1,True,Alpine,True,9.0,26.793,27.5,23.518,,False,False,4347.942,15,Dutch Grand Prix
+OCO,9.0,77.994,1.0,SOFT,9.0,1,True,Alpine,True,9.0,26.798,27.595,23.601,,False,False,4425.936,15,Dutch Grand Prix
+OCO,10.0,78.044,1.0,SOFT,10.0,1,True,Alpine,True,9.0,26.833,27.629,23.582,,False,False,4503.98,15,Dutch Grand Prix
+OCO,11.0,78.244,1.0,SOFT,11.0,1,True,Alpine,True,9.0,26.898,27.685,23.661,,False,False,4582.224,15,Dutch Grand Prix
+OCO,12.0,78.316,1.0,SOFT,12.0,1,True,Alpine,True,9.0,26.85,27.767,23.699,,False,False,4660.54,15,Dutch Grand Prix
+OCO,13.0,78.095,1.0,SOFT,13.0,1,True,Alpine,True,9.0,26.858,27.596,23.641,,False,False,4738.635,15,Dutch Grand Prix
+OCO,14.0,78.088,1.0,SOFT,14.0,1,True,Alpine,True,9.0,26.871,27.629,23.588,,False,False,4816.723,15,Dutch Grand Prix
+OCO,15.0,77.871,1.0,SOFT,15.0,1,True,Alpine,True,7.0,26.775,27.532,23.564,,False,False,4894.594,15,Dutch Grand Prix
+OCO,16.0,78.142,1.0,SOFT,16.0,1,True,Alpine,True,7.0,26.826,27.621,23.695,,False,False,4972.736,15,Dutch Grand Prix
+OCO,17.0,78.012,1.0,SOFT,17.0,1,True,Alpine,True,6.0,26.764,27.665,23.583,,False,False,5050.748,15,Dutch Grand Prix
+OCO,18.0,81.031,1.0,SOFT,18.0,1,False,Alpine,True,6.0,26.889,27.624,26.518,,True,False,5131.779,15,Dutch Grand Prix
+OCO,19.0,96.688,2.0,HARD,1.0,1,False,Alpine,True,11.0,45.891,27.184,23.613,,False,True,5228.467,15,Dutch Grand Prix
+OCO,20.0,77.461,2.0,HARD,2.0,1,True,Alpine,True,11.0,26.965,27.039,23.457,,False,False,5305.928,15,Dutch Grand Prix
+OCO,21.0,76.915,2.0,HARD,3.0,1,True,Alpine,True,11.0,26.62,26.896,23.399,,False,False,5382.843,15,Dutch Grand Prix
+OCO,22.0,76.977,2.0,HARD,4.0,1,True,Alpine,True,10.0,26.632,27.019,23.326,,False,False,5459.82,15,Dutch Grand Prix
+OCO,23.0,76.979,2.0,HARD,5.0,1,True,Alpine,True,10.0,26.599,27.034,23.346,,False,False,5536.799,15,Dutch Grand Prix
+OCO,24.0,76.92,2.0,HARD,6.0,1,True,Alpine,True,10.0,26.567,27.03,23.323,,False,False,5613.719,15,Dutch Grand Prix
+OCO,25.0,76.899,2.0,HARD,7.0,1,True,Alpine,True,10.0,26.571,27.093,23.235,,False,False,5690.618,15,Dutch Grand Prix
+OCO,26.0,76.673,2.0,HARD,8.0,1,True,Alpine,True,10.0,26.438,27.02,23.215,,False,False,5767.291,15,Dutch Grand Prix
+OCO,27.0,76.805,2.0,HARD,9.0,1,True,Alpine,True,10.0,26.461,27.024,23.32,,False,False,5844.096,15,Dutch Grand Prix
+OCO,28.0,76.863,2.0,HARD,10.0,1,True,Alpine,True,10.0,26.404,27.071,23.388,,False,False,5920.959,15,Dutch Grand Prix
+OCO,29.0,76.825,2.0,HARD,11.0,1,True,Alpine,True,10.0,26.408,27.172,23.245,,False,False,5997.784,15,Dutch Grand Prix
+OCO,30.0,76.94,2.0,HARD,12.0,1,True,Alpine,True,10.0,26.497,27.097,23.346,,False,False,6074.724,15,Dutch Grand Prix
+OCO,31.0,77.318,2.0,HARD,13.0,1,True,Alpine,True,10.0,26.592,27.298,23.428,,False,False,6152.042,15,Dutch Grand Prix
+OCO,32.0,77.298,2.0,HARD,14.0,1,True,Alpine,True,10.0,26.688,27.29,23.32,,False,False,6229.34,15,Dutch Grand Prix
+OCO,33.0,77.262,2.0,HARD,15.0,1,True,Alpine,True,10.0,26.693,27.214,23.355,,False,False,6306.602,15,Dutch Grand Prix
+OCO,34.0,76.939,2.0,HARD,16.0,1,True,Alpine,True,10.0,26.492,27.121,23.326,,False,False,6383.541,15,Dutch Grand Prix
+OCO,35.0,76.824,2.0,HARD,17.0,1,True,Alpine,True,10.0,26.437,27.147,23.24,,False,False,6460.365,15,Dutch Grand Prix
+OCO,36.0,76.976,2.0,HARD,18.0,1,True,Alpine,True,10.0,26.489,27.234,23.253,,False,False,6537.341,15,Dutch Grand Prix
+OCO,37.0,76.76,2.0,HARD,19.0,1,True,Alpine,True,10.0,26.442,27.083,23.235,,False,False,6614.101,15,Dutch Grand Prix
+OCO,38.0,77.061,2.0,HARD,20.0,1,True,Alpine,True,10.0,26.603,27.175,23.283,,False,False,6691.162,15,Dutch Grand Prix
+OCO,39.0,76.98,2.0,HARD,21.0,1,True,Alpine,True,9.0,26.371,27.241,23.368,,False,False,6768.142,15,Dutch Grand Prix
+OCO,40.0,77.27,2.0,HARD,22.0,1,True,Alpine,True,9.0,26.471,27.333,23.466,,False,False,6845.412,15,Dutch Grand Prix
+OCO,41.0,76.897,2.0,HARD,23.0,1,True,Alpine,True,9.0,26.528,27.199,23.17,,False,False,6922.309,15,Dutch Grand Prix
+OCO,42.0,76.801,2.0,HARD,24.0,1,True,Alpine,True,9.0,26.393,27.208,23.2,,False,False,6999.11,15,Dutch Grand Prix
+OCO,43.0,76.608,2.0,HARD,25.0,1,True,Alpine,True,9.0,26.325,27.035,23.248,,False,False,7075.718,15,Dutch Grand Prix
+OCO,44.0,77.659,2.0,HARD,26.0,12,True,Alpine,True,8.0,26.95,27.386,23.323,,False,False,7153.377,15,Dutch Grand Prix
+OCO,45.0,76.76,2.0,HARD,27.0,1,True,Alpine,True,8.0,26.508,27.031,23.221,,False,False,7230.137,15,Dutch Grand Prix
+OCO,46.0,76.658,2.0,HARD,28.0,1,True,Alpine,True,8.0,26.372,27.036,23.25,,False,False,7306.795,15,Dutch Grand Prix
+OCO,47.0,90.862,2.0,HARD,29.0,126,False,Alpine,True,8.0,26.575,32.762,31.525,,False,False,7397.657,15,Dutch Grand Prix
+OCO,48.0,105.192,2.0,HARD,30.0,6,False,Alpine,True,6.0,37.155,35.212,32.825,,False,False,7502.849,15,Dutch Grand Prix
+OCO,49.0,94.668,2.0,HARD,31.0,671,False,Alpine,True,6.0,33.477,35.917,25.274,,False,False,7597.517,15,Dutch Grand Prix
+OCO,50.0,77.196,2.0,HARD,32.0,1,True,Alpine,True,6.0,26.74,27.095,23.361,,False,False,7674.713,15,Dutch Grand Prix
+OCO,51.0,76.747,2.0,HARD,33.0,1,True,Alpine,True,6.0,26.479,27.001,23.267,,False,False,7751.46,15,Dutch Grand Prix
+OCO,52.0,76.533,2.0,HARD,34.0,1,True,Alpine,True,6.0,26.404,26.921,23.208,,False,False,7827.993,15,Dutch Grand Prix
+OCO,53.0,76.475,2.0,HARD,35.0,1,True,Alpine,True,6.0,26.295,27.034,23.146,,False,False,7904.468,15,Dutch Grand Prix
+OCO,54.0,76.563,2.0,HARD,36.0,1,True,Alpine,True,6.0,26.311,27.046,23.206,,False,False,7981.031,15,Dutch Grand Prix
+OCO,55.0,78.758,2.0,HARD,37.0,124,False,Alpine,True,7.0,27.583,27.498,23.677,,False,False,8059.789,15,Dutch Grand Prix
+OCO,56.0,108.772,2.0,HARD,38.0,4,False,Alpine,True,9.0,36.685,36.495,35.592,,True,False,8168.561,15,Dutch Grand Prix
+OCO,57.0,123.65,3.0,SOFT,4.0,4,False,Alpine,False,9.0,51.974,36.289,35.387,,True,True,8292.211,15,Dutch Grand Prix
+OCO,58.0,108.305,4.0,SOFT,5.0,4,False,Alpine,False,9.0,40.248,31.414,36.643,,False,True,8400.516,15,Dutch Grand Prix
+OCO,59.0,119.835,4.0,SOFT,6.0,4,False,Alpine,False,9.0,40.382,43.211,36.242,,False,False,8520.351,15,Dutch Grand Prix
+OCO,60.0,114.099,4.0,SOFT,7.0,41,False,Alpine,False,9.0,40.079,37.727,36.293,,False,False,8634.45,15,Dutch Grand Prix
+OCO,61.0,76.628,4.0,SOFT,8.0,1,True,Alpine,False,9.0,26.579,26.858,23.191,,False,False,8711.078,15,Dutch Grand Prix
+OCO,62.0,75.705,4.0,SOFT,9.0,1,True,Alpine,False,9.0,26.3,26.605,22.8,,False,False,8786.783,15,Dutch Grand Prix
+OCO,63.0,75.18,4.0,SOFT,10.0,1,True,Alpine,False,9.0,26.04,26.419,22.721,,False,False,8861.963,15,Dutch Grand Prix
+OCO,64.0,75.084,4.0,SOFT,11.0,1,True,Alpine,False,9.0,26.065,26.373,22.646,,False,False,8937.047,15,Dutch Grand Prix
+OCO,65.0,75.226,4.0,SOFT,12.0,1,True,Alpine,False,9.0,26.135,26.44,22.651,,False,False,9012.273,15,Dutch Grand Prix
+OCO,66.0,75.248,4.0,SOFT,13.0,1,True,Alpine,False,9.0,25.984,26.415,22.849,,False,False,9087.521,15,Dutch Grand Prix
+OCO,67.0,75.378,4.0,SOFT,14.0,1,True,Alpine,False,9.0,26.113,26.447,22.818,,False,False,9162.899,15,Dutch Grand Prix
+OCO,68.0,75.466,4.0,SOFT,15.0,1,True,Alpine,False,9.0,25.986,26.591,22.889,,False,False,9238.365,15,Dutch Grand Prix
+OCO,69.0,75.514,4.0,SOFT,16.0,1,True,Alpine,False,9.0,25.961,26.598,22.955,,False,False,9313.879,15,Dutch Grand Prix
+OCO,70.0,75.968,4.0,SOFT,17.0,1,True,Alpine,False,9.0,26.149,26.788,23.031,,False,False,9389.847,15,Dutch Grand Prix
+OCO,71.0,75.395,4.0,SOFT,18.0,1,True,Alpine,False,9.0,26.034,26.493,22.868,,False,False,9465.242,15,Dutch Grand Prix
+OCO,72.0,75.554,4.0,SOFT,19.0,1,True,Alpine,False,9.0,26.005,26.686,22.863,,False,False,9540.796,15,Dutch Grand Prix
+NOR,1.0,84.472,1.0,MEDIUM,1.0,1,False,McLaren,True,6.0,,27.867,23.78,,False,False,3801.378,15,Dutch Grand Prix
+NOR,2.0,77.924,1.0,MEDIUM,2.0,12,True,McLaren,True,6.0,26.705,27.446,23.773,,False,False,3879.302,15,Dutch Grand Prix
+NOR,3.0,77.469,1.0,MEDIUM,3.0,1,True,McLaren,True,6.0,26.739,27.208,23.522,,False,False,3956.771,15,Dutch Grand Prix
+NOR,4.0,78.553,1.0,MEDIUM,4.0,12,True,McLaren,True,7.0,27.221,27.61,23.722,,False,False,4035.324,15,Dutch Grand Prix
+NOR,5.0,77.289,1.0,MEDIUM,5.0,1,True,McLaren,True,7.0,26.495,27.31,23.484,,False,False,4112.613,15,Dutch Grand Prix
+NOR,6.0,77.17,1.0,MEDIUM,6.0,1,True,McLaren,True,7.0,26.521,27.219,23.43,,False,False,4189.783,15,Dutch Grand Prix
+NOR,7.0,77.517,1.0,MEDIUM,7.0,1,True,McLaren,True,7.0,26.495,27.516,23.506,,False,False,4267.3,15,Dutch Grand Prix
+NOR,8.0,77.285,1.0,MEDIUM,8.0,1,True,McLaren,True,7.0,26.469,27.364,23.452,,False,False,4344.585,15,Dutch Grand Prix
+NOR,9.0,77.464,1.0,MEDIUM,9.0,1,True,McLaren,True,7.0,26.483,27.494,23.487,,False,False,4422.049,15,Dutch Grand Prix
+NOR,10.0,77.61,1.0,MEDIUM,10.0,1,True,McLaren,True,7.0,26.507,27.636,23.467,,False,False,4499.659,15,Dutch Grand Prix
+NOR,11.0,77.519,1.0,MEDIUM,11.0,1,True,McLaren,True,7.0,26.533,27.476,23.51,,False,False,4577.178,15,Dutch Grand Prix
+NOR,12.0,77.815,1.0,MEDIUM,12.0,1,True,McLaren,True,7.0,26.567,27.696,23.552,,False,False,4654.993,15,Dutch Grand Prix
+NOR,13.0,77.603,1.0,MEDIUM,13.0,1,True,McLaren,True,7.0,26.543,27.543,23.517,,False,False,4732.596,15,Dutch Grand Prix
+NOR,14.0,77.923,1.0,MEDIUM,14.0,1,True,McLaren,True,7.0,26.68,27.619,23.624,,False,False,4810.519,15,Dutch Grand Prix
+NOR,15.0,77.595,1.0,MEDIUM,15.0,1,True,McLaren,True,5.0,26.451,27.657,23.487,,False,False,4888.114,15,Dutch Grand Prix
+NOR,16.0,77.532,1.0,MEDIUM,16.0,1,True,McLaren,True,5.0,26.453,27.594,23.485,,False,False,4965.646,15,Dutch Grand Prix
+NOR,17.0,80.833,1.0,MEDIUM,17.0,1,False,McLaren,True,5.0,26.55,27.635,26.648,,True,False,5046.479,15,Dutch Grand Prix
+NOR,18.0,96.764,2.0,HARD,1.0,1,False,McLaren,True,9.0,46.061,27.261,23.442,,False,True,5143.243,15,Dutch Grand Prix
+NOR,19.0,76.782,2.0,HARD,2.0,1,True,McLaren,True,8.0,26.439,26.94,23.403,,False,False,5220.025,15,Dutch Grand Prix
+NOR,20.0,77.294,2.0,HARD,3.0,1,True,McLaren,True,8.0,26.561,27.268,23.465,,False,False,5297.319,15,Dutch Grand Prix
+NOR,21.0,76.929,2.0,HARD,4.0,1,True,McLaren,True,7.0,26.485,27.214,23.23,,False,False,5374.248,15,Dutch Grand Prix
+NOR,22.0,76.762,2.0,HARD,5.0,1,True,McLaren,True,7.0,26.287,27.131,23.344,,False,False,5451.01,15,Dutch Grand Prix
+NOR,23.0,76.873,2.0,HARD,6.0,1,True,McLaren,True,7.0,26.474,27.109,23.29,,False,False,5527.883,15,Dutch Grand Prix
+NOR,24.0,76.779,2.0,HARD,7.0,1,True,McLaren,True,7.0,26.283,27.176,23.32,,False,False,5604.662,15,Dutch Grand Prix
+NOR,25.0,76.825,2.0,HARD,8.0,1,True,McLaren,True,7.0,26.418,27.145,23.262,,False,False,5681.487,15,Dutch Grand Prix
+NOR,26.0,76.733,2.0,HARD,9.0,1,True,McLaren,True,7.0,26.318,27.129,23.286,,False,False,5758.22,15,Dutch Grand Prix
+NOR,27.0,77.223,2.0,HARD,10.0,1,True,McLaren,True,7.0,26.44,27.355,23.428,,False,False,5835.443,15,Dutch Grand Prix
+NOR,28.0,76.928,2.0,HARD,11.0,1,True,McLaren,True,7.0,26.364,27.181,23.383,,False,False,5912.371,15,Dutch Grand Prix
+NOR,29.0,76.843,2.0,HARD,12.0,1,True,McLaren,True,7.0,26.265,27.229,23.349,,False,False,5989.214,15,Dutch Grand Prix
+NOR,30.0,76.919,2.0,HARD,13.0,1,True,McLaren,True,7.0,26.312,27.311,23.296,,False,False,6066.133,15,Dutch Grand Prix
+NOR,31.0,77.131,2.0,HARD,14.0,1,True,McLaren,True,7.0,26.423,27.293,23.415,,False,False,6143.264,15,Dutch Grand Prix
+NOR,32.0,77.179,2.0,HARD,15.0,1,True,McLaren,True,7.0,26.403,27.3,23.476,,False,False,6220.443,15,Dutch Grand Prix
+NOR,33.0,77.163,2.0,HARD,16.0,1,True,McLaren,True,7.0,26.395,27.387,23.381,,False,False,6297.606,15,Dutch Grand Prix
+NOR,34.0,77.232,2.0,HARD,17.0,1,True,McLaren,True,7.0,26.44,27.418,23.374,,False,False,6374.838,15,Dutch Grand Prix
+NOR,35.0,76.994,2.0,HARD,18.0,1,True,McLaren,True,7.0,26.224,27.279,23.491,,False,False,6451.832,15,Dutch Grand Prix
+NOR,36.0,77.294,2.0,HARD,19.0,1,True,McLaren,True,7.0,26.43,27.333,23.531,,False,False,6529.126,15,Dutch Grand Prix
+NOR,37.0,77.28,2.0,HARD,20.0,1,True,McLaren,True,7.0,26.432,27.356,23.492,,False,False,6606.406,15,Dutch Grand Prix
+NOR,38.0,76.942,2.0,HARD,21.0,1,True,McLaren,True,7.0,26.44,27.271,23.231,,False,False,6683.348,15,Dutch Grand Prix
+NOR,39.0,76.889,2.0,HARD,22.0,1,True,McLaren,True,7.0,26.246,27.236,23.407,,False,False,6760.237,15,Dutch Grand Prix
+NOR,40.0,76.761,2.0,HARD,23.0,1,True,McLaren,True,7.0,26.188,27.279,23.294,,False,False,6836.998,15,Dutch Grand Prix
+NOR,41.0,76.715,2.0,HARD,24.0,1,True,McLaren,True,6.0,26.172,27.249,23.294,,False,False,6913.713,15,Dutch Grand Prix
+NOR,42.0,76.635,2.0,HARD,25.0,1,True,McLaren,True,6.0,26.186,27.17,23.279,,False,False,6990.348,15,Dutch Grand Prix
+NOR,43.0,76.702,2.0,HARD,26.0,1,True,McLaren,True,6.0,26.219,27.176,23.307,,False,False,7067.05,15,Dutch Grand Prix
+NOR,44.0,78.816,2.0,HARD,27.0,12,True,McLaren,True,6.0,27.867,27.564,23.385,,False,False,7145.866,15,Dutch Grand Prix
+NOR,45.0,76.841,2.0,HARD,28.0,1,True,McLaren,True,6.0,26.252,27.215,23.374,,False,False,7222.707,15,Dutch Grand Prix
+NOR,46.0,76.69,2.0,HARD,29.0,1,True,McLaren,True,6.0,26.231,27.161,23.298,,False,False,7299.397,15,Dutch Grand Prix
+NOR,47.0,90.208,2.0,HARD,30.0,126,False,McLaren,True,6.0,26.365,28.674,35.169,,True,False,7389.605,15,Dutch Grand Prix
+NOR,48.0,125.296,3.0,SOFT,4.0,6,False,McLaren,False,8.0,55.636,35.538,34.122,,False,True,7514.901,15,Dutch Grand Prix
+NOR,49.0,90.679,3.0,SOFT,5.0,671,False,McLaren,False,8.0,32.504,34.862,23.313,,False,False,7605.58,15,Dutch Grand Prix
+NOR,50.0,75.431,3.0,SOFT,6.0,1,True,McLaren,False,8.0,26.089,26.47,22.872,,False,False,7681.011,15,Dutch Grand Prix
+NOR,51.0,75.192,3.0,SOFT,7.0,1,True,McLaren,False,8.0,25.76,26.563,22.869,,False,False,7756.203,15,Dutch Grand Prix
+NOR,52.0,75.035,3.0,SOFT,8.0,1,True,McLaren,False,8.0,25.784,26.503,22.748,,False,False,7831.238,15,Dutch Grand Prix
+NOR,53.0,75.541,3.0,SOFT,9.0,1,True,McLaren,False,8.0,25.969,26.636,22.936,,False,False,7906.779,15,Dutch Grand Prix
+NOR,54.0,75.727,3.0,SOFT,10.0,12,True,McLaren,False,8.0,25.877,26.844,23.006,,False,False,7982.506,15,Dutch Grand Prix
+NOR,55.0,77.779,3.0,SOFT,11.0,24,False,McLaren,False,8.0,26.454,27.227,24.098,,False,False,8060.285,15,Dutch Grand Prix
+NOR,56.0,106.703,3.0,SOFT,12.0,4,False,McLaren,False,7.0,37.221,36.736,32.746,,False,False,8166.988,15,Dutch Grand Prix
+NOR,57.0,104.705,3.0,SOFT,13.0,4,False,McLaren,False,7.0,37.33,31.847,35.528,,True,False,8271.693,15,Dutch Grand Prix
+NOR,58.0,125.604,4.0,SOFT,4.0,4,False,McLaren,False,8.0,52.945,34.862,37.797,,False,True,8397.297,15,Dutch Grand Prix
+NOR,59.0,121.825,4.0,SOFT,5.0,4,False,McLaren,False,8.0,41.804,43.407,36.614,,False,False,8519.122,15,Dutch Grand Prix
+NOR,60.0,114.905,4.0,SOFT,6.0,41,False,McLaren,False,8.0,39.726,38.487,36.692,,False,False,8634.027,15,Dutch Grand Prix
+NOR,61.0,76.52,4.0,SOFT,7.0,1,True,McLaren,False,8.0,26.308,26.915,23.297,,False,False,8710.547,15,Dutch Grand Prix
+NOR,62.0,75.423,4.0,SOFT,8.0,1,True,McLaren,False,8.0,25.99,26.559,22.874,,False,False,8785.97,15,Dutch Grand Prix
+NOR,63.0,74.706,4.0,SOFT,9.0,1,True,McLaren,False,8.0,25.789,26.277,22.64,,False,False,8860.676,15,Dutch Grand Prix
+NOR,64.0,74.83,4.0,SOFT,10.0,1,True,McLaren,False,8.0,25.903,26.369,22.558,,False,False,8935.506,15,Dutch Grand Prix
+NOR,65.0,75.234,4.0,SOFT,11.0,1,True,McLaren,False,8.0,26.145,26.581,22.508,,False,False,9010.74,15,Dutch Grand Prix
+NOR,66.0,75.047,4.0,SOFT,12.0,1,True,McLaren,False,8.0,25.975,26.515,22.557,,False,False,9085.787,15,Dutch Grand Prix
+NOR,67.0,75.851,4.0,SOFT,13.0,1,True,McLaren,False,8.0,26.378,26.747,22.726,,False,False,9161.638,15,Dutch Grand Prix
+NOR,68.0,75.19,4.0,SOFT,14.0,1,True,McLaren,False,8.0,25.913,26.647,22.63,,False,False,9236.828,15,Dutch Grand Prix
+NOR,69.0,75.841,4.0,SOFT,15.0,1,True,McLaren,False,8.0,26.062,26.771,23.008,,False,False,9312.669,15,Dutch Grand Prix
+NOR,70.0,75.303,4.0,SOFT,16.0,1,True,McLaren,False,8.0,25.839,26.802,22.662,,False,False,9387.972,15,Dutch Grand Prix
+NOR,71.0,75.662,4.0,SOFT,17.0,1,True,McLaren,False,8.0,25.987,26.96,22.715,,False,False,9463.634,15,Dutch Grand Prix
+NOR,72.0,75.351,4.0,SOFT,18.0,1,True,McLaren,False,8.0,25.71,27.009,22.632,,False,False,9538.985,15,Dutch Grand Prix
+HAM,1.0,82.718,1.0,MEDIUM,1.0,1,False,Mercedes,True,4.0,,27.325,23.57,,False,False,3799.624,15,Dutch Grand Prix
+HAM,2.0,76.814,1.0,MEDIUM,2.0,12,True,Mercedes,True,4.0,26.486,26.928,23.4,,False,False,3876.438,15,Dutch Grand Prix
+HAM,3.0,76.804,1.0,MEDIUM,3.0,1,True,Mercedes,True,4.0,26.489,26.929,23.386,,False,False,3953.242,15,Dutch Grand Prix
+HAM,4.0,76.578,1.0,MEDIUM,4.0,12,True,Mercedes,True,4.0,26.423,26.957,23.198,,False,False,4029.82,15,Dutch Grand Prix
+HAM,5.0,76.607,1.0,MEDIUM,5.0,1,True,Mercedes,True,4.0,26.335,27.035,23.237,,False,False,4106.427,15,Dutch Grand Prix
+HAM,6.0,77.083,1.0,MEDIUM,6.0,1,True,Mercedes,True,4.0,26.583,27.235,23.265,,False,False,4183.51,15,Dutch Grand Prix
+HAM,7.0,76.996,1.0,MEDIUM,7.0,1,True,Mercedes,True,4.0,26.577,27.266,23.153,,False,False,4260.506,15,Dutch Grand Prix
+HAM,8.0,77.27,1.0,MEDIUM,8.0,1,True,Mercedes,True,4.0,26.547,27.356,23.367,,False,False,4337.776,15,Dutch Grand Prix
+HAM,9.0,77.441,1.0,MEDIUM,9.0,1,True,Mercedes,True,4.0,26.634,27.495,23.312,,False,False,4415.217,15,Dutch Grand Prix
+HAM,10.0,77.094,1.0,MEDIUM,10.0,1,True,Mercedes,True,4.0,26.536,27.336,23.222,,False,False,4492.311,15,Dutch Grand Prix
+HAM,11.0,77.055,1.0,MEDIUM,11.0,1,True,Mercedes,True,4.0,26.505,27.264,23.286,,False,False,4569.366,15,Dutch Grand Prix
+HAM,12.0,77.94,1.0,MEDIUM,12.0,1,True,Mercedes,True,4.0,26.931,27.496,23.513,,False,False,4647.306,15,Dutch Grand Prix
+HAM,13.0,76.887,1.0,MEDIUM,13.0,1,True,Mercedes,True,4.0,26.527,27.19,23.17,,False,False,4724.193,15,Dutch Grand Prix
+HAM,14.0,77.104,1.0,MEDIUM,14.0,1,True,Mercedes,True,3.0,26.457,27.347,23.3,,False,False,4801.297,15,Dutch Grand Prix
+HAM,15.0,76.887,1.0,MEDIUM,15.0,1,True,Mercedes,True,3.0,26.162,27.114,23.611,,False,False,4878.184,15,Dutch Grand Prix
+HAM,16.0,77.064,1.0,MEDIUM,16.0,1,True,Mercedes,True,3.0,26.355,27.165,23.544,,False,False,4955.248,15,Dutch Grand Prix
+HAM,17.0,76.937,1.0,MEDIUM,17.0,1,True,Mercedes,True,3.0,26.418,27.086,23.433,,False,False,5032.185,15,Dutch Grand Prix
+HAM,18.0,76.988,1.0,MEDIUM,18.0,1,True,Mercedes,True,2.0,26.311,27.206,23.471,,False,False,5109.173,15,Dutch Grand Prix
+HAM,19.0,76.789,1.0,MEDIUM,19.0,1,True,Mercedes,True,1.0,26.337,27.005,23.447,,False,False,5185.962,15,Dutch Grand Prix
+HAM,20.0,76.674,1.0,MEDIUM,20.0,1,True,Mercedes,True,1.0,26.277,27.11,23.287,,False,False,5262.636,15,Dutch Grand Prix
+HAM,21.0,76.825,1.0,MEDIUM,21.0,1,True,Mercedes,True,1.0,26.295,27.069,23.461,,False,False,5339.461,15,Dutch Grand Prix
+HAM,22.0,76.678,1.0,MEDIUM,22.0,1,True,Mercedes,True,1.0,26.298,27.042,23.338,,False,False,5416.139,15,Dutch Grand Prix
+HAM,23.0,76.625,1.0,MEDIUM,23.0,1,True,Mercedes,True,1.0,26.259,26.935,23.431,,False,False,5492.764,15,Dutch Grand Prix
+HAM,24.0,76.702,1.0,MEDIUM,24.0,1,True,Mercedes,True,1.0,26.171,27.08,23.451,,False,False,5569.466,15,Dutch Grand Prix
+HAM,25.0,76.739,1.0,MEDIUM,25.0,1,True,Mercedes,True,1.0,26.205,27.161,23.373,,False,False,5646.205,15,Dutch Grand Prix
+HAM,26.0,76.712,1.0,MEDIUM,26.0,1,True,Mercedes,True,1.0,26.224,27.112,23.376,,False,False,5722.917,15,Dutch Grand Prix
+HAM,27.0,77.019,1.0,MEDIUM,27.0,1,True,Mercedes,True,1.0,26.115,27.367,23.537,,False,False,5799.936,15,Dutch Grand Prix
+HAM,28.0,76.886,1.0,MEDIUM,28.0,1,True,Mercedes,True,1.0,26.174,27.315,23.397,,False,False,5876.822,15,Dutch Grand Prix
+HAM,29.0,79.848,1.0,MEDIUM,29.0,1,False,Mercedes,True,2.0,26.215,27.196,26.437,,True,False,5956.67,15,Dutch Grand Prix
+HAM,30.0,95.03,2.0,HARD,1.0,1,False,Mercedes,True,5.0,45.049,26.723,23.258,,False,True,6051.7,15,Dutch Grand Prix
+HAM,31.0,75.801,2.0,HARD,2.0,1,True,Mercedes,True,5.0,26.219,26.386,23.196,,False,False,6127.501,15,Dutch Grand Prix
+HAM,32.0,75.837,2.0,HARD,3.0,1,True,Mercedes,True,4.0,26.19,26.498,23.149,,False,False,6203.338,15,Dutch Grand Prix
+HAM,33.0,75.983,2.0,HARD,4.0,1,True,Mercedes,True,4.0,26.049,26.785,23.149,,False,False,6279.321,15,Dutch Grand Prix
+HAM,34.0,75.472,2.0,HARD,5.0,1,True,Mercedes,True,4.0,25.896,26.456,23.12,,False,False,6354.793,15,Dutch Grand Prix
+HAM,35.0,75.783,2.0,HARD,6.0,1,True,Mercedes,True,4.0,25.975,26.801,23.007,,False,False,6430.576,15,Dutch Grand Prix
+HAM,36.0,77.472,2.0,HARD,7.0,1,True,Mercedes,True,4.0,26.973,26.713,23.786,,False,False,6508.048,15,Dutch Grand Prix
+HAM,37.0,77.583,2.0,HARD,8.0,1,True,Mercedes,True,3.0,27.56,26.814,23.209,,False,False,6585.631,15,Dutch Grand Prix
+HAM,38.0,75.116,2.0,HARD,9.0,1,True,Mercedes,True,3.0,25.937,26.222,22.957,,False,False,6660.747,15,Dutch Grand Prix
+HAM,39.0,76.04,2.0,HARD,10.0,1,True,Mercedes,True,3.0,26.681,26.387,22.972,,False,False,6736.787,15,Dutch Grand Prix
+HAM,40.0,75.232,2.0,HARD,11.0,1,True,Mercedes,True,3.0,25.959,26.309,22.964,,False,False,6812.019,15,Dutch Grand Prix
+HAM,41.0,75.522,2.0,HARD,12.0,1,True,Mercedes,True,3.0,25.909,26.567,23.046,,False,False,6887.541,15,Dutch Grand Prix
+HAM,42.0,75.286,2.0,HARD,13.0,1,True,Mercedes,True,3.0,25.802,26.457,23.027,,False,False,6962.827,15,Dutch Grand Prix
+HAM,43.0,75.29,2.0,HARD,14.0,1,True,Mercedes,True,3.0,25.886,26.459,22.945,,False,False,7038.117,15,Dutch Grand Prix
+HAM,44.0,75.969,2.0,HARD,15.0,12,True,Mercedes,True,3.0,26.559,26.445,22.965,,False,False,7114.086,15,Dutch Grand Prix
+HAM,45.0,75.792,2.0,HARD,16.0,21,True,Mercedes,True,2.0,26.151,26.477,23.164,,False,False,7189.878,15,Dutch Grand Prix
+HAM,46.0,75.321,2.0,HARD,17.0,1,True,Mercedes,True,2.0,25.848,26.429,23.044,,False,False,7265.199,15,Dutch Grand Prix
+HAM,47.0,75.137,2.0,HARD,18.0,12,True,Mercedes,True,2.0,25.815,26.381,22.941,,False,False,7340.336,15,Dutch Grand Prix
+HAM,48.0,103.647,2.0,HARD,19.0,26,False,Mercedes,True,2.0,33.484,37.458,32.705,,True,False,7443.983,15,Dutch Grand Prix
+HAM,49.0,118.712,3.0,MEDIUM,1.0,6,False,Mercedes,True,2.0,53.388,33.593,31.731,,False,True,7562.695,15,Dutch Grand Prix
+HAM,50.0,80.434,3.0,MEDIUM,2.0,671,False,Mercedes,True,2.0,30.943,26.351,23.14,,False,False,7643.129,15,Dutch Grand Prix
+HAM,51.0,74.665,3.0,MEDIUM,3.0,1,True,Mercedes,True,2.0,25.784,26.094,22.787,,False,False,7717.794,15,Dutch Grand Prix
+HAM,52.0,74.419,3.0,MEDIUM,4.0,1,True,Mercedes,True,2.0,25.65,26.082,22.687,,False,False,7792.213,15,Dutch Grand Prix
+HAM,53.0,73.961,3.0,MEDIUM,5.0,1,True,Mercedes,True,2.0,25.566,25.879,22.516,,False,False,7866.174,15,Dutch Grand Prix
+HAM,54.0,73.854,3.0,MEDIUM,6.0,1,True,Mercedes,True,2.0,25.484,25.875,22.495,,False,False,7940.028,15,Dutch Grand Prix
+HAM,55.0,74.193,3.0,MEDIUM,7.0,12,True,Mercedes,True,2.0,25.392,25.904,22.897,,False,False,8014.221,15,Dutch Grand Prix
+HAM,56.0,86.477,3.0,MEDIUM,8.0,24,False,Mercedes,True,2.0,25.915,31.15,29.412,,False,False,8100.698,15,Dutch Grand Prix
+HAM,57.0,139.436,3.0,MEDIUM,9.0,4,False,Mercedes,True,1.0,41.66,47.836,49.94,,True,False,8240.134,15,Dutch Grand Prix
+HAM,58.0,139.648,4.0,MEDIUM,10.0,4,False,Mercedes,False,1.0,55.684,44.838,39.126,,False,True,8379.782,15,Dutch Grand Prix
+HAM,59.0,127.936,4.0,MEDIUM,11.0,4,False,Mercedes,False,1.0,46.246,45.054,36.636,,False,False,8507.718,15,Dutch Grand Prix
+HAM,60.0,123.465,4.0,MEDIUM,12.0,41,False,Mercedes,False,1.0,40.436,40.294,42.735,,False,False,8631.183,15,Dutch Grand Prix
+HAM,61.0,75.423,4.0,MEDIUM,13.0,1,True,Mercedes,False,2.0,26.26,26.173,22.99,,False,False,8706.606,15,Dutch Grand Prix
+HAM,62.0,74.079,4.0,MEDIUM,14.0,1,True,Mercedes,False,2.0,25.53,25.851,22.698,,False,False,8780.685,15,Dutch Grand Prix
+HAM,63.0,74.532,4.0,MEDIUM,15.0,1,True,Mercedes,False,2.0,25.591,26.0,22.941,,False,False,8855.217,15,Dutch Grand Prix
+HAM,64.0,75.624,4.0,MEDIUM,16.0,1,True,Mercedes,False,3.0,26.393,26.421,22.81,,False,False,8930.841,15,Dutch Grand Prix
+HAM,65.0,75.167,4.0,MEDIUM,17.0,1,True,Mercedes,False,3.0,25.914,26.399,22.854,,False,False,9006.008,15,Dutch Grand Prix
+HAM,66.0,76.063,4.0,MEDIUM,18.0,1,True,Mercedes,False,4.0,26.476,26.669,22.918,,False,False,9082.071,15,Dutch Grand Prix
+HAM,67.0,74.681,4.0,MEDIUM,19.0,1,True,Mercedes,False,4.0,25.734,26.143,22.804,,False,False,9156.752,15,Dutch Grand Prix
+HAM,68.0,74.722,4.0,MEDIUM,20.0,1,True,Mercedes,False,4.0,25.721,26.22,22.781,,False,False,9231.474,15,Dutch Grand Prix
+HAM,69.0,75.038,4.0,MEDIUM,21.0,1,True,Mercedes,False,4.0,25.687,26.3,23.051,,False,False,9306.512,15,Dutch Grand Prix
+HAM,70.0,75.115,4.0,MEDIUM,22.0,1,True,Mercedes,False,4.0,25.914,26.374,22.827,,False,False,9381.627,15,Dutch Grand Prix
+HAM,71.0,75.286,4.0,MEDIUM,23.0,1,True,Mercedes,False,4.0,25.794,26.499,22.993,,False,False,9456.913,15,Dutch Grand Prix
+HAM,72.0,75.782,4.0,MEDIUM,24.0,1,True,Mercedes,False,4.0,25.818,26.616,23.348,,False,False,9532.695,15,Dutch Grand Prix
+MSC,1.0,86.455,1.0,MEDIUM,1.0,1,False,Haas F1 Team,True,10.0,,28.811,23.866,,False,False,3803.361,15,Dutch Grand Prix
+MSC,2.0,78.484,1.0,MEDIUM,2.0,12,True,Haas F1 Team,True,10.0,27.24,27.55,23.694,,False,False,3881.845,15,Dutch Grand Prix
+MSC,3.0,78.061,1.0,MEDIUM,3.0,1,True,Haas F1 Team,True,10.0,26.952,27.755,23.354,,False,False,3959.906,15,Dutch Grand Prix
+MSC,4.0,78.436,1.0,MEDIUM,4.0,12,True,Haas F1 Team,True,10.0,26.995,27.669,23.772,,False,False,4038.342,15,Dutch Grand Prix
+MSC,5.0,78.02,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,10.0,26.729,27.659,23.632,,False,False,4116.362,15,Dutch Grand Prix
+MSC,6.0,78.141,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,10.0,26.88,27.663,23.598,,False,False,4194.503,15,Dutch Grand Prix
+MSC,7.0,77.73,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,10.0,26.672,27.526,23.532,,False,False,4272.233,15,Dutch Grand Prix
+MSC,8.0,78.007,1.0,MEDIUM,8.0,1,True,Haas F1 Team,True,10.0,26.713,27.601,23.693,,False,False,4350.24,15,Dutch Grand Prix
+MSC,9.0,78.02,1.0,MEDIUM,9.0,1,True,Haas F1 Team,True,10.0,26.629,27.709,23.682,,False,False,4428.26,15,Dutch Grand Prix
+MSC,10.0,78.058,1.0,MEDIUM,10.0,1,True,Haas F1 Team,True,10.0,26.743,27.773,23.542,,False,False,4506.318,15,Dutch Grand Prix
+MSC,11.0,77.911,1.0,MEDIUM,11.0,1,True,Haas F1 Team,True,10.0,26.637,27.691,23.583,,False,False,4584.229,15,Dutch Grand Prix
+MSC,12.0,78.398,1.0,MEDIUM,12.0,1,True,Haas F1 Team,True,10.0,26.73,27.84,23.828,,False,False,4662.627,15,Dutch Grand Prix
+MSC,13.0,81.444,1.0,MEDIUM,13.0,1,False,Haas F1 Team,True,10.0,26.572,27.667,27.205,,True,False,4744.071,15,Dutch Grand Prix
+MSC,14.0,103.64,2.0,MEDIUM,1.0,1,False,Haas F1 Team,True,18.0,53.07,27.457,23.113,,False,True,4847.711,15,Dutch Grand Prix
+MSC,15.0,77.941,2.0,MEDIUM,2.0,1,True,Haas F1 Team,True,16.0,26.451,27.331,24.159,,False,False,4925.652,15,Dutch Grand Prix
+MSC,16.0,78.075,2.0,MEDIUM,3.0,1,True,Haas F1 Team,True,16.0,27.275,27.197,23.603,,False,False,5003.727,15,Dutch Grand Prix
+MSC,17.0,77.647,2.0,MEDIUM,4.0,1,True,Haas F1 Team,True,15.0,26.715,27.405,23.527,,False,False,5081.374,15,Dutch Grand Prix
+MSC,18.0,77.689,2.0,MEDIUM,5.0,1,True,Haas F1 Team,True,15.0,26.769,27.352,23.568,,False,False,5159.063,15,Dutch Grand Prix
+MSC,19.0,76.881,2.0,MEDIUM,6.0,1,True,Haas F1 Team,True,15.0,26.471,27.016,23.394,,False,False,5235.944,15,Dutch Grand Prix
+MSC,20.0,76.957,2.0,MEDIUM,7.0,1,True,Haas F1 Team,True,15.0,26.392,27.163,23.402,,False,False,5312.901,15,Dutch Grand Prix
+MSC,21.0,77.044,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,15.0,26.404,27.25,23.39,,False,False,5389.945,15,Dutch Grand Prix
+MSC,22.0,77.431,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,14.0,26.5,27.437,23.494,,False,False,5467.376,15,Dutch Grand Prix
+MSC,23.0,77.37,2.0,MEDIUM,10.0,1,True,Haas F1 Team,True,14.0,26.32,27.587,23.463,,False,False,5544.746,15,Dutch Grand Prix
+MSC,24.0,77.546,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,14.0,26.434,27.528,23.584,,False,False,5622.292,15,Dutch Grand Prix
+MSC,25.0,77.599,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,14.0,26.403,27.675,23.521,,False,False,5699.891,15,Dutch Grand Prix
+MSC,26.0,78.513,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,14.0,26.425,28.238,23.85,,False,False,5778.404,15,Dutch Grand Prix
+MSC,27.0,77.95,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,14.0,26.639,27.709,23.602,,False,False,5856.354,15,Dutch Grand Prix
+MSC,28.0,77.615,2.0,MEDIUM,15.0,1,True,Haas F1 Team,True,14.0,26.554,27.587,23.474,,False,False,5933.969,15,Dutch Grand Prix
+MSC,29.0,78.075,2.0,MEDIUM,16.0,1,True,Haas F1 Team,True,14.0,26.713,27.741,23.621,,False,False,6012.044,15,Dutch Grand Prix
+MSC,30.0,77.886,2.0,MEDIUM,17.0,1,True,Haas F1 Team,True,14.0,26.685,27.672,23.529,,False,False,6089.93,15,Dutch Grand Prix
+MSC,31.0,78.366,2.0,MEDIUM,18.0,1,True,Haas F1 Team,True,14.0,27.067,27.797,23.502,,False,False,6168.296,15,Dutch Grand Prix
+MSC,32.0,77.951,2.0,MEDIUM,19.0,1,True,Haas F1 Team,True,14.0,26.603,27.658,23.69,,False,False,6246.247,15,Dutch Grand Prix
+MSC,33.0,83.64,2.0,MEDIUM,20.0,1,False,Haas F1 Team,True,15.0,27.882,28.164,27.594,,True,False,6329.887,15,Dutch Grand Prix
+MSC,34.0,103.157,3.0,HARD,1.0,1,False,Haas F1 Team,True,19.0,48.299,29.61,25.248,,False,True,6433.044,15,Dutch Grand Prix
+MSC,35.0,78.958,3.0,HARD,2.0,1,True,Haas F1 Team,True,18.0,27.75,27.29,23.918,,False,False,6512.002,15,Dutch Grand Prix
+MSC,36.0,78.554,3.0,HARD,3.0,1,True,Haas F1 Team,True,18.0,28.081,27.172,23.301,,False,False,6590.556,15,Dutch Grand Prix
+MSC,37.0,77.323,3.0,HARD,4.0,1,True,Haas F1 Team,True,18.0,26.466,27.624,23.233,,False,False,6667.879,15,Dutch Grand Prix
+MSC,38.0,77.093,3.0,HARD,5.0,1,True,Haas F1 Team,True,18.0,26.43,27.481,23.182,,False,False,6744.972,15,Dutch Grand Prix
+MSC,39.0,76.836,3.0,HARD,6.0,1,True,Haas F1 Team,True,18.0,26.472,27.304,23.06,,False,False,6821.808,15,Dutch Grand Prix
+MSC,40.0,77.094,3.0,HARD,7.0,1,True,Haas F1 Team,True,17.0,26.071,27.234,23.789,,False,False,6898.902,15,Dutch Grand Prix
+MSC,41.0,76.636,3.0,HARD,8.0,1,True,Haas F1 Team,True,17.0,26.452,26.846,23.338,,False,False,6975.538,15,Dutch Grand Prix
+MSC,42.0,76.271,3.0,HARD,9.0,1,True,Haas F1 Team,True,17.0,26.229,26.876,23.166,,False,False,7051.809,15,Dutch Grand Prix
+MSC,43.0,76.228,3.0,HARD,10.0,12,True,Haas F1 Team,True,16.0,25.928,27.077,23.223,,False,False,7128.037,15,Dutch Grand Prix
+MSC,44.0,76.403,3.0,HARD,11.0,21,True,Haas F1 Team,True,16.0,26.236,27.015,23.152,,False,False,7204.44,15,Dutch Grand Prix
+MSC,45.0,77.314,3.0,HARD,12.0,1,True,Haas F1 Team,True,16.0,27.016,27.108,23.19,,False,False,7281.754,15,Dutch Grand Prix
+MSC,46.0,84.749,3.0,HARD,13.0,126,False,Haas F1 Team,True,16.0,26.334,27.249,31.166,,False,False,7366.503,15,Dutch Grand Prix
+MSC,47.0,103.655,3.0,HARD,14.0,6,False,Haas F1 Team,True,16.0,34.775,34.976,33.904,,True,False,7470.158,15,Dutch Grand Prix
+MSC,48.0,116.586,4.0,SOFT,3.0,671,False,Haas F1 Team,False,16.0,52.373,36.515,27.698,,False,True,7586.744,15,Dutch Grand Prix
+MSC,49.0,76.212,4.0,SOFT,4.0,1,True,Haas F1 Team,False,15.0,26.424,26.679,23.109,,False,False,7662.956,15,Dutch Grand Prix
+MSC,50.0,75.671,4.0,SOFT,5.0,1,True,Haas F1 Team,False,15.0,25.949,26.693,23.029,,False,False,7738.627,15,Dutch Grand Prix
+MSC,51.0,75.233,4.0,SOFT,6.0,1,True,Haas F1 Team,False,15.0,25.789,26.441,23.003,,False,False,7813.86,15,Dutch Grand Prix
+MSC,52.0,75.415,4.0,SOFT,7.0,1,True,Haas F1 Team,False,15.0,25.886,26.67,22.859,,False,False,7889.275,15,Dutch Grand Prix
+MSC,53.0,75.72,4.0,SOFT,8.0,1,True,Haas F1 Team,False,15.0,25.93,26.728,23.062,,False,False,7964.995,15,Dutch Grand Prix
+MSC,54.0,75.649,4.0,SOFT,9.0,12,True,Haas F1 Team,False,14.0,25.987,26.647,23.015,,False,False,8040.644,15,Dutch Grand Prix
+MSC,55.0,98.21,4.0,SOFT,10.0,24,False,Haas F1 Team,False,14.0,32.618,35.543,30.049,,False,False,8138.854,15,Dutch Grand Prix
+MSC,56.0,109.555,4.0,SOFT,11.0,4,False,Haas F1 Team,False,13.0,36.206,37.541,35.808,,True,False,8248.409,15,Dutch Grand Prix
+MSC,57.0,135.464,5.0,SOFT,12.0,4,False,Haas F1 Team,False,13.0,51.317,45.333,38.814,,False,True,8383.873,15,Dutch Grand Prix
+MSC,58.0,93.416,5.0,SOFT,13.0,4,False,Haas F1 Team,False,13.0,40.884,28.783,23.749,,False,False,8477.289,15,Dutch Grand Prix
+MSC,59.0,76.699,5.0,SOFT,14.0,4,False,Haas F1 Team,False,13.0,26.121,27.298,23.28,,False,False,8553.988,15,Dutch Grand Prix
+MSC,60.0,82.585,5.0,SOFT,15.0,41,False,Haas F1 Team,False,13.0,26.54,28.671,27.374,,False,False,8636.573,15,Dutch Grand Prix
+MSC,61.0,77.247,5.0,SOFT,16.0,1,True,Haas F1 Team,False,13.0,26.651,27.396,23.2,,False,False,8713.82,15,Dutch Grand Prix
+MSC,62.0,76.36,5.0,SOFT,17.0,1,True,Haas F1 Team,False,13.0,26.142,27.149,23.069,,False,False,8790.18,15,Dutch Grand Prix
+MSC,63.0,75.591,5.0,SOFT,18.0,1,True,Haas F1 Team,False,13.0,25.971,26.856,22.764,,False,False,8865.771,15,Dutch Grand Prix
+MSC,64.0,75.69,5.0,SOFT,19.0,1,True,Haas F1 Team,False,13.0,26.031,26.981,22.678,,False,False,8941.461,15,Dutch Grand Prix
+MSC,65.0,75.525,5.0,SOFT,20.0,1,True,Haas F1 Team,False,13.0,25.779,27.008,22.738,,False,False,9016.986,15,Dutch Grand Prix
+MSC,66.0,75.803,5.0,SOFT,21.0,1,True,Haas F1 Team,False,13.0,25.839,27.124,22.84,,False,False,9092.789,15,Dutch Grand Prix
+MSC,67.0,76.503,5.0,SOFT,22.0,1,True,Haas F1 Team,False,13.0,25.998,27.273,23.232,,False,False,9169.292,15,Dutch Grand Prix
+MSC,68.0,76.658,5.0,SOFT,23.0,1,True,Haas F1 Team,False,13.0,26.2,27.288,23.17,,False,False,9245.95,15,Dutch Grand Prix
+MSC,69.0,76.239,5.0,SOFT,24.0,1,True,Haas F1 Team,False,13.0,26.147,27.06,23.032,,False,False,9322.189,15,Dutch Grand Prix
+MSC,70.0,77.449,5.0,SOFT,25.0,1,True,Haas F1 Team,False,14.0,26.689,27.392,23.368,,False,False,9399.638,15,Dutch Grand Prix
+MSC,71.0,76.614,5.0,SOFT,26.0,1,True,Haas F1 Team,False,14.0,26.172,27.33,23.112,,False,False,9476.252,15,Dutch Grand Prix
+MSC,72.0,76.422,5.0,SOFT,27.0,1,True,Haas F1 Team,False,14.0,25.847,27.441,23.134,,False,False,9552.674,15,Dutch Grand Prix
+VET,1.0,90.019,1.0,SOFT,1.0,1,False,Aston Martin,True,18.0,,29.321,25.116,,False,False,3806.925,15,Dutch Grand Prix
+VET,2.0,79.371,1.0,SOFT,2.0,12,True,Aston Martin,True,17.0,27.407,27.951,24.013,,False,False,3886.296,15,Dutch Grand Prix
+VET,3.0,78.567,1.0,SOFT,3.0,1,True,Aston Martin,True,17.0,27.038,28.02,23.509,,False,False,3964.863,15,Dutch Grand Prix
+VET,4.0,78.202,1.0,SOFT,4.0,12,True,Aston Martin,True,17.0,26.851,27.916,23.435,,False,False,4043.065,15,Dutch Grand Prix
+VET,5.0,78.146,1.0,SOFT,5.0,1,True,Aston Martin,True,17.0,26.685,27.985,23.476,,False,False,4121.211,15,Dutch Grand Prix
+VET,6.0,78.383,1.0,SOFT,6.0,1,True,Aston Martin,True,17.0,26.888,27.985,23.51,,False,False,4199.594,15,Dutch Grand Prix
+VET,7.0,78.041,1.0,SOFT,7.0,1,True,Aston Martin,True,17.0,26.889,27.733,23.419,,False,False,4277.635,15,Dutch Grand Prix
+VET,8.0,78.266,1.0,SOFT,8.0,1,True,Aston Martin,True,17.0,26.816,28.003,23.447,,False,False,4355.901,15,Dutch Grand Prix
+VET,9.0,82.119,1.0,SOFT,9.0,1,False,Aston Martin,True,18.0,26.98,28.183,26.956,,True,False,4438.02,15,Dutch Grand Prix
+VET,10.0,98.37,2.0,MEDIUM,2.0,1,False,Aston Martin,False,20.0,47.876,26.974,23.52,,False,True,4536.39,15,Dutch Grand Prix
+VET,11.0,77.175,2.0,MEDIUM,3.0,1,True,Aston Martin,False,20.0,26.53,27.174,23.471,,False,False,4613.565,15,Dutch Grand Prix
+VET,12.0,77.541,2.0,MEDIUM,4.0,1,True,Aston Martin,False,19.0,26.562,27.479,23.5,,False,False,4691.106,15,Dutch Grand Prix
+VET,13.0,78.168,2.0,MEDIUM,5.0,1,True,Aston Martin,False,19.0,26.628,27.864,23.676,,False,False,4769.274,15,Dutch Grand Prix
+VET,14.0,77.873,2.0,MEDIUM,6.0,1,True,Aston Martin,False,17.0,26.733,27.576,23.564,,False,False,4847.147,15,Dutch Grand Prix
+VET,15.0,78.877,2.0,MEDIUM,7.0,1,True,Aston Martin,False,17.0,26.509,27.808,24.56,,False,False,4926.024,15,Dutch Grand Prix
+VET,16.0,78.944,2.0,MEDIUM,8.0,1,True,Aston Martin,False,17.0,27.486,27.803,23.655,,False,False,5004.968,15,Dutch Grand Prix
+VET,17.0,78.486,2.0,MEDIUM,9.0,1,True,Aston Martin,False,16.0,26.945,27.699,23.842,,False,False,5083.454,15,Dutch Grand Prix
+VET,18.0,78.28,2.0,MEDIUM,10.0,1,True,Aston Martin,False,16.0,27.061,27.598,23.621,,False,False,5161.734,15,Dutch Grand Prix
+VET,19.0,79.352,2.0,MEDIUM,11.0,1,True,Aston Martin,False,17.0,27.651,27.981,23.72,,False,False,5241.086,15,Dutch Grand Prix
+VET,20.0,78.075,2.0,MEDIUM,12.0,1,True,Aston Martin,False,17.0,26.675,27.795,23.605,,False,False,5319.161,15,Dutch Grand Prix
+VET,21.0,77.938,2.0,MEDIUM,13.0,1,True,Aston Martin,False,17.0,26.687,27.642,23.609,,False,False,5397.099,15,Dutch Grand Prix
+VET,22.0,78.06,2.0,MEDIUM,14.0,1,True,Aston Martin,False,17.0,26.783,27.673,23.604,,False,False,5475.159,15,Dutch Grand Prix
+VET,23.0,78.139,2.0,MEDIUM,15.0,1,True,Aston Martin,False,17.0,26.751,27.663,23.725,,False,False,5553.298,15,Dutch Grand Prix
+VET,24.0,78.01,2.0,MEDIUM,16.0,1,True,Aston Martin,False,17.0,26.648,27.701,23.661,,False,False,5631.308,15,Dutch Grand Prix
+VET,25.0,77.776,2.0,MEDIUM,17.0,1,True,Aston Martin,False,17.0,26.555,27.616,23.605,,False,False,5709.084,15,Dutch Grand Prix
+VET,26.0,77.857,2.0,MEDIUM,18.0,1,True,Aston Martin,False,17.0,26.56,27.718,23.579,,False,False,5786.941,15,Dutch Grand Prix
+VET,27.0,77.915,2.0,MEDIUM,19.0,1,True,Aston Martin,False,17.0,26.66,27.67,23.585,,False,False,5864.856,15,Dutch Grand Prix
+VET,28.0,77.554,2.0,MEDIUM,20.0,1,True,Aston Martin,False,17.0,26.529,27.46,23.565,,False,False,5942.41,15,Dutch Grand Prix
+VET,29.0,77.555,2.0,MEDIUM,21.0,1,True,Aston Martin,False,17.0,26.476,27.57,23.509,,False,False,6019.965,15,Dutch Grand Prix
+VET,30.0,77.838,2.0,MEDIUM,22.0,1,True,Aston Martin,False,17.0,26.618,27.675,23.545,,False,False,6097.803,15,Dutch Grand Prix
+VET,31.0,77.885,2.0,MEDIUM,23.0,1,True,Aston Martin,False,17.0,26.527,27.642,23.716,,False,False,6175.688,15,Dutch Grand Prix
+VET,32.0,77.778,2.0,MEDIUM,24.0,1,True,Aston Martin,False,17.0,26.59,27.558,23.63,,False,False,6253.466,15,Dutch Grand Prix
+VET,33.0,77.804,2.0,MEDIUM,25.0,1,True,Aston Martin,False,16.0,26.546,27.635,23.623,,False,False,6331.27,15,Dutch Grand Prix
+VET,34.0,77.415,2.0,MEDIUM,26.0,1,True,Aston Martin,False,15.0,26.366,27.532,23.517,,False,False,6408.685,15,Dutch Grand Prix
+VET,35.0,80.736,2.0,MEDIUM,27.0,1,False,Aston Martin,False,14.0,26.457,27.523,26.756,,True,False,6489.421,15,Dutch Grand Prix
+VET,36.0,98.796,3.0,HARD,2.0,1,False,Aston Martin,False,16.0,45.821,29.188,23.787,,False,True,6588.217,15,Dutch Grand Prix
+VET,37.0,78.566,3.0,HARD,3.0,1,True,Aston Martin,False,16.0,27.344,27.649,23.573,,False,False,6666.783,15,Dutch Grand Prix
+VET,38.0,76.995,3.0,HARD,4.0,1,True,Aston Martin,False,16.0,26.267,27.281,23.447,,False,False,6743.778,15,Dutch Grand Prix
+VET,39.0,76.75,3.0,HARD,5.0,1,True,Aston Martin,False,16.0,26.353,27.111,23.286,,False,False,6820.528,15,Dutch Grand Prix
+VET,40.0,76.335,3.0,HARD,6.0,1,True,Aston Martin,False,16.0,26.15,27.026,23.159,,False,False,6896.863,15,Dutch Grand Prix
+VET,41.0,76.483,3.0,HARD,7.0,1,True,Aston Martin,False,16.0,26.145,26.984,23.354,,False,False,6973.346,15,Dutch Grand Prix
+VET,42.0,76.713,3.0,HARD,8.0,1,True,Aston Martin,False,16.0,26.266,27.096,23.351,,False,False,7050.059,15,Dutch Grand Prix
+VET,43.0,76.748,3.0,HARD,9.0,12,True,Aston Martin,False,15.0,26.201,27.218,23.329,,False,False,7126.807,15,Dutch Grand Prix
+VET,44.0,77.34,3.0,HARD,10.0,21,True,Aston Martin,False,15.0,26.168,27.287,23.885,,False,False,7204.147,15,Dutch Grand Prix
+VET,45.0,77.15,3.0,HARD,11.0,1,True,Aston Martin,False,15.0,26.722,27.046,23.382,,False,False,7281.297,15,Dutch Grand Prix
+VET,46.0,82.709,3.0,HARD,12.0,126,False,Aston Martin,False,15.0,26.362,26.898,29.449,,False,False,7364.006,15,Dutch Grand Prix
+VET,47.0,103.026,3.0,HARD,13.0,6,False,Aston Martin,False,15.0,36.785,34.151,32.09,,False,False,7467.032,15,Dutch Grand Prix
+VET,48.0,104.812,3.0,HARD,14.0,67,False,Aston Martin,False,15.0,35.782,35.614,33.416,,True,False,7571.844,15,Dutch Grand Prix
+VET,49.0,93.775,4.0,SOFT,1.0,71,False,Aston Martin,True,16.0,43.718,27.001,23.056,,False,True,7665.619,15,Dutch Grand Prix
+VET,50.0,74.862,4.0,SOFT,2.0,1,True,Aston Martin,True,16.0,25.614,26.503,22.745,,False,False,7740.481,15,Dutch Grand Prix
+VET,51.0,75.565,4.0,SOFT,3.0,1,True,Aston Martin,True,16.0,25.932,26.655,22.978,,False,False,7816.046,15,Dutch Grand Prix
+VET,52.0,75.287,4.0,SOFT,4.0,1,True,Aston Martin,True,16.0,25.823,26.59,22.874,,False,False,7891.333,15,Dutch Grand Prix
+VET,53.0,75.318,4.0,SOFT,5.0,1,True,Aston Martin,True,16.0,25.753,26.671,22.894,,False,False,7966.651,15,Dutch Grand Prix
+VET,54.0,75.609,4.0,SOFT,6.0,12,True,Aston Martin,True,15.0,25.796,26.755,23.058,,False,False,8042.26,15,Dutch Grand Prix
+VET,55.0,99.067,4.0,SOFT,7.0,24,False,Aston Martin,True,15.0,32.773,36.365,29.929,,False,False,8141.327,15,Dutch Grand Prix
+VET,56.0,110.561,4.0,SOFT,8.0,4,False,Aston Martin,True,14.0,36.774,37.013,36.774,,True,False,8251.888,15,Dutch Grand Prix
+VET,57.0,134.603,5.0,SOFT,9.0,4,False,Aston Martin,False,14.0,50.259,45.697,38.647,,False,True,8386.491,15,Dutch Grand Prix
+VET,58.0,91.223,5.0,SOFT,10.0,4,False,Aston Martin,False,14.0,38.789,28.447,23.987,,False,False,8477.714,15,Dutch Grand Prix
+VET,59.0,77.112,5.0,SOFT,11.0,4,False,Aston Martin,False,14.0,26.5,27.193,23.419,,False,False,8554.826,15,Dutch Grand Prix
+VET,60.0,81.895,5.0,SOFT,12.0,41,False,Aston Martin,False,14.0,26.445,29.254,26.196,,False,False,8636.721,15,Dutch Grand Prix
+VET,61.0,77.664,5.0,SOFT,13.0,1,True,Aston Martin,False,14.0,26.925,27.377,23.362,,False,False,8714.385,15,Dutch Grand Prix
+VET,62.0,76.504,5.0,SOFT,14.0,1,True,Aston Martin,False,14.0,26.234,27.1,23.17,,False,False,8790.889,15,Dutch Grand Prix
+VET,63.0,75.819,5.0,SOFT,15.0,1,True,Aston Martin,False,14.0,26.129,26.9,22.79,,False,False,8866.708,15,Dutch Grand Prix
+VET,64.0,75.572,5.0,SOFT,16.0,1,True,Aston Martin,False,14.0,25.795,27.032,22.745,,False,False,8942.28,15,Dutch Grand Prix
+VET,65.0,75.915,5.0,SOFT,17.0,1,True,Aston Martin,False,14.0,25.969,26.955,22.991,,False,False,9018.195,15,Dutch Grand Prix
+VET,66.0,76.08,5.0,SOFT,18.0,1,True,Aston Martin,False,14.0,25.874,27.226,22.98,,False,False,9094.275,15,Dutch Grand Prix
+VET,67.0,75.964,5.0,SOFT,19.0,1,True,Aston Martin,False,14.0,25.915,26.96,23.089,,False,False,9170.239,15,Dutch Grand Prix
+VET,68.0,76.097,5.0,SOFT,20.0,1,True,Aston Martin,False,14.0,26.009,27.168,22.92,,False,False,9246.336,15,Dutch Grand Prix
+VET,69.0,76.114,5.0,SOFT,21.0,1,True,Aston Martin,False,14.0,26.336,27.035,22.743,,False,False,9322.45,15,Dutch Grand Prix
+VET,70.0,75.935,5.0,SOFT,22.0,1,True,Aston Martin,False,13.0,25.829,27.072,23.034,,False,False,9398.385,15,Dutch Grand Prix
+VET,71.0,76.151,5.0,SOFT,23.0,1,True,Aston Martin,False,13.0,25.898,27.189,23.064,,False,False,9474.536,15,Dutch Grand Prix
+VET,72.0,76.15,5.0,SOFT,24.0,1,True,Aston Martin,False,13.0,26.029,27.107,23.014,,False,False,9550.686,15,Dutch Grand Prix
+SAI,1.0,81.468,1.0,SOFT,4.0,1,False,Ferrari,False,3.0,,27.186,23.127,,False,False,3798.374,15,Dutch Grand Prix
+SAI,2.0,76.622,1.0,SOFT,5.0,12,True,Ferrari,False,3.0,26.476,27.015,23.131,,False,False,3874.996,15,Dutch Grand Prix
+SAI,3.0,76.919,1.0,SOFT,6.0,1,True,Ferrari,False,3.0,26.503,27.246,23.17,,False,False,3951.915,15,Dutch Grand Prix
+SAI,4.0,77.102,1.0,SOFT,7.0,12,True,Ferrari,False,3.0,26.433,27.35,23.319,,False,False,4029.017,15,Dutch Grand Prix
+SAI,5.0,76.874,1.0,SOFT,8.0,1,True,Ferrari,False,3.0,26.351,27.288,23.235,,False,False,4105.891,15,Dutch Grand Prix
+SAI,6.0,77.024,1.0,SOFT,9.0,1,True,Ferrari,False,3.0,26.534,27.239,23.251,,False,False,4182.915,15,Dutch Grand Prix
+SAI,7.0,77.012,1.0,SOFT,10.0,1,True,Ferrari,False,3.0,26.451,27.244,23.317,,False,False,4259.927,15,Dutch Grand Prix
+SAI,8.0,77.203,1.0,SOFT,11.0,1,True,Ferrari,False,3.0,26.519,27.346,23.338,,False,False,4337.13,15,Dutch Grand Prix
+SAI,9.0,77.33,1.0,SOFT,12.0,1,True,Ferrari,False,3.0,26.471,27.54,23.319,,False,False,4414.46,15,Dutch Grand Prix
+SAI,10.0,77.175,1.0,SOFT,13.0,1,True,Ferrari,False,3.0,26.399,27.48,23.296,,False,False,4491.635,15,Dutch Grand Prix
+SAI,11.0,77.293,1.0,SOFT,14.0,1,True,Ferrari,False,3.0,26.417,27.462,23.414,,False,False,4568.928,15,Dutch Grand Prix
+SAI,12.0,77.605,1.0,SOFT,15.0,1,True,Ferrari,False,3.0,26.688,27.568,23.349,,False,False,4646.533,15,Dutch Grand Prix
+SAI,13.0,77.088,1.0,SOFT,16.0,1,True,Ferrari,False,3.0,26.377,27.4,23.311,,False,False,4723.621,15,Dutch Grand Prix
+SAI,14.0,80.366,1.0,SOFT,17.0,1,False,Ferrari,False,4.0,26.326,27.514,26.526,,True,False,4803.987,15,Dutch Grand Prix
+SAI,15.0,105.683,2.0,MEDIUM,1.0,1,False,Ferrari,True,11.0,55.266,27.146,23.271,,False,True,4909.67,15,Dutch Grand Prix
+SAI,16.0,76.701,2.0,MEDIUM,2.0,1,True,Ferrari,True,10.0,26.355,27.027,23.319,,False,False,4986.371,15,Dutch Grand Prix
+SAI,17.0,76.317,2.0,MEDIUM,3.0,1,True,Ferrari,True,9.0,26.155,27.005,23.157,,False,False,5062.688,15,Dutch Grand Prix
+SAI,18.0,76.462,2.0,MEDIUM,4.0,1,True,Ferrari,True,8.0,26.278,27.216,22.968,,False,False,5139.15,15,Dutch Grand Prix
+SAI,19.0,77.608,2.0,MEDIUM,5.0,1,True,Ferrari,True,7.0,27.109,27.382,23.117,,False,False,5216.758,15,Dutch Grand Prix
+SAI,20.0,77.148,2.0,MEDIUM,6.0,1,True,Ferrari,True,6.0,26.639,27.135,23.374,,False,False,5293.906,15,Dutch Grand Prix
+SAI,21.0,76.914,2.0,MEDIUM,7.0,1,True,Ferrari,True,6.0,26.482,27.159,23.273,,False,False,5370.82,15,Dutch Grand Prix
+SAI,22.0,77.06,2.0,MEDIUM,8.0,1,True,Ferrari,True,6.0,26.492,27.227,23.341,,False,False,5447.88,15,Dutch Grand Prix
+SAI,23.0,76.648,2.0,MEDIUM,9.0,1,True,Ferrari,True,6.0,26.28,27.116,23.252,,False,False,5524.528,15,Dutch Grand Prix
+SAI,24.0,76.816,2.0,MEDIUM,10.0,1,True,Ferrari,True,6.0,26.248,27.183,23.385,,False,False,5601.344,15,Dutch Grand Prix
+SAI,25.0,76.497,2.0,MEDIUM,11.0,1,True,Ferrari,True,6.0,26.211,27.126,23.16,,False,False,5677.841,15,Dutch Grand Prix
+SAI,26.0,77.013,2.0,MEDIUM,12.0,1,True,Ferrari,True,6.0,26.374,27.25,23.389,,False,False,5754.854,15,Dutch Grand Prix
+SAI,27.0,76.789,2.0,MEDIUM,13.0,1,True,Ferrari,True,6.0,26.299,27.188,23.302,,False,False,5831.643,15,Dutch Grand Prix
+SAI,28.0,76.821,2.0,MEDIUM,14.0,1,True,Ferrari,True,6.0,26.403,27.168,23.25,,False,False,5908.464,15,Dutch Grand Prix
+SAI,29.0,76.861,2.0,MEDIUM,15.0,1,True,Ferrari,True,6.0,26.316,27.248,23.297,,False,False,5985.325,15,Dutch Grand Prix
+SAI,30.0,77.148,2.0,MEDIUM,16.0,1,True,Ferrari,True,6.0,26.456,27.391,23.301,,False,False,6062.473,15,Dutch Grand Prix
+SAI,31.0,76.89,2.0,MEDIUM,17.0,1,True,Ferrari,True,6.0,26.219,27.335,23.336,,False,False,6139.363,15,Dutch Grand Prix
+SAI,32.0,76.942,2.0,MEDIUM,18.0,1,True,Ferrari,True,6.0,26.358,27.302,23.282,,False,False,6216.305,15,Dutch Grand Prix
+SAI,33.0,77.183,2.0,MEDIUM,19.0,1,True,Ferrari,True,6.0,26.408,27.398,23.377,,False,False,6293.488,15,Dutch Grand Prix
+SAI,34.0,76.834,2.0,MEDIUM,20.0,1,True,Ferrari,True,6.0,26.289,27.282,23.263,,False,False,6370.322,15,Dutch Grand Prix
+SAI,35.0,76.859,2.0,MEDIUM,21.0,1,True,Ferrari,True,6.0,26.187,27.398,23.274,,False,False,6447.181,15,Dutch Grand Prix
+SAI,36.0,77.0,2.0,MEDIUM,22.0,1,True,Ferrari,True,6.0,26.208,27.639,23.153,,False,False,6524.181,15,Dutch Grand Prix
+SAI,37.0,76.946,2.0,MEDIUM,23.0,1,True,Ferrari,True,6.0,26.387,27.272,23.287,,False,False,6601.127,15,Dutch Grand Prix
+SAI,38.0,77.028,2.0,MEDIUM,24.0,1,True,Ferrari,True,6.0,26.492,27.278,23.258,,False,False,6678.155,15,Dutch Grand Prix
+SAI,39.0,77.09,2.0,MEDIUM,25.0,1,True,Ferrari,True,6.0,26.356,27.444,23.29,,False,False,6755.245,15,Dutch Grand Prix
+SAI,40.0,76.648,2.0,MEDIUM,26.0,1,True,Ferrari,True,6.0,26.323,27.128,23.197,,False,False,6831.893,15,Dutch Grand Prix
+SAI,41.0,76.604,2.0,MEDIUM,27.0,1,True,Ferrari,True,5.0,26.308,27.113,23.183,,False,False,6908.497,15,Dutch Grand Prix
+SAI,42.0,76.427,2.0,MEDIUM,28.0,1,True,Ferrari,True,5.0,26.17,27.134,23.123,,False,False,6984.924,15,Dutch Grand Prix
+SAI,43.0,80.161,2.0,MEDIUM,29.0,1,False,Ferrari,True,5.0,26.248,27.244,26.669,,True,False,7065.085,15,Dutch Grand Prix
+SAI,44.0,96.409,3.0,HARD,1.0,12,False,Ferrari,True,9.0,46.026,27.08,23.303,,False,True,7161.494,15,Dutch Grand Prix
+SAI,45.0,76.069,3.0,HARD,2.0,1,True,Ferrari,True,9.0,26.175,26.87,23.024,,False,False,7237.563,15,Dutch Grand Prix
+SAI,46.0,75.358,3.0,HARD,3.0,1,True,Ferrari,True,9.0,25.978,26.441,22.939,,False,False,7312.921,15,Dutch Grand Prix
+SAI,47.0,90.931,3.0,HARD,4.0,126,False,Ferrari,True,9.0,26.116,33.701,31.114,,False,False,7403.852,15,Dutch Grand Prix
+SAI,48.0,107.491,3.0,HARD,5.0,6,False,Ferrari,True,7.0,38.586,34.747,34.158,,False,False,7511.343,15,Dutch Grand Prix
+SAI,49.0,91.803,3.0,HARD,6.0,671,False,Ferrari,True,7.0,32.353,35.648,23.802,,False,False,7603.146,15,Dutch Grand Prix
+SAI,50.0,76.321,3.0,HARD,7.0,1,True,Ferrari,True,7.0,26.553,26.736,23.032,,False,False,7679.467,15,Dutch Grand Prix
+SAI,51.0,75.18,3.0,HARD,8.0,1,True,Ferrari,True,7.0,25.975,26.392,22.813,,False,False,7754.647,15,Dutch Grand Prix
+SAI,52.0,75.285,3.0,HARD,9.0,1,True,Ferrari,True,7.0,25.938,26.484,22.863,,False,False,7829.932,15,Dutch Grand Prix
+SAI,53.0,75.548,3.0,HARD,10.0,1,True,Ferrari,True,7.0,26.112,26.558,22.878,,False,False,7905.48,15,Dutch Grand Prix
+SAI,54.0,75.673,3.0,HARD,11.0,1,True,Ferrari,True,7.0,26.07,26.787,22.816,,False,False,7981.153,15,Dutch Grand Prix
+SAI,55.0,76.932,3.0,HARD,12.0,12,True,Ferrari,True,6.0,26.955,26.831,23.146,,False,False,8058.085,15,Dutch Grand Prix
+SAI,56.0,106.95,3.0,HARD,13.0,24,False,Ferrari,True,6.0,36.641,36.59,33.719,,False,False,8165.035,15,Dutch Grand Prix
+SAI,57.0,103.506,3.0,HARD,14.0,4,False,Ferrari,True,6.0,36.617,33.301,33.588,,True,False,8268.541,15,Dutch Grand Prix
+SAI,58.0,124.194,4.0,SOFT,4.0,4,False,Ferrari,False,6.0,51.064,36.079,37.051,,False,True,8392.735,15,Dutch Grand Prix
+SAI,59.0,122.337,4.0,SOFT,5.0,4,False,Ferrari,False,6.0,41.126,44.702,36.509,,False,False,8515.072,15,Dutch Grand Prix
+SAI,60.0,117.824,4.0,SOFT,6.0,41,False,Ferrari,False,6.0,38.855,39.942,39.027,,False,False,8632.896,15,Dutch Grand Prix
+SAI,61.0,75.685,4.0,SOFT,7.0,1,True,Ferrari,False,5.0,26.273,26.632,22.78,,False,False,8708.581,15,Dutch Grand Prix
+SAI,62.0,74.822,4.0,SOFT,8.0,1,True,Ferrari,False,5.0,25.859,26.276,22.687,,False,False,8783.403,15,Dutch Grand Prix
+SAI,63.0,74.643,4.0,SOFT,9.0,1,True,Ferrari,False,5.0,25.592,26.354,22.697,,False,False,8858.046,15,Dutch Grand Prix
+SAI,64.0,75.077,4.0,SOFT,10.0,1,True,Ferrari,False,5.0,25.846,26.54,22.691,,False,False,8933.123,15,Dutch Grand Prix
+SAI,65.0,75.016,4.0,SOFT,11.0,1,True,Ferrari,False,5.0,25.848,26.504,22.664,,False,False,9008.139,15,Dutch Grand Prix
+SAI,66.0,75.336,4.0,SOFT,12.0,1,True,Ferrari,False,5.0,25.863,26.681,22.792,,False,False,9083.475,15,Dutch Grand Prix
+SAI,67.0,75.432,4.0,SOFT,13.0,1,True,Ferrari,False,5.0,25.958,26.679,22.795,,False,False,9158.907,15,Dutch Grand Prix
+SAI,68.0,75.649,4.0,SOFT,14.0,1,True,Ferrari,False,5.0,26.201,26.695,22.753,,False,False,9234.556,15,Dutch Grand Prix
+SAI,69.0,75.376,4.0,SOFT,15.0,1,True,Ferrari,False,5.0,25.887,26.608,22.881,,False,False,9309.932,15,Dutch Grand Prix
+SAI,70.0,75.646,4.0,SOFT,16.0,1,True,Ferrari,False,5.0,26.268,26.584,22.794,,False,False,9385.578,15,Dutch Grand Prix
+SAI,71.0,75.181,4.0,SOFT,17.0,1,True,Ferrari,False,5.0,25.799,26.477,22.905,,False,False,9460.759,15,Dutch Grand Prix
+SAI,72.0,74.836,4.0,SOFT,18.0,1,True,Ferrari,False,5.0,25.652,26.404,22.78,,False,False,9535.595,15,Dutch Grand Prix
+LAT,1.0,90.568,1.0,SOFT,1.0,1,False,Williams,True,20.0,,29.99,24.772,,False,False,3807.474,15,Dutch Grand Prix
+LAT,2.0,80.182,1.0,SOFT,2.0,12,True,Williams,True,19.0,28.029,28.285,23.868,,False,False,3887.656,15,Dutch Grand Prix
+LAT,3.0,79.03,1.0,SOFT,3.0,1,True,Williams,True,19.0,27.167,28.126,23.737,,False,False,3966.686,15,Dutch Grand Prix
+LAT,4.0,78.681,1.0,SOFT,4.0,12,True,Williams,True,19.0,26.804,28.168,23.709,,False,False,4045.367,15,Dutch Grand Prix
+LAT,5.0,78.491,1.0,SOFT,5.0,1,True,Williams,True,19.0,26.654,28.064,23.773,,False,False,4123.858,15,Dutch Grand Prix
+LAT,6.0,78.709,1.0,SOFT,6.0,1,True,Williams,True,19.0,26.791,28.163,23.755,,False,False,4202.567,15,Dutch Grand Prix
+LAT,7.0,78.776,1.0,SOFT,7.0,1,True,Williams,True,19.0,26.839,28.023,23.914,,False,False,4281.343,15,Dutch Grand Prix
+LAT,8.0,78.991,1.0,SOFT,8.0,1,True,Williams,True,19.0,27.135,28.187,23.669,,False,False,4360.334,15,Dutch Grand Prix
+LAT,9.0,79.061,1.0,SOFT,9.0,1,True,Williams,True,19.0,26.954,28.281,23.826,,False,False,4439.395,15,Dutch Grand Prix
+LAT,10.0,79.247,1.0,SOFT,10.0,1,True,Williams,True,18.0,27.149,28.039,24.059,,False,False,4518.642,15,Dutch Grand Prix
+LAT,11.0,80.613,1.0,SOFT,11.0,1,True,Williams,True,19.0,28.141,28.432,24.04,,False,False,4599.255,15,Dutch Grand Prix
+LAT,12.0,79.317,1.0,SOFT,12.0,1,True,Williams,True,17.0,27.151,28.28,23.886,,False,False,4678.572,15,Dutch Grand Prix
+LAT,13.0,82.198,1.0,SOFT,13.0,1,False,Williams,True,15.0,26.834,28.165,27.199,,True,False,4760.77,15,Dutch Grand Prix
+LAT,14.0,97.37,2.0,MEDIUM,1.0,1,False,Williams,True,20.0,46.377,27.527,23.466,,False,True,4858.14,15,Dutch Grand Prix
+LAT,15.0,77.979,2.0,MEDIUM,2.0,1,True,Williams,True,20.0,26.708,27.616,23.655,,False,False,4936.119,15,Dutch Grand Prix
+LAT,16.0,78.194,2.0,MEDIUM,3.0,1,True,Williams,True,20.0,26.849,27.646,23.699,,False,False,5014.313,15,Dutch Grand Prix
+LAT,17.0,78.547,2.0,MEDIUM,4.0,1,True,Williams,True,20.0,26.943,27.935,23.669,,False,False,5092.86,15,Dutch Grand Prix
+LAT,18.0,78.531,2.0,MEDIUM,5.0,1,True,Williams,True,20.0,26.933,27.911,23.687,,False,False,5171.391,15,Dutch Grand Prix
+LAT,19.0,78.427,2.0,MEDIUM,6.0,1,True,Williams,True,20.0,26.812,27.902,23.713,,False,False,5249.818,15,Dutch Grand Prix
+LAT,20.0,78.552,2.0,MEDIUM,7.0,1,True,Williams,True,20.0,26.861,27.968,23.723,,False,False,5328.37,15,Dutch Grand Prix
+LAT,21.0,78.411,2.0,MEDIUM,8.0,1,True,Williams,True,20.0,26.84,27.867,23.704,,False,False,5406.781,15,Dutch Grand Prix
+LAT,22.0,78.758,2.0,MEDIUM,9.0,1,True,Williams,True,20.0,26.799,28.088,23.871,,False,False,5485.539,15,Dutch Grand Prix
+LAT,23.0,78.462,2.0,MEDIUM,10.0,1,True,Williams,True,20.0,26.84,27.942,23.68,,False,False,5564.001,15,Dutch Grand Prix
+LAT,24.0,78.331,2.0,MEDIUM,11.0,1,True,Williams,True,20.0,26.823,27.88,23.628,,False,False,5642.332,15,Dutch Grand Prix
+LAT,25.0,78.166,2.0,MEDIUM,12.0,1,True,Williams,True,20.0,26.733,27.839,23.594,,False,False,5720.498,15,Dutch Grand Prix
+LAT,26.0,80.95,2.0,MEDIUM,13.0,1,False,Williams,True,20.0,26.477,27.706,26.767,,True,False,5801.448,15,Dutch Grand Prix
+LAT,27.0,99.549,3.0,HARD,1.0,1,False,Williams,True,20.0,47.621,28.185,23.743,,False,True,5900.997,15,Dutch Grand Prix
+LAT,28.0,77.706,3.0,HARD,2.0,1,True,Williams,True,20.0,26.832,27.371,23.503,,False,False,5978.703,15,Dutch Grand Prix
+LAT,29.0,77.572,3.0,HARD,3.0,1,True,Williams,True,20.0,26.686,27.471,23.415,,False,False,6056.275,15,Dutch Grand Prix
+LAT,30.0,77.308,3.0,HARD,4.0,1,True,Williams,True,20.0,26.62,27.267,23.421,,False,False,6133.583,15,Dutch Grand Prix
+LAT,31.0,78.982,3.0,HARD,5.0,1,True,Williams,True,20.0,27.357,27.873,23.752,,False,False,6212.565,15,Dutch Grand Prix
+LAT,32.0,77.778,3.0,HARD,6.0,1,True,Williams,True,20.0,26.638,27.577,23.563,,False,False,6290.343,15,Dutch Grand Prix
+LAT,33.0,77.571,3.0,HARD,7.0,1,True,Williams,True,20.0,26.551,27.462,23.558,,False,False,6367.914,15,Dutch Grand Prix
+LAT,34.0,77.607,3.0,HARD,8.0,1,True,Williams,True,20.0,26.556,27.535,23.516,,False,False,6445.521,15,Dutch Grand Prix
+LAT,35.0,79.778,3.0,HARD,9.0,1,True,Williams,True,20.0,26.556,28.407,24.815,,False,False,6525.299,15,Dutch Grand Prix
+LAT,36.0,79.721,3.0,HARD,10.0,1,True,Williams,True,20.0,27.641,28.116,23.964,,False,False,6605.02,15,Dutch Grand Prix
+LAT,37.0,81.018,3.0,HARD,11.0,1,True,Williams,True,20.0,26.989,29.598,24.431,,False,False,6686.038,15,Dutch Grand Prix
+LAT,38.0,80.362,3.0,HARD,12.0,1,True,Williams,True,20.0,28.751,27.944,23.667,,False,False,6766.4,15,Dutch Grand Prix
+LAT,39.0,77.748,3.0,HARD,13.0,1,True,Williams,True,20.0,26.594,27.572,23.582,,False,False,6844.148,15,Dutch Grand Prix
+LAT,40.0,80.01,3.0,HARD,14.0,1,True,Williams,True,20.0,26.743,29.603,23.664,,False,False,6924.158,15,Dutch Grand Prix
+LAT,41.0,77.759,3.0,HARD,15.0,1,True,Williams,True,20.0,26.526,27.742,23.491,,False,False,7001.917,15,Dutch Grand Prix
+LAT,42.0,77.621,3.0,HARD,16.0,1,True,Williams,True,20.0,26.588,27.547,23.486,,False,False,7079.538,15,Dutch Grand Prix
+LAT,43.0,79.479,3.0,HARD,17.0,12,True,Williams,True,19.0,27.697,28.122,23.66,,False,False,7159.017,15,Dutch Grand Prix
+LAT,44.0,79.361,3.0,HARD,18.0,1,True,Williams,True,19.0,26.713,27.695,24.953,,False,False,7238.378,15,Dutch Grand Prix
+LAT,45.0,77.829,3.0,HARD,19.0,1,True,Williams,True,19.0,26.651,27.721,23.457,,False,False,7316.207,15,Dutch Grand Prix
+LAT,46.0,95.114,3.0,HARD,20.0,126,False,Williams,True,19.0,27.333,37.102,30.679,,False,False,7411.321,15,Dutch Grand Prix
+LAT,47.0,107.962,3.0,HARD,21.0,6,False,Williams,True,19.0,40.679,34.865,32.418,,False,False,7519.283,15,Dutch Grand Prix
+LAT,48.0,91.153,3.0,HARD,22.0,671,False,Williams,True,19.0,34.372,32.276,24.505,,False,False,7610.436,15,Dutch Grand Prix
+LAT,49.0,78.198,3.0,HARD,23.0,1,True,Williams,True,19.0,26.895,27.815,23.488,,False,False,7688.634,15,Dutch Grand Prix
+LAT,50.0,77.317,3.0,HARD,24.0,1,True,Williams,True,19.0,26.444,27.504,23.369,,False,False,7765.951,15,Dutch Grand Prix
+LAT,51.0,77.072,3.0,HARD,25.0,1,True,Williams,True,19.0,26.452,27.205,23.415,,False,False,7843.023,15,Dutch Grand Prix
+LAT,52.0,77.316,3.0,HARD,26.0,1,True,Williams,True,19.0,26.52,27.399,23.397,,False,False,7920.339,15,Dutch Grand Prix
+LAT,53.0,77.23,3.0,HARD,27.0,12,True,Williams,True,19.0,26.497,27.441,23.292,,False,False,7997.569,15,Dutch Grand Prix
+LAT,54.0,88.734,3.0,HARD,28.0,24,False,Williams,True,18.0,27.33,27.851,33.553,,True,False,8086.303,15,Dutch Grand Prix
+LAT,55.0,155.75,4.0,SOFT,1.0,4,False,Williams,True,18.0,57.101,47.684,50.965,,True,True,8242.053,15,Dutch Grand Prix
+LAT,56.0,138.814,5.0,SOFT,2.0,4,False,Williams,False,18.0,54.547,45.72,38.547,,False,True,8380.867,15,Dutch Grand Prix
+LAT,57.0,90.897,5.0,SOFT,3.0,4,False,Williams,False,18.0,38.853,28.252,23.792,,False,False,8471.764,15,Dutch Grand Prix
+LAT,58.0,78.239,5.0,SOFT,4.0,4,False,Williams,False,18.0,26.828,27.735,23.676,,False,False,8550.003,15,Dutch Grand Prix
+LAT,59.0,85.845,5.0,SOFT,5.0,41,False,Williams,False,18.0,27.147,27.467,31.231,,False,False,8635.848,15,Dutch Grand Prix
+LAT,60.0,81.432,5.0,SOFT,6.0,1,True,Williams,False,18.0,29.324,28.764,23.344,,False,False,8717.28,15,Dutch Grand Prix
+LAT,61.0,78.456,5.0,SOFT,7.0,1,True,Williams,False,18.0,26.252,29.037,23.167,,False,False,8795.736,15,Dutch Grand Prix
+LAT,62.0,76.066,5.0,SOFT,8.0,1,True,Williams,False,18.0,26.139,26.862,23.065,,False,False,8871.802,15,Dutch Grand Prix
+LAT,63.0,76.211,5.0,SOFT,9.0,1,True,Williams,False,18.0,26.124,26.991,23.096,,False,False,8948.013,15,Dutch Grand Prix
+LAT,64.0,76.383,5.0,SOFT,10.0,1,True,Williams,False,18.0,26.167,26.955,23.261,,False,False,9024.396,15,Dutch Grand Prix
+LAT,65.0,76.427,5.0,SOFT,11.0,1,True,Williams,False,18.0,26.187,27.066,23.174,,False,False,9100.823,15,Dutch Grand Prix
+LAT,66.0,76.334,5.0,SOFT,12.0,1,True,Williams,False,18.0,26.175,27.092,23.067,,False,False,9177.157,15,Dutch Grand Prix
+LAT,67.0,76.642,5.0,SOFT,13.0,1,True,Williams,False,18.0,26.469,27.056,23.117,,False,False,9253.799,15,Dutch Grand Prix
+LAT,68.0,76.492,5.0,SOFT,14.0,1,True,Williams,False,18.0,26.183,27.167,23.142,,False,False,9330.291,15,Dutch Grand Prix
+LAT,69.0,76.741,5.0,SOFT,15.0,1,True,Williams,False,18.0,26.329,27.179,23.233,,False,False,9407.032,15,Dutch Grand Prix
+LAT,70.0,77.097,5.0,SOFT,16.0,1,True,Williams,False,18.0,26.321,27.401,23.375,,False,False,9484.129,15,Dutch Grand Prix
+LAT,71.0,77.628,5.0,SOFT,17.0,1,True,Williams,False,18.0,26.723,27.527,23.378,,False,False,9561.757,15,Dutch Grand Prix
+RUS,1.0,84.948,1.0,MEDIUM,1.0,1,False,Mercedes,True,7.0,,28.195,23.724,,False,False,3801.854,15,Dutch Grand Prix
+RUS,2.0,77.931,1.0,MEDIUM,2.0,12,True,Mercedes,True,7.0,26.818,27.453,23.66,,False,False,3879.785,15,Dutch Grand Prix
+RUS,3.0,77.207,1.0,MEDIUM,3.0,1,True,Mercedes,True,7.0,26.819,27.213,23.175,,False,False,3956.992,15,Dutch Grand Prix
+RUS,4.0,76.776,1.0,MEDIUM,4.0,12,True,Mercedes,True,6.0,26.393,27.038,23.345,,False,False,4033.768,15,Dutch Grand Prix
+RUS,5.0,76.653,1.0,MEDIUM,5.0,1,True,Mercedes,True,6.0,26.38,26.908,23.365,,False,False,4110.421,15,Dutch Grand Prix
+RUS,6.0,76.578,1.0,MEDIUM,6.0,1,True,Mercedes,True,6.0,26.332,26.879,23.367,,False,False,4186.999,15,Dutch Grand Prix
+RUS,7.0,76.778,1.0,MEDIUM,7.0,1,True,Mercedes,True,6.0,26.293,27.034,23.451,,False,False,4263.777,15,Dutch Grand Prix
+RUS,8.0,77.102,1.0,MEDIUM,8.0,1,True,Mercedes,True,6.0,26.287,27.344,23.471,,False,False,4340.879,15,Dutch Grand Prix
+RUS,9.0,77.176,1.0,MEDIUM,9.0,1,True,Mercedes,True,6.0,26.321,27.403,23.452,,False,False,4418.055,15,Dutch Grand Prix
+RUS,10.0,77.106,1.0,MEDIUM,10.0,1,True,Mercedes,True,6.0,26.347,27.259,23.5,,False,False,4495.161,15,Dutch Grand Prix
+RUS,11.0,77.228,1.0,MEDIUM,11.0,1,True,Mercedes,True,6.0,26.392,27.506,23.33,,False,False,4572.389,15,Dutch Grand Prix
+RUS,12.0,77.724,1.0,MEDIUM,12.0,1,True,Mercedes,True,6.0,26.581,27.497,23.646,,False,False,4650.113,15,Dutch Grand Prix
+RUS,13.0,76.939,1.0,MEDIUM,13.0,1,True,Mercedes,True,6.0,26.446,27.29,23.203,,False,False,4727.052,15,Dutch Grand Prix
+RUS,14.0,77.278,1.0,MEDIUM,14.0,1,True,Mercedes,True,5.0,26.509,27.389,23.38,,False,False,4804.33,15,Dutch Grand Prix
+RUS,15.0,76.885,1.0,MEDIUM,15.0,1,True,Mercedes,True,4.0,26.146,27.171,23.568,,False,False,4881.215,15,Dutch Grand Prix
+RUS,16.0,76.948,1.0,MEDIUM,16.0,1,True,Mercedes,True,4.0,26.266,27.23,23.452,,False,False,4958.163,15,Dutch Grand Prix
+RUS,17.0,77.009,1.0,MEDIUM,17.0,1,True,Mercedes,True,4.0,26.339,27.351,23.319,,False,False,5035.172,15,Dutch Grand Prix
+RUS,18.0,76.944,1.0,MEDIUM,18.0,1,True,Mercedes,True,3.0,26.275,27.309,23.36,,False,False,5112.116,15,Dutch Grand Prix
+RUS,19.0,77.045,1.0,MEDIUM,19.0,1,True,Mercedes,True,2.0,26.46,27.259,23.326,,False,False,5189.161,15,Dutch Grand Prix
+RUS,20.0,76.817,1.0,MEDIUM,20.0,1,True,Mercedes,True,2.0,26.291,27.229,23.297,,False,False,5265.978,15,Dutch Grand Prix
+RUS,21.0,76.828,1.0,MEDIUM,21.0,1,True,Mercedes,True,2.0,26.266,27.128,23.434,,False,False,5342.806,15,Dutch Grand Prix
+RUS,22.0,76.832,1.0,MEDIUM,22.0,1,True,Mercedes,True,2.0,26.308,27.235,23.289,,False,False,5419.638,15,Dutch Grand Prix
+RUS,23.0,76.793,1.0,MEDIUM,23.0,1,True,Mercedes,True,2.0,26.276,27.192,23.325,,False,False,5496.431,15,Dutch Grand Prix
+RUS,24.0,76.705,1.0,MEDIUM,24.0,1,True,Mercedes,True,2.0,26.202,27.131,23.372,,False,False,5573.136,15,Dutch Grand Prix
+RUS,25.0,76.676,1.0,MEDIUM,25.0,1,True,Mercedes,True,2.0,26.232,27.093,23.351,,False,False,5649.812,15,Dutch Grand Prix
+RUS,26.0,76.51,1.0,MEDIUM,26.0,1,True,Mercedes,True,2.0,26.077,27.148,23.285,,False,False,5726.322,15,Dutch Grand Prix
+RUS,27.0,76.614,1.0,MEDIUM,27.0,1,True,Mercedes,True,2.0,26.119,27.119,23.376,,False,False,5802.936,15,Dutch Grand Prix
+RUS,28.0,78.263,1.0,MEDIUM,28.0,1,True,Mercedes,True,3.0,27.03,27.575,23.658,,False,False,5881.199,15,Dutch Grand Prix
+RUS,29.0,77.27,1.0,MEDIUM,29.0,1,True,Mercedes,True,3.0,26.411,27.39,23.469,,False,False,5958.469,15,Dutch Grand Prix
+RUS,30.0,77.081,1.0,MEDIUM,30.0,1,True,Mercedes,True,2.0,26.375,27.19,23.516,,False,False,6035.55,15,Dutch Grand Prix
+RUS,31.0,79.79,1.0,MEDIUM,31.0,1,False,Mercedes,True,2.0,26.18,27.201,26.409,,True,False,6115.34,15,Dutch Grand Prix
+RUS,32.0,94.911,2.0,HARD,1.0,1,False,Mercedes,True,5.0,45.183,26.511,23.217,,False,True,6210.251,15,Dutch Grand Prix
+RUS,33.0,75.477,2.0,HARD,2.0,1,True,Mercedes,True,5.0,26.095,26.251,23.131,,False,False,6285.728,15,Dutch Grand Prix
+RUS,34.0,75.48,2.0,HARD,3.0,1,True,Mercedes,True,5.0,26.036,26.334,23.11,,False,False,6361.208,15,Dutch Grand Prix
+RUS,35.0,75.422,2.0,HARD,4.0,1,True,Mercedes,True,5.0,25.94,26.449,23.033,,False,False,6436.63,15,Dutch Grand Prix
+RUS,36.0,75.935,2.0,HARD,5.0,1,True,Mercedes,True,5.0,26.031,26.629,23.275,,False,False,6512.565,15,Dutch Grand Prix
+RUS,37.0,76.103,2.0,HARD,6.0,1,True,Mercedes,True,5.0,26.026,27.038,23.039,,False,False,6588.668,15,Dutch Grand Prix
+RUS,38.0,75.944,2.0,HARD,7.0,1,True,Mercedes,True,5.0,26.48,26.594,22.87,,False,False,6664.612,15,Dutch Grand Prix
+RUS,39.0,75.473,2.0,HARD,8.0,1,True,Mercedes,True,4.0,25.952,26.431,23.09,,False,False,6740.085,15,Dutch Grand Prix
+RUS,40.0,75.632,2.0,HARD,9.0,1,True,Mercedes,True,4.0,25.891,26.635,23.106,,False,False,6815.717,15,Dutch Grand Prix
+RUS,41.0,75.131,2.0,HARD,10.0,1,True,Mercedes,True,4.0,25.876,26.4,22.855,,False,False,6890.848,15,Dutch Grand Prix
+RUS,42.0,75.581,2.0,HARD,11.0,1,True,Mercedes,True,4.0,25.785,26.534,23.262,,False,False,6966.429,15,Dutch Grand Prix
+RUS,43.0,75.272,2.0,HARD,12.0,1,True,Mercedes,True,4.0,25.92,26.442,22.91,,False,False,7041.701,15,Dutch Grand Prix
+RUS,44.0,75.371,2.0,HARD,13.0,12,True,Mercedes,True,4.0,26.049,26.373,22.949,,False,False,7117.072,15,Dutch Grand Prix
+RUS,45.0,75.501,2.0,HARD,14.0,21,True,Mercedes,True,4.0,26.041,26.44,23.02,,False,False,7192.573,15,Dutch Grand Prix
+RUS,46.0,75.156,2.0,HARD,15.0,1,True,Mercedes,True,3.0,25.754,26.472,22.93,,False,False,7267.729,15,Dutch Grand Prix
+RUS,47.0,74.95,2.0,HARD,16.0,12,True,Mercedes,True,3.0,25.764,26.348,22.838,,False,False,7342.679,15,Dutch Grand Prix
+RUS,48.0,107.571,2.0,HARD,17.0,26,False,Mercedes,True,3.0,35.8,35.259,36.512,,True,False,7450.25,15,Dutch Grand Prix
+RUS,49.0,118.869,3.0,MEDIUM,1.0,67,False,Mercedes,True,3.0,51.491,35.448,31.93,,False,True,7569.119,15,Dutch Grand Prix
+RUS,50.0,77.159,3.0,MEDIUM,2.0,71,False,Mercedes,True,3.0,28.297,26.175,22.687,,False,False,7646.278,15,Dutch Grand Prix
+RUS,51.0,74.223,3.0,MEDIUM,3.0,1,True,Mercedes,True,3.0,25.726,25.831,22.666,,False,False,7720.501,15,Dutch Grand Prix
+RUS,52.0,74.326,3.0,MEDIUM,4.0,1,True,Mercedes,True,3.0,25.471,26.025,22.83,,False,False,7794.827,15,Dutch Grand Prix
+RUS,53.0,73.947,3.0,MEDIUM,5.0,1,True,Mercedes,True,3.0,25.621,25.809,22.517,,False,False,7868.774,15,Dutch Grand Prix
+RUS,54.0,74.082,3.0,MEDIUM,6.0,1,True,Mercedes,True,3.0,25.499,25.852,22.731,,False,False,7942.856,15,Dutch Grand Prix
+RUS,55.0,74.601,3.0,MEDIUM,7.0,12,True,Mercedes,True,3.0,25.513,26.24,22.848,,False,False,8017.457,15,Dutch Grand Prix
+RUS,56.0,87.149,3.0,MEDIUM,8.0,24,False,Mercedes,True,3.0,25.715,31.17,30.264,,False,False,8104.606,15,Dutch Grand Prix
+RUS,57.0,138.88,3.0,MEDIUM,9.0,4,False,Mercedes,True,2.0,41.239,46.457,51.184,,True,False,8243.486,15,Dutch Grand Prix
+RUS,58.0,141.982,4.0,SOFT,3.0,4,False,Mercedes,False,3.0,57.687,45.597,38.698,,False,True,8385.468,15,Dutch Grand Prix
+RUS,59.0,125.47,4.0,SOFT,4.0,4,False,Mercedes,False,3.0,43.394,44.533,37.543,,False,False,8510.938,15,Dutch Grand Prix
+RUS,60.0,120.908,4.0,SOFT,5.0,41,False,Mercedes,False,3.0,39.31,40.449,41.149,,False,False,8631.846,15,Dutch Grand Prix
+RUS,61.0,75.249,4.0,SOFT,6.0,1,True,Mercedes,False,3.0,26.484,26.007,22.758,,False,False,8707.095,15,Dutch Grand Prix
+RUS,62.0,74.205,4.0,SOFT,7.0,1,True,Mercedes,False,3.0,25.736,25.889,22.58,,False,False,8781.3,15,Dutch Grand Prix
+RUS,63.0,73.945,4.0,SOFT,8.0,1,True,Mercedes,False,3.0,25.55,25.848,22.547,,False,False,8855.245,15,Dutch Grand Prix
+RUS,64.0,74.01,4.0,SOFT,9.0,1,True,Mercedes,False,2.0,25.584,25.806,22.62,,False,False,8929.255,15,Dutch Grand Prix
+RUS,65.0,73.917,4.0,SOFT,10.0,1,True,Mercedes,False,2.0,25.448,25.877,22.592,,False,False,9003.172,15,Dutch Grand Prix
+RUS,66.0,74.208,4.0,SOFT,11.0,1,True,Mercedes,False,2.0,25.474,26.055,22.679,,False,False,9077.38,15,Dutch Grand Prix
+RUS,67.0,74.037,4.0,SOFT,12.0,1,True,Mercedes,False,2.0,25.454,25.943,22.64,,False,False,9151.417,15,Dutch Grand Prix
+RUS,68.0,74.194,4.0,SOFT,13.0,1,True,Mercedes,False,2.0,25.566,25.956,22.672,,False,False,9225.611,15,Dutch Grand Prix
+RUS,69.0,74.392,4.0,SOFT,14.0,1,True,Mercedes,False,2.0,25.53,26.043,22.819,,False,False,9300.003,15,Dutch Grand Prix
+RUS,70.0,74.541,4.0,SOFT,15.0,1,True,Mercedes,False,2.0,25.581,26.135,22.825,,False,False,9374.544,15,Dutch Grand Prix
+RUS,71.0,75.535,4.0,SOFT,16.0,1,True,Mercedes,False,2.0,25.83,26.694,23.011,,False,False,9450.079,15,Dutch Grand Prix
+RUS,72.0,73.671,4.0,SOFT,17.0,1,True,Mercedes,False,2.0,25.341,25.8,22.53,,False,False,9523.75,15,Dutch Grand Prix
+BOT,1.0,90.385,1.0,SOFT,1.0,1,False,Alfa Romeo,True,19.0,,30.022,24.932,,False,False,3807.291,15,Dutch Grand Prix
+BOT,2.0,79.532,1.0,SOFT,2.0,12,True,Alfa Romeo,True,18.0,27.799,27.849,23.884,,False,False,3886.823,15,Dutch Grand Prix
+BOT,3.0,78.938,1.0,SOFT,3.0,1,True,Alfa Romeo,True,18.0,27.303,27.931,23.704,,False,False,3965.761,15,Dutch Grand Prix
+BOT,4.0,78.298,1.0,SOFT,4.0,12,True,Alfa Romeo,True,18.0,26.735,27.942,23.621,,False,False,4044.059,15,Dutch Grand Prix
+BOT,5.0,78.651,1.0,SOFT,5.0,1,True,Alfa Romeo,True,18.0,26.935,27.894,23.822,,False,False,4122.71,15,Dutch Grand Prix
+BOT,6.0,78.134,1.0,SOFT,6.0,1,True,Alfa Romeo,True,18.0,26.844,27.647,23.643,,False,False,4200.844,15,Dutch Grand Prix
+BOT,7.0,78.121,1.0,SOFT,7.0,1,True,Alfa Romeo,True,18.0,26.819,27.732,23.57,,False,False,4278.965,15,Dutch Grand Prix
+BOT,8.0,77.889,1.0,SOFT,8.0,1,True,Alfa Romeo,True,18.0,26.741,27.712,23.436,,False,False,4356.854,15,Dutch Grand Prix
+BOT,9.0,78.562,1.0,SOFT,9.0,1,True,Alfa Romeo,True,17.0,26.867,28.016,23.679,,False,False,4435.416,15,Dutch Grand Prix
+BOT,10.0,78.35,1.0,SOFT,10.0,1,True,Alfa Romeo,True,17.0,26.684,27.902,23.764,,False,False,4513.766,15,Dutch Grand Prix
+BOT,11.0,78.525,1.0,SOFT,11.0,1,True,Alfa Romeo,True,15.0,27.008,27.964,23.553,,False,False,4592.291,15,Dutch Grand Prix
+BOT,12.0,78.075,1.0,SOFT,12.0,1,True,Alfa Romeo,True,14.0,26.716,27.857,23.502,,False,False,4670.366,15,Dutch Grand Prix
+BOT,13.0,78.343,1.0,SOFT,13.0,1,True,Alfa Romeo,True,13.0,27.025,27.847,23.471,,False,False,4748.709,15,Dutch Grand Prix
+BOT,14.0,78.589,1.0,SOFT,14.0,1,True,Alfa Romeo,True,11.0,26.947,27.86,23.782,,False,False,4827.298,15,Dutch Grand Prix
+BOT,15.0,78.314,1.0,SOFT,15.0,1,True,Alfa Romeo,True,10.0,26.96,27.679,23.675,,False,False,4905.612,15,Dutch Grand Prix
+BOT,16.0,81.455,1.0,SOFT,16.0,1,False,Alfa Romeo,True,11.0,26.726,27.625,27.104,,True,False,4987.067,15,Dutch Grand Prix
+BOT,17.0,96.608,2.0,SOFT,1.0,1,False,Alfa Romeo,True,17.0,45.363,27.274,23.971,,False,True,5083.675,15,Dutch Grand Prix
+BOT,18.0,78.188,2.0,SOFT,2.0,1,True,Alfa Romeo,True,17.0,27.314,27.401,23.473,,False,False,5161.863,15,Dutch Grand Prix
+BOT,19.0,77.058,2.0,SOFT,3.0,1,True,Alfa Romeo,True,16.0,26.667,26.996,23.395,,False,False,5238.921,15,Dutch Grand Prix
+BOT,20.0,77.256,2.0,SOFT,4.0,1,True,Alfa Romeo,True,16.0,26.525,27.307,23.424,,False,False,5316.177,15,Dutch Grand Prix
+BOT,21.0,77.146,2.0,SOFT,5.0,1,True,Alfa Romeo,True,16.0,26.611,27.164,23.371,,False,False,5393.323,15,Dutch Grand Prix
+BOT,22.0,77.136,2.0,SOFT,6.0,1,True,Alfa Romeo,True,15.0,26.589,27.181,23.366,,False,False,5470.459,15,Dutch Grand Prix
+BOT,23.0,77.163,2.0,SOFT,7.0,1,True,Alfa Romeo,True,15.0,26.573,27.247,23.343,,False,False,5547.622,15,Dutch Grand Prix
+BOT,24.0,77.098,2.0,SOFT,8.0,1,True,Alfa Romeo,True,15.0,26.424,27.222,23.452,,False,False,5624.72,15,Dutch Grand Prix
+BOT,25.0,77.471,2.0,SOFT,9.0,1,True,Alfa Romeo,True,15.0,26.532,27.428,23.511,,False,False,5702.191,15,Dutch Grand Prix
+BOT,26.0,77.526,2.0,SOFT,10.0,1,True,Alfa Romeo,True,15.0,26.517,27.441,23.568,,False,False,5779.717,15,Dutch Grand Prix
+BOT,27.0,77.863,2.0,SOFT,11.0,1,True,Alfa Romeo,True,15.0,26.761,27.543,23.559,,False,False,5857.58,15,Dutch Grand Prix
+BOT,28.0,77.824,2.0,SOFT,12.0,1,True,Alfa Romeo,True,15.0,26.727,27.499,23.598,,False,False,5935.404,15,Dutch Grand Prix
+BOT,29.0,77.242,2.0,SOFT,13.0,1,True,Alfa Romeo,True,15.0,26.668,27.373,23.201,,False,False,6012.646,15,Dutch Grand Prix
+BOT,30.0,77.57,2.0,SOFT,14.0,1,True,Alfa Romeo,True,15.0,26.83,27.515,23.225,,False,False,6090.216,15,Dutch Grand Prix
+BOT,31.0,78.859,2.0,SOFT,15.0,1,True,Alfa Romeo,True,15.0,27.67,27.781,23.408,,False,False,6169.075,15,Dutch Grand Prix
+BOT,32.0,77.391,2.0,SOFT,16.0,1,True,Alfa Romeo,True,15.0,26.621,27.402,23.368,,False,False,6246.466,15,Dutch Grand Prix
+BOT,33.0,77.145,2.0,SOFT,17.0,1,True,Alfa Romeo,True,13.0,26.409,27.401,23.335,,False,False,6323.611,15,Dutch Grand Prix
+BOT,34.0,80.292,2.0,SOFT,18.0,1,False,Alfa Romeo,True,14.0,26.437,27.155,26.7,,True,False,6403.903,15,Dutch Grand Prix
+BOT,35.0,97.475,3.0,MEDIUM,1.0,1,False,Alfa Romeo,True,16.0,47.163,27.004,23.308,,False,True,6501.378,15,Dutch Grand Prix
+BOT,36.0,77.076,3.0,MEDIUM,2.0,1,True,Alfa Romeo,True,15.0,26.506,27.155,23.415,,False,False,6578.454,15,Dutch Grand Prix
+BOT,37.0,77.005,3.0,MEDIUM,3.0,1,True,Alfa Romeo,True,15.0,26.461,27.148,23.396,,False,False,6655.459,15,Dutch Grand Prix
+BOT,38.0,77.041,3.0,MEDIUM,4.0,1,True,Alfa Romeo,True,14.0,26.511,27.088,23.442,,False,False,6732.5,15,Dutch Grand Prix
+BOT,39.0,76.926,3.0,MEDIUM,5.0,1,True,Alfa Romeo,True,14.0,26.534,27.064,23.328,,False,False,6809.426,15,Dutch Grand Prix
+BOT,40.0,77.311,3.0,MEDIUM,6.0,1,True,Alfa Romeo,True,14.0,26.623,27.265,23.423,,False,False,6886.737,15,Dutch Grand Prix
+BOT,41.0,78.934,3.0,MEDIUM,7.0,1,True,Alfa Romeo,True,14.0,28.14,27.297,23.497,,False,False,6965.671,15,Dutch Grand Prix
+BOT,42.0,78.323,3.0,MEDIUM,8.0,1,True,Alfa Romeo,True,14.0,28.039,27.073,23.211,,False,False,7043.994,15,Dutch Grand Prix
+BOT,43.0,78.05,3.0,MEDIUM,9.0,12,True,Alfa Romeo,True,13.0,27.053,27.635,23.362,,False,False,7122.044,15,Dutch Grand Prix
+BOT,44.0,77.54,3.0,MEDIUM,10.0,21,True,Alfa Romeo,True,13.0,26.737,27.381,23.422,,False,False,7199.584,15,Dutch Grand Prix
+BOT,45.0,77.131,3.0,MEDIUM,11.0,1,True,Alfa Romeo,True,13.0,26.527,27.22,23.384,,False,False,7276.715,15,Dutch Grand Prix
+BOT,46.0,81.174,3.0,MEDIUM,12.0,126,False,Alfa Romeo,True,13.0,26.742,27.292,27.14,,False,False,7357.889,15,Dutch Grand Prix
+BOT,47.0,103.751,3.0,MEDIUM,13.0,6,False,Alfa Romeo,True,13.0,37.239,34.482,32.03,,False,False,7461.64,15,Dutch Grand Prix
+BOT,48.0,102.604,3.0,MEDIUM,14.0,67,False,Alfa Romeo,True,13.0,36.735,34.115,31.754,,False,False,7564.244,15,Dutch Grand Prix
+BOT,49.0,81.315,3.0,MEDIUM,15.0,71,False,Alfa Romeo,True,13.0,31.07,26.9,23.345,,False,False,7645.559,15,Dutch Grand Prix
+BOT,50.0,78.23,3.0,MEDIUM,16.0,1,True,Alfa Romeo,True,13.0,27.819,26.972,23.439,,False,False,7723.789,15,Dutch Grand Prix
+BOT,51.0,76.844,3.0,MEDIUM,17.0,1,True,Alfa Romeo,True,13.0,26.323,27.155,23.366,,False,False,7800.633,15,Dutch Grand Prix
+BOT,52.0,77.25,3.0,MEDIUM,18.0,1,True,Alfa Romeo,True,13.0,26.716,27.257,23.277,,False,False,7877.883,15,Dutch Grand Prix
+BOT,53.0,79.499,3.0,MEDIUM,19.0,1,True,Alfa Romeo,True,13.0,27.789,27.547,24.163,,False,False,7957.382,15,Dutch Grand Prix
+BOT,54.0,,3.0,MEDIUM,20.0,124,False,Alfa Romeo,True,,,,,,False,False,8107.382,15,Dutch Grand Prix

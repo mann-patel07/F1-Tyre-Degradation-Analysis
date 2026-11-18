@@ -1,0 +1,1057 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,99.019,1.0,SOFT,4.0,12,False,Red Bull Racing,False,1.0,,42.414,23.842,,False,False,3855.902,1,Bahrain Grand Prix
+VER,2.0,97.974,1.0,SOFT,5.0,12,True,Red Bull Racing,False,1.0,31.342,42.504,24.128,,False,False,3953.876,1,Bahrain Grand Prix
+VER,3.0,98.006,1.0,SOFT,6.0,1,True,Red Bull Racing,False,1.0,31.388,42.469,24.149,,False,False,4051.882,1,Bahrain Grand Prix
+VER,4.0,97.976,1.0,SOFT,7.0,1,True,Red Bull Racing,False,1.0,31.271,42.642,24.063,,False,False,4149.858,1,Bahrain Grand Prix
+VER,5.0,98.035,1.0,SOFT,8.0,1,True,Red Bull Racing,False,1.0,31.244,42.724,24.067,,False,False,4247.893,1,Bahrain Grand Prix
+VER,6.0,97.986,1.0,SOFT,9.0,1,True,Red Bull Racing,False,1.0,31.341,42.632,24.013,,False,False,4345.879,1,Bahrain Grand Prix
+VER,7.0,98.021,1.0,SOFT,10.0,1,True,Red Bull Racing,False,1.0,31.29,42.763,23.968,,False,False,4443.9,1,Bahrain Grand Prix
+VER,8.0,98.154,1.0,SOFT,11.0,1,True,Red Bull Racing,False,1.0,31.291,42.833,24.03,,False,False,4542.054,1,Bahrain Grand Prix
+VER,9.0,98.278,1.0,SOFT,12.0,1,True,Red Bull Racing,False,1.0,31.336,42.823,24.119,,False,False,4640.332,1,Bahrain Grand Prix
+VER,10.0,98.369,1.0,SOFT,13.0,1,True,Red Bull Racing,False,1.0,31.361,42.884,24.124,,False,False,4738.701,1,Bahrain Grand Prix
+VER,11.0,98.483,1.0,SOFT,14.0,1,True,Red Bull Racing,False,1.0,31.342,42.978,24.163,,False,False,4837.184,1,Bahrain Grand Prix
+VER,12.0,98.591,1.0,SOFT,15.0,1,True,Red Bull Racing,False,1.0,31.408,42.951,24.232,,False,False,4935.775,1,Bahrain Grand Prix
+VER,13.0,98.482,1.0,SOFT,16.0,1,True,Red Bull Racing,False,1.0,31.389,42.907,24.186,,False,False,5034.257,1,Bahrain Grand Prix
+VER,14.0,101.295,1.0,SOFT,17.0,1,False,Red Bull Racing,False,1.0,31.427,42.876,26.992,,True,False,5135.552,1,Bahrain Grand Prix
+VER,15.0,118.378,2.0,SOFT,1.0,1,False,Red Bull Racing,False,2.0,51.854,42.629,23.895,,False,True,5253.93,1,Bahrain Grand Prix
+VER,16.0,97.801,2.0,SOFT,2.0,1,True,Red Bull Racing,False,2.0,31.209,42.711,23.881,,False,False,5351.731,1,Bahrain Grand Prix
+VER,17.0,97.648,2.0,SOFT,3.0,1,True,Red Bull Racing,False,2.0,31.17,42.623,23.855,,False,False,5449.379,1,Bahrain Grand Prix
+VER,18.0,97.614,2.0,SOFT,4.0,1,True,Red Bull Racing,False,1.0,31.211,42.569,23.834,,False,False,5546.993,1,Bahrain Grand Prix
+VER,19.0,97.712,2.0,SOFT,5.0,1,True,Red Bull Racing,False,1.0,31.243,42.608,23.861,,False,False,5644.705,1,Bahrain Grand Prix
+VER,20.0,97.788,2.0,SOFT,6.0,1,True,Red Bull Racing,False,1.0,31.186,42.766,23.836,,False,False,5742.493,1,Bahrain Grand Prix
+VER,21.0,97.582,2.0,SOFT,7.0,1,True,Red Bull Racing,False,1.0,31.168,42.572,23.842,,False,False,5840.075,1,Bahrain Grand Prix
+VER,22.0,97.651,2.0,SOFT,8.0,1,True,Red Bull Racing,False,1.0,31.224,42.548,23.879,,False,False,5937.726,1,Bahrain Grand Prix
+VER,23.0,97.552,2.0,SOFT,9.0,1,True,Red Bull Racing,False,1.0,31.153,42.514,23.885,,False,False,6035.278,1,Bahrain Grand Prix
+VER,24.0,97.387,2.0,SOFT,10.0,1,True,Red Bull Racing,False,1.0,31.145,42.398,23.844,,False,False,6132.665,1,Bahrain Grand Prix
+VER,25.0,97.372,2.0,SOFT,11.0,1,True,Red Bull Racing,False,1.0,31.145,42.344,23.883,,False,False,6230.037,1,Bahrain Grand Prix
+VER,26.0,97.682,2.0,SOFT,12.0,1,True,Red Bull Racing,False,1.0,31.213,42.533,23.936,,False,False,6327.719,1,Bahrain Grand Prix
+VER,27.0,97.379,2.0,SOFT,13.0,1,True,Red Bull Racing,False,1.0,31.079,42.349,23.951,,False,False,6425.098,1,Bahrain Grand Prix
+VER,28.0,97.651,2.0,SOFT,14.0,1,True,Red Bull Racing,False,1.0,31.112,42.554,23.985,,False,False,6522.749,1,Bahrain Grand Prix
+VER,29.0,97.571,2.0,SOFT,15.0,1,True,Red Bull Racing,False,1.0,31.045,42.533,23.993,,False,False,6620.32,1,Bahrain Grand Prix
+VER,30.0,97.549,2.0,SOFT,16.0,1,True,Red Bull Racing,False,1.0,31.185,42.443,23.921,,False,False,6717.869,1,Bahrain Grand Prix
+VER,31.0,97.431,2.0,SOFT,17.0,1,True,Red Bull Racing,False,1.0,31.04,42.464,23.927,,False,False,6815.3,1,Bahrain Grand Prix
+VER,32.0,97.691,2.0,SOFT,18.0,1,True,Red Bull Racing,False,1.0,31.139,42.523,24.029,,False,False,6912.991,1,Bahrain Grand Prix
+VER,33.0,97.686,2.0,SOFT,19.0,1,True,Red Bull Racing,False,1.0,31.112,42.505,24.069,,False,False,7010.677,1,Bahrain Grand Prix
+VER,34.0,97.839,2.0,SOFT,20.0,1,True,Red Bull Racing,False,1.0,31.129,42.615,24.095,,False,False,7108.516,1,Bahrain Grand Prix
+VER,35.0,97.85,2.0,SOFT,21.0,1,True,Red Bull Racing,False,1.0,31.211,42.5,24.139,,False,False,7206.366,1,Bahrain Grand Prix
+VER,36.0,100.964,2.0,SOFT,22.0,1,False,Red Bull Racing,False,1.0,31.35,42.582,27.032,,True,False,7307.33,1,Bahrain Grand Prix
+VER,37.0,118.49,3.0,HARD,1.0,1,False,Red Bull Racing,True,1.0,52.755,42.071,23.664,,False,True,7425.82,1,Bahrain Grand Prix
+VER,38.0,96.297,3.0,HARD,2.0,1,True,Red Bull Racing,True,1.0,31.034,41.772,23.491,,False,False,7522.117,1,Bahrain Grand Prix
+VER,39.0,96.446,3.0,HARD,3.0,1,True,Red Bull Racing,True,1.0,30.818,42.125,23.503,,False,False,7618.563,1,Bahrain Grand Prix
+VER,40.0,96.942,3.0,HARD,4.0,1,True,Red Bull Racing,True,1.0,31.175,42.247,23.52,,False,False,7715.505,1,Bahrain Grand Prix
+VER,41.0,120.495,3.0,HARD,5.0,126,False,Red Bull Racing,True,1.0,31.381,55.533,33.581,,False,False,7836.0,1,Bahrain Grand Prix
+VER,42.0,104.824,3.0,HARD,6.0,671,False,Red Bull Racing,True,1.0,38.946,42.174,23.704,,False,False,7940.824,1,Bahrain Grand Prix
+VER,43.0,96.89,3.0,HARD,7.0,1,True,Red Bull Racing,True,1.0,31.13,42.295,23.465,,False,False,8037.714,1,Bahrain Grand Prix
+VER,44.0,96.236,3.0,HARD,8.0,1,True,Red Bull Racing,True,1.0,30.783,42.005,23.448,,False,False,8133.95,1,Bahrain Grand Prix
+VER,45.0,97.015,3.0,HARD,9.0,1,True,Red Bull Racing,True,1.0,31.079,42.221,23.715,,False,False,8230.965,1,Bahrain Grand Prix
+VER,46.0,96.701,3.0,HARD,10.0,1,True,Red Bull Racing,True,1.0,31.03,42.003,23.668,,False,False,8327.666,1,Bahrain Grand Prix
+VER,47.0,97.009,3.0,HARD,11.0,1,True,Red Bull Racing,True,1.0,31.094,42.205,23.71,,False,False,8424.675,1,Bahrain Grand Prix
+VER,48.0,96.918,3.0,HARD,12.0,1,True,Red Bull Racing,True,1.0,31.01,42.199,23.709,,False,False,8521.593,1,Bahrain Grand Prix
+VER,49.0,96.962,3.0,HARD,13.0,1,True,Red Bull Racing,True,1.0,31.124,42.026,23.812,,False,False,8618.555,1,Bahrain Grand Prix
+VER,50.0,97.25,3.0,HARD,14.0,1,True,Red Bull Racing,True,1.0,31.07,42.375,23.805,,False,False,8715.805,1,Bahrain Grand Prix
+VER,51.0,97.427,3.0,HARD,15.0,1,True,Red Bull Racing,True,1.0,31.154,42.202,24.071,,False,False,8813.232,1,Bahrain Grand Prix
+VER,52.0,96.919,3.0,HARD,16.0,1,True,Red Bull Racing,True,1.0,31.033,42.133,23.753,,False,False,8910.151,1,Bahrain Grand Prix
+VER,53.0,96.89,3.0,HARD,17.0,1,True,Red Bull Racing,True,1.0,30.906,42.217,23.767,,False,False,9007.041,1,Bahrain Grand Prix
+VER,54.0,96.678,3.0,HARD,18.0,1,True,Red Bull Racing,True,1.0,30.988,41.938,23.752,,False,False,9103.719,1,Bahrain Grand Prix
+VER,55.0,96.322,3.0,HARD,19.0,1,True,Red Bull Racing,True,1.0,30.964,41.747,23.611,,False,False,9200.041,1,Bahrain Grand Prix
+VER,56.0,97.205,3.0,HARD,20.0,1,True,Red Bull Racing,True,1.0,31.091,42.27,23.844,,False,False,9297.246,1,Bahrain Grand Prix
+VER,57.0,96.373,3.0,HARD,21.0,1,True,Red Bull Racing,True,1.0,30.96,41.763,23.65,,False,False,9393.619,1,Bahrain Grand Prix
+GAS,1.0,109.649,1.0,SOFT,1.0,12,False,Alpine,True,19.0,,46.78,25.135,,False,False,3866.532,1,Bahrain Grand Prix
+GAS,2.0,100.438,1.0,SOFT,2.0,21,True,Alpine,True,18.0,31.738,43.938,24.762,,False,False,3966.97,1,Bahrain Grand Prix
+GAS,3.0,100.643,1.0,SOFT,3.0,1,True,Alpine,True,18.0,31.8,44.083,24.76,,False,False,4067.613,1,Bahrain Grand Prix
+GAS,4.0,100.894,1.0,SOFT,4.0,1,True,Alpine,True,18.0,31.514,44.492,24.888,,False,False,4168.507,1,Bahrain Grand Prix
+GAS,5.0,100.818,1.0,SOFT,5.0,1,True,Alpine,True,18.0,31.705,44.192,24.921,,False,False,4269.325,1,Bahrain Grand Prix
+GAS,6.0,101.11,1.0,SOFT,6.0,1,True,Alpine,True,18.0,31.573,44.534,25.003,,False,False,4370.435,1,Bahrain Grand Prix
+GAS,7.0,101.134,1.0,SOFT,7.0,1,True,Alpine,True,18.0,31.604,44.49,25.04,,False,False,4471.569,1,Bahrain Grand Prix
+GAS,8.0,101.173,1.0,SOFT,8.0,1,True,Alpine,True,18.0,31.773,44.275,25.125,,False,False,4572.742,1,Bahrain Grand Prix
+GAS,9.0,104.201,1.0,SOFT,9.0,1,False,Alpine,True,19.0,31.843,44.538,27.82,,True,False,4676.943,1,Bahrain Grand Prix
+GAS,10.0,121.262,2.0,HARD,1.0,1,False,Alpine,True,20.0,54.574,42.66,24.028,,False,True,4798.205,1,Bahrain Grand Prix
+GAS,11.0,98.762,2.0,HARD,2.0,1,True,Alpine,True,19.0,31.455,43.098,24.209,,False,False,4896.967,1,Bahrain Grand Prix
+GAS,12.0,98.928,2.0,HARD,3.0,1,True,Alpine,True,17.0,31.57,43.066,24.292,,False,False,4995.895,1,Bahrain Grand Prix
+GAS,13.0,99.349,2.0,HARD,4.0,1,True,Alpine,True,14.0,31.744,43.26,24.345,,False,False,5095.244,1,Bahrain Grand Prix
+GAS,14.0,98.859,2.0,HARD,5.0,1,True,Alpine,True,14.0,31.518,43.043,24.298,,False,False,5194.103,1,Bahrain Grand Prix
+GAS,15.0,98.985,2.0,HARD,6.0,1,True,Alpine,True,14.0,31.398,43.252,24.335,,False,False,5293.088,1,Bahrain Grand Prix
+GAS,16.0,98.945,2.0,HARD,7.0,1,True,Alpine,True,12.0,31.514,43.137,24.294,,False,False,5392.033,1,Bahrain Grand Prix
+GAS,17.0,99.011,2.0,HARD,8.0,1,True,Alpine,True,12.0,31.527,43.151,24.333,,False,False,5491.044,1,Bahrain Grand Prix
+GAS,18.0,99.029,2.0,HARD,9.0,1,True,Alpine,True,12.0,31.515,43.068,24.446,,False,False,5590.073,1,Bahrain Grand Prix
+GAS,19.0,99.066,2.0,HARD,10.0,1,True,Alpine,True,12.0,31.571,43.098,24.397,,False,False,5689.139,1,Bahrain Grand Prix
+GAS,20.0,99.017,2.0,HARD,11.0,1,True,Alpine,True,12.0,31.481,43.179,24.357,,False,False,5788.156,1,Bahrain Grand Prix
+GAS,21.0,99.327,2.0,HARD,12.0,1,True,Alpine,True,12.0,31.671,43.328,24.328,,False,False,5887.483,1,Bahrain Grand Prix
+GAS,22.0,99.485,2.0,HARD,13.0,1,True,Alpine,True,12.0,31.609,43.483,24.393,,False,False,5986.968,1,Bahrain Grand Prix
+GAS,23.0,99.263,2.0,HARD,14.0,1,True,Alpine,True,12.0,31.538,43.32,24.405,,False,False,6086.231,1,Bahrain Grand Prix
+GAS,24.0,99.761,2.0,HARD,15.0,1,True,Alpine,True,12.0,31.721,43.505,24.535,,False,False,6185.992,1,Bahrain Grand Prix
+GAS,25.0,102.288,2.0,HARD,16.0,1,False,Alpine,True,12.0,31.613,43.531,27.144,,True,False,6288.28,1,Bahrain Grand Prix
+GAS,26.0,119.404,3.0,HARD,1.0,1,False,Alpine,True,17.0,53.105,42.4,23.899,,False,True,6407.684,1,Bahrain Grand Prix
+GAS,27.0,98.729,3.0,HARD,2.0,1,True,Alpine,True,15.0,31.836,42.851,24.042,,False,False,6506.413,1,Bahrain Grand Prix
+GAS,28.0,97.761,3.0,HARD,3.0,1,True,Alpine,True,14.0,31.006,42.656,24.099,,False,False,6604.174,1,Bahrain Grand Prix
+GAS,29.0,98.012,3.0,HARD,4.0,1,True,Alpine,True,14.0,31.178,42.696,24.138,,False,False,6702.186,1,Bahrain Grand Prix
+GAS,30.0,97.76,3.0,HARD,5.0,1,True,Alpine,True,13.0,30.885,42.716,24.159,,False,False,6799.946,1,Bahrain Grand Prix
+GAS,31.0,97.968,3.0,HARD,6.0,1,True,Alpine,True,12.0,30.971,42.877,24.12,,False,False,6897.914,1,Bahrain Grand Prix
+GAS,32.0,98.012,3.0,HARD,7.0,1,True,Alpine,True,12.0,30.969,42.824,24.219,,False,False,6995.926,1,Bahrain Grand Prix
+GAS,33.0,97.974,3.0,HARD,8.0,1,True,Alpine,True,11.0,30.942,42.828,24.204,,False,False,7093.9,1,Bahrain Grand Prix
+GAS,34.0,98.022,3.0,HARD,9.0,1,True,Alpine,True,11.0,30.947,42.874,24.201,,False,False,7191.922,1,Bahrain Grand Prix
+GAS,35.0,98.088,3.0,HARD,10.0,1,True,Alpine,True,11.0,31.01,42.851,24.227,,False,False,7290.01,1,Bahrain Grand Prix
+GAS,36.0,98.184,3.0,HARD,11.0,1,True,Alpine,True,11.0,31.045,42.821,24.318,,False,False,7388.194,1,Bahrain Grand Prix
+GAS,37.0,98.133,3.0,HARD,12.0,1,True,Alpine,True,11.0,31.117,42.864,24.152,,False,False,7486.327,1,Bahrain Grand Prix
+GAS,38.0,98.108,3.0,HARD,13.0,1,True,Alpine,True,11.0,31.025,42.822,24.261,,False,False,7584.435,1,Bahrain Grand Prix
+GAS,39.0,98.537,3.0,HARD,14.0,1,True,Alpine,True,11.0,31.183,43.08,24.274,,False,False,7682.972,1,Bahrain Grand Prix
+GAS,40.0,109.707,3.0,HARD,15.0,126,False,Alpine,True,10.0,31.156,42.984,35.567,,True,False,7792.679,1,Bahrain Grand Prix
+GAS,41.0,128.544,4.0,SOFT,1.0,671,False,Alpine,True,10.0,60.744,44.327,23.473,,False,True,7921.223,1,Bahrain Grand Prix
+GAS,42.0,95.068,4.0,SOFT,2.0,1,True,Alpine,True,9.0,30.069,41.393,23.606,,False,False,8016.291,1,Bahrain Grand Prix
+GAS,43.0,95.942,4.0,SOFT,3.0,1,True,Alpine,True,9.0,30.776,41.677,23.489,,False,False,8112.233,1,Bahrain Grand Prix
+GAS,44.0,95.792,4.0,SOFT,4.0,1,True,Alpine,True,9.0,30.785,41.542,23.465,,False,False,8208.025,1,Bahrain Grand Prix
+GAS,45.0,96.186,4.0,SOFT,5.0,1,True,Alpine,True,9.0,30.874,41.775,23.537,,False,False,8304.211,1,Bahrain Grand Prix
+GAS,46.0,96.041,4.0,SOFT,6.0,1,True,Alpine,True,9.0,30.831,41.707,23.503,,False,False,8400.252,1,Bahrain Grand Prix
+GAS,47.0,96.12,4.0,SOFT,7.0,1,True,Alpine,True,9.0,30.806,41.735,23.579,,False,False,8496.372,1,Bahrain Grand Prix
+GAS,48.0,96.368,4.0,SOFT,8.0,1,True,Alpine,True,9.0,30.909,41.693,23.766,,False,False,8592.74,1,Bahrain Grand Prix
+GAS,49.0,96.803,4.0,SOFT,9.0,1,True,Alpine,True,9.0,31.008,42.102,23.693,,False,False,8689.543,1,Bahrain Grand Prix
+GAS,50.0,96.551,4.0,SOFT,10.0,1,True,Alpine,True,9.0,30.972,41.874,23.705,,False,False,8786.094,1,Bahrain Grand Prix
+GAS,51.0,96.635,4.0,SOFT,11.0,1,True,Alpine,True,9.0,30.941,41.896,23.798,,False,False,8882.729,1,Bahrain Grand Prix
+GAS,52.0,96.891,4.0,SOFT,12.0,1,True,Alpine,True,9.0,30.878,42.136,23.877,,False,False,8979.62,1,Bahrain Grand Prix
+GAS,53.0,96.979,4.0,SOFT,13.0,1,True,Alpine,True,9.0,30.964,42.046,23.969,,False,False,9076.599,1,Bahrain Grand Prix
+GAS,54.0,97.222,4.0,SOFT,14.0,1,True,Alpine,True,9.0,31.101,42.251,23.87,,False,False,9173.821,1,Bahrain Grand Prix
+GAS,55.0,97.559,4.0,SOFT,15.0,1,True,Alpine,True,9.0,31.1,42.422,24.037,,False,False,9271.38,1,Bahrain Grand Prix
+GAS,56.0,97.845,4.0,SOFT,16.0,1,True,Alpine,True,9.0,31.196,42.539,24.11,,False,False,9369.225,1,Bahrain Grand Prix
+GAS,57.0,98.147,4.0,SOFT,17.0,1,True,Alpine,True,9.0,31.26,42.631,24.256,,False,False,9467.372,1,Bahrain Grand Prix
+PER,1.0,101.063,1.0,SOFT,4.0,12,False,Red Bull Racing,False,3.0,,43.216,24.069,,False,False,3857.946,1,Bahrain Grand Prix
+PER,2.0,98.862,1.0,SOFT,5.0,21,True,Red Bull Racing,False,3.0,31.532,43.116,24.214,,False,False,3956.808,1,Bahrain Grand Prix
+PER,3.0,98.83,1.0,SOFT,6.0,1,True,Red Bull Racing,False,3.0,31.397,43.146,24.287,,False,False,4055.638,1,Bahrain Grand Prix
+PER,4.0,98.758,1.0,SOFT,7.0,1,True,Red Bull Racing,False,3.0,31.404,43.108,24.246,,False,False,4154.396,1,Bahrain Grand Prix
+PER,5.0,98.404,1.0,SOFT,8.0,1,True,Red Bull Racing,False,3.0,31.231,42.944,24.229,,False,False,4252.8,1,Bahrain Grand Prix
+PER,6.0,98.718,1.0,SOFT,9.0,1,True,Red Bull Racing,False,3.0,31.276,43.043,24.399,,False,False,4351.518,1,Bahrain Grand Prix
+PER,7.0,98.804,1.0,SOFT,10.0,1,True,Red Bull Racing,False,3.0,31.214,43.174,24.416,,False,False,4450.322,1,Bahrain Grand Prix
+PER,8.0,99.172,1.0,SOFT,11.0,1,True,Red Bull Racing,False,3.0,31.58,43.193,24.399,,False,False,4549.494,1,Bahrain Grand Prix
+PER,9.0,98.914,1.0,SOFT,12.0,1,True,Red Bull Racing,False,3.0,31.464,43.077,24.373,,False,False,4648.408,1,Bahrain Grand Prix
+PER,10.0,99.085,1.0,SOFT,13.0,1,True,Red Bull Racing,False,3.0,31.434,43.27,24.381,,False,False,4747.493,1,Bahrain Grand Prix
+PER,11.0,99.249,1.0,SOFT,14.0,1,True,Red Bull Racing,False,3.0,31.632,43.188,24.429,,False,False,4846.742,1,Bahrain Grand Prix
+PER,12.0,99.197,1.0,SOFT,15.0,1,True,Red Bull Racing,False,3.0,31.527,43.252,24.418,,False,False,4945.939,1,Bahrain Grand Prix
+PER,13.0,99.336,1.0,SOFT,16.0,1,True,Red Bull Racing,False,2.0,31.57,43.298,24.468,,False,False,5045.275,1,Bahrain Grand Prix
+PER,14.0,98.739,1.0,SOFT,17.0,1,True,Red Bull Racing,False,2.0,31.411,42.993,24.335,,False,False,5144.014,1,Bahrain Grand Prix
+PER,15.0,98.608,1.0,SOFT,18.0,1,True,Red Bull Racing,False,1.0,31.441,42.89,24.277,,False,False,5242.622,1,Bahrain Grand Prix
+PER,16.0,98.77,1.0,SOFT,19.0,1,True,Red Bull Racing,False,1.0,31.469,43.019,24.282,,False,False,5341.392,1,Bahrain Grand Prix
+PER,17.0,101.36,1.0,SOFT,20.0,1,False,Red Bull Racing,False,1.0,31.516,43.018,26.826,,True,False,5442.752,1,Bahrain Grand Prix
+PER,18.0,118.797,2.0,SOFT,3.0,1,False,Red Bull Racing,False,3.0,51.905,42.936,23.956,,False,True,5561.549,1,Bahrain Grand Prix
+PER,19.0,97.659,2.0,SOFT,4.0,1,True,Red Bull Racing,False,3.0,31.164,42.653,23.842,,False,False,5659.208,1,Bahrain Grand Prix
+PER,20.0,97.448,2.0,SOFT,5.0,1,True,Red Bull Racing,False,3.0,30.978,42.696,23.774,,False,False,5756.656,1,Bahrain Grand Prix
+PER,21.0,97.24,2.0,SOFT,6.0,1,True,Red Bull Racing,False,3.0,30.982,42.507,23.751,,False,False,5853.896,1,Bahrain Grand Prix
+PER,22.0,97.169,2.0,SOFT,7.0,1,True,Red Bull Racing,False,3.0,30.956,42.354,23.859,,False,False,5951.065,1,Bahrain Grand Prix
+PER,23.0,97.304,2.0,SOFT,8.0,1,True,Red Bull Racing,False,3.0,31.057,42.415,23.832,,False,False,6048.369,1,Bahrain Grand Prix
+PER,24.0,97.352,2.0,SOFT,9.0,1,True,Red Bull Racing,False,3.0,31.142,42.243,23.967,,False,False,6145.721,1,Bahrain Grand Prix
+PER,25.0,98.418,2.0,SOFT,10.0,1,True,Red Bull Racing,False,3.0,31.176,42.937,24.305,,False,False,6244.139,1,Bahrain Grand Prix
+PER,26.0,97.454,2.0,SOFT,11.0,1,True,Red Bull Racing,False,2.0,30.903,42.667,23.884,,False,False,6341.593,1,Bahrain Grand Prix
+PER,27.0,97.387,2.0,SOFT,12.0,1,True,Red Bull Racing,False,2.0,30.97,42.639,23.778,,False,False,6438.98,1,Bahrain Grand Prix
+PER,28.0,97.211,2.0,SOFT,13.0,1,True,Red Bull Racing,False,2.0,31.052,42.274,23.885,,False,False,6536.191,1,Bahrain Grand Prix
+PER,29.0,97.733,2.0,SOFT,14.0,1,True,Red Bull Racing,False,2.0,31.166,42.675,23.892,,False,False,6633.924,1,Bahrain Grand Prix
+PER,30.0,97.4,2.0,SOFT,15.0,1,True,Red Bull Racing,False,2.0,31.031,42.483,23.886,,False,False,6731.324,1,Bahrain Grand Prix
+PER,31.0,97.919,2.0,SOFT,16.0,1,True,Red Bull Racing,False,2.0,31.246,42.722,23.951,,False,False,6829.243,1,Bahrain Grand Prix
+PER,32.0,97.722,2.0,SOFT,17.0,1,True,Red Bull Racing,False,2.0,31.106,42.637,23.979,,False,False,6926.965,1,Bahrain Grand Prix
+PER,33.0,97.869,2.0,SOFT,18.0,1,True,Red Bull Racing,False,2.0,31.229,42.546,24.094,,False,False,7024.834,1,Bahrain Grand Prix
+PER,34.0,100.686,2.0,SOFT,19.0,1,False,Red Bull Racing,False,2.0,31.289,42.624,26.773,,True,False,7125.52,1,Bahrain Grand Prix
+PER,35.0,118.785,3.0,HARD,1.0,1,False,Red Bull Racing,True,2.0,52.704,42.423,23.658,,False,True,7244.305,1,Bahrain Grand Prix
+PER,36.0,96.82,3.0,HARD,2.0,1,True,Red Bull Racing,True,2.0,30.908,42.254,23.658,,False,False,7341.125,1,Bahrain Grand Prix
+PER,37.0,96.344,3.0,HARD,3.0,1,True,Red Bull Racing,True,2.0,30.919,41.914,23.511,,False,False,7437.469,1,Bahrain Grand Prix
+PER,38.0,96.431,3.0,HARD,4.0,1,True,Red Bull Racing,True,2.0,30.847,42.011,23.573,,False,False,7533.9,1,Bahrain Grand Prix
+PER,39.0,96.429,3.0,HARD,5.0,1,True,Red Bull Racing,True,2.0,30.833,42.027,23.569,,False,False,7630.329,1,Bahrain Grand Prix
+PER,40.0,97.114,3.0,HARD,6.0,1,True,Red Bull Racing,True,2.0,30.926,42.564,23.624,,False,False,7727.443,1,Bahrain Grand Prix
+PER,41.0,123.522,3.0,HARD,7.0,126,False,Red Bull Racing,True,2.0,30.922,59.493,33.107,,False,False,7850.965,1,Bahrain Grand Prix
+PER,42.0,99.657,3.0,HARD,8.0,671,False,Red Bull Racing,True,2.0,34.119,42.002,23.536,,False,False,7950.622,1,Bahrain Grand Prix
+PER,43.0,96.554,3.0,HARD,9.0,1,True,Red Bull Racing,True,2.0,30.774,42.092,23.688,,False,False,8047.176,1,Bahrain Grand Prix
+PER,44.0,96.978,3.0,HARD,10.0,1,True,Red Bull Racing,True,2.0,31.055,42.36,23.563,,False,False,8144.154,1,Bahrain Grand Prix
+PER,45.0,96.928,3.0,HARD,11.0,1,True,Red Bull Racing,True,2.0,30.944,42.434,23.55,,False,False,8241.082,1,Bahrain Grand Prix
+PER,46.0,97.257,3.0,HARD,12.0,1,True,Red Bull Racing,True,2.0,30.914,42.496,23.847,,False,False,8338.339,1,Bahrain Grand Prix
+PER,47.0,96.661,3.0,HARD,13.0,1,True,Red Bull Racing,True,2.0,30.929,42.049,23.683,,False,False,8435.0,1,Bahrain Grand Prix
+PER,48.0,96.859,3.0,HARD,14.0,1,True,Red Bull Racing,True,2.0,31.01,42.316,23.533,,False,False,8531.859,1,Bahrain Grand Prix
+PER,49.0,97.049,3.0,HARD,15.0,1,True,Red Bull Racing,True,2.0,30.944,42.495,23.61,,False,False,8628.908,1,Bahrain Grand Prix
+PER,50.0,97.731,3.0,HARD,16.0,1,True,Red Bull Racing,True,2.0,31.251,42.646,23.834,,False,False,8726.639,1,Bahrain Grand Prix
+PER,51.0,97.049,3.0,HARD,17.0,1,True,Red Bull Racing,True,2.0,31.153,42.153,23.743,,False,False,8823.688,1,Bahrain Grand Prix
+PER,52.0,97.062,3.0,HARD,18.0,1,True,Red Bull Racing,True,2.0,31.147,42.086,23.829,,False,False,8920.75,1,Bahrain Grand Prix
+PER,53.0,97.345,3.0,HARD,19.0,1,True,Red Bull Racing,True,2.0,31.094,42.383,23.868,,False,False,9018.095,1,Bahrain Grand Prix
+PER,54.0,97.296,3.0,HARD,20.0,1,True,Red Bull Racing,True,2.0,31.25,42.257,23.789,,False,False,9115.391,1,Bahrain Grand Prix
+PER,55.0,97.092,3.0,HARD,21.0,1,True,Red Bull Racing,True,2.0,31.084,42.076,23.932,,False,False,9212.483,1,Bahrain Grand Prix
+PER,56.0,96.565,3.0,HARD,22.0,1,True,Red Bull Racing,True,2.0,31.165,41.786,23.614,,False,False,9309.048,1,Bahrain Grand Prix
+PER,57.0,96.558,3.0,HARD,23.0,1,True,Red Bull Racing,True,2.0,30.969,41.799,23.79,,False,False,9405.606,1,Bahrain Grand Prix
+ALO,1.0,103.608,1.0,SOFT,4.0,12,False,Aston Martin,False,7.0,,43.884,24.561,,False,False,3860.491,1,Bahrain Grand Prix
+ALO,2.0,99.792,1.0,SOFT,5.0,21,True,Aston Martin,False,7.0,31.743,43.626,24.423,,False,False,3960.283,1,Bahrain Grand Prix
+ALO,3.0,99.1,1.0,SOFT,6.0,1,True,Aston Martin,False,7.0,31.541,43.276,24.283,,False,False,4059.383,1,Bahrain Grand Prix
+ALO,4.0,99.548,1.0,SOFT,7.0,1,True,Aston Martin,False,7.0,31.723,43.457,24.368,,False,False,4158.931,1,Bahrain Grand Prix
+ALO,5.0,99.662,1.0,SOFT,8.0,1,True,Aston Martin,False,7.0,31.705,43.553,24.404,,False,False,4258.593,1,Bahrain Grand Prix
+ALO,6.0,99.674,1.0,SOFT,9.0,1,True,Aston Martin,False,7.0,31.695,43.482,24.497,,False,False,4358.267,1,Bahrain Grand Prix
+ALO,7.0,99.729,1.0,SOFT,10.0,1,True,Aston Martin,False,7.0,31.675,43.494,24.56,,False,False,4457.996,1,Bahrain Grand Prix
+ALO,8.0,99.959,1.0,SOFT,11.0,1,True,Aston Martin,False,7.0,31.674,43.675,24.61,,False,False,4557.955,1,Bahrain Grand Prix
+ALO,9.0,100.275,1.0,SOFT,12.0,1,True,Aston Martin,False,7.0,31.774,43.819,24.682,,False,False,4658.23,1,Bahrain Grand Prix
+ALO,10.0,100.203,1.0,SOFT,13.0,1,True,Aston Martin,False,7.0,31.505,43.905,24.793,,False,False,4758.433,1,Bahrain Grand Prix
+ALO,11.0,101.147,1.0,SOFT,14.0,1,True,Aston Martin,False,7.0,31.657,44.321,25.169,,False,False,4859.58,1,Bahrain Grand Prix
+ALO,12.0,100.934,1.0,SOFT,15.0,1,True,Aston Martin,False,6.0,31.789,44.062,25.083,,False,False,4960.514,1,Bahrain Grand Prix
+ALO,13.0,100.341,1.0,SOFT,16.0,1,True,Aston Martin,False,5.0,31.823,43.946,24.572,,False,False,5060.855,1,Bahrain Grand Prix
+ALO,14.0,102.212,1.0,SOFT,17.0,1,False,Aston Martin,False,4.0,31.869,43.309,27.034,,True,False,5163.067,1,Bahrain Grand Prix
+ALO,15.0,119.692,2.0,HARD,1.0,1,False,Aston Martin,True,8.0,53.186,42.622,23.884,,False,True,5282.759,1,Bahrain Grand Prix
+ALO,16.0,97.542,2.0,HARD,2.0,1,True,Aston Martin,True,7.0,31.154,42.459,23.929,,False,False,5380.301,1,Bahrain Grand Prix
+ALO,17.0,98.139,2.0,HARD,3.0,1,True,Aston Martin,True,6.0,30.946,43.197,23.996,,False,False,5478.44,1,Bahrain Grand Prix
+ALO,18.0,98.124,2.0,HARD,4.0,1,True,Aston Martin,True,6.0,31.3,42.737,24.087,,False,False,5576.564,1,Bahrain Grand Prix
+ALO,19.0,98.361,2.0,HARD,5.0,1,True,Aston Martin,True,6.0,31.313,42.965,24.083,,False,False,5674.925,1,Bahrain Grand Prix
+ALO,20.0,98.318,2.0,HARD,6.0,1,True,Aston Martin,True,6.0,31.337,42.915,24.066,,False,False,5773.243,1,Bahrain Grand Prix
+ALO,21.0,98.407,2.0,HARD,7.0,1,True,Aston Martin,True,6.0,31.383,42.994,24.03,,False,False,5871.65,1,Bahrain Grand Prix
+ALO,22.0,98.2,2.0,HARD,8.0,1,True,Aston Martin,True,6.0,31.364,42.853,23.983,,False,False,5969.85,1,Bahrain Grand Prix
+ALO,23.0,97.853,2.0,HARD,9.0,1,True,Aston Martin,True,6.0,31.14,42.63,24.083,,False,False,6067.703,1,Bahrain Grand Prix
+ALO,24.0,97.878,2.0,HARD,10.0,1,True,Aston Martin,True,6.0,31.237,42.611,24.03,,False,False,6165.581,1,Bahrain Grand Prix
+ALO,25.0,98.139,2.0,HARD,11.0,1,True,Aston Martin,True,6.0,31.315,42.669,24.155,,False,False,6263.72,1,Bahrain Grand Prix
+ALO,26.0,98.127,2.0,HARD,12.0,1,True,Aston Martin,True,6.0,31.267,42.694,24.166,,False,False,6361.847,1,Bahrain Grand Prix
+ALO,27.0,98.612,2.0,HARD,13.0,1,True,Aston Martin,True,6.0,31.395,43.114,24.103,,False,False,6460.459,1,Bahrain Grand Prix
+ALO,28.0,98.199,2.0,HARD,14.0,1,True,Aston Martin,True,6.0,31.345,42.758,24.096,,False,False,6558.658,1,Bahrain Grand Prix
+ALO,29.0,98.585,2.0,HARD,15.0,1,True,Aston Martin,True,6.0,31.49,42.916,24.179,,False,False,6657.243,1,Bahrain Grand Prix
+ALO,30.0,98.282,2.0,HARD,16.0,1,True,Aston Martin,True,5.0,31.37,42.711,24.201,,False,False,6755.525,1,Bahrain Grand Prix
+ALO,31.0,98.009,2.0,HARD,17.0,1,True,Aston Martin,True,5.0,31.257,42.663,24.089,,False,False,6853.534,1,Bahrain Grand Prix
+ALO,32.0,97.871,2.0,HARD,18.0,1,True,Aston Martin,True,4.0,31.335,42.558,23.978,,False,False,6951.405,1,Bahrain Grand Prix
+ALO,33.0,97.769,2.0,HARD,19.0,1,True,Aston Martin,True,4.0,31.266,42.549,23.954,,False,False,7049.174,1,Bahrain Grand Prix
+ALO,34.0,100.353,2.0,HARD,20.0,1,False,Aston Martin,True,3.0,31.259,42.545,26.549,,True,False,7149.527,1,Bahrain Grand Prix
+ALO,35.0,117.389,3.0,HARD,1.0,1,False,Aston Martin,True,6.0,52.333,41.52,23.536,,False,True,7266.916,1,Bahrain Grand Prix
+ALO,36.0,96.156,3.0,HARD,2.0,1,True,Aston Martin,True,6.0,30.895,41.462,23.799,,False,False,7363.072,1,Bahrain Grand Prix
+ALO,37.0,97.431,3.0,HARD,3.0,1,True,Aston Martin,True,6.0,31.186,42.184,24.061,,False,False,7460.503,1,Bahrain Grand Prix
+ALO,38.0,97.002,3.0,HARD,4.0,1,True,Aston Martin,True,5.0,30.763,42.308,23.931,,False,False,7557.505,1,Bahrain Grand Prix
+ALO,39.0,97.243,3.0,HARD,5.0,1,True,Aston Martin,True,5.0,31.244,42.303,23.696,,False,False,7654.748,1,Bahrain Grand Prix
+ALO,40.0,97.208,3.0,HARD,6.0,12,True,Aston Martin,True,4.0,31.221,42.306,23.681,,False,False,7751.956,1,Bahrain Grand Prix
+ALO,41.0,126.713,3.0,HARD,7.0,2671,False,Aston Martin,True,4.0,39.952,58.704,28.057,,False,False,7878.669,1,Bahrain Grand Prix
+ALO,42.0,96.334,3.0,HARD,8.0,1,True,Aston Martin,True,4.0,30.908,41.746,23.68,,False,False,7975.003,1,Bahrain Grand Prix
+ALO,43.0,96.911,3.0,HARD,9.0,1,True,Aston Martin,True,4.0,30.956,42.096,23.859,,False,False,8071.914,1,Bahrain Grand Prix
+ALO,44.0,97.022,3.0,HARD,10.0,1,True,Aston Martin,True,4.0,30.817,42.208,23.997,,False,False,8168.936,1,Bahrain Grand Prix
+ALO,45.0,97.931,3.0,HARD,11.0,1,True,Aston Martin,True,3.0,31.048,43.229,23.654,,False,False,8266.867,1,Bahrain Grand Prix
+ALO,46.0,97.087,3.0,HARD,12.0,1,True,Aston Martin,True,3.0,31.144,42.162,23.781,,False,False,8363.954,1,Bahrain Grand Prix
+ALO,47.0,97.326,3.0,HARD,13.0,1,True,Aston Martin,True,3.0,31.293,42.342,23.691,,False,False,8461.28,1,Bahrain Grand Prix
+ALO,48.0,96.783,3.0,HARD,14.0,1,True,Aston Martin,True,3.0,31.076,41.97,23.737,,False,False,8558.063,1,Bahrain Grand Prix
+ALO,49.0,96.726,3.0,HARD,15.0,1,True,Aston Martin,True,3.0,31.058,41.981,23.687,,False,False,8654.789,1,Bahrain Grand Prix
+ALO,50.0,96.331,3.0,HARD,16.0,1,True,Aston Martin,True,3.0,30.933,41.764,23.634,,False,False,8751.12,1,Bahrain Grand Prix
+ALO,51.0,96.96,3.0,HARD,17.0,1,True,Aston Martin,True,3.0,31.158,42.005,23.797,,False,False,8848.08,1,Bahrain Grand Prix
+ALO,52.0,97.01,3.0,HARD,18.0,1,True,Aston Martin,True,3.0,31.043,42.243,23.724,,False,False,8945.09,1,Bahrain Grand Prix
+ALO,53.0,97.01,3.0,HARD,19.0,1,True,Aston Martin,True,3.0,31.159,42.135,23.716,,False,False,9042.1,1,Bahrain Grand Prix
+ALO,54.0,97.599,3.0,HARD,20.0,1,True,Aston Martin,True,3.0,31.305,42.469,23.825,,False,False,9139.699,1,Bahrain Grand Prix
+ALO,55.0,97.662,3.0,HARD,21.0,1,True,Aston Martin,True,3.0,31.237,42.575,23.85,,False,False,9237.361,1,Bahrain Grand Prix
+ALO,56.0,97.473,3.0,HARD,22.0,1,True,Aston Martin,True,3.0,31.425,42.157,23.891,,False,False,9334.834,1,Bahrain Grand Prix
+ALO,57.0,97.422,3.0,HARD,23.0,1,True,Aston Martin,True,3.0,31.421,42.088,23.913,,False,False,9432.256,1,Bahrain Grand Prix
+LEC,1.0,100.23,1.0,SOFT,1.0,12,False,Ferrari,True,2.0,,42.549,24.122,,False,False,3857.113,1,Bahrain Grand Prix
+LEC,2.0,98.75,1.0,SOFT,2.0,21,True,Ferrari,True,2.0,31.407,43.127,24.216,,False,False,3955.863,1,Bahrain Grand Prix
+LEC,3.0,98.658,1.0,SOFT,3.0,1,True,Ferrari,True,2.0,31.238,43.103,24.317,,False,False,4054.521,1,Bahrain Grand Prix
+LEC,4.0,98.825,1.0,SOFT,4.0,1,True,Ferrari,True,2.0,31.402,43.15,24.273,,False,False,4153.346,1,Bahrain Grand Prix
+LEC,5.0,98.664,1.0,SOFT,5.0,1,True,Ferrari,True,2.0,31.543,42.943,24.178,,False,False,4252.01,1,Bahrain Grand Prix
+LEC,6.0,98.572,1.0,SOFT,6.0,1,True,Ferrari,True,2.0,31.444,43.037,24.091,,False,False,4350.582,1,Bahrain Grand Prix
+LEC,7.0,98.691,1.0,SOFT,7.0,1,True,Ferrari,True,2.0,31.441,43.08,24.17,,False,False,4449.273,1,Bahrain Grand Prix
+LEC,8.0,98.614,1.0,SOFT,8.0,1,True,Ferrari,True,2.0,31.438,42.977,24.199,,False,False,4547.887,1,Bahrain Grand Prix
+LEC,9.0,98.828,1.0,SOFT,9.0,1,True,Ferrari,True,2.0,31.503,43.09,24.235,,False,False,4646.715,1,Bahrain Grand Prix
+LEC,10.0,99.073,1.0,SOFT,10.0,1,True,Ferrari,True,2.0,31.51,43.274,24.289,,False,False,4745.788,1,Bahrain Grand Prix
+LEC,11.0,99.212,1.0,SOFT,11.0,1,True,Ferrari,True,2.0,31.556,43.28,24.376,,False,False,4845.0,1,Bahrain Grand Prix
+LEC,12.0,99.489,1.0,SOFT,12.0,1,True,Ferrari,True,2.0,31.597,43.406,24.486,,False,False,4944.489,1,Bahrain Grand Prix
+LEC,13.0,102.068,1.0,SOFT,13.0,1,False,Ferrari,True,3.0,31.703,43.481,26.884,,True,False,5046.557,1,Bahrain Grand Prix
+LEC,14.0,118.77,2.0,HARD,1.0,1,False,Ferrari,True,5.0,52.07,42.739,23.961,,False,True,5165.327,1,Bahrain Grand Prix
+LEC,15.0,98.477,2.0,HARD,2.0,1,True,Ferrari,True,3.0,31.261,43.184,24.032,,False,False,5263.804,1,Bahrain Grand Prix
+LEC,16.0,97.953,2.0,HARD,3.0,1,True,Ferrari,True,3.0,30.859,42.965,24.129,,False,False,5361.757,1,Bahrain Grand Prix
+LEC,17.0,98.031,2.0,HARD,4.0,1,True,Ferrari,True,3.0,31.312,42.722,23.997,,False,False,5459.788,1,Bahrain Grand Prix
+LEC,18.0,97.798,2.0,HARD,5.0,1,True,Ferrari,True,2.0,31.207,42.696,23.895,,False,False,5557.586,1,Bahrain Grand Prix
+LEC,19.0,97.858,2.0,HARD,6.0,1,True,Ferrari,True,2.0,31.149,42.743,23.966,,False,False,5655.444,1,Bahrain Grand Prix
+LEC,20.0,97.631,2.0,HARD,7.0,1,True,Ferrari,True,2.0,31.166,42.561,23.904,,False,False,5753.075,1,Bahrain Grand Prix
+LEC,21.0,97.753,2.0,HARD,8.0,1,True,Ferrari,True,2.0,31.114,42.726,23.913,,False,False,5850.828,1,Bahrain Grand Prix
+LEC,22.0,98.162,2.0,HARD,9.0,1,True,Ferrari,True,2.0,31.499,42.618,24.045,,False,False,5948.99,1,Bahrain Grand Prix
+LEC,23.0,98.054,2.0,HARD,10.0,1,True,Ferrari,True,2.0,31.209,42.95,23.895,,False,False,6047.044,1,Bahrain Grand Prix
+LEC,24.0,97.972,2.0,HARD,11.0,1,True,Ferrari,True,2.0,31.197,42.742,24.033,,False,False,6145.016,1,Bahrain Grand Prix
+LEC,25.0,98.541,2.0,HARD,12.0,1,True,Ferrari,True,2.0,31.344,43.046,24.151,,False,False,6243.557,1,Bahrain Grand Prix
+LEC,26.0,99.668,2.0,HARD,13.0,1,True,Ferrari,True,3.0,32.247,43.143,24.278,,False,False,6343.225,1,Bahrain Grand Prix
+LEC,27.0,98.814,2.0,HARD,14.0,1,True,Ferrari,True,3.0,31.412,43.168,24.234,,False,False,6442.039,1,Bahrain Grand Prix
+LEC,28.0,98.618,2.0,HARD,15.0,1,True,Ferrari,True,3.0,31.382,43.081,24.155,,False,False,6540.657,1,Bahrain Grand Prix
+LEC,29.0,98.447,2.0,HARD,16.0,1,True,Ferrari,True,3.0,31.394,42.964,24.089,,False,False,6639.104,1,Bahrain Grand Prix
+LEC,30.0,98.39,2.0,HARD,17.0,1,True,Ferrari,True,3.0,31.339,42.887,24.164,,False,False,6737.494,1,Bahrain Grand Prix
+LEC,31.0,98.746,2.0,HARD,18.0,1,True,Ferrari,True,3.0,31.444,43.121,24.181,,False,False,6836.24,1,Bahrain Grand Prix
+LEC,32.0,98.948,2.0,HARD,19.0,1,True,Ferrari,True,3.0,31.506,43.272,24.17,,False,False,6935.188,1,Bahrain Grand Prix
+LEC,33.0,101.323,2.0,HARD,20.0,1,False,Ferrari,True,3.0,31.464,43.248,26.611,,True,False,7036.511,1,Bahrain Grand Prix
+LEC,34.0,119.477,3.0,HARD,1.0,1,False,Ferrari,True,4.0,52.321,43.143,24.013,,False,True,7155.988,1,Bahrain Grand Prix
+LEC,35.0,98.073,3.0,HARD,2.0,1,True,Ferrari,True,3.0,31.528,42.729,23.816,,False,False,7254.061,1,Bahrain Grand Prix
+LEC,36.0,97.313,3.0,HARD,3.0,1,True,Ferrari,True,3.0,31.07,42.615,23.628,,False,False,7351.374,1,Bahrain Grand Prix
+LEC,37.0,97.17,3.0,HARD,4.0,1,True,Ferrari,True,3.0,31.07,42.385,23.715,,False,False,7448.544,1,Bahrain Grand Prix
+LEC,38.0,97.17,3.0,HARD,5.0,1,True,Ferrari,True,3.0,31.091,42.444,23.635,,False,False,7545.714,1,Bahrain Grand Prix
+LEC,39.0,97.287,3.0,HARD,6.0,1,True,Ferrari,True,3.0,31.103,42.564,23.62,,False,False,7643.001,1,Bahrain Grand Prix
+LEC,40.0,,3.0,HARD,7.0,126,False,Ferrari,True,,,,,,False,False,7793.001,1,Bahrain Grand Prix
+STR,1.0,104.67,1.0,SOFT,4.0,12,False,Aston Martin,False,9.0,,44.143,24.609,,False,False,3861.553,1,Bahrain Grand Prix
+STR,2.0,99.892,1.0,SOFT,5.0,21,True,Aston Martin,False,9.0,31.685,43.58,24.627,,False,False,3961.445,1,Bahrain Grand Prix
+STR,3.0,99.625,1.0,SOFT,6.0,1,True,Aston Martin,False,9.0,31.501,43.471,24.653,,False,False,4061.07,1,Bahrain Grand Prix
+STR,4.0,99.745,1.0,SOFT,7.0,1,True,Aston Martin,False,9.0,31.274,43.798,24.673,,False,False,4160.815,1,Bahrain Grand Prix
+STR,5.0,99.144,1.0,SOFT,8.0,1,True,Aston Martin,False,8.0,31.135,43.479,24.53,,False,False,4259.959,1,Bahrain Grand Prix
+STR,6.0,99.714,1.0,SOFT,9.0,1,True,Aston Martin,False,8.0,31.536,43.59,24.588,,False,False,4359.673,1,Bahrain Grand Prix
+STR,7.0,99.945,1.0,SOFT,10.0,1,True,Aston Martin,False,8.0,31.558,43.832,24.555,,False,False,4459.618,1,Bahrain Grand Prix
+STR,8.0,99.801,1.0,SOFT,11.0,1,True,Aston Martin,False,8.0,31.619,43.524,24.658,,False,False,4559.419,1,Bahrain Grand Prix
+STR,9.0,100.106,1.0,SOFT,12.0,1,True,Aston Martin,False,8.0,31.709,43.736,24.661,,False,False,4659.525,1,Bahrain Grand Prix
+STR,10.0,100.192,1.0,SOFT,13.0,1,True,Aston Martin,False,8.0,31.714,43.754,24.724,,False,False,4759.717,1,Bahrain Grand Prix
+STR,11.0,100.923,1.0,SOFT,14.0,1,True,Aston Martin,False,8.0,31.837,44.225,24.861,,False,False,4860.64,1,Bahrain Grand Prix
+STR,12.0,101.039,1.0,SOFT,15.0,1,True,Aston Martin,False,8.0,31.929,44.125,24.985,,False,False,4961.679,1,Bahrain Grand Prix
+STR,13.0,101.12,1.0,SOFT,16.0,1,True,Aston Martin,False,6.0,31.882,44.192,25.046,,False,False,5062.799,1,Bahrain Grand Prix
+STR,14.0,100.002,1.0,SOFT,17.0,1,True,Aston Martin,False,3.0,31.565,43.743,24.694,,False,False,5162.801,1,Bahrain Grand Prix
+STR,15.0,102.841,1.0,SOFT,18.0,1,False,Aston Martin,False,4.0,31.857,43.737,27.247,,True,False,5265.642,1,Bahrain Grand Prix
+STR,16.0,119.876,2.0,HARD,1.0,1,False,Aston Martin,True,9.0,53.276,42.527,24.073,,False,True,5385.518,1,Bahrain Grand Prix
+STR,17.0,97.507,2.0,HARD,2.0,1,True,Aston Martin,True,9.0,31.247,42.341,23.919,,False,False,5483.025,1,Bahrain Grand Prix
+STR,18.0,98.127,2.0,HARD,3.0,1,True,Aston Martin,True,9.0,31.4,42.53,24.197,,False,False,5581.152,1,Bahrain Grand Prix
+STR,19.0,98.587,2.0,HARD,4.0,1,True,Aston Martin,True,9.0,31.275,42.792,24.52,,False,False,5679.739,1,Bahrain Grand Prix
+STR,20.0,98.038,2.0,HARD,5.0,1,True,Aston Martin,True,8.0,31.031,42.815,24.192,,False,False,5777.777,1,Bahrain Grand Prix
+STR,21.0,98.273,2.0,HARD,6.0,1,True,Aston Martin,True,8.0,31.172,42.998,24.103,,False,False,5876.05,1,Bahrain Grand Prix
+STR,22.0,98.73,2.0,HARD,7.0,1,True,Aston Martin,True,8.0,31.338,43.254,24.138,,False,False,5974.78,1,Bahrain Grand Prix
+STR,23.0,98.295,2.0,HARD,8.0,1,True,Aston Martin,True,8.0,31.348,42.818,24.129,,False,False,6073.075,1,Bahrain Grand Prix
+STR,24.0,98.478,2.0,HARD,9.0,1,True,Aston Martin,True,8.0,31.28,42.995,24.203,,False,False,6171.553,1,Bahrain Grand Prix
+STR,25.0,98.25,2.0,HARD,10.0,1,True,Aston Martin,True,8.0,31.174,42.928,24.148,,False,False,6269.803,1,Bahrain Grand Prix
+STR,26.0,98.482,2.0,HARD,11.0,1,True,Aston Martin,True,8.0,31.203,43.13,24.149,,False,False,6368.285,1,Bahrain Grand Prix
+STR,27.0,99.021,2.0,HARD,12.0,1,True,Aston Martin,True,8.0,31.177,43.506,24.338,,False,False,6467.306,1,Bahrain Grand Prix
+STR,28.0,98.723,2.0,HARD,13.0,1,True,Aston Martin,True,8.0,31.475,43.02,24.228,,False,False,6566.029,1,Bahrain Grand Prix
+STR,29.0,98.71,2.0,HARD,14.0,1,True,Aston Martin,True,8.0,31.461,42.966,24.283,,False,False,6664.739,1,Bahrain Grand Prix
+STR,30.0,101.467,2.0,HARD,15.0,1,False,Aston Martin,True,8.0,31.512,43.025,26.93,,True,False,6766.206,1,Bahrain Grand Prix
+STR,31.0,117.063,3.0,HARD,1.0,1,False,Aston Martin,True,8.0,51.935,41.573,23.555,,False,True,6883.269,1,Bahrain Grand Prix
+STR,32.0,96.546,3.0,HARD,2.0,1,True,Aston Martin,True,7.0,30.853,41.993,23.7,,False,False,6979.815,1,Bahrain Grand Prix
+STR,33.0,97.21,3.0,HARD,3.0,1,True,Aston Martin,True,7.0,31.057,42.487,23.666,,False,False,7077.025,1,Bahrain Grand Prix
+STR,34.0,97.168,3.0,HARD,4.0,1,True,Aston Martin,True,7.0,30.988,42.474,23.706,,False,False,7174.193,1,Bahrain Grand Prix
+STR,35.0,97.521,3.0,HARD,5.0,1,True,Aston Martin,True,7.0,31.167,42.568,23.786,,False,False,7271.714,1,Bahrain Grand Prix
+STR,36.0,97.72,3.0,HARD,6.0,1,True,Aston Martin,True,7.0,31.025,42.848,23.847,,False,False,7369.434,1,Bahrain Grand Prix
+STR,37.0,97.68,3.0,HARD,7.0,1,True,Aston Martin,True,7.0,31.117,42.684,23.879,,False,False,7467.114,1,Bahrain Grand Prix
+STR,38.0,97.274,3.0,HARD,8.0,1,True,Aston Martin,True,7.0,31.062,42.463,23.749,,False,False,7564.388,1,Bahrain Grand Prix
+STR,39.0,97.456,3.0,HARD,9.0,1,True,Aston Martin,True,7.0,31.045,42.644,23.767,,False,False,7661.844,1,Bahrain Grand Prix
+STR,40.0,97.916,3.0,HARD,10.0,126,False,Aston Martin,True,6.0,31.01,42.646,24.26,,False,False,7759.76,1,Bahrain Grand Prix
+STR,41.0,126.809,3.0,HARD,11.0,671,False,Aston Martin,True,6.0,43.661,58.17,24.978,,False,False,7886.569,1,Bahrain Grand Prix
+STR,42.0,97.298,3.0,HARD,12.0,1,True,Aston Martin,True,6.0,31.035,42.477,23.786,,False,False,7983.867,1,Bahrain Grand Prix
+STR,43.0,97.304,3.0,HARD,13.0,1,True,Aston Martin,True,6.0,31.123,42.318,23.863,,False,False,8081.171,1,Bahrain Grand Prix
+STR,44.0,97.299,3.0,HARD,14.0,1,True,Aston Martin,True,6.0,31.066,42.331,23.902,,False,False,8178.47,1,Bahrain Grand Prix
+STR,45.0,97.222,3.0,HARD,15.0,1,True,Aston Martin,True,6.0,31.017,42.39,23.815,,False,False,8275.692,1,Bahrain Grand Prix
+STR,46.0,97.562,3.0,HARD,16.0,1,True,Aston Martin,True,6.0,31.04,42.675,23.847,,False,False,8373.254,1,Bahrain Grand Prix
+STR,47.0,97.257,3.0,HARD,17.0,1,True,Aston Martin,True,6.0,31.043,42.368,23.846,,False,False,8470.511,1,Bahrain Grand Prix
+STR,48.0,97.448,3.0,HARD,18.0,1,True,Aston Martin,True,6.0,31.146,42.393,23.909,,False,False,8567.959,1,Bahrain Grand Prix
+STR,49.0,97.551,3.0,HARD,19.0,1,True,Aston Martin,True,6.0,31.106,42.536,23.909,,False,False,8665.51,1,Bahrain Grand Prix
+STR,50.0,97.388,3.0,HARD,20.0,1,True,Aston Martin,True,6.0,31.03,42.331,24.027,,False,False,8762.898,1,Bahrain Grand Prix
+STR,51.0,97.866,3.0,HARD,21.0,1,True,Aston Martin,True,6.0,31.108,42.709,24.049,,False,False,8860.764,1,Bahrain Grand Prix
+STR,52.0,97.579,3.0,HARD,22.0,1,True,Aston Martin,True,6.0,31.121,42.501,23.957,,False,False,8958.343,1,Bahrain Grand Prix
+STR,53.0,98.379,3.0,HARD,23.0,1,True,Aston Martin,True,6.0,31.162,43.275,23.942,,False,False,9056.722,1,Bahrain Grand Prix
+STR,54.0,97.597,3.0,HARD,24.0,1,True,Aston Martin,True,6.0,31.11,42.373,24.114,,False,False,9154.319,1,Bahrain Grand Prix
+STR,55.0,97.701,3.0,HARD,25.0,1,True,Aston Martin,True,6.0,31.149,42.517,24.035,,False,False,9252.02,1,Bahrain Grand Prix
+STR,56.0,98.11,3.0,HARD,26.0,1,True,Aston Martin,True,6.0,31.287,42.737,24.086,,False,False,9350.13,1,Bahrain Grand Prix
+STR,57.0,97.991,3.0,HARD,27.0,1,True,Aston Martin,True,6.0,31.194,42.65,24.147,,False,False,9448.121,1,Bahrain Grand Prix
+SAR,1.0,106.855,1.0,SOFT,1.0,12,False,Williams,True,13.0,,45.33,24.706,,False,False,3863.738,1,Bahrain Grand Prix
+SAR,2.0,100.467,1.0,SOFT,2.0,21,True,Williams,True,13.0,31.795,43.956,24.716,,False,False,3964.205,1,Bahrain Grand Prix
+SAR,3.0,100.349,1.0,SOFT,3.0,1,True,Williams,True,13.0,31.746,43.8,24.803,,False,False,4064.554,1,Bahrain Grand Prix
+SAR,4.0,100.644,1.0,SOFT,4.0,1,True,Williams,True,13.0,31.421,44.124,25.099,,False,False,4165.198,1,Bahrain Grand Prix
+SAR,5.0,100.902,1.0,SOFT,5.0,1,True,Williams,True,13.0,31.603,44.497,24.802,,False,False,4266.1,1,Bahrain Grand Prix
+SAR,6.0,100.791,1.0,SOFT,6.0,1,True,Williams,True,13.0,31.776,44.129,24.886,,False,False,4366.891,1,Bahrain Grand Prix
+SAR,7.0,100.892,1.0,SOFT,7.0,1,True,Williams,True,13.0,31.801,44.19,24.901,,False,False,4467.783,1,Bahrain Grand Prix
+SAR,8.0,100.868,1.0,SOFT,8.0,1,True,Williams,True,13.0,31.647,44.392,24.829,,False,False,4568.651,1,Bahrain Grand Prix
+SAR,9.0,100.908,1.0,SOFT,9.0,1,True,Williams,True,13.0,31.948,44.066,24.894,,False,False,4669.559,1,Bahrain Grand Prix
+SAR,10.0,101.133,1.0,SOFT,10.0,1,True,Williams,True,12.0,31.594,44.481,25.058,,False,False,4770.692,1,Bahrain Grand Prix
+SAR,11.0,101.532,1.0,SOFT,11.0,1,True,Williams,True,11.0,32.122,44.37,25.04,,False,False,4872.224,1,Bahrain Grand Prix
+SAR,12.0,103.88,1.0,SOFT,12.0,1,False,Williams,True,10.0,32.031,44.118,27.731,,True,False,4976.104,1,Bahrain Grand Prix
+SAR,13.0,120.255,2.0,SOFT,1.0,1,False,Williams,True,15.0,53.407,42.646,24.202,,False,True,5096.359,1,Bahrain Grand Prix
+SAR,14.0,98.413,2.0,SOFT,2.0,1,True,Williams,True,15.0,31.156,42.959,24.298,,False,False,5194.772,1,Bahrain Grand Prix
+SAR,15.0,99.033,2.0,SOFT,3.0,1,True,Williams,True,15.0,31.192,43.462,24.379,,False,False,5293.805,1,Bahrain Grand Prix
+SAR,16.0,98.988,2.0,SOFT,4.0,1,True,Williams,True,13.0,31.239,43.299,24.45,,False,False,5392.793,1,Bahrain Grand Prix
+SAR,17.0,99.439,2.0,SOFT,5.0,1,True,Williams,True,13.0,31.439,43.542,24.458,,False,False,5492.232,1,Bahrain Grand Prix
+SAR,18.0,99.399,2.0,SOFT,6.0,1,True,Williams,True,13.0,31.497,43.423,24.479,,False,False,5591.631,1,Bahrain Grand Prix
+SAR,19.0,99.22,2.0,SOFT,7.0,1,True,Williams,True,13.0,31.3,43.546,24.374,,False,False,5690.851,1,Bahrain Grand Prix
+SAR,20.0,99.186,2.0,SOFT,8.0,1,True,Williams,True,13.0,31.337,43.39,24.459,,False,False,5790.037,1,Bahrain Grand Prix
+SAR,21.0,99.612,2.0,SOFT,9.0,1,True,Williams,True,13.0,31.466,43.62,24.526,,False,False,5889.649,1,Bahrain Grand Prix
+SAR,22.0,99.362,2.0,SOFT,10.0,1,True,Williams,True,13.0,31.385,43.461,24.516,,False,False,5989.011,1,Bahrain Grand Prix
+SAR,23.0,99.692,2.0,SOFT,11.0,1,True,Williams,True,13.0,31.63,43.546,24.516,,False,False,6088.703,1,Bahrain Grand Prix
+SAR,24.0,99.872,2.0,SOFT,12.0,1,True,Williams,True,13.0,31.583,43.663,24.626,,False,False,6188.575,1,Bahrain Grand Prix
+SAR,25.0,99.834,2.0,SOFT,13.0,1,True,Williams,True,13.0,31.581,43.719,24.534,,False,False,6288.409,1,Bahrain Grand Prix
+SAR,26.0,100.006,2.0,SOFT,14.0,1,True,Williams,True,12.0,31.621,43.912,24.473,,False,False,6388.415,1,Bahrain Grand Prix
+SAR,27.0,99.602,2.0,SOFT,15.0,1,True,Williams,True,10.0,31.547,43.585,24.47,,False,False,6488.017,1,Bahrain Grand Prix
+SAR,28.0,99.62,2.0,SOFT,16.0,1,True,Williams,True,10.0,31.548,43.544,24.528,,False,False,6587.637,1,Bahrain Grand Prix
+SAR,29.0,99.673,2.0,SOFT,17.0,1,True,Williams,True,10.0,31.672,43.498,24.503,,False,False,6687.31,1,Bahrain Grand Prix
+SAR,30.0,102.409,2.0,SOFT,18.0,1,False,Williams,True,10.0,31.687,43.426,27.296,,True,False,6789.719,1,Bahrain Grand Prix
+SAR,31.0,119.303,3.0,HARD,1.0,1,False,Williams,True,14.0,53.34,42.124,23.839,,False,True,6909.022,1,Bahrain Grand Prix
+SAR,32.0,97.613,3.0,HARD,2.0,1,True,Williams,True,14.0,30.975,42.694,23.944,,False,False,7006.635,1,Bahrain Grand Prix
+SAR,33.0,97.862,3.0,HARD,3.0,1,True,Williams,True,13.0,31.078,42.708,24.076,,False,False,7104.497,1,Bahrain Grand Prix
+SAR,34.0,97.902,3.0,HARD,4.0,1,True,Williams,True,13.0,31.157,42.798,23.947,,False,False,7202.399,1,Bahrain Grand Prix
+SAR,35.0,98.029,3.0,HARD,5.0,1,True,Williams,True,13.0,31.176,42.79,24.063,,False,False,7300.428,1,Bahrain Grand Prix
+SAR,36.0,97.717,3.0,HARD,6.0,1,True,Williams,True,13.0,31.091,42.688,23.938,,False,False,7398.145,1,Bahrain Grand Prix
+SAR,37.0,97.831,3.0,HARD,7.0,1,True,Williams,True,13.0,31.087,42.803,23.941,,False,False,7495.976,1,Bahrain Grand Prix
+SAR,38.0,98.015,3.0,HARD,8.0,1,True,Williams,True,13.0,31.136,42.813,24.066,,False,False,7593.991,1,Bahrain Grand Prix
+SAR,39.0,97.971,3.0,HARD,9.0,1,True,Williams,True,13.0,31.148,42.76,24.063,,False,False,7691.962,1,Bahrain Grand Prix
+SAR,40.0,113.753,3.0,HARD,10.0,126,False,Williams,True,12.0,31.202,48.556,33.995,,True,False,7805.715,1,Bahrain Grand Prix
+SAR,41.0,125.614,4.0,SOFT,1.0,671,False,Williams,True,14.0,59.069,42.812,23.733,,False,True,7931.329,1,Bahrain Grand Prix
+SAR,42.0,96.037,4.0,SOFT,2.0,1,True,Williams,True,14.0,30.492,41.875,23.67,,False,False,8027.366,1,Bahrain Grand Prix
+SAR,43.0,96.801,4.0,SOFT,3.0,1,True,Williams,True,14.0,30.693,42.146,23.962,,False,False,8124.167,1,Bahrain Grand Prix
+SAR,44.0,97.407,4.0,SOFT,4.0,1,True,Williams,True,13.0,30.808,42.689,23.91,,False,False,8221.574,1,Bahrain Grand Prix
+SAR,45.0,97.462,4.0,SOFT,5.0,1,True,Williams,True,13.0,30.743,42.757,23.962,,False,False,8319.036,1,Bahrain Grand Prix
+SAR,46.0,98.441,4.0,SOFT,6.0,1,True,Williams,True,13.0,31.144,43.267,24.03,,False,False,8417.477,1,Bahrain Grand Prix
+SAR,47.0,97.227,4.0,SOFT,7.0,1,True,Williams,True,12.0,31.054,42.356,23.817,,False,False,8514.704,1,Bahrain Grand Prix
+SAR,48.0,97.068,4.0,SOFT,8.0,1,True,Williams,True,12.0,30.916,42.28,23.872,,False,False,8611.772,1,Bahrain Grand Prix
+SAR,49.0,97.225,4.0,SOFT,9.0,1,True,Williams,True,12.0,30.906,42.422,23.897,,False,False,8708.997,1,Bahrain Grand Prix
+SAR,50.0,97.29,4.0,SOFT,10.0,1,True,Williams,True,12.0,30.955,42.418,23.917,,False,False,8806.287,1,Bahrain Grand Prix
+SAR,51.0,97.472,4.0,SOFT,11.0,1,True,Williams,True,12.0,31.024,42.523,23.925,,False,False,8903.759,1,Bahrain Grand Prix
+SAR,52.0,97.456,4.0,SOFT,12.0,1,True,Williams,True,12.0,31.031,42.485,23.94,,False,False,9001.215,1,Bahrain Grand Prix
+SAR,53.0,97.662,4.0,SOFT,13.0,1,True,Williams,True,12.0,31.044,42.593,24.025,,False,False,9098.877,1,Bahrain Grand Prix
+SAR,54.0,97.936,4.0,SOFT,14.0,1,True,Williams,True,12.0,31.046,42.824,24.066,,False,False,9196.813,1,Bahrain Grand Prix
+SAR,55.0,98.316,4.0,SOFT,15.0,1,True,Williams,True,12.0,31.122,43.107,24.087,,False,False,9295.129,1,Bahrain Grand Prix
+SAR,56.0,99.626,4.0,SOFT,16.0,1,True,Williams,True,12.0,31.157,44.242,24.227,,False,False,9394.755,1,Bahrain Grand Prix
+MAG,1.0,109.33,1.0,HARD,1.0,12,False,Haas F1 Team,True,18.0,,46.858,25.043,,False,False,3866.213,1,Bahrain Grand Prix
+MAG,2.0,101.521,1.0,HARD,2.0,21,True,Haas F1 Team,True,19.0,32.42,44.355,24.746,,False,False,3967.734,1,Bahrain Grand Prix
+MAG,3.0,101.978,1.0,HARD,3.0,1,True,Haas F1 Team,True,20.0,31.821,45.009,25.148,,False,False,4069.712,1,Bahrain Grand Prix
+MAG,4.0,100.773,1.0,HARD,4.0,1,True,Haas F1 Team,True,20.0,31.755,44.045,24.973,,False,False,4170.485,1,Bahrain Grand Prix
+MAG,5.0,101.34,1.0,HARD,5.0,1,True,Haas F1 Team,True,20.0,31.769,44.572,24.999,,False,False,4271.825,1,Bahrain Grand Prix
+MAG,6.0,101.125,1.0,HARD,6.0,1,True,Haas F1 Team,True,20.0,32.023,44.289,24.813,,False,False,4372.95,1,Bahrain Grand Prix
+MAG,7.0,101.526,1.0,HARD,7.0,1,True,Haas F1 Team,True,20.0,32.135,44.46,24.931,,False,False,4474.476,1,Bahrain Grand Prix
+MAG,8.0,101.283,1.0,HARD,8.0,1,True,Haas F1 Team,True,20.0,32.062,44.289,24.932,,False,False,4575.759,1,Bahrain Grand Prix
+MAG,9.0,101.278,1.0,HARD,9.0,1,True,Haas F1 Team,True,20.0,32.161,44.196,24.921,,False,False,4677.037,1,Bahrain Grand Prix
+MAG,10.0,101.719,1.0,HARD,10.0,1,True,Haas F1 Team,True,19.0,32.289,44.441,24.989,,False,False,4778.756,1,Bahrain Grand Prix
+MAG,11.0,102.049,1.0,HARD,11.0,1,True,Haas F1 Team,True,15.0,32.334,44.458,25.257,,False,False,4880.805,1,Bahrain Grand Prix
+MAG,12.0,101.345,1.0,HARD,12.0,1,True,Haas F1 Team,True,13.0,32.185,44.197,24.963,,False,False,4982.15,1,Bahrain Grand Prix
+MAG,13.0,101.654,1.0,HARD,13.0,1,True,Haas F1 Team,True,9.0,32.197,44.455,25.002,,False,False,5083.804,1,Bahrain Grand Prix
+MAG,14.0,101.739,1.0,HARD,14.0,1,True,Haas F1 Team,True,9.0,32.409,44.478,24.852,,False,False,5185.543,1,Bahrain Grand Prix
+MAG,15.0,104.899,1.0,HARD,15.0,1,False,Haas F1 Team,True,11.0,32.424,44.674,27.801,,True,False,5290.442,1,Bahrain Grand Prix
+MAG,16.0,120.587,2.0,HARD,1.0,1,False,Haas F1 Team,True,18.0,53.295,43.201,24.091,,False,True,5411.029,1,Bahrain Grand Prix
+MAG,17.0,98.319,2.0,HARD,2.0,1,True,Haas F1 Team,True,18.0,31.498,42.739,24.082,,False,False,5509.348,1,Bahrain Grand Prix
+MAG,18.0,98.274,2.0,HARD,3.0,1,True,Haas F1 Team,True,17.0,31.32,42.799,24.155,,False,False,5607.622,1,Bahrain Grand Prix
+MAG,19.0,98.803,2.0,HARD,4.0,1,True,Haas F1 Team,True,17.0,31.449,43.108,24.246,,False,False,5706.425,1,Bahrain Grand Prix
+MAG,20.0,99.083,2.0,HARD,5.0,1,True,Haas F1 Team,True,17.0,31.665,43.198,24.22,,False,False,5805.508,1,Bahrain Grand Prix
+MAG,21.0,99.086,2.0,HARD,6.0,1,True,Haas F1 Team,True,17.0,31.648,43.082,24.356,,False,False,5904.594,1,Bahrain Grand Prix
+MAG,22.0,98.913,2.0,HARD,7.0,1,True,Haas F1 Team,True,17.0,31.554,43.081,24.278,,False,False,6003.507,1,Bahrain Grand Prix
+MAG,23.0,99.027,2.0,HARD,8.0,1,True,Haas F1 Team,True,17.0,31.612,43.032,24.383,,False,False,6102.534,1,Bahrain Grand Prix
+MAG,24.0,98.947,2.0,HARD,9.0,1,True,Haas F1 Team,True,17.0,31.57,43.03,24.347,,False,False,6201.481,1,Bahrain Grand Prix
+MAG,25.0,99.476,2.0,HARD,10.0,1,True,Haas F1 Team,True,17.0,31.67,43.433,24.373,,False,False,6300.957,1,Bahrain Grand Prix
+MAG,26.0,99.601,2.0,HARD,11.0,1,True,Haas F1 Team,True,15.0,31.703,43.414,24.484,,False,False,6400.558,1,Bahrain Grand Prix
+MAG,27.0,99.298,2.0,HARD,12.0,1,True,Haas F1 Team,True,13.0,31.694,43.25,24.354,,False,False,6499.856,1,Bahrain Grand Prix
+MAG,28.0,99.316,2.0,HARD,13.0,1,True,Haas F1 Team,True,12.0,31.703,43.255,24.358,,False,False,6599.172,1,Bahrain Grand Prix
+MAG,29.0,101.979,2.0,HARD,14.0,1,False,Haas F1 Team,True,13.0,31.697,43.421,26.861,,True,False,6701.151,1,Bahrain Grand Prix
+MAG,30.0,120.933,3.0,SOFT,1.0,1,False,Haas F1 Team,True,17.0,52.88,43.703,24.35,,False,True,6822.084,1,Bahrain Grand Prix
+MAG,31.0,98.593,3.0,SOFT,2.0,1,True,Haas F1 Team,True,17.0,31.332,43.288,23.973,,False,False,6920.677,1,Bahrain Grand Prix
+MAG,32.0,97.644,3.0,SOFT,3.0,1,True,Haas F1 Team,True,16.0,30.962,42.718,23.964,,False,False,7018.321,1,Bahrain Grand Prix
+MAG,33.0,97.097,3.0,SOFT,4.0,1,True,Haas F1 Team,True,16.0,31.049,42.112,23.936,,False,False,7115.418,1,Bahrain Grand Prix
+MAG,34.0,97.528,3.0,SOFT,5.0,1,True,Haas F1 Team,True,16.0,31.133,42.454,23.941,,False,False,7212.946,1,Bahrain Grand Prix
+MAG,35.0,97.46,3.0,SOFT,6.0,1,True,Haas F1 Team,True,16.0,31.158,42.391,23.911,,False,False,7310.406,1,Bahrain Grand Prix
+MAG,36.0,97.754,3.0,SOFT,7.0,1,True,Haas F1 Team,True,16.0,31.223,42.466,24.065,,False,False,7408.16,1,Bahrain Grand Prix
+MAG,37.0,97.998,3.0,SOFT,8.0,1,True,Haas F1 Team,True,16.0,31.244,42.71,24.044,,False,False,7506.158,1,Bahrain Grand Prix
+MAG,38.0,98.303,3.0,SOFT,9.0,1,True,Haas F1 Team,True,16.0,31.297,42.864,24.142,,False,False,7604.461,1,Bahrain Grand Prix
+MAG,39.0,98.587,3.0,SOFT,10.0,1,True,Haas F1 Team,True,16.0,31.279,42.922,24.386,,False,False,7703.048,1,Bahrain Grand Prix
+MAG,40.0,117.797,3.0,SOFT,11.0,126,False,Haas F1 Team,True,15.0,31.406,51.042,35.349,,True,False,7820.845,1,Bahrain Grand Prix
+MAG,41.0,122.547,4.0,SOFT,1.0,671,False,Haas F1 Team,True,15.0,56.351,42.391,23.805,,False,True,7943.392,1,Bahrain Grand Prix
+MAG,42.0,96.471,4.0,SOFT,2.0,1,True,Haas F1 Team,True,15.0,30.737,42.113,23.621,,False,False,8039.863,1,Bahrain Grand Prix
+MAG,43.0,96.942,4.0,SOFT,3.0,1,True,Haas F1 Team,True,15.0,30.753,42.381,23.808,,False,False,8136.805,1,Bahrain Grand Prix
+MAG,44.0,96.588,4.0,SOFT,4.0,1,True,Haas F1 Team,True,15.0,30.76,42.049,23.779,,False,False,8233.393,1,Bahrain Grand Prix
+MAG,45.0,97.126,4.0,SOFT,5.0,1,True,Haas F1 Team,True,15.0,30.983,42.268,23.875,,False,False,8330.519,1,Bahrain Grand Prix
+MAG,46.0,97.589,4.0,SOFT,6.0,1,True,Haas F1 Team,True,15.0,31.046,42.533,24.01,,False,False,8428.108,1,Bahrain Grand Prix
+MAG,47.0,97.629,4.0,SOFT,7.0,1,True,Haas F1 Team,True,15.0,31.029,42.64,23.96,,False,False,8525.737,1,Bahrain Grand Prix
+MAG,48.0,97.607,4.0,SOFT,8.0,1,True,Haas F1 Team,True,15.0,31.059,42.581,23.967,,False,False,8623.344,1,Bahrain Grand Prix
+MAG,49.0,97.739,4.0,SOFT,9.0,1,True,Haas F1 Team,True,15.0,31.077,42.715,23.947,,False,False,8721.083,1,Bahrain Grand Prix
+MAG,50.0,98.315,4.0,SOFT,10.0,1,True,Haas F1 Team,True,15.0,31.323,42.652,24.34,,False,False,8819.398,1,Bahrain Grand Prix
+MAG,51.0,98.157,4.0,SOFT,11.0,1,True,Haas F1 Team,True,14.0,31.364,42.723,24.07,,False,False,8917.555,1,Bahrain Grand Prix
+MAG,52.0,97.963,4.0,SOFT,12.0,1,True,Haas F1 Team,True,14.0,31.275,42.598,24.09,,False,False,9015.518,1,Bahrain Grand Prix
+MAG,53.0,97.982,4.0,SOFT,13.0,1,True,Haas F1 Team,True,14.0,31.324,42.612,24.046,,False,False,9113.5,1,Bahrain Grand Prix
+MAG,54.0,99.651,4.0,SOFT,14.0,1,True,Haas F1 Team,True,14.0,31.272,42.695,25.684,,False,False,9213.151,1,Bahrain Grand Prix
+MAG,55.0,98.446,4.0,SOFT,15.0,1,True,Haas F1 Team,True,13.0,31.366,42.971,24.109,,False,False,9311.597,1,Bahrain Grand Prix
+MAG,56.0,98.779,4.0,SOFT,16.0,1,True,Haas F1 Team,True,13.0,31.633,42.882,24.264,,False,False,9410.376,1,Bahrain Grand Prix
+DEV,1.0,109.959,1.0,SOFT,1.0,12,False,AlphaTauri,True,20.0,,46.835,25.179,,False,False,3866.842,1,Bahrain Grand Prix
+DEV,2.0,101.289,1.0,SOFT,2.0,21,True,AlphaTauri,True,20.0,32.136,44.304,24.849,,False,False,3968.131,1,Bahrain Grand Prix
+DEV,3.0,100.914,1.0,SOFT,3.0,1,True,AlphaTauri,True,19.0,31.761,44.368,24.785,,False,False,4069.045,1,Bahrain Grand Prix
+DEV,4.0,100.373,1.0,SOFT,4.0,1,True,AlphaTauri,True,19.0,31.611,43.9,24.862,,False,False,4169.418,1,Bahrain Grand Prix
+DEV,5.0,100.63,1.0,SOFT,5.0,1,True,AlphaTauri,True,19.0,31.428,44.155,25.047,,False,False,4270.048,1,Bahrain Grand Prix
+DEV,6.0,101.125,1.0,SOFT,6.0,1,True,AlphaTauri,True,19.0,31.563,44.451,25.111,,False,False,4371.173,1,Bahrain Grand Prix
+DEV,7.0,101.166,1.0,SOFT,7.0,1,True,AlphaTauri,True,19.0,31.511,44.638,25.017,,False,False,4472.339,1,Bahrain Grand Prix
+DEV,8.0,101.23,1.0,SOFT,8.0,1,True,AlphaTauri,True,19.0,31.601,44.514,25.115,,False,False,4573.569,1,Bahrain Grand Prix
+DEV,9.0,101.573,1.0,SOFT,9.0,1,True,AlphaTauri,True,18.0,31.817,44.54,25.216,,False,False,4675.142,1,Bahrain Grand Prix
+DEV,10.0,101.666,1.0,SOFT,10.0,1,True,AlphaTauri,True,18.0,31.78,44.807,25.079,,False,False,4776.808,1,Bahrain Grand Prix
+DEV,11.0,105.46,1.0,SOFT,11.0,1,False,AlphaTauri,True,17.0,32.072,44.715,28.673,,True,False,4882.268,1,Bahrain Grand Prix
+DEV,12.0,121.184,2.0,HARD,1.0,1,False,AlphaTauri,True,19.0,53.538,43.459,24.187,,False,True,5003.452,1,Bahrain Grand Prix
+DEV,13.0,98.924,2.0,HARD,2.0,1,True,AlphaTauri,True,18.0,31.468,43.189,24.267,,False,False,5102.376,1,Bahrain Grand Prix
+DEV,14.0,98.829,2.0,HARD,3.0,1,True,AlphaTauri,True,17.0,31.383,43.082,24.364,,False,False,5201.205,1,Bahrain Grand Prix
+DEV,15.0,98.868,2.0,HARD,4.0,1,True,AlphaTauri,True,17.0,31.425,43.124,24.319,,False,False,5300.073,1,Bahrain Grand Prix
+DEV,16.0,99.127,2.0,HARD,5.0,1,True,AlphaTauri,True,15.0,31.487,43.229,24.411,,False,False,5399.2,1,Bahrain Grand Prix
+DEV,17.0,98.996,2.0,HARD,6.0,1,True,AlphaTauri,True,14.0,31.498,43.126,24.372,,False,False,5498.196,1,Bahrain Grand Prix
+DEV,18.0,99.054,2.0,HARD,7.0,1,True,AlphaTauri,True,14.0,31.426,43.327,24.301,,False,False,5597.25,1,Bahrain Grand Prix
+DEV,19.0,99.078,2.0,HARD,8.0,1,True,AlphaTauri,True,14.0,31.442,43.253,24.383,,False,False,5696.328,1,Bahrain Grand Prix
+DEV,20.0,99.182,2.0,HARD,9.0,1,True,AlphaTauri,True,14.0,31.442,43.332,24.408,,False,False,5795.51,1,Bahrain Grand Prix
+DEV,21.0,99.182,2.0,HARD,10.0,1,True,AlphaTauri,True,14.0,31.508,43.309,24.365,,False,False,5894.692,1,Bahrain Grand Prix
+DEV,22.0,99.296,2.0,HARD,11.0,1,True,AlphaTauri,True,14.0,31.572,43.328,24.396,,False,False,5993.988,1,Bahrain Grand Prix
+DEV,23.0,99.542,2.0,HARD,12.0,1,True,AlphaTauri,True,14.0,31.637,43.479,24.426,,False,False,6093.53,1,Bahrain Grand Prix
+DEV,24.0,99.807,2.0,HARD,13.0,1,True,AlphaTauri,True,14.0,31.847,43.493,24.467,,False,False,6193.337,1,Bahrain Grand Prix
+DEV,25.0,100.96,2.0,HARD,14.0,1,True,AlphaTauri,True,15.0,32.101,44.14,24.719,,False,False,6294.297,1,Bahrain Grand Prix
+DEV,26.0,99.97,2.0,HARD,15.0,1,True,AlphaTauri,True,14.0,31.698,43.692,24.58,,False,False,6394.267,1,Bahrain Grand Prix
+DEV,27.0,102.309,2.0,HARD,16.0,1,False,AlphaTauri,True,12.0,31.644,43.489,27.176,,True,False,6496.576,1,Bahrain Grand Prix
+DEV,28.0,120.083,3.0,HARD,1.0,1,False,AlphaTauri,True,16.0,53.173,42.985,23.925,,False,True,6616.659,1,Bahrain Grand Prix
+DEV,29.0,98.121,3.0,HARD,2.0,1,True,AlphaTauri,True,16.0,31.275,42.759,24.087,,False,False,6714.78,1,Bahrain Grand Prix
+DEV,30.0,97.709,3.0,HARD,3.0,1,True,AlphaTauri,True,15.0,31.186,42.605,23.918,,False,False,6812.489,1,Bahrain Grand Prix
+DEV,31.0,97.909,3.0,HARD,4.0,1,True,AlphaTauri,True,15.0,31.126,42.804,23.979,,False,False,6910.398,1,Bahrain Grand Prix
+DEV,32.0,97.902,3.0,HARD,5.0,1,True,AlphaTauri,True,15.0,31.118,42.773,24.011,,False,False,7008.3,1,Bahrain Grand Prix
+DEV,33.0,97.933,3.0,HARD,6.0,1,True,AlphaTauri,True,14.0,31.115,42.729,24.089,,False,False,7106.233,1,Bahrain Grand Prix
+DEV,34.0,98.266,3.0,HARD,7.0,1,True,AlphaTauri,True,14.0,31.226,42.896,24.144,,False,False,7204.499,1,Bahrain Grand Prix
+DEV,35.0,98.123,3.0,HARD,8.0,1,True,AlphaTauri,True,14.0,31.249,42.716,24.158,,False,False,7302.622,1,Bahrain Grand Prix
+DEV,36.0,98.206,3.0,HARD,9.0,1,True,AlphaTauri,True,14.0,31.265,42.791,24.15,,False,False,7400.828,1,Bahrain Grand Prix
+DEV,37.0,98.423,3.0,HARD,10.0,1,True,AlphaTauri,True,14.0,31.401,42.905,24.117,,False,False,7499.251,1,Bahrain Grand Prix
+DEV,38.0,98.379,3.0,HARD,11.0,1,True,AlphaTauri,True,14.0,31.355,42.877,24.147,,False,False,7597.63,1,Bahrain Grand Prix
+DEV,39.0,98.535,3.0,HARD,12.0,1,True,AlphaTauri,True,14.0,31.31,42.977,24.248,,False,False,7696.165,1,Bahrain Grand Prix
+DEV,40.0,113.544,3.0,HARD,13.0,126,False,AlphaTauri,True,13.0,31.346,53.363,28.835,,False,False,7809.709,1,Bahrain Grand Prix
+DEV,41.0,114.359,3.0,HARD,14.0,671,False,AlphaTauri,True,11.0,44.502,45.772,24.085,,False,False,7924.068,1,Bahrain Grand Prix
+DEV,42.0,99.873,3.0,HARD,15.0,1,True,AlphaTauri,True,12.0,32.199,43.466,24.208,,False,False,8023.941,1,Bahrain Grand Prix
+DEV,43.0,100.177,3.0,HARD,16.0,1,True,AlphaTauri,True,13.0,32.026,43.701,24.45,,False,False,8124.118,1,Bahrain Grand Prix
+DEV,44.0,99.588,3.0,HARD,17.0,1,True,AlphaTauri,True,14.0,31.78,43.483,24.325,,False,False,8223.706,1,Bahrain Grand Prix
+DEV,45.0,98.889,3.0,HARD,18.0,1,True,AlphaTauri,True,14.0,31.481,43.144,24.264,,False,False,8322.595,1,Bahrain Grand Prix
+DEV,46.0,98.871,3.0,HARD,19.0,1,True,AlphaTauri,True,14.0,31.557,43.061,24.253,,False,False,8421.466,1,Bahrain Grand Prix
+DEV,47.0,98.921,3.0,HARD,20.0,1,True,AlphaTauri,True,14.0,31.53,43.186,24.205,,False,False,8520.387,1,Bahrain Grand Prix
+DEV,48.0,100.441,3.0,HARD,21.0,1,True,AlphaTauri,True,14.0,32.523,43.596,24.322,,False,False,8620.828,1,Bahrain Grand Prix
+DEV,49.0,98.985,3.0,HARD,22.0,1,True,AlphaTauri,True,14.0,31.508,43.167,24.31,,False,False,8719.813,1,Bahrain Grand Prix
+DEV,50.0,99.089,3.0,HARD,23.0,1,True,AlphaTauri,True,14.0,31.532,43.24,24.317,,False,False,8818.902,1,Bahrain Grand Prix
+DEV,51.0,100.475,3.0,HARD,24.0,1,True,AlphaTauri,True,15.0,32.491,43.49,24.494,,False,False,8919.377,1,Bahrain Grand Prix
+DEV,52.0,100.33,3.0,HARD,25.0,1,True,AlphaTauri,True,15.0,31.497,44.208,24.625,,False,False,9019.707,1,Bahrain Grand Prix
+DEV,53.0,99.15,3.0,HARD,26.0,1,True,AlphaTauri,True,15.0,31.459,43.284,24.407,,False,False,9118.857,1,Bahrain Grand Prix
+DEV,54.0,98.885,3.0,HARD,27.0,1,True,AlphaTauri,True,15.0,31.467,43.108,24.31,,False,False,9217.742,1,Bahrain Grand Prix
+DEV,55.0,99.239,3.0,HARD,28.0,1,True,AlphaTauri,True,14.0,31.445,43.538,24.256,,False,False,9316.981,1,Bahrain Grand Prix
+DEV,56.0,99.161,3.0,HARD,29.0,1,True,AlphaTauri,True,14.0,31.644,43.211,24.306,,False,False,9416.142,1,Bahrain Grand Prix
+TSU,1.0,107.791,1.0,SOFT,1.0,12,False,AlphaTauri,True,15.0,,45.884,24.925,,False,False,3864.674,1,Bahrain Grand Prix
+TSU,2.0,100.837,1.0,SOFT,2.0,21,True,AlphaTauri,True,15.0,31.976,43.987,24.874,,False,False,3965.511,1,Bahrain Grand Prix
+TSU,3.0,100.243,1.0,SOFT,3.0,1,True,AlphaTauri,True,15.0,31.699,43.736,24.808,,False,False,4065.754,1,Bahrain Grand Prix
+TSU,4.0,99.95,1.0,SOFT,4.0,1,True,AlphaTauri,True,14.0,31.259,43.59,25.101,,False,False,4165.704,1,Bahrain Grand Prix
+TSU,5.0,101.131,1.0,SOFT,5.0,1,True,AlphaTauri,True,14.0,31.566,44.562,25.003,,False,False,4266.835,1,Bahrain Grand Prix
+TSU,6.0,100.886,1.0,SOFT,6.0,1,True,AlphaTauri,True,14.0,31.671,44.172,25.043,,False,False,4367.721,1,Bahrain Grand Prix
+TSU,7.0,100.952,1.0,SOFT,7.0,1,True,AlphaTauri,True,14.0,31.564,44.259,25.129,,False,False,4468.673,1,Bahrain Grand Prix
+TSU,8.0,100.846,1.0,SOFT,8.0,1,True,AlphaTauri,True,14.0,31.566,44.156,25.124,,False,False,4569.519,1,Bahrain Grand Prix
+TSU,9.0,101.01,1.0,SOFT,9.0,1,True,AlphaTauri,True,14.0,31.627,44.241,25.142,,False,False,4670.529,1,Bahrain Grand Prix
+TSU,10.0,103.749,1.0,SOFT,10.0,1,False,AlphaTauri,True,14.0,31.649,44.285,27.815,,True,False,4774.278,1,Bahrain Grand Prix
+TSU,11.0,119.843,2.0,HARD,1.0,1,False,AlphaTauri,True,18.0,53.357,42.423,24.063,,False,True,4894.121,1,Bahrain Grand Prix
+TSU,12.0,99.143,2.0,HARD,2.0,1,True,AlphaTauri,True,16.0,31.623,43.14,24.38,,False,False,4993.264,1,Bahrain Grand Prix
+TSU,13.0,99.471,2.0,HARD,3.0,1,True,AlphaTauri,True,13.0,31.607,43.29,24.574,,False,False,5092.735,1,Bahrain Grand Prix
+TSU,14.0,98.742,2.0,HARD,4.0,1,True,AlphaTauri,True,13.0,31.227,43.111,24.404,,False,False,5191.477,1,Bahrain Grand Prix
+TSU,15.0,98.975,2.0,HARD,5.0,1,True,AlphaTauri,True,12.0,31.398,43.143,24.434,,False,False,5290.452,1,Bahrain Grand Prix
+TSU,16.0,99.061,2.0,HARD,6.0,1,True,AlphaTauri,True,11.0,31.429,43.184,24.448,,False,False,5389.513,1,Bahrain Grand Prix
+TSU,17.0,99.021,2.0,HARD,7.0,1,True,AlphaTauri,True,11.0,31.417,43.132,24.472,,False,False,5488.534,1,Bahrain Grand Prix
+TSU,18.0,99.302,2.0,HARD,8.0,1,True,AlphaTauri,True,11.0,31.402,43.402,24.498,,False,False,5587.836,1,Bahrain Grand Prix
+TSU,19.0,99.17,2.0,HARD,9.0,1,True,AlphaTauri,True,11.0,31.456,43.331,24.383,,False,False,5687.006,1,Bahrain Grand Prix
+TSU,20.0,99.282,2.0,HARD,10.0,1,True,AlphaTauri,True,11.0,31.476,43.398,24.408,,False,False,5786.288,1,Bahrain Grand Prix
+TSU,21.0,99.325,2.0,HARD,11.0,1,True,AlphaTauri,True,11.0,31.486,43.285,24.554,,False,False,5885.613,1,Bahrain Grand Prix
+TSU,22.0,99.439,2.0,HARD,12.0,1,True,AlphaTauri,True,11.0,31.479,43.415,24.545,,False,False,5985.052,1,Bahrain Grand Prix
+TSU,23.0,99.632,2.0,HARD,13.0,1,True,AlphaTauri,True,11.0,31.543,43.474,24.615,,False,False,6084.684,1,Bahrain Grand Prix
+TSU,24.0,100.109,2.0,HARD,14.0,1,True,AlphaTauri,True,11.0,32.039,43.405,24.665,,False,False,6184.793,1,Bahrain Grand Prix
+TSU,25.0,99.746,2.0,HARD,15.0,1,True,AlphaTauri,True,11.0,31.638,43.565,24.543,,False,False,6284.539,1,Bahrain Grand Prix
+TSU,26.0,102.227,2.0,HARD,16.0,1,False,AlphaTauri,True,11.0,31.619,43.452,27.156,,True,False,6386.766,1,Bahrain Grand Prix
+TSU,27.0,120.3,3.0,HARD,1.0,1,False,AlphaTauri,True,16.0,52.788,43.364,24.148,,False,True,6507.066,1,Bahrain Grand Prix
+TSU,28.0,97.824,3.0,HARD,2.0,1,True,AlphaTauri,True,15.0,31.04,42.788,23.996,,False,False,6604.89,1,Bahrain Grand Prix
+TSU,29.0,97.779,3.0,HARD,3.0,1,True,AlphaTauri,True,15.0,31.071,42.582,24.126,,False,False,6702.669,1,Bahrain Grand Prix
+TSU,30.0,98.147,3.0,HARD,4.0,1,True,AlphaTauri,True,14.0,31.111,42.762,24.274,,False,False,6800.816,1,Bahrain Grand Prix
+TSU,31.0,97.813,3.0,HARD,5.0,1,True,AlphaTauri,True,13.0,30.795,42.857,24.161,,False,False,6898.629,1,Bahrain Grand Prix
+TSU,32.0,98.017,3.0,HARD,6.0,1,True,AlphaTauri,True,13.0,30.916,42.886,24.215,,False,False,6996.646,1,Bahrain Grand Prix
+TSU,33.0,98.094,3.0,HARD,7.0,1,True,AlphaTauri,True,12.0,30.843,42.923,24.328,,False,False,7094.74,1,Bahrain Grand Prix
+TSU,34.0,98.13,3.0,HARD,8.0,1,True,AlphaTauri,True,12.0,30.924,42.881,24.325,,False,False,7192.87,1,Bahrain Grand Prix
+TSU,35.0,98.163,3.0,HARD,9.0,1,True,AlphaTauri,True,12.0,31.053,42.779,24.331,,False,False,7291.033,1,Bahrain Grand Prix
+TSU,36.0,98.059,3.0,HARD,10.0,1,True,AlphaTauri,True,12.0,30.891,42.924,24.244,,False,False,7389.092,1,Bahrain Grand Prix
+TSU,37.0,98.075,3.0,HARD,11.0,1,True,AlphaTauri,True,12.0,31.004,42.708,24.363,,False,False,7487.167,1,Bahrain Grand Prix
+TSU,38.0,98.084,3.0,HARD,12.0,1,True,AlphaTauri,True,12.0,30.904,42.811,24.369,,False,False,7585.251,1,Bahrain Grand Prix
+TSU,39.0,98.419,3.0,HARD,13.0,1,True,AlphaTauri,True,12.0,31.108,42.882,24.429,,False,False,7683.67,1,Bahrain Grand Prix
+TSU,40.0,110.35,3.0,HARD,14.0,126,False,AlphaTauri,True,11.0,31.083,42.908,36.359,,True,False,7794.02,1,Bahrain Grand Prix
+TSU,41.0,130.782,4.0,SOFT,4.0,671,False,AlphaTauri,False,13.0,63.303,43.564,23.915,,False,True,7924.802,1,Bahrain Grand Prix
+TSU,42.0,96.637,4.0,SOFT,5.0,1,True,AlphaTauri,False,11.0,30.997,41.735,23.905,,False,False,8021.439,1,Bahrain Grand Prix
+TSU,43.0,97.028,4.0,SOFT,6.0,1,True,AlphaTauri,False,11.0,31.115,42.08,23.833,,False,False,8118.467,1,Bahrain Grand Prix
+TSU,44.0,97.01,4.0,SOFT,7.0,1,True,AlphaTauri,False,11.0,30.939,42.198,23.873,,False,False,8215.477,1,Bahrain Grand Prix
+TSU,45.0,97.021,4.0,SOFT,8.0,1,True,AlphaTauri,False,11.0,30.93,42.107,23.984,,False,False,8312.498,1,Bahrain Grand Prix
+TSU,46.0,97.258,4.0,SOFT,9.0,1,True,AlphaTauri,False,11.0,31.009,42.28,23.969,,False,False,8409.756,1,Bahrain Grand Prix
+TSU,47.0,97.359,4.0,SOFT,10.0,1,True,AlphaTauri,False,11.0,31.083,42.286,23.99,,False,False,8507.115,1,Bahrain Grand Prix
+TSU,48.0,97.238,4.0,SOFT,11.0,1,True,AlphaTauri,False,11.0,30.963,42.173,24.102,,False,False,8604.353,1,Bahrain Grand Prix
+TSU,49.0,97.528,4.0,SOFT,12.0,1,True,AlphaTauri,False,11.0,31.034,42.419,24.075,,False,False,8701.881,1,Bahrain Grand Prix
+TSU,50.0,97.624,4.0,SOFT,13.0,1,True,AlphaTauri,False,11.0,31.076,42.378,24.17,,False,False,8799.505,1,Bahrain Grand Prix
+TSU,51.0,97.706,4.0,SOFT,14.0,1,True,AlphaTauri,False,11.0,31.074,42.499,24.133,,False,False,8897.211,1,Bahrain Grand Prix
+TSU,52.0,97.59,4.0,SOFT,15.0,1,True,AlphaTauri,False,11.0,31.005,42.419,24.166,,False,False,8994.801,1,Bahrain Grand Prix
+TSU,53.0,97.675,4.0,SOFT,16.0,1,True,AlphaTauri,False,11.0,30.863,42.461,24.351,,False,False,9092.476,1,Bahrain Grand Prix
+TSU,54.0,97.72,4.0,SOFT,17.0,1,True,AlphaTauri,False,11.0,31.051,42.411,24.258,,False,False,9190.196,1,Bahrain Grand Prix
+TSU,55.0,97.945,4.0,SOFT,18.0,1,True,AlphaTauri,False,11.0,30.804,42.709,24.432,,False,False,9288.141,1,Bahrain Grand Prix
+TSU,56.0,98.102,4.0,SOFT,19.0,1,True,AlphaTauri,False,11.0,30.921,42.841,24.34,,False,False,9386.243,1,Bahrain Grand Prix
+TSU,57.0,98.246,4.0,SOFT,20.0,1,True,AlphaTauri,False,11.0,30.946,42.795,24.505,,False,False,9484.489,1,Bahrain Grand Prix
+ALB,1.0,106.453,1.0,SOFT,1.0,12,False,Williams,True,12.0,,45.491,24.742,,False,False,3863.336,1,Bahrain Grand Prix
+ALB,2.0,100.43,1.0,SOFT,2.0,21,True,Williams,True,12.0,31.765,43.909,24.756,,False,False,3963.766,1,Bahrain Grand Prix
+ALB,3.0,100.143,1.0,SOFT,3.0,1,True,Williams,True,12.0,31.66,43.782,24.701,,False,False,4063.909,1,Bahrain Grand Prix
+ALB,4.0,99.761,1.0,SOFT,4.0,1,True,Williams,True,11.0,31.226,43.808,24.727,,False,False,4163.67,1,Bahrain Grand Prix
+ALB,5.0,100.606,1.0,SOFT,5.0,1,True,Williams,True,11.0,31.48,44.21,24.916,,False,False,4264.276,1,Bahrain Grand Prix
+ALB,6.0,100.744,1.0,SOFT,6.0,1,True,Williams,True,11.0,31.764,44.077,24.903,,False,False,4365.02,1,Bahrain Grand Prix
+ALB,7.0,100.646,1.0,SOFT,7.0,1,True,Williams,True,11.0,31.833,44.04,24.773,,False,False,4465.666,1,Bahrain Grand Prix
+ALB,8.0,100.918,1.0,SOFT,8.0,1,True,Williams,True,11.0,31.83,44.297,24.791,,False,False,4566.584,1,Bahrain Grand Prix
+ALB,9.0,100.969,1.0,SOFT,9.0,1,True,Williams,True,11.0,31.837,44.298,24.834,,False,False,4667.553,1,Bahrain Grand Prix
+ALB,10.0,101.119,1.0,SOFT,10.0,1,True,Williams,True,11.0,31.855,44.432,24.832,,False,False,4768.672,1,Bahrain Grand Prix
+ALB,11.0,103.948,1.0,SOFT,11.0,1,False,Williams,True,12.0,31.953,44.361,27.634,,True,False,4872.62,1,Bahrain Grand Prix
+ALB,12.0,119.445,2.0,SOFT,1.0,1,False,Williams,True,15.0,52.452,42.947,24.046,,False,True,4992.065,1,Bahrain Grand Prix
+ALB,13.0,98.649,2.0,SOFT,2.0,1,True,Williams,True,11.0,31.512,42.949,24.188,,False,False,5090.714,1,Bahrain Grand Prix
+ALB,14.0,98.472,2.0,SOFT,3.0,1,True,Williams,True,11.0,31.104,43.144,24.224,,False,False,5189.186,1,Bahrain Grand Prix
+ALB,15.0,99.158,2.0,SOFT,4.0,1,True,Williams,True,10.0,31.3,43.386,24.472,,False,False,5288.344,1,Bahrain Grand Prix
+ALB,16.0,99.253,2.0,SOFT,5.0,1,True,Williams,True,10.0,31.205,43.747,24.301,,False,False,5387.597,1,Bahrain Grand Prix
+ALB,17.0,99.094,2.0,SOFT,6.0,1,True,Williams,True,10.0,31.288,43.482,24.324,,False,False,5486.691,1,Bahrain Grand Prix
+ALB,18.0,99.049,2.0,SOFT,7.0,1,True,Williams,True,10.0,31.24,43.43,24.379,,False,False,5585.74,1,Bahrain Grand Prix
+ALB,19.0,99.272,2.0,SOFT,8.0,1,True,Williams,True,10.0,31.412,43.511,24.349,,False,False,5685.012,1,Bahrain Grand Prix
+ALB,20.0,99.299,2.0,SOFT,9.0,1,True,Williams,True,10.0,31.372,43.498,24.429,,False,False,5784.311,1,Bahrain Grand Prix
+ALB,21.0,99.591,2.0,SOFT,10.0,1,True,Williams,True,10.0,31.415,43.682,24.494,,False,False,5883.902,1,Bahrain Grand Prix
+ALB,22.0,99.588,2.0,SOFT,11.0,1,True,Williams,True,10.0,31.391,43.783,24.414,,False,False,5983.49,1,Bahrain Grand Prix
+ALB,23.0,99.802,2.0,SOFT,12.0,1,True,Williams,True,10.0,31.503,43.786,24.513,,False,False,6083.292,1,Bahrain Grand Prix
+ALB,24.0,99.89,2.0,SOFT,13.0,1,True,Williams,True,10.0,31.616,43.801,24.473,,False,False,6183.182,1,Bahrain Grand Prix
+ALB,25.0,99.832,2.0,SOFT,14.0,1,True,Williams,True,10.0,31.547,43.808,24.477,,False,False,6283.014,1,Bahrain Grand Prix
+ALB,26.0,102.61,2.0,SOFT,15.0,1,False,Williams,True,10.0,31.597,43.733,27.28,,True,False,6385.624,1,Bahrain Grand Prix
+ALB,27.0,119.87,3.0,HARD,1.0,1,False,Williams,True,14.0,53.056,42.957,23.857,,False,True,6505.494,1,Bahrain Grand Prix
+ALB,28.0,97.503,3.0,HARD,2.0,1,True,Williams,True,13.0,30.968,42.567,23.968,,False,False,6602.997,1,Bahrain Grand Prix
+ALB,29.0,98.127,3.0,HARD,3.0,1,True,Williams,True,12.0,31.1,43.034,23.993,,False,False,6701.124,1,Bahrain Grand Prix
+ALB,30.0,97.931,3.0,HARD,4.0,1,True,Williams,True,12.0,31.11,42.857,23.964,,False,False,6799.055,1,Bahrain Grand Prix
+ALB,31.0,98.104,3.0,HARD,5.0,1,True,Williams,True,11.0,31.211,42.963,23.93,,False,False,6897.159,1,Bahrain Grand Prix
+ALB,32.0,97.919,3.0,HARD,6.0,1,True,Williams,True,11.0,31.133,42.843,23.943,,False,False,6995.078,1,Bahrain Grand Prix
+ALB,33.0,98.104,3.0,HARD,7.0,1,True,Williams,True,10.0,31.165,42.921,24.018,,False,False,7093.182,1,Bahrain Grand Prix
+ALB,34.0,97.961,3.0,HARD,8.0,1,True,Williams,True,10.0,31.19,42.832,23.939,,False,False,7191.143,1,Bahrain Grand Prix
+ALB,35.0,97.984,3.0,HARD,9.0,1,True,Williams,True,10.0,31.113,42.921,23.95,,False,False,7289.127,1,Bahrain Grand Prix
+ALB,36.0,98.176,3.0,HARD,10.0,1,True,Williams,True,10.0,31.233,42.956,23.987,,False,False,7387.303,1,Bahrain Grand Prix
+ALB,37.0,98.038,3.0,HARD,11.0,1,True,Williams,True,10.0,31.265,42.801,23.972,,False,False,7485.341,1,Bahrain Grand Prix
+ALB,38.0,98.33,3.0,HARD,12.0,1,True,Williams,True,10.0,31.372,42.907,24.051,,False,False,7583.671,1,Bahrain Grand Prix
+ALB,39.0,98.346,3.0,HARD,13.0,1,True,Williams,True,10.0,31.401,42.884,24.061,,False,False,7682.017,1,Bahrain Grand Prix
+ALB,40.0,110.177,3.0,HARD,14.0,126,False,Williams,True,9.0,31.353,42.999,35.825,,True,False,7792.194,1,Bahrain Grand Prix
+ALB,41.0,128.659,4.0,SOFT,1.0,671,False,Williams,False,9.0,59.22,45.873,23.566,,False,True,7920.853,1,Bahrain Grand Prix
+ALB,42.0,97.211,4.0,SOFT,2.0,1,True,Williams,False,10.0,31.062,42.485,23.664,,False,False,8018.064,1,Bahrain Grand Prix
+ALB,43.0,97.144,4.0,SOFT,3.0,1,True,Williams,False,10.0,30.767,42.589,23.788,,False,False,8115.208,1,Bahrain Grand Prix
+ALB,44.0,97.327,4.0,SOFT,4.0,1,True,Williams,False,10.0,30.953,42.567,23.807,,False,False,8212.535,1,Bahrain Grand Prix
+ALB,45.0,97.503,4.0,SOFT,5.0,1,True,Williams,False,10.0,31.121,42.624,23.758,,False,False,8310.038,1,Bahrain Grand Prix
+ALB,46.0,97.577,4.0,SOFT,6.0,1,True,Williams,False,10.0,31.025,42.764,23.788,,False,False,8407.615,1,Bahrain Grand Prix
+ALB,47.0,97.545,4.0,SOFT,7.0,1,True,Williams,False,10.0,31.048,42.675,23.822,,False,False,8505.16,1,Bahrain Grand Prix
+ALB,48.0,97.684,4.0,SOFT,8.0,1,True,Williams,False,10.0,31.112,42.713,23.859,,False,False,8602.844,1,Bahrain Grand Prix
+ALB,49.0,97.609,4.0,SOFT,9.0,1,True,Williams,False,10.0,31.051,42.726,23.832,,False,False,8700.453,1,Bahrain Grand Prix
+ALB,50.0,97.695,4.0,SOFT,10.0,1,True,Williams,False,10.0,31.087,42.703,23.905,,False,False,8798.148,1,Bahrain Grand Prix
+ALB,51.0,97.727,4.0,SOFT,11.0,1,True,Williams,False,10.0,31.157,42.662,23.908,,False,False,8895.875,1,Bahrain Grand Prix
+ALB,52.0,97.861,4.0,SOFT,12.0,1,True,Williams,False,10.0,31.11,42.907,23.844,,False,False,8993.736,1,Bahrain Grand Prix
+ALB,53.0,97.778,4.0,SOFT,13.0,1,True,Williams,False,10.0,31.109,42.799,23.87,,False,False,9091.514,1,Bahrain Grand Prix
+ALB,54.0,97.78,4.0,SOFT,14.0,1,True,Williams,False,10.0,31.074,42.796,23.91,,False,False,9189.294,1,Bahrain Grand Prix
+ALB,55.0,97.803,4.0,SOFT,15.0,1,True,Williams,False,10.0,31.113,42.777,23.913,,False,False,9287.097,1,Bahrain Grand Prix
+ALB,56.0,98.159,4.0,SOFT,16.0,1,True,Williams,False,10.0,31.157,42.905,24.097,,False,False,9385.256,1,Bahrain Grand Prix
+ALB,57.0,98.137,4.0,SOFT,17.0,1,True,Williams,False,10.0,31.128,42.928,24.081,,False,False,9483.393,1,Bahrain Grand Prix
+ZHO,1.0,108.467,1.0,SOFT,1.0,12,False,Alfa Romeo,True,17.0,,45.972,24.736,,False,False,3865.35,1,Bahrain Grand Prix
+ZHO,2.0,101.091,1.0,SOFT,2.0,21,True,Alfa Romeo,True,17.0,32.232,44.025,24.834,,False,False,3966.441,1,Bahrain Grand Prix
+ZHO,3.0,100.596,1.0,SOFT,3.0,1,True,Alfa Romeo,True,17.0,31.73,44.033,24.833,,False,False,4067.037,1,Bahrain Grand Prix
+ZHO,4.0,100.853,1.0,SOFT,4.0,1,True,Alfa Romeo,True,17.0,31.457,44.6,24.796,,False,False,4167.89,1,Bahrain Grand Prix
+ZHO,5.0,100.814,1.0,SOFT,5.0,1,True,Alfa Romeo,True,17.0,31.58,44.334,24.9,,False,False,4268.704,1,Bahrain Grand Prix
+ZHO,6.0,101.156,1.0,SOFT,6.0,1,True,Alfa Romeo,True,17.0,31.782,44.431,24.943,,False,False,4369.86,1,Bahrain Grand Prix
+ZHO,7.0,101.197,1.0,SOFT,7.0,1,True,Alfa Romeo,True,17.0,31.609,44.554,25.034,,False,False,4471.057,1,Bahrain Grand Prix
+ZHO,8.0,101.184,1.0,SOFT,8.0,1,True,Alfa Romeo,True,17.0,31.722,44.39,25.072,,False,False,4572.241,1,Bahrain Grand Prix
+ZHO,9.0,101.526,1.0,SOFT,9.0,1,True,Alfa Romeo,True,17.0,31.73,44.682,25.114,,False,False,4673.767,1,Bahrain Grand Prix
+ZHO,10.0,101.743,1.0,SOFT,10.0,1,True,Alfa Romeo,True,17.0,31.833,44.623,25.287,,False,False,4775.51,1,Bahrain Grand Prix
+ZHO,11.0,102.108,1.0,SOFT,11.0,1,True,Alfa Romeo,True,14.0,32.197,44.947,24.964,,False,False,4877.618,1,Bahrain Grand Prix
+ZHO,12.0,103.87,1.0,SOFT,12.0,1,False,Alfa Romeo,True,12.0,32.015,44.178,27.677,,True,False,4981.488,1,Bahrain Grand Prix
+ZHO,13.0,122.101,2.0,HARD,1.0,1,False,Alfa Romeo,True,20.0,54.117,43.596,24.388,,False,True,5103.589,1,Bahrain Grand Prix
+ZHO,14.0,99.33,2.0,HARD,2.0,1,True,Alfa Romeo,True,19.0,31.335,43.564,24.431,,False,False,5202.919,1,Bahrain Grand Prix
+ZHO,15.0,99.229,2.0,HARD,3.0,1,True,Alfa Romeo,True,19.0,31.385,43.353,24.491,,False,False,5302.148,1,Bahrain Grand Prix
+ZHO,16.0,98.998,2.0,HARD,4.0,1,True,Alfa Romeo,True,17.0,31.133,43.302,24.563,,False,False,5401.146,1,Bahrain Grand Prix
+ZHO,17.0,99.143,2.0,HARD,5.0,1,True,Alfa Romeo,True,17.0,31.399,43.248,24.496,,False,False,5500.289,1,Bahrain Grand Prix
+ZHO,18.0,98.873,2.0,HARD,6.0,1,True,Alfa Romeo,True,15.0,31.104,43.376,24.393,,False,False,5599.162,1,Bahrain Grand Prix
+ZHO,19.0,98.794,2.0,HARD,7.0,1,True,Alfa Romeo,True,15.0,31.493,43.007,24.294,,False,False,5697.956,1,Bahrain Grand Prix
+ZHO,20.0,98.896,2.0,HARD,8.0,1,True,Alfa Romeo,True,15.0,31.546,43.055,24.295,,False,False,5796.852,1,Bahrain Grand Prix
+ZHO,21.0,98.888,2.0,HARD,9.0,1,True,Alfa Romeo,True,15.0,31.46,43.064,24.364,,False,False,5895.74,1,Bahrain Grand Prix
+ZHO,22.0,99.115,2.0,HARD,10.0,1,True,Alfa Romeo,True,15.0,31.548,43.054,24.513,,False,False,5994.855,1,Bahrain Grand Prix
+ZHO,23.0,99.462,2.0,HARD,11.0,1,True,Alfa Romeo,True,15.0,31.41,43.384,24.668,,False,False,6094.317,1,Bahrain Grand Prix
+ZHO,24.0,99.503,2.0,HARD,12.0,1,True,Alfa Romeo,True,15.0,31.448,43.537,24.518,,False,False,6193.82,1,Bahrain Grand Prix
+ZHO,25.0,99.066,2.0,HARD,13.0,1,True,Alfa Romeo,True,14.0,31.337,43.38,24.349,,False,False,6292.886,1,Bahrain Grand Prix
+ZHO,26.0,99.427,2.0,HARD,14.0,1,True,Alfa Romeo,True,13.0,31.674,43.349,24.404,,False,False,6392.313,1,Bahrain Grand Prix
+ZHO,27.0,99.235,2.0,HARD,15.0,1,True,Alfa Romeo,True,11.0,31.58,43.319,24.336,,False,False,6491.548,1,Bahrain Grand Prix
+ZHO,28.0,99.412,2.0,HARD,16.0,1,True,Alfa Romeo,True,11.0,31.717,43.311,24.384,,False,False,6590.96,1,Bahrain Grand Prix
+ZHO,29.0,99.361,2.0,HARD,17.0,1,True,Alfa Romeo,True,11.0,31.669,43.346,24.346,,False,False,6690.321,1,Bahrain Grand Prix
+ZHO,30.0,99.382,2.0,HARD,18.0,1,True,Alfa Romeo,True,9.0,31.741,43.19,24.451,,False,False,6789.703,1,Bahrain Grand Prix
+ZHO,31.0,99.67,2.0,HARD,19.0,1,True,Alfa Romeo,True,9.0,31.824,43.5,24.346,,False,False,6889.373,1,Bahrain Grand Prix
+ZHO,32.0,102.096,2.0,HARD,20.0,1,False,Alfa Romeo,True,10.0,31.82,43.189,27.087,,True,False,6991.469,1,Bahrain Grand Prix
+ZHO,33.0,119.659,3.0,SOFT,4.0,1,False,Alfa Romeo,False,15.0,53.038,42.807,23.814,,False,True,7111.128,1,Bahrain Grand Prix
+ZHO,34.0,97.037,3.0,SOFT,5.0,1,True,Alfa Romeo,False,15.0,30.938,42.291,23.808,,False,False,7208.165,1,Bahrain Grand Prix
+ZHO,35.0,97.55,3.0,SOFT,6.0,1,True,Alfa Romeo,False,15.0,31.122,42.475,23.953,,False,False,7305.715,1,Bahrain Grand Prix
+ZHO,36.0,97.957,3.0,SOFT,7.0,1,True,Alfa Romeo,False,15.0,31.13,42.836,23.991,,False,False,7403.672,1,Bahrain Grand Prix
+ZHO,37.0,98.003,3.0,SOFT,8.0,1,True,Alfa Romeo,False,15.0,31.256,42.848,23.899,,False,False,7501.675,1,Bahrain Grand Prix
+ZHO,38.0,98.422,3.0,SOFT,9.0,1,True,Alfa Romeo,False,15.0,31.438,42.996,23.988,,False,False,7600.097,1,Bahrain Grand Prix
+ZHO,39.0,98.368,3.0,SOFT,10.0,1,True,Alfa Romeo,False,15.0,31.471,42.79,24.107,,False,False,7698.465,1,Bahrain Grand Prix
+ZHO,40.0,113.456,3.0,SOFT,11.0,126,False,Alfa Romeo,False,14.0,31.573,52.102,29.781,,False,False,7811.921,1,Bahrain Grand Prix
+ZHO,41.0,112.5,3.0,SOFT,12.0,671,False,Alfa Romeo,False,12.0,44.129,44.401,23.97,,False,False,7924.421,1,Bahrain Grand Prix
+ZHO,42.0,99.904,3.0,SOFT,13.0,1,True,Alfa Romeo,False,13.0,31.967,43.74,24.197,,False,False,8024.325,1,Bahrain Grand Prix
+ZHO,43.0,98.311,3.0,SOFT,14.0,1,True,Alfa Romeo,False,12.0,31.159,43.152,24.0,,False,False,8122.636,1,Bahrain Grand Prix
+ZHO,44.0,97.974,3.0,SOFT,15.0,1,True,Alfa Romeo,False,12.0,31.364,42.648,23.962,,False,False,8220.61,1,Bahrain Grand Prix
+ZHO,45.0,97.95,3.0,SOFT,16.0,1,True,Alfa Romeo,False,12.0,31.334,42.678,23.938,,False,False,8318.56,1,Bahrain Grand Prix
+ZHO,46.0,98.336,3.0,SOFT,17.0,1,True,Alfa Romeo,False,12.0,31.439,42.97,23.927,,False,False,8416.896,1,Bahrain Grand Prix
+ZHO,47.0,99.553,3.0,SOFT,18.0,1,True,Alfa Romeo,False,13.0,32.022,43.31,24.221,,False,False,8516.449,1,Bahrain Grand Prix
+ZHO,48.0,98.596,3.0,SOFT,19.0,1,True,Alfa Romeo,False,13.0,31.451,42.912,24.233,,False,False,8615.045,1,Bahrain Grand Prix
+ZHO,49.0,98.628,3.0,SOFT,20.0,1,True,Alfa Romeo,False,13.0,31.475,42.942,24.211,,False,False,8713.673,1,Bahrain Grand Prix
+ZHO,50.0,99.893,3.0,SOFT,21.0,1,True,Alfa Romeo,False,13.0,31.561,42.916,25.416,,False,False,8813.566,1,Bahrain Grand Prix
+ZHO,51.0,98.719,3.0,SOFT,22.0,1,True,Alfa Romeo,False,13.0,31.663,42.921,24.135,,False,False,8912.285,1,Bahrain Grand Prix
+ZHO,52.0,98.713,3.0,SOFT,23.0,1,True,Alfa Romeo,False,13.0,31.522,42.936,24.255,,False,False,9010.998,1,Bahrain Grand Prix
+ZHO,53.0,98.634,3.0,SOFT,24.0,1,True,Alfa Romeo,False,13.0,31.452,43.01,24.172,,False,False,9109.632,1,Bahrain Grand Prix
+ZHO,54.0,101.967,3.0,SOFT,25.0,1,False,Alfa Romeo,False,13.0,31.543,43.359,27.065,,True,False,9211.599,1,Bahrain Grand Prix
+ZHO,55.0,127.673,4.0,SOFT,4.0,1,False,Alfa Romeo,False,16.0,58.478,44.129,25.066,,False,True,9339.272,1,Bahrain Grand Prix
+ZHO,56.0,93.996,4.0,SOFT,5.0,1,True,Alfa Romeo,False,16.0,30.183,40.533,23.28,,False,False,9433.268,1,Bahrain Grand Prix
+HUL,1.0,107.339,1.0,SOFT,4.0,12,False,Haas F1 Team,False,14.0,,45.924,24.741,,False,False,3864.222,1,Bahrain Grand Prix
+HUL,2.0,100.72,1.0,SOFT,5.0,21,True,Haas F1 Team,False,14.0,31.78,44.191,24.749,,False,False,3964.942,1,Bahrain Grand Prix
+HUL,3.0,100.484,1.0,SOFT,6.0,1,True,Haas F1 Team,False,14.0,31.671,43.801,25.012,,False,False,4065.426,1,Bahrain Grand Prix
+HUL,4.0,101.004,1.0,SOFT,7.0,1,True,Haas F1 Team,False,15.0,32.225,43.817,24.962,,False,False,4166.43,1,Bahrain Grand Prix
+HUL,5.0,101.002,1.0,SOFT,8.0,1,True,Haas F1 Team,False,15.0,31.56,44.453,24.989,,False,False,4267.432,1,Bahrain Grand Prix
+HUL,6.0,101.002,1.0,SOFT,9.0,1,True,Haas F1 Team,False,15.0,31.566,44.338,25.098,,False,False,4368.434,1,Bahrain Grand Prix
+HUL,7.0,101.148,1.0,SOFT,10.0,1,True,Haas F1 Team,False,15.0,31.575,44.33,25.243,,False,False,4469.582,1,Bahrain Grand Prix
+HUL,8.0,101.249,1.0,SOFT,11.0,1,True,Haas F1 Team,False,15.0,31.819,44.221,25.209,,False,False,4570.831,1,Bahrain Grand Prix
+HUL,9.0,101.615,1.0,SOFT,12.0,1,True,Haas F1 Team,False,15.0,32.117,44.419,25.079,,False,False,4672.446,1,Bahrain Grand Prix
+HUL,10.0,102.252,1.0,SOFT,13.0,1,True,Haas F1 Team,False,15.0,32.095,44.673,25.484,,False,False,4774.698,1,Bahrain Grand Prix
+HUL,11.0,106.79,1.0,SOFT,14.0,1,False,Haas F1 Team,False,16.0,32.73,45.759,28.301,,True,False,4881.488,1,Bahrain Grand Prix
+HUL,12.0,122.579,2.0,HARD,1.0,1,False,Haas F1 Team,True,20.0,54.5,43.599,24.48,,False,True,5004.067,1,Bahrain Grand Prix
+HUL,13.0,99.406,2.0,HARD,2.0,1,True,Haas F1 Team,True,19.0,31.504,43.055,24.847,,False,False,5103.473,1,Bahrain Grand Prix
+HUL,14.0,98.847,2.0,HARD,3.0,1,True,Haas F1 Team,True,18.0,31.291,43.147,24.409,,False,False,5202.32,1,Bahrain Grand Prix
+HUL,15.0,98.972,2.0,HARD,4.0,1,True,Haas F1 Team,True,18.0,31.408,43.081,24.483,,False,False,5301.292,1,Bahrain Grand Prix
+HUL,16.0,99.136,2.0,HARD,5.0,1,True,Haas F1 Team,True,16.0,31.437,43.257,24.442,,False,False,5400.428,1,Bahrain Grand Prix
+HUL,17.0,99.396,2.0,HARD,6.0,1,True,Haas F1 Team,True,16.0,31.458,43.372,24.566,,False,False,5499.824,1,Bahrain Grand Prix
+HUL,18.0,100.323,2.0,HARD,7.0,1,True,Haas F1 Team,True,16.0,32.119,43.519,24.685,,False,False,5600.147,1,Bahrain Grand Prix
+HUL,19.0,99.633,2.0,HARD,8.0,1,True,Haas F1 Team,True,16.0,31.771,43.31,24.552,,False,False,5699.78,1,Bahrain Grand Prix
+HUL,20.0,99.495,2.0,HARD,9.0,1,True,Haas F1 Team,True,16.0,31.592,43.273,24.63,,False,False,5799.275,1,Bahrain Grand Prix
+HUL,21.0,99.703,2.0,HARD,10.0,1,True,Haas F1 Team,True,16.0,31.669,43.393,24.641,,False,False,5898.978,1,Bahrain Grand Prix
+HUL,22.0,99.934,2.0,HARD,11.0,1,True,Haas F1 Team,True,16.0,31.837,43.443,24.654,,False,False,5998.912,1,Bahrain Grand Prix
+HUL,23.0,99.866,2.0,HARD,12.0,1,True,Haas F1 Team,True,16.0,31.733,43.474,24.659,,False,False,6098.778,1,Bahrain Grand Prix
+HUL,24.0,99.855,2.0,HARD,13.0,1,True,Haas F1 Team,True,16.0,31.809,43.418,24.628,,False,False,6198.633,1,Bahrain Grand Prix
+HUL,25.0,100.295,2.0,HARD,14.0,1,True,Haas F1 Team,True,16.0,31.869,43.869,24.557,,False,False,6298.928,1,Bahrain Grand Prix
+HUL,26.0,102.931,2.0,HARD,15.0,1,False,Haas F1 Team,True,16.0,31.744,43.635,27.552,,True,False,6401.859,1,Bahrain Grand Prix
+HUL,27.0,132.037,3.0,HARD,1.0,1,False,Haas F1 Team,True,19.0,65.552,42.412,24.073,,False,True,6533.896,1,Bahrain Grand Prix
+HUL,28.0,96.981,3.0,HARD,2.0,1,True,Haas F1 Team,True,18.0,30.875,42.048,24.058,,False,False,6630.877,1,Bahrain Grand Prix
+HUL,29.0,97.398,3.0,HARD,3.0,1,True,Haas F1 Team,True,18.0,30.954,42.329,24.115,,False,False,6728.275,1,Bahrain Grand Prix
+HUL,30.0,97.617,3.0,HARD,4.0,1,True,Haas F1 Team,True,18.0,31.178,42.467,23.972,,False,False,6825.892,1,Bahrain Grand Prix
+HUL,31.0,97.891,3.0,HARD,5.0,1,True,Haas F1 Team,True,18.0,31.175,42.637,24.079,,False,False,6923.783,1,Bahrain Grand Prix
+HUL,32.0,97.806,3.0,HARD,6.0,1,True,Haas F1 Team,True,17.0,31.11,42.524,24.172,,False,False,7021.589,1,Bahrain Grand Prix
+HUL,33.0,97.761,3.0,HARD,7.0,1,True,Haas F1 Team,True,17.0,31.187,42.427,24.147,,False,False,7119.35,1,Bahrain Grand Prix
+HUL,34.0,97.895,3.0,HARD,8.0,1,True,Haas F1 Team,True,17.0,31.192,42.592,24.111,,False,False,7217.245,1,Bahrain Grand Prix
+HUL,35.0,98.093,3.0,HARD,9.0,1,True,Haas F1 Team,True,17.0,31.363,42.614,24.116,,False,False,7315.338,1,Bahrain Grand Prix
+HUL,36.0,98.245,3.0,HARD,10.0,1,True,Haas F1 Team,True,17.0,31.451,42.707,24.087,,False,False,7413.583,1,Bahrain Grand Prix
+HUL,37.0,98.108,3.0,HARD,11.0,1,True,Haas F1 Team,True,17.0,31.452,42.558,24.098,,False,False,7511.691,1,Bahrain Grand Prix
+HUL,38.0,98.191,3.0,HARD,12.0,1,True,Haas F1 Team,True,17.0,31.377,42.608,24.206,,False,False,7609.882,1,Bahrain Grand Prix
+HUL,39.0,98.184,3.0,HARD,13.0,1,True,Haas F1 Team,True,17.0,31.355,42.622,24.207,,False,False,7708.066,1,Bahrain Grand Prix
+HUL,40.0,118.689,3.0,HARD,14.0,126,False,Haas F1 Team,True,16.0,31.463,52.06,35.166,,True,False,7826.755,1,Bahrain Grand Prix
+HUL,41.0,125.275,4.0,SOFT,4.0,671,False,Haas F1 Team,False,16.0,56.839,44.428,24.008,,False,True,7952.03,1,Bahrain Grand Prix
+HUL,42.0,96.616,4.0,SOFT,5.0,1,True,Haas F1 Team,False,16.0,30.788,42.011,23.817,,False,False,8048.646,1,Bahrain Grand Prix
+HUL,43.0,96.793,4.0,SOFT,6.0,1,True,Haas F1 Team,False,16.0,30.915,41.855,24.023,,False,False,8145.439,1,Bahrain Grand Prix
+HUL,44.0,97.076,4.0,SOFT,7.0,1,True,Haas F1 Team,False,16.0,30.941,42.199,23.936,,False,False,8242.515,1,Bahrain Grand Prix
+HUL,45.0,97.314,4.0,SOFT,8.0,1,True,Haas F1 Team,False,16.0,31.074,42.194,24.046,,False,False,8339.829,1,Bahrain Grand Prix
+HUL,46.0,99.972,4.0,SOFT,9.0,1,True,Haas F1 Team,False,16.0,30.962,44.939,24.071,,False,False,8439.801,1,Bahrain Grand Prix
+HUL,47.0,96.806,4.0,SOFT,10.0,1,True,Haas F1 Team,False,16.0,30.895,42.035,23.876,,False,False,8536.607,1,Bahrain Grand Prix
+HUL,48.0,97.086,4.0,SOFT,11.0,1,True,Haas F1 Team,False,16.0,31.014,42.126,23.946,,False,False,8633.693,1,Bahrain Grand Prix
+HUL,49.0,97.077,4.0,SOFT,12.0,1,True,Haas F1 Team,False,16.0,31.069,42.073,23.935,,False,False,8730.77,1,Bahrain Grand Prix
+HUL,50.0,97.242,4.0,SOFT,13.0,1,True,Haas F1 Team,False,16.0,31.081,42.064,24.097,,False,False,8828.012,1,Bahrain Grand Prix
+HUL,51.0,97.306,4.0,SOFT,14.0,1,True,Haas F1 Team,False,16.0,31.116,42.192,23.998,,False,False,8925.318,1,Bahrain Grand Prix
+HUL,52.0,97.917,4.0,SOFT,15.0,1,True,Haas F1 Team,False,16.0,31.146,42.515,24.256,,False,False,9023.235,1,Bahrain Grand Prix
+HUL,53.0,98.067,4.0,SOFT,16.0,1,True,Haas F1 Team,False,16.0,31.267,42.619,24.181,,False,False,9121.302,1,Bahrain Grand Prix
+HUL,54.0,98.458,4.0,SOFT,17.0,1,True,Haas F1 Team,False,16.0,31.303,42.713,24.442,,False,False,9219.76,1,Bahrain Grand Prix
+HUL,55.0,98.564,4.0,SOFT,18.0,1,True,Haas F1 Team,False,15.0,31.42,42.876,24.268,,False,False,9318.324,1,Bahrain Grand Prix
+HUL,56.0,99.206,4.0,SOFT,19.0,1,True,Haas F1 Team,False,15.0,31.66,42.973,24.573,,False,False,9417.53,1,Bahrain Grand Prix
+OCO,1.0,105.967,1.0,SOFT,4.0,12,False,Alpine,False,11.0,,45.213,24.698,,False,False,3862.85,1,Bahrain Grand Prix
+OCO,2.0,100.408,1.0,SOFT,5.0,21,True,Alpine,False,11.0,31.783,43.896,24.729,,False,False,3963.258,1,Bahrain Grand Prix
+OCO,3.0,99.948,1.0,SOFT,6.0,1,True,Alpine,False,11.0,31.547,43.662,24.739,,False,False,4063.206,1,Bahrain Grand Prix
+OCO,4.0,99.543,1.0,SOFT,7.0,1,True,Alpine,False,10.0,31.349,43.518,24.676,,False,False,4162.749,1,Bahrain Grand Prix
+OCO,5.0,100.281,1.0,SOFT,8.0,1,True,Alpine,False,10.0,31.709,43.727,24.845,,False,False,4263.03,1,Bahrain Grand Prix
+OCO,6.0,100.331,1.0,SOFT,9.0,1,True,Alpine,False,10.0,31.767,43.724,24.84,,False,False,4363.361,1,Bahrain Grand Prix
+OCO,7.0,100.488,1.0,SOFT,10.0,1,True,Alpine,False,10.0,31.819,43.773,24.896,,False,False,4463.849,1,Bahrain Grand Prix
+OCO,8.0,100.562,1.0,SOFT,11.0,1,True,Alpine,False,10.0,31.873,43.836,24.853,,False,False,4564.411,1,Bahrain Grand Prix
+OCO,9.0,100.866,1.0,SOFT,12.0,1,True,Alpine,False,10.0,31.957,44.034,24.875,,False,False,4665.277,1,Bahrain Grand Prix
+OCO,10.0,100.858,1.0,SOFT,13.0,1,True,Alpine,False,10.0,31.918,43.957,24.983,,False,False,4766.135,1,Bahrain Grand Prix
+OCO,11.0,101.035,1.0,SOFT,14.0,1,True,Alpine,False,10.0,32.006,44.056,24.973,,False,False,4867.17,1,Bahrain Grand Prix
+OCO,12.0,103.787,1.0,SOFT,15.0,1,False,Alpine,False,9.0,32.034,44.101,27.652,,True,False,4970.957,1,Bahrain Grand Prix
+OCO,13.0,120.381,2.0,HARD,1.0,1,False,Alpine,True,12.0,53.451,42.674,24.256,,False,True,5091.338,1,Bahrain Grand Prix
+OCO,14.0,98.649,2.0,HARD,2.0,1,True,Alpine,True,12.0,31.163,43.16,24.326,,False,False,5189.987,1,Bahrain Grand Prix
+OCO,15.0,101.863,2.0,HARD,3.0,1,False,Alpine,True,13.0,31.363,43.264,27.236,,True,False,5291.85,1,Bahrain Grand Prix
+OCO,16.0,135.708,3.0,HARD,4.0,1,False,Alpine,False,19.0,68.689,42.863,24.156,,False,True,5427.558,1,Bahrain Grand Prix
+OCO,17.0,98.78,3.0,HARD,5.0,1,True,Alpine,False,19.0,31.538,43.002,24.24,,False,False,5526.338,1,Bahrain Grand Prix
+OCO,18.0,98.886,3.0,HARD,6.0,1,True,Alpine,False,18.0,31.577,43.055,24.254,,False,False,5625.224,1,Bahrain Grand Prix
+OCO,19.0,98.817,3.0,HARD,7.0,1,True,Alpine,False,18.0,31.651,42.936,24.23,,False,False,5724.041,1,Bahrain Grand Prix
+OCO,20.0,98.809,3.0,HARD,8.0,1,True,Alpine,False,18.0,31.605,43.024,24.18,,False,False,5822.85,1,Bahrain Grand Prix
+OCO,21.0,98.976,3.0,HARD,9.0,1,True,Alpine,False,18.0,31.634,43.064,24.278,,False,False,5921.826,1,Bahrain Grand Prix
+OCO,22.0,99.028,3.0,HARD,10.0,1,True,Alpine,False,18.0,31.568,43.193,24.267,,False,False,6020.854,1,Bahrain Grand Prix
+OCO,23.0,100.052,3.0,HARD,11.0,1,True,Alpine,False,19.0,32.119,43.443,24.49,,False,False,6120.906,1,Bahrain Grand Prix
+OCO,24.0,99.382,3.0,HARD,12.0,1,True,Alpine,False,19.0,31.661,43.286,24.435,,False,False,6220.288,1,Bahrain Grand Prix
+OCO,25.0,99.435,3.0,HARD,13.0,1,True,Alpine,False,19.0,31.667,43.405,24.363,,False,False,6319.723,1,Bahrain Grand Prix
+OCO,26.0,99.521,3.0,HARD,14.0,1,True,Alpine,False,19.0,31.669,43.437,24.415,,False,False,6419.244,1,Bahrain Grand Prix
+OCO,27.0,99.594,3.0,HARD,15.0,1,True,Alpine,False,18.0,31.711,43.443,24.44,,False,False,6518.838,1,Bahrain Grand Prix
+OCO,28.0,100.026,3.0,HARD,16.0,1,True,Alpine,False,17.0,31.826,43.747,24.453,,False,False,6618.864,1,Bahrain Grand Prix
+OCO,29.0,101.181,3.0,HARD,17.0,1,True,Alpine,False,17.0,31.685,44.908,24.588,,False,False,6720.045,1,Bahrain Grand Prix
+OCO,30.0,99.757,3.0,HARD,18.0,1,True,Alpine,False,16.0,31.696,43.535,24.526,,False,False,6819.802,1,Bahrain Grand Prix
+OCO,31.0,99.748,3.0,HARD,19.0,1,True,Alpine,False,16.0,31.748,43.573,24.427,,False,False,6919.55,1,Bahrain Grand Prix
+OCO,32.0,104.296,3.0,HARD,20.0,1,False,Alpine,False,18.0,31.727,43.947,28.622,,True,False,7023.846,1,Bahrain Grand Prix
+OCO,33.0,138.694,4.0,HARD,1.0,1,False,Alpine,True,19.0,72.748,42.304,23.642,,False,True,7162.54,1,Bahrain Grand Prix
+OCO,34.0,96.797,4.0,HARD,2.0,1,True,Alpine,True,19.0,30.92,42.107,23.77,,False,False,7259.337,1,Bahrain Grand Prix
+OCO,35.0,96.964,4.0,HARD,3.0,1,True,Alpine,True,19.0,31.041,42.199,23.724,,False,False,7356.301,1,Bahrain Grand Prix
+OCO,36.0,97.364,4.0,HARD,4.0,1,True,Alpine,True,19.0,31.036,42.488,23.84,,False,False,7453.665,1,Bahrain Grand Prix
+OCO,37.0,97.338,4.0,HARD,5.0,1,True,Alpine,True,19.0,31.098,42.381,23.859,,False,False,7551.003,1,Bahrain Grand Prix
+OCO,38.0,97.216,4.0,HARD,6.0,1,True,Alpine,True,18.0,31.045,42.382,23.789,,False,False,7648.219,1,Bahrain Grand Prix
+OCO,39.0,97.523,4.0,HARD,7.0,12,True,Alpine,True,18.0,31.243,42.389,23.891,,False,False,7745.742,1,Bahrain Grand Prix
+OCO,40.0,128.023,4.0,HARD,8.0,2671,False,Alpine,True,17.0,40.89,57.691,29.442,,False,False,7873.765,1,Bahrain Grand Prix
+OCO,41.0,102.684,4.0,HARD,9.0,1,False,Alpine,True,17.0,31.234,42.177,29.273,,True,False,7976.449,1,Bahrain Grand Prix
+NOR,1.0,105.364,1.0,SOFT,1.0,12,False,McLaren,True,10.0,,44.789,24.561,,False,False,3862.247,1,Bahrain Grand Prix
+NOR,2.0,100.433,1.0,SOFT,2.0,21,True,McLaren,True,10.0,31.867,43.83,24.736,,False,False,3962.68,1,Bahrain Grand Prix
+NOR,3.0,99.777,1.0,SOFT,3.0,1,True,McLaren,True,10.0,31.627,43.448,24.702,,False,False,4062.457,1,Bahrain Grand Prix
+NOR,4.0,102.267,1.0,SOFT,4.0,1,True,McLaren,True,12.0,32.947,44.387,24.933,,False,False,4164.724,1,Bahrain Grand Prix
+NOR,5.0,100.664,1.0,SOFT,5.0,1,True,McLaren,True,12.0,32.022,43.875,24.767,,False,False,4265.388,1,Bahrain Grand Prix
+NOR,6.0,100.814,1.0,SOFT,6.0,1,True,McLaren,True,12.0,31.98,44.01,24.824,,False,False,4366.202,1,Bahrain Grand Prix
+NOR,7.0,100.726,1.0,SOFT,7.0,1,True,McLaren,True,12.0,31.923,43.89,24.913,,False,False,4466.928,1,Bahrain Grand Prix
+NOR,8.0,100.857,1.0,SOFT,8.0,1,True,McLaren,True,12.0,32.024,43.869,24.964,,False,False,4567.785,1,Bahrain Grand Prix
+NOR,9.0,100.783,1.0,SOFT,9.0,1,True,McLaren,True,12.0,31.843,43.98,24.96,,False,False,4668.568,1,Bahrain Grand Prix
+NOR,10.0,103.521,1.0,SOFT,10.0,1,False,McLaren,True,13.0,31.762,44.097,27.662,,True,False,4772.089,1,Bahrain Grand Prix
+NOR,11.0,129.886,2.0,HARD,1.0,1,False,McLaren,True,20.0,61.49,43.939,24.457,,False,True,4901.975,1,Bahrain Grand Prix
+NOR,12.0,99.314,2.0,HARD,2.0,1,True,McLaren,True,18.0,31.825,43.134,24.355,,False,False,5001.289,1,Bahrain Grand Prix
+NOR,13.0,99.51,2.0,HARD,3.0,1,True,McLaren,True,17.0,31.74,43.246,24.524,,False,False,5100.799,1,Bahrain Grand Prix
+NOR,14.0,99.243,2.0,HARD,4.0,1,True,McLaren,True,16.0,31.728,43.15,24.365,,False,False,5200.042,1,Bahrain Grand Prix
+NOR,15.0,98.87,2.0,HARD,5.0,1,True,McLaren,True,16.0,31.562,42.936,24.372,,False,False,5298.912,1,Bahrain Grand Prix
+NOR,16.0,98.86,2.0,HARD,6.0,1,True,McLaren,True,14.0,31.537,42.928,24.395,,False,False,5397.772,1,Bahrain Grand Prix
+NOR,17.0,101.501,2.0,HARD,7.0,1,False,McLaren,True,15.0,31.573,42.806,27.122,,True,False,5499.273,1,Bahrain Grand Prix
+NOR,18.0,128.607,3.0,SOFT,4.0,1,False,McLaren,False,19.0,60.993,43.457,24.157,,False,True,5627.88,1,Bahrain Grand Prix
+NOR,19.0,97.966,3.0,SOFT,5.0,1,True,McLaren,False,19.0,31.206,42.704,24.056,,False,False,5725.846,1,Bahrain Grand Prix
+NOR,20.0,98.345,3.0,SOFT,6.0,1,True,McLaren,False,19.0,31.318,42.762,24.265,,False,False,5824.191,1,Bahrain Grand Prix
+NOR,21.0,98.297,3.0,SOFT,7.0,1,True,McLaren,False,19.0,31.319,42.673,24.305,,False,False,5922.488,1,Bahrain Grand Prix
+NOR,22.0,98.908,3.0,SOFT,8.0,1,True,McLaren,False,19.0,31.306,43.305,24.297,,False,False,6021.396,1,Bahrain Grand Prix
+NOR,23.0,98.291,3.0,SOFT,9.0,1,True,McLaren,False,18.0,31.283,42.726,24.282,,False,False,6119.687,1,Bahrain Grand Prix
+NOR,24.0,98.696,3.0,SOFT,10.0,1,True,McLaren,False,18.0,31.468,42.973,24.255,,False,False,6218.383,1,Bahrain Grand Prix
+NOR,25.0,98.447,3.0,SOFT,11.0,1,True,McLaren,False,18.0,31.438,42.732,24.277,,False,False,6316.83,1,Bahrain Grand Prix
+NOR,26.0,98.44,3.0,SOFT,12.0,1,True,McLaren,False,18.0,31.441,42.713,24.286,,False,False,6415.27,1,Bahrain Grand Prix
+NOR,27.0,100.973,3.0,SOFT,13.0,1,False,McLaren,False,17.0,31.514,42.723,26.736,,True,False,6516.243,1,Bahrain Grand Prix
+NOR,28.0,127.663,4.0,MEDIUM,1.0,1,False,McLaren,True,19.0,61.171,42.498,23.994,,False,True,6643.906,1,Bahrain Grand Prix
+NOR,29.0,97.26,4.0,MEDIUM,2.0,1,True,McLaren,True,19.0,31.144,42.226,23.89,,False,False,6741.166,1,Bahrain Grand Prix
+NOR,30.0,97.605,4.0,MEDIUM,3.0,1,True,McLaren,True,19.0,31.235,42.354,24.016,,False,False,6838.771,1,Bahrain Grand Prix
+NOR,31.0,97.768,4.0,MEDIUM,4.0,1,True,McLaren,True,19.0,31.174,42.459,24.135,,False,False,6936.539,1,Bahrain Grand Prix
+NOR,32.0,98.111,4.0,MEDIUM,5.0,1,True,McLaren,True,19.0,31.113,42.775,24.223,,False,False,7034.65,1,Bahrain Grand Prix
+NOR,33.0,97.52,4.0,MEDIUM,6.0,1,True,McLaren,True,18.0,30.999,42.476,24.045,,False,False,7132.17,1,Bahrain Grand Prix
+NOR,34.0,97.987,4.0,MEDIUM,7.0,1,True,McLaren,True,18.0,31.333,42.606,24.048,,False,False,7230.157,1,Bahrain Grand Prix
+NOR,35.0,97.87,4.0,MEDIUM,8.0,1,True,McLaren,True,18.0,31.336,42.535,23.999,,False,False,7328.027,1,Bahrain Grand Prix
+NOR,36.0,99.886,4.0,MEDIUM,9.0,1,True,McLaren,True,18.0,32.216,43.423,24.247,,False,False,7427.913,1,Bahrain Grand Prix
+NOR,37.0,100.197,4.0,MEDIUM,10.0,1,False,McLaren,True,18.0,31.376,42.461,26.36,,True,False,7528.11,1,Bahrain Grand Prix
+NOR,38.0,128.682,5.0,HARD,1.0,1,False,McLaren,True,19.0,62.477,42.444,23.761,,False,True,7656.792,1,Bahrain Grand Prix
+NOR,39.0,98.347,5.0,HARD,2.0,12,True,McLaren,True,19.0,30.941,43.025,24.381,,False,False,7755.139,1,Bahrain Grand Prix
+NOR,40.0,127.97,5.0,HARD,3.0,2671,False,McLaren,True,18.0,42.446,57.862,27.662,,False,False,7883.109,1,Bahrain Grand Prix
+NOR,41.0,96.705,5.0,HARD,4.0,1,True,McLaren,True,18.0,31.101,41.67,23.934,,False,False,7979.814,1,Bahrain Grand Prix
+NOR,42.0,96.668,5.0,HARD,5.0,1,True,McLaren,True,17.0,30.948,41.864,23.856,,False,False,8076.482,1,Bahrain Grand Prix
+NOR,43.0,96.687,5.0,HARD,6.0,1,True,McLaren,True,17.0,30.898,41.964,23.825,,False,False,8173.169,1,Bahrain Grand Prix
+NOR,44.0,97.219,5.0,HARD,7.0,1,True,McLaren,True,17.0,30.936,42.401,23.882,,False,False,8270.388,1,Bahrain Grand Prix
+NOR,45.0,97.426,5.0,HARD,8.0,1,True,McLaren,True,17.0,31.112,42.179,24.135,,False,False,8367.814,1,Bahrain Grand Prix
+NOR,46.0,97.656,5.0,HARD,9.0,1,True,McLaren,True,17.0,31.106,42.351,24.199,,False,False,8465.47,1,Bahrain Grand Prix
+NOR,47.0,100.433,5.0,HARD,10.0,1,False,McLaren,True,17.0,30.951,42.71,26.772,,True,False,8565.903,1,Bahrain Grand Prix
+NOR,48.0,126.905,6.0,SOFT,5.0,1,False,McLaren,False,17.0,59.26,43.221,24.424,,False,True,8692.808,1,Bahrain Grand Prix
+NOR,49.0,99.08,6.0,SOFT,6.0,1,True,McLaren,False,17.0,31.867,42.987,24.226,,False,False,8791.888,1,Bahrain Grand Prix
+NOR,50.0,95.257,6.0,SOFT,7.0,1,True,McLaren,False,17.0,30.533,41.13,23.594,,False,False,8887.145,1,Bahrain Grand Prix
+NOR,51.0,95.822,6.0,SOFT,8.0,1,True,McLaren,False,17.0,30.749,41.366,23.707,,False,False,8982.967,1,Bahrain Grand Prix
+NOR,52.0,96.152,6.0,SOFT,9.0,1,True,McLaren,False,17.0,30.747,41.651,23.754,,False,False,9079.119,1,Bahrain Grand Prix
+NOR,53.0,96.5,6.0,SOFT,10.0,1,True,McLaren,False,17.0,30.909,41.607,23.984,,False,False,9175.619,1,Bahrain Grand Prix
+NOR,54.0,99.789,6.0,SOFT,11.0,1,False,McLaren,False,17.0,30.938,42.162,26.689,,True,False,9275.408,1,Bahrain Grand Prix
+NOR,55.0,124.847,7.0,SOFT,7.0,1,False,McLaren,False,17.0,59.558,41.73,23.559,,False,True,9400.255,1,Bahrain Grand Prix
+HAM,1.0,102.288,1.0,SOFT,4.0,12,False,Mercedes,False,5.0,,43.494,24.338,,False,False,3859.171,1,Bahrain Grand Prix
+HAM,2.0,99.166,1.0,SOFT,5.0,21,True,Mercedes,False,5.0,31.408,43.352,24.406,,False,False,3958.337,1,Bahrain Grand Prix
+HAM,3.0,99.22,1.0,SOFT,6.0,1,True,Mercedes,False,5.0,31.298,43.499,24.423,,False,False,4057.557,1,Bahrain Grand Prix
+HAM,4.0,99.198,1.0,SOFT,7.0,1,True,Mercedes,False,5.0,31.315,43.446,24.437,,False,False,4156.755,1,Bahrain Grand Prix
+HAM,5.0,99.335,1.0,SOFT,8.0,1,True,Mercedes,False,5.0,31.35,43.508,24.477,,False,False,4256.09,1,Bahrain Grand Prix
+HAM,6.0,99.756,1.0,SOFT,9.0,1,True,Mercedes,False,5.0,31.434,43.751,24.571,,False,False,4355.846,1,Bahrain Grand Prix
+HAM,7.0,99.757,1.0,SOFT,10.0,1,True,Mercedes,False,5.0,31.48,43.664,24.613,,False,False,4455.603,1,Bahrain Grand Prix
+HAM,8.0,100.267,1.0,SOFT,11.0,1,True,Mercedes,False,5.0,31.718,43.82,24.729,,False,False,4555.87,1,Bahrain Grand Prix
+HAM,9.0,100.323,1.0,SOFT,12.0,1,True,Mercedes,False,5.0,31.893,43.776,24.654,,False,False,4656.193,1,Bahrain Grand Prix
+HAM,10.0,100.289,1.0,SOFT,13.0,1,True,Mercedes,False,5.0,31.649,43.985,24.655,,False,False,4756.482,1,Bahrain Grand Prix
+HAM,11.0,100.752,1.0,SOFT,14.0,1,True,Mercedes,False,5.0,31.823,44.205,24.724,,False,False,4857.234,1,Bahrain Grand Prix
+HAM,12.0,103.336,1.0,SOFT,15.0,1,False,Mercedes,False,7.0,31.821,44.259,27.256,,True,False,4960.57,1,Bahrain Grand Prix
+HAM,13.0,119.179,2.0,HARD,1.0,1,False,Mercedes,True,8.0,52.819,42.559,23.801,,False,True,5079.749,1,Bahrain Grand Prix
+HAM,14.0,98.308,2.0,HARD,2.0,1,True,Mercedes,True,7.0,30.783,43.351,24.174,,False,False,5178.057,1,Bahrain Grand Prix
+HAM,15.0,98.527,2.0,HARD,3.0,1,True,Mercedes,True,6.0,31.23,43.259,24.038,,False,False,5276.584,1,Bahrain Grand Prix
+HAM,16.0,98.617,2.0,HARD,4.0,1,True,Mercedes,True,5.0,31.162,43.414,24.041,,False,False,5375.201,1,Bahrain Grand Prix
+HAM,17.0,98.704,2.0,HARD,5.0,1,True,Mercedes,True,5.0,31.16,43.372,24.172,,False,False,5473.905,1,Bahrain Grand Prix
+HAM,18.0,98.69,2.0,HARD,6.0,1,True,Mercedes,True,5.0,31.263,43.262,24.165,,False,False,5572.595,1,Bahrain Grand Prix
+HAM,19.0,98.684,2.0,HARD,7.0,1,True,Mercedes,True,5.0,31.294,43.297,24.093,,False,False,5671.279,1,Bahrain Grand Prix
+HAM,20.0,98.478,2.0,HARD,8.0,1,True,Mercedes,True,5.0,31.163,43.227,24.088,,False,False,5769.757,1,Bahrain Grand Prix
+HAM,21.0,98.581,2.0,HARD,9.0,1,True,Mercedes,True,5.0,31.151,43.35,24.08,,False,False,5868.338,1,Bahrain Grand Prix
+HAM,22.0,98.46,2.0,HARD,10.0,1,True,Mercedes,True,5.0,31.336,43.109,24.015,,False,False,5966.798,1,Bahrain Grand Prix
+HAM,23.0,98.384,2.0,HARD,11.0,1,True,Mercedes,True,5.0,31.164,43.21,24.01,,False,False,6065.182,1,Bahrain Grand Prix
+HAM,24.0,98.367,2.0,HARD,12.0,1,True,Mercedes,True,5.0,31.202,43.079,24.086,,False,False,6163.549,1,Bahrain Grand Prix
+HAM,25.0,98.29,2.0,HARD,13.0,1,True,Mercedes,True,5.0,31.209,42.97,24.111,,False,False,6261.839,1,Bahrain Grand Prix
+HAM,26.0,98.339,2.0,HARD,14.0,1,True,Mercedes,True,5.0,31.345,42.89,24.104,,False,False,6360.178,1,Bahrain Grand Prix
+HAM,27.0,98.369,2.0,HARD,15.0,1,True,Mercedes,True,5.0,31.379,42.864,24.126,,False,False,6458.547,1,Bahrain Grand Prix
+HAM,28.0,98.265,2.0,HARD,16.0,1,True,Mercedes,True,5.0,31.232,42.845,24.188,,False,False,6556.812,1,Bahrain Grand Prix
+HAM,29.0,98.38,2.0,HARD,17.0,1,True,Mercedes,True,5.0,31.319,42.914,24.147,,False,False,6655.192,1,Bahrain Grand Prix
+HAM,30.0,101.175,2.0,HARD,18.0,1,False,Mercedes,True,6.0,31.375,42.964,26.836,,True,False,6756.367,1,Bahrain Grand Prix
+HAM,31.0,119.503,3.0,HARD,1.0,1,False,Mercedes,True,7.0,52.363,43.477,23.663,,False,True,6875.87,1,Bahrain Grand Prix
+HAM,32.0,97.563,3.0,HARD,2.0,1,True,Mercedes,True,6.0,30.795,42.982,23.786,,False,False,6973.433,1,Bahrain Grand Prix
+HAM,33.0,97.549,3.0,HARD,3.0,1,True,Mercedes,True,6.0,30.882,42.999,23.668,,False,False,7070.982,1,Bahrain Grand Prix
+HAM,34.0,98.135,3.0,HARD,4.0,1,True,Mercedes,True,6.0,30.81,43.571,23.754,,False,False,7169.117,1,Bahrain Grand Prix
+HAM,35.0,96.831,3.0,HARD,5.0,1,True,Mercedes,True,5.0,30.798,42.403,23.63,,False,False,7265.948,1,Bahrain Grand Prix
+HAM,36.0,96.546,3.0,HARD,6.0,1,True,Mercedes,True,5.0,30.869,42.013,23.664,,False,False,7362.494,1,Bahrain Grand Prix
+HAM,37.0,97.388,3.0,HARD,7.0,1,True,Mercedes,True,5.0,31.413,42.243,23.732,,False,False,7459.882,1,Bahrain Grand Prix
+HAM,38.0,98.304,3.0,HARD,8.0,1,True,Mercedes,True,6.0,31.05,43.267,23.987,,False,False,7558.186,1,Bahrain Grand Prix
+HAM,39.0,97.478,3.0,HARD,9.0,1,True,Mercedes,True,6.0,30.837,42.719,23.922,,False,False,7655.664,1,Bahrain Grand Prix
+HAM,40.0,97.494,3.0,HARD,10.0,12,True,Mercedes,True,5.0,30.768,42.806,23.92,,False,False,7753.158,1,Bahrain Grand Prix
+HAM,41.0,126.491,3.0,HARD,11.0,2671,False,Mercedes,True,5.0,40.61,57.504,28.377,,False,False,7879.649,1,Bahrain Grand Prix
+HAM,42.0,97.061,3.0,HARD,12.0,1,True,Mercedes,True,5.0,30.924,42.354,23.783,,False,False,7976.71,1,Bahrain Grand Prix
+HAM,43.0,97.111,3.0,HARD,13.0,1,True,Mercedes,True,5.0,30.89,42.235,23.986,,False,False,8073.821,1,Bahrain Grand Prix
+HAM,44.0,97.048,3.0,HARD,14.0,1,True,Mercedes,True,5.0,30.807,42.353,23.888,,False,False,8170.869,1,Bahrain Grand Prix
+HAM,45.0,97.661,3.0,HARD,15.0,1,True,Mercedes,True,5.0,30.902,42.666,24.093,,False,False,8268.53,1,Bahrain Grand Prix
+HAM,46.0,97.779,3.0,HARD,16.0,1,True,Mercedes,True,5.0,30.898,42.786,24.095,,False,False,8366.309,1,Bahrain Grand Prix
+HAM,47.0,98.517,3.0,HARD,17.0,1,True,Mercedes,True,5.0,31.32,43.157,24.04,,False,False,8464.826,1,Bahrain Grand Prix
+HAM,48.0,97.844,3.0,HARD,18.0,1,True,Mercedes,True,5.0,30.882,42.772,24.19,,False,False,8562.67,1,Bahrain Grand Prix
+HAM,49.0,97.954,3.0,HARD,19.0,1,True,Mercedes,True,5.0,30.947,42.945,24.062,,False,False,8660.624,1,Bahrain Grand Prix
+HAM,50.0,97.77,3.0,HARD,20.0,1,True,Mercedes,True,5.0,30.824,42.711,24.235,,False,False,8758.394,1,Bahrain Grand Prix
+HAM,51.0,98.014,3.0,HARD,21.0,1,True,Mercedes,True,5.0,31.154,42.759,24.101,,False,False,8856.408,1,Bahrain Grand Prix
+HAM,52.0,97.803,3.0,HARD,22.0,1,True,Mercedes,True,5.0,31.107,42.69,24.006,,False,False,8954.211,1,Bahrain Grand Prix
+HAM,53.0,97.988,3.0,HARD,23.0,1,True,Mercedes,True,5.0,31.1,42.853,24.035,,False,False,9052.199,1,Bahrain Grand Prix
+HAM,54.0,98.076,3.0,HARD,24.0,1,True,Mercedes,True,5.0,31.14,42.838,24.098,,False,False,9150.275,1,Bahrain Grand Prix
+HAM,55.0,97.955,3.0,HARD,25.0,1,True,Mercedes,True,5.0,31.131,42.775,24.049,,False,False,9248.23,1,Bahrain Grand Prix
+HAM,56.0,98.111,3.0,HARD,26.0,1,True,Mercedes,True,5.0,31.227,42.824,24.06,,False,False,9346.341,1,Bahrain Grand Prix
+HAM,57.0,98.255,3.0,HARD,27.0,1,True,Mercedes,True,5.0,31.166,42.89,24.199,,False,False,9444.596,1,Bahrain Grand Prix
+SAI,1.0,101.659,1.0,SOFT,4.0,12,False,Ferrari,False,4.0,,43.409,24.19,,False,False,3858.542,1,Bahrain Grand Prix
+SAI,2.0,98.933,1.0,SOFT,5.0,21,True,Ferrari,False,4.0,31.451,43.164,24.318,,False,False,3957.475,1,Bahrain Grand Prix
+SAI,3.0,99.042,1.0,SOFT,6.0,1,True,Ferrari,False,4.0,31.374,43.257,24.411,,False,False,4056.517,1,Bahrain Grand Prix
+SAI,4.0,98.985,1.0,SOFT,7.0,1,True,Ferrari,False,4.0,31.192,43.306,24.487,,False,False,4155.502,1,Bahrain Grand Prix
+SAI,5.0,99.128,1.0,SOFT,8.0,1,True,Ferrari,False,4.0,31.048,43.623,24.457,,False,False,4254.63,1,Bahrain Grand Prix
+SAI,6.0,99.474,1.0,SOFT,9.0,1,True,Ferrari,False,4.0,31.469,43.498,24.507,,False,False,4354.104,1,Bahrain Grand Prix
+SAI,7.0,99.502,1.0,SOFT,10.0,1,True,Ferrari,False,4.0,31.546,43.469,24.487,,False,False,4453.606,1,Bahrain Grand Prix
+SAI,8.0,99.779,1.0,SOFT,11.0,1,True,Ferrari,False,4.0,31.674,43.598,24.507,,False,False,4553.385,1,Bahrain Grand Prix
+SAI,9.0,99.744,1.0,SOFT,12.0,1,True,Ferrari,False,4.0,31.602,43.608,24.534,,False,False,4653.129,1,Bahrain Grand Prix
+SAI,10.0,100.102,1.0,SOFT,13.0,1,True,Ferrari,False,4.0,31.764,43.676,24.662,,False,False,4753.231,1,Bahrain Grand Prix
+SAI,11.0,100.507,1.0,SOFT,14.0,1,True,Ferrari,False,4.0,31.836,43.996,24.675,,False,False,4853.738,1,Bahrain Grand Prix
+SAI,12.0,100.52,1.0,SOFT,15.0,1,True,Ferrari,False,4.0,31.776,44.006,24.738,,False,False,4954.258,1,Bahrain Grand Prix
+SAI,13.0,103.31,1.0,SOFT,16.0,1,False,Ferrari,False,4.0,31.93,43.823,27.557,,True,False,5057.568,1,Bahrain Grand Prix
+SAI,14.0,119.006,2.0,HARD,1.0,1,False,Ferrari,True,6.0,52.026,42.788,24.192,,False,True,5176.574,1,Bahrain Grand Prix
+SAI,15.0,97.985,2.0,HARD,2.0,1,True,Ferrari,True,5.0,31.107,42.86,24.018,,False,False,5274.559,1,Bahrain Grand Prix
+SAI,16.0,98.433,2.0,HARD,3.0,1,True,Ferrari,True,4.0,31.232,43.011,24.19,,False,False,5372.992,1,Bahrain Grand Prix
+SAI,17.0,98.161,2.0,HARD,4.0,1,True,Ferrari,True,4.0,31.234,42.911,24.016,,False,False,5471.153,1,Bahrain Grand Prix
+SAI,18.0,98.287,2.0,HARD,5.0,1,True,Ferrari,True,4.0,31.283,42.95,24.054,,False,False,5569.44,1,Bahrain Grand Prix
+SAI,19.0,98.21,2.0,HARD,6.0,1,True,Ferrari,True,4.0,31.208,42.939,24.063,,False,False,5667.65,1,Bahrain Grand Prix
+SAI,20.0,98.096,2.0,HARD,7.0,1,True,Ferrari,True,4.0,31.272,42.826,23.998,,False,False,5765.746,1,Bahrain Grand Prix
+SAI,21.0,98.24,2.0,HARD,8.0,1,True,Ferrari,True,4.0,31.305,42.957,23.978,,False,False,5863.986,1,Bahrain Grand Prix
+SAI,22.0,98.453,2.0,HARD,9.0,1,True,Ferrari,True,4.0,31.288,43.137,24.028,,False,False,5962.439,1,Bahrain Grand Prix
+SAI,23.0,98.597,2.0,HARD,10.0,1,True,Ferrari,True,4.0,31.483,43.147,23.967,,False,False,6061.036,1,Bahrain Grand Prix
+SAI,24.0,98.314,2.0,HARD,11.0,1,True,Ferrari,True,4.0,31.442,42.878,23.994,,False,False,6159.35,1,Bahrain Grand Prix
+SAI,25.0,98.571,2.0,HARD,12.0,1,True,Ferrari,True,4.0,31.282,43.172,24.117,,False,False,6257.921,1,Bahrain Grand Prix
+SAI,26.0,98.331,2.0,HARD,13.0,1,True,Ferrari,True,4.0,31.316,42.976,24.039,,False,False,6356.252,1,Bahrain Grand Prix
+SAI,27.0,98.423,2.0,HARD,14.0,1,True,Ferrari,True,4.0,31.448,42.994,23.981,,False,False,6454.675,1,Bahrain Grand Prix
+SAI,28.0,98.474,2.0,HARD,15.0,1,True,Ferrari,True,4.0,31.422,42.956,24.096,,False,False,6553.149,1,Bahrain Grand Prix
+SAI,29.0,98.55,2.0,HARD,16.0,1,True,Ferrari,True,4.0,31.436,42.983,24.131,,False,False,6651.699,1,Bahrain Grand Prix
+SAI,30.0,98.601,2.0,HARD,17.0,1,True,Ferrari,True,4.0,31.445,43.033,24.123,,False,False,6750.3,1,Bahrain Grand Prix
+SAI,31.0,101.274,2.0,HARD,18.0,1,False,Ferrari,True,4.0,31.438,43.032,26.804,,True,False,6851.574,1,Bahrain Grand Prix
+SAI,32.0,118.492,3.0,HARD,1.0,1,False,Ferrari,True,5.0,51.61,42.949,23.933,,False,True,6970.066,1,Bahrain Grand Prix
+SAI,33.0,97.548,3.0,HARD,2.0,1,True,Ferrari,True,5.0,31.27,42.65,23.628,,False,False,7067.614,1,Bahrain Grand Prix
+SAI,34.0,97.475,3.0,HARD,3.0,1,True,Ferrari,True,5.0,31.149,42.615,23.711,,False,False,7165.089,1,Bahrain Grand Prix
+SAI,35.0,97.441,3.0,HARD,4.0,1,True,Ferrari,True,4.0,31.161,42.601,23.679,,False,False,7262.53,1,Bahrain Grand Prix
+SAI,36.0,97.706,3.0,HARD,5.0,1,True,Ferrari,True,4.0,31.197,42.728,23.781,,False,False,7360.236,1,Bahrain Grand Prix
+SAI,37.0,97.13,3.0,HARD,6.0,1,True,Ferrari,True,4.0,31.018,42.443,23.669,,False,False,7457.366,1,Bahrain Grand Prix
+SAI,38.0,97.444,3.0,HARD,7.0,1,True,Ferrari,True,4.0,31.096,42.608,23.74,,False,False,7554.81,1,Bahrain Grand Prix
+SAI,39.0,97.403,3.0,HARD,8.0,1,True,Ferrari,True,4.0,31.044,42.593,23.766,,False,False,7652.213,1,Bahrain Grand Prix
+SAI,40.0,97.587,3.0,HARD,9.0,12,True,Ferrari,True,3.0,31.207,42.653,23.727,,False,False,7749.8,1,Bahrain Grand Prix
+SAI,41.0,126.436,3.0,HARD,10.0,2671,False,Ferrari,True,3.0,39.595,57.789,29.052,,False,False,7876.236,1,Bahrain Grand Prix
+SAI,42.0,97.375,3.0,HARD,11.0,1,True,Ferrari,True,3.0,31.107,42.449,23.819,,False,False,7973.611,1,Bahrain Grand Prix
+SAI,43.0,97.294,3.0,HARD,12.0,1,True,Ferrari,True,3.0,31.141,42.431,23.722,,False,False,8070.905,1,Bahrain Grand Prix
+SAI,44.0,97.389,3.0,HARD,13.0,1,True,Ferrari,True,3.0,31.2,42.482,23.707,,False,False,8168.294,1,Bahrain Grand Prix
+SAI,45.0,99.561,3.0,HARD,14.0,1,True,Ferrari,True,4.0,31.572,43.669,24.32,,False,False,8267.855,1,Bahrain Grand Prix
+SAI,46.0,97.844,3.0,HARD,15.0,1,True,Ferrari,True,4.0,30.975,42.701,24.168,,False,False,8365.699,1,Bahrain Grand Prix
+SAI,47.0,98.222,3.0,HARD,16.0,1,True,Ferrari,True,4.0,31.548,42.699,23.975,,False,False,8463.921,1,Bahrain Grand Prix
+SAI,48.0,97.897,3.0,HARD,17.0,1,True,Ferrari,True,4.0,31.407,42.577,23.913,,False,False,8561.818,1,Bahrain Grand Prix
+SAI,49.0,97.765,3.0,HARD,18.0,1,True,Ferrari,True,4.0,31.407,42.49,23.868,,False,False,8659.583,1,Bahrain Grand Prix
+SAI,50.0,97.604,3.0,HARD,19.0,1,True,Ferrari,True,4.0,31.261,42.436,23.907,,False,False,8757.187,1,Bahrain Grand Prix
+SAI,51.0,97.672,3.0,HARD,20.0,1,True,Ferrari,True,4.0,31.269,42.491,23.912,,False,False,8854.859,1,Bahrain Grand Prix
+SAI,52.0,97.49,3.0,HARD,21.0,1,True,Ferrari,True,4.0,31.184,42.381,23.925,,False,False,8952.349,1,Bahrain Grand Prix
+SAI,53.0,97.66,3.0,HARD,22.0,1,True,Ferrari,True,4.0,31.248,42.531,23.881,,False,False,9050.009,1,Bahrain Grand Prix
+SAI,54.0,97.694,3.0,HARD,23.0,1,True,Ferrari,True,4.0,31.234,42.543,23.917,,False,False,9147.703,1,Bahrain Grand Prix
+SAI,55.0,97.821,3.0,HARD,24.0,1,True,Ferrari,True,4.0,31.31,42.638,23.873,,False,False,9245.524,1,Bahrain Grand Prix
+SAI,56.0,98.126,3.0,HARD,25.0,1,True,Ferrari,True,4.0,31.403,42.736,23.987,,False,False,9343.65,1,Bahrain Grand Prix
+SAI,57.0,98.021,3.0,HARD,26.0,1,True,Ferrari,True,4.0,31.244,42.749,24.028,,False,False,9441.671,1,Bahrain Grand Prix
+RUS,1.0,102.662,1.0,SOFT,4.0,12,False,Mercedes,False,6.0,,43.377,24.168,,False,False,3859.545,1,Bahrain Grand Prix
+RUS,2.0,99.59,1.0,SOFT,5.0,21,True,Mercedes,False,6.0,31.709,43.468,24.413,,False,False,3959.135,1,Bahrain Grand Prix
+RUS,3.0,99.093,1.0,SOFT,6.0,1,True,Mercedes,False,6.0,31.218,43.416,24.459,,False,False,4058.228,1,Bahrain Grand Prix
+RUS,4.0,99.261,1.0,SOFT,7.0,1,True,Mercedes,False,6.0,31.267,43.497,24.497,,False,False,4157.489,1,Bahrain Grand Prix
+RUS,5.0,99.549,1.0,SOFT,8.0,1,True,Mercedes,False,6.0,31.367,43.763,24.419,,False,False,4257.038,1,Bahrain Grand Prix
+RUS,6.0,99.493,1.0,SOFT,9.0,1,True,Mercedes,False,6.0,31.196,43.619,24.678,,False,False,4356.531,1,Bahrain Grand Prix
+RUS,7.0,100.056,1.0,SOFT,10.0,1,True,Mercedes,False,6.0,31.589,43.827,24.64,,False,False,4456.587,1,Bahrain Grand Prix
+RUS,8.0,100.31,1.0,SOFT,11.0,1,True,Mercedes,False,6.0,31.522,44.119,24.669,,False,False,4556.897,1,Bahrain Grand Prix
+RUS,9.0,100.42,1.0,SOFT,12.0,1,True,Mercedes,False,6.0,31.652,44.022,24.746,,False,False,4657.317,1,Bahrain Grand Prix
+RUS,10.0,100.532,1.0,SOFT,13.0,1,True,Mercedes,False,6.0,31.699,44.074,24.759,,False,False,4757.849,1,Bahrain Grand Prix
+RUS,11.0,101.085,1.0,SOFT,14.0,1,True,Mercedes,False,6.0,31.772,44.52,24.793,,False,False,4858.934,1,Bahrain Grand Prix
+RUS,12.0,101.112,1.0,SOFT,15.0,1,True,Mercedes,False,5.0,32.023,44.122,24.967,,False,False,4960.046,1,Bahrain Grand Prix
+RUS,13.0,104.691,1.0,SOFT,16.0,1,False,Mercedes,False,7.0,32.276,44.91,27.505,,True,False,5064.737,1,Bahrain Grand Prix
+RUS,14.0,121.269,2.0,HARD,1.0,1,False,Mercedes,True,10.0,54.862,42.554,23.853,,False,True,5186.006,1,Bahrain Grand Prix
+RUS,15.0,97.46,2.0,HARD,2.0,1,True,Mercedes,True,9.0,30.812,42.616,24.032,,False,False,5283.466,1,Bahrain Grand Prix
+RUS,16.0,97.833,2.0,HARD,3.0,1,True,Mercedes,True,8.0,30.88,42.883,24.07,,False,False,5381.299,1,Bahrain Grand Prix
+RUS,17.0,98.604,2.0,HARD,4.0,1,True,Mercedes,True,8.0,30.903,43.462,24.239,,False,False,5479.903,1,Bahrain Grand Prix
+RUS,18.0,98.427,2.0,HARD,5.0,1,True,Mercedes,True,7.0,30.995,43.299,24.133,,False,False,5578.33,1,Bahrain Grand Prix
+RUS,19.0,98.512,2.0,HARD,6.0,1,True,Mercedes,True,7.0,31.276,43.188,24.048,,False,False,5676.842,1,Bahrain Grand Prix
+RUS,20.0,98.578,2.0,HARD,7.0,1,True,Mercedes,True,7.0,31.282,43.216,24.08,,False,False,5775.42,1,Bahrain Grand Prix
+RUS,21.0,98.555,2.0,HARD,8.0,1,True,Mercedes,True,7.0,31.287,43.084,24.184,,False,False,5873.975,1,Bahrain Grand Prix
+RUS,22.0,98.438,2.0,HARD,9.0,1,True,Mercedes,True,7.0,31.313,42.999,24.126,,False,False,5972.413,1,Bahrain Grand Prix
+RUS,23.0,98.773,2.0,HARD,10.0,1,True,Mercedes,True,7.0,31.278,43.405,24.09,,False,False,6071.186,1,Bahrain Grand Prix
+RUS,24.0,98.643,2.0,HARD,11.0,1,True,Mercedes,True,7.0,31.298,43.348,23.997,,False,False,6169.829,1,Bahrain Grand Prix
+RUS,25.0,98.487,2.0,HARD,12.0,1,True,Mercedes,True,7.0,31.311,43.056,24.12,,False,False,6268.316,1,Bahrain Grand Prix
+RUS,26.0,98.462,2.0,HARD,13.0,1,True,Mercedes,True,7.0,31.334,43.033,24.095,,False,False,6366.778,1,Bahrain Grand Prix
+RUS,27.0,98.625,2.0,HARD,14.0,1,True,Mercedes,True,7.0,31.393,43.152,24.08,,False,False,6465.403,1,Bahrain Grand Prix
+RUS,28.0,98.448,2.0,HARD,15.0,1,True,Mercedes,True,7.0,31.233,43.103,24.112,,False,False,6563.851,1,Bahrain Grand Prix
+RUS,29.0,98.792,2.0,HARD,16.0,1,True,Mercedes,True,7.0,31.476,43.264,24.052,,False,False,6662.643,1,Bahrain Grand Prix
+RUS,30.0,98.541,2.0,HARD,17.0,1,True,Mercedes,True,7.0,31.301,43.18,24.06,,False,False,6761.184,1,Bahrain Grand Prix
+RUS,31.0,101.035,2.0,HARD,18.0,1,False,Mercedes,True,6.0,31.353,43.015,26.667,,True,False,6862.219,1,Bahrain Grand Prix
+RUS,32.0,118.694,3.0,HARD,1.0,1,False,Mercedes,True,8.0,52.322,42.773,23.599,,False,True,6980.913,1,Bahrain Grand Prix
+RUS,33.0,97.221,3.0,HARD,2.0,1,True,Mercedes,True,8.0,30.915,42.756,23.55,,False,False,7078.134,1,Bahrain Grand Prix
+RUS,34.0,97.311,3.0,HARD,3.0,1,True,Mercedes,True,8.0,30.975,42.685,23.651,,False,False,7175.445,1,Bahrain Grand Prix
+RUS,35.0,97.592,3.0,HARD,4.0,1,True,Mercedes,True,8.0,30.949,42.96,23.683,,False,False,7273.037,1,Bahrain Grand Prix
+RUS,36.0,97.607,3.0,HARD,5.0,1,True,Mercedes,True,8.0,30.979,42.831,23.797,,False,False,7370.644,1,Bahrain Grand Prix
+RUS,37.0,97.822,3.0,HARD,6.0,1,True,Mercedes,True,8.0,31.049,43.002,23.771,,False,False,7468.466,1,Bahrain Grand Prix
+RUS,38.0,97.66,3.0,HARD,7.0,1,True,Mercedes,True,8.0,30.994,42.854,23.812,,False,False,7566.126,1,Bahrain Grand Prix
+RUS,39.0,97.495,3.0,HARD,8.0,1,True,Mercedes,True,8.0,30.971,42.712,23.812,,False,False,7663.621,1,Bahrain Grand Prix
+RUS,40.0,98.085,3.0,HARD,9.0,126,False,Mercedes,True,7.0,31.006,42.651,24.428,,False,False,7761.706,1,Bahrain Grand Prix
+RUS,41.0,126.293,3.0,HARD,10.0,671,False,Mercedes,True,7.0,46.011,56.1,24.182,,False,False,7887.999,1,Bahrain Grand Prix
+RUS,42.0,97.035,3.0,HARD,11.0,1,True,Mercedes,True,7.0,30.782,42.391,23.862,,False,False,7985.034,1,Bahrain Grand Prix
+RUS,43.0,97.48,3.0,HARD,12.0,1,True,Mercedes,True,7.0,30.954,42.679,23.847,,False,False,8082.514,1,Bahrain Grand Prix
+RUS,44.0,97.597,3.0,HARD,13.0,1,True,Mercedes,True,7.0,31.11,42.611,23.876,,False,False,8180.111,1,Bahrain Grand Prix
+RUS,45.0,97.316,3.0,HARD,14.0,1,True,Mercedes,True,7.0,30.892,42.59,23.834,,False,False,8277.427,1,Bahrain Grand Prix
+RUS,46.0,97.571,3.0,HARD,15.0,1,True,Mercedes,True,7.0,30.999,42.734,23.838,,False,False,8374.998,1,Bahrain Grand Prix
+RUS,47.0,97.432,3.0,HARD,16.0,1,True,Mercedes,True,7.0,31.049,42.436,23.947,,False,False,8472.43,1,Bahrain Grand Prix
+RUS,48.0,97.52,3.0,HARD,17.0,1,True,Mercedes,True,7.0,31.101,42.509,23.91,,False,False,8569.95,1,Bahrain Grand Prix
+RUS,49.0,97.718,3.0,HARD,18.0,1,True,Mercedes,True,7.0,31.097,42.623,23.998,,False,False,8667.668,1,Bahrain Grand Prix
+RUS,50.0,97.383,3.0,HARD,19.0,1,True,Mercedes,True,7.0,31.014,42.413,23.956,,False,False,8765.051,1,Bahrain Grand Prix
+RUS,51.0,97.825,3.0,HARD,20.0,1,True,Mercedes,True,7.0,31.187,42.705,23.933,,False,False,8862.876,1,Bahrain Grand Prix
+RUS,52.0,97.589,3.0,HARD,21.0,1,True,Mercedes,True,7.0,31.107,42.517,23.965,,False,False,8960.465,1,Bahrain Grand Prix
+RUS,53.0,97.841,3.0,HARD,22.0,1,True,Mercedes,True,7.0,31.065,42.707,24.069,,False,False,9058.306,1,Bahrain Grand Prix
+RUS,54.0,97.923,3.0,HARD,23.0,1,True,Mercedes,True,7.0,31.192,42.658,24.073,,False,False,9156.229,1,Bahrain Grand Prix
+RUS,55.0,97.86,3.0,HARD,24.0,1,True,Mercedes,True,7.0,31.118,42.621,24.121,,False,False,9254.089,1,Bahrain Grand Prix
+RUS,56.0,97.636,3.0,HARD,25.0,1,True,Mercedes,True,7.0,30.961,42.593,24.082,,False,False,9351.725,1,Bahrain Grand Prix
+RUS,57.0,97.767,3.0,HARD,26.0,1,True,Mercedes,True,7.0,31.077,42.54,24.15,,False,False,9449.492,1,Bahrain Grand Prix
+BOT,1.0,104.154,1.0,SOFT,1.0,12,False,Alfa Romeo,True,8.0,,43.757,24.573,,False,False,3861.037,1,Bahrain Grand Prix
+BOT,2.0,99.956,1.0,SOFT,2.0,21,True,Alfa Romeo,True,8.0,31.722,43.495,24.739,,False,False,3960.993,1,Bahrain Grand Prix
+BOT,3.0,99.397,1.0,SOFT,3.0,1,True,Alfa Romeo,True,8.0,31.428,43.378,24.591,,False,False,4060.39,1,Bahrain Grand Prix
+BOT,4.0,99.823,1.0,SOFT,4.0,1,True,Alfa Romeo,True,8.0,31.568,43.543,24.712,,False,False,4160.213,1,Bahrain Grand Prix
+BOT,5.0,101.033,1.0,SOFT,5.0,1,True,Alfa Romeo,True,9.0,32.204,44.132,24.697,,False,False,4261.246,1,Bahrain Grand Prix
+BOT,6.0,100.265,1.0,SOFT,6.0,1,True,Alfa Romeo,True,9.0,31.687,43.789,24.789,,False,False,4361.511,1,Bahrain Grand Prix
+BOT,7.0,100.564,1.0,SOFT,7.0,1,True,Alfa Romeo,True,9.0,31.983,43.92,24.661,,False,False,4462.075,1,Bahrain Grand Prix
+BOT,8.0,100.387,1.0,SOFT,8.0,1,True,Alfa Romeo,True,9.0,31.864,43.791,24.732,,False,False,4562.462,1,Bahrain Grand Prix
+BOT,9.0,100.275,1.0,SOFT,9.0,1,True,Alfa Romeo,True,9.0,31.936,43.661,24.678,,False,False,4662.737,1,Bahrain Grand Prix
+BOT,10.0,100.676,1.0,SOFT,10.0,1,True,Alfa Romeo,True,9.0,31.929,43.981,24.766,,False,False,4763.413,1,Bahrain Grand Prix
+BOT,11.0,103.269,1.0,SOFT,11.0,1,False,Alfa Romeo,True,9.0,31.926,43.791,27.552,,True,False,4866.682,1,Bahrain Grand Prix
+BOT,12.0,119.45,2.0,HARD,1.0,1,False,Alfa Romeo,True,14.0,52.921,42.49,24.039,,False,True,4986.132,1,Bahrain Grand Prix
+BOT,13.0,98.03,2.0,HARD,2.0,1,True,Alfa Romeo,True,10.0,31.273,42.523,24.234,,False,False,5084.162,1,Bahrain Grand Prix
+BOT,14.0,98.098,2.0,HARD,3.0,1,True,Alfa Romeo,True,8.0,31.122,42.799,24.177,,False,False,5182.26,1,Bahrain Grand Prix
+BOT,15.0,98.851,2.0,HARD,4.0,1,True,Alfa Romeo,True,7.0,31.469,43.076,24.306,,False,False,5281.111,1,Bahrain Grand Prix
+BOT,16.0,98.494,2.0,HARD,5.0,1,True,Alfa Romeo,True,6.0,31.299,43.018,24.177,,False,False,5379.605,1,Bahrain Grand Prix
+BOT,17.0,99.973,2.0,HARD,6.0,1,True,Alfa Romeo,True,7.0,32.034,43.463,24.476,,False,False,5479.578,1,Bahrain Grand Prix
+BOT,18.0,100.24,2.0,HARD,7.0,1,True,Alfa Romeo,True,8.0,31.682,43.946,24.612,,False,False,5579.818,1,Bahrain Grand Prix
+BOT,19.0,99.497,2.0,HARD,8.0,1,True,Alfa Romeo,True,8.0,31.65,43.373,24.474,,False,False,5679.315,1,Bahrain Grand Prix
+BOT,20.0,100.442,2.0,HARD,9.0,1,True,Alfa Romeo,True,9.0,31.91,43.979,24.553,,False,False,5779.757,1,Bahrain Grand Prix
+BOT,21.0,99.355,2.0,HARD,10.0,1,True,Alfa Romeo,True,9.0,31.577,43.366,24.412,,False,False,5879.112,1,Bahrain Grand Prix
+BOT,22.0,99.356,2.0,HARD,11.0,1,True,Alfa Romeo,True,9.0,31.591,43.332,24.433,,False,False,5978.468,1,Bahrain Grand Prix
+BOT,23.0,99.311,2.0,HARD,12.0,1,True,Alfa Romeo,True,9.0,31.711,43.197,24.403,,False,False,6077.779,1,Bahrain Grand Prix
+BOT,24.0,99.427,2.0,HARD,13.0,1,True,Alfa Romeo,True,9.0,31.731,43.277,24.419,,False,False,6177.206,1,Bahrain Grand Prix
+BOT,25.0,99.49,2.0,HARD,14.0,1,True,Alfa Romeo,True,9.0,31.785,43.253,24.452,,False,False,6276.696,1,Bahrain Grand Prix
+BOT,26.0,99.5,2.0,HARD,15.0,1,True,Alfa Romeo,True,9.0,31.813,43.256,24.431,,False,False,6376.196,1,Bahrain Grand Prix
+BOT,27.0,99.287,2.0,HARD,16.0,1,True,Alfa Romeo,True,9.0,31.712,43.177,24.398,,False,False,6475.483,1,Bahrain Grand Prix
+BOT,28.0,99.016,2.0,HARD,17.0,1,True,Alfa Romeo,True,9.0,31.753,42.963,24.3,,False,False,6574.499,1,Bahrain Grand Prix
+BOT,29.0,102.22,2.0,HARD,18.0,1,False,Alfa Romeo,True,9.0,32.154,43.012,27.054,,True,False,6676.719,1,Bahrain Grand Prix
+BOT,30.0,118.886,3.0,HARD,1.0,1,False,Alfa Romeo,True,11.0,52.999,42.137,23.75,,False,True,6795.605,1,Bahrain Grand Prix
+BOT,31.0,97.379,3.0,HARD,2.0,1,True,Alfa Romeo,True,10.0,31.079,42.337,23.963,,False,False,6892.984,1,Bahrain Grand Prix
+BOT,32.0,97.675,3.0,HARD,3.0,1,True,Alfa Romeo,True,9.0,31.059,42.59,24.026,,False,False,6990.659,1,Bahrain Grand Prix
+BOT,33.0,97.775,3.0,HARD,4.0,1,True,Alfa Romeo,True,9.0,31.243,42.542,23.99,,False,False,7088.434,1,Bahrain Grand Prix
+BOT,34.0,97.774,3.0,HARD,5.0,1,True,Alfa Romeo,True,9.0,31.317,42.525,23.932,,False,False,7186.208,1,Bahrain Grand Prix
+BOT,35.0,97.817,3.0,HARD,6.0,1,True,Alfa Romeo,True,9.0,31.277,42.617,23.923,,False,False,7284.025,1,Bahrain Grand Prix
+BOT,36.0,97.827,3.0,HARD,7.0,1,True,Alfa Romeo,True,9.0,31.342,42.528,23.957,,False,False,7381.852,1,Bahrain Grand Prix
+BOT,37.0,97.774,3.0,HARD,8.0,1,True,Alfa Romeo,True,9.0,31.238,42.584,23.952,,False,False,7479.626,1,Bahrain Grand Prix
+BOT,38.0,97.658,3.0,HARD,9.0,1,True,Alfa Romeo,True,9.0,31.311,42.406,23.941,,False,False,7577.284,1,Bahrain Grand Prix
+BOT,39.0,97.784,3.0,HARD,10.0,1,True,Alfa Romeo,True,9.0,31.376,42.467,23.941,,False,False,7675.068,1,Bahrain Grand Prix
+BOT,40.0,110.376,3.0,HARD,11.0,126,False,Alfa Romeo,True,8.0,31.335,42.515,36.526,,False,False,7785.444,1,Bahrain Grand Prix
+BOT,41.0,115.281,3.0,HARD,12.0,671,False,Alfa Romeo,True,8.0,37.625,53.676,23.98,,False,False,7900.725,1,Bahrain Grand Prix
+BOT,42.0,97.736,3.0,HARD,13.0,1,True,Alfa Romeo,True,8.0,31.22,42.609,23.907,,False,False,7998.461,1,Bahrain Grand Prix
+BOT,43.0,97.813,3.0,HARD,14.0,1,True,Alfa Romeo,True,8.0,31.253,42.525,24.035,,False,False,8096.274,1,Bahrain Grand Prix
+BOT,44.0,97.868,3.0,HARD,15.0,1,True,Alfa Romeo,True,8.0,31.392,42.601,23.875,,False,False,8194.142,1,Bahrain Grand Prix
+BOT,45.0,97.688,3.0,HARD,16.0,1,True,Alfa Romeo,True,8.0,31.254,42.539,23.895,,False,False,8291.83,1,Bahrain Grand Prix
+BOT,46.0,97.83,3.0,HARD,17.0,1,True,Alfa Romeo,True,8.0,31.384,42.473,23.973,,False,False,8389.66,1,Bahrain Grand Prix
+BOT,47.0,97.815,3.0,HARD,18.0,1,True,Alfa Romeo,True,8.0,31.325,42.508,23.982,,False,False,8487.475,1,Bahrain Grand Prix
+BOT,48.0,97.5,3.0,HARD,19.0,1,True,Alfa Romeo,True,8.0,31.316,42.265,23.919,,False,False,8584.975,1,Bahrain Grand Prix
+BOT,49.0,97.85,3.0,HARD,20.0,1,True,Alfa Romeo,True,8.0,31.434,42.484,23.932,,False,False,8682.825,1,Bahrain Grand Prix
+BOT,50.0,97.71,3.0,HARD,21.0,1,True,Alfa Romeo,True,8.0,31.491,42.241,23.978,,False,False,8780.535,1,Bahrain Grand Prix
+BOT,51.0,97.816,3.0,HARD,22.0,1,True,Alfa Romeo,True,8.0,31.383,42.463,23.97,,False,False,8878.351,1,Bahrain Grand Prix
+BOT,52.0,97.947,3.0,HARD,23.0,1,True,Alfa Romeo,True,8.0,31.512,42.44,23.995,,False,False,8976.298,1,Bahrain Grand Prix
+BOT,53.0,97.856,3.0,HARD,24.0,1,True,Alfa Romeo,True,8.0,31.458,42.413,23.985,,False,False,9074.154,1,Bahrain Grand Prix
+BOT,54.0,97.738,3.0,HARD,25.0,1,True,Alfa Romeo,True,8.0,31.461,42.3,23.977,,False,False,9171.892,1,Bahrain Grand Prix
+BOT,55.0,97.807,3.0,HARD,26.0,1,True,Alfa Romeo,True,8.0,31.526,42.257,24.024,,False,False,9269.699,1,Bahrain Grand Prix
+BOT,56.0,98.16,3.0,HARD,27.0,1,True,Alfa Romeo,True,8.0,31.687,42.384,24.089,,False,False,9367.859,1,Bahrain Grand Prix
+BOT,57.0,98.407,3.0,HARD,28.0,1,True,Alfa Romeo,True,8.0,31.543,42.623,24.241,,False,False,9466.266,1,Bahrain Grand Prix
+PIA,1.0,108.214,1.0,SOFT,1.0,12,False,McLaren,True,16.0,,45.783,24.952,,False,False,3865.097,1,Bahrain Grand Prix
+PIA,2.0,100.83,1.0,SOFT,2.0,21,True,McLaren,True,16.0,32.185,43.977,24.668,,False,False,3965.927,1,Bahrain Grand Prix
+PIA,3.0,100.691,1.0,SOFT,3.0,1,True,McLaren,True,16.0,31.877,43.986,24.828,,False,False,4066.618,1,Bahrain Grand Prix
+PIA,4.0,100.718,1.0,SOFT,4.0,1,True,McLaren,True,16.0,31.831,44.079,24.808,,False,False,4167.336,1,Bahrain Grand Prix
+PIA,5.0,100.862,1.0,SOFT,5.0,1,True,McLaren,True,16.0,31.846,44.06,24.956,,False,False,4268.198,1,Bahrain Grand Prix
+PIA,6.0,101.111,1.0,SOFT,6.0,1,True,McLaren,True,16.0,31.694,44.425,24.992,,False,False,4369.309,1,Bahrain Grand Prix
+PIA,7.0,101.167,1.0,SOFT,7.0,1,True,McLaren,True,16.0,31.716,44.471,24.98,,False,False,4470.476,1,Bahrain Grand Prix
+PIA,8.0,101.295,1.0,SOFT,8.0,1,True,McLaren,True,16.0,31.665,44.59,25.04,,False,False,4571.771,1,Bahrain Grand Prix
+PIA,9.0,101.534,1.0,SOFT,9.0,1,True,McLaren,True,16.0,31.989,44.548,24.997,,False,False,4673.305,1,Bahrain Grand Prix
+PIA,10.0,101.584,1.0,SOFT,10.0,1,True,McLaren,True,16.0,31.779,44.617,25.188,,False,False,4774.889,1,Bahrain Grand Prix
+PIA,11.0,101.352,1.0,SOFT,11.0,1,True,McLaren,True,13.0,31.894,44.557,24.901,,False,False,4876.241,1,Bahrain Grand Prix
+PIA,12.0,101.156,1.0,SOFT,12.0,1,True,McLaren,True,11.0,32.1,44.235,24.821,,False,False,4977.397,1,Bahrain Grand Prix
+PIA,13.0,122.071,1.0,SOFT,13.0,1,False,McLaren,True,16.0,34.839,53.536,33.696,,True,False,5099.468,1,Bahrain Grand Prix

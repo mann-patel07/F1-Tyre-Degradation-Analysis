@@ -1,0 +1,508 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,122.046,1.0,INTERMEDIATE,1.0,124,False,Red Bull Racing,True,1.0,,49.014,31.876,,False,False,3877.92,18,Japanese Grand Prix
+VER,2.0,183.369,1.0,INTERMEDIATE,2.0,45,False,Red Bull Racing,True,1.0,58.131,85.451,39.787,,True,False,4061.289,18,Japanese Grand Prix
+VER,3.0,,2.0,WET,1.0,1,False,Red Bull Racing,True,1.0,,73.921,32.369,,False,True,11815.035,18,Japanese Grand Prix
+VER,4.0,165.704,2.0,WET,2.0,1,True,Red Bull Racing,True,1.0,63.741,71.392,30.571,,False,False,11980.739,18,Japanese Grand Prix
+VER,5.0,183.39,2.0,WET,3.0,1,True,Red Bull Racing,True,1.0,62.043,84.968,36.379,,False,False,12164.129,18,Japanese Grand Prix
+VER,6.0,110.761,2.0,WET,4.0,1,True,Red Bull Racing,True,1.0,40.046,49.014,21.701,,False,False,12274.89,18,Japanese Grand Prix
+VER,7.0,112.865,2.0,WET,5.0,1,False,Red Bull Racing,True,1.0,39.707,49.161,23.997,,True,False,12387.755,18,Japanese Grand Prix
+VER,8.0,130.625,3.0,INTERMEDIATE,1.0,1,False,Red Bull Racing,True,4.0,61.116,47.751,21.758,,False,True,12518.38,18,Japanese Grand Prix
+VER,9.0,105.148,3.0,INTERMEDIATE,2.0,1,True,Red Bull Racing,True,1.0,37.744,46.952,20.452,,False,False,12623.528,18,Japanese Grand Prix
+VER,10.0,104.911,3.0,INTERMEDIATE,3.0,1,True,Red Bull Racing,True,1.0,37.845,46.812,20.254,,False,False,12728.439,18,Japanese Grand Prix
+VER,11.0,105.011,3.0,INTERMEDIATE,4.0,1,True,Red Bull Racing,True,1.0,37.76,46.858,20.393,,False,False,12833.45,18,Japanese Grand Prix
+VER,12.0,105.403,3.0,INTERMEDIATE,5.0,1,True,Red Bull Racing,True,1.0,37.983,47.051,20.369,,False,False,12938.853,18,Japanese Grand Prix
+VER,13.0,105.802,3.0,INTERMEDIATE,6.0,1,True,Red Bull Racing,True,1.0,38.087,47.19,20.525,,False,False,13044.655,18,Japanese Grand Prix
+VER,14.0,106.813,3.0,INTERMEDIATE,7.0,1,True,Red Bull Racing,True,1.0,38.833,47.451,20.529,,False,False,13151.468,18,Japanese Grand Prix
+VER,15.0,107.348,3.0,INTERMEDIATE,8.0,1,True,Red Bull Racing,True,1.0,39.017,47.755,20.576,,False,False,13258.816,18,Japanese Grand Prix
+VER,16.0,107.516,3.0,INTERMEDIATE,9.0,1,True,Red Bull Racing,True,1.0,39.144,47.793,20.579,,False,False,13366.332,18,Japanese Grand Prix
+VER,17.0,107.416,3.0,INTERMEDIATE,10.0,1,True,Red Bull Racing,True,1.0,39.138,47.726,20.552,,False,False,13473.748,18,Japanese Grand Prix
+VER,18.0,107.598,3.0,INTERMEDIATE,11.0,1,True,Red Bull Racing,True,1.0,39.149,47.91,20.539,,False,False,13581.346,18,Japanese Grand Prix
+VER,19.0,107.654,3.0,INTERMEDIATE,12.0,1,True,Red Bull Racing,True,1.0,39.116,47.982,20.556,,False,False,13689.0,18,Japanese Grand Prix
+VER,20.0,107.742,3.0,INTERMEDIATE,13.0,1,True,Red Bull Racing,True,1.0,39.287,47.921,20.534,,False,False,13796.742,18,Japanese Grand Prix
+VER,21.0,107.563,3.0,INTERMEDIATE,14.0,1,True,Red Bull Racing,True,1.0,39.159,47.888,20.516,,False,False,13904.305,18,Japanese Grand Prix
+VER,22.0,107.35,3.0,INTERMEDIATE,15.0,1,True,Red Bull Racing,True,1.0,39.149,47.648,20.553,,False,False,14011.655,18,Japanese Grand Prix
+VER,23.0,107.651,3.0,INTERMEDIATE,16.0,1,True,Red Bull Racing,True,1.0,39.214,47.748,20.689,,False,False,14119.306,18,Japanese Grand Prix
+VER,24.0,107.582,3.0,INTERMEDIATE,17.0,1,True,Red Bull Racing,True,1.0,39.183,47.731,20.668,,False,False,14226.888,18,Japanese Grand Prix
+VER,25.0,107.794,3.0,INTERMEDIATE,18.0,1,True,Red Bull Racing,True,1.0,39.387,47.788,20.619,,False,False,14334.682,18,Japanese Grand Prix
+VER,26.0,107.991,3.0,INTERMEDIATE,19.0,1,True,Red Bull Racing,True,1.0,39.243,48.012,20.736,,False,False,14442.673,18,Japanese Grand Prix
+VER,27.0,108.249,3.0,INTERMEDIATE,20.0,1,True,Red Bull Racing,True,1.0,39.473,48.116,20.66,,False,False,14550.922,18,Japanese Grand Prix
+VER,28.0,108.944,3.0,INTERMEDIATE,21.0,1,True,Red Bull Racing,True,1.0,39.405,48.136,21.403,,False,False,14659.866,18,Japanese Grand Prix
+VER,29.0,,3.0,INTERMEDIATE,22.0,1,False,Red Bull Racing,True,,,,,,False,False,14809.866,18,Japanese Grand Prix
+GAS,1.0,169.982,1.0,INTERMEDIATE,1.0,124,False,AlphaTauri,True,18.0,,79.433,34.417,,True,True,3925.88,18,Japanese Grand Prix
+GAS,2.0,180.465,2.0,WET,1.0,45,False,AlphaTauri,True,18.0,82.37,56.458,41.637,,True,True,4106.345,18,Japanese Grand Prix
+GAS,3.0,,3.0,WET,1.0,1,False,AlphaTauri,True,18.0,,58.58,31.961,,False,True,11848.658,18,Japanese Grand Prix
+GAS,4.0,166.478,3.0,WET,2.0,1,True,AlphaTauri,True,18.0,54.417,78.401,33.66,,False,False,12015.136,18,Japanese Grand Prix
+GAS,5.0,162.769,3.0,WET,3.0,1,True,AlphaTauri,True,16.0,50.707,77.69,34.372,,False,False,12177.905,18,Japanese Grand Prix
+GAS,6.0,117.895,3.0,WET,4.0,1,True,AlphaTauri,True,15.0,43.02,51.434,23.441,,False,False,12295.8,18,Japanese Grand Prix
+GAS,7.0,117.813,3.0,WET,5.0,1,False,AlphaTauri,True,14.0,41.963,50.508,25.342,,True,False,12413.613,18,Japanese Grand Prix
+GAS,8.0,131.737,4.0,INTERMEDIATE,1.0,1,False,AlphaTauri,True,18.0,62.423,48.601,20.713,,False,True,12545.35,18,Japanese Grand Prix
+GAS,9.0,109.38,4.0,INTERMEDIATE,2.0,1,True,AlphaTauri,True,18.0,39.565,48.598,21.217,,False,False,12654.73,18,Japanese Grand Prix
+GAS,10.0,108.87,4.0,INTERMEDIATE,3.0,1,True,AlphaTauri,True,17.0,39.998,48.081,20.791,,False,False,12763.6,18,Japanese Grand Prix
+GAS,11.0,107.854,4.0,INTERMEDIATE,4.0,1,True,AlphaTauri,True,17.0,39.201,48.128,20.525,,False,False,12871.454,18,Japanese Grand Prix
+GAS,12.0,109.115,4.0,INTERMEDIATE,5.0,1,True,AlphaTauri,True,16.0,39.487,48.784,20.844,,False,False,12980.569,18,Japanese Grand Prix
+GAS,13.0,109.131,4.0,INTERMEDIATE,6.0,1,True,AlphaTauri,True,16.0,39.615,48.686,20.83,,False,False,13089.7,18,Japanese Grand Prix
+GAS,14.0,110.338,4.0,INTERMEDIATE,7.0,1,True,AlphaTauri,True,16.0,40.093,49.347,20.898,,False,False,13200.038,18,Japanese Grand Prix
+GAS,15.0,109.763,4.0,INTERMEDIATE,8.0,1,True,AlphaTauri,True,16.0,39.894,48.906,20.963,,False,False,13309.801,18,Japanese Grand Prix
+GAS,16.0,110.492,4.0,INTERMEDIATE,9.0,1,True,AlphaTauri,True,16.0,40.205,49.287,21.0,,False,False,13420.293,18,Japanese Grand Prix
+GAS,17.0,110.916,4.0,INTERMEDIATE,10.0,1,True,AlphaTauri,True,16.0,40.453,49.31,21.153,,False,False,13531.209,18,Japanese Grand Prix
+GAS,18.0,110.802,4.0,INTERMEDIATE,11.0,1,True,AlphaTauri,True,16.0,40.295,49.501,21.006,,False,False,13642.011,18,Japanese Grand Prix
+GAS,19.0,113.384,4.0,INTERMEDIATE,12.0,1,False,AlphaTauri,True,16.0,40.589,49.356,23.439,,True,False,13755.395,18,Japanese Grand Prix
+GAS,20.0,127.438,5.0,INTERMEDIATE,1.0,1,False,AlphaTauri,True,18.0,59.974,47.144,20.32,,False,True,13882.833,18,Japanese Grand Prix
+GAS,21.0,105.592,5.0,INTERMEDIATE,2.0,1,True,AlphaTauri,True,18.0,38.16,46.9,20.532,,False,False,13988.425,18,Japanese Grand Prix
+GAS,22.0,105.387,5.0,INTERMEDIATE,3.0,1,True,AlphaTauri,True,18.0,37.837,47.104,20.446,,False,False,14093.812,18,Japanese Grand Prix
+GAS,23.0,106.686,5.0,INTERMEDIATE,4.0,1,True,AlphaTauri,True,18.0,38.241,47.796,20.649,,False,False,14200.498,18,Japanese Grand Prix
+GAS,24.0,108.888,5.0,INTERMEDIATE,5.0,1,True,AlphaTauri,True,17.0,39.033,48.432,21.423,,False,False,14309.386,18,Japanese Grand Prix
+GAS,25.0,108.189,5.0,INTERMEDIATE,6.0,1,True,AlphaTauri,True,17.0,39.09,48.471,20.628,,False,False,14417.575,18,Japanese Grand Prix
+GAS,26.0,109.689,5.0,INTERMEDIATE,7.0,1,True,AlphaTauri,True,17.0,39.371,48.942,21.376,,False,False,14527.264,18,Japanese Grand Prix
+GAS,27.0,110.958,5.0,INTERMEDIATE,8.0,1,True,AlphaTauri,True,17.0,40.528,49.283,21.147,,False,False,14638.222,18,Japanese Grand Prix
+GAS,28.0,109.735,5.0,INTERMEDIATE,9.0,1,True,AlphaTauri,True,17.0,39.73,49.141,20.864,,False,False,14747.957,18,Japanese Grand Prix
+PER,1.0,127.539,1.0,INTERMEDIATE,1.0,124,False,Red Bull Racing,True,3.0,,50.389,32.217,,False,False,3883.431,18,Japanese Grand Prix
+PER,2.0,183.119,1.0,INTERMEDIATE,2.0,45,False,Red Bull Racing,True,3.0,55.567,85.801,41.751,,True,False,4066.55,18,Japanese Grand Prix
+PER,3.0,,2.0,WET,1.0,1,False,Red Bull Racing,True,3.0,,75.704,31.372,,False,True,11818.519,18,Japanese Grand Prix
+PER,4.0,166.411,2.0,WET,2.0,1,True,Red Bull Racing,True,3.0,62.395,72.882,31.134,,False,False,11984.93,18,Japanese Grand Prix
+PER,5.0,181.424,2.0,WET,3.0,1,True,Red Bull Racing,True,3.0,59.946,84.23,37.248,,False,False,12166.354,18,Japanese Grand Prix
+PER,6.0,113.662,2.0,WET,4.0,1,True,Red Bull Racing,True,3.0,41.005,50.603,22.054,,False,False,12280.016,18,Japanese Grand Prix
+PER,7.0,114.053,2.0,WET,5.0,1,False,Red Bull Racing,True,3.0,39.895,49.663,24.495,,True,False,12394.069,18,Japanese Grand Prix
+PER,8.0,131.551,3.0,INTERMEDIATE,1.0,1,False,Red Bull Racing,True,7.0,61.753,48.673,21.125,,False,True,12525.62,18,Japanese Grand Prix
+PER,9.0,107.73,3.0,INTERMEDIATE,2.0,1,True,Red Bull Racing,True,4.0,38.668,48.375,20.687,,False,False,12633.35,18,Japanese Grand Prix
+PER,10.0,107.088,3.0,INTERMEDIATE,3.0,1,True,Red Bull Racing,True,3.0,39.46,47.251,20.377,,False,False,12740.438,18,Japanese Grand Prix
+PER,11.0,106.12,3.0,INTERMEDIATE,4.0,1,True,Red Bull Racing,True,3.0,38.035,47.58,20.505,,False,False,12846.558,18,Japanese Grand Prix
+PER,12.0,106.165,3.0,INTERMEDIATE,5.0,1,True,Red Bull Racing,True,3.0,38.132,47.449,20.584,,False,False,12952.723,18,Japanese Grand Prix
+PER,13.0,107.12,3.0,INTERMEDIATE,6.0,1,True,Red Bull Racing,True,3.0,38.394,48.056,20.67,,False,False,13059.843,18,Japanese Grand Prix
+PER,14.0,107.253,3.0,INTERMEDIATE,7.0,1,True,Red Bull Racing,True,3.0,38.712,47.959,20.582,,False,False,13167.096,18,Japanese Grand Prix
+PER,15.0,107.387,3.0,INTERMEDIATE,8.0,1,True,Red Bull Racing,True,3.0,38.791,48.01,20.586,,False,False,13274.483,18,Japanese Grand Prix
+PER,16.0,107.885,3.0,INTERMEDIATE,9.0,1,True,Red Bull Racing,True,3.0,38.84,48.435,20.61,,False,False,13382.368,18,Japanese Grand Prix
+PER,17.0,108.246,3.0,INTERMEDIATE,10.0,1,True,Red Bull Racing,True,3.0,39.259,48.307,20.68,,False,False,13490.614,18,Japanese Grand Prix
+PER,18.0,108.133,3.0,INTERMEDIATE,11.0,1,True,Red Bull Racing,True,3.0,39.241,48.413,20.479,,False,False,13598.747,18,Japanese Grand Prix
+PER,19.0,108.126,3.0,INTERMEDIATE,12.0,1,True,Red Bull Racing,True,3.0,39.266,48.344,20.516,,False,False,13706.873,18,Japanese Grand Prix
+PER,20.0,107.338,3.0,INTERMEDIATE,13.0,1,True,Red Bull Racing,True,3.0,38.881,48.12,20.337,,False,False,13814.211,18,Japanese Grand Prix
+PER,21.0,108.221,3.0,INTERMEDIATE,14.0,1,True,Red Bull Racing,True,3.0,39.21,48.424,20.587,,False,False,13922.432,18,Japanese Grand Prix
+PER,22.0,107.591,3.0,INTERMEDIATE,15.0,1,True,Red Bull Racing,True,3.0,39.322,48.001,20.268,,False,False,14030.023,18,Japanese Grand Prix
+PER,23.0,108.819,3.0,INTERMEDIATE,16.0,1,True,Red Bull Racing,True,3.0,39.796,48.351,20.672,,False,False,14138.842,18,Japanese Grand Prix
+PER,24.0,109.857,3.0,INTERMEDIATE,17.0,1,True,Red Bull Racing,True,3.0,40.142,48.834,20.881,,False,False,14248.699,18,Japanese Grand Prix
+PER,25.0,109.165,3.0,INTERMEDIATE,18.0,1,True,Red Bull Racing,True,3.0,39.927,48.472,20.766,,False,False,14357.864,18,Japanese Grand Prix
+PER,26.0,109.258,3.0,INTERMEDIATE,19.0,1,True,Red Bull Racing,True,3.0,39.979,48.527,20.752,,False,False,14467.122,18,Japanese Grand Prix
+PER,27.0,109.491,3.0,INTERMEDIATE,20.0,1,True,Red Bull Racing,True,3.0,40.529,48.166,20.796,,False,False,14576.613,18,Japanese Grand Prix
+PER,28.0,110.319,3.0,INTERMEDIATE,21.0,1,True,Red Bull Racing,True,3.0,40.032,49.081,21.206,,False,False,14686.932,18,Japanese Grand Prix
+ALO,1.0,139.009,1.0,INTERMEDIATE,1.0,124,False,Alpine,True,6.0,,60.452,30.444,,False,False,3894.871,18,Japanese Grand Prix
+ALO,2.0,180.255,1.0,INTERMEDIATE,2.0,45,False,Alpine,True,6.0,49.66,87.765,42.83,,True,False,4075.126,18,Japanese Grand Prix
+ALO,3.0,,2.0,WET,1.0,1,False,Alpine,True,6.0,,78.212,30.558,,False,True,11826.417,18,Japanese Grand Prix
+ALO,4.0,167.059,2.0,WET,2.0,1,True,Alpine,True,6.0,58.89,74.878,33.291,,False,False,11993.476,18,Japanese Grand Prix
+ALO,5.0,174.046,2.0,WET,3.0,1,True,Alpine,True,6.0,55.53,82.265,36.251,,False,False,12167.522,18,Japanese Grand Prix
+ALO,6.0,116.3,2.0,WET,4.0,1,True,Alpine,True,6.0,42.983,50.855,22.462,,False,False,12283.822,18,Japanese Grand Prix
+ALO,7.0,113.315,2.0,WET,5.0,1,True,Alpine,True,5.0,41.123,50.44,21.752,,False,False,12397.137,18,Japanese Grand Prix
+ALO,8.0,112.739,2.0,WET,6.0,1,False,Alpine,True,1.0,39.631,50.014,23.094,,True,False,12509.876,18,Japanese Grand Prix
+ALO,9.0,132.203,3.0,INTERMEDIATE,1.0,1,False,Alpine,True,9.0,62.258,48.924,21.021,,False,True,12642.079,18,Japanese Grand Prix
+ALO,10.0,108.497,3.0,INTERMEDIATE,2.0,1,True,Alpine,True,8.0,39.505,48.089,20.903,,False,False,12750.576,18,Japanese Grand Prix
+ALO,11.0,109.226,3.0,INTERMEDIATE,3.0,1,True,Alpine,True,7.0,39.49,49.016,20.72,,False,False,12859.802,18,Japanese Grand Prix
+ALO,12.0,106.995,3.0,INTERMEDIATE,4.0,1,True,Alpine,True,7.0,38.846,47.717,20.432,,False,False,12966.797,18,Japanese Grand Prix
+ALO,13.0,106.965,3.0,INTERMEDIATE,5.0,1,True,Alpine,True,7.0,38.75,47.762,20.453,,False,False,13073.762,18,Japanese Grand Prix
+ALO,14.0,106.677,3.0,INTERMEDIATE,6.0,1,True,Alpine,True,7.0,38.459,47.688,20.53,,False,False,13180.439,18,Japanese Grand Prix
+ALO,15.0,107.525,3.0,INTERMEDIATE,7.0,1,True,Alpine,True,7.0,38.754,47.827,20.944,,False,False,13287.964,18,Japanese Grand Prix
+ALO,16.0,108.376,3.0,INTERMEDIATE,8.0,1,True,Alpine,True,7.0,39.097,48.479,20.8,,False,False,13396.34,18,Japanese Grand Prix
+ALO,17.0,108.726,3.0,INTERMEDIATE,9.0,1,True,Alpine,True,7.0,39.287,48.217,21.222,,False,False,13505.066,18,Japanese Grand Prix
+ALO,18.0,108.852,3.0,INTERMEDIATE,10.0,1,True,Alpine,True,7.0,39.624,48.289,20.939,,False,False,13613.918,18,Japanese Grand Prix
+ALO,19.0,108.965,3.0,INTERMEDIATE,11.0,1,True,Alpine,True,7.0,39.364,48.368,21.233,,False,False,13722.883,18,Japanese Grand Prix
+ALO,20.0,109.103,3.0,INTERMEDIATE,12.0,1,True,Alpine,True,7.0,39.83,48.646,20.627,,False,False,13831.986,18,Japanese Grand Prix
+ALO,21.0,109.038,3.0,INTERMEDIATE,13.0,1,True,Alpine,True,7.0,39.681,48.44,20.917,,False,False,13941.024,18,Japanese Grand Prix
+ALO,22.0,111.629,3.0,INTERMEDIATE,14.0,1,False,Alpine,True,7.0,39.667,48.632,23.33,,True,False,14052.653,18,Japanese Grand Prix
+ALO,23.0,125.304,4.0,INTERMEDIATE,1.0,1,False,Alpine,True,9.0,58.782,46.377,20.145,,False,True,14177.957,18,Japanese Grand Prix
+ALO,24.0,104.469,4.0,INTERMEDIATE,2.0,1,True,Alpine,True,8.0,37.577,46.504,20.388,,False,False,14282.426,18,Japanese Grand Prix
+ALO,25.0,104.412,4.0,INTERMEDIATE,3.0,1,True,Alpine,True,8.0,37.413,46.521,20.478,,False,False,14386.838,18,Japanese Grand Prix
+ALO,26.0,105.047,4.0,INTERMEDIATE,4.0,1,True,Alpine,True,8.0,37.547,47.034,20.466,,False,False,14491.885,18,Japanese Grand Prix
+ALO,27.0,106.296,4.0,INTERMEDIATE,5.0,1,True,Alpine,True,8.0,38.267,47.299,20.73,,False,False,14598.181,18,Japanese Grand Prix
+ALO,28.0,108.054,4.0,INTERMEDIATE,6.0,1,True,Alpine,True,7.0,38.689,47.779,21.586,,False,False,14706.235,18,Japanese Grand Prix
+LEC,1.0,124.571,1.0,INTERMEDIATE,1.0,124,False,Ferrari,True,2.0,,50.051,32.183,,False,False,3880.422,18,Japanese Grand Prix
+LEC,2.0,183.735,1.0,INTERMEDIATE,2.0,45,False,Ferrari,True,2.0,56.866,85.741,41.128,,True,False,4064.157,18,Japanese Grand Prix
+LEC,3.0,,2.0,WET,1.0,1,False,Ferrari,True,2.0,,75.238,31.994,,False,True,11816.957,18,Japanese Grand Prix
+LEC,4.0,165.976,2.0,WET,2.0,1,True,Ferrari,True,2.0,62.966,71.566,31.444,,False,False,11982.933,18,Japanese Grand Prix
+LEC,5.0,181.833,2.0,WET,3.0,1,True,Ferrari,True,2.0,60.942,84.317,36.574,,False,False,12164.766,18,Japanese Grand Prix
+LEC,6.0,111.393,2.0,WET,4.0,1,True,Ferrari,True,2.0,40.087,49.689,21.617,,False,False,12276.159,18,Japanese Grand Prix
+LEC,7.0,112.863,2.0,WET,5.0,1,False,Ferrari,True,2.0,39.591,49.436,23.836,,True,False,12389.022,18,Japanese Grand Prix
+LEC,8.0,132.483,3.0,INTERMEDIATE,1.0,1,False,Ferrari,True,5.0,62.661,49.13,20.692,,False,True,12521.505,18,Japanese Grand Prix
+LEC,9.0,106.672,3.0,INTERMEDIATE,2.0,1,True,Ferrari,True,2.0,38.309,48.343,20.02,,False,False,12628.177,18,Japanese Grand Prix
+LEC,10.0,104.489,3.0,INTERMEDIATE,3.0,1,True,Ferrari,True,2.0,37.55,46.76,20.179,,False,False,12732.666,18,Japanese Grand Prix
+LEC,11.0,105.481,3.0,INTERMEDIATE,4.0,1,True,Ferrari,True,2.0,37.634,47.612,20.235,,False,False,12838.147,18,Japanese Grand Prix
+LEC,12.0,106.628,3.0,INTERMEDIATE,5.0,1,True,Ferrari,True,2.0,38.022,48.079,20.527,,False,False,12944.775,18,Japanese Grand Prix
+LEC,13.0,107.272,3.0,INTERMEDIATE,6.0,1,True,Ferrari,True,2.0,38.598,48.104,20.57,,False,False,13052.047,18,Japanese Grand Prix
+LEC,14.0,108.247,3.0,INTERMEDIATE,7.0,1,True,Ferrari,True,2.0,39.081,48.61,20.556,,False,False,13160.294,18,Japanese Grand Prix
+LEC,15.0,108.731,3.0,INTERMEDIATE,8.0,1,True,Ferrari,True,2.0,39.376,48.681,20.674,,False,False,13269.025,18,Japanese Grand Prix
+LEC,16.0,108.44,3.0,INTERMEDIATE,9.0,1,True,Ferrari,True,2.0,39.316,48.564,20.56,,False,False,13377.465,18,Japanese Grand Prix
+LEC,17.0,108.644,3.0,INTERMEDIATE,10.0,1,True,Ferrari,True,2.0,39.486,48.491,20.667,,False,False,13486.109,18,Japanese Grand Prix
+LEC,18.0,108.678,3.0,INTERMEDIATE,11.0,1,True,Ferrari,True,2.0,39.513,48.633,20.532,,False,False,13594.787,18,Japanese Grand Prix
+LEC,19.0,108.31,3.0,INTERMEDIATE,12.0,1,True,Ferrari,True,2.0,39.388,48.469,20.453,,False,False,13703.097,18,Japanese Grand Prix
+LEC,20.0,108.442,3.0,INTERMEDIATE,13.0,1,True,Ferrari,True,2.0,39.413,48.369,20.66,,False,False,13811.539,18,Japanese Grand Prix
+LEC,21.0,108.844,3.0,INTERMEDIATE,14.0,1,True,Ferrari,True,2.0,39.712,48.518,20.614,,False,False,13920.383,18,Japanese Grand Prix
+LEC,22.0,108.618,3.0,INTERMEDIATE,15.0,1,True,Ferrari,True,2.0,39.546,48.394,20.678,,False,False,14029.001,18,Japanese Grand Prix
+LEC,23.0,109.122,3.0,INTERMEDIATE,16.0,1,True,Ferrari,True,2.0,39.784,48.682,20.656,,False,False,14138.123,18,Japanese Grand Prix
+LEC,24.0,110.087,3.0,INTERMEDIATE,17.0,1,True,Ferrari,True,2.0,40.313,48.915,20.859,,False,False,14248.21,18,Japanese Grand Prix
+LEC,25.0,109.001,3.0,INTERMEDIATE,18.0,1,True,Ferrari,True,2.0,40.008,48.38,20.613,,False,False,14357.211,18,Japanese Grand Prix
+LEC,26.0,109.523,3.0,INTERMEDIATE,19.0,1,True,Ferrari,True,2.0,40.204,48.566,20.753,,False,False,14466.734,18,Japanese Grand Prix
+LEC,27.0,109.229,3.0,INTERMEDIATE,20.0,1,True,Ferrari,True,2.0,40.203,48.435,20.591,,False,False,14575.963,18,Japanese Grand Prix
+LEC,28.0,110.666,3.0,INTERMEDIATE,21.0,1,True,Ferrari,True,2.0,40.192,49.15,21.324,,False,False,14686.629,18,Japanese Grand Prix
+STR,1.0,150.337,1.0,INTERMEDIATE,1.0,124,False,Aston Martin,True,11.0,,69.085,28.684,,False,False,3906.175,18,Japanese Grand Prix
+STR,2.0,184.261,1.0,INTERMEDIATE,2.0,45,False,Aston Martin,True,11.0,49.516,85.867,48.878,,True,False,4090.436,18,Japanese Grand Prix
+STR,3.0,,2.0,WET,1.0,1,False,Aston Martin,True,11.0,,72.147,29.32,,False,True,11833.573,18,Japanese Grand Prix
+STR,4.0,165.927,2.0,WET,2.0,1,True,Aston Martin,True,11.0,58.837,77.068,30.022,,False,False,11999.5,18,Japanese Grand Prix
+STR,5.0,171.17,2.0,WET,3.0,1,True,Aston Martin,True,11.0,57.884,77.256,36.03,,False,False,12170.67,18,Japanese Grand Prix
+STR,6.0,120.467,2.0,WET,4.0,1,True,Aston Martin,True,12.0,43.86,53.362,23.245,,False,False,12291.137,18,Japanese Grand Prix
+STR,7.0,118.562,2.0,WET,5.0,1,False,Aston Martin,True,13.0,42.121,51.026,25.415,,True,False,12409.699,18,Japanese Grand Prix
+STR,8.0,130.741,3.0,INTERMEDIATE,1.0,1,False,Aston Martin,True,15.0,60.527,48.937,21.277,,False,True,12540.44,18,Japanese Grand Prix
+STR,9.0,108.388,3.0,INTERMEDIATE,2.0,1,True,Aston Martin,True,14.0,39.131,48.116,21.141,,False,False,12648.828,18,Japanese Grand Prix
+STR,10.0,108.474,3.0,INTERMEDIATE,3.0,1,True,Aston Martin,True,13.0,39.243,48.328,20.903,,False,False,12757.302,18,Japanese Grand Prix
+STR,11.0,109.142,3.0,INTERMEDIATE,4.0,1,True,Aston Martin,True,12.0,40.212,47.869,21.061,,False,False,12866.444,18,Japanese Grand Prix
+STR,12.0,109.389,3.0,INTERMEDIATE,5.0,1,True,Aston Martin,True,12.0,39.792,48.604,20.993,,False,False,12975.833,18,Japanese Grand Prix
+STR,13.0,108.6,3.0,INTERMEDIATE,6.0,1,True,Aston Martin,True,12.0,39.229,48.631,20.74,,False,False,13084.433,18,Japanese Grand Prix
+STR,14.0,109.289,3.0,INTERMEDIATE,7.0,1,True,Aston Martin,True,12.0,39.671,48.738,20.88,,False,False,13193.722,18,Japanese Grand Prix
+STR,15.0,109.281,3.0,INTERMEDIATE,8.0,1,True,Aston Martin,True,12.0,39.664,48.737,20.88,,False,False,13303.003,18,Japanese Grand Prix
+STR,16.0,109.813,3.0,INTERMEDIATE,9.0,1,True,Aston Martin,True,12.0,39.803,49.123,20.887,,False,False,13412.816,18,Japanese Grand Prix
+STR,17.0,109.852,3.0,INTERMEDIATE,10.0,1,True,Aston Martin,True,12.0,40.065,49.052,20.735,,False,False,13522.668,18,Japanese Grand Prix
+STR,18.0,110.399,3.0,INTERMEDIATE,11.0,1,True,Aston Martin,True,12.0,40.217,49.1,21.082,,False,False,13633.067,18,Japanese Grand Prix
+STR,19.0,112.859,3.0,INTERMEDIATE,12.0,1,False,Aston Martin,True,12.0,40.362,48.916,23.581,,True,False,13745.926,18,Japanese Grand Prix
+STR,20.0,125.88,4.0,INTERMEDIATE,1.0,1,False,Aston Martin,True,16.0,58.926,46.63,20.324,,False,True,13871.806,18,Japanese Grand Prix
+STR,21.0,105.205,4.0,INTERMEDIATE,2.0,1,True,Aston Martin,True,15.0,37.912,46.715,20.578,,False,False,13977.011,18,Japanese Grand Prix
+STR,22.0,107.493,4.0,INTERMEDIATE,3.0,1,True,Aston Martin,True,14.0,38.579,48.438,20.476,,False,False,14084.504,18,Japanese Grand Prix
+STR,23.0,107.396,4.0,INTERMEDIATE,4.0,1,True,Aston Martin,True,13.0,38.277,48.026,21.093,,False,False,14191.9,18,Japanese Grand Prix
+STR,24.0,107.181,4.0,INTERMEDIATE,5.0,1,True,Aston Martin,True,12.0,38.816,47.723,20.642,,False,False,14299.081,18,Japanese Grand Prix
+STR,25.0,107.304,4.0,INTERMEDIATE,6.0,1,True,Aston Martin,True,12.0,38.521,48.105,20.678,,False,False,14406.385,18,Japanese Grand Prix
+STR,26.0,108.102,4.0,INTERMEDIATE,7.0,1,True,Aston Martin,True,12.0,38.939,48.358,20.805,,False,False,14514.487,18,Japanese Grand Prix
+STR,27.0,109.672,4.0,INTERMEDIATE,8.0,1,True,Aston Martin,True,12.0,39.407,49.0,21.265,,False,False,14624.159,18,Japanese Grand Prix
+STR,28.0,109.611,4.0,INTERMEDIATE,9.0,1,True,Aston Martin,True,12.0,39.591,49.008,21.012,,False,False,14733.77,18,Japanese Grand Prix
+MAG,1.0,152.254,1.0,INTERMEDIATE,1.0,124,False,Haas F1 Team,True,12.0,,69.58,29.246,,False,False,3908.115,18,Japanese Grand Prix
+MAG,2.0,184.196,1.0,INTERMEDIATE,2.0,45,False,Haas F1 Team,True,12.0,49.176,85.033,49.987,,True,False,4092.311,18,Japanese Grand Prix
+MAG,3.0,,2.0,WET,1.0,1,False,Haas F1 Team,True,12.0,,71.425,29.046,,False,True,11834.684,18,Japanese Grand Prix
+MAG,4.0,166.17,2.0,WET,2.0,1,True,Haas F1 Team,True,12.0,59.277,77.31,29.583,,False,False,12000.854,18,Japanese Grand Prix
+MAG,5.0,170.782,2.0,WET,3.0,1,True,Haas F1 Team,True,12.0,58.61,76.058,36.114,,False,False,12171.636,18,Japanese Grand Prix
+MAG,6.0,118.579,2.0,WET,4.0,1,True,Haas F1 Team,True,11.0,42.973,52.322,23.284,,False,False,12290.215,18,Japanese Grand Prix
+MAG,7.0,118.331,2.0,WET,5.0,1,False,Haas F1 Team,True,11.0,41.712,51.438,25.181,,True,False,12408.546,18,Japanese Grand Prix
+MAG,8.0,133.938,3.0,INTERMEDIATE,1.0,1,False,Haas F1 Team,True,17.0,63.544,48.833,21.561,,False,True,12542.484,18,Japanese Grand Prix
+MAG,9.0,111.148,3.0,INTERMEDIATE,2.0,1,True,Haas F1 Team,True,16.0,40.642,49.389,21.117,,False,False,12653.632,18,Japanese Grand Prix
+MAG,10.0,108.072,3.0,INTERMEDIATE,3.0,1,True,Haas F1 Team,True,15.0,39.097,48.114,20.861,,False,False,12761.704,18,Japanese Grand Prix
+MAG,11.0,108.123,3.0,INTERMEDIATE,4.0,1,True,Haas F1 Team,True,15.0,39.082,48.224,20.817,,False,False,12869.827,18,Japanese Grand Prix
+MAG,12.0,109.322,3.0,INTERMEDIATE,5.0,1,True,Haas F1 Team,True,14.0,39.396,48.952,20.974,,False,False,12979.149,18,Japanese Grand Prix
+MAG,13.0,109.35,3.0,INTERMEDIATE,6.0,1,True,Haas F1 Team,True,14.0,39.492,48.856,21.002,,False,False,13088.499,18,Japanese Grand Prix
+MAG,14.0,109.649,3.0,INTERMEDIATE,7.0,1,True,Haas F1 Team,True,14.0,39.629,49.005,21.015,,False,False,13198.148,18,Japanese Grand Prix
+MAG,15.0,109.655,3.0,INTERMEDIATE,8.0,1,True,Haas F1 Team,True,14.0,39.579,49.072,21.004,,False,False,13307.803,18,Japanese Grand Prix
+MAG,16.0,110.801,3.0,INTERMEDIATE,9.0,1,True,Haas F1 Team,True,14.0,40.484,49.356,20.961,,False,False,13418.604,18,Japanese Grand Prix
+MAG,17.0,110.282,3.0,INTERMEDIATE,10.0,1,True,Haas F1 Team,True,14.0,39.884,49.264,21.134,,False,False,13528.886,18,Japanese Grand Prix
+MAG,18.0,110.493,3.0,INTERMEDIATE,11.0,1,True,Haas F1 Team,True,14.0,39.993,49.408,21.092,,False,False,13639.379,18,Japanese Grand Prix
+MAG,19.0,110.283,3.0,INTERMEDIATE,12.0,1,True,Haas F1 Team,True,14.0,40.096,49.222,20.965,,False,False,13749.662,18,Japanese Grand Prix
+MAG,20.0,110.514,3.0,INTERMEDIATE,13.0,1,True,Haas F1 Team,True,13.0,40.106,49.456,20.952,,False,False,13860.176,18,Japanese Grand Prix
+MAG,21.0,110.526,3.0,INTERMEDIATE,14.0,1,True,Haas F1 Team,True,12.0,39.992,49.344,21.19,,False,False,13970.702,18,Japanese Grand Prix
+MAG,22.0,110.634,3.0,INTERMEDIATE,15.0,1,True,Haas F1 Team,True,12.0,40.51,49.14,20.984,,False,False,14081.336,18,Japanese Grand Prix
+MAG,23.0,110.168,3.0,INTERMEDIATE,16.0,1,True,Haas F1 Team,True,12.0,39.992,49.243,20.933,,False,False,14191.504,18,Japanese Grand Prix
+MAG,24.0,112.046,3.0,INTERMEDIATE,17.0,1,True,Haas F1 Team,True,13.0,41.411,49.521,21.114,,False,False,14303.55,18,Japanese Grand Prix
+MAG,25.0,111.458,3.0,INTERMEDIATE,18.0,1,True,Haas F1 Team,True,14.0,40.301,49.316,21.841,,False,False,14415.008,18,Japanese Grand Prix
+MAG,26.0,110.432,3.0,INTERMEDIATE,19.0,1,True,Haas F1 Team,True,14.0,40.254,49.227,20.951,,False,False,14525.44,18,Japanese Grand Prix
+MAG,27.0,110.317,3.0,INTERMEDIATE,20.0,1,True,Haas F1 Team,True,14.0,40.332,49.081,20.904,,False,False,14635.757,18,Japanese Grand Prix
+MAG,28.0,110.125,3.0,INTERMEDIATE,21.0,1,True,Haas F1 Team,True,14.0,40.014,49.03,21.081,,False,False,14745.882,18,Japanese Grand Prix
+TSU,1.0,147.133,1.0,INTERMEDIATE,1.0,124,False,AlphaTauri,True,9.0,,68.36,27.716,,False,False,3902.949,18,Japanese Grand Prix
+TSU,2.0,180.964,1.0,INTERMEDIATE,2.0,45,False,AlphaTauri,True,9.0,49.115,86.984,44.865,,True,False,4083.913,18,Japanese Grand Prix
+TSU,3.0,,2.0,WET,1.0,1,False,AlphaTauri,True,9.0,,74.608,29.393,,False,True,11831.058,18,Japanese Grand Prix
+TSU,4.0,166.325,2.0,WET,2.0,1,True,AlphaTauri,True,9.0,59.477,75.909,30.939,,False,False,11997.383,18,Japanese Grand Prix
+TSU,5.0,171.856,2.0,WET,3.0,1,True,AlphaTauri,True,9.0,57.861,77.915,36.08,,False,False,12169.239,18,Japanese Grand Prix
+TSU,6.0,119.016,2.0,WET,4.0,1,True,AlphaTauri,True,9.0,44.266,52.323,22.427,,False,False,12288.255,18,Japanese Grand Prix
+TSU,7.0,118.102,2.0,WET,5.0,1,False,AlphaTauri,True,10.0,42.046,51.258,24.798,,True,False,12406.357,18,Japanese Grand Prix
+TSU,8.0,131.821,3.0,INTERMEDIATE,1.0,1,False,AlphaTauri,True,13.0,62.081,48.706,21.034,,False,True,12538.178,18,Japanese Grand Prix
+TSU,9.0,108.188,3.0,INTERMEDIATE,2.0,1,True,AlphaTauri,True,12.0,38.942,48.163,21.083,,False,False,12646.366,18,Japanese Grand Prix
+TSU,10.0,108.667,3.0,INTERMEDIATE,3.0,1,True,AlphaTauri,True,11.0,39.406,48.314,20.947,,False,False,12755.033,18,Japanese Grand Prix
+TSU,11.0,109.599,3.0,INTERMEDIATE,4.0,1,True,AlphaTauri,True,10.0,39.14,48.705,21.754,,False,False,12864.632,18,Japanese Grand Prix
+TSU,12.0,108.769,3.0,INTERMEDIATE,5.0,1,True,AlphaTauri,True,10.0,39.346,48.455,20.968,,False,False,12973.401,18,Japanese Grand Prix
+TSU,13.0,108.535,3.0,INTERMEDIATE,6.0,1,True,AlphaTauri,True,10.0,39.38,48.355,20.8,,False,False,13081.936,18,Japanese Grand Prix
+TSU,14.0,108.974,3.0,INTERMEDIATE,7.0,1,True,AlphaTauri,True,10.0,39.788,48.456,20.73,,False,False,13190.91,18,Japanese Grand Prix
+TSU,15.0,110.662,3.0,INTERMEDIATE,8.0,1,True,AlphaTauri,True,11.0,40.219,49.386,21.057,,False,False,13301.572,18,Japanese Grand Prix
+TSU,16.0,110.166,3.0,INTERMEDIATE,9.0,1,True,AlphaTauri,True,11.0,40.201,48.976,20.989,,False,False,13411.738,18,Japanese Grand Prix
+TSU,17.0,110.093,3.0,INTERMEDIATE,10.0,1,True,AlphaTauri,True,11.0,40.146,49.103,20.844,,False,False,13521.831,18,Japanese Grand Prix
+TSU,18.0,110.158,3.0,INTERMEDIATE,11.0,1,True,AlphaTauri,True,11.0,40.211,48.95,20.997,,False,False,13631.989,18,Japanese Grand Prix
+TSU,19.0,110.089,3.0,INTERMEDIATE,12.0,1,True,AlphaTauri,True,11.0,40.135,48.97,20.984,,False,False,13742.078,18,Japanese Grand Prix
+TSU,20.0,112.768,3.0,INTERMEDIATE,13.0,1,False,AlphaTauri,True,11.0,39.976,49.311,23.481,,True,False,13854.846,18,Japanese Grand Prix
+TSU,21.0,128.07,4.0,INTERMEDIATE,1.0,1,False,AlphaTauri,True,16.0,60.408,47.313,20.349,,False,True,13982.916,18,Japanese Grand Prix
+TSU,22.0,105.893,4.0,INTERMEDIATE,2.0,1,True,AlphaTauri,True,16.0,38.143,47.209,20.541,,False,False,14088.809,18,Japanese Grand Prix
+TSU,23.0,107.606,4.0,INTERMEDIATE,3.0,1,True,AlphaTauri,True,15.0,38.968,48.246,20.392,,False,False,14196.415,18,Japanese Grand Prix
+TSU,24.0,107.919,4.0,INTERMEDIATE,4.0,1,True,AlphaTauri,True,15.0,38.786,48.318,20.815,,False,False,14304.334,18,Japanese Grand Prix
+TSU,25.0,109.217,4.0,INTERMEDIATE,5.0,1,True,AlphaTauri,True,13.0,39.854,48.947,20.416,,False,False,14413.551,18,Japanese Grand Prix
+TSU,26.0,107.094,4.0,INTERMEDIATE,6.0,1,True,AlphaTauri,True,13.0,38.717,47.832,20.545,,False,False,14520.645,18,Japanese Grand Prix
+TSU,27.0,107.181,4.0,INTERMEDIATE,7.0,1,True,AlphaTauri,True,13.0,38.751,47.908,20.522,,False,False,14627.826,18,Japanese Grand Prix
+TSU,28.0,107.639,4.0,INTERMEDIATE,8.0,1,True,AlphaTauri,True,13.0,38.627,48.23,20.782,,False,False,14735.465,18,Japanese Grand Prix
+ALB,1.0,,1.0,INTERMEDIATE,1.0,124,False,Williams,True,,,,,,False,False,3877.92,18,Japanese Grand Prix
+ZHO,1.0,167.346,1.0,INTERMEDIATE,1.0,124,False,Alfa Romeo,True,17.0,,81.076,30.983,,False,False,3923.212,18,Japanese Grand Prix
+ZHO,2.0,180.25,1.0,INTERMEDIATE,2.0,45,False,Alfa Romeo,True,17.0,47.871,78.669,53.71,,True,False,4103.462,18,Japanese Grand Prix
+ZHO,3.0,,2.0,WET,1.0,1,False,Alfa Romeo,True,17.0,,57.602,31.887,,False,True,11846.554,18,Japanese Grand Prix
+ZHO,4.0,165.226,2.0,WET,2.0,1,True,Alfa Romeo,True,17.0,55.336,78.263,31.627,,False,False,12011.78,18,Japanese Grand Prix
+ZHO,5.0,165.737,2.0,WET,3.0,1,True,Alfa Romeo,True,15.0,53.77,77.205,34.762,,False,False,12177.517,18,Japanese Grand Prix
+ZHO,6.0,117.862,2.0,WET,4.0,1,True,Alfa Romeo,True,14.0,42.425,51.946,23.491,,False,False,12295.379,18,Japanese Grand Prix
+ZHO,7.0,114.06,2.0,WET,5.0,1,True,Alfa Romeo,True,12.0,41.123,50.753,22.184,,False,False,12409.439,18,Japanese Grand Prix
+ZHO,8.0,113.826,2.0,WET,6.0,1,True,Alfa Romeo,True,6.0,41.422,50.135,22.269,,False,False,12523.265,18,Japanese Grand Prix
+ZHO,9.0,115.996,2.0,WET,7.0,1,False,Alfa Romeo,True,7.0,40.45,50.884,24.662,,True,False,12639.261,18,Japanese Grand Prix
+ZHO,10.0,130.761,3.0,INTERMEDIATE,1.0,1,False,Alfa Romeo,True,18.0,62.202,47.84,20.719,,False,True,12770.022,18,Japanese Grand Prix
+ZHO,11.0,106.008,3.0,INTERMEDIATE,2.0,1,True,Alfa Romeo,True,18.0,38.144,47.534,20.33,,False,False,12876.03,18,Japanese Grand Prix
+ZHO,12.0,106.748,3.0,INTERMEDIATE,3.0,1,True,Alfa Romeo,True,17.0,38.144,47.957,20.647,,False,False,12982.778,18,Japanese Grand Prix
+ZHO,13.0,107.972,3.0,INTERMEDIATE,4.0,1,True,Alfa Romeo,True,17.0,38.784,48.548,20.64,,False,False,13090.75,18,Japanese Grand Prix
+ZHO,14.0,109.791,3.0,INTERMEDIATE,5.0,1,True,Alfa Romeo,True,17.0,39.676,49.23,20.885,,False,False,13200.541,18,Japanese Grand Prix
+ZHO,15.0,109.907,3.0,INTERMEDIATE,6.0,1,True,Alfa Romeo,True,17.0,39.987,49.123,20.797,,False,False,13310.448,18,Japanese Grand Prix
+ZHO,16.0,110.717,3.0,INTERMEDIATE,7.0,1,True,Alfa Romeo,True,17.0,40.198,49.435,21.084,,False,False,13421.165,18,Japanese Grand Prix
+ZHO,17.0,111.073,3.0,INTERMEDIATE,8.0,1,True,Alfa Romeo,True,17.0,40.403,49.615,21.055,,False,False,13532.238,18,Japanese Grand Prix
+ZHO,18.0,113.531,3.0,INTERMEDIATE,9.0,1,False,Alfa Romeo,True,17.0,40.409,49.485,23.637,,True,False,13645.769,18,Japanese Grand Prix
+ZHO,19.0,127.171,4.0,INTERMEDIATE,1.0,1,False,Alfa Romeo,True,18.0,60.17,46.922,20.079,,False,True,13772.94,18,Japanese Grand Prix
+ZHO,20.0,104.411,4.0,INTERMEDIATE,2.0,1,True,Alfa Romeo,True,17.0,37.586,46.792,20.033,,False,False,13877.351,18,Japanese Grand Prix
+ZHO,21.0,106.464,4.0,INTERMEDIATE,3.0,1,True,Alfa Romeo,True,17.0,38.375,47.733,20.356,,False,False,13983.815,18,Japanese Grand Prix
+ZHO,22.0,106.607,4.0,INTERMEDIATE,4.0,1,True,Alfa Romeo,True,17.0,38.351,47.794,20.462,,False,False,14090.422,18,Japanese Grand Prix
+ZHO,23.0,107.907,4.0,INTERMEDIATE,5.0,1,True,Alfa Romeo,True,17.0,38.633,48.435,20.839,,False,False,14198.329,18,Japanese Grand Prix
+ZHO,24.0,110.415,4.0,INTERMEDIATE,6.0,1,True,Alfa Romeo,True,16.0,40.211,49.212,20.992,,False,False,14308.744,18,Japanese Grand Prix
+ZHO,25.0,107.595,4.0,INTERMEDIATE,7.0,1,True,Alfa Romeo,True,16.0,39.016,48.149,20.43,,False,False,14416.339,18,Japanese Grand Prix
+ZHO,26.0,110.343,4.0,INTERMEDIATE,8.0,1,True,Alfa Romeo,True,16.0,40.15,49.281,20.912,,False,False,14526.682,18,Japanese Grand Prix
+ZHO,27.0,110.38,4.0,INTERMEDIATE,9.0,1,True,Alfa Romeo,True,16.0,40.628,49.143,20.609,,False,False,14637.062,18,Japanese Grand Prix
+ZHO,28.0,109.847,4.0,INTERMEDIATE,10.0,1,True,Alfa Romeo,True,16.0,40.256,48.809,20.782,,False,False,14746.909,18,Japanese Grand Prix
+RIC,1.0,144.913,1.0,INTERMEDIATE,1.0,124,False,McLaren,True,8.0,,65.062,29.414,,False,False,3900.747,18,Japanese Grand Prix
+RIC,2.0,179.276,1.0,INTERMEDIATE,2.0,45,False,McLaren,True,8.0,49.385,86.382,43.509,,True,False,4080.023,18,Japanese Grand Prix
+RIC,3.0,,2.0,WET,1.0,1,False,McLaren,True,8.0,,75.687,29.898,,False,True,11830.131,18,Japanese Grand Prix
+RIC,4.0,165.979,2.0,WET,2.0,1,True,McLaren,True,8.0,59.02,75.875,31.084,,False,False,11996.11,18,Japanese Grand Prix
+RIC,5.0,172.881,2.0,WET,3.0,1,True,McLaren,True,8.0,58.214,78.096,36.571,,False,False,12168.991,18,Japanese Grand Prix
+RIC,6.0,118.762,2.0,WET,4.0,1,True,McLaren,True,8.0,43.875,52.189,22.698,,False,False,12287.753,18,Japanese Grand Prix
+RIC,7.0,114.988,2.0,WET,5.0,1,True,McLaren,True,8.0,41.596,51.047,22.345,,False,False,12402.741,18,Japanese Grand Prix
+RIC,8.0,115.504,2.0,WET,6.0,1,False,McLaren,True,3.0,40.504,50.31,24.69,,True,False,12518.245,18,Japanese Grand Prix
+RIC,9.0,134.512,3.0,INTERMEDIATE,1.0,1,False,McLaren,True,15.0,64.241,48.985,21.286,,False,True,12652.757,18,Japanese Grand Prix
+RIC,10.0,108.046,3.0,INTERMEDIATE,2.0,1,True,McLaren,True,14.0,39.136,48.053,20.857,,False,False,12760.803,18,Japanese Grand Prix
+RIC,11.0,107.843,3.0,INTERMEDIATE,3.0,1,True,McLaren,True,14.0,39.036,47.988,20.819,,False,False,12868.646,18,Japanese Grand Prix
+RIC,12.0,108.404,3.0,INTERMEDIATE,4.0,1,True,McLaren,True,13.0,39.123,48.44,20.841,,False,False,12977.05,18,Japanese Grand Prix
+RIC,13.0,108.845,3.0,INTERMEDIATE,5.0,1,True,McLaren,True,13.0,39.403,48.505,20.937,,False,False,13085.895,18,Japanese Grand Prix
+RIC,14.0,109.269,3.0,INTERMEDIATE,6.0,1,True,McLaren,True,13.0,39.7,48.771,20.798,,False,False,13195.164,18,Japanese Grand Prix
+RIC,15.0,109.927,3.0,INTERMEDIATE,7.0,1,True,McLaren,True,13.0,39.815,49.101,21.011,,False,False,13305.091,18,Japanese Grand Prix
+RIC,16.0,110.509,3.0,INTERMEDIATE,8.0,1,True,McLaren,True,13.0,40.24,49.464,20.805,,False,False,13415.6,18,Japanese Grand Prix
+RIC,17.0,110.327,3.0,INTERMEDIATE,9.0,1,True,McLaren,True,13.0,40.134,49.391,20.802,,False,False,13525.927,18,Japanese Grand Prix
+RIC,18.0,110.202,3.0,INTERMEDIATE,10.0,1,True,McLaren,True,13.0,40.055,49.206,20.941,,False,False,13636.129,18,Japanese Grand Prix
+RIC,19.0,110.807,3.0,INTERMEDIATE,11.0,1,True,McLaren,True,13.0,40.366,49.571,20.87,,False,False,13746.936,18,Japanese Grand Prix
+RIC,20.0,109.513,3.0,INTERMEDIATE,12.0,1,True,McLaren,True,12.0,39.657,49.09,20.766,,False,False,13856.449,18,Japanese Grand Prix
+RIC,21.0,109.453,3.0,INTERMEDIATE,13.0,1,True,McLaren,True,11.0,39.76,48.947,20.746,,False,False,13965.902,18,Japanese Grand Prix
+RIC,22.0,109.177,3.0,INTERMEDIATE,14.0,1,True,McLaren,True,11.0,39.668,48.742,20.767,,False,False,14075.079,18,Japanese Grand Prix
+RIC,23.0,109.707,3.0,INTERMEDIATE,15.0,1,True,McLaren,True,11.0,39.948,48.961,20.798,,False,False,14184.786,18,Japanese Grand Prix
+RIC,24.0,109.624,3.0,INTERMEDIATE,16.0,1,True,McLaren,True,11.0,39.897,48.721,21.006,,False,False,14294.41,18,Japanese Grand Prix
+RIC,25.0,109.437,3.0,INTERMEDIATE,17.0,1,True,McLaren,True,11.0,40.069,48.534,20.834,,False,False,14403.847,18,Japanese Grand Prix
+RIC,26.0,109.538,3.0,INTERMEDIATE,18.0,1,True,McLaren,True,11.0,40.056,48.613,20.869,,False,False,14513.385,18,Japanese Grand Prix
+RIC,27.0,109.793,3.0,INTERMEDIATE,19.0,1,True,McLaren,True,11.0,40.159,48.78,20.854,,False,False,14623.178,18,Japanese Grand Prix
+RIC,28.0,109.565,3.0,INTERMEDIATE,20.0,1,True,McLaren,True,11.0,40.11,48.622,20.833,,False,False,14732.743,18,Japanese Grand Prix
+OCO,1.0,132.607,1.0,INTERMEDIATE,1.0,124,False,Alpine,True,4.0,,57.19,29.025,,False,False,3888.508,18,Japanese Grand Prix
+OCO,2.0,179.566,1.0,INTERMEDIATE,2.0,45,False,Alpine,True,4.0,52.52,86.381,40.665,,True,False,4068.074,18,Japanese Grand Prix
+OCO,3.0,,2.0,WET,1.0,1,False,Alpine,True,4.0,,76.335,31.657,,False,True,11821.383,18,Japanese Grand Prix
+OCO,4.0,,2.0,WET,2.0,1,False,Alpine,True,4.0,61.31,72.375,31.605,,False,False,11986.613,18,Japanese Grand Prix
+OCO,5.0,180.129,2.0,WET,3.0,1,True,Alpine,True,4.0,59.584,83.472,37.073,,False,False,12166.742,18,Japanese Grand Prix
+OCO,6.0,114.73,2.0,WET,4.0,1,True,Alpine,True,4.0,41.806,50.514,22.41,,False,False,12281.472,18,Japanese Grand Prix
+OCO,7.0,114.89,2.0,WET,5.0,1,False,Alpine,True,4.0,40.19,49.982,24.718,,True,False,12396.362,18,Japanese Grand Prix
+OCO,8.0,131.686,3.0,INTERMEDIATE,1.0,1,False,Alpine,True,8.0,62.274,48.534,20.878,,False,True,12528.048,18,Japanese Grand Prix
+OCO,9.0,108.747,3.0,INTERMEDIATE,2.0,1,True,Alpine,True,5.0,38.791,47.865,22.091,,False,False,12636.795,18,Japanese Grand Prix
+OCO,10.0,108.104,3.0,INTERMEDIATE,3.0,1,True,Alpine,True,4.0,38.584,49.066,20.454,,False,False,12744.899,18,Japanese Grand Prix
+OCO,11.0,106.559,3.0,INTERMEDIATE,4.0,1,True,Alpine,True,4.0,38.142,47.634,20.783,,False,False,12851.458,18,Japanese Grand Prix
+OCO,12.0,107.152,3.0,INTERMEDIATE,5.0,1,True,Alpine,True,4.0,38.377,47.974,20.801,,False,False,12958.61,18,Japanese Grand Prix
+OCO,13.0,107.106,3.0,INTERMEDIATE,6.0,1,True,Alpine,True,4.0,38.468,47.734,20.904,,False,False,13065.716,18,Japanese Grand Prix
+OCO,14.0,107.56,3.0,INTERMEDIATE,7.0,1,True,Alpine,True,4.0,38.618,48.17,20.772,,False,False,13173.276,18,Japanese Grand Prix
+OCO,15.0,108.178,3.0,INTERMEDIATE,8.0,1,True,Alpine,True,4.0,38.877,48.543,20.758,,False,False,13281.454,18,Japanese Grand Prix
+OCO,16.0,108.364,3.0,INTERMEDIATE,9.0,1,True,Alpine,True,4.0,38.858,48.661,20.845,,False,False,13389.818,18,Japanese Grand Prix
+OCO,17.0,108.958,3.0,INTERMEDIATE,10.0,1,True,Alpine,True,4.0,39.09,48.786,21.082,,False,False,13498.776,18,Japanese Grand Prix
+OCO,18.0,108.428,3.0,INTERMEDIATE,11.0,1,True,Alpine,True,4.0,39.213,48.602,20.613,,False,False,13607.204,18,Japanese Grand Prix
+OCO,19.0,109.109,3.0,INTERMEDIATE,12.0,1,True,Alpine,True,4.0,39.229,48.883,20.997,,False,False,13716.313,18,Japanese Grand Prix
+OCO,20.0,109.271,3.0,INTERMEDIATE,13.0,1,True,Alpine,True,4.0,39.277,49.065,20.929,,False,False,13825.584,18,Japanese Grand Prix
+OCO,21.0,109.012,3.0,INTERMEDIATE,14.0,1,True,Alpine,True,4.0,39.433,48.616,20.963,,False,False,13934.596,18,Japanese Grand Prix
+OCO,22.0,109.454,3.0,INTERMEDIATE,15.0,1,True,Alpine,True,4.0,39.52,49.088,20.846,,False,False,14044.05,18,Japanese Grand Prix
+OCO,23.0,109.121,3.0,INTERMEDIATE,16.0,1,True,Alpine,True,4.0,39.724,48.59,20.807,,False,False,14153.171,18,Japanese Grand Prix
+OCO,24.0,109.213,3.0,INTERMEDIATE,17.0,1,True,Alpine,True,4.0,39.639,48.7,20.874,,False,False,14262.384,18,Japanese Grand Prix
+OCO,25.0,109.26,3.0,INTERMEDIATE,18.0,1,True,Alpine,True,4.0,39.796,48.626,20.838,,False,False,14371.644,18,Japanese Grand Prix
+OCO,26.0,109.064,3.0,INTERMEDIATE,19.0,1,True,Alpine,True,4.0,39.668,48.598,20.798,,False,False,14480.708,18,Japanese Grand Prix
+OCO,27.0,109.261,3.0,INTERMEDIATE,20.0,1,True,Alpine,True,4.0,39.721,48.571,20.969,,False,False,14589.969,18,Japanese Grand Prix
+OCO,28.0,109.582,3.0,INTERMEDIATE,21.0,1,True,Alpine,True,4.0,39.607,48.911,21.064,,False,False,14699.551,18,Japanese Grand Prix
+NOR,1.0,154.186,1.0,INTERMEDIATE,1.0,124,False,McLaren,True,13.0,,72.442,29.527,,False,False,3910.045,18,Japanese Grand Prix
+NOR,2.0,183.799,1.0,INTERMEDIATE,2.0,45,False,McLaren,True,13.0,49.675,84.068,50.056,,True,False,4093.844,18,Japanese Grand Prix
+NOR,3.0,,2.0,WET,1.0,1,False,McLaren,True,13.0,,67.825,28.926,,False,True,11835.77,18,Japanese Grand Prix
+NOR,4.0,167.589,2.0,WET,2.0,1,True,McLaren,True,13.0,59.637,77.062,30.89,,False,False,12003.359,18,Japanese Grand Prix
+NOR,5.0,169.411,2.0,WET,3.0,1,True,McLaren,True,13.0,57.057,75.554,36.8,,False,False,12172.77,18,Japanese Grand Prix
+NOR,6.0,122.34,2.0,WET,4.0,1,False,McLaren,True,13.0,42.696,53.606,26.038,,True,False,12295.11,18,Japanese Grand Prix
+NOR,7.0,131.652,3.0,INTERMEDIATE,1.0,1,False,McLaren,True,17.0,61.495,48.905,21.252,,False,True,12426.762,18,Japanese Grand Prix
+NOR,8.0,108.175,3.0,INTERMEDIATE,2.0,1,True,McLaren,True,12.0,38.65,48.517,21.008,,False,False,12534.937,18,Japanese Grand Prix
+NOR,9.0,108.837,3.0,INTERMEDIATE,3.0,1,True,McLaren,True,11.0,39.036,48.557,21.244,,False,False,12643.774,18,Japanese Grand Prix
+NOR,10.0,108.942,3.0,INTERMEDIATE,4.0,1,True,McLaren,True,10.0,39.521,48.57,20.851,,False,False,12752.716,18,Japanese Grand Prix
+NOR,11.0,110.127,3.0,INTERMEDIATE,5.0,1,True,McLaren,True,9.0,39.345,49.719,21.063,,False,False,12862.843,18,Japanese Grand Prix
+NOR,12.0,108.984,3.0,INTERMEDIATE,6.0,1,True,McLaren,True,9.0,39.391,48.674,20.919,,False,False,12971.827,18,Japanese Grand Prix
+NOR,13.0,108.788,3.0,INTERMEDIATE,7.0,1,True,McLaren,True,9.0,39.186,48.723,20.879,,False,False,13080.615,18,Japanese Grand Prix
+NOR,14.0,109.358,3.0,INTERMEDIATE,8.0,1,True,McLaren,True,9.0,39.613,48.834,20.911,,False,False,13189.973,18,Japanese Grand Prix
+NOR,15.0,110.54,3.0,INTERMEDIATE,9.0,1,True,McLaren,True,10.0,39.557,49.234,21.749,,False,False,13300.513,18,Japanese Grand Prix
+NOR,16.0,110.681,3.0,INTERMEDIATE,10.0,1,True,McLaren,True,10.0,40.268,49.35,21.063,,False,False,13411.194,18,Japanese Grand Prix
+NOR,17.0,110.079,3.0,INTERMEDIATE,11.0,1,True,McLaren,True,10.0,39.724,49.376,20.979,,False,False,13521.273,18,Japanese Grand Prix
+NOR,18.0,109.576,3.0,INTERMEDIATE,12.0,1,True,McLaren,True,10.0,39.801,48.831,20.944,,False,False,13630.849,18,Japanese Grand Prix
+NOR,19.0,109.717,3.0,INTERMEDIATE,13.0,1,True,McLaren,True,10.0,40.054,48.812,20.851,,False,False,13740.566,18,Japanese Grand Prix
+NOR,20.0,109.913,3.0,INTERMEDIATE,14.0,1,True,McLaren,True,10.0,39.898,49.057,20.958,,False,False,13850.479,18,Japanese Grand Prix
+NOR,21.0,109.723,3.0,INTERMEDIATE,15.0,1,True,McLaren,True,10.0,39.893,48.96,20.87,,False,False,13960.202,18,Japanese Grand Prix
+NOR,22.0,109.339,3.0,INTERMEDIATE,16.0,1,True,McLaren,True,10.0,39.726,48.655,20.958,,False,False,14069.541,18,Japanese Grand Prix
+NOR,23.0,110.008,3.0,INTERMEDIATE,17.0,1,True,McLaren,True,10.0,39.657,48.602,21.749,,False,False,14179.549,18,Japanese Grand Prix
+NOR,24.0,109.644,3.0,INTERMEDIATE,18.0,1,True,McLaren,True,10.0,39.929,48.676,21.039,,False,False,14289.193,18,Japanese Grand Prix
+NOR,25.0,110.13,3.0,INTERMEDIATE,19.0,1,True,McLaren,True,10.0,40.236,48.78,21.114,,False,False,14399.323,18,Japanese Grand Prix
+NOR,26.0,110.237,3.0,INTERMEDIATE,20.0,1,True,McLaren,True,10.0,40.278,48.729,21.23,,False,False,14509.56,18,Japanese Grand Prix
+NOR,27.0,110.435,3.0,INTERMEDIATE,21.0,1,True,McLaren,True,10.0,40.325,48.689,21.421,,False,False,14619.995,18,Japanese Grand Prix
+NOR,28.0,110.653,3.0,INTERMEDIATE,22.0,1,True,McLaren,True,10.0,40.314,48.88,21.459,,False,False,14730.648,18,Japanese Grand Prix
+HAM,1.0,136.349,1.0,INTERMEDIATE,2.0,124,False,Mercedes,False,5.0,,60.145,28.703,,False,False,3892.2,18,Japanese Grand Prix
+HAM,2.0,180.131,1.0,INTERMEDIATE,3.0,45,False,Mercedes,False,5.0,51.124,86.698,42.309,,True,False,4072.331,18,Japanese Grand Prix
+HAM,3.0,,2.0,WET,2.0,1,False,Mercedes,False,5.0,,76.066,32.622,,False,True,11824.586,18,Japanese Grand Prix
+HAM,4.0,166.392,2.0,WET,3.0,1,True,Mercedes,False,5.0,59.333,74.64,32.419,,False,False,11990.978,18,Japanese Grand Prix
+HAM,5.0,176.122,2.0,WET,4.0,1,True,Mercedes,False,5.0,56.319,83.056,36.747,,False,False,12167.1,18,Japanese Grand Prix
+HAM,6.0,115.173,2.0,WET,5.0,1,True,Mercedes,False,5.0,42.391,50.761,22.021,,False,False,12282.273,18,Japanese Grand Prix
+HAM,7.0,115.367,2.0,WET,6.0,1,False,Mercedes,False,6.0,40.756,50.278,24.333,,True,False,12397.64,18,Japanese Grand Prix
+HAM,8.0,132.216,3.0,INTERMEDIATE,4.0,1,False,Mercedes,False,9.0,62.594,48.545,21.077,,False,True,12529.856,18,Japanese Grand Prix
+HAM,9.0,107.518,3.0,INTERMEDIATE,5.0,1,True,Mercedes,False,6.0,38.683,47.631,21.204,,False,False,12637.374,18,Japanese Grand Prix
+HAM,10.0,109.566,3.0,INTERMEDIATE,6.0,1,True,Mercedes,False,5.0,38.889,48.525,22.152,,False,False,12746.94,18,Japanese Grand Prix
+HAM,11.0,105.53,3.0,INTERMEDIATE,7.0,1,True,Mercedes,False,5.0,37.815,47.23,20.485,,False,False,12852.47,18,Japanese Grand Prix
+HAM,12.0,107.03,3.0,INTERMEDIATE,8.0,1,True,Mercedes,False,5.0,38.58,47.924,20.526,,False,False,12959.5,18,Japanese Grand Prix
+HAM,13.0,106.816,3.0,INTERMEDIATE,9.0,1,True,Mercedes,False,5.0,38.421,47.845,20.55,,False,False,13066.316,18,Japanese Grand Prix
+HAM,14.0,107.378,3.0,INTERMEDIATE,10.0,1,True,Mercedes,False,5.0,38.837,48.047,20.494,,False,False,13173.694,18,Japanese Grand Prix
+HAM,15.0,108.212,3.0,INTERMEDIATE,11.0,1,True,Mercedes,False,5.0,39.195,48.132,20.885,,False,False,13281.906,18,Japanese Grand Prix
+HAM,16.0,108.283,3.0,INTERMEDIATE,12.0,1,True,Mercedes,False,5.0,39.207,48.287,20.789,,False,False,13390.189,18,Japanese Grand Prix
+HAM,17.0,108.915,3.0,INTERMEDIATE,13.0,1,True,Mercedes,False,5.0,39.316,48.293,21.306,,False,False,13499.104,18,Japanese Grand Prix
+HAM,18.0,108.663,3.0,INTERMEDIATE,14.0,1,True,Mercedes,False,5.0,39.681,48.06,20.922,,False,False,13607.767,18,Japanese Grand Prix
+HAM,19.0,108.808,3.0,INTERMEDIATE,15.0,1,True,Mercedes,False,5.0,39.421,48.18,21.207,,False,False,13716.575,18,Japanese Grand Prix
+HAM,20.0,109.315,3.0,INTERMEDIATE,16.0,1,True,Mercedes,False,5.0,39.789,48.365,21.161,,False,False,13825.89,18,Japanese Grand Prix
+HAM,21.0,109.202,3.0,INTERMEDIATE,17.0,1,True,Mercedes,False,5.0,39.698,48.598,20.906,,False,False,13935.092,18,Japanese Grand Prix
+HAM,22.0,109.239,3.0,INTERMEDIATE,18.0,1,True,Mercedes,False,5.0,39.481,49.034,20.724,,False,False,14044.331,18,Japanese Grand Prix
+HAM,23.0,109.38,3.0,INTERMEDIATE,19.0,1,True,Mercedes,False,5.0,40.0,48.541,20.839,,False,False,14153.711,18,Japanese Grand Prix
+HAM,24.0,108.944,3.0,INTERMEDIATE,20.0,1,True,Mercedes,False,5.0,39.558,48.441,20.945,,False,False,14262.655,18,Japanese Grand Prix
+HAM,25.0,109.457,3.0,INTERMEDIATE,21.0,1,True,Mercedes,False,5.0,40.124,48.643,20.69,,False,False,14372.112,18,Japanese Grand Prix
+HAM,26.0,109.461,3.0,INTERMEDIATE,22.0,1,True,Mercedes,False,5.0,39.764,48.411,21.286,,False,False,14481.573,18,Japanese Grand Prix
+HAM,27.0,108.784,3.0,INTERMEDIATE,23.0,1,True,Mercedes,False,5.0,39.179,48.734,20.871,,False,False,14590.357,18,Japanese Grand Prix
+HAM,28.0,109.835,3.0,INTERMEDIATE,24.0,1,True,Mercedes,False,5.0,39.431,48.806,21.598,,False,False,14700.192,18,Japanese Grand Prix
+MSC,1.0,148.607,1.0,INTERMEDIATE,1.0,124,False,Haas F1 Team,True,10.0,,68.938,28.217,,False,False,3904.477,18,Japanese Grand Prix
+MSC,2.0,182.728,1.0,INTERMEDIATE,2.0,45,False,Haas F1 Team,True,10.0,49.489,85.907,47.332,,True,False,4087.205,18,Japanese Grand Prix
+MSC,3.0,,2.0,WET,1.0,1,False,Haas F1 Team,True,10.0,,73.371,29.059,,False,True,11831.806,18,Japanese Grand Prix
+MSC,4.0,166.339,2.0,WET,2.0,1,True,Haas F1 Team,True,10.0,59.376,76.975,29.988,,False,False,11998.145,18,Japanese Grand Prix
+MSC,5.0,171.933,2.0,WET,3.0,1,True,Haas F1 Team,True,10.0,57.8,77.771,36.362,,False,False,12170.078,18,Japanese Grand Prix
+MSC,6.0,119.53,2.0,WET,4.0,1,True,Haas F1 Team,True,10.0,43.772,52.635,23.123,,False,False,12289.608,18,Japanese Grand Prix
+MSC,7.0,115.038,2.0,WET,5.0,1,True,Haas F1 Team,True,9.0,41.561,51.226,22.251,,False,False,12404.646,18,Japanese Grand Prix
+MSC,8.0,113.513,2.0,WET,6.0,1,True,Haas F1 Team,True,2.0,40.957,50.665,21.891,,False,False,12518.159,18,Japanese Grand Prix
+MSC,9.0,114.213,2.0,WET,7.0,1,True,Haas F1 Team,True,3.0,41.281,50.929,22.003,,False,False,12632.372,18,Japanese Grand Prix
+MSC,10.0,114.672,2.0,WET,8.0,1,True,Haas F1 Team,True,6.0,41.346,50.894,22.432,,False,False,12747.044,18,Japanese Grand Prix
+MSC,11.0,120.481,2.0,WET,9.0,1,False,Haas F1 Team,True,13.0,42.023,52.914,25.544,,True,False,12867.525,18,Japanese Grand Prix
+MSC,12.0,129.854,3.0,INTERMEDIATE,1.0,1,False,Haas F1 Team,True,18.0,61.802,47.177,20.875,,False,True,12997.379,18,Japanese Grand Prix
+MSC,13.0,106.545,3.0,INTERMEDIATE,2.0,1,True,Haas F1 Team,True,18.0,38.13,47.404,21.011,,False,False,13103.924,18,Japanese Grand Prix
+MSC,14.0,107.094,3.0,INTERMEDIATE,3.0,1,True,Haas F1 Team,True,18.0,38.371,47.542,21.181,,False,False,13211.018,18,Japanese Grand Prix
+MSC,15.0,108.285,3.0,INTERMEDIATE,4.0,1,True,Haas F1 Team,True,18.0,39.194,48.041,21.05,,False,False,13319.303,18,Japanese Grand Prix
+MSC,16.0,108.209,3.0,INTERMEDIATE,5.0,1,True,Haas F1 Team,True,18.0,39.35,47.938,20.921,,False,False,13427.512,18,Japanese Grand Prix
+MSC,17.0,109.17,3.0,INTERMEDIATE,6.0,1,True,Haas F1 Team,True,18.0,39.482,48.584,21.104,,False,False,13536.682,18,Japanese Grand Prix
+MSC,18.0,109.611,3.0,INTERMEDIATE,7.0,1,True,Haas F1 Team,True,18.0,39.707,48.766,21.138,,False,False,13646.293,18,Japanese Grand Prix
+MSC,19.0,109.631,3.0,INTERMEDIATE,8.0,1,True,Haas F1 Team,True,17.0,39.734,48.565,21.332,,False,False,13755.924,18,Japanese Grand Prix
+MSC,20.0,109.941,3.0,INTERMEDIATE,9.0,1,True,Haas F1 Team,True,15.0,39.615,49.007,21.319,,False,False,13865.865,18,Japanese Grand Prix
+MSC,21.0,109.53,3.0,INTERMEDIATE,10.0,1,True,Haas F1 Team,True,14.0,39.803,48.442,21.285,,False,False,13975.395,18,Japanese Grand Prix
+MSC,22.0,111.956,3.0,INTERMEDIATE,11.0,1,True,Haas F1 Team,True,15.0,39.951,50.881,21.124,,False,False,14087.351,18,Japanese Grand Prix
+MSC,23.0,110.564,3.0,INTERMEDIATE,12.0,1,True,Haas F1 Team,True,16.0,39.572,49.02,21.972,,False,False,14197.915,18,Japanese Grand Prix
+MSC,24.0,111.728,3.0,INTERMEDIATE,13.0,1,True,Haas F1 Team,True,18.0,40.311,49.197,22.22,,False,False,14309.643,18,Japanese Grand Prix
+MSC,25.0,111.77,3.0,INTERMEDIATE,14.0,1,True,Haas F1 Team,True,18.0,41.161,49.148,21.461,,False,False,14421.413,18,Japanese Grand Prix
+MSC,26.0,110.227,3.0,INTERMEDIATE,15.0,1,True,Haas F1 Team,True,18.0,40.091,48.97,21.166,,False,False,14531.64,18,Japanese Grand Prix
+MSC,27.0,110.332,3.0,INTERMEDIATE,16.0,1,True,Haas F1 Team,True,18.0,40.199,48.992,21.141,,False,False,14641.972,18,Japanese Grand Prix
+MSC,28.0,110.417,3.0,INTERMEDIATE,17.0,1,True,Haas F1 Team,True,18.0,40.067,48.711,21.639,,False,False,14752.389,18,Japanese Grand Prix
+VET,1.0,162.377,1.0,INTERMEDIATE,1.0,124,False,Aston Martin,True,16.0,,73.884,27.027,,False,False,3918.24,18,Japanese Grand Prix
+VET,2.0,183.136,1.0,INTERMEDIATE,2.0,45,False,Aston Martin,True,16.0,51.882,78.504,52.75,,True,False,4101.376,18,Japanese Grand Prix
+VET,3.0,,2.0,WET,1.0,1,False,Aston Martin,True,16.0,,58.601,31.109,,False,True,11844.615,18,Japanese Grand Prix
+VET,4.0,165.568,2.0,WET,2.0,1,True,Aston Martin,True,16.0,56.207,78.332,31.029,,False,False,12010.183,18,Japanese Grand Prix
+VET,5.0,169.39,2.0,WET,3.0,1,False,Aston Martin,True,18.0,54.239,76.999,38.152,,True,False,12179.573,18,Japanese Grand Prix
+VET,6.0,132.958,3.0,INTERMEDIATE,1.0,1,False,Aston Martin,True,17.0,62.386,49.091,21.481,,False,True,12312.531,18,Japanese Grand Prix
+VET,7.0,108.401,3.0,INTERMEDIATE,2.0,1,True,Aston Martin,True,15.0,39.319,48.011,21.071,,False,False,12420.932,18,Japanese Grand Prix
+VET,8.0,110.163,3.0,INTERMEDIATE,3.0,1,True,Aston Martin,True,10.0,40.2,48.568,21.395,,False,False,12531.095,18,Japanese Grand Prix
+VET,9.0,108.638,3.0,INTERMEDIATE,4.0,1,True,Aston Martin,True,8.0,39.68,47.869,21.089,,False,False,12639.733,18,Japanese Grand Prix
+VET,10.0,108.481,3.0,INTERMEDIATE,5.0,1,True,Aston Martin,True,7.0,39.339,47.988,21.154,,False,False,12748.214,18,Japanese Grand Prix
+VET,11.0,110.458,3.0,INTERMEDIATE,6.0,1,True,Aston Martin,True,6.0,41.188,48.414,20.856,,False,False,12858.672,18,Japanese Grand Prix
+VET,12.0,107.053,3.0,INTERMEDIATE,7.0,1,True,Aston Martin,True,6.0,38.634,47.725,20.694,,False,False,12965.725,18,Japanese Grand Prix
+VET,13.0,106.964,3.0,INTERMEDIATE,8.0,1,True,Aston Martin,True,6.0,38.504,47.671,20.789,,False,False,13072.689,18,Japanese Grand Prix
+VET,14.0,106.988,3.0,INTERMEDIATE,9.0,1,True,Aston Martin,True,6.0,38.333,47.81,20.845,,False,False,13179.677,18,Japanese Grand Prix
+VET,15.0,107.746,3.0,INTERMEDIATE,10.0,1,True,Aston Martin,True,6.0,38.582,48.163,21.001,,False,False,13287.423,18,Japanese Grand Prix
+VET,16.0,108.222,3.0,INTERMEDIATE,11.0,1,True,Aston Martin,True,6.0,38.628,48.558,21.036,,False,False,13395.645,18,Japanese Grand Prix
+VET,17.0,108.993,3.0,INTERMEDIATE,12.0,1,True,Aston Martin,True,6.0,39.159,48.596,21.238,,False,False,13504.638,18,Japanese Grand Prix
+VET,18.0,108.714,3.0,INTERMEDIATE,13.0,1,True,Aston Martin,True,6.0,39.014,48.678,21.022,,False,False,13613.352,18,Japanese Grand Prix
+VET,19.0,108.624,3.0,INTERMEDIATE,14.0,1,True,Aston Martin,True,6.0,39.143,48.48,21.001,,False,False,13721.976,18,Japanese Grand Prix
+VET,20.0,109.064,3.0,INTERMEDIATE,15.0,1,True,Aston Martin,True,6.0,39.13,48.854,21.08,,False,False,13831.04,18,Japanese Grand Prix
+VET,21.0,108.803,3.0,INTERMEDIATE,16.0,1,True,Aston Martin,True,6.0,39.219,48.539,21.045,,False,False,13939.843,18,Japanese Grand Prix
+VET,22.0,109.224,3.0,INTERMEDIATE,17.0,1,True,Aston Martin,True,6.0,39.325,48.704,21.195,,False,False,14049.067,18,Japanese Grand Prix
+VET,23.0,108.978,3.0,INTERMEDIATE,18.0,1,True,Aston Martin,True,6.0,39.266,48.689,21.023,,False,False,14158.045,18,Japanese Grand Prix
+VET,24.0,109.423,3.0,INTERMEDIATE,19.0,1,True,Aston Martin,True,6.0,39.431,48.848,21.144,,False,False,14267.468,18,Japanese Grand Prix
+VET,25.0,109.208,3.0,INTERMEDIATE,20.0,1,True,Aston Martin,True,6.0,39.43,48.72,21.058,,False,False,14376.676,18,Japanese Grand Prix
+VET,26.0,109.358,3.0,INTERMEDIATE,21.0,1,True,Aston Martin,True,6.0,39.523,48.77,21.065,,False,False,14486.034,18,Japanese Grand Prix
+VET,27.0,109.822,3.0,INTERMEDIATE,22.0,1,True,Aston Martin,True,6.0,39.667,49.04,21.115,,False,False,14595.856,18,Japanese Grand Prix
+VET,28.0,110.368,3.0,INTERMEDIATE,23.0,1,True,Aston Martin,True,6.0,39.498,48.727,22.143,,False,False,14706.224,18,Japanese Grand Prix
+SAI,1.0,,1.0,INTERMEDIATE,1.0,124,False,Ferrari,True,,,,,,False,False,3877.92,18,Japanese Grand Prix
+LAT,1.0,158.944,1.0,INTERMEDIATE,1.0,124,False,Williams,True,15.0,,73.208,30.693,,False,False,3914.837,18,Japanese Grand Prix
+LAT,2.0,183.734,1.0,INTERMEDIATE,2.0,45,False,Williams,True,15.0,51.339,81.193,51.202,,True,False,4098.571,18,Japanese Grand Prix
+LAT,3.0,,2.0,WET,1.0,1,False,Williams,True,15.0,,58.076,30.026,,False,True,11840.174,18,Japanese Grand Prix
+LAT,4.0,167.472,2.0,WET,2.0,1,True,Williams,True,15.0,58.947,78.392,30.133,,False,False,12007.646,18,Japanese Grand Prix
+LAT,5.0,171.537,2.0,WET,3.0,1,False,Williams,True,17.0,55.548,77.757,38.232,,True,False,12179.183,18,Japanese Grand Prix
+LAT,6.0,135.69,3.0,INTERMEDIATE,1.0,1,False,Williams,True,18.0,64.083,50.282,21.325,,False,True,12314.873,18,Japanese Grand Prix
+LAT,7.0,108.663,3.0,INTERMEDIATE,2.0,1,True,Williams,True,16.0,39.729,48.035,20.899,,False,False,12423.536,18,Japanese Grand Prix
+LAT,8.0,109.015,3.0,INTERMEDIATE,3.0,1,True,Williams,True,11.0,39.485,48.261,21.269,,False,False,12532.551,18,Japanese Grand Prix
+LAT,9.0,110.071,3.0,INTERMEDIATE,4.0,1,True,Williams,True,10.0,40.211,48.83,21.03,,False,False,12642.622,18,Japanese Grand Prix
+LAT,10.0,108.919,3.0,INTERMEDIATE,5.0,1,True,Williams,True,9.0,39.974,48.139,20.806,,False,False,12751.541,18,Japanese Grand Prix
+LAT,11.0,109.947,3.0,INTERMEDIATE,6.0,1,True,Williams,True,8.0,39.53,49.51,20.907,,False,False,12861.488,18,Japanese Grand Prix
+LAT,12.0,108.371,3.0,INTERMEDIATE,7.0,1,True,Williams,True,8.0,39.336,48.113,20.922,,False,False,12969.859,18,Japanese Grand Prix
+LAT,13.0,108.641,3.0,INTERMEDIATE,8.0,1,True,Williams,True,8.0,39.626,48.184,20.831,,False,False,13078.5,18,Japanese Grand Prix
+LAT,14.0,108.606,3.0,INTERMEDIATE,9.0,1,True,Williams,True,8.0,39.771,48.102,20.733,,False,False,13187.106,18,Japanese Grand Prix
+LAT,15.0,109.155,3.0,INTERMEDIATE,10.0,1,True,Williams,True,8.0,39.627,48.616,20.912,,False,False,13296.261,18,Japanese Grand Prix
+LAT,16.0,108.893,3.0,INTERMEDIATE,11.0,1,True,Williams,True,8.0,39.526,48.457,20.91,,False,False,13405.154,18,Japanese Grand Prix
+LAT,17.0,109.366,3.0,INTERMEDIATE,12.0,1,True,Williams,True,8.0,39.716,48.607,21.043,,False,False,13514.52,18,Japanese Grand Prix
+LAT,18.0,109.57,3.0,INTERMEDIATE,13.0,1,True,Williams,True,8.0,39.713,49.005,20.852,,False,False,13624.09,18,Japanese Grand Prix
+LAT,19.0,109.954,3.0,INTERMEDIATE,14.0,1,True,Williams,True,8.0,39.945,48.911,21.098,,False,False,13734.044,18,Japanese Grand Prix
+LAT,20.0,111.084,3.0,INTERMEDIATE,15.0,1,True,Williams,True,9.0,40.499,49.434,21.151,,False,False,13845.128,18,Japanese Grand Prix
+LAT,21.0,110.594,3.0,INTERMEDIATE,16.0,1,True,Williams,True,9.0,40.332,49.033,21.229,,False,False,13955.722,18,Japanese Grand Prix
+LAT,22.0,110.087,3.0,INTERMEDIATE,17.0,1,True,Williams,True,9.0,40.182,48.732,21.173,,False,False,14065.809,18,Japanese Grand Prix
+LAT,23.0,109.876,3.0,INTERMEDIATE,18.0,1,True,Williams,True,8.0,40.042,48.685,21.149,,False,False,14175.685,18,Japanese Grand Prix
+LAT,24.0,111.378,3.0,INTERMEDIATE,19.0,1,True,Williams,True,9.0,40.971,49.2,21.207,,False,False,14287.063,18,Japanese Grand Prix
+LAT,25.0,110.665,3.0,INTERMEDIATE,20.0,1,True,Williams,True,9.0,40.299,49.129,21.237,,False,False,14397.728,18,Japanese Grand Prix
+LAT,26.0,110.697,3.0,INTERMEDIATE,21.0,1,True,Williams,True,9.0,40.246,49.225,21.226,,False,False,14508.425,18,Japanese Grand Prix
+LAT,27.0,110.878,3.0,INTERMEDIATE,22.0,1,True,Williams,True,9.0,40.321,49.196,21.361,,False,False,14619.303,18,Japanese Grand Prix
+LAT,28.0,110.706,3.0,INTERMEDIATE,23.0,1,True,Williams,True,9.0,40.192,49.287,21.227,,False,False,14730.009,18,Japanese Grand Prix
+RUS,1.0,142.299,1.0,INTERMEDIATE,1.0,124,False,Mercedes,True,7.0,,63.21,29.948,,False,False,3898.154,18,Japanese Grand Prix
+RUS,2.0,179.723,1.0,INTERMEDIATE,2.0,45,False,Mercedes,True,7.0,49.395,87.621,42.707,,True,False,4077.877,18,Japanese Grand Prix
+RUS,3.0,,2.0,WET,1.0,1,False,Mercedes,True,7.0,,78.253,30.78,,False,True,11828.666,18,Japanese Grand Prix
+RUS,4.0,166.511,2.0,WET,2.0,1,True,Mercedes,True,7.0,58.915,75.949,31.647,,False,False,11995.177,18,Japanese Grand Prix
+RUS,5.0,172.98,2.0,WET,3.0,1,True,Mercedes,True,7.0,55.854,80.757,36.369,,False,False,12168.157,18,Japanese Grand Prix
+RUS,6.0,117.437,2.0,WET,4.0,1,True,Mercedes,True,7.0,43.434,51.801,22.202,,False,False,12285.594,18,Japanese Grand Prix
+RUS,7.0,116.796,2.0,WET,5.0,1,False,Mercedes,True,7.0,41.598,50.43,24.768,,True,False,12402.39,18,Japanese Grand Prix
+RUS,8.0,136.643,3.0,INTERMEDIATE,3.0,1,False,Mercedes,False,14.0,66.485,49.106,21.052,,False,True,12539.033,18,Japanese Grand Prix
+RUS,9.0,108.586,3.0,INTERMEDIATE,4.0,1,True,Mercedes,False,13.0,39.421,48.417,20.748,,False,False,12647.619,18,Japanese Grand Prix
+RUS,10.0,108.568,3.0,INTERMEDIATE,5.0,1,True,Mercedes,False,12.0,39.39,48.378,20.8,,False,False,12756.187,18,Japanese Grand Prix
+RUS,11.0,108.944,3.0,INTERMEDIATE,6.0,1,True,Mercedes,False,11.0,39.181,48.615,21.148,,False,False,12865.131,18,Japanese Grand Prix
+RUS,12.0,108.83,3.0,INTERMEDIATE,7.0,1,True,Mercedes,False,11.0,39.667,48.363,20.8,,False,False,12973.961,18,Japanese Grand Prix
+RUS,13.0,108.439,3.0,INTERMEDIATE,8.0,1,True,Mercedes,False,11.0,39.348,48.322,20.769,,False,False,13082.4,18,Japanese Grand Prix
+RUS,14.0,109.056,3.0,INTERMEDIATE,9.0,1,True,Mercedes,False,11.0,39.821,48.555,20.68,,False,False,13191.456,18,Japanese Grand Prix
+RUS,15.0,108.365,3.0,INTERMEDIATE,10.0,1,True,Mercedes,False,9.0,39.376,48.182,20.807,,False,False,13299.821,18,Japanese Grand Prix
+RUS,16.0,108.384,3.0,INTERMEDIATE,11.0,1,True,Mercedes,False,9.0,39.701,48.083,20.6,,False,False,13408.205,18,Japanese Grand Prix
+RUS,17.0,108.416,3.0,INTERMEDIATE,12.0,1,True,Mercedes,False,9.0,39.32,48.369,20.727,,False,False,13516.621,18,Japanese Grand Prix
+RUS,18.0,108.877,3.0,INTERMEDIATE,13.0,1,True,Mercedes,False,9.0,39.373,48.68,20.824,,False,False,13625.498,18,Japanese Grand Prix
+RUS,19.0,109.097,3.0,INTERMEDIATE,14.0,1,True,Mercedes,False,9.0,39.452,48.647,20.998,,False,False,13734.595,18,Japanese Grand Prix
+RUS,20.0,107.622,3.0,INTERMEDIATE,15.0,1,True,Mercedes,False,8.0,39.401,47.585,20.636,,False,False,13842.217,18,Japanese Grand Prix
+RUS,21.0,107.004,3.0,INTERMEDIATE,16.0,1,True,Mercedes,False,8.0,38.618,47.88,20.506,,False,False,13949.221,18,Japanese Grand Prix
+RUS,22.0,107.663,3.0,INTERMEDIATE,17.0,1,True,Mercedes,False,8.0,38.902,48.143,20.618,,False,False,14056.884,18,Japanese Grand Prix
+RUS,23.0,108.097,3.0,INTERMEDIATE,18.0,1,True,Mercedes,False,7.0,39.083,48.187,20.827,,False,False,14164.981,18,Japanese Grand Prix
+RUS,24.0,108.055,3.0,INTERMEDIATE,19.0,1,True,Mercedes,False,7.0,39.16,48.161,20.734,,False,False,14273.036,18,Japanese Grand Prix
+RUS,25.0,108.738,3.0,INTERMEDIATE,20.0,1,True,Mercedes,False,7.0,39.309,48.456,20.973,,False,False,14381.774,18,Japanese Grand Prix
+RUS,26.0,107.709,3.0,INTERMEDIATE,21.0,1,True,Mercedes,False,7.0,39.113,48.094,20.502,,False,False,14489.483,18,Japanese Grand Prix
+RUS,27.0,108.359,3.0,INTERMEDIATE,22.0,1,True,Mercedes,False,7.0,39.238,48.343,20.778,,False,False,14597.842,18,Japanese Grand Prix
+RUS,28.0,109.685,3.0,INTERMEDIATE,23.0,1,True,Mercedes,False,8.0,40.517,48.488,20.68,,False,False,14707.527,18,Japanese Grand Prix
+BOT,1.0,156.668,1.0,INTERMEDIATE,1.0,124,False,Alfa Romeo,True,14.0,,71.79,30.112,,False,False,3912.511,18,Japanese Grand Prix
+BOT,2.0,182.908,1.0,INTERMEDIATE,2.0,45,False,Alfa Romeo,True,14.0,51.626,81.54,49.742,,True,False,4095.419,18,Japanese Grand Prix
+BOT,3.0,,2.0,WET,1.0,1,False,Alfa Romeo,True,14.0,,65.045,29.191,,False,True,11837.574,18,Japanese Grand Prix
+BOT,4.0,166.418,2.0,WET,2.0,1,True,Alfa Romeo,True,14.0,59.454,78.168,28.796,,False,False,12003.992,18,Japanese Grand Prix
+BOT,5.0,171.638,2.0,WET,3.0,1,True,Alfa Romeo,True,14.0,57.148,79.369,35.121,,False,False,12175.63,18,Japanese Grand Prix
+BOT,6.0,122.174,2.0,WET,4.0,1,False,Alfa Romeo,True,16.0,42.539,52.888,26.747,,True,False,12297.804,18,Japanese Grand Prix
+BOT,7.0,132.897,3.0,INTERMEDIATE,1.0,1,False,Alfa Romeo,True,18.0,62.623,48.918,21.356,,False,True,12430.701,18,Japanese Grand Prix
+BOT,8.0,110.819,3.0,INTERMEDIATE,2.0,1,True,Alfa Romeo,True,16.0,40.59,48.841,21.388,,False,False,12541.52,18,Japanese Grand Prix
+BOT,9.0,112.751,3.0,INTERMEDIATE,3.0,1,True,Alfa Romeo,True,17.0,41.303,50.29,21.158,,False,False,12654.271,18,Japanese Grand Prix
+BOT,10.0,108.646,3.0,INTERMEDIATE,4.0,1,True,Alfa Romeo,True,16.0,39.934,47.762,20.95,,False,False,12762.917,18,Japanese Grand Prix
+BOT,11.0,107.82,3.0,INTERMEDIATE,5.0,1,True,Alfa Romeo,True,16.0,39.123,47.943,20.754,,False,False,12870.737,18,Japanese Grand Prix
+BOT,12.0,108.891,3.0,INTERMEDIATE,6.0,1,True,Alfa Romeo,True,15.0,39.265,48.636,20.99,,False,False,12979.628,18,Japanese Grand Prix
+BOT,13.0,109.344,3.0,INTERMEDIATE,7.0,1,True,Alfa Romeo,True,15.0,39.638,48.588,21.118,,False,False,13088.972,18,Japanese Grand Prix
+BOT,14.0,109.695,3.0,INTERMEDIATE,8.0,1,True,Alfa Romeo,True,15.0,39.751,48.767,21.177,,False,False,13198.667,18,Japanese Grand Prix
+BOT,15.0,109.576,3.0,INTERMEDIATE,9.0,1,True,Alfa Romeo,True,15.0,39.55,48.897,21.129,,False,False,13308.243,18,Japanese Grand Prix
+BOT,16.0,110.856,3.0,INTERMEDIATE,10.0,1,True,Alfa Romeo,True,15.0,40.419,49.193,21.244,,False,False,13419.099,18,Japanese Grand Prix
+BOT,17.0,110.036,3.0,INTERMEDIATE,11.0,1,True,Alfa Romeo,True,15.0,39.953,49.015,21.068,,False,False,13529.135,18,Japanese Grand Prix
+BOT,18.0,110.824,3.0,INTERMEDIATE,12.0,1,True,Alfa Romeo,True,15.0,40.376,49.069,21.379,,False,False,13639.959,18,Japanese Grand Prix
+BOT,19.0,110.28,3.0,INTERMEDIATE,13.0,1,True,Alfa Romeo,True,15.0,40.065,49.068,21.147,,False,False,13750.239,18,Japanese Grand Prix
+BOT,20.0,110.509,3.0,INTERMEDIATE,14.0,1,True,Alfa Romeo,True,14.0,39.923,49.418,21.168,,False,False,13860.748,18,Japanese Grand Prix
+BOT,21.0,110.245,3.0,INTERMEDIATE,15.0,1,True,Alfa Romeo,True,13.0,39.999,48.964,21.282,,False,False,13970.993,18,Japanese Grand Prix
+BOT,22.0,111.033,3.0,INTERMEDIATE,16.0,1,True,Alfa Romeo,True,13.0,40.627,49.207,21.199,,False,False,14082.026,18,Japanese Grand Prix
+BOT,23.0,111.041,3.0,INTERMEDIATE,17.0,1,True,Alfa Romeo,True,14.0,40.006,49.964,21.071,,False,False,14193.067,18,Japanese Grand Prix
+BOT,24.0,111.137,3.0,INTERMEDIATE,18.0,1,True,Alfa Romeo,True,14.0,40.381,49.177,21.579,,False,False,14304.204,18,Japanese Grand Prix
+BOT,25.0,111.252,3.0,INTERMEDIATE,19.0,1,True,Alfa Romeo,True,15.0,41.17,48.962,21.12,,False,False,14415.456,18,Japanese Grand Prix
+BOT,26.0,110.481,3.0,INTERMEDIATE,20.0,1,True,Alfa Romeo,True,15.0,40.47,49.007,21.004,,False,False,14525.937,18,Japanese Grand Prix
+BOT,27.0,110.336,3.0,INTERMEDIATE,21.0,1,True,Alfa Romeo,True,15.0,40.34,48.792,21.204,,False,False,14636.273,18,Japanese Grand Prix
+BOT,28.0,110.089,3.0,INTERMEDIATE,22.0,1,True,Alfa Romeo,True,15.0,40.141,48.945,21.003,,False,False,14746.362,18,Japanese Grand Prix

@@ -1,0 +1,993 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,101.343,1.0,MEDIUM,1.0,12,False,Red Bull Racing,True,1.0,,40.647,33.198,,False,False,3861.756,19,United States Grand Prix
+VER,2.0,101.696,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,1.0,27.804,40.703,33.189,,False,False,3963.452,19,United States Grand Prix
+VER,3.0,101.893,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,1.0,27.91,40.636,33.347,,False,False,4065.345,19,United States Grand Prix
+VER,4.0,102.581,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,1.0,28.03,40.805,33.746,,False,False,4167.926,19,United States Grand Prix
+VER,5.0,102.87,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,1.0,28.203,41.199,33.468,,False,False,4270.796,19,United States Grand Prix
+VER,6.0,102.826,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,1.0,28.026,41.091,33.709,,False,False,4373.622,19,United States Grand Prix
+VER,7.0,102.314,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,1.0,27.879,40.93,33.505,,False,False,4475.936,19,United States Grand Prix
+VER,8.0,102.83,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,1.0,28.139,41.029,33.662,,False,False,4578.766,19,United States Grand Prix
+VER,9.0,102.412,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,1.0,27.87,40.943,33.599,,False,False,4681.178,19,United States Grand Prix
+VER,10.0,102.492,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,1.0,27.827,41.055,33.61,,False,False,4783.67,19,United States Grand Prix
+VER,11.0,102.583,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,27.818,41.199,33.566,,False,False,4886.253,19,United States Grand Prix
+VER,12.0,103.011,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,1.0,27.819,41.238,33.954,,False,False,4989.264,19,United States Grand Prix
+VER,13.0,102.675,1.0,MEDIUM,13.0,1,False,Red Bull Racing,True,1.0,27.756,41.146,33.773,,True,False,5091.939,19,United States Grand Prix
+VER,14.0,122.112,2.0,HARD,1.0,1,False,Red Bull Racing,True,2.0,47.83,40.746,33.536,,False,True,5214.051,19,United States Grand Prix
+VER,15.0,102.424,2.0,HARD,2.0,1,True,Red Bull Racing,True,1.0,28.194,40.771,33.459,,False,False,5316.475,19,United States Grand Prix
+VER,16.0,101.905,2.0,HARD,3.0,1,True,Red Bull Racing,True,1.0,27.775,40.698,33.432,,False,False,5418.38,19,United States Grand Prix
+VER,17.0,102.483,2.0,HARD,4.0,1,True,Red Bull Racing,True,1.0,27.736,41.244,33.503,,False,False,5520.863,19,United States Grand Prix
+VER,18.0,119.72,2.0,HARD,5.0,124,False,Red Bull Racing,True,2.0,27.775,41.41,50.535,,False,False,5640.583,19,United States Grand Prix
+VER,19.0,164.08,2.0,HARD,6.0,4,False,Red Bull Racing,True,1.0,41.246,68.175,54.659,,False,False,5804.663,19,United States Grand Prix
+VER,20.0,156.056,2.0,HARD,7.0,4,False,Red Bull Racing,True,1.0,43.275,61.523,51.258,,False,False,5960.719,19,United States Grand Prix
+VER,21.0,161.966,2.0,HARD,8.0,41,False,Red Bull Racing,True,1.0,41.782,58.117,62.067,,False,False,6122.685,19,United States Grand Prix
+VER,22.0,122.17,2.0,HARD,9.0,124,False,Red Bull Racing,True,1.0,27.556,40.603,54.011,,False,False,6244.855,19,United States Grand Prix
+VER,23.0,171.677,2.0,HARD,10.0,4,False,Red Bull Racing,True,1.0,40.184,80.243,51.25,,False,False,6416.532,19,United States Grand Prix
+VER,24.0,172.898,2.0,HARD,11.0,4,False,Red Bull Racing,True,1.0,43.7,78.668,50.53,,False,False,6589.43,19,United States Grand Prix
+VER,25.0,157.141,2.0,HARD,12.0,41,False,Red Bull Racing,True,1.0,41.411,59.566,56.164,,False,False,6746.571,19,United States Grand Prix
+VER,26.0,101.378,2.0,HARD,13.0,1,True,Red Bull Racing,True,1.0,27.618,40.554,33.206,,False,False,6847.949,19,United States Grand Prix
+VER,27.0,101.505,2.0,HARD,14.0,1,True,Red Bull Racing,True,1.0,27.525,40.59,33.39,,False,False,6949.454,19,United States Grand Prix
+VER,28.0,101.538,2.0,HARD,15.0,1,True,Red Bull Racing,True,1.0,27.519,40.536,33.483,,False,False,7050.992,19,United States Grand Prix
+VER,29.0,101.045,2.0,HARD,16.0,1,True,Red Bull Racing,True,1.0,27.467,40.485,33.093,,False,False,7152.037,19,United States Grand Prix
+VER,30.0,101.184,2.0,HARD,17.0,1,True,Red Bull Racing,True,1.0,27.379,40.537,33.268,,False,False,7253.221,19,United States Grand Prix
+VER,31.0,101.411,2.0,HARD,18.0,1,True,Red Bull Racing,True,1.0,27.329,40.647,33.435,,False,False,7354.632,19,United States Grand Prix
+VER,32.0,101.338,2.0,HARD,19.0,1,True,Red Bull Racing,True,1.0,27.392,40.642,33.304,,False,False,7455.97,19,United States Grand Prix
+VER,33.0,101.721,2.0,HARD,20.0,1,True,Red Bull Racing,True,1.0,27.497,40.918,33.306,,False,False,7557.691,19,United States Grand Prix
+VER,34.0,101.242,2.0,HARD,21.0,1,True,Red Bull Racing,True,1.0,27.341,40.654,33.247,,False,False,7658.933,19,United States Grand Prix
+VER,35.0,101.289,2.0,HARD,22.0,1,False,Red Bull Racing,True,1.0,27.217,40.75,33.322,,True,False,7760.222,19,United States Grand Prix
+VER,36.0,127.712,3.0,MEDIUM,1.0,1,False,Red Bull Racing,True,6.0,55.406,39.764,32.542,,False,True,7887.934,19,United States Grand Prix
+VER,37.0,99.541,3.0,MEDIUM,2.0,1,True,Red Bull Racing,True,5.0,26.879,39.756,32.906,,False,False,7987.475,19,United States Grand Prix
+VER,38.0,100.211,3.0,MEDIUM,3.0,1,True,Red Bull Racing,True,5.0,27.016,40.029,33.166,,False,False,8087.686,19,United States Grand Prix
+VER,39.0,100.337,3.0,MEDIUM,4.0,1,True,Red Bull Racing,True,3.0,27.319,40.105,32.913,,False,False,8188.023,19,United States Grand Prix
+VER,40.0,100.108,3.0,MEDIUM,5.0,1,True,Red Bull Racing,True,3.0,26.976,40.228,32.904,,False,False,8288.131,19,United States Grand Prix
+VER,41.0,100.077,3.0,MEDIUM,6.0,1,True,Red Bull Racing,True,3.0,27.037,40.24,32.8,,False,False,8388.208,19,United States Grand Prix
+VER,42.0,100.01,3.0,MEDIUM,7.0,1,True,Red Bull Racing,True,2.0,27.022,40.296,32.692,,False,False,8488.218,19,United States Grand Prix
+VER,43.0,99.776,3.0,MEDIUM,8.0,1,True,Red Bull Racing,True,2.0,26.893,40.124,32.759,,False,False,8587.994,19,United States Grand Prix
+VER,44.0,100.41,3.0,MEDIUM,9.0,1,True,Red Bull Racing,True,2.0,27.078,40.394,32.938,,False,False,8688.404,19,United States Grand Prix
+VER,45.0,99.986,3.0,MEDIUM,10.0,1,True,Red Bull Racing,True,2.0,27.067,40.212,32.707,,False,False,8788.39,19,United States Grand Prix
+VER,46.0,99.945,3.0,MEDIUM,11.0,1,True,Red Bull Racing,True,2.0,26.941,40.222,32.782,,False,False,8888.335,19,United States Grand Prix
+VER,47.0,100.058,3.0,MEDIUM,12.0,1,True,Red Bull Racing,True,2.0,26.877,40.333,32.848,,False,False,8988.393,19,United States Grand Prix
+VER,48.0,100.271,3.0,MEDIUM,13.0,1,True,Red Bull Racing,True,2.0,27.039,40.439,32.793,,False,False,9088.664,19,United States Grand Prix
+VER,49.0,100.23,3.0,MEDIUM,14.0,1,True,Red Bull Racing,True,2.0,27.027,40.227,32.976,,False,False,9188.894,19,United States Grand Prix
+VER,50.0,100.83,3.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,26.958,40.416,33.456,,False,False,9289.724,19,United States Grand Prix
+VER,51.0,100.152,3.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,27.036,40.284,32.832,,False,False,9389.876,19,United States Grand Prix
+VER,52.0,100.431,3.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,27.038,40.381,33.012,,False,False,9490.307,19,United States Grand Prix
+VER,53.0,100.297,3.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,27.119,40.142,33.036,,False,False,9590.604,19,United States Grand Prix
+VER,54.0,100.168,3.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,27.021,40.127,33.02,,False,False,9690.772,19,United States Grand Prix
+VER,55.0,100.674,3.0,MEDIUM,20.0,1,True,Red Bull Racing,True,1.0,27.163,40.409,33.102,,False,False,9791.446,19,United States Grand Prix
+VER,56.0,100.654,3.0,MEDIUM,21.0,1,True,Red Bull Racing,True,1.0,27.118,40.46,33.076,,False,False,9892.1,19,United States Grand Prix
+GAS,1.0,108.408,1.0,MEDIUM,1.0,12,False,AlphaTauri,True,8.0,,42.475,34.029,,False,False,3868.821,19,United States Grand Prix
+GAS,2.0,104.501,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,8.0,28.382,41.783,34.336,,False,False,3973.322,19,United States Grand Prix
+GAS,3.0,103.602,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,8.0,28.33,41.145,34.127,,False,False,4076.924,19,United States Grand Prix
+GAS,4.0,103.571,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,7.0,28.121,40.995,34.455,,False,False,4180.495,19,United States Grand Prix
+GAS,5.0,106.435,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,9.0,28.39,42.894,35.151,,False,False,4286.93,19,United States Grand Prix
+GAS,6.0,104.44,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,9.0,28.294,41.654,34.492,,False,False,4391.37,19,United States Grand Prix
+GAS,7.0,103.604,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,8.0,28.137,41.325,34.142,,False,False,4494.974,19,United States Grand Prix
+GAS,8.0,104.596,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,8.0,28.527,41.694,34.375,,False,False,4599.57,19,United States Grand Prix
+GAS,9.0,105.019,1.0,MEDIUM,9.0,1,True,AlphaTauri,True,8.0,28.647,41.945,34.427,,False,False,4704.589,19,United States Grand Prix
+GAS,10.0,104.23,1.0,MEDIUM,10.0,1,True,AlphaTauri,True,8.0,28.448,41.519,34.263,,False,False,4808.819,19,United States Grand Prix
+GAS,11.0,104.328,1.0,MEDIUM,11.0,1,False,AlphaTauri,True,8.0,28.344,41.82,34.164,,True,False,4913.147,19,United States Grand Prix
+GAS,12.0,122.948,2.0,HARD,2.0,1,False,AlphaTauri,False,13.0,47.64,41.52,33.788,,False,True,5036.095,19,United States Grand Prix
+GAS,13.0,103.808,2.0,HARD,3.0,1,True,AlphaTauri,False,13.0,28.258,41.371,34.179,,False,False,5139.903,19,United States Grand Prix
+GAS,14.0,103.743,2.0,HARD,4.0,1,True,AlphaTauri,False,13.0,28.32,41.428,33.995,,False,False,5243.646,19,United States Grand Prix
+GAS,15.0,103.974,2.0,HARD,5.0,1,True,AlphaTauri,False,12.0,28.259,41.559,34.156,,False,False,5347.62,19,United States Grand Prix
+GAS,16.0,103.878,2.0,HARD,6.0,1,True,AlphaTauri,False,12.0,28.156,41.581,34.141,,False,False,5451.498,19,United States Grand Prix
+GAS,17.0,103.587,2.0,HARD,7.0,12,True,AlphaTauri,False,11.0,28.206,40.964,34.417,,False,False,5555.085,19,United States Grand Prix
+GAS,18.0,128.477,2.0,HARD,8.0,24,False,AlphaTauri,False,11.0,28.362,54.435,45.68,,False,False,5683.562,19,United States Grand Prix
+GAS,19.0,140.99,2.0,HARD,9.0,4,False,AlphaTauri,False,8.0,38.935,55.83,46.225,,False,False,5824.552,19,United States Grand Prix
+GAS,20.0,150.948,2.0,HARD,10.0,4,False,AlphaTauri,False,8.0,36.152,62.757,52.039,,False,False,5975.5,19,United States Grand Prix
+GAS,21.0,150.583,2.0,HARD,11.0,41,False,AlphaTauri,False,8.0,35.769,59.415,55.399,,False,False,6126.083,19,United States Grand Prix
+GAS,22.0,128.449,2.0,HARD,12.0,124,False,AlphaTauri,False,7.0,29.254,44.839,54.356,,False,False,6254.532,19,United States Grand Prix
+GAS,23.0,172.927,2.0,HARD,13.0,4,False,AlphaTauri,False,7.0,36.891,86.464,49.572,,False,False,6427.459,19,United States Grand Prix
+GAS,24.0,171.367,2.0,HARD,14.0,4,False,AlphaTauri,False,7.0,39.395,83.209,48.763,,False,False,6598.826,19,United States Grand Prix
+GAS,25.0,150.979,2.0,HARD,15.0,41,False,AlphaTauri,False,7.0,39.176,60.732,51.071,,False,False,6749.805,19,United States Grand Prix
+GAS,26.0,104.212,2.0,HARD,16.0,1,True,AlphaTauri,False,7.0,28.66,41.563,33.989,,False,False,6854.017,19,United States Grand Prix
+GAS,27.0,103.433,2.0,HARD,17.0,1,True,AlphaTauri,False,7.0,28.18,41.317,33.936,,False,False,6957.45,19,United States Grand Prix
+GAS,28.0,104.265,2.0,HARD,18.0,1,True,AlphaTauri,False,7.0,28.124,41.866,34.275,,False,False,7061.715,19,United States Grand Prix
+GAS,29.0,102.85,2.0,HARD,19.0,1,True,AlphaTauri,False,7.0,28.057,41.138,33.655,,False,False,7164.565,19,United States Grand Prix
+GAS,30.0,103.439,2.0,HARD,20.0,1,True,AlphaTauri,False,7.0,27.852,41.529,34.058,,False,False,7268.004,19,United States Grand Prix
+GAS,31.0,103.032,2.0,HARD,21.0,1,True,AlphaTauri,False,7.0,27.919,41.352,33.761,,False,False,7371.036,19,United States Grand Prix
+GAS,32.0,103.083,2.0,HARD,22.0,1,False,AlphaTauri,False,7.0,27.928,41.307,33.848,,True,False,7474.119,19,United States Grand Prix
+GAS,33.0,128.784,3.0,HARD,2.0,1,False,AlphaTauri,False,17.0,53.382,41.656,33.746,,False,True,7602.903,19,United States Grand Prix
+GAS,34.0,102.542,3.0,HARD,3.0,1,True,AlphaTauri,False,17.0,27.941,41.108,33.493,,False,False,7705.445,19,United States Grand Prix
+GAS,35.0,102.332,3.0,HARD,4.0,1,True,AlphaTauri,False,17.0,27.922,40.939,33.471,,False,False,7807.777,19,United States Grand Prix
+GAS,36.0,102.537,3.0,HARD,5.0,1,True,AlphaTauri,False,16.0,27.76,41.119,33.658,,False,False,7910.314,19,United States Grand Prix
+GAS,37.0,102.497,3.0,HARD,6.0,1,True,AlphaTauri,False,16.0,27.718,40.921,33.858,,False,False,8012.811,19,United States Grand Prix
+GAS,38.0,103.103,3.0,HARD,7.0,1,True,AlphaTauri,False,15.0,27.777,41.256,34.07,,False,False,8115.914,19,United States Grand Prix
+GAS,39.0,102.474,3.0,HARD,8.0,1,True,AlphaTauri,False,15.0,27.629,41.029,33.816,,False,False,8218.388,19,United States Grand Prix
+GAS,40.0,102.402,3.0,HARD,9.0,1,True,AlphaTauri,False,14.0,27.839,40.77,33.793,,False,False,8320.79,19,United States Grand Prix
+GAS,41.0,102.622,3.0,HARD,10.0,1,True,AlphaTauri,False,14.0,27.727,41.096,33.799,,False,False,8423.412,19,United States Grand Prix
+GAS,42.0,102.72,3.0,HARD,11.0,1,True,AlphaTauri,False,14.0,27.714,41.104,33.902,,False,False,8526.132,19,United States Grand Prix
+GAS,43.0,102.581,3.0,HARD,12.0,1,True,AlphaTauri,False,14.0,27.789,41.153,33.639,,False,False,8628.713,19,United States Grand Prix
+GAS,44.0,102.211,3.0,HARD,13.0,1,True,AlphaTauri,False,14.0,27.761,40.894,33.556,,False,False,8730.924,19,United States Grand Prix
+GAS,45.0,102.876,3.0,HARD,14.0,1,True,AlphaTauri,False,14.0,27.981,41.255,33.64,,False,False,8833.8,19,United States Grand Prix
+GAS,46.0,102.523,3.0,HARD,15.0,1,True,AlphaTauri,False,13.0,27.712,41.244,33.567,,False,False,8936.323,19,United States Grand Prix
+GAS,47.0,102.7,3.0,HARD,16.0,1,True,AlphaTauri,False,13.0,27.756,41.098,33.846,,False,False,9039.023,19,United States Grand Prix
+GAS,48.0,102.348,3.0,HARD,17.0,1,True,AlphaTauri,False,13.0,27.482,41.15,33.716,,False,False,9141.371,19,United States Grand Prix
+GAS,49.0,102.169,3.0,HARD,18.0,1,True,AlphaTauri,False,13.0,27.532,40.971,33.666,,False,False,9243.54,19,United States Grand Prix
+GAS,50.0,102.069,3.0,HARD,19.0,1,True,AlphaTauri,False,13.0,27.411,40.966,33.692,,False,False,9345.609,19,United States Grand Prix
+GAS,51.0,102.904,3.0,HARD,20.0,1,True,AlphaTauri,False,13.0,27.642,41.15,34.112,,False,False,9448.513,19,United States Grand Prix
+GAS,52.0,103.311,3.0,HARD,21.0,1,True,AlphaTauri,False,13.0,27.735,41.018,34.558,,False,False,9551.824,19,United States Grand Prix
+GAS,53.0,104.175,3.0,HARD,22.0,1,True,AlphaTauri,False,12.0,27.715,41.281,35.179,,False,False,9655.999,19,United States Grand Prix
+GAS,54.0,103.757,3.0,HARD,23.0,1,True,AlphaTauri,False,12.0,27.997,41.232,34.528,,False,False,9759.756,19,United States Grand Prix
+GAS,55.0,101.674,3.0,HARD,24.0,1,True,AlphaTauri,False,11.0,27.228,40.762,33.684,,False,False,9861.43,19,United States Grand Prix
+GAS,56.0,102.433,3.0,HARD,25.0,1,True,AlphaTauri,False,11.0,27.259,40.894,34.28,,False,False,9963.863,19,United States Grand Prix
+PER,1.0,107.523,1.0,MEDIUM,1.0,12,False,Red Bull Racing,True,7.0,,42.241,33.876,,False,False,3867.936,19,United States Grand Prix
+PER,2.0,103.173,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,6.0,28.427,41.272,33.474,,False,False,3971.109,19,United States Grand Prix
+PER,3.0,102.47,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,6.0,27.937,40.758,33.775,,False,False,4073.579,19,United States Grand Prix
+PER,4.0,102.679,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,5.0,28.083,40.909,33.687,,False,False,4176.258,19,United States Grand Prix
+PER,5.0,103.791,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,5.0,28.117,41.401,34.273,,False,False,4280.049,19,United States Grand Prix
+PER,6.0,102.752,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,4.0,28.068,40.906,33.778,,False,False,4382.801,19,United States Grand Prix
+PER,7.0,102.738,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,4.0,27.899,41.15,33.689,,False,False,4485.539,19,United States Grand Prix
+PER,8.0,103.075,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,4.0,27.845,41.154,34.076,,False,False,4588.614,19,United States Grand Prix
+PER,9.0,103.178,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,4.0,27.871,41.203,34.104,,False,False,4691.792,19,United States Grand Prix
+PER,10.0,103.321,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,4.0,27.853,41.417,34.051,,False,False,4795.113,19,United States Grand Prix
+PER,11.0,103.424,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,4.0,27.937,41.599,33.888,,False,False,4898.537,19,United States Grand Prix
+PER,12.0,103.527,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,4.0,27.94,41.612,33.975,,False,False,5002.064,19,United States Grand Prix
+PER,13.0,103.747,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,3.0,27.836,41.338,34.573,,False,False,5105.811,19,United States Grand Prix
+PER,14.0,102.81,1.0,MEDIUM,14.0,1,False,Red Bull Racing,True,1.0,27.634,41.24,33.936,,True,False,5208.621,19,United States Grand Prix
+PER,15.0,122.16,2.0,HARD,1.0,1,False,Red Bull Racing,True,6.0,47.547,41.291,33.322,,False,True,5330.781,19,United States Grand Prix
+PER,16.0,101.952,2.0,HARD,2.0,1,True,Red Bull Racing,True,5.0,27.772,40.927,33.253,,False,False,5432.733,19,United States Grand Prix
+PER,17.0,102.513,2.0,HARD,3.0,1,True,Red Bull Racing,True,5.0,27.914,41.237,33.362,,False,False,5535.246,19,United States Grand Prix
+PER,18.0,120.356,2.0,HARD,4.0,124,False,Red Bull Racing,True,5.0,27.646,49.942,42.768,,False,False,5655.602,19,United States Grand Prix
+PER,19.0,153.333,2.0,HARD,5.0,4,False,Red Bull Racing,True,3.0,39.387,59.543,54.403,,False,False,5808.935,19,United States Grand Prix
+PER,20.0,155.215,2.0,HARD,6.0,4,False,Red Bull Racing,True,3.0,42.227,61.765,51.223,,False,False,5964.15,19,United States Grand Prix
+PER,21.0,159.844,2.0,HARD,7.0,41,False,Red Bull Racing,True,3.0,40.041,59.006,60.797,,False,False,6123.994,19,United States Grand Prix
+PER,22.0,123.245,2.0,HARD,8.0,124,False,Red Bull Racing,True,3.0,27.958,40.872,54.415,,False,False,6247.239,19,United States Grand Prix
+PER,23.0,172.903,2.0,HARD,9.0,4,False,Red Bull Racing,True,3.0,40.624,80.986,51.293,,False,False,6420.142,19,United States Grand Prix
+PER,24.0,171.072,2.0,HARD,10.0,4,False,Red Bull Racing,True,3.0,42.259,79.009,49.804,,False,False,6591.214,19,United States Grand Prix
+PER,25.0,156.727,2.0,HARD,11.0,41,False,Red Bull Racing,True,3.0,41.554,60.823,54.35,,False,False,6747.941,19,United States Grand Prix
+PER,26.0,102.391,2.0,HARD,12.0,1,True,Red Bull Racing,True,3.0,27.995,40.94,33.456,,False,False,6850.332,19,United States Grand Prix
+PER,27.0,101.809,2.0,HARD,13.0,1,True,Red Bull Racing,True,3.0,27.644,40.946,33.219,,False,False,6952.141,19,United States Grand Prix
+PER,28.0,101.677,2.0,HARD,14.0,1,True,Red Bull Racing,True,3.0,27.395,40.887,33.395,,False,False,7053.818,19,United States Grand Prix
+PER,29.0,102.312,2.0,HARD,15.0,1,True,Red Bull Racing,True,3.0,27.641,41.438,33.233,,False,False,7156.13,19,United States Grand Prix
+PER,30.0,103.39,2.0,HARD,16.0,1,True,Red Bull Racing,True,4.0,27.476,41.905,34.009,,False,False,7259.52,19,United States Grand Prix
+PER,31.0,101.724,2.0,HARD,17.0,1,True,Red Bull Racing,True,4.0,27.308,40.843,33.573,,False,False,7361.244,19,United States Grand Prix
+PER,32.0,102.237,2.0,HARD,18.0,1,True,Red Bull Racing,True,4.0,27.871,41.024,33.342,,False,False,7463.481,19,United States Grand Prix
+PER,33.0,102.044,2.0,HARD,19.0,1,True,Red Bull Racing,True,4.0,27.587,41.042,33.415,,False,False,7565.525,19,United States Grand Prix
+PER,34.0,101.595,2.0,HARD,20.0,1,True,Red Bull Racing,True,4.0,27.551,40.897,33.147,,False,False,7667.12,19,United States Grand Prix
+PER,35.0,101.942,2.0,HARD,21.0,1,True,Red Bull Racing,True,3.0,27.509,41.092,33.341,,False,False,7769.062,19,United States Grand Prix
+PER,36.0,102.246,2.0,HARD,22.0,1,True,Red Bull Racing,True,1.0,27.312,41.426,33.508,,False,False,7871.308,19,United States Grand Prix
+PER,37.0,101.657,2.0,HARD,23.0,1,True,Red Bull Racing,True,1.0,27.43,40.903,33.324,,False,False,7972.965,19,United States Grand Prix
+PER,38.0,101.47,2.0,HARD,24.0,1,False,Red Bull Racing,True,1.0,27.208,40.785,33.477,,True,False,8074.435,19,United States Grand Prix
+PER,39.0,121.04,3.0,MEDIUM,1.0,1,False,Red Bull Racing,True,5.0,48.405,40.069,32.566,,False,True,8195.475,19,United States Grand Prix
+PER,40.0,100.156,3.0,MEDIUM,2.0,1,True,Red Bull Racing,True,5.0,27.178,40.183,32.795,,False,False,8295.631,19,United States Grand Prix
+PER,41.0,100.307,3.0,MEDIUM,3.0,1,True,Red Bull Racing,True,5.0,27.23,40.254,32.823,,False,False,8395.938,19,United States Grand Prix
+PER,42.0,99.657,3.0,MEDIUM,4.0,1,True,Red Bull Racing,True,4.0,27.045,40.205,32.407,,False,False,8495.595,19,United States Grand Prix
+PER,43.0,99.901,3.0,MEDIUM,5.0,1,True,Red Bull Racing,True,4.0,27.141,40.012,32.748,,False,False,8595.496,19,United States Grand Prix
+PER,44.0,99.563,3.0,MEDIUM,6.0,1,True,Red Bull Racing,True,4.0,27.016,40.093,32.454,,False,False,8695.059,19,United States Grand Prix
+PER,45.0,100.31,3.0,MEDIUM,7.0,1,True,Red Bull Racing,True,4.0,27.018,40.455,32.837,,False,False,8795.369,19,United States Grand Prix
+PER,46.0,100.305,3.0,MEDIUM,8.0,1,True,Red Bull Racing,True,4.0,27.183,40.465,32.657,,False,False,8895.674,19,United States Grand Prix
+PER,47.0,99.936,3.0,MEDIUM,9.0,1,True,Red Bull Racing,True,4.0,26.933,40.335,32.668,,False,False,8995.61,19,United States Grand Prix
+PER,48.0,100.042,3.0,MEDIUM,10.0,1,True,Red Bull Racing,True,4.0,27.001,40.3,32.741,,False,False,9095.652,19,United States Grand Prix
+PER,49.0,100.08,3.0,MEDIUM,11.0,1,True,Red Bull Racing,True,4.0,27.014,40.482,32.584,,False,False,9195.732,19,United States Grand Prix
+PER,50.0,100.727,3.0,MEDIUM,12.0,1,True,Red Bull Racing,True,4.0,27.12,40.494,33.113,,False,False,9296.459,19,United States Grand Prix
+PER,51.0,100.511,3.0,MEDIUM,13.0,1,True,Red Bull Racing,True,4.0,27.081,40.691,32.739,,False,False,9396.97,19,United States Grand Prix
+PER,52.0,100.855,3.0,MEDIUM,14.0,1,True,Red Bull Racing,True,4.0,27.033,40.571,33.251,,False,False,9497.825,19,United States Grand Prix
+PER,53.0,100.639,3.0,MEDIUM,15.0,1,True,Red Bull Racing,True,4.0,27.024,40.428,33.187,,False,False,9598.464,19,United States Grand Prix
+PER,54.0,100.724,3.0,MEDIUM,16.0,1,True,Red Bull Racing,True,4.0,27.036,40.647,33.041,,False,False,9699.188,19,United States Grand Prix
+PER,55.0,100.433,3.0,MEDIUM,17.0,1,True,Red Bull Racing,True,4.0,26.963,40.715,32.755,,False,False,9799.621,19,United States Grand Prix
+PER,56.0,100.772,3.0,MEDIUM,18.0,1,True,Red Bull Racing,True,4.0,26.994,40.527,33.251,,False,False,9900.393,19,United States Grand Prix
+ALO,1.0,110.722,1.0,HARD,1.0,12,False,Alpine,True,12.0,,43.013,35.293,,False,False,3871.135,19,United States Grand Prix
+ALO,2.0,105.239,1.0,HARD,2.0,1,True,Alpine,True,12.0,28.614,42.235,34.39,,False,False,3976.374,19,United States Grand Prix
+ALO,3.0,104.501,1.0,HARD,3.0,1,True,Alpine,True,12.0,28.327,41.416,34.758,,False,False,4080.875,19,United States Grand Prix
+ALO,4.0,104.541,1.0,HARD,4.0,1,True,Alpine,True,12.0,28.358,41.64,34.543,,False,False,4185.416,19,United States Grand Prix
+ALO,5.0,104.939,1.0,HARD,5.0,1,True,Alpine,True,11.0,28.563,41.716,34.66,,False,False,4290.355,19,United States Grand Prix
+ALO,6.0,104.505,1.0,HARD,6.0,1,True,Alpine,True,11.0,28.439,41.644,34.422,,False,False,4394.86,19,United States Grand Prix
+ALO,7.0,104.272,1.0,HARD,7.0,1,True,Alpine,True,11.0,28.22,41.646,34.406,,False,False,4499.132,19,United States Grand Prix
+ALO,8.0,104.635,1.0,HARD,8.0,1,True,Alpine,True,11.0,28.416,41.766,34.453,,False,False,4603.767,19,United States Grand Prix
+ALO,9.0,104.471,1.0,HARD,9.0,1,True,Alpine,True,11.0,28.242,41.731,34.498,,False,False,4708.238,19,United States Grand Prix
+ALO,10.0,104.665,1.0,HARD,10.0,1,True,Alpine,True,11.0,28.5,41.714,34.451,,False,False,4812.903,19,United States Grand Prix
+ALO,11.0,104.695,1.0,HARD,11.0,1,True,Alpine,True,10.0,28.281,41.865,34.549,,False,False,4917.598,19,United States Grand Prix
+ALO,12.0,104.846,1.0,HARD,12.0,1,True,Alpine,True,9.0,28.391,41.753,34.702,,False,False,5022.444,19,United States Grand Prix
+ALO,13.0,104.864,1.0,HARD,13.0,1,True,Alpine,True,9.0,28.526,41.827,34.511,,False,False,5127.308,19,United States Grand Prix
+ALO,14.0,103.963,1.0,HARD,14.0,1,True,Alpine,True,8.0,28.313,41.56,34.09,,False,False,5231.271,19,United States Grand Prix
+ALO,15.0,104.004,1.0,HARD,15.0,1,True,Alpine,True,7.0,28.18,41.461,34.363,,False,False,5335.275,19,United States Grand Prix
+ALO,16.0,104.61,1.0,HARD,16.0,1,True,Alpine,True,7.0,28.873,41.299,34.438,,False,False,5439.885,19,United States Grand Prix
+ALO,17.0,104.44,1.0,HARD,17.0,1,True,Alpine,True,7.0,28.0,42.044,34.396,,False,False,5544.325,19,United States Grand Prix
+ALO,18.0,123.212,1.0,HARD,18.0,124,False,Alpine,True,7.0,28.11,53.954,41.148,,True,False,5667.537,19,United States Grand Prix
+ALO,19.0,157.991,2.0,MEDIUM,1.0,4,False,Alpine,True,9.0,57.137,54.976,45.878,,False,True,5825.528,19,United States Grand Prix
+ALO,20.0,151.821,2.0,MEDIUM,2.0,4,False,Alpine,True,9.0,38.335,61.245,52.241,,False,False,5977.349,19,United States Grand Prix
+ALO,21.0,149.043,2.0,MEDIUM,3.0,41,False,Alpine,True,9.0,34.796,60.885,53.362,,False,False,6126.392,19,United States Grand Prix
+ALO,22.0,138.743,2.0,MEDIUM,4.0,124,False,Alpine,True,14.0,28.34,54.153,56.25,,True,False,6265.135,19,United States Grand Prix
+ALO,23.0,179.538,3.0,HARD,1.0,4,False,Alpine,True,17.0,66.087,72.96,40.491,,False,True,6444.673,19,United States Grand Prix
+ALO,24.0,169.704,3.0,HARD,2.0,4,False,Alpine,True,16.0,37.645,87.936,44.123,,False,False,6614.377,19,United States Grand Prix
+ALO,25.0,140.554,3.0,HARD,3.0,41,False,Alpine,True,16.0,37.261,62.065,41.228,,False,False,6754.931,19,United States Grand Prix
+ALO,26.0,105.509,3.0,HARD,4.0,1,True,Alpine,True,16.0,28.655,42.069,34.785,,False,False,6860.44,19,United States Grand Prix
+ALO,27.0,104.982,3.0,HARD,5.0,1,True,Alpine,True,16.0,28.345,41.889,34.748,,False,False,6965.422,19,United States Grand Prix
+ALO,28.0,103.454,3.0,HARD,6.0,1,True,Alpine,True,15.0,28.077,40.837,34.54,,False,False,7068.876,19,United States Grand Prix
+ALO,29.0,103.619,3.0,HARD,7.0,1,True,Alpine,True,15.0,27.902,41.27,34.447,,False,False,7172.495,19,United States Grand Prix
+ALO,30.0,103.983,3.0,HARD,8.0,1,True,Alpine,True,15.0,27.832,41.374,34.777,,False,False,7276.478,19,United States Grand Prix
+ALO,31.0,103.563,3.0,HARD,9.0,1,True,Alpine,True,14.0,27.984,41.253,34.326,,False,False,7380.041,19,United States Grand Prix
+ALO,32.0,103.618,3.0,HARD,10.0,1,True,Alpine,True,14.0,27.817,41.373,34.428,,False,False,7483.659,19,United States Grand Prix
+ALO,33.0,103.27,3.0,HARD,11.0,1,True,Alpine,True,12.0,27.937,41.034,34.299,,False,False,7586.929,19,United States Grand Prix
+ALO,34.0,103.174,3.0,HARD,12.0,1,True,Alpine,True,10.0,28.071,41.353,33.75,,False,False,7690.103,19,United States Grand Prix
+ALO,35.0,103.086,3.0,HARD,13.0,1,True,Alpine,True,9.0,27.958,41.235,33.893,,False,False,7793.189,19,United States Grand Prix
+ALO,36.0,103.235,3.0,HARD,14.0,1,True,Alpine,True,9.0,27.938,41.483,33.814,,False,False,7896.424,19,United States Grand Prix
+ALO,37.0,102.978,3.0,HARD,15.0,1,True,Alpine,True,9.0,27.997,41.09,33.891,,False,False,7999.402,19,United States Grand Prix
+ALO,38.0,102.975,3.0,HARD,16.0,1,True,Alpine,True,9.0,27.912,41.178,33.885,,False,False,8102.377,19,United States Grand Prix
+ALO,39.0,103.117,3.0,HARD,17.0,1,True,Alpine,True,9.0,27.832,41.275,34.01,,False,False,8205.494,19,United States Grand Prix
+ALO,40.0,102.635,3.0,HARD,18.0,1,True,Alpine,True,8.0,27.701,41.176,33.758,,False,False,8308.129,19,United States Grand Prix
+ALO,41.0,102.898,3.0,HARD,19.0,1,True,Alpine,True,8.0,28.024,41.127,33.747,,False,False,8411.027,19,United States Grand Prix
+ALO,42.0,102.637,3.0,HARD,20.0,1,True,Alpine,True,7.0,27.87,40.997,33.77,,False,False,8513.664,19,United States Grand Prix
+ALO,43.0,102.715,3.0,HARD,21.0,1,True,Alpine,True,7.0,27.857,40.98,33.878,,False,False,8616.379,19,United States Grand Prix
+ALO,44.0,102.732,3.0,HARD,22.0,1,True,Alpine,True,7.0,27.919,41.092,33.721,,False,False,8719.111,19,United States Grand Prix
+ALO,45.0,102.005,3.0,HARD,23.0,1,True,Alpine,True,7.0,27.646,40.957,33.402,,False,False,8821.116,19,United States Grand Prix
+ALO,46.0,102.22,3.0,HARD,24.0,1,True,Alpine,True,7.0,27.659,40.856,33.705,,False,False,8923.336,19,United States Grand Prix
+ALO,47.0,102.498,3.0,HARD,25.0,1,True,Alpine,True,7.0,27.624,41.076,33.798,,False,False,9025.834,19,United States Grand Prix
+ALO,48.0,102.029,3.0,HARD,26.0,1,True,Alpine,True,6.0,27.581,40.849,33.599,,False,False,9127.863,19,United States Grand Prix
+ALO,49.0,102.178,3.0,HARD,27.0,1,True,Alpine,True,6.0,27.676,40.859,33.643,,False,False,9230.041,19,United States Grand Prix
+ALO,50.0,102.152,3.0,HARD,28.0,1,True,Alpine,True,6.0,27.609,40.907,33.636,,False,False,9332.193,19,United States Grand Prix
+ALO,51.0,101.804,3.0,HARD,29.0,1,True,Alpine,True,6.0,27.456,40.894,33.454,,False,False,9433.997,19,United States Grand Prix
+ALO,52.0,102.192,3.0,HARD,30.0,1,True,Alpine,True,6.0,27.666,40.81,33.716,,False,False,9536.189,19,United States Grand Prix
+ALO,53.0,102.268,3.0,HARD,31.0,1,True,Alpine,True,6.0,27.551,40.973,33.744,,False,False,9638.457,19,United States Grand Prix
+ALO,54.0,102.467,3.0,HARD,32.0,1,True,Alpine,True,6.0,27.704,40.95,33.813,,False,False,9740.924,19,United States Grand Prix
+ALO,55.0,103.848,3.0,HARD,33.0,1,True,Alpine,True,7.0,27.498,41.699,34.651,,False,False,9844.772,19,United States Grand Prix
+ALO,56.0,102.406,3.0,HARD,34.0,1,True,Alpine,True,7.0,27.419,41.202,33.785,,False,False,9947.178,19,United States Grand Prix
+LEC,1.0,109.474,1.0,MEDIUM,1.0,12,False,Ferrari,True,10.0,,42.548,34.524,,False,False,3869.887,19,United States Grand Prix
+LEC,2.0,104.138,1.0,MEDIUM,2.0,1,True,Ferrari,True,9.0,28.529,41.379,34.23,,False,False,3974.025,19,United States Grand Prix
+LEC,3.0,103.357,1.0,MEDIUM,3.0,1,True,Ferrari,True,9.0,28.277,41.021,34.059,,False,False,4077.382,19,United States Grand Prix
+LEC,4.0,104.133,1.0,MEDIUM,4.0,1,True,Ferrari,True,9.0,28.218,41.362,34.553,,False,False,4181.515,19,United States Grand Prix
+LEC,5.0,103.96,1.0,MEDIUM,5.0,1,True,Ferrari,True,7.0,28.334,41.672,33.954,,False,False,4285.475,19,United States Grand Prix
+LEC,6.0,103.016,1.0,MEDIUM,6.0,1,True,Ferrari,True,7.0,27.975,41.278,33.763,,False,False,4388.491,19,United States Grand Prix
+LEC,7.0,102.669,1.0,MEDIUM,7.0,1,True,Ferrari,True,7.0,27.997,41.077,33.595,,False,False,4491.16,19,United States Grand Prix
+LEC,8.0,103.914,1.0,MEDIUM,8.0,1,True,Ferrari,True,7.0,28.164,41.602,34.148,,False,False,4595.074,19,United States Grand Prix
+LEC,9.0,103.687,1.0,MEDIUM,9.0,1,True,Ferrari,True,7.0,28.081,41.506,34.1,,False,False,4698.761,19,United States Grand Prix
+LEC,10.0,103.466,1.0,MEDIUM,10.0,1,True,Ferrari,True,7.0,28.029,41.378,34.059,,False,False,4802.227,19,United States Grand Prix
+LEC,11.0,103.51,1.0,MEDIUM,11.0,1,True,Ferrari,True,7.0,27.911,41.218,34.381,,False,False,4905.737,19,United States Grand Prix
+LEC,12.0,103.168,1.0,MEDIUM,12.0,1,True,Ferrari,True,6.0,28.063,41.089,34.016,,False,False,5008.905,19,United States Grand Prix
+LEC,13.0,103.821,1.0,MEDIUM,13.0,1,True,Ferrari,True,5.0,28.212,41.478,34.131,,False,False,5112.726,19,United States Grand Prix
+LEC,14.0,103.247,1.0,MEDIUM,14.0,1,True,Ferrari,True,3.0,28.388,41.294,33.565,,False,False,5215.973,19,United States Grand Prix
+LEC,15.0,102.671,1.0,MEDIUM,15.0,1,True,Ferrari,True,2.0,27.798,41.321,33.552,,False,False,5318.644,19,United States Grand Prix
+LEC,16.0,102.546,1.0,MEDIUM,16.0,1,True,Ferrari,True,2.0,27.801,41.265,33.48,,False,False,5421.19,19,United States Grand Prix
+LEC,17.0,103.236,1.0,MEDIUM,17.0,1,True,Ferrari,True,2.0,27.792,41.645,33.799,,False,False,5524.426,19,United States Grand Prix
+LEC,18.0,115.589,1.0,MEDIUM,18.0,124,False,Ferrari,True,1.0,27.63,42.942,45.017,,True,False,5640.015,19,United States Grand Prix
+LEC,19.0,172.392,2.0,HARD,1.0,4,False,Ferrari,True,4.0,56.255,59.489,56.648,,False,True,5812.407,19,United States Grand Prix
+LEC,20.0,153.311,2.0,HARD,2.0,4,False,Ferrari,True,4.0,39.799,62.982,50.53,,False,False,5965.718,19,United States Grand Prix
+LEC,21.0,158.707,2.0,HARD,3.0,41,False,Ferrari,True,4.0,39.788,59.322,59.597,,False,False,6124.425,19,United States Grand Prix
+LEC,22.0,123.674,2.0,HARD,4.0,124,False,Ferrari,True,4.0,28.035,41.093,54.546,,False,False,6248.099,19,United States Grand Prix
+LEC,23.0,173.2,2.0,HARD,5.0,4,False,Ferrari,True,4.0,40.521,81.198,51.481,,False,False,6421.299,19,United States Grand Prix
+LEC,24.0,171.423,2.0,HARD,6.0,4,False,Ferrari,True,4.0,42.197,79.147,50.079,,False,False,6592.722,19,United States Grand Prix
+LEC,25.0,155.638,2.0,HARD,7.0,41,False,Ferrari,True,4.0,40.964,60.831,53.843,,False,False,6748.36,19,United States Grand Prix
+LEC,26.0,102.72,2.0,HARD,8.0,1,True,Ferrari,True,4.0,28.236,40.821,33.663,,False,False,6851.08,19,United States Grand Prix
+LEC,27.0,102.067,2.0,HARD,9.0,1,True,Ferrari,True,4.0,27.673,40.762,33.632,,False,False,6953.147,19,United States Grand Prix
+LEC,28.0,101.568,2.0,HARD,10.0,1,True,Ferrari,True,4.0,27.384,40.606,33.578,,False,False,7054.715,19,United States Grand Prix
+LEC,29.0,102.279,2.0,HARD,11.0,1,True,Ferrari,True,4.0,27.449,40.905,33.925,,False,False,7156.994,19,United States Grand Prix
+LEC,30.0,101.579,2.0,HARD,12.0,1,True,Ferrari,True,3.0,27.256,40.784,33.539,,False,False,7258.573,19,United States Grand Prix
+LEC,31.0,102.023,2.0,HARD,13.0,1,True,Ferrari,True,3.0,27.508,40.804,33.711,,False,False,7360.596,19,United States Grand Prix
+LEC,32.0,101.641,2.0,HARD,14.0,1,True,Ferrari,True,3.0,27.598,40.664,33.379,,False,False,7462.237,19,United States Grand Prix
+LEC,33.0,102.191,2.0,HARD,15.0,1,True,Ferrari,True,3.0,27.554,40.904,33.733,,False,False,7564.428,19,United States Grand Prix
+LEC,34.0,101.596,2.0,HARD,16.0,1,True,Ferrari,True,3.0,27.51,40.62,33.466,,False,False,7666.024,19,United States Grand Prix
+LEC,35.0,102.179,2.0,HARD,17.0,1,False,Ferrari,True,2.0,27.569,40.897,33.713,,True,False,7768.203,19,United States Grand Prix
+LEC,36.0,118.967,3.0,MEDIUM,1.0,1,False,Ferrari,True,5.0,46.834,39.687,32.446,,False,True,7887.17,19,United States Grand Prix
+LEC,37.0,99.731,3.0,MEDIUM,2.0,1,True,Ferrari,True,4.0,27.016,39.897,32.818,,False,False,7986.901,19,United States Grand Prix
+LEC,38.0,100.267,3.0,MEDIUM,3.0,1,True,Ferrari,True,4.0,27.102,40.047,33.118,,False,False,8087.168,19,United States Grand Prix
+LEC,39.0,101.498,3.0,MEDIUM,4.0,1,True,Ferrari,True,4.0,27.48,40.699,33.319,,False,False,8188.666,19,United States Grand Prix
+LEC,40.0,100.242,3.0,MEDIUM,5.0,1,True,Ferrari,True,4.0,27.084,40.101,33.057,,False,False,8288.908,19,United States Grand Prix
+LEC,41.0,100.226,3.0,MEDIUM,6.0,1,True,Ferrari,True,4.0,26.925,40.275,33.026,,False,False,8389.134,19,United States Grand Prix
+LEC,42.0,99.993,3.0,MEDIUM,7.0,1,True,Ferrari,True,3.0,27.03,40.006,32.957,,False,False,8489.127,19,United States Grand Prix
+LEC,43.0,99.838,3.0,MEDIUM,8.0,1,True,Ferrari,True,3.0,26.932,39.993,32.913,,False,False,8588.965,19,United States Grand Prix
+LEC,44.0,100.774,3.0,MEDIUM,9.0,1,True,Ferrari,True,3.0,26.973,40.713,33.088,,False,False,8689.739,19,United States Grand Prix
+LEC,45.0,101.057,3.0,MEDIUM,10.0,1,True,Ferrari,True,3.0,27.126,40.82,33.111,,False,False,8790.796,19,United States Grand Prix
+LEC,46.0,101.25,3.0,MEDIUM,11.0,1,True,Ferrari,True,3.0,27.338,40.771,33.141,,False,False,8892.046,19,United States Grand Prix
+LEC,47.0,100.49,3.0,MEDIUM,12.0,1,True,Ferrari,True,3.0,27.141,40.418,32.931,,False,False,8992.536,19,United States Grand Prix
+LEC,48.0,100.547,3.0,MEDIUM,13.0,1,True,Ferrari,True,3.0,27.226,40.527,32.794,,False,False,9093.083,19,United States Grand Prix
+LEC,49.0,100.702,3.0,MEDIUM,14.0,1,True,Ferrari,True,3.0,27.043,40.703,32.956,,False,False,9193.785,19,United States Grand Prix
+LEC,50.0,100.827,3.0,MEDIUM,15.0,1,True,Ferrari,True,3.0,27.058,40.743,33.026,,False,False,9294.612,19,United States Grand Prix
+LEC,51.0,100.566,3.0,MEDIUM,16.0,1,True,Ferrari,True,3.0,27.134,40.593,32.839,,False,False,9395.178,19,United States Grand Prix
+LEC,52.0,100.54,3.0,MEDIUM,17.0,1,True,Ferrari,True,3.0,27.082,40.456,33.002,,False,False,9495.718,19,United States Grand Prix
+LEC,53.0,100.459,3.0,MEDIUM,18.0,1,True,Ferrari,True,3.0,27.02,40.283,33.156,,False,False,9596.177,19,United States Grand Prix
+LEC,54.0,100.915,3.0,MEDIUM,19.0,1,True,Ferrari,True,3.0,27.156,40.42,33.339,,False,False,9697.092,19,United States Grand Prix
+LEC,55.0,101.062,3.0,MEDIUM,20.0,1,True,Ferrari,True,3.0,27.031,40.921,33.11,,False,False,9798.154,19,United States Grand Prix
+LEC,56.0,101.447,3.0,MEDIUM,21.0,1,True,Ferrari,True,3.0,26.981,41.064,33.402,,False,False,9899.601,19,United States Grand Prix
+STR,1.0,104.253,1.0,MEDIUM,2.0,12,False,Aston Martin,False,3.0,,41.27,33.825,,False,False,3864.666,19,United States Grand Prix
+STR,2.0,103.289,1.0,MEDIUM,3.0,1,True,Aston Martin,False,3.0,28.123,41.422,33.744,,False,False,3967.955,19,United States Grand Prix
+STR,3.0,103.08,1.0,MEDIUM,4.0,1,True,Aston Martin,False,3.0,27.997,41.068,34.015,,False,False,4071.035,19,United States Grand Prix
+STR,4.0,103.296,1.0,MEDIUM,5.0,1,True,Aston Martin,False,3.0,28.024,41.332,33.94,,False,False,4174.331,19,United States Grand Prix
+STR,5.0,105.282,1.0,MEDIUM,6.0,1,True,Aston Martin,False,4.0,28.327,42.135,34.82,,False,False,4279.613,19,United States Grand Prix
+STR,6.0,104.226,1.0,MEDIUM,7.0,1,True,Aston Martin,False,5.0,28.103,41.862,34.261,,False,False,4383.839,19,United States Grand Prix
+STR,7.0,103.607,1.0,MEDIUM,8.0,1,True,Aston Martin,False,5.0,27.897,41.576,34.134,,False,False,4487.446,19,United States Grand Prix
+STR,8.0,104.255,1.0,MEDIUM,9.0,1,True,Aston Martin,False,5.0,28.156,41.609,34.49,,False,False,4591.701,19,United States Grand Prix
+STR,9.0,103.871,1.0,MEDIUM,10.0,1,True,Aston Martin,False,5.0,28.119,41.652,34.1,,False,False,4695.572,19,United States Grand Prix
+STR,10.0,103.76,1.0,MEDIUM,11.0,1,True,Aston Martin,False,5.0,28.014,41.655,34.091,,False,False,4799.332,19,United States Grand Prix
+STR,11.0,103.649,1.0,MEDIUM,12.0,1,True,Aston Martin,False,5.0,27.904,41.642,34.103,,False,False,4902.981,19,United States Grand Prix
+STR,12.0,103.97,1.0,MEDIUM,13.0,1,True,Aston Martin,False,5.0,28.068,41.631,34.271,,False,False,5006.951,19,United States Grand Prix
+STR,13.0,104.495,1.0,MEDIUM,14.0,1,True,Aston Martin,False,4.0,28.146,41.915,34.434,,False,False,5111.446,19,United States Grand Prix
+STR,14.0,105.755,1.0,MEDIUM,15.0,1,True,Aston Martin,False,4.0,29.141,42.148,34.466,,False,False,5217.201,19,United States Grand Prix
+STR,15.0,103.976,1.0,MEDIUM,16.0,1,False,Aston Martin,False,3.0,27.859,41.812,34.305,,True,False,5321.177,19,United States Grand Prix
+STR,16.0,123.237,2.0,MEDIUM,2.0,1,False,Aston Martin,False,8.0,48.719,40.922,33.596,,False,True,5444.414,19,United States Grand Prix
+STR,17.0,103.67,2.0,MEDIUM,3.0,1,True,Aston Martin,False,8.0,28.05,41.401,34.219,,False,False,5548.084,19,United States Grand Prix
+STR,18.0,125.301,2.0,MEDIUM,4.0,124,False,Aston Martin,False,8.0,28.118,52.353,44.83,,False,False,5673.385,19,United States Grand Prix
+STR,19.0,147.182,2.0,MEDIUM,5.0,4,False,Aston Martin,False,7.0,39.348,53.952,53.882,,False,False,5820.567,19,United States Grand Prix
+STR,20.0,151.739,2.0,MEDIUM,6.0,4,False,Aston Martin,False,7.0,37.245,61.841,52.653,,False,False,5972.306,19,United States Grand Prix
+STR,21.0,153.238,2.0,MEDIUM,7.0,41,False,Aston Martin,False,7.0,37.217,58.79,57.231,,False,False,6125.544,19,United States Grand Prix
+STR,22.0,,2.0,MEDIUM,8.0,124,False,Aston Martin,False,,,,,,False,False,6275.544,19,United States Grand Prix
+MAG,1.0,113.674,1.0,HARD,1.0,12,False,Haas F1 Team,True,18.0,,43.985,35.399,,False,False,3874.087,19,United States Grand Prix
+MAG,2.0,106.83,1.0,HARD,2.0,1,True,Haas F1 Team,True,18.0,29.462,42.491,34.877,,False,False,3980.917,19,United States Grand Prix
+MAG,3.0,106.123,1.0,HARD,3.0,1,True,Haas F1 Team,True,19.0,28.766,42.215,35.142,,False,False,4087.04,19,United States Grand Prix
+MAG,4.0,104.962,1.0,HARD,4.0,1,True,Haas F1 Team,True,19.0,28.257,42.142,34.563,,False,False,4192.002,19,United States Grand Prix
+MAG,5.0,105.241,1.0,HARD,5.0,1,True,Haas F1 Team,True,18.0,28.42,42.259,34.562,,False,False,4297.243,19,United States Grand Prix
+MAG,6.0,104.697,1.0,HARD,6.0,1,True,Haas F1 Team,True,18.0,28.37,41.773,34.554,,False,False,4401.94,19,United States Grand Prix
+MAG,7.0,104.73,1.0,HARD,7.0,1,True,Haas F1 Team,True,18.0,28.231,41.774,34.725,,False,False,4506.67,19,United States Grand Prix
+MAG,8.0,105.206,1.0,HARD,8.0,1,True,Haas F1 Team,True,18.0,28.412,42.066,34.728,,False,False,4611.876,19,United States Grand Prix
+MAG,9.0,104.804,1.0,HARD,9.0,1,True,Haas F1 Team,True,18.0,28.031,42.157,34.616,,False,False,4716.68,19,United States Grand Prix
+MAG,10.0,104.717,1.0,HARD,10.0,1,True,Haas F1 Team,True,16.0,28.176,41.857,34.684,,False,False,4821.397,19,United States Grand Prix
+MAG,11.0,104.557,1.0,HARD,11.0,1,True,Haas F1 Team,True,13.0,28.129,41.912,34.516,,False,False,4925.954,19,United States Grand Prix
+MAG,12.0,104.812,1.0,HARD,12.0,1,True,Haas F1 Team,True,12.0,28.108,42.022,34.682,,False,False,5030.766,19,United States Grand Prix
+MAG,13.0,105.585,1.0,HARD,13.0,1,True,Haas F1 Team,True,12.0,28.398,42.306,34.881,,False,False,5136.351,19,United States Grand Prix
+MAG,14.0,104.871,1.0,HARD,14.0,1,True,Haas F1 Team,True,12.0,28.554,42.031,34.286,,False,False,5241.222,19,United States Grand Prix
+MAG,15.0,104.501,1.0,HARD,15.0,1,True,Haas F1 Team,True,11.0,28.23,41.93,34.341,,False,False,5345.723,19,United States Grand Prix
+MAG,16.0,104.747,1.0,HARD,16.0,1,True,Haas F1 Team,True,11.0,28.156,42.183,34.408,,False,False,5450.47,19,United States Grand Prix
+MAG,17.0,105.624,1.0,HARD,17.0,12,True,Haas F1 Team,True,12.0,28.194,42.185,35.245,,False,False,5556.094,19,United States Grand Prix
+MAG,18.0,128.058,1.0,HARD,18.0,24,False,Haas F1 Team,True,12.0,28.252,55.416,44.39,,True,False,5684.152,19,United States Grand Prix
+MAG,19.0,160.078,2.0,MEDIUM,1.0,4,False,Haas F1 Team,True,15.0,59.083,56.103,44.892,,False,True,5844.23,19,United States Grand Prix
+MAG,20.0,143.458,2.0,MEDIUM,2.0,4,False,Haas F1 Team,True,15.0,31.337,59.009,53.112,,False,False,5987.688,19,United States Grand Prix
+MAG,21.0,141.354,2.0,MEDIUM,3.0,41,False,Haas F1 Team,True,15.0,35.914,58.576,46.864,,False,False,6129.042,19,United States Grand Prix
+MAG,22.0,132.106,2.0,MEDIUM,4.0,124,False,Haas F1 Team,True,12.0,28.591,46.695,56.82,,False,False,6261.148,19,United States Grand Prix
+MAG,23.0,173.731,2.0,MEDIUM,5.0,4,False,Haas F1 Team,True,13.0,36.176,92.548,45.007,,False,False,6434.879,19,United States Grand Prix
+MAG,24.0,170.55,2.0,MEDIUM,6.0,4,False,Haas F1 Team,True,12.0,38.241,86.586,45.723,,False,False,6605.429,19,United States Grand Prix
+MAG,25.0,147.379,2.0,MEDIUM,7.0,41,False,Haas F1 Team,True,12.0,38.449,61.284,47.646,,False,False,6752.808,19,United States Grand Prix
+MAG,26.0,104.296,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,11.0,28.502,41.821,33.973,,False,False,6857.104,19,United States Grand Prix
+MAG,27.0,103.914,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,11.0,28.252,41.731,33.931,,False,False,6961.018,19,United States Grand Prix
+MAG,28.0,104.06,2.0,MEDIUM,10.0,1,True,Haas F1 Team,True,11.0,28.25,41.8,34.01,,False,False,7065.078,19,United States Grand Prix
+MAG,29.0,103.709,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,11.0,28.343,41.487,33.879,,False,False,7168.787,19,United States Grand Prix
+MAG,30.0,103.423,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,11.0,28.098,41.381,33.944,,False,False,7272.21,19,United States Grand Prix
+MAG,31.0,103.808,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,11.0,28.095,41.533,34.18,,False,False,7376.018,19,United States Grand Prix
+MAG,32.0,103.752,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,11.0,28.127,41.558,34.067,,False,False,7479.77,19,United States Grand Prix
+MAG,33.0,103.768,2.0,MEDIUM,15.0,1,True,Haas F1 Team,True,10.0,28.174,41.646,33.948,,False,False,7583.538,19,United States Grand Prix
+MAG,34.0,102.9,2.0,MEDIUM,16.0,1,True,Haas F1 Team,True,8.0,27.954,41.421,33.525,,False,False,7686.438,19,United States Grand Prix
+MAG,35.0,102.546,2.0,MEDIUM,17.0,1,True,Haas F1 Team,True,7.0,27.808,41.112,33.626,,False,False,7788.984,19,United States Grand Prix
+MAG,36.0,103.198,2.0,MEDIUM,18.0,1,True,Haas F1 Team,True,7.0,28.019,41.427,33.752,,False,False,7892.182,19,United States Grand Prix
+MAG,37.0,103.583,2.0,MEDIUM,19.0,1,True,Haas F1 Team,True,7.0,28.087,41.536,33.96,,False,False,7995.765,19,United States Grand Prix
+MAG,38.0,102.775,2.0,MEDIUM,20.0,1,True,Haas F1 Team,True,7.0,27.764,41.362,33.649,,False,False,8098.54,19,United States Grand Prix
+MAG,39.0,103.164,2.0,MEDIUM,21.0,1,True,Haas F1 Team,True,7.0,27.763,41.666,33.735,,False,False,8201.704,19,United States Grand Prix
+MAG,40.0,102.889,2.0,MEDIUM,22.0,1,True,Haas F1 Team,True,7.0,27.892,41.237,33.76,,False,False,8304.593,19,United States Grand Prix
+MAG,41.0,103.433,2.0,MEDIUM,23.0,1,True,Haas F1 Team,True,7.0,27.98,41.459,33.994,,False,False,8408.026,19,United States Grand Prix
+MAG,42.0,102.663,2.0,MEDIUM,24.0,1,True,Haas F1 Team,True,6.0,27.853,41.178,33.632,,False,False,8510.689,19,United States Grand Prix
+MAG,43.0,102.879,2.0,MEDIUM,25.0,1,True,Haas F1 Team,True,6.0,27.85,41.269,33.76,,False,False,8613.568,19,United States Grand Prix
+MAG,44.0,102.853,2.0,MEDIUM,26.0,1,True,Haas F1 Team,True,6.0,27.765,41.497,33.591,,False,False,8716.421,19,United States Grand Prix
+MAG,45.0,102.851,2.0,MEDIUM,27.0,1,True,Haas F1 Team,True,6.0,27.831,41.441,33.579,,False,False,8819.272,19,United States Grand Prix
+MAG,46.0,103.049,2.0,MEDIUM,28.0,1,True,Haas F1 Team,True,6.0,27.833,41.39,33.826,,False,False,8922.321,19,United States Grand Prix
+MAG,47.0,102.709,2.0,MEDIUM,29.0,1,True,Haas F1 Team,True,6.0,27.791,41.245,33.673,,False,False,9025.03,19,United States Grand Prix
+MAG,48.0,103.839,2.0,MEDIUM,30.0,1,True,Haas F1 Team,True,7.0,27.795,41.853,34.191,,False,False,9128.869,19,United States Grand Prix
+MAG,49.0,104.264,2.0,MEDIUM,31.0,1,True,Haas F1 Team,True,8.0,27.711,42.024,34.529,,False,False,9233.133,19,United States Grand Prix
+MAG,50.0,103.16,2.0,MEDIUM,32.0,1,True,Haas F1 Team,True,8.0,27.689,41.636,33.835,,False,False,9336.293,19,United States Grand Prix
+MAG,51.0,102.987,2.0,MEDIUM,33.0,1,True,Haas F1 Team,True,8.0,27.587,41.418,33.982,,False,False,9439.28,19,United States Grand Prix
+MAG,52.0,103.129,2.0,MEDIUM,34.0,1,True,Haas F1 Team,True,8.0,27.644,41.312,34.173,,False,False,9542.409,19,United States Grand Prix
+MAG,53.0,103.412,2.0,MEDIUM,35.0,1,True,Haas F1 Team,True,8.0,27.684,41.695,34.033,,False,False,9645.821,19,United States Grand Prix
+MAG,54.0,104.095,2.0,MEDIUM,36.0,1,True,Haas F1 Team,True,8.0,27.779,41.935,34.381,,False,False,9749.916,19,United States Grand Prix
+MAG,55.0,103.091,2.0,MEDIUM,37.0,1,True,Haas F1 Team,True,8.0,27.669,41.39,34.032,,False,False,9853.007,19,United States Grand Prix
+MAG,56.0,104.927,2.0,MEDIUM,38.0,1,True,Haas F1 Team,True,9.0,27.747,41.61,35.57,,False,False,9957.934,19,United States Grand Prix
+TSU,1.0,111.661,1.0,MEDIUM,1.0,12,False,AlphaTauri,True,14.0,,42.698,34.931,,False,False,3872.074,19,United States Grand Prix
+TSU,2.0,105.433,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,14.0,29.031,41.88,34.522,,False,False,3977.507,19,United States Grand Prix
+TSU,3.0,104.598,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,14.0,28.646,41.463,34.489,,False,False,4082.105,19,United States Grand Prix
+TSU,4.0,104.759,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,14.0,28.377,41.568,34.814,,False,False,4186.864,19,United States Grand Prix
+TSU,5.0,104.9,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,13.0,28.36,41.715,34.825,,False,False,4291.764,19,United States Grand Prix
+TSU,6.0,104.645,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,13.0,28.245,41.639,34.761,,False,False,4396.409,19,United States Grand Prix
+TSU,7.0,104.563,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,13.0,28.107,41.816,34.64,,False,False,4500.972,19,United States Grand Prix
+TSU,8.0,105.645,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,13.0,28.544,41.978,35.123,,False,False,4606.617,19,United States Grand Prix
+TSU,9.0,105.218,1.0,MEDIUM,9.0,1,True,AlphaTauri,True,13.0,28.543,41.806,34.869,,False,False,4711.835,19,United States Grand Prix
+TSU,10.0,104.169,1.0,MEDIUM,10.0,1,False,AlphaTauri,True,12.0,28.003,41.81,34.356,,True,False,4816.004,19,United States Grand Prix
+TSU,11.0,123.024,2.0,MEDIUM,1.0,1,False,AlphaTauri,True,16.0,48.161,41.271,33.592,,False,True,4939.028,19,United States Grand Prix
+TSU,12.0,103.15,2.0,MEDIUM,2.0,1,True,AlphaTauri,True,16.0,28.099,41.363,33.688,,False,False,5042.178,19,United States Grand Prix
+TSU,13.0,103.66,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,16.0,28.239,41.592,33.829,,False,False,5145.838,19,United States Grand Prix
+TSU,14.0,103.26,2.0,MEDIUM,4.0,1,True,AlphaTauri,True,16.0,28.185,41.028,34.047,,False,False,5249.098,19,United States Grand Prix
+TSU,15.0,104.402,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,16.0,28.182,41.14,35.08,,False,False,5353.5,19,United States Grand Prix
+TSU,16.0,103.546,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,15.0,28.202,41.057,34.287,,False,False,5457.046,19,United States Grand Prix
+TSU,17.0,103.453,2.0,MEDIUM,7.0,12,True,AlphaTauri,True,14.0,27.957,41.593,33.903,,False,False,5560.499,19,United States Grand Prix
+TSU,18.0,130.543,2.0,MEDIUM,8.0,24,False,AlphaTauri,True,14.0,28.225,57.895,44.423,,False,False,5691.042,19,United States Grand Prix
+TSU,19.0,142.453,2.0,MEDIUM,9.0,4,False,AlphaTauri,True,11.0,39.652,54.101,48.7,,False,False,5833.495,19,United States Grand Prix
+TSU,20.0,149.159,2.0,MEDIUM,10.0,4,False,AlphaTauri,True,11.0,34.463,59.845,54.851,,False,False,5982.654,19,United States Grand Prix
+TSU,21.0,144.587,2.0,MEDIUM,11.0,41,False,AlphaTauri,True,11.0,32.888,60.172,51.527,,False,False,6127.241,19,United States Grand Prix
+TSU,22.0,129.66,2.0,MEDIUM,12.0,124,False,AlphaTauri,True,8.0,28.486,45.656,55.518,,False,False,6256.901,19,United States Grand Prix
+TSU,23.0,173.33,2.0,MEDIUM,13.0,4,False,AlphaTauri,True,8.0,37.162,86.495,49.673,,False,False,6430.231,19,United States Grand Prix
+TSU,24.0,170.242,2.0,MEDIUM,14.0,4,False,AlphaTauri,True,8.0,39.916,81.429,48.897,,False,False,6600.473,19,United States Grand Prix
+TSU,25.0,150.784,2.0,MEDIUM,15.0,41,False,AlphaTauri,True,8.0,39.655,60.262,50.867,,False,False,6751.257,19,United States Grand Prix
+TSU,26.0,103.517,2.0,MEDIUM,16.0,1,True,AlphaTauri,True,8.0,28.188,41.291,34.038,,False,False,6854.774,19,United States Grand Prix
+TSU,27.0,103.469,2.0,MEDIUM,17.0,1,True,AlphaTauri,True,8.0,28.056,41.407,34.006,,False,False,6958.243,19,United States Grand Prix
+TSU,28.0,104.158,2.0,MEDIUM,18.0,1,True,AlphaTauri,True,8.0,28.087,41.361,34.71,,False,False,7062.401,19,United States Grand Prix
+TSU,29.0,103.117,2.0,MEDIUM,19.0,1,True,AlphaTauri,True,8.0,28.004,41.081,34.032,,False,False,7165.518,19,United States Grand Prix
+TSU,30.0,103.209,2.0,MEDIUM,20.0,1,True,AlphaTauri,True,8.0,27.668,41.173,34.368,,False,False,7268.727,19,United States Grand Prix
+TSU,31.0,103.233,2.0,MEDIUM,21.0,1,True,AlphaTauri,True,8.0,27.819,41.189,34.225,,False,False,7371.96,19,United States Grand Prix
+TSU,32.0,102.988,2.0,MEDIUM,22.0,1,True,AlphaTauri,True,8.0,27.678,41.241,34.069,,False,False,7474.948,19,United States Grand Prix
+TSU,33.0,102.797,2.0,MEDIUM,23.0,1,False,AlphaTauri,True,7.0,27.609,41.464,33.724,,True,False,7577.745,19,United States Grand Prix
+TSU,34.0,122.251,3.0,HARD,1.0,1,False,AlphaTauri,True,15.0,47.724,41.208,33.319,,False,True,7699.996,19,United States Grand Prix
+TSU,35.0,102.323,3.0,HARD,2.0,1,True,AlphaTauri,True,14.0,27.998,40.87,33.455,,False,False,7802.319,19,United States Grand Prix
+TSU,36.0,102.206,3.0,HARD,3.0,1,True,AlphaTauri,True,12.0,27.892,40.775,33.539,,False,False,7904.525,19,United States Grand Prix
+TSU,37.0,102.254,3.0,HARD,4.0,1,True,AlphaTauri,True,12.0,27.631,40.897,33.726,,False,False,8006.779,19,United States Grand Prix
+TSU,38.0,102.555,3.0,HARD,5.0,1,True,AlphaTauri,True,12.0,27.799,41.154,33.602,,False,False,8109.334,19,United States Grand Prix
+TSU,39.0,102.304,3.0,HARD,6.0,1,True,AlphaTauri,True,12.0,27.682,40.987,33.635,,False,False,8211.638,19,United States Grand Prix
+TSU,40.0,102.582,3.0,HARD,7.0,1,True,AlphaTauri,True,12.0,27.907,40.975,33.7,,False,False,8314.22,19,United States Grand Prix
+TSU,41.0,102.677,3.0,HARD,8.0,1,True,AlphaTauri,True,12.0,27.766,40.762,34.149,,False,False,8416.897,19,United States Grand Prix
+TSU,42.0,103.471,3.0,HARD,9.0,1,True,AlphaTauri,True,12.0,28.588,40.876,34.007,,False,False,8520.368,19,United States Grand Prix
+TSU,43.0,102.447,3.0,HARD,10.0,1,True,AlphaTauri,True,12.0,27.687,40.685,34.075,,False,False,8622.815,19,United States Grand Prix
+TSU,44.0,103.441,3.0,HARD,11.0,1,True,AlphaTauri,True,12.0,27.696,41.242,34.503,,False,False,8726.256,19,United States Grand Prix
+TSU,45.0,103.228,3.0,HARD,12.0,1,True,AlphaTauri,True,12.0,27.906,41.085,34.237,,False,False,8829.484,19,United States Grand Prix
+TSU,46.0,102.646,3.0,HARD,13.0,1,True,AlphaTauri,True,11.0,27.675,40.802,34.169,,False,False,8932.13,19,United States Grand Prix
+TSU,47.0,103.089,3.0,HARD,14.0,1,True,AlphaTauri,True,11.0,27.615,41.178,34.296,,False,False,9035.219,19,United States Grand Prix
+TSU,48.0,103.336,3.0,HARD,15.0,1,True,AlphaTauri,True,12.0,27.589,40.986,34.761,,False,False,9138.555,19,United States Grand Prix
+TSU,49.0,102.766,3.0,HARD,16.0,1,True,AlphaTauri,True,12.0,27.644,41.248,33.874,,False,False,9241.321,19,United States Grand Prix
+TSU,50.0,102.832,3.0,HARD,17.0,1,True,AlphaTauri,True,12.0,27.621,41.025,34.186,,False,False,9344.153,19,United States Grand Prix
+TSU,51.0,102.91,3.0,HARD,18.0,1,True,AlphaTauri,True,11.0,27.535,41.175,34.2,,False,False,9447.063,19,United States Grand Prix
+TSU,52.0,103.601,3.0,HARD,19.0,1,True,AlphaTauri,True,11.0,27.943,41.195,34.463,,False,False,9550.664,19,United States Grand Prix
+TSU,53.0,104.832,3.0,HARD,20.0,1,True,AlphaTauri,True,11.0,27.715,41.217,35.9,,False,False,9655.496,19,United States Grand Prix
+TSU,54.0,102.472,3.0,HARD,21.0,1,True,AlphaTauri,True,10.0,27.528,41.199,33.745,,False,False,9757.968,19,United States Grand Prix
+TSU,55.0,102.71,3.0,HARD,22.0,1,True,AlphaTauri,True,10.0,27.673,41.255,33.782,,False,False,9860.678,19,United States Grand Prix
+TSU,56.0,102.341,3.0,HARD,23.0,1,True,AlphaTauri,True,10.0,27.407,41.13,33.804,,False,False,9963.019,19,United States Grand Prix
+ALB,1.0,109.136,1.0,MEDIUM,1.0,12,False,Williams,True,9.0,,42.85,34.692,,False,False,3869.549,19,United States Grand Prix
+ALB,2.0,105.35,1.0,MEDIUM,2.0,1,True,Williams,True,10.0,28.472,41.924,34.954,,False,False,3974.899,19,United States Grand Prix
+ALB,3.0,104.781,1.0,MEDIUM,3.0,1,True,Williams,True,10.0,28.344,41.799,34.638,,False,False,4079.68,19,United States Grand Prix
+ALB,4.0,105.143,1.0,MEDIUM,4.0,1,True,Williams,True,11.0,28.854,41.873,34.416,,False,False,4184.823,19,United States Grand Prix
+ALB,5.0,106.242,1.0,MEDIUM,5.0,1,True,Williams,True,12.0,28.609,42.321,35.312,,False,False,4291.065,19,United States Grand Prix
+ALB,6.0,104.688,1.0,MEDIUM,6.0,1,True,Williams,True,12.0,28.361,41.625,34.702,,False,False,4395.753,19,United States Grand Prix
+ALB,7.0,104.585,1.0,MEDIUM,7.0,1,True,Williams,True,12.0,28.169,41.794,34.622,,False,False,4500.338,19,United States Grand Prix
+ALB,8.0,105.814,1.0,MEDIUM,8.0,1,True,Williams,True,12.0,28.716,42.294,34.804,,False,False,4606.152,19,United States Grand Prix
+ALB,9.0,105.035,1.0,MEDIUM,9.0,1,False,Williams,True,12.0,28.542,41.919,34.574,,True,False,4711.187,19,United States Grand Prix
+ALB,10.0,123.1,2.0,MEDIUM,1.0,1,False,Williams,True,17.0,48.414,41.057,33.629,,False,True,4834.287,19,United States Grand Prix
+ALB,11.0,103.014,2.0,MEDIUM,2.0,1,True,Williams,True,15.0,27.983,40.89,34.141,,False,False,4937.301,19,United States Grand Prix
+ALB,12.0,103.462,2.0,MEDIUM,3.0,1,True,Williams,True,15.0,28.13,41.35,33.982,,False,False,5040.763,19,United States Grand Prix
+ALB,13.0,103.969,2.0,MEDIUM,4.0,1,True,Williams,True,15.0,28.344,41.446,34.179,,False,False,5144.732,19,United States Grand Prix
+ALB,14.0,103.818,2.0,MEDIUM,5.0,1,True,Williams,True,15.0,28.513,41.225,34.08,,False,False,5248.55,19,United States Grand Prix
+ALB,15.0,104.384,2.0,MEDIUM,6.0,1,True,Williams,True,15.0,28.292,41.391,34.701,,False,False,5352.934,19,United States Grand Prix
+ALB,16.0,104.931,2.0,MEDIUM,7.0,1,True,Williams,True,16.0,28.295,41.745,34.891,,False,False,5457.865,19,United States Grand Prix
+ALB,17.0,104.197,2.0,MEDIUM,8.0,12,True,Williams,True,15.0,28.219,41.649,34.329,,False,False,5562.062,19,United States Grand Prix
+ALB,18.0,129.393,2.0,MEDIUM,9.0,24,False,Williams,True,15.0,28.85,56.811,43.732,,True,False,5691.455,19,United States Grand Prix
+ALB,19.0,158.757,3.0,HARD,1.0,4,False,Williams,True,17.0,58.226,55.109,45.422,,False,True,5850.212,19,United States Grand Prix
+ALB,20.0,142.591,3.0,HARD,2.0,4,False,Williams,True,17.0,33.016,55.93,53.645,,False,False,5992.803,19,United States Grand Prix
+ALB,21.0,137.292,3.0,HARD,3.0,41,False,Williams,True,17.0,35.511,58.474,43.307,,False,False,6130.095,19,United States Grand Prix
+ALB,22.0,138.24,3.0,HARD,4.0,124,False,Williams,True,16.0,28.643,52.909,56.688,,False,False,6268.335,19,United States Grand Prix
+ALB,23.0,172.253,3.0,HARD,5.0,4,False,Williams,True,15.0,38.212,91.658,42.383,,False,False,6440.588,19,United States Grand Prix
+ALB,24.0,170.525,3.0,HARD,6.0,4,False,Williams,True,14.0,37.217,87.885,45.423,,False,False,6611.113,19,United States Grand Prix
+ALB,25.0,142.766,3.0,HARD,7.0,41,False,Williams,True,14.0,37.475,60.175,45.116,,False,False,6753.879,19,United States Grand Prix
+ALB,26.0,105.387,3.0,HARD,8.0,1,True,Williams,True,14.0,28.879,42.09,34.418,,False,False,6859.266,19,United States Grand Prix
+ALB,27.0,104.626,3.0,HARD,9.0,1,True,Williams,True,14.0,28.378,41.841,34.407,,False,False,6963.892,19,United States Grand Prix
+ALB,28.0,104.104,3.0,HARD,10.0,1,True,Williams,True,14.0,28.279,41.44,34.385,,False,False,7067.996,19,United States Grand Prix
+ALB,29.0,103.838,3.0,HARD,11.0,1,True,Williams,True,14.0,28.055,41.3,34.483,,False,False,7171.834,19,United States Grand Prix
+ALB,30.0,103.501,3.0,HARD,12.0,1,True,Williams,True,13.0,27.844,41.243,34.414,,False,False,7275.335,19,United States Grand Prix
+ALB,31.0,103.857,3.0,HARD,13.0,1,True,Williams,True,13.0,28.057,41.525,34.275,,False,False,7379.192,19,United States Grand Prix
+ALB,32.0,103.97,3.0,HARD,14.0,1,True,Williams,True,13.0,28.224,41.458,34.288,,False,False,7483.162,19,United States Grand Prix
+ALB,33.0,104.433,3.0,HARD,15.0,1,True,Williams,True,13.0,28.068,41.439,34.926,,False,False,7587.595,19,United States Grand Prix
+ALB,34.0,103.718,3.0,HARD,16.0,1,True,Williams,True,11.0,28.232,41.173,34.313,,False,False,7691.313,19,United States Grand Prix
+ALB,35.0,103.482,3.0,HARD,17.0,1,True,Williams,True,10.0,28.172,41.196,34.114,,False,False,7794.795,19,United States Grand Prix
+ALB,36.0,103.158,3.0,HARD,18.0,1,True,Williams,True,10.0,28.043,41.165,33.95,,False,False,7897.953,19,United States Grand Prix
+ALB,37.0,103.179,3.0,HARD,19.0,1,True,Williams,True,10.0,28.049,41.057,34.073,,False,False,8001.132,19,United States Grand Prix
+ALB,38.0,103.259,3.0,HARD,20.0,1,True,Williams,True,10.0,27.931,41.103,34.225,,False,False,8104.391,19,United States Grand Prix
+ALB,39.0,102.917,3.0,HARD,21.0,1,True,Williams,True,10.0,27.927,41.026,33.964,,False,False,8207.308,19,United States Grand Prix
+ALB,40.0,103.664,3.0,HARD,22.0,1,True,Williams,True,10.0,28.181,41.183,34.3,,False,False,8310.972,19,United States Grand Prix
+ALB,41.0,103.572,3.0,HARD,23.0,1,True,Williams,True,10.0,28.094,41.292,34.186,,False,False,8414.544,19,United States Grand Prix
+ALB,42.0,103.02,3.0,HARD,24.0,1,True,Williams,True,9.0,27.844,41.021,34.155,,False,False,8517.564,19,United States Grand Prix
+ALB,43.0,103.514,3.0,HARD,25.0,1,True,Williams,True,9.0,27.963,41.101,34.45,,False,False,8621.078,19,United States Grand Prix
+ALB,44.0,104.028,3.0,HARD,26.0,1,True,Williams,True,10.0,28.565,41.276,34.187,,False,False,8725.106,19,United States Grand Prix
+ALB,45.0,103.223,3.0,HARD,27.0,1,True,Williams,True,10.0,28.044,41.158,34.021,,False,False,8828.329,19,United States Grand Prix
+ALB,46.0,102.471,3.0,HARD,28.0,1,True,Williams,True,9.0,27.698,40.88,33.893,,False,False,8930.8,19,United States Grand Prix
+ALB,47.0,103.045,3.0,HARD,29.0,1,True,Williams,True,9.0,27.766,41.007,34.272,,False,False,9033.845,19,United States Grand Prix
+ALB,48.0,102.622,3.0,HARD,30.0,1,True,Williams,True,9.0,27.737,41.015,33.87,,False,False,9136.467,19,United States Grand Prix
+ALB,49.0,102.599,3.0,HARD,31.0,1,True,Williams,True,9.0,27.79,40.86,33.949,,False,False,9239.066,19,United States Grand Prix
+ALB,50.0,103.243,3.0,HARD,32.0,1,True,Williams,True,9.0,27.758,41.17,34.315,,False,False,9342.309,19,United States Grand Prix
+ALB,51.0,104.311,3.0,HARD,33.0,1,True,Williams,True,10.0,27.831,41.5,34.98,,False,False,9446.62,19,United States Grand Prix
+ALB,52.0,103.591,3.0,HARD,34.0,1,True,Williams,True,10.0,27.984,41.091,34.516,,False,False,9550.211,19,United States Grand Prix
+ALB,53.0,104.85,3.0,HARD,35.0,1,True,Williams,True,10.0,27.912,41.541,35.397,,False,False,9655.061,19,United States Grand Prix
+ALB,54.0,104.265,3.0,HARD,36.0,1,True,Williams,True,11.0,28.54,41.163,34.562,,False,False,9759.326,19,United States Grand Prix
+ALB,55.0,103.636,3.0,HARD,37.0,1,True,Williams,True,12.0,28.379,41.006,34.251,,False,False,9862.962,19,United States Grand Prix
+ALB,56.0,104.195,3.0,HARD,38.0,1,True,Williams,True,13.0,28.284,41.219,34.692,,False,False,9967.157,19,United States Grand Prix
+ZHO,1.0,112.824,1.0,MEDIUM,1.0,12,False,Alfa Romeo,True,17.0,,43.376,34.89,,False,False,3873.237,19,United States Grand Prix
+ZHO,2.0,105.535,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,16.0,29.298,41.786,34.451,,False,False,3978.772,19,United States Grand Prix
+ZHO,3.0,104.538,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,16.0,28.483,41.387,34.668,,False,False,4083.31,19,United States Grand Prix
+ZHO,4.0,104.511,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,16.0,28.223,41.428,34.86,,False,False,4187.821,19,United States Grand Prix
+ZHO,5.0,104.904,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,15.0,28.319,41.629,34.956,,False,False,4292.725,19,United States Grand Prix
+ZHO,6.0,104.476,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,14.0,28.292,41.545,34.639,,False,False,4397.201,19,United States Grand Prix
+ZHO,7.0,104.454,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,14.0,28.211,41.504,34.739,,False,False,4501.655,19,United States Grand Prix
+ZHO,8.0,105.36,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,14.0,28.373,41.987,35.0,,False,False,4607.015,19,United States Grand Prix
+ZHO,9.0,105.956,1.0,MEDIUM,9.0,1,False,Alfa Romeo,True,14.0,28.6,41.875,35.481,,True,False,4712.971,19,United States Grand Prix
+ZHO,10.0,127.583,2.0,HARD,1.0,1,False,Alfa Romeo,True,18.0,52.188,41.777,33.618,,False,True,4840.554,19,United States Grand Prix
+ZHO,11.0,103.895,2.0,HARD,2.0,1,True,Alfa Romeo,True,17.0,28.209,41.532,34.154,,False,False,4944.449,19,United States Grand Prix
+ZHO,12.0,104.152,2.0,HARD,3.0,1,True,Alfa Romeo,True,17.0,28.122,41.832,34.198,,False,False,5048.601,19,United States Grand Prix
+ZHO,13.0,104.739,2.0,HARD,4.0,1,True,Alfa Romeo,True,17.0,28.396,41.882,34.461,,False,False,5153.34,19,United States Grand Prix
+ZHO,14.0,103.824,2.0,HARD,5.0,1,True,Alfa Romeo,True,17.0,28.251,41.646,33.927,,False,False,5257.164,19,United States Grand Prix
+ZHO,15.0,103.741,2.0,HARD,6.0,1,True,Alfa Romeo,True,17.0,28.077,41.543,34.121,,False,False,5360.905,19,United States Grand Prix
+ZHO,16.0,104.03,2.0,HARD,7.0,1,True,Alfa Romeo,True,17.0,28.125,41.754,34.151,,False,False,5464.935,19,United States Grand Prix
+ZHO,17.0,104.266,2.0,HARD,8.0,12,True,Alfa Romeo,True,16.0,28.129,41.785,34.352,,False,False,5569.201,19,United States Grand Prix
+ZHO,18.0,134.425,2.0,HARD,9.0,24,False,Alfa Romeo,True,16.0,32.442,55.709,46.274,,False,False,5703.626,19,United States Grand Prix
+ZHO,19.0,138.587,2.0,HARD,10.0,4,False,Alfa Romeo,True,14.0,37.775,55.125,45.687,,False,False,5842.213,19,United States Grand Prix
+ZHO,20.0,144.384,2.0,HARD,11.0,4,False,Alfa Romeo,True,14.0,31.914,58.371,54.099,,False,False,5986.597,19,United States Grand Prix
+ZHO,21.0,142.312,2.0,HARD,12.0,41,False,Alfa Romeo,True,14.0,35.756,58.858,47.698,,False,False,6128.909,19,United States Grand Prix
+ZHO,22.0,133.593,2.0,HARD,13.0,124,False,Alfa Romeo,True,13.0,29.038,49.006,55.549,,False,False,6262.502,19,United States Grand Prix
+ZHO,23.0,169.446,2.0,HARD,14.0,4,False,Alfa Romeo,True,9.0,37.151,92.611,39.684,,True,False,6431.948,19,United States Grand Prix
+ZHO,24.0,184.224,3.0,HARD,1.0,4,False,Alfa Romeo,True,17.0,54.529,86.7,42.995,,False,True,6616.172,19,United States Grand Prix
+ZHO,25.0,139.116,3.0,HARD,2.0,41,False,Alfa Romeo,True,17.0,36.931,62.023,40.162,,False,False,6755.288,19,United States Grand Prix
+ZHO,26.0,105.555,3.0,HARD,3.0,1,True,Alfa Romeo,True,17.0,28.703,42.026,34.826,,False,False,6860.843,19,United States Grand Prix
+ZHO,27.0,105.155,3.0,HARD,4.0,1,True,Alfa Romeo,True,17.0,28.384,42.044,34.727,,False,False,6965.998,19,United States Grand Prix
+ZHO,28.0,103.988,3.0,HARD,5.0,1,True,Alfa Romeo,True,17.0,28.185,41.091,34.712,,False,False,7069.986,19,United States Grand Prix
+ZHO,29.0,104.656,3.0,HARD,6.0,1,True,Alfa Romeo,True,17.0,27.944,41.558,35.154,,False,False,7174.642,19,United States Grand Prix
+ZHO,30.0,104.776,3.0,HARD,7.0,1,True,Alfa Romeo,True,17.0,27.878,41.342,35.556,,False,False,7279.418,19,United States Grand Prix
+ZHO,31.0,104.449,3.0,HARD,8.0,1,True,Alfa Romeo,True,17.0,27.987,41.479,34.983,,False,False,7383.867,19,United States Grand Prix
+ZHO,32.0,105.053,3.0,HARD,9.0,1,True,Alfa Romeo,True,17.0,28.691,41.591,34.771,,False,False,7488.92,19,United States Grand Prix
+ZHO,33.0,103.747,3.0,HARD,10.0,1,True,Alfa Romeo,True,15.0,27.907,41.188,34.652,,False,False,7592.667,19,United States Grand Prix
+ZHO,34.0,103.604,3.0,HARD,11.0,1,True,Alfa Romeo,True,13.0,28.081,41.495,34.028,,False,False,7696.271,19,United States Grand Prix
+ZHO,35.0,103.179,3.0,HARD,12.0,1,True,Alfa Romeo,True,12.0,27.887,41.449,33.843,,False,False,7799.45,19,United States Grand Prix
+ZHO,36.0,103.212,3.0,HARD,13.0,1,True,Alfa Romeo,True,11.0,27.975,41.528,33.709,,False,False,7902.662,19,United States Grand Prix
+ZHO,37.0,102.81,3.0,HARD,14.0,1,True,Alfa Romeo,True,11.0,27.66,41.204,33.946,,False,False,8005.472,19,United States Grand Prix
+ZHO,38.0,102.526,3.0,HARD,15.0,1,True,Alfa Romeo,True,11.0,27.667,41.268,33.591,,False,False,8107.998,19,United States Grand Prix
+ZHO,39.0,102.394,3.0,HARD,16.0,1,True,Alfa Romeo,True,11.0,27.574,41.215,33.605,,False,False,8210.392,19,United States Grand Prix
+ZHO,40.0,103.121,3.0,HARD,17.0,1,True,Alfa Romeo,True,11.0,27.726,41.239,34.156,,False,False,8313.513,19,United States Grand Prix
+ZHO,41.0,102.692,3.0,HARD,18.0,1,True,Alfa Romeo,True,11.0,27.571,41.203,33.918,,False,False,8416.205,19,United States Grand Prix
+ZHO,42.0,102.513,3.0,HARD,19.0,1,True,Alfa Romeo,True,10.0,27.555,41.183,33.775,,False,False,8518.718,19,United States Grand Prix
+ZHO,43.0,103.564,3.0,HARD,20.0,1,True,Alfa Romeo,True,11.0,28.435,41.086,34.043,,False,False,8622.282,19,United States Grand Prix
+ZHO,44.0,103.602,3.0,HARD,21.0,1,True,Alfa Romeo,True,11.0,27.781,41.402,34.419,,False,False,8725.884,19,United States Grand Prix
+ZHO,45.0,103.065,3.0,HARD,22.0,1,True,Alfa Romeo,True,11.0,27.874,41.075,34.116,,False,False,8828.949,19,United States Grand Prix
+ZHO,46.0,102.71,3.0,HARD,23.0,1,True,Alfa Romeo,True,10.0,27.48,40.964,34.266,,False,False,8931.659,19,United States Grand Prix
+ZHO,47.0,102.84,3.0,HARD,24.0,1,True,Alfa Romeo,True,10.0,27.469,41.077,34.294,,False,False,9034.499,19,United States Grand Prix
+ZHO,48.0,102.635,3.0,HARD,25.0,1,True,Alfa Romeo,True,10.0,27.67,41.078,33.887,,False,False,9137.134,19,United States Grand Prix
+ZHO,49.0,103.603,3.0,HARD,26.0,1,True,Alfa Romeo,True,11.0,27.489,41.121,34.993,,False,False,9240.737,19,United States Grand Prix
+ZHO,50.0,102.831,3.0,HARD,27.0,1,True,Alfa Romeo,True,11.0,27.553,41.155,34.123,,False,False,9343.568,19,United States Grand Prix
+ZHO,51.0,104.328,3.0,HARD,28.0,1,True,Alfa Romeo,True,12.0,27.687,41.522,35.119,,False,False,9447.896,19,United States Grand Prix
+ZHO,52.0,103.373,3.0,HARD,29.0,1,True,Alfa Romeo,True,12.0,27.648,41.286,34.439,,False,False,9551.269,19,United States Grand Prix
+ZHO,53.0,105.2,3.0,HARD,30.0,1,True,Alfa Romeo,True,13.0,27.564,41.527,36.109,,False,False,9656.469,19,United States Grand Prix
+ZHO,54.0,104.102,3.0,HARD,31.0,1,True,Alfa Romeo,True,13.0,27.973,41.808,34.321,,False,False,9760.571,19,United States Grand Prix
+ZHO,55.0,103.812,3.0,HARD,32.0,1,True,Alfa Romeo,True,14.0,27.539,41.566,34.707,,False,False,9864.383,19,United States Grand Prix
+ZHO,56.0,103.881,3.0,HARD,33.0,1,True,Alfa Romeo,True,14.0,27.608,41.787,34.486,,False,False,9968.264,19,United States Grand Prix
+RIC,1.0,111.259,1.0,MEDIUM,1.0,12,False,McLaren,True,13.0,,43.244,35.373,,False,False,3871.672,19,United States Grand Prix
+RIC,2.0,105.277,1.0,MEDIUM,2.0,1,True,McLaren,True,13.0,28.703,42.072,34.502,,False,False,3976.949,19,United States Grand Prix
+RIC,3.0,104.519,1.0,MEDIUM,3.0,1,True,McLaren,True,13.0,28.553,41.415,34.551,,False,False,4081.468,19,United States Grand Prix
+RIC,4.0,104.733,1.0,MEDIUM,4.0,1,True,McLaren,True,13.0,28.457,41.806,34.47,,False,False,4186.201,19,United States Grand Prix
+RIC,5.0,106.028,1.0,MEDIUM,5.0,1,True,McLaren,True,14.0,28.501,42.329,35.198,,False,False,4292.229,19,United States Grand Prix
+RIC,6.0,105.68,1.0,MEDIUM,6.0,1,True,McLaren,True,15.0,28.271,42.291,35.118,,False,False,4397.909,19,United States Grand Prix
+RIC,7.0,104.578,1.0,MEDIUM,7.0,1,True,McLaren,True,15.0,28.195,41.89,34.493,,False,False,4502.487,19,United States Grand Prix
+RIC,8.0,105.358,1.0,MEDIUM,8.0,1,True,McLaren,True,15.0,28.444,42.121,34.793,,False,False,4607.845,19,United States Grand Prix
+RIC,9.0,105.229,1.0,MEDIUM,9.0,1,True,McLaren,True,15.0,28.329,42.377,34.523,,False,False,4713.074,19,United States Grand Prix
+RIC,10.0,105.425,1.0,MEDIUM,10.0,1,False,McLaren,True,13.0,28.047,42.145,35.233,,True,False,4818.499,19,United States Grand Prix
+RIC,11.0,127.379,2.0,HARD,1.0,1,False,McLaren,True,18.0,51.159,42.037,34.183,,False,True,4945.878,19,United States Grand Prix
+RIC,12.0,104.53,2.0,HARD,2.0,1,True,McLaren,True,18.0,28.619,41.841,34.07,,False,False,5050.408,19,United States Grand Prix
+RIC,13.0,104.771,2.0,HARD,3.0,1,True,McLaren,True,18.0,28.357,42.093,34.321,,False,False,5155.179,19,United States Grand Prix
+RIC,14.0,104.236,2.0,HARD,4.0,1,True,McLaren,True,18.0,28.306,41.932,33.998,,False,False,5259.415,19,United States Grand Prix
+RIC,15.0,104.248,2.0,HARD,5.0,1,True,McLaren,True,18.0,28.272,41.854,34.122,,False,False,5363.663,19,United States Grand Prix
+RIC,16.0,104.146,2.0,HARD,6.0,1,True,McLaren,True,18.0,28.044,41.915,34.187,,False,False,5467.809,19,United States Grand Prix
+RIC,17.0,104.802,2.0,HARD,7.0,12,True,McLaren,True,17.0,28.068,42.008,34.726,,False,False,5572.611,19,United States Grand Prix
+RIC,18.0,134.924,2.0,HARD,8.0,24,False,McLaren,True,17.0,37.754,53.39,43.78,,False,False,5707.535,19,United States Grand Prix
+RIC,19.0,141.438,2.0,HARD,9.0,4,False,McLaren,True,16.0,41.045,54.871,45.522,,False,False,5848.973,19,United States Grand Prix
+RIC,20.0,141.854,2.0,HARD,10.0,4,False,McLaren,True,16.0,33.609,55.544,52.701,,False,False,5990.827,19,United States Grand Prix
+RIC,21.0,138.867,2.0,HARD,11.0,41,False,McLaren,True,16.0,35.547,58.719,44.601,,False,False,6129.694,19,United States Grand Prix
+RIC,22.0,136.933,2.0,HARD,12.0,124,False,McLaren,True,15.0,28.722,51.892,56.319,,False,False,6266.627,19,United States Grand Prix
+RIC,23.0,171.739,2.0,HARD,13.0,4,False,McLaren,True,14.0,37.751,90.789,43.199,,False,False,6438.366,19,United States Grand Prix
+RIC,24.0,170.71,2.0,HARD,14.0,4,False,McLaren,True,13.0,37.441,87.734,45.535,,False,False,6609.076,19,United States Grand Prix
+RIC,25.0,144.438,2.0,HARD,15.0,41,False,McLaren,True,13.0,38.179,60.299,45.96,,False,False,6753.514,19,United States Grand Prix
+RIC,26.0,105.269,2.0,HARD,16.0,1,True,McLaren,True,13.0,28.775,42.071,34.423,,False,False,6858.783,19,United States Grand Prix
+RIC,27.0,104.378,2.0,HARD,17.0,1,True,McLaren,True,13.0,28.217,41.977,34.184,,False,False,6963.161,19,United States Grand Prix
+RIC,28.0,104.04,2.0,HARD,18.0,1,True,McLaren,True,13.0,28.086,41.658,34.296,,False,False,7067.201,19,United States Grand Prix
+RIC,29.0,103.93,2.0,HARD,19.0,1,True,McLaren,True,13.0,27.916,41.654,34.36,,False,False,7171.131,19,United States Grand Prix
+RIC,30.0,104.927,2.0,HARD,20.0,1,True,McLaren,True,14.0,27.958,41.967,35.002,,False,False,7276.058,19,United States Grand Prix
+RIC,31.0,104.75,2.0,HARD,21.0,1,True,McLaren,True,15.0,27.985,41.731,35.034,,False,False,7380.808,19,United States Grand Prix
+RIC,32.0,104.534,2.0,HARD,22.0,1,True,McLaren,True,15.0,28.003,42.445,34.086,,False,False,7485.342,19,United States Grand Prix
+RIC,33.0,104.857,2.0,HARD,23.0,1,True,McLaren,True,14.0,28.208,42.25,34.399,,False,False,7590.199,19,United States Grand Prix
+RIC,34.0,104.243,2.0,HARD,24.0,1,True,McLaren,True,12.0,28.252,41.841,34.15,,False,False,7694.442,19,United States Grand Prix
+RIC,35.0,103.706,2.0,HARD,25.0,1,False,McLaren,True,11.0,28.104,41.542,34.06,,True,False,7798.148,19,United States Grand Prix
+RIC,36.0,124.294,3.0,HARD,1.0,1,False,McLaren,True,17.0,48.904,41.743,33.647,,False,True,7922.442,19,United States Grand Prix
+RIC,37.0,102.884,3.0,HARD,2.0,1,True,McLaren,True,17.0,28.124,41.294,33.466,,False,False,8025.326,19,United States Grand Prix
+RIC,38.0,102.89,3.0,HARD,3.0,1,True,McLaren,True,17.0,27.916,41.325,33.649,,False,False,8128.216,19,United States Grand Prix
+RIC,39.0,102.777,3.0,HARD,4.0,1,True,McLaren,True,17.0,27.726,41.301,33.75,,False,False,8230.993,19,United States Grand Prix
+RIC,40.0,102.92,3.0,HARD,5.0,1,True,McLaren,True,17.0,27.924,41.425,33.571,,False,False,8333.913,19,United States Grand Prix
+RIC,41.0,103.136,3.0,HARD,6.0,1,True,McLaren,True,17.0,27.958,41.492,33.686,,False,False,8437.049,19,United States Grand Prix
+RIC,42.0,103.212,3.0,HARD,7.0,1,True,McLaren,True,17.0,27.908,41.49,33.814,,False,False,8540.261,19,United States Grand Prix
+RIC,43.0,102.793,3.0,HARD,8.0,1,True,McLaren,True,17.0,27.845,41.287,33.661,,False,False,8643.054,19,United States Grand Prix
+RIC,44.0,102.648,3.0,HARD,9.0,1,True,McLaren,True,17.0,27.748,41.268,33.632,,False,False,8745.702,19,United States Grand Prix
+RIC,45.0,102.972,3.0,HARD,10.0,1,True,McLaren,True,17.0,27.832,41.35,33.79,,False,False,8848.674,19,United States Grand Prix
+RIC,46.0,103.591,3.0,HARD,11.0,1,True,McLaren,True,17.0,28.113,41.495,33.983,,False,False,8952.265,19,United States Grand Prix
+RIC,47.0,102.799,3.0,HARD,12.0,1,True,McLaren,True,17.0,27.743,41.371,33.685,,False,False,9055.064,19,United States Grand Prix
+RIC,48.0,102.965,3.0,HARD,13.0,1,True,McLaren,True,17.0,27.724,41.564,33.677,,False,False,9158.029,19,United States Grand Prix
+RIC,49.0,103.176,3.0,HARD,14.0,1,True,McLaren,True,17.0,27.718,41.614,33.844,,False,False,9261.205,19,United States Grand Prix
+RIC,50.0,103.421,3.0,HARD,15.0,1,True,McLaren,True,17.0,27.675,41.145,34.601,,False,False,9364.626,19,United States Grand Prix
+RIC,51.0,104.525,3.0,HARD,16.0,1,True,McLaren,True,16.0,28.747,42.007,33.771,,False,False,9469.151,19,United States Grand Prix
+RIC,52.0,102.586,3.0,HARD,17.0,1,True,McLaren,True,16.0,27.565,41.259,33.762,,False,False,9571.737,19,United States Grand Prix
+RIC,53.0,102.915,3.0,HARD,18.0,1,True,McLaren,True,16.0,27.532,41.439,33.944,,False,False,9674.652,19,United States Grand Prix
+RIC,54.0,102.819,3.0,HARD,19.0,1,True,McLaren,True,16.0,27.679,41.508,33.632,,False,False,9777.471,19,United States Grand Prix
+RIC,55.0,102.42,3.0,HARD,20.0,1,True,McLaren,True,16.0,27.631,41.318,33.471,,False,False,9879.891,19,United States Grand Prix
+RIC,56.0,102.696,3.0,HARD,21.0,1,True,McLaren,True,16.0,27.633,41.284,33.779,,False,False,9982.587,19,United States Grand Prix
+OCO,1.0,115.666,1.0,HARD,1.0,12,False,Alpine,True,20.0,,42.254,34.548,,False,True,3876.079,19,United States Grand Prix
+OCO,2.0,105.362,1.0,HARD,2.0,1,True,Alpine,True,19.0,28.422,42.335,34.605,,False,False,3981.441,19,United States Grand Prix
+OCO,3.0,104.58,1.0,HARD,3.0,1,True,Alpine,True,18.0,28.581,41.664,34.335,,False,False,4086.021,19,United States Grand Prix
+OCO,4.0,104.125,1.0,HARD,4.0,1,True,Alpine,True,18.0,28.225,41.766,34.134,,False,False,4190.146,19,United States Grand Prix
+OCO,5.0,104.723,1.0,HARD,5.0,1,True,Alpine,True,17.0,28.332,42.077,34.314,,False,False,4294.869,19,United States Grand Prix
+OCO,6.0,104.828,1.0,HARD,6.0,1,True,Alpine,True,17.0,28.233,42.006,34.589,,False,False,4399.697,19,United States Grand Prix
+OCO,7.0,104.505,1.0,HARD,7.0,1,True,Alpine,True,17.0,28.047,41.758,34.7,,False,False,4504.202,19,United States Grand Prix
+OCO,8.0,105.033,1.0,HARD,8.0,1,True,Alpine,True,17.0,28.24,41.859,34.934,,False,False,4609.235,19,United States Grand Prix
+OCO,9.0,105.225,1.0,HARD,9.0,1,True,Alpine,True,17.0,28.175,42.12,34.93,,False,False,4714.46,19,United States Grand Prix
+OCO,10.0,104.739,1.0,HARD,10.0,1,True,Alpine,True,14.0,28.064,41.695,34.98,,False,False,4819.199,19,United States Grand Prix
+OCO,11.0,103.915,1.0,HARD,11.0,1,True,Alpine,True,11.0,27.864,41.676,34.375,,False,False,4923.114,19,United States Grand Prix
+OCO,12.0,104.593,1.0,HARD,12.0,1,True,Alpine,True,10.0,28.212,41.991,34.39,,False,False,5027.707,19,United States Grand Prix
+OCO,13.0,106.178,1.0,HARD,13.0,1,True,Alpine,True,11.0,28.338,42.583,35.257,,False,False,5133.885,19,United States Grand Prix
+OCO,14.0,104.605,1.0,HARD,14.0,1,True,Alpine,True,11.0,28.343,41.763,34.499,,False,False,5238.49,19,United States Grand Prix
+OCO,15.0,104.168,1.0,HARD,15.0,1,True,Alpine,True,10.0,28.009,41.722,34.437,,False,False,5342.658,19,United States Grand Prix
+OCO,16.0,104.661,1.0,HARD,16.0,1,True,Alpine,True,9.0,28.688,41.659,34.314,,False,False,5447.319,19,United States Grand Prix
+OCO,17.0,104.509,1.0,HARD,17.0,1,True,Alpine,True,9.0,28.052,41.887,34.57,,False,False,5551.828,19,United States Grand Prix
+OCO,18.0,126.655,1.0,HARD,18.0,124,False,Alpine,True,9.0,28.23,55.398,43.027,,True,False,5678.483,19,United States Grand Prix
+OCO,19.0,155.636,2.0,HARD,1.0,4,False,Alpine,True,12.0,55.409,54.717,45.51,,False,True,5834.119,19,United States Grand Prix
+OCO,20.0,149.756,2.0,HARD,2.0,4,False,Alpine,True,12.0,34.979,59.833,54.944,,False,False,5983.875,19,United States Grand Prix
+OCO,21.0,143.952,2.0,HARD,3.0,41,False,Alpine,True,12.0,32.489,61.257,50.206,,False,False,6127.827,19,United States Grand Prix
+OCO,22.0,132.386,2.0,HARD,4.0,124,False,Alpine,True,11.0,28.78,48.936,54.67,,False,False,6260.213,19,United States Grand Prix
+OCO,23.0,173.754,2.0,HARD,5.0,4,False,Alpine,True,12.0,36.466,91.691,45.597,,False,False,6433.967,19,United States Grand Prix
+OCO,24.0,169.933,2.0,HARD,6.0,4,False,Alpine,True,11.0,38.497,85.643,45.793,,False,False,6603.9,19,United States Grand Prix
+OCO,25.0,148.781,2.0,HARD,7.0,41,False,Alpine,True,11.0,39.043,60.687,49.051,,False,False,6752.681,19,United States Grand Prix
+OCO,26.0,105.226,2.0,HARD,8.0,1,True,Alpine,True,12.0,28.938,42.079,34.209,,False,False,6857.907,19,United States Grand Prix
+OCO,27.0,104.238,2.0,HARD,9.0,1,True,Alpine,True,12.0,28.158,41.8,34.28,,False,False,6962.145,19,United States Grand Prix
+OCO,28.0,104.15,2.0,HARD,10.0,1,True,Alpine,True,12.0,28.029,41.85,34.271,,False,False,7066.295,19,United States Grand Prix
+OCO,29.0,103.733,2.0,HARD,11.0,1,True,Alpine,True,12.0,27.946,41.483,34.304,,False,False,7170.028,19,United States Grand Prix
+OCO,30.0,103.749,2.0,HARD,12.0,1,True,Alpine,True,12.0,27.91,41.712,34.127,,False,False,7273.777,19,United States Grand Prix
+OCO,31.0,104.045,2.0,HARD,13.0,1,True,Alpine,True,12.0,27.952,41.954,34.139,,False,False,7377.822,19,United States Grand Prix
+OCO,32.0,103.698,2.0,HARD,14.0,1,True,Alpine,True,12.0,28.029,41.765,33.904,,False,False,7481.52,19,United States Grand Prix
+OCO,33.0,103.878,2.0,HARD,15.0,1,True,Alpine,True,11.0,28.022,41.773,34.083,,False,False,7585.398,19,United States Grand Prix
+OCO,34.0,103.094,2.0,HARD,16.0,1,True,Alpine,True,9.0,27.874,41.49,33.73,,False,False,7688.492,19,United States Grand Prix
+OCO,35.0,103.232,2.0,HARD,17.0,1,True,Alpine,True,8.0,27.804,41.578,33.85,,False,False,7791.724,19,United States Grand Prix
+OCO,36.0,103.188,2.0,HARD,18.0,1,True,Alpine,True,8.0,27.641,41.79,33.757,,False,False,7894.912,19,United States Grand Prix
+OCO,37.0,103.143,2.0,HARD,19.0,1,True,Alpine,True,8.0,27.739,41.431,33.973,,False,False,7998.055,19,United States Grand Prix
+OCO,38.0,103.059,2.0,HARD,20.0,1,True,Alpine,True,8.0,27.677,41.557,33.825,,False,False,8101.114,19,United States Grand Prix
+OCO,39.0,103.152,2.0,HARD,21.0,1,True,Alpine,True,8.0,27.623,41.546,33.983,,False,False,8204.266,19,United States Grand Prix
+OCO,40.0,104.865,2.0,HARD,22.0,1,True,Alpine,True,9.0,27.745,42.662,34.458,,False,False,8309.131,19,United States Grand Prix
+OCO,41.0,103.379,2.0,HARD,23.0,1,True,Alpine,True,9.0,27.781,41.743,33.855,,False,False,8412.51,19,United States Grand Prix
+OCO,42.0,103.206,2.0,HARD,24.0,1,True,Alpine,True,8.0,27.886,41.455,33.865,,False,False,8515.716,19,United States Grand Prix
+OCO,43.0,103.306,2.0,HARD,25.0,1,True,Alpine,True,8.0,27.724,41.673,33.909,,False,False,8619.022,19,United States Grand Prix
+OCO,44.0,103.365,2.0,HARD,26.0,1,True,Alpine,True,8.0,27.732,41.572,34.061,,False,False,8722.387,19,United States Grand Prix
+OCO,45.0,104.56,2.0,HARD,27.0,1,False,Alpine,True,9.0,27.933,42.03,34.597,,True,False,8826.947,19,United States Grand Prix
+OCO,46.0,122.01,3.0,MEDIUM,1.0,1,False,Alpine,True,16.0,48.432,40.575,33.003,,False,True,8948.957,19,United States Grand Prix
+OCO,47.0,101.434,3.0,MEDIUM,2.0,1,True,Alpine,True,15.0,27.316,40.867,33.251,,False,False,9050.391,19,United States Grand Prix
+OCO,48.0,101.31,3.0,MEDIUM,3.0,1,True,Alpine,True,15.0,27.393,40.921,32.996,,False,False,9151.701,19,United States Grand Prix
+OCO,49.0,101.243,3.0,MEDIUM,4.0,1,True,Alpine,True,15.0,27.336,40.826,33.081,,False,False,9252.944,19,United States Grand Prix
+OCO,50.0,101.366,3.0,MEDIUM,5.0,1,True,Alpine,True,15.0,27.159,40.925,33.282,,False,False,9354.31,19,United States Grand Prix
+OCO,51.0,101.395,3.0,MEDIUM,6.0,1,True,Alpine,True,15.0,27.27,40.85,33.275,,False,False,9455.705,19,United States Grand Prix
+OCO,52.0,101.575,3.0,MEDIUM,7.0,1,True,Alpine,True,14.0,27.323,40.614,33.638,,False,False,9557.28,19,United States Grand Prix
+OCO,53.0,101.555,3.0,MEDIUM,8.0,1,True,Alpine,True,14.0,27.198,40.85,33.507,,False,False,9658.835,19,United States Grand Prix
+OCO,54.0,102.359,3.0,MEDIUM,9.0,1,True,Alpine,True,14.0,27.156,41.29,33.913,,False,False,9761.194,19,United States Grand Prix
+OCO,55.0,102.129,3.0,MEDIUM,10.0,1,True,Alpine,True,13.0,27.265,40.908,33.956,,False,False,9863.323,19,United States Grand Prix
+OCO,56.0,101.652,3.0,MEDIUM,11.0,1,True,Alpine,True,12.0,27.212,40.86,33.58,,False,False,9964.975,19,United States Grand Prix
+NOR,1.0,107.107,1.0,MEDIUM,1.0,12,False,McLaren,True,6.0,,42.261,34.201,,False,False,3867.52,19,United States Grand Prix
+NOR,2.0,104.959,1.0,MEDIUM,2.0,1,True,McLaren,True,7.0,28.514,42.06,34.385,,False,False,3972.479,19,United States Grand Prix
+NOR,3.0,103.762,1.0,MEDIUM,3.0,1,True,McLaren,True,7.0,28.223,41.551,33.988,,False,False,4076.241,19,United States Grand Prix
+NOR,4.0,104.808,1.0,MEDIUM,4.0,1,True,McLaren,True,8.0,28.233,42.104,34.471,,False,False,4181.049,19,United States Grand Prix
+NOR,5.0,105.329,1.0,MEDIUM,5.0,1,True,McLaren,True,8.0,28.322,41.835,35.172,,False,False,4286.378,19,United States Grand Prix
+NOR,6.0,104.235,1.0,MEDIUM,6.0,1,True,McLaren,True,8.0,28.25,41.894,34.091,,False,False,4390.613,19,United States Grand Prix
+NOR,7.0,104.974,1.0,MEDIUM,7.0,1,True,McLaren,True,9.0,28.241,42.101,34.632,,False,False,4495.587,19,United States Grand Prix
+NOR,8.0,104.528,1.0,MEDIUM,8.0,1,True,McLaren,True,9.0,28.306,41.623,34.599,,False,False,4600.115,19,United States Grand Prix
+NOR,9.0,105.051,1.0,MEDIUM,9.0,1,True,McLaren,True,9.0,28.499,41.76,34.792,,False,False,4705.166,19,United States Grand Prix
+NOR,10.0,104.31,1.0,MEDIUM,10.0,1,True,McLaren,True,9.0,28.296,41.545,34.469,,False,False,4809.476,19,United States Grand Prix
+NOR,11.0,104.614,1.0,MEDIUM,11.0,1,True,McLaren,True,9.0,28.177,41.936,34.501,,False,False,4914.09,19,United States Grand Prix
+NOR,12.0,103.983,1.0,MEDIUM,12.0,1,True,McLaren,True,8.0,27.772,41.989,34.222,,False,False,5018.073,19,United States Grand Prix
+NOR,13.0,104.788,1.0,MEDIUM,13.0,1,True,McLaren,True,8.0,28.341,42.13,34.317,,False,False,5122.861,19,United States Grand Prix
+NOR,14.0,103.971,1.0,MEDIUM,14.0,1,False,McLaren,True,7.0,28.309,41.796,33.866,,True,False,5226.832,19,United States Grand Prix
+NOR,15.0,123.849,2.0,HARD,1.0,1,False,McLaren,True,14.0,48.461,41.483,33.905,,False,True,5350.681,19,United States Grand Prix
+NOR,16.0,103.834,2.0,HARD,2.0,1,True,McLaren,True,14.0,28.389,41.372,34.073,,False,False,5454.515,19,United States Grand Prix
+NOR,17.0,103.856,2.0,HARD,3.0,12,True,McLaren,True,13.0,28.109,41.554,34.193,,False,False,5558.371,19,United States Grand Prix
+NOR,18.0,129.373,2.0,HARD,4.0,24,False,McLaren,True,13.0,28.041,55.229,46.103,,False,False,5687.744,19,United States Grand Prix
+NOR,19.0,141.589,2.0,HARD,5.0,4,False,McLaren,True,10.0,38.878,54.637,48.074,,False,False,5829.333,19,United States Grand Prix
+NOR,20.0,151.162,2.0,HARD,6.0,4,False,McLaren,True,10.0,36.19,60.128,54.844,,False,False,5980.495,19,United States Grand Prix
+NOR,21.0,146.451,2.0,HARD,7.0,41,False,McLaren,True,10.0,32.223,61.144,53.084,,False,False,6126.946,19,United States Grand Prix
+NOR,22.0,131.144,2.0,HARD,8.0,124,False,McLaren,True,9.0,29.398,46.1,55.646,,False,False,6258.09,19,United States Grand Prix
+NOR,23.0,174.352,2.0,HARD,9.0,4,False,McLaren,True,10.0,36.591,88.162,49.599,,False,False,6432.442,19,United States Grand Prix
+NOR,24.0,169.754,2.0,HARD,10.0,4,False,McLaren,True,9.0,38.37,83.375,48.009,,False,False,6602.196,19,United States Grand Prix
+NOR,25.0,149.536,2.0,HARD,11.0,41,False,McLaren,True,9.0,38.975,59.77,50.791,,False,False,6751.732,19,United States Grand Prix
+NOR,26.0,103.684,2.0,HARD,12.0,1,True,McLaren,True,9.0,28.304,41.424,33.956,,False,False,6855.416,19,United States Grand Prix
+NOR,27.0,103.462,2.0,HARD,13.0,1,True,McLaren,True,9.0,28.04,41.555,33.867,,False,False,6958.878,19,United States Grand Prix
+NOR,28.0,103.87,2.0,HARD,14.0,1,True,McLaren,True,9.0,28.081,41.023,34.766,,False,False,7062.748,19,United States Grand Prix
+NOR,29.0,103.388,2.0,HARD,15.0,1,True,McLaren,True,9.0,28.093,41.117,34.178,,False,False,7166.136,19,United States Grand Prix
+NOR,30.0,103.149,2.0,HARD,16.0,1,True,McLaren,True,9.0,27.779,41.126,34.244,,False,False,7269.285,19,United States Grand Prix
+NOR,31.0,103.268,2.0,HARD,17.0,1,True,McLaren,True,9.0,27.918,41.106,34.244,,False,False,7372.553,19,United States Grand Prix
+NOR,32.0,103.076,2.0,HARD,18.0,1,True,McLaren,True,9.0,27.904,41.092,34.08,,False,False,7475.629,19,United States Grand Prix
+NOR,33.0,102.83,2.0,HARD,19.0,1,True,McLaren,True,8.0,27.569,41.01,34.251,,False,False,7578.459,19,United States Grand Prix
+NOR,34.0,102.61,2.0,HARD,20.0,1,False,McLaren,True,7.0,27.473,41.297,33.84,,True,False,7681.069,19,United States Grand Prix
+NOR,35.0,122.069,3.0,HARD,1.0,1,False,McLaren,True,15.0,47.641,40.676,33.752,,False,True,7803.138,19,United States Grand Prix
+NOR,36.0,103.173,3.0,HARD,2.0,1,True,McLaren,True,14.0,27.706,40.942,34.525,,False,False,7906.311,19,United States Grand Prix
+NOR,37.0,102.422,3.0,HARD,3.0,1,True,McLaren,True,13.0,27.717,41.232,33.473,,False,False,8008.733,19,United States Grand Prix
+NOR,38.0,102.155,3.0,HARD,4.0,1,True,McLaren,True,13.0,27.687,41.102,33.366,,False,False,8110.888,19,United States Grand Prix
+NOR,39.0,101.868,3.0,HARD,5.0,1,True,McLaren,True,13.0,27.644,40.791,33.433,,False,False,8212.756,19,United States Grand Prix
+NOR,40.0,101.965,3.0,HARD,6.0,1,True,McLaren,True,13.0,27.752,40.625,33.588,,False,False,8314.721,19,United States Grand Prix
+NOR,41.0,102.573,3.0,HARD,7.0,1,True,McLaren,True,13.0,27.8,40.887,33.886,,False,False,8417.294,19,United States Grand Prix
+NOR,42.0,101.991,3.0,HARD,8.0,1,True,McLaren,True,11.0,27.447,41.061,33.483,,False,False,8519.285,19,United States Grand Prix
+NOR,43.0,102.152,3.0,HARD,9.0,1,True,McLaren,True,10.0,27.503,40.754,33.895,,False,False,8621.437,19,United States Grand Prix
+NOR,44.0,101.849,3.0,HARD,10.0,1,True,McLaren,True,9.0,27.37,41.08,33.399,,False,False,8723.286,19,United States Grand Prix
+NOR,45.0,102.184,3.0,HARD,11.0,1,True,McLaren,True,8.0,27.802,40.96,33.422,,False,False,8825.47,19,United States Grand Prix
+NOR,46.0,101.827,3.0,HARD,12.0,1,True,McLaren,True,8.0,27.445,40.99,33.392,,False,False,8927.297,19,United States Grand Prix
+NOR,47.0,101.497,3.0,HARD,13.0,1,True,McLaren,True,8.0,27.351,40.956,33.19,,False,False,9028.794,19,United States Grand Prix
+NOR,48.0,101.598,3.0,HARD,14.0,1,True,McLaren,True,8.0,27.374,41.157,33.067,,False,False,9130.392,19,United States Grand Prix
+NOR,49.0,101.322,3.0,HARD,15.0,1,True,McLaren,True,7.0,27.391,40.628,33.303,,False,False,9231.714,19,United States Grand Prix
+NOR,50.0,101.776,3.0,HARD,16.0,1,True,McLaren,True,7.0,27.34,41.081,33.355,,False,False,9333.49,19,United States Grand Prix
+NOR,51.0,101.908,3.0,HARD,17.0,1,True,McLaren,True,7.0,27.388,41.137,33.383,,False,False,9435.398,19,United States Grand Prix
+NOR,52.0,101.603,3.0,HARD,18.0,1,True,McLaren,True,7.0,27.282,40.562,33.759,,False,False,9537.001,19,United States Grand Prix
+NOR,53.0,102.026,3.0,HARD,19.0,1,True,McLaren,True,7.0,27.322,40.924,33.78,,False,False,9639.027,19,United States Grand Prix
+NOR,54.0,102.596,3.0,HARD,20.0,1,True,McLaren,True,7.0,27.748,41.014,33.834,,False,False,9741.623,19,United States Grand Prix
+NOR,55.0,102.378,3.0,HARD,21.0,1,True,McLaren,True,6.0,27.389,41.03,33.959,,False,False,9844.001,19,United States Grand Prix
+NOR,56.0,101.884,3.0,HARD,22.0,1,True,McLaren,True,6.0,27.245,40.953,33.686,,False,False,9945.885,19,United States Grand Prix
+HAM,1.0,102.63,1.0,MEDIUM,1.0,12,False,Mercedes,True,2.0,,41.047,33.186,,False,False,3863.043,19,United States Grand Prix
+HAM,2.0,102.325,1.0,MEDIUM,2.0,1,True,Mercedes,True,2.0,28.114,41.003,33.208,,False,False,3965.368,19,United States Grand Prix
+HAM,3.0,102.175,1.0,MEDIUM,3.0,1,True,Mercedes,True,2.0,27.748,40.959,33.468,,False,False,4067.543,19,United States Grand Prix
+HAM,4.0,102.798,1.0,MEDIUM,4.0,1,True,Mercedes,True,2.0,27.864,41.266,33.668,,False,False,4170.341,19,United States Grand Prix
+HAM,5.0,103.196,1.0,MEDIUM,5.0,1,True,Mercedes,True,2.0,27.883,41.727,33.586,,False,False,4273.537,19,United States Grand Prix
+HAM,6.0,102.576,1.0,MEDIUM,6.0,1,True,Mercedes,True,2.0,27.899,41.096,33.581,,False,False,4376.113,19,United States Grand Prix
+HAM,7.0,102.702,1.0,MEDIUM,7.0,1,True,Mercedes,True,2.0,27.778,41.361,33.563,,False,False,4478.815,19,United States Grand Prix
+HAM,8.0,103.212,1.0,MEDIUM,8.0,1,True,Mercedes,True,2.0,27.891,41.583,33.738,,False,False,4582.027,19,United States Grand Prix
+HAM,9.0,102.672,1.0,MEDIUM,9.0,1,True,Mercedes,True,2.0,27.809,41.359,33.504,,False,False,4684.699,19,United States Grand Prix
+HAM,10.0,102.719,1.0,MEDIUM,10.0,1,True,Mercedes,True,2.0,27.666,41.369,33.684,,False,False,4787.418,19,United States Grand Prix
+HAM,11.0,103.208,1.0,MEDIUM,11.0,1,True,Mercedes,True,2.0,27.785,41.797,33.626,,False,False,4890.626,19,United States Grand Prix
+HAM,12.0,103.817,1.0,MEDIUM,12.0,1,False,Mercedes,True,2.0,27.961,41.621,34.235,,True,False,4994.443,19,United States Grand Prix
+HAM,13.0,122.611,2.0,HARD,1.0,1,False,Mercedes,True,7.0,48.042,41.05,33.519,,False,True,5117.054,19,United States Grand Prix
+HAM,14.0,102.69,2.0,HARD,2.0,1,True,Mercedes,True,6.0,27.935,41.174,33.581,,False,False,5219.744,19,United States Grand Prix
+HAM,15.0,102.891,2.0,HARD,3.0,1,True,Mercedes,True,5.0,27.856,41.13,33.905,,False,False,5322.635,19,United States Grand Prix
+HAM,16.0,102.061,2.0,HARD,4.0,1,True,Mercedes,True,3.0,27.472,40.993,33.596,,False,False,5424.696,19,United States Grand Prix
+HAM,17.0,102.511,2.0,HARD,5.0,1,True,Mercedes,True,3.0,27.67,41.286,33.555,,False,False,5527.207,19,United States Grand Prix
+HAM,18.0,118.436,2.0,HARD,6.0,124,False,Mercedes,True,3.0,27.601,45.915,44.92,,False,False,5645.643,19,United States Grand Prix
+HAM,19.0,160.143,2.0,HARD,7.0,4,False,Mercedes,True,2.0,38.171,69.399,52.573,,False,False,5805.786,19,United States Grand Prix
+HAM,20.0,156.411,2.0,HARD,8.0,4,False,Mercedes,True,2.0,44.303,60.943,51.165,,False,False,5962.197,19,United States Grand Prix
+HAM,21.0,161.098,2.0,HARD,9.0,41,False,Mercedes,True,2.0,41.006,59.293,60.799,,False,False,6123.295,19,United States Grand Prix
+HAM,22.0,122.702,2.0,HARD,10.0,124,False,Mercedes,True,2.0,27.744,41.026,53.932,,False,False,6245.997,19,United States Grand Prix
+HAM,23.0,171.553,2.0,HARD,11.0,4,False,Mercedes,True,2.0,41.013,80.33,50.21,,False,False,6417.55,19,United States Grand Prix
+HAM,24.0,172.764,2.0,HARD,12.0,4,False,Mercedes,True,2.0,43.904,78.689,50.171,,False,False,6590.314,19,United States Grand Prix
+HAM,25.0,156.888,2.0,HARD,13.0,41,False,Mercedes,True,2.0,41.346,61.052,54.49,,False,False,6747.202,19,United States Grand Prix
+HAM,26.0,101.933,2.0,HARD,14.0,1,True,Mercedes,True,2.0,27.823,41.05,33.06,,False,False,6849.135,19,United States Grand Prix
+HAM,27.0,101.842,2.0,HARD,15.0,1,True,Mercedes,True,2.0,27.631,41.162,33.049,,False,False,6950.977,19,United States Grand Prix
+HAM,28.0,101.523,2.0,HARD,16.0,1,True,Mercedes,True,2.0,27.305,41.035,33.183,,False,False,7052.5,19,United States Grand Prix
+HAM,29.0,101.304,2.0,HARD,17.0,1,True,Mercedes,True,2.0,27.366,40.84,33.098,,False,False,7153.804,19,United States Grand Prix
+HAM,30.0,101.31,2.0,HARD,18.0,1,True,Mercedes,True,2.0,27.419,40.645,33.246,,False,False,7255.114,19,United States Grand Prix
+HAM,31.0,101.567,2.0,HARD,19.0,1,True,Mercedes,True,2.0,27.22,40.966,33.381,,False,False,7356.681,19,United States Grand Prix
+HAM,32.0,101.183,2.0,HARD,20.0,1,True,Mercedes,True,2.0,27.263,40.724,33.196,,False,False,7457.864,19,United States Grand Prix
+HAM,33.0,101.358,2.0,HARD,21.0,1,True,Mercedes,True,2.0,27.269,40.856,33.233,,False,False,7559.222,19,United States Grand Prix
+HAM,34.0,101.838,2.0,HARD,22.0,1,False,Mercedes,True,2.0,27.366,40.791,33.681,,True,False,7661.06,19,United States Grand Prix
+HAM,35.0,120.074,3.0,HARD,1.0,1,False,Mercedes,True,6.0,47.269,40.246,32.559,,False,True,7781.134,19,United States Grand Prix
+HAM,36.0,100.395,3.0,HARD,2.0,1,True,Mercedes,True,4.0,27.076,40.508,32.811,,False,False,7881.529,19,United States Grand Prix
+HAM,37.0,100.763,3.0,HARD,3.0,1,True,Mercedes,True,3.0,27.226,40.626,32.911,,False,False,7982.292,19,United States Grand Prix
+HAM,38.0,100.519,3.0,HARD,4.0,1,True,Mercedes,True,3.0,27.184,40.394,32.941,,False,False,8082.811,19,United States Grand Prix
+HAM,39.0,100.629,3.0,HARD,5.0,1,True,Mercedes,True,2.0,27.161,40.642,32.826,,False,False,8183.44,19,United States Grand Prix
+HAM,40.0,101.104,3.0,HARD,6.0,1,True,Mercedes,True,2.0,27.262,40.325,33.517,,False,False,8284.544,19,United States Grand Prix
+HAM,41.0,100.232,3.0,HARD,7.0,1,True,Mercedes,True,1.0,26.91,40.562,32.76,,False,False,8384.776,19,United States Grand Prix
+HAM,42.0,100.123,3.0,HARD,8.0,1,True,Mercedes,True,1.0,27.095,40.315,32.713,,False,False,8484.899,19,United States Grand Prix
+HAM,43.0,100.309,3.0,HARD,9.0,1,True,Mercedes,True,1.0,26.933,40.409,32.967,,False,False,8585.208,19,United States Grand Prix
+HAM,44.0,100.845,3.0,HARD,10.0,1,True,Mercedes,True,1.0,27.261,40.748,32.836,,False,False,8686.053,19,United States Grand Prix
+HAM,45.0,99.83,3.0,HARD,11.0,1,True,Mercedes,True,1.0,26.979,40.253,32.598,,False,False,8785.883,19,United States Grand Prix
+HAM,46.0,100.386,3.0,HARD,12.0,1,True,Mercedes,True,1.0,27.086,40.616,32.684,,False,False,8886.269,19,United States Grand Prix
+HAM,47.0,100.595,3.0,HARD,13.0,1,True,Mercedes,True,1.0,27.074,40.532,32.989,,False,False,8986.864,19,United States Grand Prix
+HAM,48.0,100.372,3.0,HARD,14.0,1,True,Mercedes,True,1.0,26.958,40.543,32.871,,False,False,9087.236,19,United States Grand Prix
+HAM,49.0,100.817,3.0,HARD,15.0,1,True,Mercedes,True,1.0,27.302,40.542,32.973,,False,False,9188.053,19,United States Grand Prix
+HAM,50.0,102.27,3.0,HARD,16.0,1,True,Mercedes,True,2.0,27.03,41.161,34.079,,False,False,9290.323,19,United States Grand Prix
+HAM,51.0,100.443,3.0,HARD,17.0,1,True,Mercedes,True,2.0,26.943,40.357,33.143,,False,False,9390.766,19,United States Grand Prix
+HAM,52.0,100.422,3.0,HARD,18.0,1,True,Mercedes,True,2.0,26.968,40.139,33.315,,False,False,9491.188,19,United States Grand Prix
+HAM,53.0,100.555,3.0,HARD,19.0,1,True,Mercedes,True,2.0,26.856,40.177,33.522,,False,False,9591.743,19,United States Grand Prix
+HAM,54.0,101.271,3.0,HARD,20.0,1,True,Mercedes,True,2.0,27.083,40.579,33.609,,False,False,9693.014,19,United States Grand Prix
+HAM,55.0,101.935,3.0,HARD,21.0,1,True,Mercedes,True,2.0,27.131,41.199,33.605,,False,False,9794.949,19,United States Grand Prix
+HAM,56.0,102.174,3.0,HARD,22.0,1,True,Mercedes,True,2.0,27.292,41.181,33.701,,False,False,9897.123,19,United States Grand Prix
+MSC,1.0,112.255,1.0,HARD,1.0,12,False,Haas F1 Team,True,15.0,,43.351,35.657,,False,False,3872.668,19,United States Grand Prix
+MSC,2.0,106.655,1.0,HARD,2.0,1,True,Haas F1 Team,True,17.0,29.55,42.388,34.717,,False,False,3979.323,19,United States Grand Prix
+MSC,3.0,104.896,1.0,HARD,3.0,1,True,Haas F1 Team,True,17.0,28.726,41.338,34.832,,False,False,4084.219,19,United States Grand Prix
+MSC,4.0,104.344,1.0,HARD,4.0,1,True,Haas F1 Team,True,17.0,28.349,41.519,34.476,,False,False,4188.563,19,United States Grand Prix
+MSC,5.0,104.762,1.0,HARD,5.0,1,True,Haas F1 Team,True,16.0,28.295,41.829,34.638,,False,False,4293.325,19,United States Grand Prix
+MSC,6.0,105.129,1.0,HARD,6.0,1,True,Haas F1 Team,True,16.0,28.331,41.881,34.917,,False,False,4398.454,19,United States Grand Prix
+MSC,7.0,104.958,1.0,HARD,7.0,1,True,Haas F1 Team,True,16.0,28.25,42.033,34.675,,False,False,4503.412,19,United States Grand Prix
+MSC,8.0,105.108,1.0,HARD,8.0,1,True,Haas F1 Team,True,16.0,28.375,41.869,34.864,,False,False,4608.52,19,United States Grand Prix
+MSC,9.0,105.13,1.0,HARD,9.0,1,True,Haas F1 Team,True,16.0,28.228,42.257,34.645,,False,False,4713.65,19,United States Grand Prix
+MSC,10.0,105.9,1.0,HARD,10.0,1,True,Haas F1 Team,True,15.0,28.083,41.594,36.223,,False,False,4819.55,19,United States Grand Prix
+MSC,11.0,104.452,1.0,HARD,11.0,1,True,Haas F1 Team,True,12.0,28.201,41.618,34.633,,False,False,4924.002,19,United States Grand Prix
+MSC,12.0,104.356,1.0,HARD,12.0,1,True,Haas F1 Team,True,11.0,27.96,41.838,34.558,,False,False,5028.358,19,United States Grand Prix
+MSC,13.0,104.958,1.0,HARD,13.0,1,True,Haas F1 Team,True,10.0,28.385,41.821,34.752,,False,False,5133.316,19,United States Grand Prix
+MSC,14.0,104.091,1.0,HARD,14.0,1,True,Haas F1 Team,True,10.0,28.365,41.636,34.09,,False,False,5237.407,19,United States Grand Prix
+MSC,15.0,104.256,1.0,HARD,15.0,1,True,Haas F1 Team,True,9.0,28.143,41.987,34.126,,False,False,5341.663,19,United States Grand Prix
+MSC,16.0,106.247,1.0,HARD,16.0,1,True,Haas F1 Team,True,10.0,29.215,42.375,34.657,,False,False,5447.91,19,United States Grand Prix
+MSC,17.0,104.669,1.0,HARD,17.0,1,True,Haas F1 Team,True,10.0,28.026,41.913,34.73,,False,False,5552.579,19,United States Grand Prix
+MSC,18.0,126.524,1.0,HARD,18.0,124,False,Haas F1 Team,True,10.0,27.983,55.355,43.186,,True,False,5679.103,19,United States Grand Prix
+MSC,19.0,156.657,2.0,MEDIUM,1.0,4,False,Haas F1 Team,True,13.0,55.9,55.048,45.709,,False,True,5835.76,19,United States Grand Prix
+MSC,20.0,149.148,2.0,MEDIUM,2.0,4,False,Haas F1 Team,True,13.0,34.692,59.042,55.414,,False,False,5984.908,19,United States Grand Prix
+MSC,21.0,143.171,2.0,MEDIUM,3.0,41,False,Haas F1 Team,True,13.0,31.972,61.484,49.715,,False,False,6128.079,19,United States Grand Prix
+MSC,22.0,131.116,2.0,MEDIUM,4.0,124,False,Haas F1 Team,True,10.0,28.859,49.118,53.139,,False,False,6259.195,19,United States Grand Prix
+MSC,23.0,174.018,2.0,MEDIUM,5.0,4,False,Haas F1 Team,True,11.0,36.561,90.176,47.281,,False,False,6433.213,19,United States Grand Prix
+MSC,24.0,169.993,2.0,MEDIUM,6.0,4,False,Haas F1 Team,True,10.0,38.211,84.627,47.155,,False,False,6603.206,19,United States Grand Prix
+MSC,25.0,148.906,2.0,MEDIUM,7.0,41,False,Haas F1 Team,True,10.0,38.66,60.389,49.857,,False,False,6752.112,19,United States Grand Prix
+MSC,26.0,103.679,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,10.0,28.349,41.389,33.941,,False,False,6855.791,19,United States Grand Prix
+MSC,27.0,103.676,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,10.0,28.178,41.483,34.015,,False,False,6959.467,19,United States Grand Prix
+MSC,28.0,103.711,2.0,MEDIUM,10.0,1,True,Haas F1 Team,True,10.0,28.093,40.962,34.656,,False,False,7063.178,19,United States Grand Prix
+MSC,29.0,103.436,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,10.0,28.175,41.079,34.182,,False,False,7166.614,19,United States Grand Prix
+MSC,30.0,103.184,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,10.0,27.843,41.03,34.311,,False,False,7269.798,19,United States Grand Prix
+MSC,31.0,103.418,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,10.0,27.84,41.303,34.275,,False,False,7373.216,19,United States Grand Prix
+MSC,32.0,103.164,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,10.0,27.854,41.204,34.106,,False,False,7476.38,19,United States Grand Prix
+MSC,33.0,103.314,2.0,MEDIUM,15.0,1,False,Haas F1 Team,True,9.0,27.855,41.256,34.203,,True,False,7579.694,19,United States Grand Prix
+MSC,34.0,123.828,3.0,HARD,1.0,1,False,Haas F1 Team,True,16.0,48.94,41.341,33.547,,False,True,7703.522,19,United States Grand Prix
+MSC,35.0,102.461,3.0,HARD,2.0,1,True,Haas F1 Team,True,16.0,27.877,40.999,33.585,,False,False,7805.983,19,United States Grand Prix
+MSC,36.0,102.52,3.0,HARD,3.0,1,True,Haas F1 Team,True,15.0,27.843,41.099,33.578,,False,False,7908.503,19,United States Grand Prix
+MSC,37.0,103.096,3.0,HARD,4.0,1,True,Haas F1 Team,True,15.0,27.857,41.214,34.025,,False,False,8011.599,19,United States Grand Prix
+MSC,38.0,103.152,3.0,HARD,5.0,1,True,Haas F1 Team,True,14.0,27.74,41.494,33.918,,False,False,8114.751,19,United States Grand Prix
+MSC,39.0,102.899,3.0,HARD,6.0,1,True,Haas F1 Team,True,14.0,27.78,41.033,34.086,,False,False,8217.65,19,United States Grand Prix
+MSC,40.0,103.964,3.0,HARD,7.0,1,True,Haas F1 Team,True,15.0,28.019,41.682,34.263,,False,False,8321.614,19,United States Grand Prix
+MSC,41.0,103.042,3.0,HARD,8.0,1,True,Haas F1 Team,True,15.0,27.832,41.447,33.763,,False,False,8424.656,19,United States Grand Prix
+MSC,42.0,103.012,3.0,HARD,9.0,1,True,Haas F1 Team,True,15.0,27.852,41.314,33.846,,False,False,8527.668,19,United States Grand Prix
+MSC,43.0,102.966,3.0,HARD,10.0,1,True,Haas F1 Team,True,15.0,27.875,41.317,33.774,,False,False,8630.634,19,United States Grand Prix
+MSC,44.0,103.012,3.0,HARD,11.0,1,True,Haas F1 Team,True,15.0,28.003,41.199,33.81,,False,False,8733.646,19,United States Grand Prix
+MSC,45.0,103.285,3.0,HARD,12.0,1,True,Haas F1 Team,True,15.0,28.056,41.253,33.976,,False,False,8836.931,19,United States Grand Prix
+MSC,46.0,103.147,3.0,HARD,13.0,1,True,Haas F1 Team,True,14.0,27.901,41.458,33.788,,False,False,8940.078,19,United States Grand Prix
+MSC,47.0,102.882,3.0,HARD,14.0,1,True,Haas F1 Team,True,14.0,27.871,41.18,33.831,,False,False,9042.96,19,United States Grand Prix
+MSC,48.0,103.017,3.0,HARD,15.0,1,True,Haas F1 Team,True,14.0,27.88,41.438,33.699,,False,False,9145.977,19,United States Grand Prix
+MSC,49.0,103.093,3.0,HARD,16.0,1,True,Haas F1 Team,True,14.0,27.917,41.13,34.046,,False,False,9249.07,19,United States Grand Prix
+MSC,50.0,103.0,3.0,HARD,17.0,1,True,Haas F1 Team,True,14.0,27.916,41.335,33.749,,False,False,9352.07,19,United States Grand Prix
+MSC,51.0,102.627,3.0,HARD,18.0,1,True,Haas F1 Team,True,14.0,27.669,41.157,33.801,,False,False,9454.697,19,United States Grand Prix
+MSC,52.0,103.687,3.0,HARD,19.0,1,True,Haas F1 Team,True,15.0,27.806,41.403,34.478,,False,False,9558.384,19,United States Grand Prix
+MSC,53.0,103.321,3.0,HARD,20.0,1,True,Haas F1 Team,True,15.0,27.613,41.103,34.605,,False,False,9661.705,19,United States Grand Prix
+MSC,54.0,104.077,3.0,HARD,21.0,1,True,Haas F1 Team,True,15.0,27.945,41.882,34.25,,False,False,9765.782,19,United States Grand Prix
+MSC,55.0,102.32,3.0,HARD,22.0,1,True,Haas F1 Team,True,15.0,27.716,40.952,33.652,,False,False,9868.102,19,United States Grand Prix
+MSC,56.0,103.488,3.0,HARD,23.0,1,True,Haas F1 Team,True,15.0,27.62,41.14,34.728,,False,False,9971.59,19,United States Grand Prix
+VET,1.0,106.02,1.0,MEDIUM,2.0,12,False,Aston Martin,False,5.0,,41.53,34.073,,False,False,3866.433,19,United States Grand Prix
+VET,2.0,103.49,1.0,MEDIUM,3.0,1,True,Aston Martin,False,5.0,28.242,41.327,33.921,,False,False,3969.923,19,United States Grand Prix
+VET,3.0,103.031,1.0,MEDIUM,4.0,1,True,Aston Martin,False,5.0,28.123,41.142,33.766,,False,False,4072.954,19,United States Grand Prix
+VET,4.0,104.27,1.0,MEDIUM,5.0,1,True,Aston Martin,False,6.0,28.1,41.72,34.45,,False,False,4177.224,19,United States Grand Prix
+VET,5.0,104.329,1.0,MEDIUM,6.0,1,True,Aston Martin,False,6.0,28.311,41.759,34.259,,False,False,4281.553,19,United States Grand Prix
+VET,6.0,104.061,1.0,MEDIUM,7.0,1,True,Aston Martin,False,6.0,28.308,41.594,34.159,,False,False,4385.614,19,United States Grand Prix
+VET,7.0,103.645,1.0,MEDIUM,8.0,1,True,Aston Martin,False,6.0,28.159,41.352,34.134,,False,False,4489.259,19,United States Grand Prix
+VET,8.0,104.368,1.0,MEDIUM,9.0,1,True,Aston Martin,False,6.0,28.498,41.475,34.395,,False,False,4593.627,19,United States Grand Prix
+VET,9.0,104.044,1.0,MEDIUM,10.0,1,True,Aston Martin,False,6.0,28.333,41.611,34.1,,False,False,4697.671,19,United States Grand Prix
+VET,10.0,103.69,1.0,MEDIUM,11.0,1,True,Aston Martin,False,6.0,28.231,41.373,34.086,,False,False,4801.361,19,United States Grand Prix
+VET,11.0,103.66,1.0,MEDIUM,12.0,1,True,Aston Martin,False,6.0,28.056,41.419,34.185,,False,False,4905.021,19,United States Grand Prix
+VET,12.0,104.812,1.0,MEDIUM,13.0,1,True,Aston Martin,False,7.0,28.235,41.831,34.746,,False,False,5009.833,19,United States Grand Prix
+VET,13.0,104.317,1.0,MEDIUM,14.0,1,True,Aston Martin,False,6.0,28.278,41.764,34.275,,False,False,5114.15,19,United States Grand Prix
+VET,14.0,104.192,1.0,MEDIUM,15.0,1,True,Aston Martin,False,5.0,28.391,41.564,34.237,,False,False,5218.342,19,United States Grand Prix
+VET,15.0,103.746,1.0,MEDIUM,16.0,1,True,Aston Martin,False,4.0,28.176,41.404,34.166,,False,False,5322.088,19,United States Grand Prix
+VET,16.0,103.888,1.0,MEDIUM,17.0,1,True,Aston Martin,False,4.0,28.782,41.316,33.79,,False,False,5425.976,19,United States Grand Prix
+VET,17.0,103.499,1.0,MEDIUM,18.0,1,True,Aston Martin,False,4.0,28.021,41.581,33.897,,False,False,5529.475,19,United States Grand Prix
+VET,18.0,117.936,1.0,MEDIUM,19.0,124,False,Aston Martin,False,4.0,27.961,46.349,43.626,,True,False,5647.411,19,United States Grand Prix
+VET,19.0,170.926,2.0,MEDIUM,2.0,4,False,Aston Martin,False,6.0,57.31,57.026,56.59,,False,True,5818.337,19,United States Grand Prix
+VET,20.0,151.704,2.0,MEDIUM,3.0,4,False,Aston Martin,False,6.0,37.616,62.182,51.906,,False,False,5970.041,19,United States Grand Prix
+VET,21.0,155.222,2.0,MEDIUM,4.0,41,False,Aston Martin,False,6.0,38.109,59.342,57.771,,False,False,6125.263,19,United States Grand Prix
+VET,22.0,126.062,2.0,MEDIUM,5.0,124,False,Aston Martin,False,6.0,28.586,41.424,56.052,,False,False,6251.325,19,United States Grand Prix
+VET,23.0,172.896,2.0,MEDIUM,6.0,4,False,Aston Martin,False,6.0,39.223,84.276,49.397,,False,False,6424.221,19,United States Grand Prix
+VET,24.0,172.139,2.0,MEDIUM,7.0,4,False,Aston Martin,False,6.0,41.333,81.869,48.937,,False,False,6596.36,19,United States Grand Prix
+VET,25.0,152.739,2.0,MEDIUM,8.0,41,False,Aston Martin,False,6.0,40.463,60.263,52.013,,False,False,6749.099,19,United States Grand Prix
+VET,26.0,103.762,2.0,MEDIUM,9.0,1,True,Aston Martin,False,6.0,28.412,41.363,33.987,,False,False,6852.861,19,United States Grand Prix
+VET,27.0,102.701,2.0,MEDIUM,10.0,1,True,Aston Martin,False,6.0,28.045,40.939,33.717,,False,False,6955.562,19,United States Grand Prix
+VET,28.0,102.521,2.0,MEDIUM,11.0,1,True,Aston Martin,False,6.0,27.866,41.022,33.633,,False,False,7058.083,19,United States Grand Prix
+VET,29.0,102.48,2.0,MEDIUM,12.0,1,True,Aston Martin,False,6.0,28.0,40.826,33.654,,False,False,7160.563,19,United States Grand Prix
+VET,30.0,102.432,2.0,MEDIUM,13.0,1,True,Aston Martin,False,6.0,27.904,40.949,33.579,,False,False,7262.995,19,United States Grand Prix
+VET,31.0,102.166,2.0,MEDIUM,14.0,1,True,Aston Martin,False,6.0,27.704,40.986,33.476,,False,False,7365.161,19,United States Grand Prix
+VET,32.0,102.332,2.0,MEDIUM,15.0,1,True,Aston Martin,False,6.0,27.816,40.989,33.527,,False,False,7467.493,19,United States Grand Prix
+VET,33.0,102.457,2.0,MEDIUM,16.0,1,True,Aston Martin,False,6.0,27.888,40.925,33.644,,False,False,7569.95,19,United States Grand Prix
+VET,34.0,102.174,2.0,MEDIUM,17.0,1,True,Aston Martin,False,6.0,27.905,40.831,33.438,,False,False,7672.124,19,United States Grand Prix
+VET,35.0,101.884,2.0,MEDIUM,18.0,1,True,Aston Martin,False,5.0,27.682,40.781,33.421,,False,False,7774.008,19,United States Grand Prix
+VET,36.0,102.176,2.0,MEDIUM,19.0,1,True,Aston Martin,False,3.0,27.6,40.893,33.683,,False,False,7876.184,19,United States Grand Prix
+VET,37.0,102.032,2.0,MEDIUM,20.0,1,True,Aston Martin,False,2.0,27.884,40.778,33.37,,False,False,7978.216,19,United States Grand Prix
+VET,38.0,101.932,2.0,MEDIUM,21.0,1,True,Aston Martin,False,2.0,27.764,40.817,33.351,,False,False,8080.148,19,United States Grand Prix
+VET,39.0,101.538,2.0,MEDIUM,22.0,1,True,Aston Martin,False,1.0,27.618,40.764,33.156,,False,False,8181.686,19,United States Grand Prix
+VET,40.0,102.416,2.0,MEDIUM,23.0,1,True,Aston Martin,False,1.0,27.78,40.931,33.705,,False,False,8284.102,19,United States Grand Prix
+VET,41.0,103.535,2.0,MEDIUM,24.0,1,False,Aston Martin,False,2.0,28.375,41.336,33.824,,True,False,8387.637,19,United States Grand Prix
+VET,42.0,136.679,3.0,HARD,2.0,1,False,Aston Martin,False,13.0,62.082,41.099,33.498,,False,True,8524.316,19,United States Grand Prix
+VET,43.0,101.861,3.0,HARD,3.0,1,True,Aston Martin,False,13.0,27.908,40.509,33.444,,False,False,8626.177,19,United States Grand Prix
+VET,44.0,102.073,3.0,HARD,4.0,1,True,Aston Martin,False,13.0,27.636,40.738,33.699,,False,False,8728.25,19,United States Grand Prix
+VET,45.0,102.141,3.0,HARD,5.0,1,True,Aston Martin,False,13.0,27.747,40.786,33.608,,False,False,8830.391,19,United States Grand Prix
+VET,46.0,102.151,3.0,HARD,6.0,1,True,Aston Martin,False,12.0,27.713,40.393,34.045,,False,False,8932.542,19,United States Grand Prix
+VET,47.0,103.139,3.0,HARD,7.0,1,True,Aston Martin,False,12.0,27.63,40.912,34.597,,False,False,9035.681,19,United States Grand Prix
+VET,48.0,102.157,3.0,HARD,8.0,1,True,Aston Martin,False,11.0,27.592,40.835,33.73,,False,False,9137.838,19,United States Grand Prix
+VET,49.0,102.37,3.0,HARD,9.0,1,True,Aston Martin,False,10.0,27.542,40.669,34.159,,False,False,9240.208,19,United States Grand Prix
+VET,50.0,102.492,3.0,HARD,10.0,1,True,Aston Martin,False,10.0,27.576,40.673,34.243,,False,False,9342.7,19,United States Grand Prix
+VET,51.0,103.352,3.0,HARD,11.0,1,True,Aston Martin,False,9.0,27.74,41.243,34.369,,False,False,9446.052,19,United States Grand Prix
+VET,52.0,102.032,3.0,HARD,12.0,1,True,Aston Martin,False,9.0,27.767,40.611,33.654,,False,False,9548.084,19,United States Grand Prix
+VET,53.0,102.035,3.0,HARD,13.0,1,True,Aston Martin,False,9.0,27.553,40.976,33.506,,False,False,9650.119,19,United States Grand Prix
+VET,54.0,101.924,3.0,HARD,14.0,1,True,Aston Martin,False,9.0,27.545,40.763,33.616,,False,False,9752.043,19,United States Grand Prix
+VET,55.0,101.822,3.0,HARD,15.0,1,True,Aston Martin,False,9.0,27.753,40.733,33.336,,False,False,9853.865,19,United States Grand Prix
+VET,56.0,103.589,3.0,HARD,16.0,1,True,Aston Martin,False,8.0,27.631,40.934,35.024,,False,False,9957.454,19,United States Grand Prix
+SAI,1.0,115.016,1.0,MEDIUM,1.0,12,False,Ferrari,True,19.0,,43.367,35.142,,True,False,3875.513,19,United States Grand Prix
+LAT,1.0,112.557,1.0,MEDIUM,1.0,12,False,Williams,True,16.0,,43.555,35.436,,False,False,3872.97,19,United States Grand Prix
+LAT,2.0,105.322,1.0,MEDIUM,2.0,1,True,Williams,True,15.0,28.693,42.032,34.597,,False,False,3978.292,19,United States Grand Prix
+LAT,3.0,104.579,1.0,MEDIUM,3.0,1,True,Williams,True,15.0,28.588,41.246,34.745,,False,False,4082.871,19,United States Grand Prix
+LAT,4.0,104.561,1.0,MEDIUM,4.0,1,True,Williams,True,15.0,28.309,41.5,34.752,,False,False,4187.432,19,United States Grand Prix
+LAT,5.0,116.012,1.0,MEDIUM,5.0,1,False,Williams,True,19.0,36.387,44.536,35.089,,True,False,4303.444,19,United States Grand Prix
+LAT,6.0,124.309,2.0,MEDIUM,1.0,1,False,Williams,True,19.0,49.282,41.202,33.825,,False,True,4427.753,19,United States Grand Prix
+LAT,7.0,103.731,2.0,MEDIUM,2.0,1,True,Williams,True,19.0,28.11,41.362,34.259,,False,False,4531.484,19,United States Grand Prix
+LAT,8.0,104.512,2.0,MEDIUM,3.0,1,True,Williams,True,19.0,28.304,41.867,34.341,,False,False,4635.996,19,United States Grand Prix
+LAT,9.0,104.625,2.0,MEDIUM,4.0,1,True,Williams,True,19.0,28.291,41.879,34.455,,False,False,4740.621,19,United States Grand Prix
+LAT,10.0,104.478,2.0,MEDIUM,5.0,1,True,Williams,True,19.0,28.344,41.831,34.303,,False,False,4845.099,19,United States Grand Prix
+LAT,11.0,104.714,2.0,MEDIUM,6.0,1,True,Williams,True,19.0,28.266,41.858,34.59,,False,False,4949.813,19,United States Grand Prix
+LAT,12.0,104.698,2.0,MEDIUM,7.0,1,True,Williams,True,19.0,28.182,41.889,34.627,,False,False,5054.511,19,United States Grand Prix
+LAT,13.0,105.308,2.0,MEDIUM,8.0,1,True,Williams,True,19.0,28.29,42.093,34.925,,False,False,5159.819,19,United States Grand Prix
+LAT,14.0,104.485,2.0,MEDIUM,9.0,1,True,Williams,True,19.0,28.273,41.795,34.417,,False,False,5264.304,19,United States Grand Prix
+LAT,15.0,104.565,2.0,MEDIUM,10.0,1,True,Williams,True,19.0,28.021,41.781,34.763,,False,False,5368.869,19,United States Grand Prix
+LAT,16.0,105.021,2.0,MEDIUM,11.0,1,True,Williams,True,19.0,28.222,41.963,34.836,,False,False,5473.89,19,United States Grand Prix
+LAT,17.0,105.323,2.0,MEDIUM,12.0,12,True,Williams,True,18.0,28.226,42.077,35.02,,False,False,5579.213,19,United States Grand Prix
+LAT,18.0,134.61,2.0,MEDIUM,13.0,24,False,Williams,True,18.0,41.301,50.003,43.306,,True,False,5713.823,19,United States Grand Prix
+LAT,19.0,155.836,3.0,HARD,1.0,4,False,Williams,True,18.0,56.837,53.644,45.355,,False,True,5869.659,19,United States Grand Prix
+LAT,20.0,125.851,3.0,HARD,2.0,4,False,Williams,True,18.0,29.867,44.736,51.248,,False,False,5995.51,19,United States Grand Prix
+LAT,21.0,135.076,3.0,HARD,3.0,41,False,Williams,True,18.0,36.397,57.484,41.195,,False,False,6130.586,19,United States Grand Prix
+LAT,22.0,138.307,3.0,HARD,4.0,124,False,Williams,True,17.0,28.904,54.079,55.324,,False,False,6268.893,19,United States Grand Prix
+LAT,23.0,173.765,3.0,HARD,5.0,4,False,Williams,True,16.0,39.125,92.513,42.127,,False,False,6442.658,19,United States Grand Prix
+LAT,24.0,170.112,3.0,HARD,6.0,4,False,Williams,True,15.0,37.04,88.412,44.66,,False,False,6612.77,19,United States Grand Prix
+LAT,25.0,141.625,3.0,HARD,7.0,41,False,Williams,True,15.0,37.079,61.035,43.511,,False,False,6754.395,19,United States Grand Prix
+LAT,26.0,105.678,3.0,HARD,8.0,1,True,Williams,True,15.0,28.878,42.053,34.747,,False,False,6860.073,19,United States Grand Prix
+LAT,27.0,104.637,3.0,HARD,9.0,1,True,Williams,True,15.0,28.245,41.814,34.578,,False,False,6964.71,19,United States Grand Prix
+LAT,28.0,104.882,3.0,HARD,10.0,1,True,Williams,True,16.0,28.11,41.682,35.09,,False,False,7069.592,19,United States Grand Prix
+LAT,29.0,104.592,3.0,HARD,11.0,1,True,Williams,True,16.0,27.959,41.939,34.694,,False,False,7174.184,19,United States Grand Prix
+LAT,30.0,104.598,3.0,HARD,12.0,1,True,Williams,True,16.0,27.873,41.716,35.009,,False,False,7278.782,19,United States Grand Prix
+LAT,31.0,104.841,3.0,HARD,13.0,1,True,Williams,True,16.0,28.018,41.901,34.922,,False,False,7383.623,19,United States Grand Prix
+LAT,32.0,104.667,3.0,HARD,14.0,1,True,Williams,True,16.0,28.441,41.803,34.423,,False,False,7488.29,19,United States Grand Prix
+LAT,33.0,105.036,3.0,HARD,15.0,1,True,Williams,True,16.0,27.967,41.933,35.136,,False,False,7593.326,19,United States Grand Prix
+LAT,34.0,104.126,3.0,HARD,16.0,1,True,Williams,True,14.0,28.129,41.547,34.45,,False,False,7697.452,19,United States Grand Prix
+LAT,35.0,103.927,3.0,HARD,17.0,1,True,Williams,True,13.0,28.088,41.501,34.338,,False,False,7801.379,19,United States Grand Prix
+LAT,36.0,104.613,3.0,HARD,18.0,1,True,Williams,True,13.0,27.856,41.918,34.839,,False,False,7905.992,19,United States Grand Prix
+LAT,37.0,104.74,3.0,HARD,19.0,1,True,Williams,True,14.0,28.751,41.734,34.255,,False,False,8010.732,19,United States Grand Prix
+LAT,38.0,106.424,3.0,HARD,20.0,1,True,Williams,True,16.0,28.108,42.681,35.635,,False,False,8117.156,19,United States Grand Prix
+LAT,39.0,103.909,3.0,HARD,21.0,1,True,Williams,True,16.0,27.716,41.578,34.615,,False,False,8221.065,19,United States Grand Prix
+LAT,40.0,104.093,3.0,HARD,22.0,1,True,Williams,True,16.0,28.034,41.579,34.48,,False,False,8325.158,19,United States Grand Prix
+LAT,41.0,103.896,3.0,HARD,23.0,1,True,Williams,True,16.0,27.863,41.71,34.323,,False,False,8429.054,19,United States Grand Prix
+LAT,42.0,103.827,3.0,HARD,24.0,1,True,Williams,True,16.0,27.775,41.593,34.459,,False,False,8532.881,19,United States Grand Prix
+LAT,43.0,103.692,3.0,HARD,25.0,1,True,Williams,True,16.0,27.992,41.33,34.37,,False,False,8636.573,19,United States Grand Prix
+LAT,44.0,103.746,3.0,HARD,26.0,1,True,Williams,True,16.0,27.986,41.377,34.383,,False,False,8740.319,19,United States Grand Prix
+LAT,45.0,103.908,3.0,HARD,27.0,1,True,Williams,True,16.0,27.799,41.782,34.327,,False,False,8844.227,19,United States Grand Prix
+LAT,46.0,103.641,3.0,HARD,28.0,1,True,Williams,True,15.0,28.024,41.368,34.249,,False,False,8947.868,19,United States Grand Prix
+LAT,47.0,104.242,3.0,HARD,29.0,1,True,Williams,True,16.0,27.936,41.803,34.503,,False,False,9052.11,19,United States Grand Prix
+LAT,48.0,103.53,3.0,HARD,30.0,1,True,Williams,True,16.0,27.716,41.581,34.233,,False,False,9155.64,19,United States Grand Prix
+LAT,49.0,104.165,3.0,HARD,31.0,1,True,Williams,True,16.0,27.77,42.044,34.351,,False,False,9259.805,19,United States Grand Prix
+LAT,50.0,104.397,3.0,HARD,32.0,1,True,Williams,True,16.0,27.8,41.773,34.824,,False,False,9364.202,19,United States Grand Prix
+LAT,51.0,106.611,3.0,HARD,33.0,1,True,Williams,True,17.0,29.182,42.629,34.8,,False,False,9470.813,19,United States Grand Prix
+LAT,52.0,104.384,3.0,HARD,34.0,1,True,Williams,True,17.0,27.97,41.765,34.649,,False,False,9575.197,19,United States Grand Prix
+LAT,53.0,104.016,3.0,HARD,35.0,1,True,Williams,True,17.0,27.862,41.354,34.8,,False,False,9679.213,19,United States Grand Prix
+LAT,54.0,103.485,3.0,HARD,36.0,1,True,Williams,True,17.0,27.81,41.456,34.219,,False,False,9782.698,19,United States Grand Prix
+LAT,55.0,104.03,3.0,HARD,37.0,1,True,Williams,True,17.0,27.918,41.528,34.584,,False,False,9886.728,19,United States Grand Prix
+LAT,56.0,103.96,3.0,HARD,38.0,1,True,Williams,True,17.0,27.625,41.47,34.865,,False,False,9990.688,19,United States Grand Prix
+RUS,1.0,105.339,1.0,MEDIUM,1.0,12,False,Mercedes,True,4.0,,41.659,33.771,,False,False,3865.752,19,United States Grand Prix
+RUS,2.0,103.183,1.0,MEDIUM,2.0,1,True,Mercedes,True,4.0,28.195,41.229,33.759,,False,False,3968.935,19,United States Grand Prix
+RUS,3.0,102.912,1.0,MEDIUM,3.0,1,True,Mercedes,True,4.0,28.013,40.771,34.128,,False,False,4071.847,19,United States Grand Prix
+RUS,4.0,103.091,1.0,MEDIUM,4.0,1,True,Mercedes,True,4.0,27.865,41.088,34.138,,False,False,4174.938,19,United States Grand Prix
+RUS,5.0,103.669,1.0,MEDIUM,5.0,1,True,Mercedes,True,3.0,28.299,41.231,34.139,,False,False,4278.607,19,United States Grand Prix
+RUS,6.0,102.985,1.0,MEDIUM,6.0,1,True,Mercedes,True,3.0,28.078,41.311,33.596,,False,False,4381.592,19,United States Grand Prix
+RUS,7.0,102.776,1.0,MEDIUM,7.0,1,True,Mercedes,True,3.0,27.924,41.246,33.606,,False,False,4484.368,19,United States Grand Prix
+RUS,8.0,103.465,1.0,MEDIUM,8.0,1,True,Mercedes,True,3.0,28.159,41.448,33.858,,False,False,4587.833,19,United States Grand Prix
+RUS,9.0,103.163,1.0,MEDIUM,9.0,1,True,Mercedes,True,3.0,27.985,41.323,33.855,,False,False,4690.996,19,United States Grand Prix
+RUS,10.0,102.919,1.0,MEDIUM,10.0,1,True,Mercedes,True,3.0,27.976,41.466,33.477,,False,False,4793.915,19,United States Grand Prix
+RUS,11.0,103.313,1.0,MEDIUM,11.0,1,True,Mercedes,True,3.0,27.948,41.723,33.642,,False,False,4897.228,19,United States Grand Prix
+RUS,12.0,103.742,1.0,MEDIUM,12.0,1,True,Mercedes,True,3.0,28.073,41.707,33.962,,False,False,5000.97,19,United States Grand Prix
+RUS,13.0,103.509,1.0,MEDIUM,13.0,1,False,Mercedes,True,2.0,28.075,41.606,33.828,,True,False,5104.479,19,United States Grand Prix
+RUS,14.0,128.26,2.0,HARD,1.0,1,False,Mercedes,True,9.0,54.248,40.876,33.136,,False,True,5232.739,19,United States Grand Prix
+RUS,15.0,102.836,2.0,HARD,2.0,1,True,Mercedes,True,8.0,27.986,40.588,34.262,,False,False,5335.575,19,United States Grand Prix
+RUS,16.0,102.424,2.0,HARD,3.0,1,True,Mercedes,True,6.0,27.829,41.048,33.547,,False,False,5437.999,19,United States Grand Prix
+RUS,17.0,102.695,2.0,HARD,4.0,1,True,Mercedes,True,6.0,27.789,41.224,33.682,,False,False,5540.694,19,United States Grand Prix
+RUS,18.0,122.709,2.0,HARD,5.0,124,False,Mercedes,True,6.0,27.766,50.563,44.38,,False,False,5663.403,19,United States Grand Prix
+RUS,19.0,152.225,2.0,HARD,6.0,4,False,Mercedes,True,5.0,39.694,56.838,55.693,,False,False,5815.628,19,United States Grand Prix
+RUS,20.0,152.955,2.0,HARD,7.0,4,False,Mercedes,True,5.0,37.276,64.122,51.557,,False,False,5968.583,19,United States Grand Prix
+RUS,21.0,156.384,2.0,HARD,8.0,41,False,Mercedes,True,5.0,38.279,59.387,58.718,,False,False,6124.967,19,United States Grand Prix
+RUS,22.0,125.242,2.0,HARD,9.0,124,False,Mercedes,True,5.0,28.36,41.325,55.557,,False,False,6250.209,19,United States Grand Prix
+RUS,23.0,172.809,2.0,HARD,10.0,4,False,Mercedes,True,5.0,39.064,82.852,50.893,,False,False,6423.018,19,United States Grand Prix
+RUS,24.0,171.777,2.0,HARD,11.0,4,False,Mercedes,True,5.0,41.202,81.474,49.101,,False,False,6594.795,19,United States Grand Prix
+RUS,25.0,153.976,2.0,HARD,12.0,41,False,Mercedes,True,5.0,40.251,61.523,52.202,,False,False,6748.771,19,United States Grand Prix
+RUS,26.0,103.302,2.0,HARD,13.0,1,True,Mercedes,True,5.0,28.337,41.263,33.702,,False,False,6852.073,19,United States Grand Prix
+RUS,27.0,102.239,2.0,HARD,14.0,1,True,Mercedes,True,5.0,27.814,41.042,33.383,,False,False,6954.312,19,United States Grand Prix
+RUS,28.0,101.924,2.0,HARD,15.0,1,True,Mercedes,True,5.0,27.494,41.019,33.411,,False,False,7056.236,19,United States Grand Prix
+RUS,29.0,102.139,2.0,HARD,16.0,1,True,Mercedes,True,5.0,27.525,41.136,33.478,,False,False,7158.375,19,United States Grand Prix
+RUS,30.0,102.196,2.0,HARD,17.0,1,True,Mercedes,True,5.0,27.452,41.034,33.71,,False,False,7260.571,19,United States Grand Prix
+RUS,31.0,101.764,2.0,HARD,18.0,1,True,Mercedes,True,5.0,27.47,40.773,33.521,,False,False,7362.335,19,United States Grand Prix
+RUS,32.0,101.987,2.0,HARD,19.0,1,True,Mercedes,True,5.0,27.505,40.822,33.66,,False,False,7464.322,19,United States Grand Prix
+RUS,33.0,102.152,2.0,HARD,20.0,1,True,Mercedes,True,5.0,27.34,41.161,33.651,,False,False,7566.474,19,United States Grand Prix
+RUS,34.0,101.62,2.0,HARD,21.0,1,True,Mercedes,True,5.0,27.522,40.686,33.412,,False,False,7668.094,19,United States Grand Prix
+RUS,35.0,101.827,2.0,HARD,22.0,1,True,Mercedes,True,4.0,27.234,40.979,33.614,,False,False,7769.921,19,United States Grand Prix
+RUS,36.0,102.125,2.0,HARD,23.0,1,False,Mercedes,True,2.0,27.222,40.902,34.001,,True,False,7872.046,19,United States Grand Prix
+RUS,37.0,121.991,3.0,HARD,1.0,1,False,Mercedes,True,6.0,48.565,40.664,32.762,,False,True,7994.037,19,United States Grand Prix
+RUS,38.0,100.6,3.0,HARD,2.0,1,True,Mercedes,True,6.0,27.398,40.395,32.807,,False,False,8094.637,19,United States Grand Prix
+RUS,39.0,102.396,3.0,HARD,3.0,1,True,Mercedes,True,6.0,28.533,40.537,33.326,,False,False,8197.033,19,United States Grand Prix
+RUS,40.0,100.763,3.0,HARD,4.0,1,True,Mercedes,True,6.0,27.247,40.525,32.991,,False,False,8297.796,19,United States Grand Prix
+RUS,41.0,100.928,3.0,HARD,5.0,1,True,Mercedes,True,6.0,27.27,40.612,33.046,,False,False,8398.724,19,United States Grand Prix
+RUS,42.0,100.8,3.0,HARD,6.0,1,True,Mercedes,True,5.0,27.346,40.662,32.792,,False,False,8499.524,19,United States Grand Prix
+RUS,43.0,100.478,3.0,HARD,7.0,1,True,Mercedes,True,5.0,27.278,40.497,32.703,,False,False,8600.002,19,United States Grand Prix
+RUS,44.0,100.984,3.0,HARD,8.0,1,True,Mercedes,True,5.0,27.284,40.652,33.048,,False,False,8700.986,19,United States Grand Prix
+RUS,45.0,100.739,3.0,HARD,9.0,1,True,Mercedes,True,5.0,27.319,40.573,32.847,,False,False,8801.725,19,United States Grand Prix
+RUS,46.0,101.472,3.0,HARD,10.0,1,True,Mercedes,True,5.0,27.789,40.782,32.901,,False,False,8903.197,19,United States Grand Prix
+RUS,47.0,101.053,3.0,HARD,11.0,1,True,Mercedes,True,5.0,27.193,40.768,33.092,,False,False,9004.25,19,United States Grand Prix
+RUS,48.0,101.201,3.0,HARD,12.0,1,True,Mercedes,True,5.0,27.215,40.835,33.151,,False,False,9105.451,19,United States Grand Prix
+RUS,49.0,101.253,3.0,HARD,13.0,1,True,Mercedes,True,5.0,27.389,40.818,33.046,,False,False,9206.704,19,United States Grand Prix
+RUS,50.0,101.153,3.0,HARD,14.0,1,True,Mercedes,True,5.0,27.201,40.761,33.191,,False,False,9307.857,19,United States Grand Prix
+RUS,51.0,100.881,3.0,HARD,15.0,1,True,Mercedes,True,5.0,27.127,40.782,32.972,,False,False,9408.738,19,United States Grand Prix
+RUS,52.0,101.573,3.0,HARD,16.0,1,True,Mercedes,True,5.0,27.209,40.785,33.579,,False,False,9510.311,19,United States Grand Prix
+RUS,53.0,101.911,3.0,HARD,17.0,1,True,Mercedes,True,5.0,27.446,40.821,33.644,,False,False,9612.222,19,United States Grand Prix
+RUS,54.0,101.888,3.0,HARD,18.0,1,False,Mercedes,True,5.0,27.444,40.791,33.653,,True,False,9714.11,19,United States Grand Prix
+RUS,55.0,124.017,4.0,SOFT,4.0,1,False,Mercedes,False,5.0,47.912,41.692,34.413,,False,True,9838.127,19,United States Grand Prix
+RUS,56.0,98.788,4.0,SOFT,5.0,1,True,Mercedes,False,5.0,26.903,39.64,32.245,,False,False,9936.915,19,United States Grand Prix
+BOT,1.0,110.031,1.0,MEDIUM,1.0,12,False,Alfa Romeo,True,11.0,,44.314,34.812,,False,False,3870.444,19,United States Grand Prix
+BOT,2.0,104.805,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,11.0,28.503,41.739,34.563,,False,False,3975.249,19,United States Grand Prix
+BOT,3.0,104.713,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,11.0,28.452,41.482,34.779,,False,False,4079.962,19,United States Grand Prix
+BOT,4.0,103.391,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,10.0,27.79,41.66,33.941,,False,False,4183.353,19,United States Grand Prix
+BOT,5.0,104.711,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,10.0,28.265,41.915,34.531,,False,False,4288.064,19,United States Grand Prix
+BOT,6.0,104.037,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,10.0,28.177,41.505,34.355,,False,False,4392.101,19,United States Grand Prix
+BOT,7.0,104.13,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,10.0,27.954,41.569,34.607,,False,False,4496.231,19,United States Grand Prix
+BOT,8.0,104.607,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,10.0,28.102,41.977,34.528,,False,False,4600.838,19,United States Grand Prix
+BOT,9.0,104.905,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,10.0,28.25,41.816,34.839,,False,False,4705.743,19,United States Grand Prix
+BOT,10.0,104.431,1.0,MEDIUM,10.0,1,False,Alfa Romeo,True,10.0,28.122,41.794,34.515,,True,False,4810.174,19,United States Grand Prix
+BOT,11.0,123.216,2.0,HARD,1.0,1,False,Alfa Romeo,True,14.0,48.623,41.129,33.464,,False,True,4933.39,19,United States Grand Prix
+BOT,12.0,103.48,2.0,HARD,2.0,1,True,Alfa Romeo,True,14.0,28.115,41.207,34.158,,False,False,5036.87,19,United States Grand Prix
+BOT,13.0,104.238,2.0,HARD,3.0,1,True,Alfa Romeo,True,14.0,28.231,41.673,34.334,,False,False,5141.108,19,United States Grand Prix
+BOT,14.0,103.921,2.0,HARD,4.0,1,True,Alfa Romeo,True,14.0,28.299,41.714,33.908,,False,False,5245.029,19,United States Grand Prix
+BOT,15.0,103.903,2.0,HARD,5.0,1,True,Alfa Romeo,True,13.0,28.186,41.677,34.04,,False,False,5348.932,19,United States Grand Prix
+BOT,16.0,103.784,2.0,HARD,6.0,1,True,Alfa Romeo,True,13.0,28.081,41.513,34.19,,False,False,5452.716,19,United States Grand Prix
+BOT,17.0,,2.0,HARD,7.0,124,False,Alfa Romeo,True,,,,,,False,False,5602.716,19,United States Grand Prix

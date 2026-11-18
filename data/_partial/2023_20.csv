@@ -1,0 +1,1109 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,119.857,1.0,SOFT,4.0,124,False,Red Bull Racing,False,1.0,,60.96,35.62,,True,False,3862.976,20,São Paulo Grand Prix
+VER,2.0,143.356,2.0,SOFT,5.0,45,False,Red Bull Racing,False,1.0,44.083,63.234,36.039,,True,True,4006.332,20,São Paulo Grand Prix
+VER,3.0,,3.0,SOFT,4.0,1,False,Red Bull Racing,False,1.0,,49.786,49.011,,False,True,5531.454,20,São Paulo Grand Prix
+VER,4.0,132.67,3.0,SOFT,5.0,1,True,Red Bull Racing,False,1.0,76.382,38.838,17.45,,False,False,5664.124,20,São Paulo Grand Prix
+VER,5.0,75.745,3.0,SOFT,6.0,1,True,Red Bull Racing,False,1.0,19.651,38.648,17.446,,False,False,5739.869,20,São Paulo Grand Prix
+VER,6.0,75.547,3.0,SOFT,7.0,1,True,Red Bull Racing,False,1.0,19.715,38.471,17.361,,False,False,5815.416,20,São Paulo Grand Prix
+VER,7.0,75.591,3.0,SOFT,8.0,1,True,Red Bull Racing,False,1.0,19.596,38.586,17.409,,False,False,5891.007,20,São Paulo Grand Prix
+VER,8.0,75.864,3.0,SOFT,9.0,1,True,Red Bull Racing,False,1.0,19.615,38.746,17.503,,False,False,5966.871,20,São Paulo Grand Prix
+VER,9.0,76.169,3.0,SOFT,10.0,1,True,Red Bull Racing,False,1.0,19.722,38.984,17.463,,False,False,6043.04,20,São Paulo Grand Prix
+VER,10.0,75.989,3.0,SOFT,11.0,1,True,Red Bull Racing,False,1.0,19.626,38.882,17.481,,False,False,6119.029,20,São Paulo Grand Prix
+VER,11.0,76.272,3.0,SOFT,12.0,1,True,Red Bull Racing,False,1.0,19.709,39.073,17.49,,False,False,6195.301,20,São Paulo Grand Prix
+VER,12.0,75.879,3.0,SOFT,13.0,1,True,Red Bull Racing,False,1.0,19.615,38.779,17.485,,False,False,6271.18,20,São Paulo Grand Prix
+VER,13.0,76.299,3.0,SOFT,14.0,1,True,Red Bull Racing,False,1.0,19.715,38.924,17.66,,False,False,6347.479,20,São Paulo Grand Prix
+VER,14.0,76.08,3.0,SOFT,15.0,1,True,Red Bull Racing,False,1.0,19.631,38.941,17.508,,False,False,6423.559,20,São Paulo Grand Prix
+VER,15.0,76.408,3.0,SOFT,16.0,1,True,Red Bull Racing,False,1.0,19.694,39.078,17.636,,False,False,6499.967,20,São Paulo Grand Prix
+VER,16.0,76.305,3.0,SOFT,17.0,1,True,Red Bull Racing,False,1.0,19.643,38.976,17.686,,False,False,6576.272,20,São Paulo Grand Prix
+VER,17.0,76.17,3.0,SOFT,18.0,1,True,Red Bull Racing,False,1.0,19.691,38.843,17.636,,False,False,6652.442,20,São Paulo Grand Prix
+VER,18.0,76.341,3.0,SOFT,19.0,1,True,Red Bull Racing,False,1.0,19.717,38.977,17.647,,False,False,6728.783,20,São Paulo Grand Prix
+VER,19.0,76.047,3.0,SOFT,20.0,1,True,Red Bull Racing,False,1.0,19.706,38.725,17.616,,False,False,6804.83,20,São Paulo Grand Prix
+VER,20.0,75.996,3.0,SOFT,21.0,1,True,Red Bull Racing,False,1.0,19.636,38.684,17.676,,False,False,6880.826,20,São Paulo Grand Prix
+VER,21.0,76.207,3.0,SOFT,22.0,1,True,Red Bull Racing,False,1.0,19.64,38.911,17.656,,False,False,6957.033,20,São Paulo Grand Prix
+VER,22.0,76.206,3.0,SOFT,23.0,1,True,Red Bull Racing,False,1.0,19.695,38.751,17.76,,False,False,7033.239,20,São Paulo Grand Prix
+VER,23.0,76.026,3.0,SOFT,24.0,1,True,Red Bull Racing,False,1.0,19.674,38.663,17.689,,False,False,7109.265,20,São Paulo Grand Prix
+VER,24.0,76.397,3.0,SOFT,25.0,1,True,Red Bull Racing,False,1.0,19.648,39.015,17.734,,False,False,7185.662,20,São Paulo Grand Prix
+VER,25.0,76.269,3.0,SOFT,26.0,1,True,Red Bull Racing,False,1.0,19.662,38.884,17.723,,False,False,7261.931,20,São Paulo Grand Prix
+VER,26.0,76.435,3.0,SOFT,27.0,1,True,Red Bull Racing,False,1.0,19.675,39.003,17.757,,False,False,7338.366,20,São Paulo Grand Prix
+VER,27.0,80.264,3.0,SOFT,28.0,1,False,Red Bull Racing,False,1.0,19.657,39.037,21.57,,True,False,7418.63,20,São Paulo Grand Prix
+VER,28.0,92.801,4.0,MEDIUM,1.0,1,False,Red Bull Racing,True,1.0,36.681,38.792,17.328,,False,True,7511.431,20,São Paulo Grand Prix
+VER,29.0,75.713,4.0,MEDIUM,2.0,1,True,Red Bull Racing,True,1.0,19.586,38.794,17.333,,False,False,7587.144,20,São Paulo Grand Prix
+VER,30.0,75.799,4.0,MEDIUM,3.0,1,True,Red Bull Racing,True,1.0,19.535,38.74,17.524,,False,False,7662.943,20,São Paulo Grand Prix
+VER,31.0,75.787,4.0,MEDIUM,4.0,1,True,Red Bull Racing,True,1.0,19.535,38.727,17.525,,False,False,7738.73,20,São Paulo Grand Prix
+VER,32.0,75.439,4.0,MEDIUM,5.0,1,True,Red Bull Racing,True,1.0,19.497,38.517,17.425,,False,False,7814.169,20,São Paulo Grand Prix
+VER,33.0,75.174,4.0,MEDIUM,6.0,1,True,Red Bull Racing,True,1.0,19.581,38.12,17.473,,False,False,7889.343,20,São Paulo Grand Prix
+VER,34.0,75.115,4.0,MEDIUM,7.0,1,True,Red Bull Racing,True,1.0,19.531,38.213,17.371,,False,False,7964.458,20,São Paulo Grand Prix
+VER,35.0,75.157,4.0,MEDIUM,8.0,1,True,Red Bull Racing,True,1.0,19.526,38.27,17.361,,False,False,8039.615,20,São Paulo Grand Prix
+VER,36.0,75.125,4.0,MEDIUM,9.0,1,True,Red Bull Racing,True,1.0,19.467,38.269,17.389,,False,False,8114.74,20,São Paulo Grand Prix
+VER,37.0,74.682,4.0,MEDIUM,10.0,1,True,Red Bull Racing,True,1.0,19.387,37.977,17.318,,False,False,8189.422,20,São Paulo Grand Prix
+VER,38.0,74.954,4.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,19.309,38.193,17.452,,False,False,8264.376,20,São Paulo Grand Prix
+VER,39.0,74.974,4.0,MEDIUM,12.0,1,True,Red Bull Racing,True,1.0,19.293,38.211,17.47,,False,False,8339.35,20,São Paulo Grand Prix
+VER,40.0,75.218,4.0,MEDIUM,13.0,1,True,Red Bull Racing,True,1.0,19.389,38.459,17.37,,False,False,8414.568,20,São Paulo Grand Prix
+VER,41.0,75.355,4.0,MEDIUM,14.0,1,True,Red Bull Racing,True,1.0,19.44,38.372,17.543,,False,False,8489.923,20,São Paulo Grand Prix
+VER,42.0,75.202,4.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,19.381,38.269,17.552,,False,False,8565.125,20,São Paulo Grand Prix
+VER,43.0,75.052,4.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,19.24,38.3,17.512,,False,False,8640.177,20,São Paulo Grand Prix
+VER,44.0,75.32,4.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,19.385,38.279,17.656,,False,False,8715.497,20,São Paulo Grand Prix
+VER,45.0,75.471,4.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,19.386,38.417,17.668,,False,False,8790.968,20,São Paulo Grand Prix
+VER,46.0,75.329,4.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,19.292,38.439,17.598,,False,False,8866.297,20,São Paulo Grand Prix
+VER,47.0,75.362,4.0,MEDIUM,20.0,1,True,Red Bull Racing,True,1.0,19.295,38.49,17.577,,False,False,8941.659,20,São Paulo Grand Prix
+VER,48.0,75.524,4.0,MEDIUM,21.0,1,True,Red Bull Racing,True,1.0,19.383,38.593,17.548,,False,False,9017.183,20,São Paulo Grand Prix
+VER,49.0,75.442,4.0,MEDIUM,22.0,1,True,Red Bull Racing,True,1.0,19.35,38.524,17.568,,False,False,9092.625,20,São Paulo Grand Prix
+VER,50.0,75.436,4.0,MEDIUM,23.0,1,True,Red Bull Racing,True,1.0,19.309,38.558,17.569,,False,False,9168.061,20,São Paulo Grand Prix
+VER,51.0,75.44,4.0,MEDIUM,24.0,1,True,Red Bull Racing,True,1.0,19.368,38.559,17.513,,False,False,9243.501,20,São Paulo Grand Prix
+VER,52.0,75.39,4.0,MEDIUM,25.0,1,True,Red Bull Racing,True,1.0,19.273,38.651,17.466,,False,False,9318.891,20,São Paulo Grand Prix
+VER,53.0,75.306,4.0,MEDIUM,26.0,1,True,Red Bull Racing,True,1.0,19.371,38.476,17.459,,False,False,9394.197,20,São Paulo Grand Prix
+VER,54.0,75.388,4.0,MEDIUM,27.0,1,True,Red Bull Racing,True,1.0,19.436,38.471,17.481,,False,False,9469.585,20,São Paulo Grand Prix
+VER,55.0,75.521,4.0,MEDIUM,28.0,1,True,Red Bull Racing,True,1.0,19.35,38.626,17.545,,False,False,9545.106,20,São Paulo Grand Prix
+VER,56.0,79.309,4.0,MEDIUM,29.0,1,False,Red Bull Racing,True,1.0,19.306,38.725,21.278,,True,False,9624.415,20,São Paulo Grand Prix
+VER,57.0,91.318,5.0,SOFT,1.0,1,False,Red Bull Racing,True,2.0,36.587,37.575,17.156,,False,True,9715.733,20,São Paulo Grand Prix
+VER,58.0,74.044,5.0,SOFT,2.0,1,True,Red Bull Racing,True,2.0,19.086,37.775,17.183,,False,False,9789.777,20,São Paulo Grand Prix
+VER,59.0,74.089,5.0,SOFT,3.0,1,True,Red Bull Racing,True,2.0,19.095,38.081,16.913,,False,False,9863.866,20,São Paulo Grand Prix
+VER,60.0,74.265,5.0,SOFT,4.0,1,True,Red Bull Racing,True,1.0,19.068,38.005,17.192,,False,False,9938.131,20,São Paulo Grand Prix
+VER,61.0,74.584,5.0,SOFT,5.0,1,True,Red Bull Racing,True,1.0,19.203,38.13,17.251,,False,False,10012.715,20,São Paulo Grand Prix
+VER,62.0,74.512,5.0,SOFT,6.0,1,True,Red Bull Racing,True,1.0,19.251,38.079,17.182,,False,False,10087.227,20,São Paulo Grand Prix
+VER,63.0,74.349,5.0,SOFT,7.0,1,True,Red Bull Racing,True,1.0,19.143,38.07,17.136,,False,False,10161.576,20,São Paulo Grand Prix
+VER,64.0,74.093,5.0,SOFT,8.0,1,True,Red Bull Racing,True,1.0,19.01,37.856,17.227,,False,False,10235.669,20,São Paulo Grand Prix
+VER,65.0,74.016,5.0,SOFT,9.0,1,True,Red Bull Racing,True,1.0,19.059,37.802,17.155,,False,False,10309.685,20,São Paulo Grand Prix
+VER,66.0,73.766,5.0,SOFT,10.0,1,True,Red Bull Racing,True,1.0,19.057,37.743,16.966,,False,False,10383.451,20,São Paulo Grand Prix
+VER,67.0,73.53,5.0,SOFT,11.0,1,True,Red Bull Racing,True,1.0,18.922,37.449,17.159,,False,False,10456.981,20,São Paulo Grand Prix
+VER,68.0,73.422,5.0,SOFT,12.0,1,True,Red Bull Racing,True,1.0,19.013,37.35,17.059,,False,False,10530.403,20,São Paulo Grand Prix
+VER,69.0,74.059,5.0,SOFT,13.0,1,True,Red Bull Racing,True,1.0,19.201,37.672,17.186,,False,False,10604.462,20,São Paulo Grand Prix
+VER,70.0,73.568,5.0,SOFT,14.0,1,True,Red Bull Racing,True,1.0,18.888,37.474,17.206,,False,False,10678.03,20,São Paulo Grand Prix
+VER,71.0,73.935,5.0,SOFT,15.0,1,True,Red Bull Racing,True,1.0,18.976,37.68,17.279,,False,False,10751.965,20,São Paulo Grand Prix
+NOR,1.0,121.881,1.0,SOFT,4.0,124,False,McLaren,False,2.0,,61.428,36.254,,True,False,3864.991,20,São Paulo Grand Prix
+NOR,2.0,142.52,2.0,SOFT,5.0,45,False,McLaren,False,2.0,43.538,63.196,35.786,,True,True,4007.511,20,São Paulo Grand Prix
+NOR,3.0,,3.0,SOFT,1.0,1,False,McLaren,True,2.0,,47.895,49.35,,False,True,5533.915,20,São Paulo Grand Prix
+NOR,4.0,130.857,3.0,SOFT,2.0,1,True,McLaren,True,2.0,74.417,39.08,17.36,,False,False,5664.772,20,São Paulo Grand Prix
+NOR,5.0,76.231,3.0,SOFT,3.0,1,True,McLaren,True,2.0,19.874,38.874,17.483,,False,False,5741.003,20,São Paulo Grand Prix
+NOR,6.0,74.94,3.0,SOFT,4.0,1,True,McLaren,True,2.0,19.345,38.553,17.042,,False,False,5815.943,20,São Paulo Grand Prix
+NOR,7.0,75.428,3.0,SOFT,5.0,1,True,McLaren,True,2.0,19.413,39.073,16.942,,False,False,5891.371,20,São Paulo Grand Prix
+NOR,8.0,76.737,3.0,SOFT,6.0,1,True,McLaren,True,2.0,19.338,39.765,17.634,,False,False,5968.108,20,São Paulo Grand Prix
+NOR,9.0,76.576,3.0,SOFT,7.0,1,True,McLaren,True,2.0,20.081,39.252,17.243,,False,False,6044.684,20,São Paulo Grand Prix
+NOR,10.0,76.671,3.0,SOFT,8.0,1,True,McLaren,True,2.0,19.877,39.218,17.576,,False,False,6121.355,20,São Paulo Grand Prix
+NOR,11.0,76.043,3.0,SOFT,9.0,1,True,McLaren,True,2.0,19.611,39.051,17.381,,False,False,6197.398,20,São Paulo Grand Prix
+NOR,12.0,76.015,3.0,SOFT,10.0,1,True,McLaren,True,2.0,19.709,38.894,17.412,,False,False,6273.413,20,São Paulo Grand Prix
+NOR,13.0,76.365,3.0,SOFT,11.0,1,True,McLaren,True,2.0,19.759,38.991,17.615,,False,False,6349.778,20,São Paulo Grand Prix
+NOR,14.0,76.27,3.0,SOFT,12.0,1,True,McLaren,True,2.0,19.729,39.054,17.487,,False,False,6426.048,20,São Paulo Grand Prix
+NOR,15.0,76.174,3.0,SOFT,13.0,1,True,McLaren,True,2.0,19.66,38.963,17.551,,False,False,6502.222,20,São Paulo Grand Prix
+NOR,16.0,76.504,3.0,SOFT,14.0,1,True,McLaren,True,2.0,19.766,39.085,17.653,,False,False,6578.726,20,São Paulo Grand Prix
+NOR,17.0,76.515,3.0,SOFT,15.0,1,True,McLaren,True,2.0,19.734,39.049,17.732,,False,False,6655.241,20,São Paulo Grand Prix
+NOR,18.0,76.267,3.0,SOFT,16.0,1,True,McLaren,True,2.0,19.668,39.001,17.598,,False,False,6731.508,20,São Paulo Grand Prix
+NOR,19.0,76.058,3.0,SOFT,17.0,1,True,McLaren,True,2.0,19.651,38.797,17.61,,False,False,6807.566,20,São Paulo Grand Prix
+NOR,20.0,76.33,3.0,SOFT,18.0,1,True,McLaren,True,2.0,19.653,38.958,17.719,,False,False,6883.896,20,São Paulo Grand Prix
+NOR,21.0,76.355,3.0,SOFT,19.0,1,True,McLaren,True,2.0,19.604,39.114,17.637,,False,False,6960.251,20,São Paulo Grand Prix
+NOR,22.0,76.196,3.0,SOFT,20.0,1,True,McLaren,True,2.0,19.545,38.929,17.722,,False,False,7036.447,20,São Paulo Grand Prix
+NOR,23.0,76.343,3.0,SOFT,21.0,1,True,McLaren,True,2.0,19.591,39.102,17.65,,False,False,7112.79,20,São Paulo Grand Prix
+NOR,24.0,76.512,3.0,SOFT,22.0,1,True,McLaren,True,2.0,19.564,39.262,17.686,,False,False,7189.302,20,São Paulo Grand Prix
+NOR,25.0,76.315,3.0,SOFT,23.0,1,True,McLaren,True,2.0,19.653,39.128,17.534,,False,False,7265.617,20,São Paulo Grand Prix
+NOR,26.0,76.264,3.0,SOFT,24.0,1,True,McLaren,True,2.0,19.647,39.08,17.537,,False,False,7341.881,20,São Paulo Grand Prix
+NOR,27.0,80.818,3.0,SOFT,25.0,1,False,McLaren,True,2.0,19.618,39.099,22.101,,True,False,7422.699,20,São Paulo Grand Prix
+NOR,28.0,93.952,4.0,MEDIUM,1.0,1,False,McLaren,True,2.0,37.328,39.226,17.398,,False,True,7516.651,20,São Paulo Grand Prix
+NOR,29.0,75.691,4.0,MEDIUM,2.0,1,True,McLaren,True,2.0,19.48,38.968,17.243,,False,False,7592.342,20,São Paulo Grand Prix
+NOR,30.0,76.2,4.0,MEDIUM,3.0,1,True,McLaren,True,2.0,19.426,39.167,17.607,,False,False,7668.542,20,São Paulo Grand Prix
+NOR,31.0,75.553,4.0,MEDIUM,4.0,1,True,McLaren,True,2.0,19.328,38.699,17.526,,False,False,7744.095,20,São Paulo Grand Prix
+NOR,32.0,75.333,4.0,MEDIUM,5.0,1,True,McLaren,True,2.0,19.374,38.568,17.391,,False,False,7819.428,20,São Paulo Grand Prix
+NOR,33.0,75.266,4.0,MEDIUM,6.0,1,True,McLaren,True,2.0,19.329,38.423,17.514,,False,False,7894.694,20,São Paulo Grand Prix
+NOR,34.0,75.053,4.0,MEDIUM,7.0,1,True,McLaren,True,2.0,19.316,38.339,17.398,,False,False,7969.747,20,São Paulo Grand Prix
+NOR,35.0,74.985,4.0,MEDIUM,8.0,1,True,McLaren,True,2.0,19.218,38.456,17.311,,False,False,8044.732,20,São Paulo Grand Prix
+NOR,36.0,74.845,4.0,MEDIUM,9.0,1,True,McLaren,True,2.0,19.234,38.246,17.365,,False,False,8119.577,20,São Paulo Grand Prix
+NOR,37.0,74.927,4.0,MEDIUM,10.0,1,True,McLaren,True,2.0,19.299,38.327,17.301,,False,False,8194.504,20,São Paulo Grand Prix
+NOR,38.0,74.94,4.0,MEDIUM,11.0,1,True,McLaren,True,2.0,19.254,38.363,17.323,,False,False,8269.444,20,São Paulo Grand Prix
+NOR,39.0,75.071,4.0,MEDIUM,12.0,1,True,McLaren,True,2.0,19.253,38.494,17.324,,False,False,8344.515,20,São Paulo Grand Prix
+NOR,40.0,75.273,4.0,MEDIUM,13.0,1,True,McLaren,True,2.0,19.325,38.562,17.386,,False,False,8419.788,20,São Paulo Grand Prix
+NOR,41.0,75.427,4.0,MEDIUM,14.0,1,True,McLaren,True,2.0,19.417,38.517,17.493,,False,False,8495.215,20,São Paulo Grand Prix
+NOR,42.0,75.502,4.0,MEDIUM,15.0,1,True,McLaren,True,2.0,19.378,38.545,17.579,,False,False,8570.717,20,São Paulo Grand Prix
+NOR,43.0,75.199,4.0,MEDIUM,16.0,1,True,McLaren,True,2.0,19.295,38.429,17.475,,False,False,8645.916,20,São Paulo Grand Prix
+NOR,44.0,75.62,4.0,MEDIUM,17.0,1,True,McLaren,True,2.0,19.38,38.611,17.629,,False,False,8721.536,20,São Paulo Grand Prix
+NOR,45.0,75.651,4.0,MEDIUM,18.0,1,True,McLaren,True,2.0,19.398,38.691,17.562,,False,False,8797.187,20,São Paulo Grand Prix
+NOR,46.0,75.585,4.0,MEDIUM,19.0,1,True,McLaren,True,2.0,19.275,38.592,17.718,,False,False,8872.772,20,São Paulo Grand Prix
+NOR,47.0,75.572,4.0,MEDIUM,20.0,1,True,McLaren,True,2.0,19.299,38.776,17.497,,False,False,8948.344,20,São Paulo Grand Prix
+NOR,48.0,75.496,4.0,MEDIUM,21.0,1,True,McLaren,True,2.0,19.364,38.73,17.402,,False,False,9023.84,20,São Paulo Grand Prix
+NOR,49.0,75.655,4.0,MEDIUM,22.0,1,True,McLaren,True,2.0,19.379,38.819,17.457,,False,False,9099.495,20,São Paulo Grand Prix
+NOR,50.0,75.696,4.0,MEDIUM,23.0,1,True,McLaren,True,2.0,19.383,38.82,17.493,,False,False,9175.191,20,São Paulo Grand Prix
+NOR,51.0,75.819,4.0,MEDIUM,24.0,1,True,McLaren,True,2.0,19.438,38.949,17.432,,False,False,9251.01,20,São Paulo Grand Prix
+NOR,52.0,75.414,4.0,MEDIUM,25.0,1,True,McLaren,True,2.0,19.307,38.66,17.447,,False,False,9326.424,20,São Paulo Grand Prix
+NOR,53.0,75.323,4.0,MEDIUM,26.0,1,True,McLaren,True,2.0,19.31,38.648,17.365,,False,False,9401.747,20,São Paulo Grand Prix
+NOR,54.0,75.513,4.0,MEDIUM,27.0,1,True,McLaren,True,2.0,19.357,38.685,17.471,,False,False,9477.26,20,São Paulo Grand Prix
+NOR,55.0,75.643,4.0,MEDIUM,28.0,1,True,McLaren,True,2.0,19.331,38.857,17.455,,False,False,9552.903,20,São Paulo Grand Prix
+NOR,56.0,75.709,4.0,MEDIUM,29.0,1,True,McLaren,True,2.0,19.42,38.887,17.402,,False,False,9628.612,20,São Paulo Grand Prix
+NOR,57.0,75.629,4.0,MEDIUM,30.0,1,True,McLaren,True,1.0,19.312,38.796,17.521,,False,False,9704.241,20,São Paulo Grand Prix
+NOR,58.0,75.813,4.0,MEDIUM,31.0,1,True,McLaren,True,1.0,19.405,38.879,17.529,,False,False,9780.054,20,São Paulo Grand Prix
+NOR,59.0,79.796,4.0,MEDIUM,32.0,1,False,McLaren,True,1.0,19.46,38.832,21.504,,True,False,9859.85,20,São Paulo Grand Prix
+NOR,60.0,91.709,5.0,SOFT,4.0,1,False,McLaren,False,2.0,36.824,37.917,16.968,,False,True,9951.559,20,São Paulo Grand Prix
+NOR,61.0,72.486,5.0,SOFT,5.0,1,True,McLaren,False,2.0,18.84,36.731,16.915,,False,False,10024.045,20,São Paulo Grand Prix
+NOR,62.0,73.81,5.0,SOFT,6.0,1,True,McLaren,False,2.0,19.133,37.661,17.016,,False,False,10097.855,20,São Paulo Grand Prix
+NOR,63.0,73.367,5.0,SOFT,7.0,1,True,McLaren,False,2.0,18.863,37.455,17.049,,False,False,10171.222,20,São Paulo Grand Prix
+NOR,64.0,73.668,5.0,SOFT,8.0,1,True,McLaren,False,2.0,18.9,37.618,17.15,,False,False,10244.89,20,São Paulo Grand Prix
+NOR,65.0,73.676,5.0,SOFT,9.0,1,True,McLaren,False,2.0,19.003,37.558,17.115,,False,False,10318.566,20,São Paulo Grand Prix
+NOR,66.0,73.373,5.0,SOFT,10.0,1,True,McLaren,False,2.0,18.912,37.381,17.08,,False,False,10391.939,20,São Paulo Grand Prix
+NOR,67.0,73.323,5.0,SOFT,11.0,1,True,McLaren,False,2.0,18.993,37.287,17.043,,False,False,10465.262,20,São Paulo Grand Prix
+NOR,68.0,73.586,5.0,SOFT,12.0,1,True,McLaren,False,2.0,18.946,37.528,17.112,,False,False,10538.848,20,São Paulo Grand Prix
+NOR,69.0,73.687,5.0,SOFT,13.0,1,True,McLaren,False,2.0,18.922,37.689,17.076,,False,False,10612.535,20,São Paulo Grand Prix
+NOR,70.0,73.462,5.0,SOFT,14.0,1,True,McLaren,False,2.0,18.979,37.565,16.918,,False,False,10685.997,20,São Paulo Grand Prix
+NOR,71.0,74.245,5.0,SOFT,15.0,1,True,McLaren,False,2.0,18.97,37.831,17.444,,False,False,10760.242,20,São Paulo Grand Prix
+ALO,1.0,127.301,1.0,SOFT,4.0,124,False,Aston Martin,False,4.0,,64.852,37.849,,True,False,3870.422,20,São Paulo Grand Prix
+ALO,2.0,141.143,2.0,SOFT,5.0,45,False,Aston Martin,False,4.0,41.778,62.103,37.262,,True,True,4011.565,20,São Paulo Grand Prix
+ALO,3.0,,3.0,SOFT,4.0,1,False,Aston Martin,False,4.0,,47.838,52.626,,False,True,5542.541,20,São Paulo Grand Prix
+ALO,4.0,123.054,3.0,SOFT,5.0,1,True,Aston Martin,False,3.0,66.237,39.286,17.531,,False,False,5665.595,20,São Paulo Grand Prix
+ALO,5.0,76.483,3.0,SOFT,6.0,1,True,Aston Martin,False,3.0,19.926,38.916,17.641,,False,False,5742.078,20,São Paulo Grand Prix
+ALO,6.0,75.925,3.0,SOFT,7.0,1,True,Aston Martin,False,3.0,19.658,38.793,17.474,,False,False,5818.003,20,São Paulo Grand Prix
+ALO,7.0,75.972,3.0,SOFT,8.0,1,True,Aston Martin,False,3.0,19.673,38.838,17.461,,False,False,5893.975,20,São Paulo Grand Prix
+ALO,8.0,76.111,3.0,SOFT,9.0,1,True,Aston Martin,False,3.0,19.648,38.965,17.498,,False,False,5970.086,20,São Paulo Grand Prix
+ALO,9.0,76.277,3.0,SOFT,10.0,1,True,Aston Martin,False,3.0,19.604,39.246,17.427,,False,False,6046.363,20,São Paulo Grand Prix
+ALO,10.0,76.25,3.0,SOFT,11.0,1,True,Aston Martin,False,3.0,19.702,39.08,17.468,,False,False,6122.613,20,São Paulo Grand Prix
+ALO,11.0,76.412,3.0,SOFT,12.0,1,True,Aston Martin,False,3.0,19.707,39.265,17.44,,False,False,6199.025,20,São Paulo Grand Prix
+ALO,12.0,76.484,3.0,SOFT,13.0,1,True,Aston Martin,False,3.0,19.781,39.237,17.466,,False,False,6275.509,20,São Paulo Grand Prix
+ALO,13.0,76.336,3.0,SOFT,14.0,1,True,Aston Martin,False,3.0,19.686,39.078,17.572,,False,False,6351.845,20,São Paulo Grand Prix
+ALO,14.0,76.341,3.0,SOFT,15.0,1,True,Aston Martin,False,3.0,19.777,39.089,17.475,,False,False,6428.186,20,São Paulo Grand Prix
+ALO,15.0,76.398,3.0,SOFT,16.0,1,True,Aston Martin,False,3.0,19.632,39.191,17.575,,False,False,6504.584,20,São Paulo Grand Prix
+ALO,16.0,76.388,3.0,SOFT,17.0,1,True,Aston Martin,False,3.0,19.583,39.138,17.667,,False,False,6580.972,20,São Paulo Grand Prix
+ALO,17.0,76.617,3.0,SOFT,18.0,1,True,Aston Martin,False,3.0,19.7,39.22,17.697,,False,False,6657.589,20,São Paulo Grand Prix
+ALO,18.0,76.954,3.0,SOFT,19.0,1,True,Aston Martin,False,3.0,19.729,39.523,17.702,,False,False,6734.543,20,São Paulo Grand Prix
+ALO,19.0,76.51,3.0,SOFT,20.0,1,True,Aston Martin,False,3.0,19.717,39.145,17.648,,False,False,6811.053,20,São Paulo Grand Prix
+ALO,20.0,76.853,3.0,SOFT,21.0,1,True,Aston Martin,False,3.0,19.755,39.476,17.622,,False,False,6887.906,20,São Paulo Grand Prix
+ALO,21.0,76.615,3.0,SOFT,22.0,1,True,Aston Martin,False,3.0,19.592,39.313,17.71,,False,False,6964.521,20,São Paulo Grand Prix
+ALO,22.0,76.5,3.0,SOFT,23.0,1,True,Aston Martin,False,3.0,19.576,39.237,17.687,,False,False,7041.021,20,São Paulo Grand Prix
+ALO,23.0,76.687,3.0,SOFT,24.0,1,True,Aston Martin,False,3.0,19.652,39.365,17.67,,False,False,7117.708,20,São Paulo Grand Prix
+ALO,24.0,77.281,3.0,SOFT,25.0,1,True,Aston Martin,False,3.0,19.664,39.899,17.718,,False,False,7194.989,20,São Paulo Grand Prix
+ALO,25.0,80.972,3.0,SOFT,26.0,1,False,Aston Martin,False,3.0,19.569,39.567,21.836,,True,False,7275.961,20,São Paulo Grand Prix
+ALO,26.0,93.588,4.0,MEDIUM,1.0,1,False,Aston Martin,True,4.0,37.563,38.674,17.351,,False,True,7369.549,20,São Paulo Grand Prix
+ALO,27.0,76.331,4.0,MEDIUM,2.0,1,True,Aston Martin,True,3.0,19.599,39.362,17.37,,False,False,7445.88,20,São Paulo Grand Prix
+ALO,28.0,76.202,4.0,MEDIUM,3.0,1,True,Aston Martin,True,3.0,19.661,39.141,17.4,,False,False,7522.082,20,São Paulo Grand Prix
+ALO,29.0,76.128,4.0,MEDIUM,4.0,1,True,Aston Martin,True,3.0,19.511,39.226,17.391,,False,False,7598.21,20,São Paulo Grand Prix
+ALO,30.0,76.059,4.0,MEDIUM,5.0,1,True,Aston Martin,True,3.0,19.54,39.047,17.472,,False,False,7674.269,20,São Paulo Grand Prix
+ALO,31.0,76.095,4.0,MEDIUM,6.0,1,True,Aston Martin,True,3.0,19.673,38.954,17.468,,False,False,7750.364,20,São Paulo Grand Prix
+ALO,32.0,76.028,4.0,MEDIUM,7.0,1,True,Aston Martin,True,3.0,19.583,38.995,17.45,,False,False,7826.392,20,São Paulo Grand Prix
+ALO,33.0,75.836,4.0,MEDIUM,8.0,1,True,Aston Martin,True,3.0,19.554,38.912,17.37,,False,False,7902.228,20,São Paulo Grand Prix
+ALO,34.0,75.849,4.0,MEDIUM,9.0,1,True,Aston Martin,True,3.0,19.455,38.985,17.409,,False,False,7978.077,20,São Paulo Grand Prix
+ALO,35.0,75.721,4.0,MEDIUM,10.0,1,True,Aston Martin,True,3.0,19.453,38.922,17.346,,False,False,8053.798,20,São Paulo Grand Prix
+ALO,36.0,75.944,4.0,MEDIUM,11.0,1,True,Aston Martin,True,3.0,19.523,39.02,17.401,,False,False,8129.742,20,São Paulo Grand Prix
+ALO,37.0,75.701,4.0,MEDIUM,12.0,1,True,Aston Martin,True,3.0,19.498,38.913,17.29,,False,False,8205.443,20,São Paulo Grand Prix
+ALO,38.0,75.949,4.0,MEDIUM,13.0,1,True,Aston Martin,True,3.0,19.427,39.129,17.393,,False,False,8281.392,20,São Paulo Grand Prix
+ALO,39.0,76.015,4.0,MEDIUM,14.0,1,True,Aston Martin,True,3.0,19.468,39.144,17.403,,False,False,8357.407,20,São Paulo Grand Prix
+ALO,40.0,76.07,4.0,MEDIUM,15.0,1,True,Aston Martin,True,3.0,19.448,39.121,17.501,,False,False,8433.477,20,São Paulo Grand Prix
+ALO,41.0,76.136,4.0,MEDIUM,16.0,1,True,Aston Martin,True,3.0,19.546,39.169,17.421,,False,False,8509.613,20,São Paulo Grand Prix
+ALO,42.0,76.262,4.0,MEDIUM,17.0,1,True,Aston Martin,True,3.0,19.593,39.163,17.506,,False,False,8585.875,20,São Paulo Grand Prix
+ALO,43.0,75.773,4.0,MEDIUM,18.0,1,True,Aston Martin,True,3.0,19.369,38.845,17.559,,False,False,8661.648,20,São Paulo Grand Prix
+ALO,44.0,75.836,4.0,MEDIUM,19.0,1,True,Aston Martin,True,3.0,19.381,38.801,17.654,,False,False,8737.484,20,São Paulo Grand Prix
+ALO,45.0,75.912,4.0,MEDIUM,20.0,1,True,Aston Martin,True,3.0,19.405,38.907,17.6,,False,False,8813.396,20,São Paulo Grand Prix
+ALO,46.0,75.74,4.0,MEDIUM,21.0,1,True,Aston Martin,True,3.0,19.335,38.78,17.625,,False,False,8889.136,20,São Paulo Grand Prix
+ALO,47.0,79.763,4.0,MEDIUM,22.0,1,False,Aston Martin,True,3.0,19.392,38.776,21.595,,True,False,8968.899,20,São Paulo Grand Prix
+ALO,48.0,93.326,5.0,SOFT,1.0,1,False,Aston Martin,True,5.0,36.865,39.066,17.395,,False,True,9062.225,20,São Paulo Grand Prix
+ALO,49.0,75.582,5.0,SOFT,2.0,1,True,Aston Martin,True,5.0,19.495,38.669,17.418,,False,False,9137.807,20,São Paulo Grand Prix
+ALO,50.0,75.783,5.0,SOFT,3.0,1,True,Aston Martin,True,5.0,19.437,38.929,17.417,,False,False,9213.59,20,São Paulo Grand Prix
+ALO,51.0,75.39,5.0,SOFT,4.0,1,True,Aston Martin,True,5.0,19.329,38.699,17.362,,False,False,9288.98,20,São Paulo Grand Prix
+ALO,52.0,75.345,5.0,SOFT,5.0,1,True,Aston Martin,True,4.0,19.33,38.765,17.25,,False,False,9364.325,20,São Paulo Grand Prix
+ALO,53.0,74.796,5.0,SOFT,6.0,1,True,Aston Martin,True,3.0,19.234,38.285,17.277,,False,False,9439.121,20,São Paulo Grand Prix
+ALO,54.0,74.442,5.0,SOFT,7.0,1,True,Aston Martin,True,3.0,19.235,37.979,17.228,,False,False,9513.563,20,São Paulo Grand Prix
+ALO,55.0,74.695,5.0,SOFT,8.0,1,True,Aston Martin,True,3.0,19.24,38.283,17.172,,False,False,9588.258,20,São Paulo Grand Prix
+ALO,56.0,74.765,5.0,SOFT,9.0,1,True,Aston Martin,True,3.0,19.352,38.19,17.223,,False,False,9663.023,20,São Paulo Grand Prix
+ALO,57.0,74.694,5.0,SOFT,10.0,1,True,Aston Martin,True,3.0,19.315,38.157,17.222,,False,False,9737.717,20,São Paulo Grand Prix
+ALO,58.0,74.523,5.0,SOFT,11.0,1,True,Aston Martin,True,3.0,19.207,38.075,17.241,,False,False,9812.24,20,São Paulo Grand Prix
+ALO,59.0,74.677,5.0,SOFT,12.0,1,True,Aston Martin,True,3.0,19.464,37.955,17.258,,False,False,9886.917,20,São Paulo Grand Prix
+ALO,60.0,74.999,5.0,SOFT,13.0,1,True,Aston Martin,True,3.0,19.455,38.253,17.291,,False,False,9961.916,20,São Paulo Grand Prix
+ALO,61.0,74.912,5.0,SOFT,14.0,1,True,Aston Martin,True,3.0,19.337,38.292,17.283,,False,False,10036.828,20,São Paulo Grand Prix
+ALO,62.0,74.674,5.0,SOFT,15.0,1,True,Aston Martin,True,3.0,19.242,38.205,17.227,,False,False,10111.502,20,São Paulo Grand Prix
+ALO,63.0,74.652,5.0,SOFT,16.0,1,True,Aston Martin,True,3.0,19.22,38.201,17.231,,False,False,10186.154,20,São Paulo Grand Prix
+ALO,64.0,74.517,5.0,SOFT,17.0,1,True,Aston Martin,True,3.0,19.072,38.246,17.199,,False,False,10260.671,20,São Paulo Grand Prix
+ALO,65.0,74.601,5.0,SOFT,18.0,1,True,Aston Martin,True,3.0,19.25,38.14,17.211,,False,False,10335.272,20,São Paulo Grand Prix
+ALO,66.0,74.556,5.0,SOFT,19.0,1,True,Aston Martin,True,3.0,19.22,38.09,17.246,,False,False,10409.828,20,São Paulo Grand Prix
+ALO,67.0,74.526,5.0,SOFT,20.0,1,True,Aston Martin,True,3.0,19.223,38.045,17.258,,False,False,10484.354,20,São Paulo Grand Prix
+ALO,68.0,74.943,5.0,SOFT,21.0,1,True,Aston Martin,True,3.0,19.174,38.448,17.321,,False,False,10559.297,20,São Paulo Grand Prix
+ALO,69.0,75.011,5.0,SOFT,22.0,1,True,Aston Martin,True,3.0,19.307,38.382,17.322,,False,False,10634.308,20,São Paulo Grand Prix
+ALO,70.0,76.364,5.0,SOFT,23.0,1,True,Aston Martin,True,4.0,19.679,39.43,17.255,,False,False,10710.672,20,São Paulo Grand Prix
+ALO,71.0,75.448,5.0,SOFT,24.0,1,True,Aston Martin,True,3.0,19.001,38.936,17.511,,False,False,10786.12,20,São Paulo Grand Prix
+PER,1.0,133.14,1.0,SOFT,4.0,124,False,Red Bull Racing,False,7.0,,68.271,39.585,,True,False,3876.253,20,São Paulo Grand Prix
+PER,2.0,144.049,2.0,SOFT,5.0,45,False,Red Bull Racing,False,7.0,38.897,62.929,42.223,,True,True,4020.302,20,São Paulo Grand Prix
+PER,3.0,,3.0,SOFT,4.0,1,False,Red Bull Racing,False,7.0,,45.908,55.52,,False,True,5551.506,20,São Paulo Grand Prix
+PER,4.0,115.677,3.0,SOFT,5.0,1,True,Red Bull Racing,False,6.0,57.884,40.303,17.49,,False,False,5667.183,20,São Paulo Grand Prix
+PER,5.0,77.043,3.0,SOFT,6.0,1,True,Red Bull Racing,False,6.0,19.961,39.5,17.582,,False,False,5744.226,20,São Paulo Grand Prix
+PER,6.0,76.294,3.0,SOFT,7.0,1,True,Red Bull Racing,False,6.0,19.659,39.278,17.357,,False,False,5820.52,20,São Paulo Grand Prix
+PER,7.0,76.365,3.0,SOFT,8.0,1,True,Red Bull Racing,False,6.0,19.712,39.293,17.36,,False,False,5896.885,20,São Paulo Grand Prix
+PER,8.0,76.762,3.0,SOFT,9.0,1,True,Red Bull Racing,False,6.0,19.763,39.582,17.417,,False,False,5973.647,20,São Paulo Grand Prix
+PER,9.0,76.54,3.0,SOFT,10.0,1,True,Red Bull Racing,False,6.0,19.733,39.343,17.464,,False,False,6050.187,20,São Paulo Grand Prix
+PER,10.0,76.541,3.0,SOFT,11.0,1,True,Red Bull Racing,False,6.0,19.726,39.478,17.337,,False,False,6126.728,20,São Paulo Grand Prix
+PER,11.0,77.152,3.0,SOFT,12.0,1,True,Red Bull Racing,False,6.0,19.832,39.679,17.641,,False,False,6203.88,20,São Paulo Grand Prix
+PER,12.0,76.878,3.0,SOFT,13.0,1,True,Red Bull Racing,False,6.0,19.901,39.469,17.508,,False,False,6280.758,20,São Paulo Grand Prix
+PER,13.0,76.966,3.0,SOFT,14.0,1,True,Red Bull Racing,False,6.0,19.811,39.674,17.481,,False,False,6357.724,20,São Paulo Grand Prix
+PER,14.0,77.24,3.0,SOFT,15.0,1,True,Red Bull Racing,False,5.0,19.762,39.712,17.766,,False,False,6434.964,20,São Paulo Grand Prix
+PER,15.0,76.7,3.0,SOFT,16.0,1,True,Red Bull Racing,False,5.0,19.727,39.25,17.723,,False,False,6511.664,20,São Paulo Grand Prix
+PER,16.0,76.547,3.0,SOFT,17.0,1,True,Red Bull Racing,False,5.0,19.741,39.234,17.572,,False,False,6588.211,20,São Paulo Grand Prix
+PER,17.0,77.27,3.0,SOFT,18.0,1,True,Red Bull Racing,False,5.0,19.847,39.801,17.622,,False,False,6665.481,20,São Paulo Grand Prix
+PER,18.0,77.261,3.0,SOFT,19.0,1,True,Red Bull Racing,False,4.0,19.762,39.71,17.789,,False,False,6742.742,20,São Paulo Grand Prix
+PER,19.0,76.93,3.0,SOFT,20.0,1,True,Red Bull Racing,False,4.0,19.816,39.213,17.901,,False,False,6819.672,20,São Paulo Grand Prix
+PER,20.0,80.985,3.0,SOFT,21.0,1,False,Red Bull Racing,False,6.0,19.892,39.258,21.835,,True,False,6900.657,20,São Paulo Grand Prix
+PER,21.0,92.885,4.0,MEDIUM,1.0,1,False,Red Bull Racing,True,9.0,36.799,38.842,17.244,,False,True,6993.542,20,São Paulo Grand Prix
+PER,22.0,75.998,4.0,MEDIUM,2.0,1,True,Red Bull Racing,True,9.0,19.439,39.119,17.44,,False,False,7069.54,20,São Paulo Grand Prix
+PER,23.0,76.388,4.0,MEDIUM,3.0,1,True,Red Bull Racing,True,7.0,19.76,38.981,17.647,,False,False,7145.928,20,São Paulo Grand Prix
+PER,24.0,76.056,4.0,MEDIUM,4.0,1,True,Red Bull Racing,True,7.0,19.561,38.933,17.562,,False,False,7221.984,20,São Paulo Grand Prix
+PER,25.0,75.969,4.0,MEDIUM,5.0,1,True,Red Bull Racing,True,7.0,19.597,38.914,17.458,,False,False,7297.953,20,São Paulo Grand Prix
+PER,26.0,75.791,4.0,MEDIUM,6.0,1,True,Red Bull Racing,True,7.0,19.319,38.849,17.623,,False,False,7373.744,20,São Paulo Grand Prix
+PER,27.0,75.463,4.0,MEDIUM,7.0,1,True,Red Bull Racing,True,4.0,19.497,38.44,17.526,,False,False,7449.207,20,São Paulo Grand Prix
+PER,28.0,75.654,4.0,MEDIUM,8.0,1,True,Red Bull Racing,True,4.0,19.51,38.684,17.46,,False,False,7524.861,20,São Paulo Grand Prix
+PER,29.0,75.842,4.0,MEDIUM,9.0,1,True,Red Bull Racing,True,4.0,19.512,38.837,17.493,,False,False,7600.703,20,São Paulo Grand Prix
+PER,30.0,75.848,4.0,MEDIUM,10.0,1,True,Red Bull Racing,True,4.0,19.585,38.68,17.583,,False,False,7676.551,20,São Paulo Grand Prix
+PER,31.0,75.778,4.0,MEDIUM,11.0,1,True,Red Bull Racing,True,4.0,19.474,38.718,17.586,,False,False,7752.329,20,São Paulo Grand Prix
+PER,32.0,75.759,4.0,MEDIUM,12.0,1,True,Red Bull Racing,True,4.0,19.408,38.818,17.533,,False,False,7828.088,20,São Paulo Grand Prix
+PER,33.0,75.641,4.0,MEDIUM,13.0,1,True,Red Bull Racing,True,4.0,19.411,38.732,17.498,,False,False,7903.729,20,São Paulo Grand Prix
+PER,34.0,75.732,4.0,MEDIUM,14.0,1,True,Red Bull Racing,True,4.0,19.364,38.783,17.585,,False,False,7979.461,20,São Paulo Grand Prix
+PER,35.0,75.527,4.0,MEDIUM,15.0,1,True,Red Bull Racing,True,4.0,19.47,38.598,17.459,,False,False,8054.988,20,São Paulo Grand Prix
+PER,36.0,75.996,4.0,MEDIUM,16.0,1,True,Red Bull Racing,True,4.0,19.517,38.949,17.53,,False,False,8130.984,20,São Paulo Grand Prix
+PER,37.0,76.062,4.0,MEDIUM,17.0,1,True,Red Bull Racing,True,4.0,19.64,38.893,17.529,,False,False,8207.046,20,São Paulo Grand Prix
+PER,38.0,76.028,4.0,MEDIUM,18.0,1,True,Red Bull Racing,True,4.0,19.569,38.954,17.505,,False,False,8283.074,20,São Paulo Grand Prix
+PER,39.0,76.126,4.0,MEDIUM,19.0,1,True,Red Bull Racing,True,4.0,19.49,39.038,17.598,,False,False,8359.2,20,São Paulo Grand Prix
+PER,40.0,76.415,4.0,MEDIUM,20.0,1,True,Red Bull Racing,True,4.0,19.45,39.3,17.665,,False,False,8435.615,20,São Paulo Grand Prix
+PER,41.0,76.078,4.0,MEDIUM,21.0,1,True,Red Bull Racing,True,4.0,19.552,38.912,17.614,,False,False,8511.693,20,São Paulo Grand Prix
+PER,42.0,76.038,4.0,MEDIUM,22.0,1,True,Red Bull Racing,True,4.0,19.551,38.843,17.644,,False,False,8587.731,20,São Paulo Grand Prix
+PER,43.0,76.308,4.0,MEDIUM,23.0,1,True,Red Bull Racing,True,4.0,19.42,39.176,17.712,,False,False,8664.039,20,São Paulo Grand Prix
+PER,44.0,76.369,4.0,MEDIUM,24.0,1,True,Red Bull Racing,True,4.0,19.518,39.021,17.83,,False,False,8740.408,20,São Paulo Grand Prix
+PER,45.0,76.32,4.0,MEDIUM,25.0,1,True,Red Bull Racing,True,4.0,19.574,38.997,17.749,,False,False,8816.728,20,São Paulo Grand Prix
+PER,46.0,80.234,4.0,MEDIUM,26.0,1,False,Red Bull Racing,True,4.0,19.545,38.996,21.693,,True,False,8896.962,20,São Paulo Grand Prix
+PER,47.0,93.339,5.0,SOFT,4.0,1,False,Red Bull Racing,False,7.0,37.159,38.882,17.298,,False,True,8990.301,20,São Paulo Grand Prix
+PER,48.0,75.224,5.0,SOFT,5.0,1,True,Red Bull Racing,False,6.0,19.338,38.511,17.375,,False,False,9065.525,20,São Paulo Grand Prix
+PER,49.0,74.977,5.0,SOFT,6.0,1,True,Red Bull Racing,False,6.0,19.261,38.312,17.404,,False,False,9140.502,20,São Paulo Grand Prix
+PER,50.0,75.34,5.0,SOFT,7.0,1,True,Red Bull Racing,False,6.0,19.303,38.566,17.471,,False,False,9215.842,20,São Paulo Grand Prix
+PER,51.0,74.778,5.0,SOFT,8.0,1,True,Red Bull Racing,False,6.0,19.205,38.198,17.375,,False,False,9290.62,20,São Paulo Grand Prix
+PER,52.0,74.749,5.0,SOFT,9.0,1,True,Red Bull Racing,False,5.0,19.226,38.195,17.328,,False,False,9365.369,20,São Paulo Grand Prix
+PER,53.0,74.759,5.0,SOFT,10.0,1,True,Red Bull Racing,False,4.0,19.242,38.218,17.299,,False,False,9440.128,20,São Paulo Grand Prix
+PER,54.0,74.477,5.0,SOFT,11.0,1,True,Red Bull Racing,False,4.0,19.07,38.119,17.288,,False,False,9514.605,20,São Paulo Grand Prix
+PER,55.0,74.124,5.0,SOFT,12.0,1,True,Red Bull Racing,False,4.0,18.979,38.054,17.091,,False,False,9588.729,20,São Paulo Grand Prix
+PER,56.0,74.956,5.0,SOFT,13.0,1,True,Red Bull Racing,False,4.0,19.275,38.572,17.109,,False,False,9663.685,20,São Paulo Grand Prix
+PER,57.0,74.686,5.0,SOFT,14.0,1,True,Red Bull Racing,False,4.0,19.15,38.471,17.065,,False,False,9738.371,20,São Paulo Grand Prix
+PER,58.0,74.36,5.0,SOFT,15.0,1,True,Red Bull Racing,False,4.0,19.02,38.352,16.988,,False,False,9812.731,20,São Paulo Grand Prix
+PER,59.0,74.543,5.0,SOFT,16.0,1,True,Red Bull Racing,False,4.0,19.365,38.206,16.972,,False,False,9887.274,20,São Paulo Grand Prix
+PER,60.0,75.126,5.0,SOFT,17.0,1,True,Red Bull Racing,False,4.0,19.294,38.824,17.008,,False,False,9962.4,20,São Paulo Grand Prix
+PER,61.0,75.048,5.0,SOFT,18.0,1,True,Red Bull Racing,False,4.0,19.226,38.63,17.192,,False,False,10037.448,20,São Paulo Grand Prix
+PER,62.0,74.771,5.0,SOFT,19.0,1,True,Red Bull Racing,False,4.0,19.058,38.518,17.195,,False,False,10112.219,20,São Paulo Grand Prix
+PER,63.0,74.638,5.0,SOFT,20.0,1,True,Red Bull Racing,False,4.0,19.066,38.475,17.097,,False,False,10186.857,20,São Paulo Grand Prix
+PER,64.0,74.349,5.0,SOFT,21.0,1,True,Red Bull Racing,False,4.0,18.963,38.315,17.071,,False,False,10261.206,20,São Paulo Grand Prix
+PER,65.0,74.757,5.0,SOFT,22.0,1,True,Red Bull Racing,False,4.0,19.173,38.509,17.075,,False,False,10335.963,20,São Paulo Grand Prix
+PER,66.0,74.44,5.0,SOFT,23.0,1,True,Red Bull Racing,False,4.0,19.204,38.209,17.027,,False,False,10410.403,20,São Paulo Grand Prix
+PER,67.0,74.712,5.0,SOFT,24.0,1,True,Red Bull Racing,False,4.0,19.136,38.498,17.078,,False,False,10485.115,20,São Paulo Grand Prix
+PER,68.0,74.699,5.0,SOFT,25.0,1,True,Red Bull Racing,False,4.0,18.986,38.527,17.186,,False,False,10559.814,20,São Paulo Grand Prix
+PER,69.0,74.768,5.0,SOFT,26.0,1,True,Red Bull Racing,False,4.0,19.311,38.437,17.02,,False,False,10634.582,20,São Paulo Grand Prix
+PER,70.0,75.652,5.0,SOFT,27.0,1,True,Red Bull Racing,False,3.0,19.294,38.935,17.423,,False,False,10710.234,20,São Paulo Grand Prix
+PER,71.0,75.939,5.0,SOFT,28.0,1,True,Red Bull Racing,False,4.0,19.508,39.289,17.142,,False,False,10786.173,20,São Paulo Grand Prix
+STR,1.0,128.727,1.0,SOFT,1.0,124,False,Aston Martin,True,5.0,,65.592,38.27,,True,False,3871.861,20,São Paulo Grand Prix
+STR,2.0,142.163,2.0,SOFT,2.0,45,False,Aston Martin,False,5.0,41.554,62.159,38.45,,True,True,4014.024,20,São Paulo Grand Prix
+STR,3.0,,3.0,SOFT,4.0,1,False,Aston Martin,False,5.0,,47.45,52.598,,False,True,5544.445,20,São Paulo Grand Prix
+STR,4.0,123.17,3.0,SOFT,5.0,1,True,Aston Martin,False,7.0,65.147,40.483,17.54,,False,False,5667.615,20,São Paulo Grand Prix
+STR,5.0,76.959,3.0,SOFT,6.0,1,True,Aston Martin,False,7.0,19.735,39.709,17.515,,False,False,5744.574,20,São Paulo Grand Prix
+STR,6.0,76.443,3.0,SOFT,7.0,1,True,Aston Martin,False,7.0,19.729,39.391,17.323,,False,False,5821.017,20,São Paulo Grand Prix
+STR,7.0,76.455,3.0,SOFT,8.0,1,True,Aston Martin,False,7.0,19.608,39.527,17.32,,False,False,5897.472,20,São Paulo Grand Prix
+STR,8.0,76.467,3.0,SOFT,9.0,1,True,Aston Martin,False,7.0,19.565,39.699,17.203,,False,False,5973.939,20,São Paulo Grand Prix
+STR,9.0,76.7,3.0,SOFT,10.0,1,True,Aston Martin,False,7.0,19.667,39.738,17.295,,False,False,6050.639,20,São Paulo Grand Prix
+STR,10.0,76.915,3.0,SOFT,11.0,1,True,Aston Martin,False,7.0,19.727,39.851,17.337,,False,False,6127.554,20,São Paulo Grand Prix
+STR,11.0,76.932,3.0,SOFT,12.0,1,True,Aston Martin,False,7.0,19.612,39.83,17.49,,False,False,6204.486,20,São Paulo Grand Prix
+STR,12.0,77.048,3.0,SOFT,13.0,1,True,Aston Martin,False,7.0,19.661,39.944,17.443,,False,False,6281.534,20,São Paulo Grand Prix
+STR,13.0,77.079,3.0,SOFT,14.0,1,True,Aston Martin,False,7.0,19.707,39.759,17.613,,False,False,6358.613,20,São Paulo Grand Prix
+STR,14.0,77.417,3.0,SOFT,15.0,1,True,Aston Martin,False,7.0,19.559,40.363,17.495,,False,False,6436.03,20,São Paulo Grand Prix
+STR,15.0,77.253,3.0,SOFT,16.0,1,True,Aston Martin,False,7.0,19.638,40.037,17.578,,False,False,6513.283,20,São Paulo Grand Prix
+STR,16.0,77.281,3.0,SOFT,17.0,1,True,Aston Martin,False,7.0,19.778,39.89,17.613,,False,False,6590.564,20,São Paulo Grand Prix
+STR,17.0,77.275,3.0,SOFT,18.0,1,True,Aston Martin,False,7.0,19.643,40.029,17.603,,False,False,6667.839,20,São Paulo Grand Prix
+STR,18.0,77.406,3.0,SOFT,19.0,1,True,Aston Martin,False,6.0,19.816,40.012,17.578,,False,False,6745.245,20,São Paulo Grand Prix
+STR,19.0,77.276,3.0,SOFT,20.0,1,True,Aston Martin,False,5.0,19.805,39.784,17.687,,False,False,6822.521,20,São Paulo Grand Prix
+STR,20.0,77.197,3.0,SOFT,21.0,1,True,Aston Martin,False,4.0,19.838,39.624,17.735,,False,False,6899.718,20,São Paulo Grand Prix
+STR,21.0,77.361,3.0,SOFT,22.0,1,True,Aston Martin,False,4.0,19.833,39.781,17.747,,False,False,6977.079,20,São Paulo Grand Prix
+STR,22.0,80.608,3.0,SOFT,23.0,1,False,Aston Martin,False,6.0,19.814,39.652,21.142,,True,False,7057.687,20,São Paulo Grand Prix
+STR,23.0,92.681,4.0,MEDIUM,1.0,1,False,Aston Martin,True,10.0,36.828,38.572,17.281,,False,True,7150.368,20,São Paulo Grand Prix
+STR,24.0,75.676,4.0,MEDIUM,2.0,1,True,Aston Martin,True,9.0,19.604,38.913,17.159,,False,False,7226.044,20,São Paulo Grand Prix
+STR,25.0,75.797,4.0,MEDIUM,3.0,1,True,Aston Martin,True,9.0,19.362,39.105,17.33,,False,False,7301.841,20,São Paulo Grand Prix
+STR,26.0,75.772,4.0,MEDIUM,4.0,1,True,Aston Martin,True,8.0,19.451,39.199,17.122,,False,False,7377.613,20,São Paulo Grand Prix
+STR,27.0,75.879,4.0,MEDIUM,5.0,1,True,Aston Martin,True,5.0,19.414,39.0,17.465,,False,False,7453.492,20,São Paulo Grand Prix
+STR,28.0,76.038,4.0,MEDIUM,6.0,1,True,Aston Martin,True,5.0,19.561,39.056,17.421,,False,False,7529.53,20,São Paulo Grand Prix
+STR,29.0,75.929,4.0,MEDIUM,7.0,1,True,Aston Martin,True,5.0,19.499,38.982,17.448,,False,False,7605.459,20,São Paulo Grand Prix
+STR,30.0,75.913,4.0,MEDIUM,8.0,1,True,Aston Martin,True,5.0,19.478,38.864,17.571,,False,False,7681.372,20,São Paulo Grand Prix
+STR,31.0,75.905,4.0,MEDIUM,9.0,1,True,Aston Martin,True,5.0,19.47,38.91,17.525,,False,False,7757.277,20,São Paulo Grand Prix
+STR,32.0,76.093,4.0,MEDIUM,10.0,1,True,Aston Martin,True,5.0,19.483,39.1,17.51,,False,False,7833.37,20,São Paulo Grand Prix
+STR,33.0,75.843,4.0,MEDIUM,11.0,1,True,Aston Martin,True,5.0,19.508,38.91,17.425,,False,False,7909.213,20,São Paulo Grand Prix
+STR,34.0,76.135,4.0,MEDIUM,12.0,1,True,Aston Martin,True,5.0,19.614,39.01,17.511,,False,False,7985.348,20,São Paulo Grand Prix
+STR,35.0,75.73,4.0,MEDIUM,13.0,1,True,Aston Martin,True,5.0,19.389,38.923,17.418,,False,False,8061.078,20,São Paulo Grand Prix
+STR,36.0,75.565,4.0,MEDIUM,14.0,1,True,Aston Martin,True,5.0,19.43,38.753,17.382,,False,False,8136.643,20,São Paulo Grand Prix
+STR,37.0,75.93,4.0,MEDIUM,15.0,1,True,Aston Martin,True,5.0,19.514,39.0,17.416,,False,False,8212.573,20,São Paulo Grand Prix
+STR,38.0,75.822,4.0,MEDIUM,16.0,1,True,Aston Martin,True,5.0,19.399,38.961,17.462,,False,False,8288.395,20,São Paulo Grand Prix
+STR,39.0,76.176,4.0,MEDIUM,17.0,1,True,Aston Martin,True,5.0,19.468,39.219,17.489,,False,False,8364.571,20,São Paulo Grand Prix
+STR,40.0,75.99,4.0,MEDIUM,18.0,1,True,Aston Martin,True,5.0,19.41,39.12,17.46,,False,False,8440.561,20,São Paulo Grand Prix
+STR,41.0,75.944,4.0,MEDIUM,19.0,1,True,Aston Martin,True,5.0,19.558,38.808,17.578,,False,False,8516.505,20,São Paulo Grand Prix
+STR,42.0,76.185,4.0,MEDIUM,20.0,1,True,Aston Martin,True,5.0,19.564,39.081,17.54,,False,False,8592.69,20,São Paulo Grand Prix
+STR,43.0,76.266,4.0,MEDIUM,21.0,1,True,Aston Martin,True,5.0,19.435,39.144,17.687,,False,False,8668.956,20,São Paulo Grand Prix
+STR,44.0,76.56,4.0,MEDIUM,22.0,1,True,Aston Martin,True,5.0,19.421,39.404,17.735,,False,False,8745.516,20,São Paulo Grand Prix
+STR,45.0,76.481,4.0,MEDIUM,23.0,1,True,Aston Martin,True,5.0,19.512,39.176,17.793,,False,False,8821.997,20,São Paulo Grand Prix
+STR,46.0,76.191,4.0,MEDIUM,24.0,1,True,Aston Martin,True,5.0,19.479,39.154,17.558,,False,False,8898.188,20,São Paulo Grand Prix
+STR,47.0,76.258,4.0,MEDIUM,25.0,1,True,Aston Martin,True,4.0,19.512,39.158,17.588,,False,False,8974.446,20,São Paulo Grand Prix
+STR,48.0,76.149,4.0,MEDIUM,26.0,1,True,Aston Martin,True,3.0,19.502,39.083,17.564,,False,False,9050.595,20,São Paulo Grand Prix
+STR,49.0,76.198,4.0,MEDIUM,27.0,1,True,Aston Martin,True,3.0,19.633,38.901,17.664,,False,False,9126.793,20,São Paulo Grand Prix
+STR,50.0,75.943,4.0,MEDIUM,28.0,1,True,Aston Martin,True,3.0,19.364,39.014,17.565,,False,False,9202.736,20,São Paulo Grand Prix
+STR,51.0,76.442,4.0,MEDIUM,29.0,1,True,Aston Martin,True,3.0,19.434,39.195,17.813,,False,False,9279.178,20,São Paulo Grand Prix
+STR,52.0,79.716,4.0,MEDIUM,30.0,1,False,Aston Martin,True,3.0,19.456,39.231,21.029,,True,False,9358.894,20,São Paulo Grand Prix
+STR,53.0,94.137,5.0,SOFT,3.0,1,False,Aston Martin,False,6.0,38.608,38.361,17.168,,False,True,9453.031,20,São Paulo Grand Prix
+STR,54.0,74.408,5.0,SOFT,4.0,1,True,Aston Martin,False,6.0,19.121,38.182,17.105,,False,False,9527.439,20,São Paulo Grand Prix
+STR,55.0,75.148,5.0,SOFT,5.0,1,True,Aston Martin,False,5.0,19.207,38.611,17.33,,False,False,9602.587,20,São Paulo Grand Prix
+STR,56.0,74.729,5.0,SOFT,6.0,1,True,Aston Martin,False,5.0,19.227,38.312,17.19,,False,False,9677.316,20,São Paulo Grand Prix
+STR,57.0,74.646,5.0,SOFT,7.0,1,True,Aston Martin,False,5.0,19.164,38.19,17.292,,False,False,9751.962,20,São Paulo Grand Prix
+STR,58.0,74.522,5.0,SOFT,8.0,1,True,Aston Martin,False,5.0,19.142,38.165,17.215,,False,False,9826.484,20,São Paulo Grand Prix
+STR,59.0,74.13,5.0,SOFT,9.0,1,True,Aston Martin,False,5.0,19.089,37.784,17.257,,False,False,9900.614,20,São Paulo Grand Prix
+STR,60.0,74.409,5.0,SOFT,10.0,1,True,Aston Martin,False,5.0,19.182,38.051,17.176,,False,False,9975.023,20,São Paulo Grand Prix
+STR,61.0,74.477,5.0,SOFT,11.0,1,True,Aston Martin,False,5.0,19.161,38.137,17.179,,False,False,10049.5,20,São Paulo Grand Prix
+STR,62.0,74.34,5.0,SOFT,12.0,1,True,Aston Martin,False,5.0,19.081,38.046,17.213,,False,False,10123.84,20,São Paulo Grand Prix
+STR,63.0,74.282,5.0,SOFT,13.0,1,True,Aston Martin,False,5.0,19.144,37.967,17.171,,False,False,10198.122,20,São Paulo Grand Prix
+STR,64.0,74.085,5.0,SOFT,14.0,1,True,Aston Martin,False,5.0,19.001,37.957,17.127,,False,False,10272.207,20,São Paulo Grand Prix
+STR,65.0,74.231,5.0,SOFT,15.0,1,True,Aston Martin,False,5.0,19.052,37.985,17.194,,False,False,10346.438,20,São Paulo Grand Prix
+STR,66.0,74.366,5.0,SOFT,16.0,1,True,Aston Martin,False,5.0,19.073,38.06,17.233,,False,False,10420.804,20,São Paulo Grand Prix
+STR,67.0,74.007,5.0,SOFT,17.0,1,True,Aston Martin,False,5.0,19.106,37.834,17.067,,False,False,10494.811,20,São Paulo Grand Prix
+STR,68.0,74.396,5.0,SOFT,18.0,1,True,Aston Martin,False,5.0,19.04,38.152,17.204,,False,False,10569.207,20,São Paulo Grand Prix
+STR,69.0,74.338,5.0,SOFT,19.0,1,True,Aston Martin,False,5.0,19.055,38.083,17.2,,False,False,10643.545,20,São Paulo Grand Prix
+STR,70.0,74.508,5.0,SOFT,20.0,1,True,Aston Martin,False,5.0,19.136,38.181,17.191,,False,False,10718.053,20,São Paulo Grand Prix
+STR,71.0,74.757,5.0,SOFT,21.0,1,True,Aston Martin,False,5.0,19.142,38.393,17.222,,False,False,10792.81,20,São Paulo Grand Prix
+SAI,1.0,134.431,1.0,SOFT,3.0,124,False,Ferrari,False,8.0,,69.04,39.936,,True,False,3877.538,20,São Paulo Grand Prix
+SAI,2.0,144.671,2.0,SOFT,4.0,45,False,Ferrari,False,8.0,40.669,61.007,42.995,,True,True,4022.209,20,São Paulo Grand Prix
+SAI,3.0,,3.0,SOFT,5.0,1,False,Ferrari,False,8.0,,43.899,55.967,,False,True,5555.576,20,São Paulo Grand Prix
+SAI,4.0,112.248,3.0,SOFT,6.0,1,True,Ferrari,False,8.0,54.349,40.45,17.449,,False,False,5667.824,20,São Paulo Grand Prix
+SAI,5.0,77.24,3.0,SOFT,7.0,1,True,Ferrari,False,8.0,19.753,39.933,17.554,,False,False,5745.064,20,São Paulo Grand Prix
+SAI,6.0,76.543,3.0,SOFT,8.0,1,True,Ferrari,False,8.0,19.767,39.358,17.418,,False,False,5821.607,20,São Paulo Grand Prix
+SAI,7.0,76.465,3.0,SOFT,9.0,1,True,Ferrari,False,8.0,19.572,39.526,17.367,,False,False,5898.072,20,São Paulo Grand Prix
+SAI,8.0,76.539,3.0,SOFT,10.0,1,True,Ferrari,False,8.0,19.475,39.666,17.398,,False,False,5974.611,20,São Paulo Grand Prix
+SAI,9.0,76.623,3.0,SOFT,11.0,1,True,Ferrari,False,8.0,19.552,39.586,17.485,,False,False,6051.234,20,São Paulo Grand Prix
+SAI,10.0,76.844,3.0,SOFT,12.0,1,True,Ferrari,False,8.0,19.617,39.793,17.434,,False,False,6128.078,20,São Paulo Grand Prix
+SAI,11.0,76.897,3.0,SOFT,13.0,1,True,Ferrari,False,8.0,19.437,40.017,17.443,,False,False,6204.975,20,São Paulo Grand Prix
+SAI,12.0,77.19,3.0,SOFT,14.0,1,True,Ferrari,False,8.0,19.638,40.045,17.507,,False,False,6282.165,20,São Paulo Grand Prix
+SAI,13.0,76.895,3.0,SOFT,15.0,1,True,Ferrari,False,8.0,19.551,39.899,17.445,,False,False,6359.06,20,São Paulo Grand Prix
+SAI,14.0,77.355,3.0,SOFT,16.0,1,True,Ferrari,False,8.0,19.643,40.101,17.611,,False,False,6436.415,20,São Paulo Grand Prix
+SAI,15.0,77.383,3.0,SOFT,17.0,1,True,Ferrari,False,8.0,19.634,40.039,17.71,,False,False,6513.798,20,São Paulo Grand Prix
+SAI,16.0,77.506,3.0,SOFT,18.0,1,True,Ferrari,False,8.0,19.636,40.249,17.621,,False,False,6591.304,20,São Paulo Grand Prix
+SAI,17.0,77.265,3.0,SOFT,19.0,1,True,Ferrari,False,8.0,19.503,40.223,17.539,,False,False,6668.569,20,São Paulo Grand Prix
+SAI,18.0,77.343,3.0,SOFT,20.0,1,True,Ferrari,False,7.0,19.41,40.366,17.567,,False,False,6745.912,20,São Paulo Grand Prix
+SAI,19.0,77.221,3.0,SOFT,21.0,1,True,Ferrari,False,6.0,19.51,40.113,17.598,,False,False,6823.133,20,São Paulo Grand Prix
+SAI,20.0,77.229,3.0,SOFT,22.0,1,True,Ferrari,False,5.0,19.588,39.885,17.756,,False,False,6900.362,20,São Paulo Grand Prix
+SAI,21.0,77.36,3.0,SOFT,23.0,1,True,Ferrari,False,5.0,19.475,40.101,17.784,,False,False,6977.722,20,São Paulo Grand Prix
+SAI,22.0,77.022,3.0,SOFT,24.0,1,True,Ferrari,False,4.0,19.458,39.988,17.576,,False,False,7054.744,20,São Paulo Grand Prix
+SAI,23.0,76.752,3.0,SOFT,25.0,1,True,Ferrari,False,4.0,19.49,39.303,17.959,,False,False,7131.496,20,São Paulo Grand Prix
+SAI,24.0,77.139,3.0,SOFT,26.0,1,True,Ferrari,False,4.0,19.708,39.49,17.941,,False,False,7208.635,20,São Paulo Grand Prix
+SAI,25.0,77.424,3.0,SOFT,27.0,1,True,Ferrari,False,4.0,19.748,39.68,17.996,,False,False,7286.059,20,São Paulo Grand Prix
+SAI,26.0,81.058,3.0,SOFT,28.0,1,False,Ferrari,False,3.0,19.741,39.539,21.778,,True,False,7367.117,20,São Paulo Grand Prix
+SAI,27.0,92.852,4.0,MEDIUM,1.0,1,False,Ferrari,True,9.0,36.895,38.656,17.301,,False,True,7459.969,20,São Paulo Grand Prix
+SAI,28.0,75.399,4.0,MEDIUM,2.0,1,True,Ferrari,True,8.0,19.219,38.629,17.551,,False,False,7535.368,20,São Paulo Grand Prix
+SAI,29.0,75.836,4.0,MEDIUM,3.0,1,True,Ferrari,True,8.0,19.368,38.94,17.528,,False,False,7611.204,20,São Paulo Grand Prix
+SAI,30.0,75.758,4.0,MEDIUM,4.0,1,True,Ferrari,True,8.0,19.403,38.761,17.594,,False,False,7686.962,20,São Paulo Grand Prix
+SAI,31.0,75.59,4.0,MEDIUM,5.0,1,True,Ferrari,True,8.0,19.262,38.771,17.557,,False,False,7762.552,20,São Paulo Grand Prix
+SAI,32.0,75.5,4.0,MEDIUM,6.0,1,True,Ferrari,True,8.0,19.372,38.676,17.452,,False,False,7838.052,20,São Paulo Grand Prix
+SAI,33.0,75.638,4.0,MEDIUM,7.0,1,True,Ferrari,True,8.0,19.416,38.964,17.258,,False,False,7913.69,20,São Paulo Grand Prix
+SAI,34.0,76.049,4.0,MEDIUM,8.0,1,True,Ferrari,True,7.0,19.319,39.418,17.312,,False,False,7989.739,20,São Paulo Grand Prix
+SAI,35.0,75.913,4.0,MEDIUM,9.0,1,True,Ferrari,True,7.0,19.278,39.123,17.512,,False,False,8065.652,20,São Paulo Grand Prix
+SAI,36.0,75.603,4.0,MEDIUM,10.0,1,True,Ferrari,True,7.0,19.358,38.905,17.34,,False,False,8141.255,20,São Paulo Grand Prix
+SAI,37.0,75.948,4.0,MEDIUM,11.0,1,True,Ferrari,True,6.0,19.374,39.093,17.481,,False,False,8217.203,20,São Paulo Grand Prix
+SAI,38.0,75.977,4.0,MEDIUM,12.0,1,True,Ferrari,True,6.0,19.43,38.966,17.581,,False,False,8293.18,20,São Paulo Grand Prix
+SAI,39.0,75.962,4.0,MEDIUM,13.0,1,True,Ferrari,True,6.0,19.421,38.901,17.64,,False,False,8369.142,20,São Paulo Grand Prix
+SAI,40.0,75.862,4.0,MEDIUM,14.0,1,True,Ferrari,True,6.0,19.422,38.843,17.597,,False,False,8445.004,20,São Paulo Grand Prix
+SAI,41.0,75.97,4.0,MEDIUM,15.0,1,True,Ferrari,True,6.0,19.503,38.884,17.583,,False,False,8520.974,20,São Paulo Grand Prix
+SAI,42.0,76.167,4.0,MEDIUM,16.0,1,True,Ferrari,True,6.0,19.542,38.909,17.716,,False,False,8597.141,20,São Paulo Grand Prix
+SAI,43.0,76.198,4.0,MEDIUM,17.0,1,True,Ferrari,True,6.0,19.439,39.013,17.746,,False,False,8673.339,20,São Paulo Grand Prix
+SAI,44.0,76.545,4.0,MEDIUM,18.0,1,True,Ferrari,True,6.0,19.556,39.241,17.748,,False,False,8749.884,20,São Paulo Grand Prix
+SAI,45.0,76.526,4.0,MEDIUM,19.0,1,True,Ferrari,True,6.0,19.475,39.252,17.799,,False,False,8826.41,20,São Paulo Grand Prix
+SAI,46.0,76.521,4.0,MEDIUM,20.0,1,True,Ferrari,True,6.0,19.549,39.276,17.696,,False,False,8902.931,20,São Paulo Grand Prix
+SAI,47.0,76.247,4.0,MEDIUM,21.0,1,True,Ferrari,True,5.0,19.421,39.23,17.596,,False,False,8979.178,20,São Paulo Grand Prix
+SAI,48.0,76.291,4.0,MEDIUM,22.0,1,True,Ferrari,True,4.0,19.571,39.08,17.64,,False,False,9055.469,20,São Paulo Grand Prix
+SAI,49.0,76.166,4.0,MEDIUM,23.0,1,True,Ferrari,True,4.0,19.544,39.007,17.615,,False,False,9131.635,20,São Paulo Grand Prix
+SAI,50.0,75.997,4.0,MEDIUM,24.0,1,True,Ferrari,True,4.0,19.423,38.985,17.589,,False,False,9207.632,20,São Paulo Grand Prix
+SAI,51.0,80.341,4.0,MEDIUM,25.0,1,False,Ferrari,True,4.0,19.479,39.274,21.588,,True,False,9287.973,20,São Paulo Grand Prix
+SAI,52.0,92.328,5.0,SOFT,4.0,1,False,Ferrari,False,7.0,36.818,38.227,17.283,,False,True,9380.301,20,São Paulo Grand Prix
+SAI,53.0,75.008,5.0,SOFT,5.0,1,True,Ferrari,False,7.0,19.286,38.364,17.358,,False,False,9455.309,20,São Paulo Grand Prix
+SAI,54.0,75.069,5.0,SOFT,6.0,1,True,Ferrari,False,7.0,19.329,38.373,17.367,,False,False,9530.378,20,São Paulo Grand Prix
+SAI,55.0,75.193,5.0,SOFT,7.0,1,True,Ferrari,False,7.0,19.325,38.5,17.368,,False,False,9605.571,20,São Paulo Grand Prix
+SAI,56.0,75.148,5.0,SOFT,8.0,1,True,Ferrari,False,6.0,19.339,38.491,17.318,,False,False,9680.719,20,São Paulo Grand Prix
+SAI,57.0,74.611,5.0,SOFT,9.0,1,True,Ferrari,False,6.0,19.144,38.149,17.318,,False,False,9755.33,20,São Paulo Grand Prix
+SAI,58.0,74.687,5.0,SOFT,10.0,1,True,Ferrari,False,6.0,19.135,38.251,17.301,,False,False,9830.017,20,São Paulo Grand Prix
+SAI,59.0,74.406,5.0,SOFT,11.0,1,True,Ferrari,False,6.0,19.203,37.929,17.274,,False,False,9904.423,20,São Paulo Grand Prix
+SAI,60.0,74.569,5.0,SOFT,12.0,1,True,Ferrari,False,6.0,19.186,37.973,17.41,,False,False,9978.992,20,São Paulo Grand Prix
+SAI,61.0,74.671,5.0,SOFT,13.0,1,True,Ferrari,False,6.0,19.213,38.124,17.334,,False,False,10053.663,20,São Paulo Grand Prix
+SAI,62.0,74.581,5.0,SOFT,14.0,1,True,Ferrari,False,6.0,19.122,38.141,17.318,,False,False,10128.244,20,São Paulo Grand Prix
+SAI,63.0,74.676,5.0,SOFT,15.0,1,True,Ferrari,False,6.0,19.115,38.045,17.516,,False,False,10202.92,20,São Paulo Grand Prix
+SAI,64.0,74.699,5.0,SOFT,16.0,1,True,Ferrari,False,6.0,19.195,38.137,17.367,,False,False,10277.619,20,São Paulo Grand Prix
+SAI,65.0,74.827,5.0,SOFT,17.0,1,True,Ferrari,False,6.0,19.201,38.223,17.403,,False,False,10352.446,20,São Paulo Grand Prix
+SAI,66.0,74.782,5.0,SOFT,18.0,1,True,Ferrari,False,6.0,19.266,38.124,17.392,,False,False,10427.228,20,São Paulo Grand Prix
+SAI,67.0,74.811,5.0,SOFT,19.0,1,True,Ferrari,False,6.0,19.214,38.175,17.422,,False,False,10502.039,20,São Paulo Grand Prix
+SAI,68.0,74.913,5.0,SOFT,20.0,1,True,Ferrari,False,6.0,19.191,38.268,17.454,,False,False,10576.952,20,São Paulo Grand Prix
+SAI,69.0,74.977,5.0,SOFT,21.0,1,True,Ferrari,False,6.0,19.194,38.321,17.462,,False,False,10651.929,20,São Paulo Grand Prix
+SAI,70.0,74.875,5.0,SOFT,22.0,1,True,Ferrari,False,6.0,19.14,38.367,17.368,,False,False,10726.804,20,São Paulo Grand Prix
+SAI,71.0,75.349,5.0,SOFT,23.0,1,True,Ferrari,False,6.0,19.288,38.56,17.501,,False,False,10802.153,20,São Paulo Grand Prix
+GAS,1.0,141.63,1.0,SOFT,3.0,124,False,Alpine,False,12.0,,72.075,42.309,,True,False,3884.75,20,São Paulo Grand Prix
+GAS,2.0,144.561,2.0,SOFT,4.0,45,False,Alpine,False,11.0,41.47,58.747,44.344,,True,True,4029.311,20,São Paulo Grand Prix
+GAS,3.0,,3.0,SOFT,4.0,1,False,Alpine,False,11.0,,42.476,79.757,,False,True,5587.259,20,São Paulo Grand Prix
+GAS,4.0,80.965,3.0,SOFT,5.0,1,True,Alpine,False,9.0,22.928,40.595,17.442,,False,False,5668.224,20,São Paulo Grand Prix
+GAS,5.0,77.261,3.0,SOFT,6.0,1,True,Alpine,False,9.0,19.906,39.737,17.618,,False,False,5745.485,20,São Paulo Grand Prix
+GAS,6.0,76.677,3.0,SOFT,7.0,1,True,Alpine,False,9.0,19.852,39.534,17.291,,False,False,5822.162,20,São Paulo Grand Prix
+GAS,7.0,76.437,3.0,SOFT,8.0,1,True,Alpine,False,9.0,19.619,39.466,17.352,,False,False,5898.599,20,São Paulo Grand Prix
+GAS,8.0,76.558,3.0,SOFT,9.0,1,True,Alpine,False,9.0,19.514,39.663,17.381,,False,False,5975.157,20,São Paulo Grand Prix
+GAS,9.0,76.531,3.0,SOFT,10.0,1,True,Alpine,False,9.0,19.543,39.62,17.368,,False,False,6051.688,20,São Paulo Grand Prix
+GAS,10.0,76.971,3.0,SOFT,11.0,1,True,Alpine,False,9.0,19.668,39.846,17.457,,False,False,6128.659,20,São Paulo Grand Prix
+GAS,11.0,76.882,3.0,SOFT,12.0,1,True,Alpine,False,9.0,19.546,39.772,17.564,,False,False,6205.541,20,São Paulo Grand Prix
+GAS,12.0,77.203,3.0,SOFT,13.0,1,True,Alpine,False,9.0,19.639,40.051,17.513,,False,False,6282.744,20,São Paulo Grand Prix
+GAS,13.0,77.076,3.0,SOFT,14.0,1,True,Alpine,False,9.0,19.706,39.865,17.505,,False,False,6359.82,20,São Paulo Grand Prix
+GAS,14.0,77.282,3.0,SOFT,15.0,1,True,Alpine,False,9.0,19.625,40.14,17.517,,False,False,6437.102,20,São Paulo Grand Prix
+GAS,15.0,77.196,3.0,SOFT,16.0,1,True,Alpine,False,9.0,19.753,39.855,17.588,,False,False,6514.298,20,São Paulo Grand Prix
+GAS,16.0,77.744,3.0,SOFT,17.0,1,True,Alpine,False,9.0,19.848,40.317,17.579,,False,False,6592.042,20,São Paulo Grand Prix
+GAS,17.0,77.444,3.0,SOFT,18.0,1,True,Alpine,False,9.0,19.728,40.005,17.711,,False,False,6669.486,20,São Paulo Grand Prix
+GAS,18.0,77.301,3.0,SOFT,19.0,1,True,Alpine,False,8.0,19.675,40.056,17.57,,False,False,6746.787,20,São Paulo Grand Prix
+GAS,19.0,77.205,3.0,SOFT,20.0,1,True,Alpine,False,7.0,19.836,39.743,17.626,,False,False,6823.992,20,São Paulo Grand Prix
+GAS,20.0,77.174,3.0,SOFT,21.0,1,True,Alpine,False,7.0,19.684,39.976,17.514,,False,False,6901.166,20,São Paulo Grand Prix
+GAS,21.0,77.411,3.0,SOFT,22.0,1,True,Alpine,False,6.0,19.683,40.016,17.712,,False,False,6978.577,20,São Paulo Grand Prix
+GAS,22.0,77.363,3.0,SOFT,23.0,1,True,Alpine,False,5.0,19.725,39.923,17.715,,False,False,7055.94,20,São Paulo Grand Prix
+GAS,23.0,77.383,3.0,SOFT,24.0,1,True,Alpine,False,5.0,19.805,39.883,17.695,,False,False,7133.323,20,São Paulo Grand Prix
+GAS,24.0,77.474,3.0,SOFT,25.0,1,True,Alpine,False,5.0,19.794,39.875,17.805,,False,False,7210.797,20,São Paulo Grand Prix
+GAS,25.0,78.007,3.0,SOFT,26.0,1,True,Alpine,False,5.0,20.035,40.084,17.888,,False,False,7288.804,20,São Paulo Grand Prix
+GAS,26.0,81.513,3.0,SOFT,27.0,1,False,Alpine,False,5.0,19.956,40.003,21.554,,True,False,7370.317,20,São Paulo Grand Prix
+GAS,27.0,95.176,4.0,MEDIUM,1.0,1,False,Alpine,True,12.0,39.141,38.715,17.32,,False,True,7465.493,20,São Paulo Grand Prix
+GAS,28.0,75.215,4.0,MEDIUM,2.0,1,True,Alpine,True,12.0,19.349,38.714,17.152,,False,False,7540.708,20,São Paulo Grand Prix
+GAS,29.0,76.408,4.0,MEDIUM,3.0,1,True,Alpine,True,11.0,19.283,39.816,17.309,,False,False,7617.116,20,São Paulo Grand Prix
+GAS,30.0,75.602,4.0,MEDIUM,4.0,1,True,Alpine,True,11.0,19.443,38.962,17.197,,False,False,7692.718,20,São Paulo Grand Prix
+GAS,31.0,76.162,4.0,MEDIUM,5.0,1,True,Alpine,True,10.0,19.343,39.536,17.283,,False,False,7768.88,20,São Paulo Grand Prix
+GAS,32.0,75.63,4.0,MEDIUM,6.0,1,True,Alpine,True,9.0,19.275,38.956,17.399,,False,False,7844.51,20,São Paulo Grand Prix
+GAS,33.0,75.443,4.0,MEDIUM,7.0,1,True,Alpine,True,9.0,19.412,38.739,17.292,,False,False,7919.953,20,São Paulo Grand Prix
+GAS,34.0,75.679,4.0,MEDIUM,8.0,1,True,Alpine,True,9.0,19.356,38.895,17.428,,False,False,7995.632,20,São Paulo Grand Prix
+GAS,35.0,75.73,4.0,MEDIUM,9.0,1,True,Alpine,True,9.0,19.395,38.928,17.407,,False,False,8071.362,20,São Paulo Grand Prix
+GAS,36.0,75.71,4.0,MEDIUM,10.0,1,True,Alpine,True,9.0,19.533,38.912,17.265,,False,False,8147.072,20,São Paulo Grand Prix
+GAS,37.0,75.961,4.0,MEDIUM,11.0,1,True,Alpine,True,9.0,19.473,39.094,17.394,,False,False,8223.033,20,São Paulo Grand Prix
+GAS,38.0,76.002,4.0,MEDIUM,12.0,1,True,Alpine,True,9.0,19.405,39.158,17.439,,False,False,8299.035,20,São Paulo Grand Prix
+GAS,39.0,76.446,4.0,MEDIUM,13.0,1,True,Alpine,True,9.0,19.453,39.446,17.547,,False,False,8375.481,20,São Paulo Grand Prix
+GAS,40.0,76.385,4.0,MEDIUM,14.0,1,True,Alpine,True,9.0,19.554,39.413,17.418,,False,False,8451.866,20,São Paulo Grand Prix
+GAS,41.0,76.515,4.0,MEDIUM,15.0,1,True,Alpine,True,9.0,19.516,39.52,17.479,,False,False,8528.381,20,São Paulo Grand Prix
+GAS,42.0,76.263,4.0,MEDIUM,16.0,1,True,Alpine,True,9.0,19.437,39.469,17.357,,False,False,8604.644,20,São Paulo Grand Prix
+GAS,43.0,76.63,4.0,MEDIUM,17.0,1,True,Alpine,True,8.0,19.515,39.547,17.568,,False,False,8681.274,20,São Paulo Grand Prix
+GAS,44.0,77.03,4.0,MEDIUM,18.0,1,True,Alpine,True,8.0,19.624,39.785,17.621,,False,False,8758.304,20,São Paulo Grand Prix
+GAS,45.0,76.619,4.0,MEDIUM,19.0,1,True,Alpine,True,8.0,19.661,39.328,17.63,,False,False,8834.923,20,São Paulo Grand Prix
+GAS,46.0,80.564,4.0,MEDIUM,20.0,1,False,Alpine,True,9.0,19.547,39.519,21.498,,True,False,8915.487,20,São Paulo Grand Prix
+GAS,47.0,92.202,5.0,SOFT,1.0,1,False,Alpine,True,10.0,36.964,38.184,17.054,,False,True,9007.689,20,São Paulo Grand Prix
+GAS,48.0,74.521,5.0,SOFT,2.0,1,True,Alpine,True,9.0,19.161,38.402,16.958,,False,False,9082.21,20,São Paulo Grand Prix
+GAS,49.0,74.703,5.0,SOFT,3.0,1,True,Alpine,True,9.0,19.059,38.666,16.978,,False,False,9156.913,20,São Paulo Grand Prix
+GAS,50.0,74.969,5.0,SOFT,4.0,1,True,Alpine,True,8.0,19.158,38.527,17.284,,False,False,9231.882,20,São Paulo Grand Prix
+GAS,51.0,75.114,5.0,SOFT,5.0,1,True,Alpine,True,8.0,19.358,38.593,17.163,,False,False,9306.996,20,São Paulo Grand Prix
+GAS,52.0,75.036,5.0,SOFT,6.0,1,True,Alpine,True,8.0,19.275,38.529,17.232,,False,False,9382.032,20,São Paulo Grand Prix
+GAS,53.0,75.031,5.0,SOFT,7.0,1,True,Alpine,True,8.0,19.3,38.678,17.053,,False,False,9457.063,20,São Paulo Grand Prix
+GAS,54.0,75.064,5.0,SOFT,8.0,1,True,Alpine,True,8.0,19.218,38.634,17.212,,False,False,9532.127,20,São Paulo Grand Prix
+GAS,55.0,75.306,5.0,SOFT,9.0,1,True,Alpine,True,8.0,19.309,38.736,17.261,,False,False,9607.433,20,São Paulo Grand Prix
+GAS,56.0,75.325,5.0,SOFT,10.0,1,True,Alpine,True,7.0,19.318,38.704,17.303,,False,False,9682.758,20,São Paulo Grand Prix
+GAS,57.0,75.059,5.0,SOFT,11.0,1,True,Alpine,True,7.0,19.221,38.588,17.25,,False,False,9757.817,20,São Paulo Grand Prix
+GAS,58.0,74.917,5.0,SOFT,12.0,1,True,Alpine,True,7.0,19.176,38.536,17.205,,False,False,9832.734,20,São Paulo Grand Prix
+GAS,59.0,74.794,5.0,SOFT,13.0,1,True,Alpine,True,7.0,19.19,38.409,17.195,,False,False,9907.528,20,São Paulo Grand Prix
+GAS,60.0,74.618,5.0,SOFT,14.0,1,True,Alpine,True,7.0,19.212,38.217,17.189,,False,False,9982.146,20,São Paulo Grand Prix
+GAS,61.0,74.727,5.0,SOFT,15.0,1,True,Alpine,True,7.0,19.167,38.373,17.187,,False,False,10056.873,20,São Paulo Grand Prix
+GAS,62.0,74.671,5.0,SOFT,16.0,1,True,Alpine,True,7.0,19.122,38.379,17.17,,False,False,10131.544,20,São Paulo Grand Prix
+GAS,63.0,74.654,5.0,SOFT,17.0,1,True,Alpine,True,7.0,19.095,38.412,17.147,,False,False,10206.198,20,São Paulo Grand Prix
+GAS,64.0,74.9,5.0,SOFT,18.0,1,True,Alpine,True,7.0,19.147,38.431,17.322,,False,False,10281.098,20,São Paulo Grand Prix
+GAS,65.0,74.938,5.0,SOFT,19.0,1,True,Alpine,True,7.0,19.213,38.492,17.233,,False,False,10356.036,20,São Paulo Grand Prix
+GAS,66.0,75.017,5.0,SOFT,20.0,1,True,Alpine,True,7.0,19.179,38.591,17.247,,False,False,10431.053,20,São Paulo Grand Prix
+GAS,67.0,74.967,5.0,SOFT,21.0,1,True,Alpine,True,7.0,19.115,38.591,17.261,,False,False,10506.02,20,São Paulo Grand Prix
+GAS,68.0,75.247,5.0,SOFT,22.0,1,True,Alpine,True,7.0,19.173,38.772,17.302,,False,False,10581.267,20,São Paulo Grand Prix
+GAS,69.0,75.095,5.0,SOFT,23.0,1,True,Alpine,True,7.0,19.089,38.684,17.322,,False,False,10656.362,20,São Paulo Grand Prix
+GAS,70.0,75.113,5.0,SOFT,24.0,1,True,Alpine,True,7.0,19.153,38.721,17.239,,False,False,10731.475,20,São Paulo Grand Prix
+GAS,71.0,76.583,5.0,SOFT,25.0,1,True,Alpine,True,7.0,19.371,39.145,18.067,,False,False,10808.058,20,São Paulo Grand Prix
+HAM,1.0,124.866,1.0,SOFT,4.0,124,False,Mercedes,False,3.0,,63.429,36.902,,True,False,3868.0,20,São Paulo Grand Prix
+HAM,2.0,141.894,2.0,SOFT,5.0,45,False,Mercedes,False,3.0,43.347,61.865,36.682,,True,True,4009.894,20,São Paulo Grand Prix
+HAM,3.0,,3.0,SOFT,4.0,1,False,Mercedes,False,3.0,,46.514,53.974,,False,True,5540.698,20,São Paulo Grand Prix
+HAM,4.0,125.489,3.0,SOFT,5.0,1,True,Mercedes,False,4.0,68.028,39.877,17.584,,False,False,5666.187,20,São Paulo Grand Prix
+HAM,5.0,76.838,3.0,SOFT,6.0,1,True,Mercedes,False,4.0,20.084,39.162,17.592,,False,False,5743.025,20,São Paulo Grand Prix
+HAM,6.0,76.481,3.0,SOFT,7.0,1,True,Mercedes,False,4.0,19.873,38.932,17.676,,False,False,5819.506,20,São Paulo Grand Prix
+HAM,7.0,76.474,3.0,SOFT,8.0,1,True,Mercedes,False,4.0,19.827,39.009,17.638,,False,False,5895.98,20,São Paulo Grand Prix
+HAM,8.0,76.57,3.0,SOFT,9.0,1,True,Mercedes,False,4.0,19.729,39.139,17.702,,False,False,5972.55,20,São Paulo Grand Prix
+HAM,9.0,76.543,3.0,SOFT,10.0,1,True,Mercedes,False,4.0,19.846,39.099,17.598,,False,False,6049.093,20,São Paulo Grand Prix
+HAM,10.0,76.739,3.0,SOFT,11.0,1,True,Mercedes,False,4.0,19.869,39.252,17.618,,False,False,6125.832,20,São Paulo Grand Prix
+HAM,11.0,76.599,3.0,SOFT,12.0,1,True,Mercedes,False,4.0,19.795,39.132,17.672,,False,False,6202.431,20,São Paulo Grand Prix
+HAM,12.0,76.951,3.0,SOFT,13.0,1,True,Mercedes,False,4.0,19.913,39.348,17.69,,False,False,6279.382,20,São Paulo Grand Prix
+HAM,13.0,76.996,3.0,SOFT,14.0,1,True,Mercedes,False,4.0,19.898,39.355,17.743,,False,False,6356.378,20,São Paulo Grand Prix
+HAM,14.0,77.096,3.0,SOFT,15.0,1,True,Mercedes,False,4.0,19.802,39.5,17.794,,False,False,6433.474,20,São Paulo Grand Prix
+HAM,15.0,76.977,3.0,SOFT,16.0,1,True,Mercedes,False,4.0,19.778,39.438,17.761,,False,False,6510.451,20,São Paulo Grand Prix
+HAM,16.0,77.252,3.0,SOFT,17.0,1,True,Mercedes,False,4.0,19.864,39.523,17.865,,False,False,6587.703,20,São Paulo Grand Prix
+HAM,17.0,77.36,3.0,SOFT,18.0,1,True,Mercedes,False,4.0,19.904,39.553,17.903,,False,False,6665.063,20,São Paulo Grand Prix
+HAM,18.0,82.182,3.0,SOFT,19.0,1,False,Mercedes,False,9.0,20.231,40.419,21.532,,True,False,6747.245,20,São Paulo Grand Prix
+HAM,19.0,93.995,4.0,MEDIUM,1.0,1,False,Mercedes,True,11.0,36.979,39.39,17.626,,False,True,6841.24,20,São Paulo Grand Prix
+HAM,20.0,76.419,4.0,MEDIUM,2.0,1,True,Mercedes,True,10.0,19.789,39.101,17.529,,False,False,6917.659,20,São Paulo Grand Prix
+HAM,21.0,75.516,4.0,MEDIUM,3.0,1,True,Mercedes,True,8.0,19.442,38.753,17.321,,False,False,6993.175,20,São Paulo Grand Prix
+HAM,22.0,76.146,4.0,MEDIUM,4.0,1,True,Mercedes,True,8.0,19.39,39.206,17.55,,False,False,7069.321,20,São Paulo Grand Prix
+HAM,23.0,77.773,4.0,MEDIUM,5.0,1,True,Mercedes,True,8.0,20.068,40.168,17.537,,False,False,7147.094,20,São Paulo Grand Prix
+HAM,24.0,76.884,4.0,MEDIUM,6.0,1,True,Mercedes,True,8.0,19.673,39.663,17.548,,False,False,7223.978,20,São Paulo Grand Prix
+HAM,25.0,77.027,4.0,MEDIUM,7.0,1,True,Mercedes,True,8.0,19.724,39.687,17.616,,False,False,7301.005,20,São Paulo Grand Prix
+HAM,26.0,76.74,4.0,MEDIUM,8.0,1,True,Mercedes,True,9.0,19.623,39.497,17.62,,False,False,7377.745,20,São Paulo Grand Prix
+HAM,27.0,77.041,4.0,MEDIUM,9.0,1,True,Mercedes,True,6.0,19.668,39.766,17.607,,False,False,7454.786,20,São Paulo Grand Prix
+HAM,28.0,76.465,4.0,MEDIUM,10.0,1,True,Mercedes,True,6.0,19.468,39.432,17.565,,False,False,7531.251,20,São Paulo Grand Prix
+HAM,29.0,76.207,4.0,MEDIUM,11.0,1,True,Mercedes,True,6.0,19.487,39.074,17.646,,False,False,7607.458,20,São Paulo Grand Prix
+HAM,30.0,76.274,4.0,MEDIUM,12.0,1,True,Mercedes,True,6.0,19.434,39.22,17.62,,False,False,7683.732,20,São Paulo Grand Prix
+HAM,31.0,76.179,4.0,MEDIUM,13.0,1,True,Mercedes,True,6.0,19.419,39.084,17.676,,False,False,7759.911,20,São Paulo Grand Prix
+HAM,32.0,76.077,4.0,MEDIUM,14.0,1,True,Mercedes,True,6.0,19.437,39.079,17.561,,False,False,7835.988,20,São Paulo Grand Prix
+HAM,33.0,76.089,4.0,MEDIUM,15.0,1,True,Mercedes,True,6.0,19.509,38.973,17.607,,False,False,7912.077,20,São Paulo Grand Prix
+HAM,34.0,76.382,4.0,MEDIUM,16.0,1,True,Mercedes,True,6.0,19.527,39.226,17.629,,False,False,7988.459,20,São Paulo Grand Prix
+HAM,35.0,76.146,4.0,MEDIUM,17.0,1,True,Mercedes,True,6.0,19.465,39.106,17.575,,False,False,8064.605,20,São Paulo Grand Prix
+HAM,36.0,76.283,4.0,MEDIUM,18.0,1,True,Mercedes,True,6.0,19.52,39.21,17.553,,False,False,8140.888,20,São Paulo Grand Prix
+HAM,37.0,77.544,4.0,MEDIUM,19.0,1,True,Mercedes,True,7.0,19.731,40.182,17.631,,False,False,8218.432,20,São Paulo Grand Prix
+HAM,38.0,76.327,4.0,MEDIUM,20.0,1,True,Mercedes,True,7.0,19.535,39.144,17.648,,False,False,8294.759,20,São Paulo Grand Prix
+HAM,39.0,76.616,4.0,MEDIUM,21.0,1,True,Mercedes,True,7.0,19.606,39.305,17.705,,False,False,8371.375,20,São Paulo Grand Prix
+HAM,40.0,76.363,4.0,MEDIUM,22.0,1,True,Mercedes,True,7.0,19.552,39.107,17.704,,False,False,8447.738,20,São Paulo Grand Prix
+HAM,41.0,76.389,4.0,MEDIUM,23.0,1,True,Mercedes,True,7.0,19.588,39.067,17.734,,False,False,8524.127,20,São Paulo Grand Prix
+HAM,42.0,76.426,4.0,MEDIUM,24.0,1,True,Mercedes,True,7.0,19.594,39.078,17.754,,False,False,8600.553,20,São Paulo Grand Prix
+HAM,43.0,76.54,4.0,MEDIUM,25.0,1,True,Mercedes,True,7.0,19.504,39.122,17.914,,False,False,8677.093,20,São Paulo Grand Prix
+HAM,44.0,77.225,4.0,MEDIUM,26.0,1,True,Mercedes,True,7.0,19.598,39.494,18.133,,False,False,8754.318,20,São Paulo Grand Prix
+HAM,45.0,76.975,4.0,MEDIUM,27.0,1,True,Mercedes,True,7.0,19.635,39.423,17.917,,False,False,8831.293,20,São Paulo Grand Prix
+HAM,46.0,80.492,4.0,MEDIUM,28.0,1,False,Mercedes,True,7.0,19.646,39.339,21.507,,True,False,8911.785,20,São Paulo Grand Prix
+HAM,47.0,93.529,5.0,SOFT,4.0,1,False,Mercedes,False,9.0,37.211,39.17,17.148,,False,True,9005.314,20,São Paulo Grand Prix
+HAM,48.0,75.758,5.0,SOFT,5.0,1,True,Mercedes,False,8.0,19.119,39.203,17.436,,False,False,9081.072,20,São Paulo Grand Prix
+HAM,49.0,75.821,5.0,SOFT,6.0,1,True,Mercedes,False,8.0,19.557,38.831,17.433,,False,False,9156.893,20,São Paulo Grand Prix
+HAM,50.0,75.945,5.0,SOFT,7.0,1,True,Mercedes,False,9.0,19.364,39.483,17.098,,False,False,9232.838,20,São Paulo Grand Prix
+HAM,51.0,75.764,5.0,SOFT,8.0,1,True,Mercedes,False,9.0,19.164,39.243,17.357,,False,False,9308.602,20,São Paulo Grand Prix
+HAM,52.0,75.696,5.0,SOFT,9.0,1,True,Mercedes,False,9.0,19.356,39.008,17.332,,False,False,9384.298,20,São Paulo Grand Prix
+HAM,53.0,75.416,5.0,SOFT,10.0,1,True,Mercedes,False,9.0,19.351,38.709,17.356,,False,False,9459.714,20,São Paulo Grand Prix
+HAM,54.0,75.205,5.0,SOFT,11.0,1,True,Mercedes,False,9.0,19.224,38.597,17.384,,False,False,9534.919,20,São Paulo Grand Prix
+HAM,55.0,75.17,5.0,SOFT,12.0,1,True,Mercedes,False,9.0,19.238,38.532,17.4,,False,False,9610.089,20,São Paulo Grand Prix
+HAM,56.0,75.313,5.0,SOFT,13.0,1,True,Mercedes,False,8.0,19.25,38.637,17.426,,False,False,9685.402,20,São Paulo Grand Prix
+HAM,57.0,75.031,5.0,SOFT,14.0,1,True,Mercedes,False,8.0,19.205,38.47,17.356,,False,False,9760.433,20,São Paulo Grand Prix
+HAM,58.0,74.905,5.0,SOFT,15.0,1,True,Mercedes,False,8.0,19.197,38.368,17.34,,False,False,9835.338,20,São Paulo Grand Prix
+HAM,59.0,74.739,5.0,SOFT,16.0,1,True,Mercedes,False,8.0,19.11,38.291,17.338,,False,False,9910.077,20,São Paulo Grand Prix
+HAM,60.0,75.173,5.0,SOFT,17.0,1,True,Mercedes,False,8.0,19.297,38.479,17.397,,False,False,9985.25,20,São Paulo Grand Prix
+HAM,61.0,75.299,5.0,SOFT,18.0,1,True,Mercedes,False,8.0,19.346,38.542,17.411,,False,False,10060.549,20,São Paulo Grand Prix
+HAM,62.0,75.358,5.0,SOFT,19.0,1,True,Mercedes,False,8.0,19.274,38.684,17.4,,False,False,10135.907,20,São Paulo Grand Prix
+HAM,63.0,75.131,5.0,SOFT,20.0,1,True,Mercedes,False,8.0,19.258,38.472,17.401,,False,False,10211.038,20,São Paulo Grand Prix
+HAM,64.0,75.17,5.0,SOFT,21.0,1,True,Mercedes,False,8.0,19.282,38.384,17.504,,False,False,10286.208,20,São Paulo Grand Prix
+HAM,65.0,75.345,5.0,SOFT,22.0,1,True,Mercedes,False,8.0,19.295,38.577,17.473,,False,False,10361.553,20,São Paulo Grand Prix
+HAM,66.0,75.123,5.0,SOFT,23.0,1,True,Mercedes,False,8.0,19.313,38.369,17.441,,False,False,10436.676,20,São Paulo Grand Prix
+HAM,67.0,75.415,5.0,SOFT,24.0,1,True,Mercedes,False,8.0,19.351,38.603,17.461,,False,False,10512.091,20,São Paulo Grand Prix
+HAM,68.0,75.465,5.0,SOFT,25.0,1,True,Mercedes,False,8.0,19.377,38.492,17.596,,False,False,10587.556,20,São Paulo Grand Prix
+HAM,69.0,75.482,5.0,SOFT,26.0,1,True,Mercedes,False,8.0,19.335,38.721,17.426,,False,False,10663.038,20,São Paulo Grand Prix
+HAM,70.0,75.701,5.0,SOFT,27.0,1,True,Mercedes,False,8.0,19.53,38.634,17.537,,False,False,10738.739,20,São Paulo Grand Prix
+HAM,71.0,76.085,5.0,SOFT,28.0,1,True,Mercedes,False,8.0,19.486,38.948,17.651,,False,False,10814.824,20,São Paulo Grand Prix
+TSU,1.0,139.969,1.0,SOFT,4.0,124,False,AlphaTauri,False,11.0,,71.374,41.451,,True,False,3883.108,20,São Paulo Grand Prix
+TSU,2.0,144.126,2.0,SOFT,5.0,45,False,AlphaTauri,False,10.0,41.25,59.052,43.824,,True,True,4027.234,20,São Paulo Grand Prix
+TSU,3.0,,3.0,SOFT,1.0,1,False,AlphaTauri,True,10.0,,43.63,81.879,,False,True,5587.11,20,São Paulo Grand Prix
+TSU,4.0,81.84,3.0,SOFT,2.0,1,True,AlphaTauri,True,11.0,23.156,40.617,18.067,,False,False,5668.95,20,São Paulo Grand Prix
+TSU,5.0,77.524,3.0,SOFT,3.0,1,True,AlphaTauri,True,11.0,20.148,39.917,17.459,,False,False,5746.474,20,São Paulo Grand Prix
+TSU,6.0,76.953,3.0,SOFT,4.0,1,True,AlphaTauri,True,11.0,19.913,39.8,17.24,,False,False,5823.427,20,São Paulo Grand Prix
+TSU,7.0,76.656,3.0,SOFT,5.0,1,True,AlphaTauri,True,11.0,19.87,39.504,17.282,,False,False,5900.083,20,São Paulo Grand Prix
+TSU,8.0,76.679,3.0,SOFT,6.0,1,True,AlphaTauri,True,11.0,19.616,39.768,17.295,,False,False,5976.762,20,São Paulo Grand Prix
+TSU,9.0,76.792,3.0,SOFT,7.0,1,True,AlphaTauri,True,11.0,19.567,39.833,17.392,,False,False,6053.554,20,São Paulo Grand Prix
+TSU,10.0,77.038,3.0,SOFT,8.0,1,True,AlphaTauri,True,11.0,19.548,39.923,17.567,,False,False,6130.592,20,São Paulo Grand Prix
+TSU,11.0,76.956,3.0,SOFT,9.0,1,True,AlphaTauri,True,11.0,19.781,39.87,17.305,,False,False,6207.548,20,São Paulo Grand Prix
+TSU,12.0,77.146,3.0,SOFT,10.0,1,True,AlphaTauri,True,11.0,19.77,39.915,17.461,,False,False,6284.694,20,São Paulo Grand Prix
+TSU,13.0,77.042,3.0,SOFT,11.0,1,True,AlphaTauri,True,10.0,19.818,39.524,17.7,,False,False,6361.736,20,São Paulo Grand Prix
+TSU,14.0,77.333,3.0,SOFT,12.0,1,True,AlphaTauri,True,10.0,19.834,39.885,17.614,,False,False,6439.069,20,São Paulo Grand Prix
+TSU,15.0,77.272,3.0,SOFT,13.0,1,True,AlphaTauri,True,10.0,19.793,39.726,17.753,,False,False,6516.341,20,São Paulo Grand Prix
+TSU,16.0,82.255,3.0,SOFT,14.0,1,True,AlphaTauri,True,11.0,19.915,44.603,17.737,,False,False,6598.596,20,São Paulo Grand Prix
+TSU,17.0,77.044,3.0,SOFT,15.0,1,True,AlphaTauri,True,11.0,19.959,39.443,17.642,,False,False,6675.64,20,São Paulo Grand Prix
+TSU,18.0,77.018,3.0,SOFT,16.0,1,True,AlphaTauri,True,10.0,19.827,39.606,17.585,,False,False,6752.658,20,São Paulo Grand Prix
+TSU,19.0,77.177,3.0,SOFT,17.0,1,True,AlphaTauri,True,9.0,19.809,39.534,17.834,,False,False,6829.835,20,São Paulo Grand Prix
+TSU,20.0,76.725,3.0,SOFT,18.0,1,True,AlphaTauri,True,8.0,19.678,39.44,17.607,,False,False,6906.56,20,São Paulo Grand Prix
+TSU,21.0,77.119,3.0,SOFT,19.0,1,True,AlphaTauri,True,7.0,19.762,39.633,17.724,,False,False,6983.679,20,São Paulo Grand Prix
+TSU,22.0,76.752,3.0,SOFT,20.0,1,True,AlphaTauri,True,7.0,19.616,39.452,17.684,,False,False,7060.431,20,São Paulo Grand Prix
+TSU,23.0,77.095,3.0,SOFT,21.0,1,True,AlphaTauri,True,6.0,19.764,39.54,17.791,,False,False,7137.526,20,São Paulo Grand Prix
+TSU,24.0,76.936,3.0,SOFT,22.0,1,True,AlphaTauri,True,6.0,19.693,39.432,17.811,,False,False,7214.462,20,São Paulo Grand Prix
+TSU,25.0,77.048,3.0,SOFT,23.0,1,True,AlphaTauri,True,6.0,19.61,39.673,17.765,,False,False,7291.51,20,São Paulo Grand Prix
+TSU,26.0,80.763,3.0,SOFT,24.0,1,False,AlphaTauri,True,6.0,19.676,39.567,21.52,,True,False,7372.273,20,São Paulo Grand Prix
+TSU,27.0,98.254,4.0,MEDIUM,1.0,1,False,AlphaTauri,True,13.0,41.229,39.565,17.46,,False,True,7470.527,20,São Paulo Grand Prix
+TSU,28.0,76.133,4.0,MEDIUM,2.0,1,True,AlphaTauri,True,13.0,19.395,39.334,17.404,,False,False,7546.66,20,São Paulo Grand Prix
+TSU,29.0,75.599,4.0,MEDIUM,3.0,1,True,AlphaTauri,True,13.0,19.368,38.809,17.422,,False,False,7622.259,20,São Paulo Grand Prix
+TSU,30.0,75.716,4.0,MEDIUM,4.0,1,True,AlphaTauri,True,13.0,19.315,38.84,17.561,,False,False,7697.975,20,São Paulo Grand Prix
+TSU,31.0,75.677,4.0,MEDIUM,5.0,1,True,AlphaTauri,True,13.0,19.351,38.798,17.528,,False,False,7773.652,20,São Paulo Grand Prix
+TSU,32.0,75.613,4.0,MEDIUM,6.0,1,True,AlphaTauri,True,12.0,19.423,38.943,17.247,,False,False,7849.265,20,São Paulo Grand Prix
+TSU,33.0,76.113,4.0,MEDIUM,7.0,1,True,AlphaTauri,True,12.0,19.365,39.469,17.279,,False,False,7925.378,20,São Paulo Grand Prix
+TSU,34.0,76.088,4.0,MEDIUM,8.0,1,True,AlphaTauri,True,11.0,19.482,39.115,17.491,,False,False,8001.466,20,São Paulo Grand Prix
+TSU,35.0,76.167,4.0,MEDIUM,9.0,1,True,AlphaTauri,True,11.0,19.515,39.412,17.24,,False,False,8077.633,20,São Paulo Grand Prix
+TSU,36.0,75.664,4.0,MEDIUM,10.0,1,True,AlphaTauri,True,10.0,19.431,38.873,17.36,,False,False,8153.297,20,São Paulo Grand Prix
+TSU,37.0,75.685,4.0,MEDIUM,11.0,1,True,AlphaTauri,True,10.0,19.471,38.834,17.38,,False,False,8228.982,20,São Paulo Grand Prix
+TSU,38.0,75.826,4.0,MEDIUM,12.0,1,True,AlphaTauri,True,10.0,19.432,38.844,17.55,,False,False,8304.808,20,São Paulo Grand Prix
+TSU,39.0,76.007,4.0,MEDIUM,13.0,1,True,AlphaTauri,True,10.0,19.509,38.89,17.608,,False,False,8380.815,20,São Paulo Grand Prix
+TSU,40.0,76.011,4.0,MEDIUM,14.0,1,True,AlphaTauri,True,10.0,19.481,38.977,17.553,,False,False,8456.826,20,São Paulo Grand Prix
+TSU,41.0,76.088,4.0,MEDIUM,15.0,1,True,AlphaTauri,True,10.0,19.456,39.132,17.5,,False,False,8532.914,20,São Paulo Grand Prix
+TSU,42.0,75.852,4.0,MEDIUM,16.0,1,True,AlphaTauri,True,10.0,19.358,38.982,17.512,,False,False,8608.766,20,São Paulo Grand Prix
+TSU,43.0,76.24,4.0,MEDIUM,17.0,1,True,AlphaTauri,True,10.0,19.419,39.023,17.798,,False,False,8685.006,20,São Paulo Grand Prix
+TSU,44.0,76.178,4.0,MEDIUM,18.0,1,True,AlphaTauri,True,10.0,19.386,39.176,17.616,,False,False,8761.184,20,São Paulo Grand Prix
+TSU,45.0,76.425,4.0,MEDIUM,19.0,1,True,AlphaTauri,True,9.0,19.428,39.256,17.741,,False,False,8837.609,20,São Paulo Grand Prix
+TSU,46.0,76.302,4.0,MEDIUM,20.0,1,True,AlphaTauri,True,8.0,19.499,39.266,17.537,,False,False,8913.911,20,São Paulo Grand Prix
+TSU,47.0,76.304,4.0,MEDIUM,21.0,1,True,AlphaTauri,True,6.0,19.51,39.119,17.675,,False,False,8990.215,20,São Paulo Grand Prix
+TSU,48.0,76.815,4.0,MEDIUM,22.0,1,True,AlphaTauri,True,7.0,19.726,39.585,17.504,,False,False,9067.03,20,São Paulo Grand Prix
+TSU,49.0,76.414,4.0,MEDIUM,23.0,1,True,AlphaTauri,True,7.0,19.591,39.249,17.574,,False,False,9143.444,20,São Paulo Grand Prix
+TSU,50.0,76.362,4.0,MEDIUM,24.0,1,True,AlphaTauri,True,7.0,19.541,39.09,17.731,,False,False,9219.806,20,São Paulo Grand Prix
+TSU,51.0,76.094,4.0,MEDIUM,25.0,1,True,AlphaTauri,True,7.0,19.485,39.029,17.58,,False,False,9295.9,20,São Paulo Grand Prix
+TSU,52.0,76.016,4.0,MEDIUM,26.0,1,True,AlphaTauri,True,6.0,19.4,39.014,17.602,,False,False,9371.916,20,São Paulo Grand Prix
+TSU,53.0,76.053,4.0,MEDIUM,27.0,1,True,AlphaTauri,True,5.0,19.402,39.079,17.572,,False,False,9447.969,20,São Paulo Grand Prix
+TSU,54.0,76.151,4.0,MEDIUM,28.0,1,True,AlphaTauri,True,5.0,19.492,39.006,17.653,,False,False,9524.12,20,São Paulo Grand Prix
+TSU,55.0,79.809,4.0,MEDIUM,29.0,1,False,AlphaTauri,True,6.0,19.524,39.042,21.243,,True,False,9603.929,20,São Paulo Grand Prix
+TSU,56.0,94.303,5.0,SOFT,4.0,1,False,AlphaTauri,False,10.0,37.357,39.495,17.451,,False,True,9698.232,20,São Paulo Grand Prix
+TSU,57.0,75.502,5.0,SOFT,5.0,1,True,AlphaTauri,False,9.0,19.336,38.645,17.521,,False,False,9773.734,20,São Paulo Grand Prix
+TSU,58.0,75.204,5.0,SOFT,6.0,1,True,AlphaTauri,False,9.0,19.395,38.393,17.416,,False,False,9848.938,20,São Paulo Grand Prix
+TSU,59.0,75.063,5.0,SOFT,7.0,1,True,AlphaTauri,False,9.0,19.333,38.332,17.398,,False,False,9924.001,20,São Paulo Grand Prix
+TSU,60.0,74.789,5.0,SOFT,8.0,1,True,AlphaTauri,False,9.0,19.308,38.081,17.4,,False,False,9998.79,20,São Paulo Grand Prix
+TSU,61.0,74.664,5.0,SOFT,9.0,1,True,AlphaTauri,False,9.0,19.272,37.996,17.396,,False,False,10073.454,20,São Paulo Grand Prix
+TSU,62.0,74.366,5.0,SOFT,10.0,1,True,AlphaTauri,False,9.0,19.148,37.962,17.256,,False,False,10147.82,20,São Paulo Grand Prix
+TSU,63.0,74.49,5.0,SOFT,11.0,1,True,AlphaTauri,False,9.0,19.224,37.959,17.307,,False,False,10222.31,20,São Paulo Grand Prix
+TSU,64.0,74.231,5.0,SOFT,12.0,1,True,AlphaTauri,False,9.0,19.075,37.813,17.343,,False,False,10296.541,20,São Paulo Grand Prix
+TSU,65.0,75.087,5.0,SOFT,13.0,1,True,AlphaTauri,False,9.0,19.264,38.376,17.447,,False,False,10371.628,20,São Paulo Grand Prix
+TSU,66.0,75.036,5.0,SOFT,14.0,1,True,AlphaTauri,False,9.0,19.313,38.196,17.527,,False,False,10446.664,20,São Paulo Grand Prix
+TSU,67.0,74.884,5.0,SOFT,15.0,1,True,AlphaTauri,False,9.0,19.273,38.069,17.542,,False,False,10521.548,20,São Paulo Grand Prix
+TSU,68.0,75.023,5.0,SOFT,16.0,1,True,AlphaTauri,False,9.0,19.286,38.221,17.516,,False,False,10596.571,20,São Paulo Grand Prix
+TSU,69.0,75.024,5.0,SOFT,17.0,1,True,AlphaTauri,False,9.0,19.341,38.241,17.442,,False,False,10671.595,20,São Paulo Grand Prix
+TSU,70.0,75.119,5.0,SOFT,18.0,1,True,AlphaTauri,False,9.0,19.405,38.264,17.45,,False,False,10746.714,20,São Paulo Grand Prix
+TSU,71.0,75.131,5.0,SOFT,19.0,1,True,AlphaTauri,False,9.0,19.297,38.352,17.482,,False,False,10821.845,20,São Paulo Grand Prix
+OCO,1.0,135.909,1.0,SOFT,4.0,124,False,Alpine,False,9.0,,69.072,40.567,,True,False,3879.051,20,São Paulo Grand Prix
+OCO,2.0,144.717,2.0,SOFT,5.0,45,False,Alpine,False,9.0,40.82,60.598,43.299,,True,True,4023.768,20,São Paulo Grand Prix
+OCO,3.0,,3.0,SOFT,4.0,1,False,Alpine,False,9.0,,44.62,84.314,,False,True,5586.548,20,São Paulo Grand Prix
+OCO,4.0,82.275,3.0,SOFT,5.0,1,True,Alpine,False,10.0,23.847,40.801,17.627,,False,False,5668.823,20,São Paulo Grand Prix
+OCO,5.0,77.111,3.0,SOFT,6.0,1,True,Alpine,False,10.0,19.91,39.661,17.54,,False,False,5745.934,20,São Paulo Grand Prix
+OCO,6.0,76.927,3.0,SOFT,7.0,1,True,Alpine,False,10.0,19.867,39.668,17.392,,False,False,5822.861,20,São Paulo Grand Prix
+OCO,7.0,76.597,3.0,SOFT,8.0,1,True,Alpine,False,10.0,19.686,39.522,17.389,,False,False,5899.458,20,São Paulo Grand Prix
+OCO,8.0,76.626,3.0,SOFT,9.0,1,True,Alpine,False,10.0,19.508,39.736,17.382,,False,False,5976.084,20,São Paulo Grand Prix
+OCO,9.0,76.818,3.0,SOFT,10.0,1,True,Alpine,False,10.0,19.53,39.754,17.534,,False,False,6052.902,20,São Paulo Grand Prix
+OCO,10.0,77.076,3.0,SOFT,11.0,1,True,Alpine,False,10.0,19.658,39.888,17.53,,False,False,6129.978,20,São Paulo Grand Prix
+OCO,11.0,77.131,3.0,SOFT,12.0,1,True,Alpine,False,10.0,19.77,39.806,17.555,,False,False,6207.109,20,São Paulo Grand Prix
+OCO,12.0,77.312,3.0,SOFT,13.0,1,True,Alpine,False,10.0,19.795,39.89,17.627,,False,False,6284.421,20,São Paulo Grand Prix
+OCO,13.0,78.248,3.0,SOFT,14.0,1,True,Alpine,False,11.0,20.296,40.403,17.549,,False,False,6362.669,20,São Paulo Grand Prix
+OCO,14.0,81.41,3.0,SOFT,15.0,1,False,Alpine,False,14.0,19.757,40.251,21.402,,True,False,6444.079,20,São Paulo Grand Prix
+OCO,15.0,93.781,4.0,MEDIUM,1.0,1,False,Alpine,True,15.0,37.456,38.99,17.335,,False,True,6537.86,20,São Paulo Grand Prix
+OCO,16.0,76.085,4.0,MEDIUM,2.0,1,True,Alpine,True,14.0,19.529,39.148,17.408,,False,False,6613.945,20,São Paulo Grand Prix
+OCO,17.0,76.385,4.0,MEDIUM,3.0,1,True,Alpine,True,14.0,19.729,39.231,17.425,,False,False,6690.33,20,São Paulo Grand Prix
+OCO,18.0,76.451,4.0,MEDIUM,4.0,1,True,Alpine,True,13.0,19.588,39.398,17.465,,False,False,6766.781,20,São Paulo Grand Prix
+OCO,19.0,77.08,4.0,MEDIUM,5.0,1,True,Alpine,True,12.0,19.698,39.905,17.477,,False,False,6843.861,20,São Paulo Grand Prix
+OCO,20.0,77.138,4.0,MEDIUM,6.0,1,True,Alpine,True,12.0,19.63,40.047,17.461,,False,False,6920.999,20,São Paulo Grand Prix
+OCO,21.0,77.151,4.0,MEDIUM,7.0,1,True,Alpine,True,12.0,19.725,39.972,17.454,,False,False,6998.15,20,São Paulo Grand Prix
+OCO,22.0,76.969,4.0,MEDIUM,8.0,1,True,Alpine,True,11.0,19.644,39.855,17.47,,False,False,7075.119,20,São Paulo Grand Prix
+OCO,23.0,77.299,4.0,MEDIUM,9.0,1,True,Alpine,True,11.0,19.641,40.147,17.511,,False,False,7152.418,20,São Paulo Grand Prix
+OCO,24.0,76.942,4.0,MEDIUM,10.0,1,True,Alpine,True,11.0,19.674,39.789,17.479,,False,False,7229.36,20,São Paulo Grand Prix
+OCO,25.0,76.894,4.0,MEDIUM,11.0,1,True,Alpine,True,11.0,19.613,39.801,17.48,,False,False,7306.254,20,São Paulo Grand Prix
+OCO,26.0,76.737,4.0,MEDIUM,12.0,1,True,Alpine,True,11.0,19.567,39.646,17.524,,False,False,7382.991,20,São Paulo Grand Prix
+OCO,27.0,76.74,4.0,MEDIUM,13.0,1,True,Alpine,True,8.0,19.558,39.64,17.542,,False,False,7459.731,20,São Paulo Grand Prix
+OCO,28.0,77.432,4.0,MEDIUM,14.0,1,True,Alpine,True,9.0,19.919,39.99,17.523,,False,False,7537.163,20,São Paulo Grand Prix
+OCO,29.0,77.23,4.0,MEDIUM,15.0,1,True,Alpine,True,9.0,19.699,39.917,17.614,,False,False,7614.393,20,São Paulo Grand Prix
+OCO,30.0,77.164,4.0,MEDIUM,16.0,1,True,Alpine,True,9.0,19.653,39.788,17.723,,False,False,7691.557,20,São Paulo Grand Prix
+OCO,31.0,80.584,4.0,MEDIUM,17.0,1,False,Alpine,True,12.0,19.608,39.445,21.531,,True,False,7772.141,20,São Paulo Grand Prix
+OCO,32.0,94.638,5.0,SOFT,4.0,1,False,Alpine,False,14.0,38.061,39.322,17.255,,False,True,7866.779,20,São Paulo Grand Prix
+OCO,33.0,75.442,5.0,SOFT,5.0,1,True,Alpine,False,14.0,19.358,38.801,17.283,,False,False,7942.221,20,São Paulo Grand Prix
+OCO,34.0,75.365,5.0,SOFT,6.0,1,True,Alpine,False,14.0,19.349,38.811,17.205,,False,False,8017.586,20,São Paulo Grand Prix
+OCO,35.0,75.403,5.0,SOFT,7.0,1,True,Alpine,False,14.0,19.309,38.887,17.207,,False,False,8092.989,20,São Paulo Grand Prix
+OCO,36.0,75.538,5.0,SOFT,8.0,1,True,Alpine,False,14.0,19.305,38.949,17.284,,False,False,8168.527,20,São Paulo Grand Prix
+OCO,37.0,75.83,5.0,SOFT,9.0,1,True,Alpine,False,14.0,19.44,39.094,17.296,,False,False,8244.357,20,São Paulo Grand Prix
+OCO,38.0,75.902,5.0,SOFT,10.0,1,True,Alpine,False,13.0,19.454,38.992,17.456,,False,False,8320.259,20,São Paulo Grand Prix
+OCO,39.0,75.77,5.0,SOFT,11.0,1,True,Alpine,False,13.0,19.284,39.113,17.373,,False,False,8396.029,20,São Paulo Grand Prix
+OCO,40.0,75.85,5.0,SOFT,12.0,1,True,Alpine,False,12.0,19.426,38.925,17.499,,False,False,8471.879,20,São Paulo Grand Prix
+OCO,41.0,75.841,5.0,SOFT,13.0,1,True,Alpine,False,12.0,19.371,38.992,17.478,,False,False,8547.72,20,São Paulo Grand Prix
+OCO,42.0,76.032,5.0,SOFT,14.0,1,True,Alpine,False,12.0,19.346,39.185,17.501,,False,False,8623.752,20,São Paulo Grand Prix
+OCO,43.0,76.252,5.0,SOFT,15.0,1,True,Alpine,False,12.0,19.445,39.239,17.568,,False,False,8700.004,20,São Paulo Grand Prix
+OCO,44.0,76.176,5.0,SOFT,16.0,1,True,Alpine,False,11.0,19.402,39.404,17.37,,False,False,8776.18,20,São Paulo Grand Prix
+OCO,45.0,76.384,5.0,SOFT,17.0,1,True,Alpine,False,11.0,19.394,39.345,17.645,,False,False,8852.564,20,São Paulo Grand Prix
+OCO,46.0,76.219,5.0,SOFT,18.0,1,True,Alpine,False,10.0,19.447,39.27,17.502,,False,False,8928.783,20,São Paulo Grand Prix
+OCO,47.0,76.35,5.0,SOFT,19.0,1,True,Alpine,False,8.0,19.388,39.424,17.538,,False,False,9005.133,20,São Paulo Grand Prix
+OCO,48.0,77.24,5.0,SOFT,20.0,1,True,Alpine,False,10.0,19.654,39.938,17.648,,False,False,9082.373,20,São Paulo Grand Prix
+OCO,49.0,76.844,5.0,SOFT,21.0,1,True,Alpine,False,10.0,19.718,39.58,17.546,,False,False,9159.217,20,São Paulo Grand Prix
+OCO,50.0,76.554,5.0,SOFT,22.0,1,True,Alpine,False,10.0,19.481,39.58,17.493,,False,False,9235.771,20,São Paulo Grand Prix
+OCO,51.0,80.059,5.0,SOFT,23.0,1,False,Alpine,False,10.0,19.443,39.33,21.286,,True,False,9315.83,20,São Paulo Grand Prix
+OCO,52.0,92.038,6.0,SOFT,1.0,1,False,Alpine,True,12.0,36.739,38.308,16.991,,False,True,9407.868,20,São Paulo Grand Prix
+OCO,53.0,74.206,6.0,SOFT,2.0,1,True,Alpine,True,12.0,19.112,38.174,16.92,,False,False,9482.074,20,São Paulo Grand Prix
+OCO,54.0,74.52,6.0,SOFT,3.0,1,True,Alpine,True,11.0,19.006,38.343,17.171,,False,False,9556.594,20,São Paulo Grand Prix
+OCO,55.0,74.81,6.0,SOFT,4.0,1,True,Alpine,True,11.0,19.173,38.53,17.107,,False,False,9631.404,20,São Paulo Grand Prix
+OCO,56.0,75.007,6.0,SOFT,5.0,1,True,Alpine,True,11.0,19.208,38.625,17.174,,False,False,9706.411,20,São Paulo Grand Prix
+OCO,57.0,75.291,6.0,SOFT,6.0,1,True,Alpine,True,10.0,19.248,38.731,17.312,,False,False,9781.702,20,São Paulo Grand Prix
+OCO,58.0,75.272,6.0,SOFT,7.0,1,True,Alpine,True,10.0,19.446,38.648,17.178,,False,False,9856.974,20,São Paulo Grand Prix
+OCO,59.0,74.576,6.0,SOFT,8.0,1,True,Alpine,True,10.0,19.114,38.323,17.139,,False,False,9931.55,20,São Paulo Grand Prix
+OCO,60.0,75.156,6.0,SOFT,9.0,1,True,Alpine,True,10.0,19.276,38.618,17.262,,False,False,10006.706,20,São Paulo Grand Prix
+OCO,61.0,74.925,6.0,SOFT,10.0,1,True,Alpine,True,10.0,19.289,38.423,17.213,,False,False,10081.631,20,São Paulo Grand Prix
+OCO,62.0,75.047,6.0,SOFT,11.0,1,True,Alpine,True,10.0,19.325,38.486,17.236,,False,False,10156.678,20,São Paulo Grand Prix
+OCO,63.0,75.76,6.0,SOFT,12.0,1,True,Alpine,True,10.0,19.439,39.023,17.298,,False,False,10232.438,20,São Paulo Grand Prix
+OCO,64.0,75.132,6.0,SOFT,13.0,1,True,Alpine,True,10.0,19.198,38.777,17.157,,False,False,10307.57,20,São Paulo Grand Prix
+OCO,65.0,75.974,6.0,SOFT,14.0,1,True,Alpine,True,10.0,19.198,38.661,18.115,,False,False,10383.544,20,São Paulo Grand Prix
+OCO,66.0,75.823,6.0,SOFT,15.0,1,True,Alpine,True,10.0,19.597,39.033,17.193,,False,False,10459.367,20,São Paulo Grand Prix
+OCO,67.0,75.383,6.0,SOFT,16.0,1,True,Alpine,True,10.0,19.247,38.82,17.316,,False,False,10534.75,20,São Paulo Grand Prix
+OCO,68.0,75.237,6.0,SOFT,17.0,1,True,Alpine,True,10.0,19.204,38.811,17.222,,False,False,10609.987,20,São Paulo Grand Prix
+OCO,69.0,75.205,6.0,SOFT,18.0,1,True,Alpine,True,10.0,19.2,38.75,17.255,,False,False,10685.192,20,São Paulo Grand Prix
+OCO,70.0,76.614,6.0,SOFT,19.0,1,True,Alpine,True,10.0,20.32,39.073,17.221,,False,False,10761.806,20,São Paulo Grand Prix
+SAR,1.0,147.935,1.0,MEDIUM,1.0,124,False,Williams,True,15.0,,71.572,45.328,,True,False,3891.044,20,São Paulo Grand Prix
+SAR,2.0,145.35,2.0,MEDIUM,2.0,45,False,Williams,False,14.0,43.031,55.409,46.91,,True,True,4036.394,20,São Paulo Grand Prix
+SAR,3.0,,3.0,SOFT,1.0,1,False,Williams,True,14.0,,42.462,71.303,,False,True,5588.3,20,São Paulo Grand Prix
+SAR,4.0,81.801,3.0,SOFT,2.0,1,True,Williams,True,15.0,23.011,41.101,17.689,,False,False,5670.101,20,São Paulo Grand Prix
+SAR,5.0,78.262,3.0,SOFT,3.0,1,True,Williams,True,15.0,20.197,40.426,17.639,,False,False,5748.363,20,São Paulo Grand Prix
+SAR,6.0,77.247,3.0,SOFT,4.0,1,True,Williams,True,15.0,19.744,39.92,17.583,,False,False,5825.61,20,São Paulo Grand Prix
+SAR,7.0,77.182,3.0,SOFT,5.0,1,True,Williams,True,15.0,19.662,40.058,17.462,,False,False,5902.792,20,São Paulo Grand Prix
+SAR,8.0,76.798,3.0,SOFT,6.0,1,True,Williams,True,15.0,19.531,39.829,17.438,,False,False,5979.59,20,São Paulo Grand Prix
+SAR,9.0,76.854,3.0,SOFT,7.0,1,True,Williams,True,15.0,19.522,39.929,17.403,,False,False,6056.444,20,São Paulo Grand Prix
+SAR,10.0,76.934,3.0,SOFT,8.0,1,True,Williams,True,15.0,19.457,39.998,17.479,,False,False,6133.378,20,São Paulo Grand Prix
+SAR,11.0,77.295,3.0,SOFT,9.0,1,True,Williams,True,15.0,19.599,40.195,17.501,,False,False,6210.673,20,São Paulo Grand Prix
+SAR,12.0,77.66,3.0,SOFT,10.0,1,True,Williams,True,15.0,19.603,40.335,17.722,,False,False,6288.333,20,São Paulo Grand Prix
+SAR,13.0,77.921,3.0,SOFT,11.0,1,True,Williams,True,14.0,19.679,40.783,17.459,,False,False,6366.254,20,São Paulo Grand Prix
+SAR,14.0,77.587,3.0,SOFT,12.0,1,True,Williams,True,13.0,19.746,40.115,17.726,,False,False,6443.841,20,São Paulo Grand Prix
+SAR,15.0,77.85,3.0,SOFT,13.0,1,True,Williams,True,12.0,19.784,40.164,17.902,,False,False,6521.691,20,São Paulo Grand Prix
+SAR,16.0,77.485,3.0,SOFT,14.0,1,True,Williams,True,12.0,19.869,39.858,17.758,,False,False,6599.176,20,São Paulo Grand Prix
+SAR,17.0,82.426,3.0,SOFT,15.0,1,False,Williams,True,12.0,19.849,40.555,22.022,,True,False,6681.602,20,São Paulo Grand Prix
+SAR,18.0,93.757,4.0,SOFT,1.0,1,False,Williams,True,15.0,37.965,38.433,17.359,,False,True,6775.359,20,São Paulo Grand Prix
+SAR,19.0,76.235,4.0,SOFT,2.0,1,True,Williams,True,15.0,19.761,39.011,17.463,,False,False,6851.594,20,São Paulo Grand Prix
+SAR,20.0,76.379,4.0,SOFT,3.0,1,True,Williams,True,15.0,19.476,39.451,17.452,,False,False,6927.973,20,São Paulo Grand Prix
+SAR,21.0,76.288,4.0,SOFT,4.0,1,True,Williams,True,15.0,19.598,39.174,17.516,,False,False,7004.261,20,São Paulo Grand Prix
+SAR,22.0,76.101,4.0,SOFT,5.0,1,True,Williams,True,13.0,19.582,39.197,17.322,,False,False,7080.362,20,São Paulo Grand Prix
+SAR,23.0,76.358,4.0,SOFT,6.0,1,True,Williams,True,13.0,19.315,39.558,17.485,,False,False,7156.72,20,São Paulo Grand Prix
+SAR,24.0,76.537,4.0,SOFT,7.0,1,True,Williams,True,13.0,19.628,39.343,17.566,,False,False,7233.257,20,São Paulo Grand Prix
+SAR,25.0,76.793,4.0,SOFT,8.0,1,True,Williams,True,13.0,19.598,39.617,17.578,,False,False,7310.05,20,São Paulo Grand Prix
+SAR,26.0,76.766,4.0,SOFT,9.0,1,True,Williams,True,13.0,19.594,39.559,17.613,,False,False,7386.816,20,São Paulo Grand Prix
+SAR,27.0,76.648,4.0,SOFT,10.0,1,True,Williams,True,11.0,19.547,39.469,17.632,,False,False,7463.464,20,São Paulo Grand Prix
+SAR,28.0,76.658,4.0,SOFT,11.0,1,True,Williams,True,11.0,19.492,39.645,17.521,,False,False,7540.122,20,São Paulo Grand Prix
+SAR,29.0,77.001,4.0,SOFT,12.0,1,True,Williams,True,12.0,19.606,39.708,17.687,,False,False,7617.123,20,São Paulo Grand Prix
+SAR,30.0,77.475,4.0,SOFT,13.0,1,True,Williams,True,12.0,19.927,39.867,17.681,,False,False,7694.598,20,São Paulo Grand Prix
+SAR,31.0,76.951,4.0,SOFT,14.0,1,True,Williams,True,11.0,19.654,39.547,17.75,,False,False,7771.549,20,São Paulo Grand Prix
+SAR,32.0,77.025,4.0,SOFT,15.0,1,True,Williams,True,11.0,19.563,39.783,17.679,,False,False,7848.574,20,São Paulo Grand Prix
+SAR,33.0,76.648,4.0,SOFT,16.0,1,True,Williams,True,11.0,19.633,39.409,17.606,,False,False,7925.222,20,São Paulo Grand Prix
+SAR,34.0,77.558,4.0,SOFT,17.0,1,True,Williams,True,12.0,19.843,40.179,17.536,,False,False,8002.78,20,São Paulo Grand Prix
+SAR,35.0,77.703,4.0,SOFT,18.0,1,True,Williams,True,12.0,19.896,40.401,17.406,,False,False,8080.483,20,São Paulo Grand Prix
+SAR,36.0,77.192,4.0,SOFT,19.0,1,True,Williams,True,12.0,19.663,39.984,17.545,,False,False,8157.675,20,São Paulo Grand Prix
+SAR,37.0,76.997,4.0,SOFT,20.0,1,True,Williams,True,12.0,19.67,39.765,17.562,,False,False,8234.672,20,São Paulo Grand Prix
+SAR,38.0,77.392,4.0,SOFT,21.0,1,True,Williams,True,12.0,19.594,40.11,17.688,,False,False,8312.064,20,São Paulo Grand Prix
+SAR,39.0,77.24,4.0,SOFT,22.0,1,True,Williams,True,11.0,19.555,39.788,17.897,,False,False,8389.304,20,São Paulo Grand Prix
+SAR,40.0,76.904,4.0,SOFT,23.0,1,True,Williams,True,11.0,19.611,39.539,17.754,,False,False,8466.208,20,São Paulo Grand Prix
+SAR,41.0,76.909,4.0,SOFT,24.0,1,True,Williams,True,11.0,19.554,39.496,17.859,,False,False,8543.117,20,São Paulo Grand Prix
+SAR,42.0,77.047,4.0,SOFT,25.0,1,True,Williams,True,11.0,19.521,39.701,17.825,,False,False,8620.164,20,São Paulo Grand Prix
+SAR,43.0,77.625,4.0,SOFT,26.0,1,True,Williams,True,11.0,19.658,39.983,17.984,,False,False,8697.789,20,São Paulo Grand Prix
+SAR,44.0,81.995,4.0,SOFT,27.0,1,False,Williams,True,12.0,19.817,40.0,22.178,,True,False,8779.784,20,São Paulo Grand Prix
+SAR,45.0,94.677,5.0,SOFT,1.0,1,False,Williams,True,13.0,37.806,39.366,17.505,,False,True,8874.461,20,São Paulo Grand Prix
+SAR,46.0,76.117,5.0,SOFT,2.0,1,True,Williams,True,13.0,19.592,38.991,17.534,,False,False,8950.578,20,São Paulo Grand Prix
+SAR,47.0,76.051,5.0,SOFT,3.0,1,True,Williams,True,12.0,19.599,38.83,17.622,,False,False,9026.629,20,São Paulo Grand Prix
+SAR,48.0,75.808,5.0,SOFT,4.0,1,True,Williams,True,12.0,19.475,38.83,17.503,,False,False,9102.437,20,São Paulo Grand Prix
+SAR,49.0,75.988,5.0,SOFT,5.0,1,True,Williams,True,12.0,19.521,38.988,17.479,,False,False,9178.425,20,São Paulo Grand Prix
+SAR,50.0,76.153,5.0,SOFT,6.0,1,True,Williams,True,12.0,19.558,39.127,17.468,,False,False,9254.578,20,São Paulo Grand Prix
+SAR,51.0,75.738,5.0,SOFT,7.0,1,True,Williams,True,12.0,19.374,38.861,17.503,,False,False,9330.316,20,São Paulo Grand Prix
+SAR,52.0,75.795,5.0,SOFT,8.0,1,True,Williams,True,11.0,19.398,38.915,17.482,,False,False,9406.111,20,São Paulo Grand Prix
+SAR,53.0,75.878,5.0,SOFT,9.0,1,True,Williams,True,11.0,19.483,39.017,17.378,,False,False,9481.989,20,São Paulo Grand Prix
+SAR,54.0,76.802,5.0,SOFT,10.0,1,True,Williams,True,12.0,19.639,39.715,17.448,,False,False,9558.791,20,São Paulo Grand Prix
+SAR,55.0,76.286,5.0,SOFT,11.0,1,True,Williams,True,12.0,19.477,39.356,17.453,,False,False,9635.077,20,São Paulo Grand Prix
+SAR,56.0,75.969,5.0,SOFT,12.0,1,True,Williams,True,12.0,19.361,39.046,17.562,,False,False,9711.046,20,São Paulo Grand Prix
+SAR,57.0,76.053,5.0,SOFT,13.0,1,True,Williams,True,11.0,19.46,39.076,17.517,,False,False,9787.099,20,São Paulo Grand Prix
+SAR,58.0,76.513,5.0,SOFT,14.0,1,True,Williams,True,11.0,19.365,39.201,17.947,,False,False,9863.612,20,São Paulo Grand Prix
+SAR,59.0,76.419,5.0,SOFT,15.0,1,True,Williams,True,11.0,19.784,39.267,17.368,,False,False,9940.031,20,São Paulo Grand Prix
+SAR,60.0,76.017,5.0,SOFT,16.0,1,True,Williams,True,11.0,19.439,39.08,17.498,,False,False,10016.048,20,São Paulo Grand Prix
+SAR,61.0,75.819,5.0,SOFT,17.0,1,True,Williams,True,11.0,19.423,38.959,17.437,,False,False,10091.867,20,São Paulo Grand Prix
+SAR,62.0,75.942,5.0,SOFT,18.0,1,True,Williams,True,11.0,19.375,39.063,17.504,,False,False,10167.809,20,São Paulo Grand Prix
+SAR,63.0,75.789,5.0,SOFT,19.0,1,True,Williams,True,11.0,19.293,38.995,17.501,,False,False,10243.598,20,São Paulo Grand Prix
+SAR,64.0,77.584,5.0,SOFT,20.0,1,True,Williams,True,11.0,20.146,39.934,17.504,,False,False,10321.182,20,São Paulo Grand Prix
+SAR,65.0,76.226,5.0,SOFT,21.0,1,True,Williams,True,11.0,19.37,39.289,17.567,,False,False,10397.408,20,São Paulo Grand Prix
+SAR,66.0,76.477,5.0,SOFT,22.0,1,True,Williams,True,11.0,19.506,39.447,17.524,,False,False,10473.885,20,São Paulo Grand Prix
+SAR,67.0,76.333,5.0,SOFT,23.0,1,True,Williams,True,11.0,19.412,39.427,17.494,,False,False,10550.218,20,São Paulo Grand Prix
+SAR,68.0,76.091,5.0,SOFT,24.0,1,True,Williams,True,11.0,19.403,39.171,17.517,,False,False,10626.309,20,São Paulo Grand Prix
+SAR,69.0,75.904,5.0,SOFT,25.0,1,True,Williams,True,11.0,19.322,39.036,17.546,,False,False,10702.213,20,São Paulo Grand Prix
+SAR,70.0,75.96,5.0,SOFT,26.0,1,True,Williams,True,11.0,19.366,39.084,17.51,,False,False,10778.173,20,São Paulo Grand Prix
+HUL,1.0,151.032,1.0,SOFT,1.0,124,False,Haas F1 Team,True,17.0,,72.31,43.33,,True,False,3894.149,20,São Paulo Grand Prix
+HUL,2.0,146.238,2.0,MEDIUM,1.0,45,False,Haas F1 Team,True,15.0,53.623,51.887,40.728,,True,True,4040.387,20,São Paulo Grand Prix
+HUL,3.0,,3.0,SOFT,4.0,1,False,Haas F1 Team,False,15.0,,43.894,67.343,,False,True,5588.393,20,São Paulo Grand Prix
+HUL,4.0,80.643,3.0,SOFT,5.0,1,True,Haas F1 Team,False,12.0,22.49,40.794,17.359,,False,False,5669.036,20,São Paulo Grand Prix
+HUL,5.0,78.04,3.0,SOFT,6.0,1,True,Haas F1 Team,False,12.0,20.547,40.041,17.452,,False,False,5747.076,20,São Paulo Grand Prix
+HUL,6.0,77.201,3.0,SOFT,7.0,1,True,Haas F1 Team,False,12.0,19.765,39.972,17.464,,False,False,5824.277,20,São Paulo Grand Prix
+HUL,7.0,76.791,3.0,SOFT,8.0,1,True,Haas F1 Team,False,12.0,19.485,39.83,17.476,,False,False,5901.068,20,São Paulo Grand Prix
+HUL,8.0,76.784,3.0,SOFT,9.0,1,True,Haas F1 Team,False,12.0,19.526,39.795,17.463,,False,False,5977.852,20,São Paulo Grand Prix
+HUL,9.0,76.675,3.0,SOFT,10.0,1,True,Haas F1 Team,False,12.0,19.493,39.803,17.379,,False,False,6054.527,20,São Paulo Grand Prix
+HUL,10.0,77.366,3.0,SOFT,11.0,1,True,Haas F1 Team,False,13.0,19.607,40.01,17.749,,False,False,6131.893,20,São Paulo Grand Prix
+HUL,11.0,77.757,3.0,SOFT,12.0,1,True,Haas F1 Team,False,13.0,20.033,40.05,17.674,,False,False,6209.65,20,São Paulo Grand Prix
+HUL,12.0,77.567,3.0,SOFT,13.0,1,True,Haas F1 Team,False,13.0,19.708,40.211,17.648,,False,False,6287.217,20,São Paulo Grand Prix
+HUL,13.0,79.149,3.0,SOFT,14.0,1,True,Haas F1 Team,False,15.0,20.581,40.716,17.852,,False,False,6366.366,20,São Paulo Grand Prix
+HUL,14.0,78.87,3.0,SOFT,15.0,1,True,Haas F1 Team,False,15.0,20.296,40.709,17.865,,False,False,6445.236,20,São Paulo Grand Prix
+HUL,15.0,79.055,3.0,SOFT,16.0,1,True,Haas F1 Team,False,14.0,20.272,40.79,17.993,,False,False,6524.291,20,São Paulo Grand Prix
+HUL,16.0,79.325,3.0,SOFT,17.0,1,True,Haas F1 Team,False,13.0,20.339,41.169,17.817,,False,False,6603.616,20,São Paulo Grand Prix
+HUL,17.0,78.976,3.0,SOFT,18.0,1,True,Haas F1 Team,False,13.0,20.172,40.665,18.139,,False,False,6682.592,20,São Paulo Grand Prix
+HUL,18.0,78.039,3.0,SOFT,19.0,1,True,Haas F1 Team,False,12.0,19.868,40.131,18.04,,False,False,6760.631,20,São Paulo Grand Prix
+HUL,19.0,77.581,3.0,SOFT,20.0,1,True,Haas F1 Team,False,10.0,19.82,39.952,17.809,,False,False,6838.212,20,São Paulo Grand Prix
+HUL,20.0,77.392,3.0,SOFT,21.0,1,True,Haas F1 Team,False,9.0,19.754,39.738,17.9,,False,False,6915.604,20,São Paulo Grand Prix
+HUL,21.0,81.052,3.0,SOFT,22.0,1,False,Haas F1 Team,False,11.0,19.772,39.536,21.744,,True,False,6996.656,20,São Paulo Grand Prix
+HUL,22.0,96.993,4.0,SOFT,4.0,1,False,Haas F1 Team,False,15.0,38.941,40.388,17.664,,False,True,7093.649,20,São Paulo Grand Prix
+HUL,23.0,77.992,4.0,SOFT,5.0,1,True,Haas F1 Team,False,14.0,19.896,40.241,17.855,,False,False,7171.641,20,São Paulo Grand Prix
+HUL,24.0,77.227,4.0,SOFT,6.0,1,True,Haas F1 Team,False,14.0,19.89,39.686,17.651,,False,False,7248.868,20,São Paulo Grand Prix
+HUL,25.0,77.17,4.0,SOFT,7.0,1,True,Haas F1 Team,False,14.0,19.594,39.856,17.72,,False,False,7326.038,20,São Paulo Grand Prix
+HUL,26.0,77.282,4.0,SOFT,8.0,1,True,Haas F1 Team,False,14.0,19.668,39.748,17.866,,False,False,7403.32,20,São Paulo Grand Prix
+HUL,27.0,76.181,4.0,SOFT,9.0,1,True,Haas F1 Team,False,14.0,19.583,39.046,17.552,,False,False,7479.501,20,São Paulo Grand Prix
+HUL,28.0,76.019,4.0,SOFT,10.0,1,True,Haas F1 Team,False,14.0,19.402,38.946,17.671,,False,False,7555.52,20,São Paulo Grand Prix
+HUL,29.0,75.818,4.0,SOFT,11.0,1,True,Haas F1 Team,False,14.0,19.426,38.744,17.648,,False,False,7631.338,20,São Paulo Grand Prix
+HUL,30.0,76.166,4.0,SOFT,12.0,1,True,Haas F1 Team,False,14.0,19.524,38.861,17.781,,False,False,7707.504,20,São Paulo Grand Prix
+HUL,31.0,76.363,4.0,SOFT,13.0,1,True,Haas F1 Team,False,14.0,19.419,39.148,17.796,,False,False,7783.867,20,São Paulo Grand Prix
+HUL,32.0,76.843,4.0,SOFT,14.0,1,True,Haas F1 Team,False,13.0,19.737,39.353,17.753,,False,False,7860.71,20,São Paulo Grand Prix
+HUL,33.0,76.885,4.0,SOFT,15.0,1,True,Haas F1 Team,False,13.0,19.757,39.489,17.639,,False,False,7937.595,20,São Paulo Grand Prix
+HUL,34.0,76.463,4.0,SOFT,16.0,1,True,Haas F1 Team,False,13.0,19.638,39.138,17.687,,False,False,8014.058,20,São Paulo Grand Prix
+HUL,35.0,76.365,4.0,SOFT,17.0,1,True,Haas F1 Team,False,13.0,19.507,39.206,17.652,,False,False,8090.423,20,São Paulo Grand Prix
+HUL,36.0,76.781,4.0,SOFT,18.0,1,True,Haas F1 Team,False,13.0,19.433,39.522,17.826,,False,False,8167.204,20,São Paulo Grand Prix
+HUL,37.0,76.836,4.0,SOFT,19.0,1,True,Haas F1 Team,False,13.0,19.6,39.484,17.752,,False,False,8244.04,20,São Paulo Grand Prix
+HUL,38.0,78.957,4.0,SOFT,20.0,1,True,Haas F1 Team,False,14.0,20.125,40.837,17.995,,False,False,8322.997,20,São Paulo Grand Prix
+HUL,39.0,77.679,4.0,SOFT,21.0,1,True,Haas F1 Team,False,14.0,19.613,40.191,17.875,,False,False,8400.676,20,São Paulo Grand Prix
+HUL,40.0,77.277,4.0,SOFT,22.0,1,True,Haas F1 Team,False,13.0,19.739,39.693,17.845,,False,False,8477.953,20,São Paulo Grand Prix
+HUL,41.0,77.034,4.0,SOFT,23.0,1,True,Haas F1 Team,False,13.0,19.669,39.526,17.839,,False,False,8554.987,20,São Paulo Grand Prix
+HUL,42.0,76.821,4.0,SOFT,24.0,1,True,Haas F1 Team,False,13.0,19.434,39.554,17.833,,False,False,8631.808,20,São Paulo Grand Prix
+HUL,43.0,76.796,4.0,SOFT,25.0,1,True,Haas F1 Team,False,13.0,19.593,39.399,17.804,,False,False,8708.604,20,São Paulo Grand Prix
+HUL,44.0,76.924,4.0,SOFT,26.0,1,True,Haas F1 Team,False,13.0,19.543,39.448,17.933,,False,False,8785.528,20,São Paulo Grand Prix
+HUL,45.0,77.384,4.0,SOFT,27.0,1,True,Haas F1 Team,False,12.0,19.555,39.784,18.045,,False,False,8862.912,20,São Paulo Grand Prix
+HUL,46.0,80.729,4.0,SOFT,28.0,1,False,Haas F1 Team,False,12.0,19.521,39.698,21.51,,True,False,8943.641,20,São Paulo Grand Prix
+HUL,47.0,95.519,5.0,SOFT,4.0,1,False,Haas F1 Team,False,13.0,37.683,40.072,17.764,,False,True,9039.16,20,São Paulo Grand Prix
+HUL,48.0,76.991,5.0,SOFT,5.0,1,True,Haas F1 Team,False,13.0,19.623,39.714,17.654,,False,False,9116.151,20,São Paulo Grand Prix
+HUL,49.0,76.892,5.0,SOFT,6.0,1,True,Haas F1 Team,False,13.0,19.602,39.506,17.784,,False,False,9193.043,20,São Paulo Grand Prix
+HUL,50.0,76.522,5.0,SOFT,7.0,1,True,Haas F1 Team,False,13.0,19.605,39.184,17.733,,False,False,9269.565,20,São Paulo Grand Prix
+HUL,51.0,76.566,5.0,SOFT,8.0,1,True,Haas F1 Team,False,13.0,19.631,39.08,17.855,,False,False,9346.131,20,São Paulo Grand Prix
+HUL,52.0,76.229,5.0,SOFT,9.0,1,True,Haas F1 Team,False,13.0,19.469,39.233,17.527,,False,False,9422.36,20,São Paulo Grand Prix
+HUL,53.0,76.391,5.0,SOFT,10.0,1,True,Haas F1 Team,False,13.0,19.606,39.29,17.495,,False,False,9498.751,20,São Paulo Grand Prix
+HUL,54.0,75.721,5.0,SOFT,11.0,1,True,Haas F1 Team,False,13.0,19.349,38.848,17.524,,False,False,9574.472,20,São Paulo Grand Prix
+HUL,55.0,76.005,5.0,SOFT,12.0,1,True,Haas F1 Team,False,13.0,19.329,39.046,17.63,,False,False,9650.477,20,São Paulo Grand Prix
+HUL,56.0,75.81,5.0,SOFT,13.0,1,True,Haas F1 Team,False,13.0,19.375,38.882,17.553,,False,False,9726.287,20,São Paulo Grand Prix
+HUL,57.0,75.511,5.0,SOFT,14.0,1,True,Haas F1 Team,False,13.0,19.36,38.723,17.428,,False,False,9801.798,20,São Paulo Grand Prix
+HUL,58.0,75.639,5.0,SOFT,15.0,1,True,Haas F1 Team,False,12.0,19.353,38.803,17.483,,False,False,9877.437,20,São Paulo Grand Prix
+HUL,59.0,76.343,5.0,SOFT,16.0,1,True,Haas F1 Team,False,12.0,19.454,39.476,17.413,,False,False,9953.78,20,São Paulo Grand Prix
+HUL,60.0,75.252,5.0,SOFT,17.0,1,True,Haas F1 Team,False,12.0,19.219,38.639,17.394,,False,False,10029.032,20,São Paulo Grand Prix
+HUL,61.0,75.357,5.0,SOFT,18.0,1,True,Haas F1 Team,False,12.0,19.247,38.729,17.381,,False,False,10104.389,20,São Paulo Grand Prix
+HUL,62.0,75.312,5.0,SOFT,19.0,1,True,Haas F1 Team,False,12.0,19.214,38.633,17.465,,False,False,10179.701,20,São Paulo Grand Prix
+HUL,63.0,75.178,5.0,SOFT,20.0,1,True,Haas F1 Team,False,12.0,19.225,38.499,17.454,,False,False,10254.879,20,São Paulo Grand Prix
+HUL,64.0,75.404,5.0,SOFT,21.0,1,True,Haas F1 Team,False,12.0,19.325,38.729,17.35,,False,False,10330.283,20,São Paulo Grand Prix
+HUL,65.0,75.198,5.0,SOFT,22.0,1,True,Haas F1 Team,False,12.0,19.32,38.449,17.429,,False,False,10405.481,20,São Paulo Grand Prix
+HUL,66.0,75.036,5.0,SOFT,23.0,1,True,Haas F1 Team,False,12.0,19.281,38.344,17.411,,False,False,10480.517,20,São Paulo Grand Prix
+HUL,67.0,75.343,5.0,SOFT,24.0,1,True,Haas F1 Team,False,12.0,19.271,38.611,17.461,,False,False,10555.86,20,São Paulo Grand Prix
+HUL,68.0,75.162,5.0,SOFT,25.0,1,True,Haas F1 Team,False,12.0,19.255,38.48,17.427,,False,False,10631.022,20,São Paulo Grand Prix
+HUL,69.0,75.308,5.0,SOFT,26.0,1,True,Haas F1 Team,False,12.0,19.21,38.687,17.411,,False,False,10706.33,20,São Paulo Grand Prix
+HUL,70.0,75.595,5.0,SOFT,27.0,1,True,Haas F1 Team,False,12.0,19.357,38.803,17.435,,False,False,10781.925,20,São Paulo Grand Prix
+RIC,1.0,149.416,1.0,SOFT,1.0,124,False,AlphaTauri,True,16.0,,71.688,43.918,,True,False,3892.553,20,São Paulo Grand Prix
+RIC,2.0,,2.0,SOFT,4.0,1,False,AlphaTauri,False,17.0,,42.106,43.355,,True,True,5571.633,20,São Paulo Grand Prix
+RIC,3.0,103.821,3.0,SOFT,5.0,1,False,AlphaTauri,False,17.0,46.788,39.446,17.587,,False,True,5675.454,20,São Paulo Grand Prix
+RIC,4.0,76.78,3.0,SOFT,6.0,1,True,AlphaTauri,False,17.0,20.051,39.188,17.541,,False,False,5752.234,20,São Paulo Grand Prix
+RIC,5.0,76.723,3.0,SOFT,7.0,1,True,AlphaTauri,False,17.0,19.916,39.343,17.464,,False,False,5828.957,20,São Paulo Grand Prix
+RIC,6.0,76.401,3.0,SOFT,8.0,1,True,AlphaTauri,False,17.0,19.549,39.465,17.387,,False,False,5905.358,20,São Paulo Grand Prix
+RIC,7.0,76.608,3.0,SOFT,9.0,1,True,AlphaTauri,False,17.0,19.68,39.648,17.28,,False,False,5981.966,20,São Paulo Grand Prix
+RIC,8.0,76.491,3.0,SOFT,10.0,1,True,AlphaTauri,False,17.0,19.574,39.631,17.286,,False,False,6058.457,20,São Paulo Grand Prix
+RIC,9.0,77.118,3.0,SOFT,11.0,1,True,AlphaTauri,False,16.0,19.632,40.234,17.252,,False,False,6135.575,20,São Paulo Grand Prix
+RIC,10.0,76.836,3.0,SOFT,12.0,1,True,AlphaTauri,False,16.0,19.658,39.611,17.567,,False,False,6212.411,20,São Paulo Grand Prix
+RIC,11.0,76.864,3.0,SOFT,13.0,1,True,AlphaTauri,False,16.0,19.755,39.67,17.439,,False,False,6289.275,20,São Paulo Grand Prix
+RIC,12.0,77.5,3.0,SOFT,14.0,1,True,AlphaTauri,False,16.0,19.681,40.47,17.349,,False,False,6366.775,20,São Paulo Grand Prix
+RIC,13.0,78.34,3.0,SOFT,15.0,1,True,AlphaTauri,False,16.0,20.265,40.696,17.379,,False,False,6445.115,20,São Paulo Grand Prix
+RIC,14.0,76.968,3.0,SOFT,16.0,1,True,AlphaTauri,False,16.0,19.699,39.77,17.499,,False,False,6522.083,20,São Paulo Grand Prix
+RIC,15.0,77.407,3.0,SOFT,17.0,1,True,AlphaTauri,False,16.0,19.91,40.199,17.298,,False,False,6599.49,20,São Paulo Grand Prix
+RIC,16.0,77.982,3.0,SOFT,18.0,1,True,AlphaTauri,False,16.0,20.017,40.423,17.542,,False,False,6677.472,20,São Paulo Grand Prix
+RIC,17.0,76.812,3.0,SOFT,19.0,1,True,AlphaTauri,False,16.0,19.527,39.697,17.588,,False,False,6754.284,20,São Paulo Grand Prix
+RIC,18.0,77.202,3.0,SOFT,20.0,1,True,AlphaTauri,False,16.0,19.778,39.59,17.834,,False,False,6831.486,20,São Paulo Grand Prix
+RIC,19.0,76.756,3.0,SOFT,21.0,1,True,AlphaTauri,False,16.0,19.637,39.59,17.529,,False,False,6908.242,20,São Paulo Grand Prix
+RIC,20.0,76.859,3.0,SOFT,22.0,1,True,AlphaTauri,False,16.0,19.583,39.548,17.728,,False,False,6985.101,20,São Paulo Grand Prix
+RIC,21.0,76.686,3.0,SOFT,23.0,1,True,AlphaTauri,False,16.0,19.672,39.497,17.517,,False,False,7061.787,20,São Paulo Grand Prix
+RIC,22.0,76.993,3.0,SOFT,24.0,1,True,AlphaTauri,False,16.0,19.717,39.577,17.699,,False,False,7138.78,20,São Paulo Grand Prix
+RIC,23.0,76.771,3.0,SOFT,25.0,1,True,AlphaTauri,False,15.0,19.627,39.514,17.63,,False,False,7215.551,20,São Paulo Grand Prix
+RIC,24.0,76.604,3.0,SOFT,26.0,1,True,AlphaTauri,False,15.0,19.435,39.747,17.422,,False,False,7292.155,20,São Paulo Grand Prix
+RIC,25.0,78.439,3.0,SOFT,27.0,1,True,AlphaTauri,False,15.0,19.541,40.606,18.292,,False,False,7370.594,20,São Paulo Grand Prix
+RIC,26.0,80.591,3.0,SOFT,28.0,1,False,AlphaTauri,False,15.0,19.527,39.553,21.511,,True,False,7451.185,20,São Paulo Grand Prix
+RIC,27.0,95.968,4.0,MEDIUM,1.0,1,False,AlphaTauri,True,15.0,38.933,39.802,17.233,,False,True,7547.153,20,São Paulo Grand Prix
+RIC,28.0,75.837,4.0,MEDIUM,2.0,1,True,AlphaTauri,True,15.0,19.586,38.978,17.273,,False,False,7622.99,20,São Paulo Grand Prix
+RIC,29.0,75.648,4.0,MEDIUM,3.0,1,True,AlphaTauri,True,15.0,19.23,39.09,17.328,,False,False,7698.638,20,São Paulo Grand Prix
+RIC,30.0,75.407,4.0,MEDIUM,4.0,1,True,AlphaTauri,True,15.0,19.428,38.874,17.105,,False,False,7774.045,20,São Paulo Grand Prix
+RIC,31.0,76.03,4.0,MEDIUM,5.0,1,True,AlphaTauri,True,15.0,19.547,39.219,17.264,,False,False,7850.075,20,São Paulo Grand Prix
+RIC,32.0,76.127,4.0,MEDIUM,6.0,1,True,AlphaTauri,True,15.0,19.436,39.389,17.302,,False,False,7926.202,20,São Paulo Grand Prix
+RIC,33.0,76.614,4.0,MEDIUM,7.0,1,True,AlphaTauri,True,15.0,19.285,40.195,17.134,,False,False,8002.816,20,São Paulo Grand Prix
+RIC,34.0,75.536,4.0,MEDIUM,8.0,1,True,AlphaTauri,True,15.0,19.516,38.934,17.086,,False,False,8078.352,20,São Paulo Grand Prix
+RIC,35.0,76.636,4.0,MEDIUM,9.0,1,True,AlphaTauri,True,15.0,19.479,40.001,17.156,,False,False,8154.988,20,São Paulo Grand Prix
+RIC,36.0,75.488,4.0,MEDIUM,10.0,1,True,AlphaTauri,True,15.0,19.404,38.782,17.302,,False,False,8230.476,20,São Paulo Grand Prix
+RIC,37.0,75.63,4.0,MEDIUM,11.0,1,True,AlphaTauri,True,15.0,19.37,38.836,17.424,,False,False,8306.106,20,São Paulo Grand Prix
+RIC,38.0,75.839,4.0,MEDIUM,12.0,1,True,AlphaTauri,True,15.0,19.404,38.982,17.453,,False,False,8381.945,20,São Paulo Grand Prix
+RIC,39.0,76.094,4.0,MEDIUM,13.0,1,True,AlphaTauri,True,15.0,19.501,39.139,17.454,,False,False,8458.039,20,São Paulo Grand Prix
+RIC,40.0,75.94,4.0,MEDIUM,14.0,1,True,AlphaTauri,True,14.0,19.449,39.067,17.424,,False,False,8533.979,20,São Paulo Grand Prix
+RIC,41.0,75.85,4.0,MEDIUM,15.0,1,True,AlphaTauri,True,14.0,19.322,39.137,17.391,,False,False,8609.829,20,São Paulo Grand Prix
+RIC,42.0,76.559,4.0,MEDIUM,16.0,1,True,AlphaTauri,True,14.0,19.368,39.332,17.859,,False,False,8686.388,20,São Paulo Grand Prix
+RIC,43.0,76.781,4.0,MEDIUM,17.0,1,True,AlphaTauri,True,14.0,19.585,39.472,17.724,,False,False,8763.169,20,São Paulo Grand Prix
+RIC,44.0,76.733,4.0,MEDIUM,18.0,1,True,AlphaTauri,True,14.0,19.536,39.245,17.952,,False,False,8839.902,20,São Paulo Grand Prix
+RIC,45.0,76.1,4.0,MEDIUM,19.0,1,True,AlphaTauri,True,14.0,19.48,39.154,17.466,,False,False,8916.002,20,São Paulo Grand Prix
+RIC,46.0,76.275,4.0,MEDIUM,20.0,1,True,AlphaTauri,True,14.0,19.49,39.332,17.453,,False,False,8992.277,20,São Paulo Grand Prix
+RIC,47.0,76.139,4.0,MEDIUM,21.0,1,True,AlphaTauri,True,14.0,19.517,39.22,17.402,,False,False,9068.416,20,São Paulo Grand Prix
+RIC,48.0,76.206,4.0,MEDIUM,22.0,1,True,AlphaTauri,True,14.0,19.49,39.228,17.488,,False,False,9144.622,20,São Paulo Grand Prix
+RIC,49.0,75.849,4.0,MEDIUM,23.0,1,True,AlphaTauri,True,14.0,19.454,39.15,17.245,,False,False,9220.471,20,São Paulo Grand Prix
+RIC,50.0,76.126,4.0,MEDIUM,24.0,1,True,AlphaTauri,True,14.0,19.441,39.331,17.354,,False,False,9296.597,20,São Paulo Grand Prix
+RIC,51.0,75.947,4.0,MEDIUM,25.0,1,True,AlphaTauri,True,14.0,19.372,39.215,17.36,,False,False,9372.544,20,São Paulo Grand Prix
+RIC,52.0,76.087,4.0,MEDIUM,26.0,1,True,AlphaTauri,True,14.0,19.383,39.455,17.249,,False,False,9448.631,20,São Paulo Grand Prix
+RIC,53.0,75.955,4.0,MEDIUM,27.0,1,True,AlphaTauri,True,14.0,19.465,39.197,17.293,,False,False,9524.586,20,São Paulo Grand Prix
+RIC,54.0,76.251,4.0,MEDIUM,28.0,1,True,AlphaTauri,True,14.0,19.622,39.307,17.322,,False,False,9600.837,20,São Paulo Grand Prix
+RIC,55.0,79.237,4.0,MEDIUM,29.0,1,False,AlphaTauri,True,14.0,19.13,38.878,21.229,,True,False,9680.074,20,São Paulo Grand Prix
+RIC,56.0,94.215,5.0,SOFT,1.0,1,False,AlphaTauri,True,14.0,37.611,39.364,17.24,,False,True,9774.289,20,São Paulo Grand Prix
+RIC,57.0,75.323,5.0,SOFT,2.0,1,True,AlphaTauri,True,14.0,19.357,38.793,17.173,,False,False,9849.612,20,São Paulo Grand Prix
+RIC,58.0,74.99,5.0,SOFT,3.0,1,True,AlphaTauri,True,13.0,19.189,38.635,17.166,,False,False,9924.602,20,São Paulo Grand Prix
+RIC,59.0,74.788,5.0,SOFT,4.0,1,True,AlphaTauri,True,13.0,19.145,38.584,17.059,,False,False,9999.39,20,São Paulo Grand Prix
+RIC,60.0,74.724,5.0,SOFT,5.0,1,True,AlphaTauri,True,13.0,19.198,38.434,17.092,,False,False,10074.114,20,São Paulo Grand Prix
+RIC,61.0,74.788,5.0,SOFT,6.0,1,True,AlphaTauri,True,13.0,19.071,38.417,17.3,,False,False,10148.902,20,São Paulo Grand Prix
+RIC,62.0,74.129,5.0,SOFT,7.0,1,True,AlphaTauri,True,13.0,19.046,38.093,16.99,,False,False,10223.031,20,São Paulo Grand Prix
+RIC,63.0,74.04,5.0,SOFT,8.0,1,True,AlphaTauri,True,13.0,18.896,38.158,16.986,,False,False,10297.071,20,São Paulo Grand Prix
+RIC,64.0,74.846,5.0,SOFT,9.0,1,True,AlphaTauri,True,13.0,19.044,38.783,17.019,,False,False,10371.917,20,São Paulo Grand Prix
+RIC,65.0,74.913,5.0,SOFT,10.0,1,True,AlphaTauri,True,13.0,19.474,38.412,17.027,,False,False,10446.83,20,São Paulo Grand Prix
+RIC,66.0,74.99,5.0,SOFT,11.0,1,True,AlphaTauri,True,13.0,19.577,38.387,17.026,,False,False,10521.82,20,São Paulo Grand Prix
+RIC,67.0,77.933,5.0,SOFT,12.0,1,True,AlphaTauri,True,13.0,19.481,39.313,19.139,,False,False,10599.753,20,São Paulo Grand Prix
+RIC,68.0,73.866,5.0,SOFT,13.0,1,True,AlphaTauri,True,13.0,19.034,37.703,17.129,,False,False,10673.619,20,São Paulo Grand Prix
+RIC,69.0,74.015,5.0,SOFT,14.0,1,True,AlphaTauri,True,13.0,18.996,37.926,17.093,,False,False,10747.634,20,São Paulo Grand Prix
+RIC,70.0,74.326,5.0,SOFT,15.0,1,True,AlphaTauri,True,13.0,19.064,38.189,17.073,,False,False,10821.96,20,São Paulo Grand Prix
+PIA,1.0,137.108,1.0,SOFT,3.0,124,False,McLaren,False,10.0,,70.583,40.137,,True,False,3880.269,20,São Paulo Grand Prix
+PIA,2.0,,2.0,MEDIUM,1.0,1,False,McLaren,True,16.0,,42.003,38.889,,True,True,5565.035,20,São Paulo Grand Prix
+PIA,3.0,109.154,3.0,MEDIUM,2.0,1,False,McLaren,False,16.0,52.458,39.19,17.506,,False,True,5674.189,20,São Paulo Grand Prix
+PIA,4.0,77.084,3.0,MEDIUM,3.0,1,True,McLaren,False,16.0,20.226,39.22,17.638,,False,False,5751.273,20,São Paulo Grand Prix
+PIA,5.0,76.932,3.0,MEDIUM,4.0,1,True,McLaren,False,16.0,19.86,39.414,17.658,,False,False,5828.205,20,São Paulo Grand Prix
+PIA,6.0,76.738,3.0,MEDIUM,5.0,1,True,McLaren,False,16.0,19.801,39.346,17.591,,False,False,5904.943,20,São Paulo Grand Prix
+PIA,7.0,76.713,3.0,MEDIUM,6.0,1,True,McLaren,False,16.0,19.938,39.209,17.566,,False,False,5981.656,20,São Paulo Grand Prix
+PIA,8.0,76.641,3.0,MEDIUM,7.0,1,True,McLaren,False,16.0,19.547,39.549,17.545,,False,False,6058.297,20,São Paulo Grand Prix
+PIA,9.0,77.289,3.0,MEDIUM,8.0,1,True,McLaren,False,17.0,19.716,39.867,17.706,,False,False,6135.586,20,São Paulo Grand Prix
+PIA,10.0,78.311,3.0,MEDIUM,9.0,1,True,McLaren,False,17.0,20.261,40.361,17.689,,False,False,6213.897,20,São Paulo Grand Prix
+PIA,11.0,77.211,3.0,MEDIUM,10.0,1,True,McLaren,False,17.0,19.943,39.543,17.725,,False,False,6291.108,20,São Paulo Grand Prix
+PIA,12.0,77.478,3.0,MEDIUM,11.0,1,True,McLaren,False,17.0,19.872,39.795,17.811,,False,False,6368.586,20,São Paulo Grand Prix
+PIA,13.0,77.977,3.0,MEDIUM,12.0,1,True,McLaren,False,17.0,19.824,40.371,17.782,,False,False,6446.563,20,São Paulo Grand Prix
+PIA,14.0,77.698,3.0,MEDIUM,13.0,1,True,McLaren,False,17.0,19.741,40.438,17.519,,False,False,6524.261,20,São Paulo Grand Prix
+PIA,15.0,77.526,3.0,MEDIUM,14.0,1,True,McLaren,False,17.0,19.686,39.983,17.857,,False,False,6601.787,20,São Paulo Grand Prix
+PIA,16.0,77.442,3.0,MEDIUM,15.0,1,True,McLaren,False,17.0,19.841,39.92,17.681,,False,False,6679.229,20,São Paulo Grand Prix
+PIA,17.0,77.265,3.0,MEDIUM,16.0,1,True,McLaren,False,17.0,19.693,39.744,17.828,,False,False,6756.494,20,São Paulo Grand Prix
+PIA,18.0,77.583,3.0,MEDIUM,17.0,1,True,McLaren,False,17.0,20.037,39.79,17.756,,False,False,6834.077,20,São Paulo Grand Prix
+PIA,19.0,77.096,3.0,MEDIUM,18.0,1,True,McLaren,False,17.0,19.821,39.441,17.834,,False,False,6911.173,20,São Paulo Grand Prix
+PIA,20.0,77.433,3.0,MEDIUM,19.0,1,True,McLaren,False,17.0,19.837,39.83,17.766,,False,False,6988.606,20,São Paulo Grand Prix
+PIA,21.0,77.043,3.0,MEDIUM,20.0,1,True,McLaren,False,17.0,19.964,39.353,17.726,,False,False,7065.649,20,São Paulo Grand Prix
+PIA,22.0,77.435,3.0,MEDIUM,21.0,1,True,McLaren,False,17.0,19.989,39.608,17.838,,False,False,7143.084,20,São Paulo Grand Prix
+PIA,23.0,77.143,3.0,MEDIUM,22.0,1,True,McLaren,False,16.0,19.826,39.452,17.865,,False,False,7220.227,20,São Paulo Grand Prix
+PIA,24.0,81.76,3.0,MEDIUM,23.0,1,False,McLaren,False,16.0,19.869,39.45,22.441,,True,False,7301.987,20,São Paulo Grand Prix
+PIA,25.0,94.16,4.0,SOFT,4.0,1,False,McLaren,False,16.0,37.402,39.126,17.632,,False,True,7396.147,20,São Paulo Grand Prix
+PIA,26.0,76.368,4.0,SOFT,5.0,1,True,McLaren,False,16.0,19.589,39.22,17.559,,False,False,7472.515,20,São Paulo Grand Prix
+PIA,27.0,76.27,4.0,SOFT,6.0,1,True,McLaren,False,16.0,19.556,39.12,17.594,,False,False,7548.785,20,São Paulo Grand Prix
+PIA,28.0,76.269,4.0,SOFT,7.0,1,True,McLaren,False,16.0,19.639,38.978,17.652,,False,False,7625.054,20,São Paulo Grand Prix
+PIA,29.0,75.859,4.0,SOFT,8.0,1,True,McLaren,False,16.0,19.451,38.807,17.601,,False,False,7700.913,20,São Paulo Grand Prix
+PIA,30.0,75.68,4.0,SOFT,9.0,1,True,McLaren,False,16.0,19.471,38.656,17.553,,False,False,7776.593,20,São Paulo Grand Prix
+PIA,31.0,75.558,4.0,SOFT,10.0,1,True,McLaren,False,16.0,19.483,38.572,17.503,,False,False,7852.151,20,São Paulo Grand Prix
+PIA,32.0,75.866,4.0,SOFT,11.0,1,True,McLaren,False,16.0,19.681,38.656,17.529,,False,False,7928.017,20,São Paulo Grand Prix
+PIA,33.0,75.656,4.0,SOFT,12.0,1,True,McLaren,False,16.0,19.479,38.731,17.446,,False,False,8003.673,20,São Paulo Grand Prix
+PIA,34.0,76.492,4.0,SOFT,13.0,1,True,McLaren,False,16.0,19.38,39.498,17.614,,False,False,8080.165,20,São Paulo Grand Prix
+PIA,35.0,76.179,4.0,SOFT,14.0,1,True,McLaren,False,16.0,19.39,39.126,17.663,,False,False,8156.344,20,São Paulo Grand Prix
+PIA,36.0,76.314,4.0,SOFT,15.0,1,True,McLaren,False,16.0,19.423,39.576,17.315,,False,False,8232.658,20,São Paulo Grand Prix
+PIA,37.0,76.048,4.0,SOFT,16.0,1,True,McLaren,False,16.0,19.477,38.922,17.649,,False,False,8308.706,20,São Paulo Grand Prix
+PIA,38.0,76.075,4.0,SOFT,17.0,1,True,McLaren,False,16.0,19.592,38.851,17.632,,False,False,8384.781,20,São Paulo Grand Prix
+PIA,39.0,76.099,4.0,SOFT,18.0,1,True,McLaren,False,16.0,19.484,38.981,17.634,,False,False,8460.88,20,São Paulo Grand Prix
+PIA,40.0,76.585,4.0,SOFT,19.0,1,True,McLaren,False,15.0,19.723,39.211,17.651,,False,False,8537.465,20,São Paulo Grand Prix
+PIA,41.0,76.198,4.0,SOFT,20.0,1,True,McLaren,False,15.0,19.632,38.918,17.648,,False,False,8613.663,20,São Paulo Grand Prix
+PIA,42.0,76.355,4.0,SOFT,21.0,1,True,McLaren,False,15.0,19.532,39.135,17.688,,False,False,8690.018,20,São Paulo Grand Prix
+PIA,43.0,76.708,4.0,SOFT,22.0,1,True,McLaren,False,15.0,19.565,39.457,17.686,,False,False,8766.726,20,São Paulo Grand Prix
+PIA,44.0,76.378,4.0,SOFT,23.0,1,True,McLaren,False,15.0,19.637,39.024,17.717,,False,False,8843.104,20,São Paulo Grand Prix
+PIA,45.0,76.452,4.0,SOFT,24.0,1,True,McLaren,False,15.0,19.602,39.287,17.563,,False,False,8919.556,20,São Paulo Grand Prix
+PIA,46.0,76.655,4.0,SOFT,25.0,1,True,McLaren,False,15.0,19.693,39.357,17.605,,False,False,8996.211,20,São Paulo Grand Prix
+PIA,47.0,76.306,4.0,SOFT,26.0,1,True,McLaren,False,15.0,19.571,39.132,17.603,,False,False,9072.517,20,São Paulo Grand Prix
+PIA,48.0,76.466,4.0,SOFT,27.0,1,True,McLaren,False,15.0,19.551,39.262,17.653,,False,False,9148.983,20,São Paulo Grand Prix
+PIA,49.0,76.245,4.0,SOFT,28.0,1,True,McLaren,False,15.0,19.568,39.004,17.673,,False,False,9225.228,20,São Paulo Grand Prix
+PIA,50.0,76.415,4.0,SOFT,29.0,1,True,McLaren,False,15.0,19.603,39.155,17.657,,False,False,9301.643,20,São Paulo Grand Prix
+PIA,51.0,76.104,4.0,SOFT,30.0,1,True,McLaren,False,15.0,19.561,38.955,17.588,,False,False,9377.747,20,São Paulo Grand Prix
+PIA,52.0,82.846,4.0,SOFT,31.0,1,False,McLaren,False,15.0,19.65,41.441,21.755,,True,False,9460.593,20,São Paulo Grand Prix
+PIA,53.0,93.762,5.0,SOFT,6.0,1,False,McLaren,False,15.0,36.675,39.591,17.496,,False,True,9554.355,20,São Paulo Grand Prix
+PIA,54.0,75.576,5.0,SOFT,7.0,1,True,McLaren,False,15.0,19.422,38.629,17.525,,False,False,9629.931,20,São Paulo Grand Prix
+PIA,55.0,74.951,5.0,SOFT,8.0,1,True,McLaren,False,15.0,19.669,38.041,17.241,,False,False,9704.882,20,São Paulo Grand Prix
+PIA,56.0,75.933,5.0,SOFT,9.0,1,True,McLaren,False,15.0,19.402,38.891,17.64,,False,False,9780.815,20,São Paulo Grand Prix
+PIA,57.0,77.651,5.0,SOFT,10.0,1,True,McLaren,False,15.0,21.451,38.869,17.331,,False,False,9858.466,20,São Paulo Grand Prix
+PIA,58.0,74.533,5.0,SOFT,11.0,1,True,McLaren,False,14.0,19.365,37.897,17.271,,False,False,9932.999,20,São Paulo Grand Prix
+PIA,59.0,74.402,5.0,SOFT,12.0,1,True,McLaren,False,14.0,19.296,38.003,17.103,,False,False,10007.401,20,São Paulo Grand Prix
+PIA,60.0,74.625,5.0,SOFT,13.0,1,True,McLaren,False,14.0,19.135,38.428,17.062,,False,False,10082.026,20,São Paulo Grand Prix
+PIA,61.0,74.791,5.0,SOFT,14.0,1,True,McLaren,False,14.0,19.347,38.434,17.01,,False,False,10156.817,20,São Paulo Grand Prix
+PIA,62.0,74.342,5.0,SOFT,15.0,1,True,McLaren,False,14.0,18.988,37.981,17.373,,False,False,10231.159,20,São Paulo Grand Prix
+PIA,63.0,74.615,5.0,SOFT,16.0,1,True,McLaren,False,14.0,19.261,38.041,17.313,,False,False,10305.774,20,São Paulo Grand Prix
+PIA,64.0,74.393,5.0,SOFT,17.0,1,True,McLaren,False,14.0,19.268,37.865,17.26,,False,False,10380.167,20,São Paulo Grand Prix
+PIA,65.0,74.391,5.0,SOFT,18.0,1,True,McLaren,False,14.0,19.263,37.904,17.224,,False,False,10454.558,20,São Paulo Grand Prix
+PIA,66.0,74.31,5.0,SOFT,19.0,1,True,McLaren,False,14.0,19.239,37.796,17.275,,False,False,10528.868,20,São Paulo Grand Prix
+PIA,67.0,77.524,5.0,SOFT,20.0,1,True,McLaren,False,14.0,19.206,40.999,17.319,,False,False,10606.392,20,São Paulo Grand Prix
+PIA,68.0,74.445,5.0,SOFT,21.0,1,True,McLaren,False,14.0,19.175,37.945,17.325,,False,False,10680.837,20,São Paulo Grand Prix
+PIA,69.0,74.799,5.0,SOFT,22.0,1,True,McLaren,False,14.0,19.286,38.182,17.331,,False,False,10755.636,20,São Paulo Grand Prix
+RUS,1.0,131.238,1.0,SOFT,4.0,124,False,Mercedes,False,6.0,,67.493,38.514,,True,False,3874.376,20,São Paulo Grand Prix
+RUS,2.0,143.59,2.0,SOFT,5.0,45,False,Mercedes,False,6.0,40.051,62.43,41.109,,True,True,4017.966,20,São Paulo Grand Prix
+RUS,3.0,,3.0,SOFT,4.0,1,False,Mercedes,False,6.0,,45.584,57.048,,False,True,5550.878,20,São Paulo Grand Prix
+RUS,4.0,115.704,3.0,SOFT,5.0,1,True,Mercedes,False,5.0,58.369,39.897,17.438,,False,False,5666.582,20,São Paulo Grand Prix
+RUS,5.0,76.921,3.0,SOFT,6.0,1,True,Mercedes,False,5.0,20.041,39.441,17.439,,False,False,5743.503,20,São Paulo Grand Prix
+RUS,6.0,76.431,3.0,SOFT,7.0,1,True,Mercedes,False,5.0,19.866,39.207,17.358,,False,False,5819.934,20,São Paulo Grand Prix
+RUS,7.0,76.483,3.0,SOFT,8.0,1,True,Mercedes,False,5.0,19.926,39.186,17.371,,False,False,5896.417,20,São Paulo Grand Prix
+RUS,8.0,76.659,3.0,SOFT,9.0,1,True,Mercedes,False,5.0,19.791,39.433,17.435,,False,False,5973.076,20,São Paulo Grand Prix
+RUS,9.0,76.663,3.0,SOFT,10.0,1,True,Mercedes,False,5.0,19.809,39.428,17.426,,False,False,6049.739,20,São Paulo Grand Prix
+RUS,10.0,76.721,3.0,SOFT,11.0,1,True,Mercedes,False,5.0,19.793,39.485,17.443,,False,False,6126.46,20,São Paulo Grand Prix
+RUS,11.0,76.933,3.0,SOFT,12.0,1,True,Mercedes,False,5.0,19.811,39.51,17.612,,False,False,6203.393,20,São Paulo Grand Prix
+RUS,12.0,76.977,3.0,SOFT,13.0,1,True,Mercedes,False,5.0,19.867,39.402,17.708,,False,False,6280.37,20,São Paulo Grand Prix
+RUS,13.0,77.056,3.0,SOFT,14.0,1,True,Mercedes,False,5.0,19.717,39.546,17.793,,False,False,6357.426,20,São Paulo Grand Prix
+RUS,14.0,78.041,3.0,SOFT,15.0,1,True,Mercedes,False,6.0,20.0,40.421,17.62,,False,False,6435.467,20,São Paulo Grand Prix
+RUS,15.0,77.315,3.0,SOFT,16.0,1,True,Mercedes,False,6.0,19.742,39.787,17.786,,False,False,6512.782,20,São Paulo Grand Prix
+RUS,16.0,77.196,3.0,SOFT,17.0,1,True,Mercedes,False,6.0,19.765,39.548,17.883,,False,False,6589.978,20,São Paulo Grand Prix
+RUS,17.0,77.392,3.0,SOFT,18.0,1,True,Mercedes,False,6.0,19.725,39.699,17.968,,False,False,6667.37,20,São Paulo Grand Prix
+RUS,18.0,77.319,3.0,SOFT,19.0,1,True,Mercedes,False,5.0,19.89,39.632,17.797,,False,False,6744.689,20,São Paulo Grand Prix
+RUS,19.0,80.533,3.0,SOFT,20.0,1,False,Mercedes,False,8.0,19.82,39.316,21.397,,True,False,6825.222,20,São Paulo Grand Prix
+RUS,20.0,93.721,4.0,MEDIUM,1.0,1,False,Mercedes,True,11.0,36.829,39.435,17.457,,False,True,6918.943,20,São Paulo Grand Prix
+RUS,21.0,76.573,4.0,MEDIUM,2.0,1,True,Mercedes,True,10.0,19.626,39.395,17.552,,False,False,6995.516,20,São Paulo Grand Prix
+RUS,22.0,76.653,4.0,MEDIUM,3.0,1,True,Mercedes,True,10.0,19.712,39.255,17.686,,False,False,7072.169,20,São Paulo Grand Prix
+RUS,23.0,77.088,4.0,MEDIUM,4.0,1,True,Mercedes,True,9.0,19.781,39.643,17.664,,False,False,7149.257,20,São Paulo Grand Prix
+RUS,24.0,76.9,4.0,MEDIUM,5.0,1,True,Mercedes,True,10.0,19.834,39.497,17.569,,False,False,7226.157,20,São Paulo Grand Prix
+RUS,25.0,77.08,4.0,MEDIUM,6.0,1,True,Mercedes,True,10.0,19.65,39.75,17.68,,False,False,7303.237,20,São Paulo Grand Prix
+RUS,26.0,76.495,4.0,MEDIUM,7.0,1,True,Mercedes,True,10.0,19.619,39.207,17.669,,False,False,7379.732,20,São Paulo Grand Prix
+RUS,27.0,75.628,4.0,MEDIUM,8.0,1,True,Mercedes,True,7.0,19.444,38.796,17.388,,False,False,7455.36,20,São Paulo Grand Prix
+RUS,28.0,76.262,4.0,MEDIUM,9.0,1,True,Mercedes,True,7.0,19.294,39.457,17.511,,False,False,7531.622,20,São Paulo Grand Prix
+RUS,29.0,76.305,4.0,MEDIUM,10.0,1,True,Mercedes,True,7.0,19.412,39.481,17.412,,False,False,7607.927,20,São Paulo Grand Prix
+RUS,30.0,76.294,4.0,MEDIUM,11.0,1,True,Mercedes,True,7.0,19.37,39.503,17.421,,False,False,7684.221,20,São Paulo Grand Prix
+RUS,31.0,76.298,4.0,MEDIUM,12.0,1,True,Mercedes,True,7.0,19.301,39.473,17.524,,False,False,7760.519,20,São Paulo Grand Prix
+RUS,32.0,76.161,4.0,MEDIUM,13.0,1,True,Mercedes,True,7.0,19.24,39.451,17.47,,False,False,7836.68,20,São Paulo Grand Prix
+RUS,33.0,76.433,4.0,MEDIUM,14.0,1,True,Mercedes,True,7.0,19.482,39.389,17.562,,False,False,7913.113,20,São Paulo Grand Prix
+RUS,34.0,76.636,4.0,MEDIUM,15.0,1,True,Mercedes,True,8.0,19.521,39.35,17.765,,False,False,7989.749,20,São Paulo Grand Prix
+RUS,35.0,77.27,4.0,MEDIUM,16.0,1,True,Mercedes,True,8.0,19.811,39.854,17.605,,False,False,8067.019,20,São Paulo Grand Prix
+RUS,36.0,76.831,4.0,MEDIUM,17.0,1,True,Mercedes,True,8.0,19.743,39.465,17.623,,False,False,8143.85,20,São Paulo Grand Prix
+RUS,37.0,76.742,4.0,MEDIUM,18.0,1,True,Mercedes,True,8.0,19.688,39.337,17.717,,False,False,8220.592,20,São Paulo Grand Prix
+RUS,38.0,76.644,4.0,MEDIUM,19.0,1,True,Mercedes,True,8.0,19.652,39.275,17.717,,False,False,8297.236,20,São Paulo Grand Prix
+RUS,39.0,76.674,4.0,MEDIUM,20.0,1,True,Mercedes,True,8.0,19.604,39.295,17.775,,False,False,8373.91,20,São Paulo Grand Prix
+RUS,40.0,76.906,4.0,MEDIUM,21.0,1,True,Mercedes,True,8.0,19.687,39.445,17.774,,False,False,8450.816,20,São Paulo Grand Prix
+RUS,41.0,76.709,4.0,MEDIUM,22.0,1,True,Mercedes,True,8.0,19.728,39.246,17.735,,False,False,8527.525,20,São Paulo Grand Prix
+RUS,42.0,77.0,4.0,MEDIUM,23.0,1,True,Mercedes,True,8.0,19.653,39.565,17.782,,False,False,8604.525,20,São Paulo Grand Prix
+RUS,43.0,77.74,4.0,MEDIUM,24.0,1,True,Mercedes,True,9.0,19.918,40.147,17.675,,False,False,8682.265,20,São Paulo Grand Prix
+RUS,44.0,77.422,4.0,MEDIUM,25.0,1,True,Mercedes,True,9.0,19.496,40.033,17.893,,False,False,8759.687,20,São Paulo Grand Prix
+RUS,45.0,81.183,4.0,MEDIUM,26.0,1,False,Mercedes,True,10.0,19.794,39.586,21.803,,True,False,8840.87,20,São Paulo Grand Prix
+RUS,46.0,94.153,5.0,SOFT,4.0,1,False,Mercedes,False,11.0,37.403,39.226,17.524,,False,True,8935.023,20,São Paulo Grand Prix
+RUS,47.0,76.534,5.0,SOFT,5.0,1,True,Mercedes,False,11.0,19.745,39.379,17.41,,False,False,9011.557,20,São Paulo Grand Prix
+RUS,48.0,76.373,5.0,SOFT,6.0,1,True,Mercedes,False,11.0,19.778,39.121,17.474,,False,False,9087.93,20,São Paulo Grand Prix
+RUS,49.0,76.313,5.0,SOFT,7.0,1,True,Mercedes,False,11.0,19.584,39.208,17.521,,False,False,9164.243,20,São Paulo Grand Prix
+RUS,50.0,76.424,5.0,SOFT,8.0,1,True,Mercedes,False,11.0,19.833,39.15,17.441,,False,False,9240.667,20,São Paulo Grand Prix
+RUS,51.0,75.936,5.0,SOFT,9.0,1,True,Mercedes,False,11.0,19.529,38.882,17.525,,False,False,9316.603,20,São Paulo Grand Prix
+RUS,52.0,75.633,5.0,SOFT,10.0,1,True,Mercedes,False,10.0,19.463,38.778,17.392,,False,False,9392.236,20,São Paulo Grand Prix
+RUS,53.0,75.478,5.0,SOFT,11.0,1,True,Mercedes,False,10.0,19.43,38.602,17.446,,False,False,9467.714,20,São Paulo Grand Prix
+RUS,54.0,75.063,5.0,SOFT,12.0,1,True,Mercedes,False,10.0,19.36,38.372,17.331,,False,False,9542.777,20,São Paulo Grand Prix
+RUS,55.0,74.934,5.0,SOFT,13.0,1,True,Mercedes,False,10.0,19.301,38.22,17.413,,False,False,9617.711,20,São Paulo Grand Prix
+RUS,56.0,75.128,5.0,SOFT,14.0,1,True,Mercedes,False,9.0,19.4,38.251,17.477,,False,False,9692.839,20,São Paulo Grand Prix
+RUS,57.0,104.13,5.0,SOFT,15.0,1,False,Mercedes,False,12.0,19.394,50.612,34.124,,True,False,9796.969,20,São Paulo Grand Prix
+BOT,1.0,142.202,1.0,SOFT,1.0,124,False,Alfa Romeo,True,13.0,,72.425,42.061,,True,False,3885.332,20,São Paulo Grand Prix
+BOT,2.0,146.231,2.0,SOFT,2.0,45,False,Alfa Romeo,False,12.0,41.959,58.487,45.785,,True,True,4031.563,20,São Paulo Grand Prix
+BOT,3.0,,3.0,SOFT,1.0,1,False,Alfa Romeo,True,12.0,,42.025,77.358,,False,True,5587.634,20,São Paulo Grand Prix
+BOT,4.0,81.758,3.0,SOFT,2.0,1,True,Alfa Romeo,True,13.0,23.372,40.933,17.453,,False,False,5669.392,20,São Paulo Grand Prix
+BOT,5.0,77.774,3.0,SOFT,3.0,1,True,Alfa Romeo,True,13.0,20.327,40.19,17.257,,False,False,5747.166,20,São Paulo Grand Prix
+BOT,6.0,77.239,3.0,SOFT,4.0,1,True,Alfa Romeo,True,13.0,20.099,39.936,17.204,,False,False,5824.405,20,São Paulo Grand Prix
+BOT,7.0,77.161,3.0,SOFT,5.0,1,True,Alfa Romeo,True,13.0,19.908,39.805,17.448,,False,False,5901.566,20,São Paulo Grand Prix
+BOT,8.0,76.64,3.0,SOFT,6.0,1,True,Alfa Romeo,True,13.0,19.538,39.753,17.349,,False,False,5978.206,20,São Paulo Grand Prix
+BOT,9.0,76.902,3.0,SOFT,7.0,1,True,Alfa Romeo,True,13.0,19.803,39.761,17.338,,False,False,6055.108,20,São Paulo Grand Prix
+BOT,10.0,76.759,3.0,SOFT,8.0,1,True,Alfa Romeo,True,12.0,19.592,39.785,17.382,,False,False,6131.867,20,São Paulo Grand Prix
+BOT,11.0,77.131,3.0,SOFT,9.0,1,True,Alfa Romeo,True,12.0,19.457,39.979,17.695,,False,False,6208.998,20,São Paulo Grand Prix
+BOT,12.0,76.837,3.0,SOFT,10.0,1,True,Alfa Romeo,True,12.0,19.954,39.342,17.541,,False,False,6285.835,20,São Paulo Grand Prix
+BOT,13.0,77.559,3.0,SOFT,11.0,1,True,Alfa Romeo,True,12.0,19.788,40.123,17.648,,False,False,6363.394,20,São Paulo Grand Prix
+BOT,14.0,77.377,3.0,SOFT,12.0,1,True,Alfa Romeo,True,11.0,19.659,40.155,17.563,,False,False,6440.771,20,São Paulo Grand Prix
+BOT,15.0,77.343,3.0,SOFT,13.0,1,True,Alfa Romeo,True,11.0,19.785,39.677,17.881,,False,False,6518.114,20,São Paulo Grand Prix
+BOT,16.0,77.765,3.0,SOFT,14.0,1,True,Alfa Romeo,True,10.0,19.903,39.929,17.933,,False,False,6595.879,20,São Paulo Grand Prix
+BOT,17.0,77.431,3.0,SOFT,15.0,1,True,Alfa Romeo,True,10.0,19.83,39.672,17.929,,False,False,6673.31,20,São Paulo Grand Prix
+BOT,18.0,81.363,3.0,SOFT,16.0,1,False,Alfa Romeo,True,11.0,19.873,39.71,21.78,,True,False,6754.673,20,São Paulo Grand Prix
+BOT,19.0,94.722,4.0,MEDIUM,1.0,1,False,Alfa Romeo,True,13.0,37.836,39.453,17.433,,False,True,6849.395,20,São Paulo Grand Prix
+BOT,20.0,75.731,4.0,MEDIUM,2.0,1,True,Alfa Romeo,True,13.0,19.32,38.836,17.575,,False,False,6925.126,20,São Paulo Grand Prix
+BOT,21.0,76.452,4.0,MEDIUM,3.0,1,True,Alfa Romeo,True,13.0,19.775,39.005,17.672,,False,False,7001.578,20,São Paulo Grand Prix
+BOT,22.0,76.21,4.0,MEDIUM,4.0,1,True,Alfa Romeo,True,12.0,19.728,38.896,17.586,,False,False,7077.788,20,São Paulo Grand Prix
+BOT,23.0,76.522,4.0,MEDIUM,5.0,1,True,Alfa Romeo,True,12.0,19.71,39.229,17.583,,False,False,7154.31,20,São Paulo Grand Prix
+BOT,24.0,76.898,4.0,MEDIUM,6.0,1,True,Alfa Romeo,True,12.0,19.773,39.373,17.752,,False,False,7231.208,20,São Paulo Grand Prix
+BOT,25.0,76.827,4.0,MEDIUM,7.0,1,True,Alfa Romeo,True,12.0,19.79,39.331,17.706,,False,False,7308.035,20,São Paulo Grand Prix
+BOT,26.0,76.628,4.0,MEDIUM,8.0,1,True,Alfa Romeo,True,12.0,19.638,39.333,17.657,,False,False,7384.663,20,São Paulo Grand Prix
+BOT,27.0,77.081,4.0,MEDIUM,9.0,1,True,Alfa Romeo,True,10.0,19.69,39.703,17.688,,False,False,7461.744,20,São Paulo Grand Prix
+BOT,28.0,77.111,4.0,MEDIUM,10.0,1,True,Alfa Romeo,True,10.0,19.802,39.569,17.74,,False,False,7538.855,20,São Paulo Grand Prix
+BOT,29.0,76.921,4.0,MEDIUM,11.0,1,True,Alfa Romeo,True,10.0,19.706,39.489,17.726,,False,False,7615.776,20,São Paulo Grand Prix
+BOT,30.0,76.549,4.0,MEDIUM,12.0,1,True,Alfa Romeo,True,10.0,19.628,39.303,17.618,,False,False,7692.325,20,São Paulo Grand Prix
+BOT,31.0,76.502,4.0,MEDIUM,13.0,1,True,Alfa Romeo,True,9.0,19.459,39.43,17.613,,False,False,7768.827,20,São Paulo Grand Prix
+BOT,32.0,77.597,4.0,MEDIUM,14.0,1,True,Alfa Romeo,True,10.0,19.787,40.057,17.753,,False,False,7846.424,20,São Paulo Grand Prix
+BOT,33.0,76.853,4.0,MEDIUM,15.0,1,True,Alfa Romeo,True,10.0,19.734,39.366,17.753,,False,False,7923.277,20,São Paulo Grand Prix
+BOT,34.0,76.94,4.0,MEDIUM,16.0,1,True,Alfa Romeo,True,10.0,19.656,39.475,17.809,,False,False,8000.217,20,São Paulo Grand Prix
+BOT,35.0,77.022,4.0,MEDIUM,17.0,1,True,Alfa Romeo,True,10.0,19.759,39.544,17.719,,False,False,8077.239,20,São Paulo Grand Prix
+BOT,36.0,77.879,4.0,MEDIUM,18.0,1,True,Alfa Romeo,True,11.0,19.933,40.236,17.71,,False,False,8155.118,20,São Paulo Grand Prix
+BOT,37.0,77.615,4.0,MEDIUM,19.0,1,True,Alfa Romeo,True,11.0,20.002,39.872,17.741,,False,False,8232.733,20,São Paulo Grand Prix
+BOT,38.0,77.876,4.0,MEDIUM,20.0,1,True,Alfa Romeo,True,11.0,20.168,39.963,17.745,,False,False,8310.609,20,São Paulo Grand Prix
+BOT,39.0,83.295,4.0,MEDIUM,21.0,1,False,Alfa Romeo,True,12.0,19.751,39.893,23.651,,True,False,8393.904,20,São Paulo Grand Prix
+ZHO,1.0,146.873,1.0,SOFT,1.0,124,False,Alfa Romeo,True,14.0,,71.207,45.316,,True,False,3890.022,20,São Paulo Grand Prix
+ZHO,2.0,144.885,2.0,SOFT,2.0,45,False,Alfa Romeo,False,13.0,38.882,59.66,46.343,,True,True,4034.907,20,São Paulo Grand Prix
+ZHO,3.0,,3.0,SOFT,1.0,1,False,Alfa Romeo,True,13.0,,43.079,71.589,,False,True,5588.017,20,São Paulo Grand Prix
+ZHO,4.0,81.539,3.0,SOFT,2.0,1,True,Alfa Romeo,True,14.0,23.222,40.949,17.368,,False,False,5669.556,20,São Paulo Grand Prix
+ZHO,5.0,78.239,3.0,SOFT,3.0,1,True,Alfa Romeo,True,14.0,20.366,40.294,17.579,,False,False,5747.795,20,São Paulo Grand Prix
+ZHO,6.0,77.289,3.0,SOFT,4.0,1,True,Alfa Romeo,True,14.0,19.817,40.046,17.426,,False,False,5825.084,20,São Paulo Grand Prix
+ZHO,7.0,77.106,3.0,SOFT,5.0,1,True,Alfa Romeo,True,14.0,19.73,39.991,17.385,,False,False,5902.19,20,São Paulo Grand Prix
+ZHO,8.0,76.881,3.0,SOFT,6.0,1,True,Alfa Romeo,True,14.0,19.702,39.625,17.554,,False,False,5979.071,20,São Paulo Grand Prix
+ZHO,9.0,76.977,3.0,SOFT,7.0,1,True,Alfa Romeo,True,14.0,19.599,39.84,17.538,,False,False,6056.048,20,São Paulo Grand Prix
+ZHO,10.0,76.752,3.0,SOFT,8.0,1,True,Alfa Romeo,True,14.0,19.527,39.606,17.619,,False,False,6132.8,20,São Paulo Grand Prix
+ZHO,11.0,77.043,3.0,SOFT,9.0,1,True,Alfa Romeo,True,14.0,19.715,39.907,17.421,,False,False,6209.843,20,São Paulo Grand Prix
+ZHO,12.0,77.567,3.0,SOFT,10.0,1,True,Alfa Romeo,True,14.0,19.99,40.186,17.391,,False,False,6287.41,20,São Paulo Grand Prix
+ZHO,13.0,77.642,3.0,SOFT,11.0,1,True,Alfa Romeo,True,13.0,20.028,39.691,17.923,,False,False,6365.052,20,São Paulo Grand Prix
+ZHO,14.0,77.484,3.0,SOFT,12.0,1,True,Alfa Romeo,True,12.0,19.964,39.786,17.734,,False,False,6442.536,20,São Paulo Grand Prix
+ZHO,15.0,81.661,3.0,SOFT,13.0,1,False,Alfa Romeo,True,13.0,19.922,39.705,22.034,,True,False,6524.197,20,São Paulo Grand Prix
+ZHO,16.0,94.953,4.0,MEDIUM,1.0,1,False,Alfa Romeo,True,15.0,38.301,38.999,17.653,,False,True,6619.15,20,São Paulo Grand Prix
+ZHO,17.0,76.232,4.0,MEDIUM,2.0,1,True,Alfa Romeo,True,15.0,19.873,38.707,17.652,,False,False,6695.382,20,São Paulo Grand Prix
+ZHO,18.0,76.639,4.0,MEDIUM,3.0,1,True,Alfa Romeo,True,14.0,19.946,38.978,17.715,,False,False,6772.021,20,São Paulo Grand Prix
+ZHO,19.0,77.406,4.0,MEDIUM,4.0,1,True,Alfa Romeo,True,14.0,20.049,39.332,18.025,,False,False,6849.427,20,São Paulo Grand Prix
+ZHO,20.0,76.914,4.0,MEDIUM,5.0,1,True,Alfa Romeo,True,14.0,19.922,39.35,17.642,,False,False,6926.341,20,São Paulo Grand Prix
+ZHO,21.0,76.767,4.0,MEDIUM,6.0,1,True,Alfa Romeo,True,14.0,19.84,39.276,17.651,,False,False,7003.108,20,São Paulo Grand Prix
+ZHO,22.0,90.346,4.0,MEDIUM,7.0,1,False,Alfa Romeo,True,14.0,19.797,39.257,31.292,,True,False,7093.454,20,São Paulo Grand Prix
+MAG,1.0,,1.0,SOFT,1.0,124,False,Haas F1 Team,True,,,,,,False,False,3862.976,20,São Paulo Grand Prix
+ALB,1.0,,1.0,SOFT,4.0,124,False,Williams,False,,,,,,False,False,3862.976,20,São Paulo Grand Prix

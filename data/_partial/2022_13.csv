@@ -1,0 +1,1384 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,96.512,1.0,SOFT,2.0,126,False,Red Bull Racing,False,8.0,,32.843,26.532,,False,False,3822.55,13,Hungarian Grand Prix
+VER,2.0,114.46,1.0,SOFT,3.0,6,False,Red Bull Racing,False,8.0,48.472,33.956,32.032,,False,False,3937.01,13,Hungarian Grand Prix
+VER,3.0,88.191,1.0,SOFT,4.0,671,False,Red Bull Racing,False,8.0,33.699,30.743,23.749,,False,False,4025.201,13,Hungarian Grand Prix
+VER,4.0,85.058,1.0,SOFT,5.0,1,True,Red Bull Racing,False,8.0,30.148,31.114,23.796,,False,False,4110.259,13,Hungarian Grand Prix
+VER,5.0,84.121,1.0,SOFT,6.0,1,True,Red Bull Racing,False,7.0,29.811,30.698,23.612,,False,False,4194.38,13,Hungarian Grand Prix
+VER,6.0,84.804,1.0,SOFT,7.0,1,True,Red Bull Racing,False,7.0,29.825,31.013,23.966,,False,False,4279.184,13,Hungarian Grand Prix
+VER,7.0,84.079,1.0,SOFT,8.0,1,True,Red Bull Racing,False,6.0,29.722,30.642,23.715,,False,False,4363.263,13,Hungarian Grand Prix
+VER,8.0,84.156,1.0,SOFT,9.0,1,True,Red Bull Racing,False,6.0,29.928,30.448,23.78,,False,False,4447.419,13,Hungarian Grand Prix
+VER,9.0,84.097,1.0,SOFT,10.0,1,True,Red Bull Racing,False,6.0,29.97,30.455,23.672,,False,False,4531.516,13,Hungarian Grand Prix
+VER,10.0,84.566,1.0,SOFT,11.0,1,True,Red Bull Racing,False,6.0,30.008,30.715,23.843,,False,False,4616.082,13,Hungarian Grand Prix
+VER,11.0,85.356,1.0,SOFT,12.0,1,True,Red Bull Racing,False,6.0,29.826,31.479,24.051,,False,False,4701.438,13,Hungarian Grand Prix
+VER,12.0,84.605,1.0,SOFT,13.0,1,True,Red Bull Racing,False,5.0,29.842,31.033,23.73,,False,False,4786.043,13,Hungarian Grand Prix
+VER,13.0,84.529,1.0,SOFT,14.0,1,True,Red Bull Racing,False,5.0,30.151,30.513,23.865,,False,False,4870.572,13,Hungarian Grand Prix
+VER,14.0,84.68,1.0,SOFT,15.0,1,True,Red Bull Racing,False,5.0,30.068,30.601,24.011,,False,False,4955.252,13,Hungarian Grand Prix
+VER,15.0,84.647,1.0,SOFT,16.0,1,True,Red Bull Racing,False,5.0,30.093,30.693,23.861,,False,False,5039.899,13,Hungarian Grand Prix
+VER,16.0,87.314,1.0,SOFT,17.0,1,False,Red Bull Racing,False,5.0,30.047,31.112,26.155,,True,False,5127.213,13,Hungarian Grand Prix
+VER,17.0,100.172,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,8.0,47.824,29.289,23.059,,False,True,5227.385,13,Hungarian Grand Prix
+VER,18.0,83.082,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,8.0,29.74,29.957,23.385,,False,False,5310.467,13,Hungarian Grand Prix
+VER,19.0,83.471,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,7.0,29.787,30.251,23.433,,False,False,5393.938,13,Hungarian Grand Prix
+VER,20.0,83.954,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,5.0,29.494,30.838,23.622,,False,False,5477.892,13,Hungarian Grand Prix
+VER,21.0,83.105,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,4.0,29.504,30.151,23.45,,False,False,5560.997,13,Hungarian Grand Prix
+VER,22.0,83.184,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,4.0,29.715,30.047,23.422,,False,False,5644.181,13,Hungarian Grand Prix
+VER,23.0,83.489,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,4.0,29.703,30.369,23.417,,False,False,5727.67,13,Hungarian Grand Prix
+VER,24.0,83.775,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,4.0,29.633,30.261,23.881,,False,False,5811.445,13,Hungarian Grand Prix
+VER,25.0,83.543,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,4.0,29.761,30.142,23.64,,False,False,5894.988,13,Hungarian Grand Prix
+VER,26.0,83.72,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,4.0,29.793,30.437,23.49,,False,False,5978.708,13,Hungarian Grand Prix
+VER,27.0,83.565,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,4.0,29.82,30.2,23.545,,False,False,6062.273,13,Hungarian Grand Prix
+VER,28.0,83.691,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,4.0,29.822,30.271,23.598,,False,False,6145.964,13,Hungarian Grand Prix
+VER,29.0,84.173,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,4.0,30.207,30.343,23.623,,False,False,6230.137,13,Hungarian Grand Prix
+VER,30.0,83.84,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,4.0,29.958,30.191,23.691,,False,False,6313.977,13,Hungarian Grand Prix
+VER,31.0,83.728,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,4.0,29.798,30.373,23.557,,False,False,6397.705,13,Hungarian Grand Prix
+VER,32.0,84.331,2.0,MEDIUM,16.0,1,True,Red Bull Racing,True,4.0,29.823,30.762,23.746,,False,False,6482.036,13,Hungarian Grand Prix
+VER,33.0,83.709,2.0,MEDIUM,17.0,1,True,Red Bull Racing,True,4.0,29.827,30.276,23.606,,False,False,6565.745,13,Hungarian Grand Prix
+VER,34.0,83.507,2.0,MEDIUM,18.0,1,True,Red Bull Racing,True,4.0,29.685,30.275,23.547,,False,False,6649.252,13,Hungarian Grand Prix
+VER,35.0,83.591,2.0,MEDIUM,19.0,12,True,Red Bull Racing,True,4.0,29.434,30.382,23.775,,False,False,6732.843,13,Hungarian Grand Prix
+VER,36.0,83.777,2.0,MEDIUM,20.0,1,True,Red Bull Racing,True,4.0,29.884,30.294,23.599,,False,False,6816.62,13,Hungarian Grand Prix
+VER,37.0,84.112,2.0,MEDIUM,21.0,1,True,Red Bull Racing,True,4.0,29.92,30.489,23.703,,False,False,6900.732,13,Hungarian Grand Prix
+VER,38.0,86.363,2.0,MEDIUM,22.0,1,False,Red Bull Racing,True,4.0,29.903,30.662,25.798,,True,False,6987.095,13,Hungarian Grand Prix
+VER,39.0,99.455,3.0,MEDIUM,1.0,1,False,Red Bull Racing,True,6.0,47.453,29.088,22.914,,False,True,7086.55,13,Hungarian Grand Prix
+VER,40.0,82.789,3.0,MEDIUM,2.0,1,True,Red Bull Racing,True,4.0,29.426,30.099,23.264,,False,False,7169.339,13,Hungarian Grand Prix
+VER,41.0,86.874,3.0,MEDIUM,3.0,12,True,Red Bull Racing,True,4.0,29.689,29.737,27.448,,False,False,7256.213,13,Hungarian Grand Prix
+VER,42.0,83.031,3.0,MEDIUM,4.0,1,True,Red Bull Racing,True,4.0,30.091,29.902,23.038,,False,False,7339.244,13,Hungarian Grand Prix
+VER,43.0,82.128,3.0,MEDIUM,5.0,1,True,Red Bull Racing,True,4.0,29.481,29.66,22.987,,False,False,7421.372,13,Hungarian Grand Prix
+VER,44.0,82.65,3.0,MEDIUM,6.0,1,True,Red Bull Racing,True,4.0,29.323,30.127,23.2,,False,False,7504.022,13,Hungarian Grand Prix
+VER,45.0,82.126,3.0,MEDIUM,7.0,1,True,Red Bull Racing,True,3.0,29.234,29.62,23.272,,False,False,7586.148,13,Hungarian Grand Prix
+VER,46.0,82.754,3.0,MEDIUM,8.0,1,True,Red Bull Racing,True,3.0,29.829,29.759,23.166,,False,False,7668.902,13,Hungarian Grand Prix
+VER,47.0,82.646,3.0,MEDIUM,9.0,1,True,Red Bull Racing,True,3.0,29.602,29.833,23.211,,False,False,7751.548,13,Hungarian Grand Prix
+VER,48.0,83.177,3.0,MEDIUM,10.0,12,True,Red Bull Racing,True,2.0,29.819,29.903,23.455,,False,False,7834.725,13,Hungarian Grand Prix
+VER,49.0,83.373,3.0,MEDIUM,11.0,1,True,Red Bull Racing,True,2.0,29.562,30.14,23.671,,False,False,7918.098,13,Hungarian Grand Prix
+VER,50.0,83.098,3.0,MEDIUM,12.0,1,True,Red Bull Racing,True,2.0,29.642,29.983,23.473,,False,False,8001.196,13,Hungarian Grand Prix
+VER,51.0,82.846,3.0,MEDIUM,13.0,1,True,Red Bull Racing,True,1.0,29.67,29.876,23.3,,False,False,8084.042,13,Hungarian Grand Prix
+VER,52.0,82.586,3.0,MEDIUM,14.0,1,True,Red Bull Racing,True,1.0,29.548,29.781,23.257,,False,False,8166.628,13,Hungarian Grand Prix
+VER,53.0,82.708,3.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,29.63,29.817,23.261,,False,False,8249.336,13,Hungarian Grand Prix
+VER,54.0,82.777,3.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,29.467,29.917,23.393,,False,False,8332.113,13,Hungarian Grand Prix
+VER,55.0,83.01,3.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,29.613,30.075,23.322,,False,False,8415.123,13,Hungarian Grand Prix
+VER,56.0,83.013,3.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,29.536,30.092,23.385,,False,False,8498.136,13,Hungarian Grand Prix
+VER,57.0,82.827,3.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,29.637,29.949,23.241,,False,False,8580.963,13,Hungarian Grand Prix
+VER,58.0,82.868,3.0,MEDIUM,20.0,1,True,Red Bull Racing,True,1.0,29.526,29.945,23.397,,False,False,8663.831,13,Hungarian Grand Prix
+VER,59.0,83.074,3.0,MEDIUM,21.0,1,True,Red Bull Racing,True,1.0,29.698,30.141,23.235,,False,False,8746.905,13,Hungarian Grand Prix
+VER,60.0,82.732,3.0,MEDIUM,22.0,1,True,Red Bull Racing,True,1.0,29.637,29.727,23.368,,False,False,8829.637,13,Hungarian Grand Prix
+VER,61.0,82.831,3.0,MEDIUM,23.0,1,True,Red Bull Racing,True,1.0,29.589,29.927,23.315,,False,False,8912.468,13,Hungarian Grand Prix
+VER,62.0,83.454,3.0,MEDIUM,24.0,1,True,Red Bull Racing,True,1.0,29.688,30.183,23.583,,False,False,8995.922,13,Hungarian Grand Prix
+VER,63.0,83.01,3.0,MEDIUM,25.0,1,True,Red Bull Racing,True,1.0,29.575,29.977,23.458,,False,False,9078.932,13,Hungarian Grand Prix
+VER,64.0,82.978,3.0,MEDIUM,26.0,1,True,Red Bull Racing,True,1.0,29.573,29.944,23.461,,False,False,9161.91,13,Hungarian Grand Prix
+VER,65.0,82.667,3.0,MEDIUM,27.0,1,True,Red Bull Racing,True,1.0,29.559,29.749,23.359,,False,False,9244.577,13,Hungarian Grand Prix
+VER,66.0,83.097,3.0,MEDIUM,28.0,1,True,Red Bull Racing,True,1.0,29.571,29.989,23.537,,False,False,9327.674,13,Hungarian Grand Prix
+VER,67.0,83.287,3.0,MEDIUM,29.0,1,True,Red Bull Racing,True,1.0,29.763,29.962,23.562,,False,False,9410.961,13,Hungarian Grand Prix
+VER,68.0,97.167,3.0,MEDIUM,30.0,126,False,Red Bull Racing,True,1.0,29.914,37.5,29.753,,False,False,9508.128,13,Hungarian Grand Prix
+VER,69.0,105.578,3.0,MEDIUM,31.0,671,False,Red Bull Racing,True,1.0,42.151,37.876,25.551,,False,False,9613.706,13,Hungarian Grand Prix
+VER,70.0,88.244,3.0,MEDIUM,32.0,1,True,Red Bull Racing,True,1.0,31.18,31.977,25.087,,False,False,9701.95,13,Hungarian Grand Prix
+GAS,1.0,112.432,1.0,SOFT,1.0,126,False,AlphaTauri,True,20.0,,33.698,36.952,,False,True,3838.47,13,Hungarian Grand Prix
+GAS,2.0,109.869,1.0,SOFT,2.0,67,False,AlphaTauri,True,20.0,46.231,34.367,29.271,,False,False,3948.339,13,Hungarian Grand Prix
+GAS,3.0,87.57,1.0,SOFT,3.0,71,False,AlphaTauri,True,19.0,31.769,31.588,24.213,,False,False,4035.909,13,Hungarian Grand Prix
+GAS,4.0,86.024,1.0,SOFT,4.0,1,True,AlphaTauri,True,19.0,30.397,31.694,23.933,,False,False,4121.933,13,Hungarian Grand Prix
+GAS,5.0,85.906,1.0,SOFT,5.0,1,True,AlphaTauri,True,19.0,30.456,31.362,24.088,,False,False,4207.839,13,Hungarian Grand Prix
+GAS,6.0,85.562,1.0,SOFT,6.0,1,True,AlphaTauri,True,19.0,30.317,31.163,24.082,,False,False,4293.401,13,Hungarian Grand Prix
+GAS,7.0,85.757,1.0,SOFT,7.0,1,True,AlphaTauri,True,18.0,30.502,31.292,23.963,,False,False,4379.158,13,Hungarian Grand Prix
+GAS,8.0,85.562,1.0,SOFT,8.0,1,True,AlphaTauri,True,18.0,30.205,31.291,24.066,,False,False,4464.72,13,Hungarian Grand Prix
+GAS,9.0,85.044,1.0,SOFT,9.0,1,True,AlphaTauri,True,17.0,30.311,30.8,23.933,,False,False,4549.764,13,Hungarian Grand Prix
+GAS,10.0,85.329,1.0,SOFT,10.0,1,True,AlphaTauri,True,17.0,30.45,30.907,23.972,,False,False,4635.093,13,Hungarian Grand Prix
+GAS,11.0,86.003,1.0,SOFT,11.0,1,True,AlphaTauri,True,17.0,30.412,31.403,24.188,,False,False,4721.096,13,Hungarian Grand Prix
+GAS,12.0,86.083,1.0,SOFT,12.0,1,True,AlphaTauri,True,17.0,30.479,31.256,24.348,,False,False,4807.179,13,Hungarian Grand Prix
+GAS,13.0,86.939,1.0,SOFT,13.0,1,True,AlphaTauri,True,16.0,30.515,31.918,24.506,,False,False,4894.118,13,Hungarian Grand Prix
+GAS,14.0,86.566,1.0,SOFT,14.0,1,True,AlphaTauri,True,16.0,30.359,31.715,24.492,,False,False,4980.684,13,Hungarian Grand Prix
+GAS,15.0,86.802,1.0,SOFT,15.0,1,True,AlphaTauri,True,14.0,30.544,31.803,24.455,,False,False,5067.486,13,Hungarian Grand Prix
+GAS,16.0,89.403,1.0,SOFT,16.0,1,False,AlphaTauri,True,13.0,30.665,31.735,27.003,,True,False,5156.889,13,Hungarian Grand Prix
+GAS,17.0,105.484,2.0,MEDIUM,1.0,1,False,AlphaTauri,True,20.0,49.8,31.7,23.984,,False,True,5262.373,13,Hungarian Grand Prix
+GAS,18.0,85.036,2.0,MEDIUM,2.0,1,True,AlphaTauri,True,20.0,30.435,30.977,23.624,,False,False,5347.409,13,Hungarian Grand Prix
+GAS,19.0,85.517,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,19.0,30.205,31.381,23.931,,False,False,5432.926,13,Hungarian Grand Prix
+GAS,20.0,84.847,2.0,MEDIUM,4.0,1,True,AlphaTauri,True,18.0,29.864,30.818,24.165,,False,False,5517.773,13,Hungarian Grand Prix
+GAS,21.0,85.204,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,17.0,30.354,30.919,23.931,,False,False,5602.977,13,Hungarian Grand Prix
+GAS,22.0,85.024,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,17.0,29.86,31.076,24.088,,False,False,5688.001,13,Hungarian Grand Prix
+GAS,23.0,86.128,2.0,MEDIUM,7.0,1,True,AlphaTauri,True,17.0,30.396,31.566,24.166,,False,False,5774.129,13,Hungarian Grand Prix
+GAS,24.0,84.522,2.0,MEDIUM,8.0,1,True,AlphaTauri,True,16.0,29.857,30.721,23.944,,False,False,5858.651,13,Hungarian Grand Prix
+GAS,25.0,84.743,2.0,MEDIUM,9.0,1,True,AlphaTauri,True,16.0,30.026,30.822,23.895,,False,False,5943.394,13,Hungarian Grand Prix
+GAS,26.0,84.884,2.0,MEDIUM,10.0,1,True,AlphaTauri,True,15.0,30.012,31.072,23.8,,False,False,6028.278,13,Hungarian Grand Prix
+GAS,27.0,85.137,2.0,MEDIUM,11.0,1,True,AlphaTauri,True,14.0,30.352,31.035,23.75,,False,False,6113.415,13,Hungarian Grand Prix
+GAS,28.0,84.941,2.0,MEDIUM,12.0,1,True,AlphaTauri,True,13.0,30.16,31.004,23.777,,False,False,6198.356,13,Hungarian Grand Prix
+GAS,29.0,84.81,2.0,MEDIUM,13.0,1,True,AlphaTauri,True,13.0,30.28,30.824,23.706,,False,False,6283.166,13,Hungarian Grand Prix
+GAS,30.0,85.053,2.0,MEDIUM,14.0,1,True,AlphaTauri,True,13.0,30.167,30.786,24.1,,False,False,6368.219,13,Hungarian Grand Prix
+GAS,31.0,84.634,2.0,MEDIUM,15.0,1,True,AlphaTauri,True,13.0,30.222,30.645,23.767,,False,False,6452.853,13,Hungarian Grand Prix
+GAS,32.0,84.874,2.0,MEDIUM,16.0,1,True,AlphaTauri,True,13.0,30.083,30.756,24.035,,False,False,6537.727,13,Hungarian Grand Prix
+GAS,33.0,84.992,2.0,MEDIUM,17.0,1,True,AlphaTauri,True,13.0,30.128,30.955,23.909,,False,False,6622.719,13,Hungarian Grand Prix
+GAS,34.0,84.67,2.0,MEDIUM,18.0,12,True,AlphaTauri,True,13.0,30.035,30.843,23.792,,False,False,6707.389,13,Hungarian Grand Prix
+GAS,35.0,84.827,2.0,MEDIUM,19.0,21,True,AlphaTauri,True,13.0,29.997,31.025,23.805,,False,False,6792.216,13,Hungarian Grand Prix
+GAS,36.0,84.665,2.0,MEDIUM,20.0,1,True,AlphaTauri,True,13.0,30.097,30.895,23.673,,False,False,6876.881,13,Hungarian Grand Prix
+GAS,37.0,84.869,2.0,MEDIUM,21.0,1,True,AlphaTauri,True,13.0,30.374,30.804,23.691,,False,False,6961.75,13,Hungarian Grand Prix
+GAS,38.0,85.194,2.0,MEDIUM,22.0,1,True,AlphaTauri,True,13.0,30.278,31.109,23.807,,False,False,7046.944,13,Hungarian Grand Prix
+GAS,39.0,84.876,2.0,MEDIUM,23.0,1,True,AlphaTauri,True,13.0,30.234,30.881,23.761,,False,False,7131.82,13,Hungarian Grand Prix
+GAS,40.0,84.77,2.0,MEDIUM,24.0,1,True,AlphaTauri,True,13.0,30.033,30.886,23.851,,False,False,7216.59,13,Hungarian Grand Prix
+GAS,41.0,85.064,2.0,MEDIUM,25.0,12,True,AlphaTauri,True,13.0,30.252,31.096,23.716,,False,False,7301.654,13,Hungarian Grand Prix
+GAS,42.0,85.092,2.0,MEDIUM,26.0,1,True,AlphaTauri,True,13.0,30.151,31.042,23.899,,False,False,7386.746,13,Hungarian Grand Prix
+GAS,43.0,84.913,2.0,MEDIUM,27.0,1,True,AlphaTauri,True,13.0,30.249,30.852,23.812,,False,False,7471.659,13,Hungarian Grand Prix
+GAS,44.0,85.029,2.0,MEDIUM,28.0,1,True,AlphaTauri,True,13.0,30.037,31.051,23.941,,False,False,7556.688,13,Hungarian Grand Prix
+GAS,45.0,85.473,2.0,MEDIUM,29.0,1,True,AlphaTauri,True,13.0,30.269,31.214,23.99,,False,False,7642.161,13,Hungarian Grand Prix
+GAS,46.0,87.566,2.0,MEDIUM,30.0,1,False,AlphaTauri,True,14.0,30.164,31.098,26.304,,True,False,7729.727,13,Hungarian Grand Prix
+GAS,47.0,103.081,3.0,SOFT,1.0,12,False,AlphaTauri,True,15.0,48.579,30.981,23.521,,False,True,7832.808,13,Hungarian Grand Prix
+GAS,48.0,85.816,3.0,SOFT,2.0,1,True,AlphaTauri,True,15.0,29.952,30.674,25.19,,False,False,7918.624,13,Hungarian Grand Prix
+GAS,49.0,87.725,3.0,SOFT,3.0,1,True,AlphaTauri,True,15.0,30.378,31.711,25.636,,False,False,8006.349,13,Hungarian Grand Prix
+GAS,50.0,85.848,3.0,SOFT,4.0,1,True,AlphaTauri,True,15.0,29.963,31.96,23.925,,False,False,8092.197,13,Hungarian Grand Prix
+GAS,51.0,83.488,3.0,SOFT,5.0,1,True,AlphaTauri,True,14.0,29.74,30.337,23.411,,False,False,8175.685,13,Hungarian Grand Prix
+GAS,52.0,85.27,3.0,SOFT,6.0,1,True,AlphaTauri,True,14.0,29.866,30.856,24.548,,False,False,8260.955,13,Hungarian Grand Prix
+GAS,53.0,83.646,3.0,SOFT,7.0,1,True,AlphaTauri,True,14.0,29.588,30.343,23.715,,False,False,8344.601,13,Hungarian Grand Prix
+GAS,54.0,83.463,3.0,SOFT,8.0,1,True,AlphaTauri,True,14.0,29.836,30.25,23.377,,False,False,8428.064,13,Hungarian Grand Prix
+GAS,55.0,83.538,3.0,SOFT,9.0,1,True,AlphaTauri,True,13.0,29.784,30.305,23.449,,False,False,8511.602,13,Hungarian Grand Prix
+GAS,56.0,83.243,3.0,SOFT,10.0,1,True,AlphaTauri,True,13.0,29.644,30.214,23.385,,False,False,8594.845,13,Hungarian Grand Prix
+GAS,57.0,85.603,3.0,SOFT,11.0,1,True,AlphaTauri,True,13.0,29.943,31.972,23.688,,False,False,8680.448,13,Hungarian Grand Prix
+GAS,58.0,83.199,3.0,SOFT,12.0,1,True,AlphaTauri,True,13.0,29.615,30.141,23.443,,False,False,8763.647,13,Hungarian Grand Prix
+GAS,59.0,83.253,3.0,SOFT,13.0,1,True,AlphaTauri,True,13.0,29.655,30.048,23.55,,False,False,8846.9,13,Hungarian Grand Prix
+GAS,60.0,83.425,3.0,SOFT,14.0,1,True,AlphaTauri,True,13.0,29.652,30.341,23.432,,False,False,8930.325,13,Hungarian Grand Prix
+GAS,61.0,83.717,3.0,SOFT,15.0,1,True,AlphaTauri,True,13.0,29.688,30.321,23.708,,False,False,9014.042,13,Hungarian Grand Prix
+GAS,62.0,83.955,3.0,SOFT,16.0,1,True,AlphaTauri,True,13.0,29.874,30.374,23.707,,False,False,9097.997,13,Hungarian Grand Prix
+GAS,63.0,83.964,3.0,SOFT,17.0,1,True,AlphaTauri,True,13.0,29.823,30.346,23.795,,False,False,9181.961,13,Hungarian Grand Prix
+GAS,64.0,86.589,3.0,SOFT,18.0,1,True,AlphaTauri,True,13.0,30.799,31.802,23.988,,False,False,9268.55,13,Hungarian Grand Prix
+GAS,65.0,85.989,3.0,SOFT,19.0,1,True,AlphaTauri,True,13.0,30.721,31.224,24.044,,False,False,9354.539,13,Hungarian Grand Prix
+GAS,66.0,85.187,3.0,SOFT,20.0,12,True,AlphaTauri,True,12.0,29.775,31.264,24.148,,False,False,9439.726,13,Hungarian Grand Prix
+GAS,67.0,107.355,3.0,SOFT,21.0,26,False,AlphaTauri,True,12.0,35.15,39.803,32.402,,False,False,9547.081,13,Hungarian Grand Prix
+GAS,68.0,97.587,3.0,SOFT,22.0,671,False,AlphaTauri,True,12.0,39.486,33.1,25.001,,False,False,9644.668,13,Hungarian Grand Prix
+GAS,69.0,89.072,3.0,SOFT,23.0,1,True,AlphaTauri,True,12.0,30.797,32.843,25.432,,False,False,9733.74,13,Hungarian Grand Prix
+PER,1.0,98.691,1.0,SOFT,1.0,126,False,Red Bull Racing,True,9.0,,33.526,28.125,,False,False,3824.729,13,Hungarian Grand Prix
+PER,2.0,114.989,1.0,SOFT,2.0,6,False,Red Bull Racing,True,9.0,47.554,35.382,32.053,,False,False,3939.718,13,Hungarian Grand Prix
+PER,3.0,86.519,1.0,SOFT,3.0,671,False,Red Bull Racing,True,9.0,32.229,30.7,23.59,,False,False,4026.237,13,Hungarian Grand Prix
+PER,4.0,84.689,1.0,SOFT,4.0,1,True,Red Bull Racing,True,9.0,29.887,30.923,23.879,,False,False,4110.926,13,Hungarian Grand Prix
+PER,5.0,85.039,1.0,SOFT,5.0,1,True,Red Bull Racing,True,9.0,30.046,31.166,23.827,,False,False,4195.965,13,Hungarian Grand Prix
+PER,6.0,85.012,1.0,SOFT,6.0,1,True,Red Bull Racing,True,9.0,29.885,31.302,23.825,,False,False,4280.977,13,Hungarian Grand Prix
+PER,7.0,84.863,1.0,SOFT,7.0,1,True,Red Bull Racing,True,8.0,30.32,30.79,23.753,,False,False,4365.84,13,Hungarian Grand Prix
+PER,8.0,85.016,1.0,SOFT,8.0,1,True,Red Bull Racing,True,8.0,29.916,31.094,24.006,,False,False,4450.856,13,Hungarian Grand Prix
+PER,9.0,84.025,1.0,SOFT,9.0,1,True,Red Bull Racing,True,7.0,29.923,30.383,23.719,,False,False,4534.881,13,Hungarian Grand Prix
+PER,10.0,84.655,1.0,SOFT,10.0,1,True,Red Bull Racing,True,7.0,30.26,30.713,23.682,,False,False,4619.536,13,Hungarian Grand Prix
+PER,11.0,84.095,1.0,SOFT,11.0,1,True,Red Bull Racing,True,7.0,29.926,30.548,23.621,,False,False,4703.631,13,Hungarian Grand Prix
+PER,12.0,84.784,1.0,SOFT,12.0,1,True,Red Bull Racing,True,7.0,30.165,30.592,24.027,,False,False,4788.415,13,Hungarian Grand Prix
+PER,13.0,84.494,1.0,SOFT,13.0,1,True,Red Bull Racing,True,6.0,29.793,30.737,23.964,,False,False,4872.909,13,Hungarian Grand Prix
+PER,14.0,85.443,1.0,SOFT,14.0,1,True,Red Bull Racing,True,6.0,30.377,30.962,24.104,,False,False,4958.352,13,Hungarian Grand Prix
+PER,15.0,84.998,1.0,SOFT,15.0,1,True,Red Bull Racing,True,6.0,30.073,30.839,24.086,,False,False,5043.35,13,Hungarian Grand Prix
+PER,16.0,85.322,1.0,SOFT,16.0,1,True,Red Bull Racing,True,6.0,30.232,31.04,24.05,,False,False,5128.672,13,Hungarian Grand Prix
+PER,17.0,85.58,1.0,SOFT,17.0,1,True,Red Bull Racing,True,4.0,30.348,31.257,23.975,,False,False,5214.252,13,Hungarian Grand Prix
+PER,18.0,88.03,1.0,SOFT,18.0,1,False,Red Bull Racing,True,3.0,30.368,31.211,26.451,,True,False,5302.282,13,Hungarian Grand Prix
+PER,19.0,103.097,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,10.0,47.948,31.332,23.817,,False,True,5405.379,13,Hungarian Grand Prix
+PER,20.0,85.547,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,9.0,30.154,31.183,24.21,,False,False,5490.926,13,Hungarian Grand Prix
+PER,21.0,84.239,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,8.0,30.032,30.617,23.59,,False,False,5575.165,13,Hungarian Grand Prix
+PER,22.0,83.998,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,7.0,30.273,30.293,23.432,,False,False,5659.163,13,Hungarian Grand Prix
+PER,23.0,83.418,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,7.0,29.893,30.142,23.383,,False,False,5742.581,13,Hungarian Grand Prix
+PER,24.0,83.391,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,6.0,29.759,30.081,23.551,,False,False,5825.972,13,Hungarian Grand Prix
+PER,25.0,83.551,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,6.0,29.876,30.187,23.488,,False,False,5909.523,13,Hungarian Grand Prix
+PER,26.0,83.372,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,6.0,29.753,30.186,23.433,,False,False,5992.895,13,Hungarian Grand Prix
+PER,27.0,83.853,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,6.0,29.827,30.414,23.612,,False,False,6076.748,13,Hungarian Grand Prix
+PER,28.0,83.453,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,6.0,29.931,30.092,23.43,,False,False,6160.201,13,Hungarian Grand Prix
+PER,29.0,84.209,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,6.0,30.183,30.584,23.442,,False,False,6244.41,13,Hungarian Grand Prix
+PER,30.0,83.81,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,6.0,29.911,30.247,23.652,,False,False,6328.22,13,Hungarian Grand Prix
+PER,31.0,83.795,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,6.0,29.919,30.222,23.654,,False,False,6412.015,13,Hungarian Grand Prix
+PER,32.0,84.199,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,6.0,29.722,30.597,23.88,,False,False,6496.214,13,Hungarian Grand Prix
+PER,33.0,83.995,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,6.0,30.043,30.535,23.417,,False,False,6580.209,13,Hungarian Grand Prix
+PER,34.0,83.695,2.0,MEDIUM,16.0,1,True,Red Bull Racing,True,6.0,29.845,30.203,23.647,,False,False,6663.904,13,Hungarian Grand Prix
+PER,35.0,83.9,2.0,MEDIUM,17.0,12,True,Red Bull Racing,True,6.0,29.824,30.493,23.583,,False,False,6747.804,13,Hungarian Grand Prix
+PER,36.0,83.854,2.0,MEDIUM,18.0,1,True,Red Bull Racing,True,6.0,29.897,30.376,23.581,,False,False,6831.658,13,Hungarian Grand Prix
+PER,37.0,84.096,2.0,MEDIUM,19.0,1,True,Red Bull Racing,True,6.0,30.045,30.552,23.499,,False,False,6915.754,13,Hungarian Grand Prix
+PER,38.0,84.026,2.0,MEDIUM,20.0,1,True,Red Bull Racing,True,6.0,29.926,30.591,23.509,,False,False,6999.78,13,Hungarian Grand Prix
+PER,39.0,84.485,2.0,MEDIUM,21.0,1,True,Red Bull Racing,True,5.0,30.041,30.656,23.788,,False,False,7084.265,13,Hungarian Grand Prix
+PER,40.0,86.716,2.0,MEDIUM,22.0,1,True,Red Bull Racing,True,5.0,30.135,31.381,25.2,,False,False,7170.981,13,Hungarian Grand Prix
+PER,41.0,85.636,2.0,MEDIUM,23.0,12,True,Red Bull Racing,True,5.0,30.59,30.764,24.282,,False,False,7256.617,13,Hungarian Grand Prix
+PER,42.0,88.801,2.0,MEDIUM,24.0,1,False,Red Bull Racing,True,6.0,30.777,31.769,26.255,,True,False,7345.418,13,Hungarian Grand Prix
+PER,43.0,102.554,3.0,MEDIUM,1.0,1,False,Red Bull Racing,True,6.0,48.463,31.001,23.09,,False,True,7447.972,13,Hungarian Grand Prix
+PER,44.0,81.94,3.0,MEDIUM,2.0,1,True,Red Bull Racing,True,6.0,29.543,29.554,22.843,,False,False,7529.912,13,Hungarian Grand Prix
+PER,45.0,82.555,3.0,MEDIUM,3.0,1,True,Red Bull Racing,True,6.0,29.632,29.855,23.068,,False,False,7612.467,13,Hungarian Grand Prix
+PER,46.0,82.742,3.0,MEDIUM,4.0,1,True,Red Bull Racing,True,6.0,29.567,29.933,23.242,,False,False,7695.209,13,Hungarian Grand Prix
+PER,47.0,82.97,3.0,MEDIUM,5.0,12,True,Red Bull Racing,True,6.0,29.762,30.007,23.201,,False,False,7778.179,13,Hungarian Grand Prix
+PER,48.0,82.839,3.0,MEDIUM,6.0,1,True,Red Bull Racing,True,6.0,29.526,30.001,23.312,,False,False,7861.018,13,Hungarian Grand Prix
+PER,49.0,82.679,3.0,MEDIUM,7.0,1,True,Red Bull Racing,True,6.0,29.664,29.805,23.21,,False,False,7943.697,13,Hungarian Grand Prix
+PER,50.0,82.991,3.0,MEDIUM,8.0,1,True,Red Bull Racing,True,6.0,29.63,29.862,23.499,,False,False,8026.688,13,Hungarian Grand Prix
+PER,51.0,83.015,3.0,MEDIUM,9.0,1,True,Red Bull Racing,True,6.0,29.787,29.996,23.232,,False,False,8109.703,13,Hungarian Grand Prix
+PER,52.0,82.838,3.0,MEDIUM,10.0,1,True,Red Bull Racing,True,6.0,29.732,29.971,23.135,,False,False,8192.541,13,Hungarian Grand Prix
+PER,53.0,83.21,3.0,MEDIUM,11.0,1,True,Red Bull Racing,True,6.0,29.51,30.058,23.642,,False,False,8275.751,13,Hungarian Grand Prix
+PER,54.0,82.371,3.0,MEDIUM,12.0,1,True,Red Bull Racing,True,6.0,29.524,29.596,23.251,,False,False,8358.122,13,Hungarian Grand Prix
+PER,55.0,82.864,3.0,MEDIUM,13.0,1,True,Red Bull Racing,True,5.0,29.546,30.191,23.127,,False,False,8440.986,13,Hungarian Grand Prix
+PER,56.0,82.78,3.0,MEDIUM,14.0,1,True,Red Bull Racing,True,5.0,29.699,29.758,23.323,,False,False,8523.766,13,Hungarian Grand Prix
+PER,57.0,82.393,3.0,MEDIUM,15.0,1,True,Red Bull Racing,True,5.0,29.588,29.634,23.171,,False,False,8606.159,13,Hungarian Grand Prix
+PER,58.0,82.658,3.0,MEDIUM,16.0,1,True,Red Bull Racing,True,5.0,29.624,29.791,23.243,,False,False,8688.817,13,Hungarian Grand Prix
+PER,59.0,82.344,3.0,MEDIUM,17.0,1,True,Red Bull Racing,True,5.0,29.558,29.62,23.166,,False,False,8771.161,13,Hungarian Grand Prix
+PER,60.0,82.32,3.0,MEDIUM,18.0,1,True,Red Bull Racing,True,5.0,29.436,29.631,23.253,,False,False,8853.481,13,Hungarian Grand Prix
+PER,61.0,82.413,3.0,MEDIUM,19.0,1,True,Red Bull Racing,True,5.0,29.528,29.603,23.282,,False,False,8935.894,13,Hungarian Grand Prix
+PER,62.0,82.555,3.0,MEDIUM,20.0,1,True,Red Bull Racing,True,5.0,29.546,29.651,23.358,,False,False,9018.449,13,Hungarian Grand Prix
+PER,63.0,82.235,3.0,MEDIUM,21.0,1,True,Red Bull Racing,True,5.0,29.386,29.586,23.263,,False,False,9100.684,13,Hungarian Grand Prix
+PER,64.0,82.39,3.0,MEDIUM,22.0,1,True,Red Bull Racing,True,5.0,29.492,29.601,23.297,,False,False,9183.074,13,Hungarian Grand Prix
+PER,65.0,82.027,3.0,MEDIUM,23.0,1,True,Red Bull Racing,True,5.0,29.449,29.476,23.102,,False,False,9265.101,13,Hungarian Grand Prix
+PER,66.0,82.928,3.0,MEDIUM,24.0,1,True,Red Bull Racing,True,5.0,29.654,29.963,23.311,,False,False,9348.029,13,Hungarian Grand Prix
+PER,67.0,82.437,3.0,MEDIUM,25.0,12,True,Red Bull Racing,True,5.0,29.176,29.813,23.448,,False,False,9430.466,13,Hungarian Grand Prix
+PER,68.0,107.818,3.0,MEDIUM,26.0,26,False,Red Bull Racing,True,5.0,30.974,45.271,31.573,,False,False,9538.284,13,Hungarian Grand Prix
+PER,69.0,94.241,3.0,MEDIUM,27.0,671,False,Red Bull Racing,True,5.0,38.576,31.467,24.198,,False,False,9632.525,13,Hungarian Grand Prix
+PER,70.0,85.113,3.0,MEDIUM,28.0,1,True,Red Bull Racing,True,5.0,30.483,30.673,23.957,,False,False,9717.638,13,Hungarian Grand Prix
+ALO,1.0,95.54,1.0,MEDIUM,1.0,126,False,Alpine,True,7.0,,32.711,26.02,,False,False,3821.578,13,Hungarian Grand Prix
+ALO,2.0,114.233,1.0,MEDIUM,2.0,6,False,Alpine,True,7.0,46.064,36.857,31.312,,False,False,3935.811,13,Hungarian Grand Prix
+ALO,3.0,89.05,1.0,MEDIUM,3.0,671,False,Alpine,True,7.0,34.505,30.873,23.672,,False,False,4024.861,13,Hungarian Grand Prix
+ALO,4.0,84.742,1.0,MEDIUM,4.0,1,True,Alpine,True,7.0,30.348,30.613,23.781,,False,False,4109.603,13,Hungarian Grand Prix
+ALO,5.0,85.898,1.0,MEDIUM,5.0,1,True,Alpine,True,8.0,30.698,31.418,23.782,,False,False,4195.501,13,Hungarian Grand Prix
+ALO,6.0,84.888,1.0,MEDIUM,6.0,1,True,Alpine,True,8.0,30.17,30.905,23.813,,False,False,4280.389,13,Hungarian Grand Prix
+ALO,7.0,86.96,1.0,MEDIUM,7.0,1,True,Alpine,True,9.0,31.219,31.572,24.169,,False,False,4367.349,13,Hungarian Grand Prix
+ALO,8.0,85.381,1.0,MEDIUM,8.0,1,True,Alpine,True,9.0,30.555,30.858,23.968,,False,False,4452.73,13,Hungarian Grand Prix
+ALO,9.0,85.441,1.0,MEDIUM,9.0,1,True,Alpine,True,9.0,30.657,30.81,23.974,,False,False,4538.171,13,Hungarian Grand Prix
+ALO,10.0,85.362,1.0,MEDIUM,10.0,1,True,Alpine,True,9.0,30.649,30.982,23.731,,False,False,4623.533,13,Hungarian Grand Prix
+ALO,11.0,85.332,1.0,MEDIUM,11.0,1,True,Alpine,True,9.0,30.458,30.998,23.876,,False,False,4708.865,13,Hungarian Grand Prix
+ALO,12.0,84.98,1.0,MEDIUM,12.0,1,True,Alpine,True,9.0,30.475,30.625,23.88,,False,False,4793.845,13,Hungarian Grand Prix
+ALO,13.0,84.774,1.0,MEDIUM,13.0,1,True,Alpine,True,9.0,30.319,30.457,23.998,,False,False,4878.619,13,Hungarian Grand Prix
+ALO,14.0,85.431,1.0,MEDIUM,14.0,1,True,Alpine,True,8.0,30.426,30.741,24.264,,False,False,4964.05,13,Hungarian Grand Prix
+ALO,15.0,84.92,1.0,MEDIUM,15.0,1,True,Alpine,True,8.0,30.088,30.795,24.037,,False,False,5048.97,13,Hungarian Grand Prix
+ALO,16.0,85.92,1.0,MEDIUM,16.0,1,True,Alpine,True,8.0,30.358,31.376,24.186,,False,False,5134.89,13,Hungarian Grand Prix
+ALO,17.0,86.646,1.0,MEDIUM,17.0,1,True,Alpine,True,7.0,31.105,31.45,24.091,,False,False,5221.536,13,Hungarian Grand Prix
+ALO,18.0,86.024,1.0,MEDIUM,18.0,1,True,Alpine,True,7.0,30.552,31.266,24.206,,False,False,5307.56,13,Hungarian Grand Prix
+ALO,19.0,86.041,1.0,MEDIUM,19.0,1,True,Alpine,True,6.0,30.484,31.219,24.338,,False,False,5393.601,13,Hungarian Grand Prix
+ALO,20.0,86.214,1.0,MEDIUM,20.0,1,True,Alpine,True,6.0,30.989,31.29,23.935,,False,False,5479.815,13,Hungarian Grand Prix
+ALO,21.0,87.782,1.0,MEDIUM,21.0,1,False,Alpine,True,6.0,30.47,30.945,26.367,,True,False,5567.597,13,Hungarian Grand Prix
+ALO,22.0,105.068,2.0,HARD,1.0,1,False,Alpine,True,11.0,50.204,30.776,24.088,,False,True,5672.665,13,Hungarian Grand Prix
+ALO,23.0,84.588,2.0,HARD,2.0,1,True,Alpine,True,11.0,30.322,30.562,23.704,,False,False,5757.253,13,Hungarian Grand Prix
+ALO,24.0,88.042,2.0,HARD,3.0,1,True,Alpine,True,12.0,31.405,32.028,24.609,,False,False,5845.295,13,Hungarian Grand Prix
+ALO,25.0,85.37,2.0,HARD,4.0,1,True,Alpine,True,12.0,30.187,31.1,24.083,,False,False,5930.665,13,Hungarian Grand Prix
+ALO,26.0,86.035,2.0,HARD,5.0,1,True,Alpine,True,12.0,30.421,31.462,24.152,,False,False,6016.7,13,Hungarian Grand Prix
+ALO,27.0,86.541,2.0,HARD,6.0,1,True,Alpine,True,12.0,31.029,31.443,24.069,,False,False,6103.241,13,Hungarian Grand Prix
+ALO,28.0,85.194,2.0,HARD,7.0,1,True,Alpine,True,11.0,30.388,30.822,23.984,,False,False,6188.435,13,Hungarian Grand Prix
+ALO,29.0,85.74,2.0,HARD,8.0,1,True,Alpine,True,11.0,30.572,31.023,24.145,,False,False,6274.175,13,Hungarian Grand Prix
+ALO,30.0,85.545,2.0,HARD,9.0,1,True,Alpine,True,11.0,30.368,30.885,24.292,,False,False,6359.72,13,Hungarian Grand Prix
+ALO,31.0,86.835,2.0,HARD,10.0,1,True,Alpine,True,12.0,31.426,31.223,24.186,,False,False,6446.555,13,Hungarian Grand Prix
+ALO,32.0,85.372,2.0,HARD,11.0,1,True,Alpine,True,12.0,30.368,30.983,24.021,,False,False,6531.927,13,Hungarian Grand Prix
+ALO,33.0,84.79,2.0,HARD,12.0,1,True,Alpine,True,12.0,30.301,30.553,23.936,,False,False,6616.717,13,Hungarian Grand Prix
+ALO,34.0,84.915,2.0,HARD,13.0,12,True,Alpine,True,12.0,30.241,30.673,24.001,,False,False,6701.632,13,Hungarian Grand Prix
+ALO,35.0,85.788,2.0,HARD,14.0,21,True,Alpine,True,12.0,30.301,31.079,24.408,,False,False,6787.42,13,Hungarian Grand Prix
+ALO,36.0,85.753,2.0,HARD,15.0,1,True,Alpine,True,12.0,30.847,30.987,23.919,,False,False,6873.173,13,Hungarian Grand Prix
+ALO,37.0,85.06,2.0,HARD,16.0,1,True,Alpine,True,12.0,30.512,30.789,23.759,,False,False,6958.233,13,Hungarian Grand Prix
+ALO,38.0,85.304,2.0,HARD,17.0,1,True,Alpine,True,12.0,30.527,30.895,23.882,,False,False,7043.537,13,Hungarian Grand Prix
+ALO,39.0,84.466,2.0,HARD,18.0,1,True,Alpine,True,12.0,30.254,30.443,23.769,,False,False,7128.003,13,Hungarian Grand Prix
+ALO,40.0,84.836,2.0,HARD,19.0,1,True,Alpine,True,12.0,29.882,30.88,24.074,,False,False,7212.839,13,Hungarian Grand Prix
+ALO,41.0,84.335,2.0,HARD,20.0,12,True,Alpine,True,11.0,30.127,30.504,23.704,,False,False,7297.174,13,Hungarian Grand Prix
+ALO,42.0,84.636,2.0,HARD,21.0,1,True,Alpine,True,11.0,30.084,30.691,23.861,,False,False,7381.81,13,Hungarian Grand Prix
+ALO,43.0,85.111,2.0,HARD,22.0,1,True,Alpine,True,11.0,30.235,30.802,24.074,,False,False,7466.921,13,Hungarian Grand Prix
+ALO,44.0,85.351,2.0,HARD,23.0,1,True,Alpine,True,11.0,30.086,31.197,24.068,,False,False,7552.272,13,Hungarian Grand Prix
+ALO,45.0,85.105,2.0,HARD,24.0,1,True,Alpine,True,11.0,30.229,30.966,23.91,,False,False,7637.377,13,Hungarian Grand Prix
+ALO,46.0,85.329,2.0,HARD,25.0,1,True,Alpine,True,10.0,30.386,30.937,24.006,,False,False,7722.706,13,Hungarian Grand Prix
+ALO,47.0,83.979,2.0,HARD,26.0,12,True,Alpine,True,8.0,29.886,30.286,23.807,,False,False,7806.685,13,Hungarian Grand Prix
+ALO,48.0,84.533,2.0,HARD,27.0,1,True,Alpine,True,8.0,30.1,30.49,23.943,,False,False,7891.218,13,Hungarian Grand Prix
+ALO,49.0,84.209,2.0,HARD,28.0,1,True,Alpine,True,8.0,30.126,30.059,24.024,,False,False,7975.427,13,Hungarian Grand Prix
+ALO,50.0,84.627,2.0,HARD,29.0,1,True,Alpine,True,8.0,30.425,30.471,23.731,,False,False,8060.054,13,Hungarian Grand Prix
+ALO,51.0,84.26,2.0,HARD,30.0,1,True,Alpine,True,8.0,30.203,30.158,23.899,,False,False,8144.314,13,Hungarian Grand Prix
+ALO,52.0,84.014,2.0,HARD,31.0,1,True,Alpine,True,8.0,30.198,30.223,23.593,,False,False,8228.328,13,Hungarian Grand Prix
+ALO,53.0,84.649,2.0,HARD,32.0,1,True,Alpine,True,8.0,30.485,30.382,23.782,,False,False,8312.977,13,Hungarian Grand Prix
+ALO,54.0,84.4,2.0,HARD,33.0,1,True,Alpine,True,8.0,30.105,30.588,23.707,,False,False,8397.377,13,Hungarian Grand Prix
+ALO,55.0,84.432,2.0,HARD,34.0,1,True,Alpine,True,8.0,30.355,30.421,23.656,,False,False,8481.809,13,Hungarian Grand Prix
+ALO,56.0,84.322,2.0,HARD,35.0,1,True,Alpine,True,8.0,30.263,30.425,23.634,,False,False,8566.131,13,Hungarian Grand Prix
+ALO,57.0,84.898,2.0,HARD,36.0,1,True,Alpine,True,8.0,30.485,30.563,23.85,,False,False,8651.029,13,Hungarian Grand Prix
+ALO,58.0,84.833,2.0,HARD,37.0,1,True,Alpine,True,8.0,30.288,30.92,23.625,,False,False,8735.862,13,Hungarian Grand Prix
+ALO,59.0,84.377,2.0,HARD,38.0,1,True,Alpine,True,8.0,30.468,30.167,23.742,,False,False,8820.239,13,Hungarian Grand Prix
+ALO,60.0,84.386,2.0,HARD,39.0,1,True,Alpine,True,8.0,30.581,30.141,23.664,,False,False,8904.625,13,Hungarian Grand Prix
+ALO,61.0,85.093,2.0,HARD,40.0,1,True,Alpine,True,8.0,30.646,30.576,23.871,,False,False,8989.718,13,Hungarian Grand Prix
+ALO,62.0,84.726,2.0,HARD,41.0,1,True,Alpine,True,8.0,30.184,30.688,23.854,,False,False,9074.444,13,Hungarian Grand Prix
+ALO,63.0,84.357,2.0,HARD,42.0,1,True,Alpine,True,8.0,30.299,30.304,23.754,,False,False,9158.801,13,Hungarian Grand Prix
+ALO,64.0,84.207,2.0,HARD,43.0,1,True,Alpine,True,8.0,30.265,30.147,23.795,,False,False,9243.008,13,Hungarian Grand Prix
+ALO,65.0,86.242,2.0,HARD,44.0,1,True,Alpine,True,8.0,30.307,31.979,23.956,,False,False,9329.25,13,Hungarian Grand Prix
+ALO,66.0,84.328,2.0,HARD,45.0,1,True,Alpine,True,8.0,30.216,30.241,23.871,,False,False,9413.578,13,Hungarian Grand Prix
+ALO,67.0,100.785,2.0,HARD,46.0,126,False,Alpine,True,8.0,30.494,39.054,31.237,,False,False,9514.363,13,Hungarian Grand Prix
+ALO,68.0,104.011,2.0,HARD,47.0,671,False,Alpine,True,8.0,40.267,36.844,26.9,,False,False,9618.374,13,Hungarian Grand Prix
+ALO,69.0,91.79,2.0,HARD,48.0,1,True,Alpine,True,8.0,32.091,33.367,26.332,,False,False,9710.164,13,Hungarian Grand Prix
+LEC,1.0,90.984,1.0,MEDIUM,1.0,126,False,Ferrari,True,3.0,,31.842,24.069,,False,False,3817.022,13,Hungarian Grand Prix
+LEC,2.0,114.855,1.0,MEDIUM,2.0,6,False,Ferrari,True,3.0,44.341,38.223,32.291,,False,False,3931.877,13,Hungarian Grand Prix
+LEC,3.0,88.826,1.0,MEDIUM,3.0,671,False,Ferrari,True,3.0,34.827,30.463,23.536,,False,False,4020.703,13,Hungarian Grand Prix
+LEC,4.0,83.573,1.0,MEDIUM,4.0,1,True,Ferrari,True,3.0,29.841,30.268,23.464,,False,False,4104.276,13,Hungarian Grand Prix
+LEC,5.0,84.315,1.0,MEDIUM,5.0,1,True,Ferrari,True,3.0,30.187,30.568,23.56,,False,False,4188.591,13,Hungarian Grand Prix
+LEC,6.0,84.187,1.0,MEDIUM,6.0,1,True,Ferrari,True,3.0,30.066,30.419,23.702,,False,False,4272.778,13,Hungarian Grand Prix
+LEC,7.0,84.103,1.0,MEDIUM,7.0,1,True,Ferrari,True,3.0,30.098,30.339,23.666,,False,False,4356.881,13,Hungarian Grand Prix
+LEC,8.0,84.141,1.0,MEDIUM,8.0,1,True,Ferrari,True,3.0,30.041,30.396,23.704,,False,False,4441.022,13,Hungarian Grand Prix
+LEC,9.0,83.818,1.0,MEDIUM,9.0,1,True,Ferrari,True,3.0,29.975,30.296,23.547,,False,False,4524.84,13,Hungarian Grand Prix
+LEC,10.0,84.124,1.0,MEDIUM,10.0,1,True,Ferrari,True,3.0,30.084,30.517,23.523,,False,False,4608.964,13,Hungarian Grand Prix
+LEC,11.0,84.148,1.0,MEDIUM,11.0,1,True,Ferrari,True,3.0,29.923,30.488,23.737,,False,False,4693.112,13,Hungarian Grand Prix
+LEC,12.0,84.077,1.0,MEDIUM,12.0,1,True,Ferrari,True,3.0,29.961,30.428,23.688,,False,False,4777.189,13,Hungarian Grand Prix
+LEC,13.0,84.105,1.0,MEDIUM,13.0,1,True,Ferrari,True,3.0,30.077,30.326,23.702,,False,False,4861.294,13,Hungarian Grand Prix
+LEC,14.0,84.326,1.0,MEDIUM,14.0,1,True,Ferrari,True,3.0,30.067,30.299,23.96,,False,False,4945.62,13,Hungarian Grand Prix
+LEC,15.0,84.407,1.0,MEDIUM,15.0,1,True,Ferrari,True,3.0,29.969,30.591,23.847,,False,False,5030.027,13,Hungarian Grand Prix
+LEC,16.0,85.005,1.0,MEDIUM,16.0,1,True,Ferrari,True,2.0,30.06,30.876,24.069,,False,False,5115.032,13,Hungarian Grand Prix
+LEC,17.0,84.385,1.0,MEDIUM,17.0,1,True,Ferrari,True,1.0,29.961,30.673,23.751,,False,False,5199.417,13,Hungarian Grand Prix
+LEC,18.0,83.792,1.0,MEDIUM,18.0,1,True,Ferrari,True,1.0,29.646,30.367,23.779,,False,False,5283.209,13,Hungarian Grand Prix
+LEC,19.0,83.911,1.0,MEDIUM,19.0,1,True,Ferrari,True,1.0,30.012,30.371,23.528,,False,False,5367.12,13,Hungarian Grand Prix
+LEC,20.0,84.262,1.0,MEDIUM,20.0,1,True,Ferrari,True,1.0,30.103,30.494,23.665,,False,False,5451.382,13,Hungarian Grand Prix
+LEC,21.0,86.481,1.0,MEDIUM,21.0,1,False,Ferrari,True,1.0,30.11,30.355,26.016,,True,False,5537.863,13,Hungarian Grand Prix
+LEC,22.0,101.737,2.0,MEDIUM,1.0,1,False,Ferrari,True,2.0,48.484,29.916,23.337,,False,True,5639.6,13,Hungarian Grand Prix
+LEC,23.0,82.995,2.0,MEDIUM,2.0,1,True,Ferrari,True,2.0,29.767,29.834,23.394,,False,False,5722.595,13,Hungarian Grand Prix
+LEC,24.0,83.596,2.0,MEDIUM,3.0,1,True,Ferrari,True,2.0,30.059,30.003,23.534,,False,False,5806.191,13,Hungarian Grand Prix
+LEC,25.0,83.447,2.0,MEDIUM,4.0,1,True,Ferrari,True,2.0,29.852,30.069,23.526,,False,False,5889.638,13,Hungarian Grand Prix
+LEC,26.0,83.278,2.0,MEDIUM,5.0,1,True,Ferrari,True,2.0,29.713,30.224,23.341,,False,False,5972.916,13,Hungarian Grand Prix
+LEC,27.0,83.602,2.0,MEDIUM,6.0,1,True,Ferrari,True,2.0,29.753,30.342,23.507,,False,False,6056.518,13,Hungarian Grand Prix
+LEC,28.0,84.56,2.0,MEDIUM,7.0,1,True,Ferrari,True,2.0,30.247,30.717,23.596,,False,False,6141.078,13,Hungarian Grand Prix
+LEC,29.0,84.278,2.0,MEDIUM,8.0,1,True,Ferrari,True,2.0,30.094,30.641,23.543,,False,False,6225.356,13,Hungarian Grand Prix
+LEC,30.0,84.056,2.0,MEDIUM,9.0,1,True,Ferrari,True,2.0,29.645,30.96,23.451,,False,False,6309.412,13,Hungarian Grand Prix
+LEC,31.0,83.003,2.0,MEDIUM,10.0,1,True,Ferrari,True,1.0,29.43,30.067,23.506,,False,False,6392.415,13,Hungarian Grand Prix
+LEC,32.0,84.278,2.0,MEDIUM,11.0,1,True,Ferrari,True,1.0,29.806,30.854,23.618,,False,False,6476.693,13,Hungarian Grand Prix
+LEC,33.0,83.365,2.0,MEDIUM,12.0,1,True,Ferrari,True,1.0,29.843,30.045,23.477,,False,False,6560.058,13,Hungarian Grand Prix
+LEC,34.0,83.388,2.0,MEDIUM,13.0,1,True,Ferrari,True,1.0,29.846,30.173,23.369,,False,False,6643.446,13,Hungarian Grand Prix
+LEC,35.0,83.498,2.0,MEDIUM,14.0,12,True,Ferrari,True,1.0,29.772,30.214,23.512,,False,False,6726.944,13,Hungarian Grand Prix
+LEC,36.0,83.144,2.0,MEDIUM,15.0,1,True,Ferrari,True,1.0,29.753,29.987,23.404,,False,False,6810.088,13,Hungarian Grand Prix
+LEC,37.0,83.453,2.0,MEDIUM,16.0,1,True,Ferrari,True,1.0,29.704,30.312,23.437,,False,False,6893.541,13,Hungarian Grand Prix
+LEC,38.0,83.805,2.0,MEDIUM,17.0,1,True,Ferrari,True,1.0,30.057,30.293,23.455,,False,False,6977.346,13,Hungarian Grand Prix
+LEC,39.0,86.324,2.0,MEDIUM,18.0,1,False,Ferrari,True,1.0,29.995,30.356,25.973,,True,False,7063.67,13,Hungarian Grand Prix
+LEC,40.0,105.325,3.0,HARD,1.0,1,False,Ferrari,True,3.0,49.892,31.517,23.916,,False,True,7168.995,13,Hungarian Grand Prix
+LEC,41.0,85.755,3.0,HARD,2.0,12,True,Ferrari,True,3.0,31.035,30.412,24.308,,False,False,7254.75,13,Hungarian Grand Prix
+LEC,42.0,83.462,3.0,HARD,3.0,1,True,Ferrari,True,3.0,30.107,30.118,23.237,,False,False,7338.212,13,Hungarian Grand Prix
+LEC,43.0,82.456,3.0,HARD,4.0,1,True,Ferrari,True,3.0,29.764,29.543,23.149,,False,False,7420.668,13,Hungarian Grand Prix
+LEC,44.0,82.839,3.0,HARD,5.0,1,True,Ferrari,True,3.0,29.741,29.699,23.399,,False,False,7503.507,13,Hungarian Grand Prix
+LEC,45.0,84.3,3.0,HARD,6.0,1,True,Ferrari,True,4.0,30.376,30.359,23.565,,False,False,7587.807,13,Hungarian Grand Prix
+LEC,46.0,83.335,3.0,HARD,7.0,1,True,Ferrari,True,4.0,29.859,30.162,23.314,,False,False,7671.142,13,Hungarian Grand Prix
+LEC,47.0,83.158,3.0,HARD,8.0,1,True,Ferrari,True,4.0,29.663,29.989,23.506,,False,False,7754.3,13,Hungarian Grand Prix
+LEC,48.0,83.163,3.0,HARD,9.0,12,True,Ferrari,True,3.0,29.739,30.023,23.401,,False,False,7837.463,13,Hungarian Grand Prix
+LEC,49.0,83.509,3.0,HARD,10.0,1,True,Ferrari,True,3.0,29.694,30.273,23.542,,False,False,7920.972,13,Hungarian Grand Prix
+LEC,50.0,84.334,3.0,HARD,11.0,1,True,Ferrari,True,3.0,29.814,30.644,23.876,,False,False,8005.306,13,Hungarian Grand Prix
+LEC,51.0,84.152,3.0,HARD,12.0,1,True,Ferrari,True,3.0,30.139,30.515,23.498,,False,False,8089.458,13,Hungarian Grand Prix
+LEC,52.0,83.544,3.0,HARD,13.0,1,True,Ferrari,True,2.0,29.942,30.134,23.468,,False,False,8173.002,13,Hungarian Grand Prix
+LEC,53.0,84.154,3.0,HARD,14.0,1,True,Ferrari,True,2.0,30.069,30.252,23.833,,False,False,8257.156,13,Hungarian Grand Prix
+LEC,54.0,87.578,3.0,HARD,15.0,1,False,Ferrari,True,4.0,30.416,30.894,26.268,,True,False,8344.734,13,Hungarian Grand Prix
+LEC,55.0,103.455,4.0,SOFT,4.0,1,False,Ferrari,False,6.0,48.949,30.774,23.732,,False,True,8448.189,13,Hungarian Grand Prix
+LEC,56.0,82.687,4.0,SOFT,5.0,1,True,Ferrari,False,6.0,29.669,29.961,23.057,,False,False,8530.876,13,Hungarian Grand Prix
+LEC,57.0,81.622,4.0,SOFT,6.0,1,True,Ferrari,False,6.0,29.353,29.275,22.994,,False,False,8612.498,13,Hungarian Grand Prix
+LEC,58.0,81.988,4.0,SOFT,7.0,1,True,Ferrari,False,6.0,29.437,29.642,22.909,,False,False,8694.486,13,Hungarian Grand Prix
+LEC,59.0,81.762,4.0,SOFT,8.0,1,True,Ferrari,False,6.0,29.406,29.435,22.921,,False,False,8776.248,13,Hungarian Grand Prix
+LEC,60.0,81.89,4.0,SOFT,9.0,1,True,Ferrari,False,6.0,29.487,29.311,23.092,,False,False,8858.138,13,Hungarian Grand Prix
+LEC,61.0,82.09,4.0,SOFT,10.0,1,True,Ferrari,False,6.0,29.443,29.435,23.212,,False,False,8940.228,13,Hungarian Grand Prix
+LEC,62.0,81.897,4.0,SOFT,11.0,1,True,Ferrari,False,6.0,29.336,29.393,23.168,,False,False,9022.125,13,Hungarian Grand Prix
+LEC,63.0,82.392,4.0,SOFT,12.0,1,True,Ferrari,False,6.0,29.489,29.644,23.259,,False,False,9104.517,13,Hungarian Grand Prix
+LEC,64.0,81.981,4.0,SOFT,13.0,1,True,Ferrari,False,6.0,29.423,29.408,23.15,,False,False,9186.498,13,Hungarian Grand Prix
+LEC,65.0,82.325,4.0,SOFT,14.0,1,True,Ferrari,False,6.0,29.409,29.639,23.277,,False,False,9268.823,13,Hungarian Grand Prix
+LEC,66.0,82.23,4.0,SOFT,15.0,1,True,Ferrari,False,6.0,29.288,29.655,23.287,,False,False,9351.053,13,Hungarian Grand Prix
+LEC,67.0,82.836,4.0,SOFT,16.0,12,True,Ferrari,False,6.0,29.493,29.897,23.446,,False,False,9433.889,13,Hungarian Grand Prix
+LEC,68.0,105.489,4.0,SOFT,17.0,26,False,Ferrari,False,6.0,34.191,41.611,29.687,,False,False,9539.378,13,Hungarian Grand Prix
+LEC,69.0,94.315,4.0,SOFT,18.0,671,False,Ferrari,False,6.0,39.576,31.23,23.509,,False,False,9633.693,13,Hungarian Grand Prix
+LEC,70.0,84.304,4.0,SOFT,19.0,1,True,Ferrari,False,6.0,30.111,30.525,23.668,,False,False,9717.997,13,Hungarian Grand Prix
+STR,1.0,104.9,1.0,SOFT,4.0,126,False,Aston Martin,False,14.0,,33.7,32.382,,False,False,3830.938,13,Hungarian Grand Prix
+STR,2.0,112.761,1.0,SOFT,5.0,67,False,Aston Martin,False,15.0,47.545,34.359,30.857,,False,False,3943.699,13,Hungarian Grand Prix
+STR,3.0,87.496,1.0,SOFT,6.0,71,False,Aston Martin,False,14.0,32.27,31.267,23.959,,False,False,4031.195,13,Hungarian Grand Prix
+STR,4.0,85.178,1.0,SOFT,7.0,1,True,Aston Martin,False,14.0,30.189,30.999,23.99,,False,False,4116.373,13,Hungarian Grand Prix
+STR,5.0,85.149,1.0,SOFT,8.0,1,True,Aston Martin,False,14.0,30.182,31.107,23.86,,False,False,4201.522,13,Hungarian Grand Prix
+STR,6.0,85.764,1.0,SOFT,9.0,1,True,Aston Martin,False,14.0,29.99,31.458,24.316,,False,False,4287.286,13,Hungarian Grand Prix
+STR,7.0,85.418,1.0,SOFT,10.0,1,True,Aston Martin,False,13.0,30.188,31.216,24.014,,False,False,4372.704,13,Hungarian Grand Prix
+STR,8.0,86.135,1.0,SOFT,11.0,1,True,Aston Martin,False,13.0,30.202,31.669,24.264,,False,False,4458.839,13,Hungarian Grand Prix
+STR,9.0,85.576,1.0,SOFT,12.0,1,True,Aston Martin,False,13.0,30.185,31.28,24.111,,False,False,4544.415,13,Hungarian Grand Prix
+STR,10.0,86.055,1.0,SOFT,13.0,1,True,Aston Martin,False,13.0,30.301,31.662,24.092,,False,False,4630.47,13,Hungarian Grand Prix
+STR,11.0,85.89,1.0,SOFT,14.0,1,True,Aston Martin,False,13.0,30.178,31.424,24.288,,False,False,4716.36,13,Hungarian Grand Prix
+STR,12.0,86.322,1.0,SOFT,15.0,1,True,Aston Martin,False,13.0,30.32,31.793,24.209,,False,False,4802.682,13,Hungarian Grand Prix
+STR,13.0,86.594,1.0,SOFT,16.0,1,True,Aston Martin,False,13.0,30.308,31.626,24.66,,False,False,4889.276,13,Hungarian Grand Prix
+STR,14.0,88.838,1.0,SOFT,17.0,1,False,Aston Martin,False,15.0,30.403,31.628,26.807,,True,False,4978.114,13,Hungarian Grand Prix
+STR,15.0,104.104,2.0,MEDIUM,2.0,1,False,Aston Martin,False,18.0,48.865,31.233,24.006,,False,True,5082.218,13,Hungarian Grand Prix
+STR,16.0,85.041,2.0,MEDIUM,3.0,1,True,Aston Martin,False,17.0,30.423,30.874,23.744,,False,False,5167.259,13,Hungarian Grand Prix
+STR,17.0,85.839,2.0,MEDIUM,4.0,1,True,Aston Martin,False,16.0,30.419,30.957,24.463,,False,False,5253.098,13,Hungarian Grand Prix
+STR,18.0,84.503,2.0,MEDIUM,5.0,1,True,Aston Martin,False,15.0,30.143,30.675,23.685,,False,False,5337.601,13,Hungarian Grand Prix
+STR,19.0,84.817,2.0,MEDIUM,6.0,1,True,Aston Martin,False,14.0,30.277,30.784,23.756,,False,False,5422.418,13,Hungarian Grand Prix
+STR,20.0,84.76,2.0,MEDIUM,7.0,1,True,Aston Martin,False,14.0,30.32,30.65,23.79,,False,False,5507.178,13,Hungarian Grand Prix
+STR,21.0,84.38,2.0,MEDIUM,8.0,1,True,Aston Martin,False,14.0,30.171,30.542,23.667,,False,False,5591.558,13,Hungarian Grand Prix
+STR,22.0,84.638,2.0,MEDIUM,9.0,1,True,Aston Martin,False,13.0,30.162,30.677,23.799,,False,False,5676.196,13,Hungarian Grand Prix
+STR,23.0,84.349,2.0,MEDIUM,10.0,1,True,Aston Martin,False,13.0,30.046,30.679,23.624,,False,False,5760.545,13,Hungarian Grand Prix
+STR,24.0,85.454,2.0,MEDIUM,11.0,1,True,Aston Martin,False,13.0,29.877,31.273,24.304,,False,False,5845.999,13,Hungarian Grand Prix
+STR,25.0,85.523,2.0,MEDIUM,12.0,1,True,Aston Martin,False,13.0,29.996,31.378,24.149,,False,False,5931.522,13,Hungarian Grand Prix
+STR,26.0,85.583,2.0,MEDIUM,13.0,1,True,Aston Martin,False,13.0,30.05,31.45,24.083,,False,False,6017.105,13,Hungarian Grand Prix
+STR,27.0,84.708,2.0,MEDIUM,14.0,1,True,Aston Martin,False,11.0,29.845,31.004,23.859,,False,False,6101.813,13,Hungarian Grand Prix
+STR,28.0,84.749,2.0,MEDIUM,15.0,1,True,Aston Martin,False,10.0,30.207,30.821,23.721,,False,False,6186.562,13,Hungarian Grand Prix
+STR,29.0,84.061,2.0,MEDIUM,16.0,1,True,Aston Martin,False,9.0,29.896,30.51,23.655,,False,False,6270.623,13,Hungarian Grand Prix
+STR,30.0,85.099,2.0,MEDIUM,17.0,1,True,Aston Martin,False,9.0,30.375,30.705,24.019,,False,False,6355.722,13,Hungarian Grand Prix
+STR,31.0,84.641,2.0,MEDIUM,18.0,1,True,Aston Martin,False,9.0,30.179,30.562,23.9,,False,False,6440.363,13,Hungarian Grand Prix
+STR,32.0,85.23,2.0,MEDIUM,19.0,1,True,Aston Martin,False,9.0,30.289,30.927,24.014,,False,False,6525.593,13,Hungarian Grand Prix
+STR,33.0,84.698,2.0,MEDIUM,20.0,1,True,Aston Martin,False,9.0,30.234,30.595,23.869,,False,False,6610.291,13,Hungarian Grand Prix
+STR,34.0,84.538,2.0,MEDIUM,21.0,1,True,Aston Martin,False,9.0,30.138,30.5,23.9,,False,False,6694.829,13,Hungarian Grand Prix
+STR,35.0,84.619,2.0,MEDIUM,22.0,12,True,Aston Martin,False,9.0,30.092,30.797,23.73,,False,False,6779.448,13,Hungarian Grand Prix
+STR,36.0,84.824,2.0,MEDIUM,23.0,1,True,Aston Martin,False,9.0,30.12,30.717,23.987,,False,False,6864.272,13,Hungarian Grand Prix
+STR,37.0,84.66,2.0,MEDIUM,24.0,1,True,Aston Martin,False,9.0,30.338,30.731,23.591,,False,False,6948.932,13,Hungarian Grand Prix
+STR,38.0,85.426,2.0,MEDIUM,25.0,1,True,Aston Martin,False,9.0,30.437,31.143,23.846,,False,False,7034.358,13,Hungarian Grand Prix
+STR,39.0,85.527,2.0,MEDIUM,26.0,1,True,Aston Martin,False,9.0,30.155,31.267,24.105,,False,False,7119.885,13,Hungarian Grand Prix
+STR,40.0,85.681,2.0,MEDIUM,27.0,1,True,Aston Martin,False,9.0,30.236,31.221,24.224,,False,False,7205.566,13,Hungarian Grand Prix
+STR,41.0,85.019,2.0,MEDIUM,28.0,12,True,Aston Martin,False,9.0,29.966,31.123,23.93,,False,False,7290.585,13,Hungarian Grand Prix
+STR,42.0,85.069,2.0,MEDIUM,29.0,1,True,Aston Martin,False,9.0,30.055,31.112,23.902,,False,False,7375.654,13,Hungarian Grand Prix
+STR,43.0,85.214,2.0,MEDIUM,30.0,1,True,Aston Martin,False,8.0,30.119,31.141,23.954,,False,False,7460.868,13,Hungarian Grand Prix
+STR,44.0,85.159,2.0,MEDIUM,31.0,1,True,Aston Martin,False,8.0,29.949,31.186,24.024,,False,False,7546.027,13,Hungarian Grand Prix
+STR,45.0,85.051,2.0,MEDIUM,32.0,1,True,Aston Martin,False,8.0,30.268,30.912,23.871,,False,False,7631.078,13,Hungarian Grand Prix
+STR,46.0,87.601,2.0,MEDIUM,33.0,1,False,Aston Martin,False,9.0,30.205,31.013,26.383,,True,False,7718.679,13,Hungarian Grand Prix
+STR,47.0,110.931,3.0,SOFT,1.0,12,False,Aston Martin,False,13.0,54.825,31.957,24.149,,False,True,7829.61,13,Hungarian Grand Prix
+STR,48.0,85.935,3.0,SOFT,2.0,1,True,Aston Martin,False,12.0,30.009,31.856,24.07,,False,False,7915.545,13,Hungarian Grand Prix
+STR,49.0,83.017,3.0,SOFT,3.0,1,True,Aston Martin,False,11.0,29.388,30.168,23.461,,False,False,7998.562,13,Hungarian Grand Prix
+STR,50.0,83.699,3.0,SOFT,4.0,1,True,Aston Martin,False,11.0,29.899,30.655,23.145,,False,False,8082.261,13,Hungarian Grand Prix
+STR,51.0,82.437,3.0,SOFT,5.0,1,True,Aston Martin,False,11.0,29.434,29.772,23.231,,False,False,8164.698,13,Hungarian Grand Prix
+STR,52.0,82.767,3.0,SOFT,6.0,1,True,Aston Martin,False,11.0,29.867,29.81,23.09,,False,False,8247.465,13,Hungarian Grand Prix
+STR,53.0,82.84,3.0,SOFT,7.0,1,True,Aston Martin,False,11.0,29.865,29.888,23.087,,False,False,8330.305,13,Hungarian Grand Prix
+STR,54.0,82.904,3.0,SOFT,8.0,1,True,Aston Martin,False,11.0,29.817,29.973,23.114,,False,False,8413.209,13,Hungarian Grand Prix
+STR,55.0,83.122,3.0,SOFT,9.0,1,True,Aston Martin,False,11.0,29.863,30.099,23.16,,False,False,8496.331,13,Hungarian Grand Prix
+STR,56.0,85.528,3.0,SOFT,10.0,1,True,Aston Martin,False,11.0,29.961,30.738,24.829,,False,False,8581.859,13,Hungarian Grand Prix
+STR,57.0,83.919,3.0,SOFT,11.0,1,True,Aston Martin,False,11.0,29.743,30.725,23.451,,False,False,8665.778,13,Hungarian Grand Prix
+STR,58.0,84.305,3.0,SOFT,12.0,1,True,Aston Martin,False,11.0,29.987,30.678,23.64,,False,False,8750.083,13,Hungarian Grand Prix
+STR,59.0,83.328,3.0,SOFT,13.0,1,True,Aston Martin,False,11.0,29.746,30.074,23.508,,False,False,8833.411,13,Hungarian Grand Prix
+STR,60.0,83.705,3.0,SOFT,14.0,1,True,Aston Martin,False,11.0,29.867,30.383,23.455,,False,False,8917.116,13,Hungarian Grand Prix
+STR,61.0,84.714,3.0,SOFT,15.0,1,True,Aston Martin,False,11.0,29.895,30.816,24.003,,False,False,9001.83,13,Hungarian Grand Prix
+STR,62.0,83.284,3.0,SOFT,16.0,1,True,Aston Martin,False,10.0,29.544,30.252,23.488,,False,False,9085.114,13,Hungarian Grand Prix
+STR,63.0,85.16,3.0,SOFT,17.0,1,True,Aston Martin,False,10.0,30.864,30.725,23.571,,False,False,9170.274,13,Hungarian Grand Prix
+STR,64.0,83.463,3.0,SOFT,18.0,1,True,Aston Martin,False,10.0,30.01,29.996,23.457,,False,False,9253.737,13,Hungarian Grand Prix
+STR,65.0,87.099,3.0,SOFT,19.0,1,True,Aston Martin,False,11.0,29.893,30.604,26.602,,False,False,9340.836,13,Hungarian Grand Prix
+STR,66.0,88.299,3.0,SOFT,20.0,12,True,Aston Martin,False,11.0,31.23,32.917,24.152,,False,False,9429.135,13,Hungarian Grand Prix
+STR,67.0,105.491,3.0,SOFT,21.0,26,False,Aston Martin,False,11.0,31.841,42.445,31.205,,False,False,9534.626,13,Hungarian Grand Prix
+STR,68.0,96.996,3.0,SOFT,22.0,671,False,Aston Martin,False,11.0,39.864,32.524,24.608,,False,False,9631.622,13,Hungarian Grand Prix
+STR,69.0,89.17,3.0,SOFT,23.0,1,True,Aston Martin,False,11.0,32.99,31.821,24.359,,False,False,9720.792,13,Hungarian Grand Prix
+MAG,1.0,100.882,1.0,MEDIUM,1.0,126,False,Haas F1 Team,True,10.0,,33.216,29.975,,False,False,3826.92,13,Hungarian Grand Prix
+MAG,2.0,113.795,1.0,MEDIUM,2.0,6,False,Haas F1 Team,True,10.0,46.146,35.34,32.309,,False,False,3940.715,13,Hungarian Grand Prix
+MAG,3.0,87.21,1.0,MEDIUM,3.0,671,False,Haas F1 Team,True,10.0,32.321,31.046,23.843,,False,False,4027.925,13,Hungarian Grand Prix
+MAG,4.0,85.178,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,10.0,30.255,31.152,23.771,,False,False,4113.103,13,Hungarian Grand Prix
+MAG,5.0,85.411,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,10.0,30.453,31.075,23.883,,False,False,4198.514,13,Hungarian Grand Prix
+MAG,6.0,88.081,1.0,MEDIUM,6.0,1,False,Haas F1 Team,True,12.0,30.678,31.03,26.373,,True,False,4286.595,13,Hungarian Grand Prix
+MAG,7.0,113.875,2.0,HARD,1.0,1,False,Haas F1 Team,True,20.0,57.448,31.988,24.439,,False,True,4400.47,13,Hungarian Grand Prix
+MAG,8.0,85.84,2.0,HARD,2.0,1,True,Haas F1 Team,True,20.0,30.704,30.994,24.142,,False,False,4486.31,13,Hungarian Grand Prix
+MAG,9.0,85.685,2.0,HARD,3.0,1,True,Haas F1 Team,True,20.0,30.627,31.13,23.928,,False,False,4571.995,13,Hungarian Grand Prix
+MAG,10.0,85.621,2.0,HARD,4.0,1,True,Haas F1 Team,True,20.0,30.557,31.022,24.042,,False,False,4657.616,13,Hungarian Grand Prix
+MAG,11.0,85.369,2.0,HARD,5.0,1,True,Haas F1 Team,True,20.0,30.539,30.903,23.927,,False,False,4742.985,13,Hungarian Grand Prix
+MAG,12.0,85.349,2.0,HARD,6.0,1,True,Haas F1 Team,True,20.0,30.497,30.875,23.977,,False,False,4828.334,13,Hungarian Grand Prix
+MAG,13.0,85.661,2.0,HARD,7.0,1,True,Haas F1 Team,True,20.0,30.553,30.964,24.144,,False,False,4913.995,13,Hungarian Grand Prix
+MAG,14.0,86.651,2.0,HARD,8.0,1,True,Haas F1 Team,True,19.0,30.846,31.472,24.333,,False,False,5000.646,13,Hungarian Grand Prix
+MAG,15.0,87.344,2.0,HARD,9.0,1,True,Haas F1 Team,True,20.0,31.211,31.714,24.419,,False,False,5087.99,13,Hungarian Grand Prix
+MAG,16.0,86.176,2.0,HARD,10.0,1,True,Haas F1 Team,True,20.0,30.837,31.155,24.184,,False,False,5174.166,13,Hungarian Grand Prix
+MAG,17.0,86.207,2.0,HARD,11.0,1,True,Haas F1 Team,True,19.0,30.534,31.458,24.215,,False,False,5260.373,13,Hungarian Grand Prix
+MAG,18.0,86.015,2.0,HARD,12.0,1,True,Haas F1 Team,True,19.0,30.41,31.35,24.255,,False,False,5346.388,13,Hungarian Grand Prix
+MAG,19.0,86.158,2.0,HARD,13.0,1,True,Haas F1 Team,True,18.0,30.612,31.285,24.261,,False,False,5432.546,13,Hungarian Grand Prix
+MAG,20.0,87.202,2.0,HARD,14.0,1,True,Haas F1 Team,True,19.0,31.24,31.634,24.328,,False,False,5519.748,13,Hungarian Grand Prix
+MAG,21.0,86.603,2.0,HARD,15.0,1,True,Haas F1 Team,True,19.0,30.551,31.701,24.351,,False,False,5606.351,13,Hungarian Grand Prix
+MAG,22.0,86.156,2.0,HARD,16.0,1,True,Haas F1 Team,True,18.0,30.462,31.265,24.429,,False,False,5692.507,13,Hungarian Grand Prix
+MAG,23.0,86.071,2.0,HARD,17.0,1,True,Haas F1 Team,True,18.0,30.479,31.305,24.287,,False,False,5778.578,13,Hungarian Grand Prix
+MAG,24.0,85.836,2.0,HARD,18.0,1,True,Haas F1 Team,True,18.0,30.39,31.033,24.413,,False,False,5864.414,13,Hungarian Grand Prix
+MAG,25.0,86.073,2.0,HARD,19.0,1,True,Haas F1 Team,True,18.0,30.432,31.275,24.366,,False,False,5950.487,13,Hungarian Grand Prix
+MAG,26.0,85.877,2.0,HARD,20.0,1,True,Haas F1 Team,True,18.0,30.368,31.397,24.112,,False,False,6036.364,13,Hungarian Grand Prix
+MAG,27.0,85.77,2.0,HARD,21.0,1,True,Haas F1 Team,True,18.0,30.438,31.125,24.207,,False,False,6122.134,13,Hungarian Grand Prix
+MAG,28.0,88.046,2.0,HARD,22.0,1,True,Haas F1 Team,True,19.0,31.365,32.175,24.506,,False,False,6210.18,13,Hungarian Grand Prix
+MAG,29.0,86.56,2.0,HARD,23.0,1,True,Haas F1 Team,True,19.0,30.713,31.512,24.335,,False,False,6296.74,13,Hungarian Grand Prix
+MAG,30.0,85.974,2.0,HARD,24.0,1,True,Haas F1 Team,True,19.0,30.311,31.259,24.404,,False,False,6382.714,13,Hungarian Grand Prix
+MAG,31.0,85.913,2.0,HARD,25.0,1,True,Haas F1 Team,True,19.0,30.337,31.236,24.34,,False,False,6468.627,13,Hungarian Grand Prix
+MAG,32.0,85.817,2.0,HARD,26.0,1,True,Haas F1 Team,True,19.0,30.406,31.216,24.195,,False,False,6554.444,13,Hungarian Grand Prix
+MAG,33.0,85.702,2.0,HARD,27.0,1,True,Haas F1 Team,True,19.0,30.351,31.143,24.208,,False,False,6640.146,13,Hungarian Grand Prix
+MAG,34.0,85.75,2.0,HARD,28.0,12,True,Haas F1 Team,True,18.0,30.364,31.129,24.257,,False,False,6725.896,13,Hungarian Grand Prix
+MAG,35.0,90.462,2.0,HARD,29.0,1,False,Haas F1 Team,True,18.0,32.261,31.577,26.624,,True,False,6816.358,13,Hungarian Grand Prix
+MAG,36.0,104.507,3.0,MEDIUM,1.0,1,False,Haas F1 Team,True,19.0,50.209,30.712,23.586,,False,True,6920.865,13,Hungarian Grand Prix
+MAG,37.0,83.511,3.0,MEDIUM,2.0,1,True,Haas F1 Team,True,19.0,29.885,30.301,23.325,,False,False,7004.376,13,Hungarian Grand Prix
+MAG,38.0,84.592,3.0,MEDIUM,3.0,1,True,Haas F1 Team,True,19.0,30.734,30.317,23.541,,False,False,7088.968,13,Hungarian Grand Prix
+MAG,39.0,83.854,3.0,MEDIUM,4.0,1,True,Haas F1 Team,True,19.0,29.687,30.517,23.65,,False,False,7172.822,13,Hungarian Grand Prix
+MAG,40.0,84.592,3.0,MEDIUM,5.0,12,True,Haas F1 Team,True,18.0,30.331,30.514,23.747,,False,False,7257.414,13,Hungarian Grand Prix
+MAG,41.0,85.884,3.0,MEDIUM,6.0,1,True,Haas F1 Team,True,17.0,30.351,31.701,23.832,,False,False,7343.298,13,Hungarian Grand Prix
+MAG,42.0,85.186,3.0,MEDIUM,7.0,1,True,Haas F1 Team,True,17.0,30.047,31.441,23.698,,False,False,7428.484,13,Hungarian Grand Prix
+MAG,43.0,83.888,3.0,MEDIUM,8.0,1,True,Haas F1 Team,True,17.0,29.917,30.293,23.678,,False,False,7512.372,13,Hungarian Grand Prix
+MAG,44.0,83.858,3.0,MEDIUM,9.0,1,True,Haas F1 Team,True,17.0,29.745,30.414,23.699,,False,False,7596.23,13,Hungarian Grand Prix
+MAG,45.0,83.628,3.0,MEDIUM,10.0,1,True,Haas F1 Team,True,17.0,29.808,30.163,23.657,,False,False,7679.858,13,Hungarian Grand Prix
+MAG,46.0,83.574,3.0,MEDIUM,11.0,12,True,Haas F1 Team,True,17.0,29.829,30.125,23.62,,False,False,7763.432,13,Hungarian Grand Prix
+MAG,47.0,85.375,3.0,MEDIUM,12.0,12,True,Haas F1 Team,True,17.0,31.117,30.598,23.66,,False,False,7848.807,13,Hungarian Grand Prix
+MAG,48.0,83.841,3.0,MEDIUM,13.0,1,True,Haas F1 Team,True,17.0,29.823,30.341,23.677,,False,False,7932.648,13,Hungarian Grand Prix
+MAG,49.0,84.009,3.0,MEDIUM,14.0,1,True,Haas F1 Team,True,17.0,29.966,30.324,23.719,,False,False,8016.657,13,Hungarian Grand Prix
+MAG,50.0,83.726,3.0,MEDIUM,15.0,1,True,Haas F1 Team,True,17.0,29.956,30.212,23.558,,False,False,8100.383,13,Hungarian Grand Prix
+MAG,51.0,83.845,3.0,MEDIUM,16.0,1,True,Haas F1 Team,True,17.0,29.889,30.373,23.583,,False,False,8184.228,13,Hungarian Grand Prix
+MAG,52.0,87.854,3.0,MEDIUM,17.0,1,True,Haas F1 Team,True,16.0,29.775,33.961,24.118,,False,False,8272.082,13,Hungarian Grand Prix
+MAG,53.0,84.186,3.0,MEDIUM,18.0,1,True,Haas F1 Team,True,16.0,29.968,30.554,23.664,,False,False,8356.268,13,Hungarian Grand Prix
+MAG,54.0,86.403,3.0,MEDIUM,19.0,1,True,Haas F1 Team,True,16.0,30.203,32.37,23.83,,False,False,8442.671,13,Hungarian Grand Prix
+MAG,55.0,84.38,3.0,MEDIUM,20.0,1,True,Haas F1 Team,True,16.0,29.991,30.311,24.078,,False,False,8527.051,13,Hungarian Grand Prix
+MAG,56.0,84.066,3.0,MEDIUM,21.0,1,True,Haas F1 Team,True,16.0,29.964,30.433,23.669,,False,False,8611.117,13,Hungarian Grand Prix
+MAG,57.0,85.9,3.0,MEDIUM,22.0,1,True,Haas F1 Team,True,16.0,30.059,32.059,23.782,,False,False,8697.017,13,Hungarian Grand Prix
+MAG,58.0,84.426,3.0,MEDIUM,23.0,1,True,Haas F1 Team,True,16.0,30.072,30.617,23.737,,False,False,8781.443,13,Hungarian Grand Prix
+MAG,59.0,84.276,3.0,MEDIUM,24.0,1,True,Haas F1 Team,True,16.0,29.92,30.449,23.907,,False,False,8865.719,13,Hungarian Grand Prix
+MAG,60.0,84.346,3.0,MEDIUM,25.0,1,True,Haas F1 Team,True,16.0,29.996,30.563,23.787,,False,False,8950.065,13,Hungarian Grand Prix
+MAG,61.0,84.932,3.0,MEDIUM,26.0,1,True,Haas F1 Team,True,16.0,30.107,30.798,24.027,,False,False,9034.997,13,Hungarian Grand Prix
+MAG,62.0,85.916,3.0,MEDIUM,27.0,1,True,Haas F1 Team,True,17.0,30.402,31.489,24.025,,False,False,9120.913,13,Hungarian Grand Prix
+MAG,63.0,84.797,3.0,MEDIUM,28.0,1,True,Haas F1 Team,True,17.0,30.171,30.624,24.002,,False,False,9205.71,13,Hungarian Grand Prix
+MAG,64.0,84.318,3.0,MEDIUM,29.0,1,True,Haas F1 Team,True,17.0,30.034,30.43,23.854,,False,False,9290.028,13,Hungarian Grand Prix
+MAG,65.0,85.047,3.0,MEDIUM,30.0,1,True,Haas F1 Team,True,17.0,30.097,30.822,24.128,,False,False,9375.075,13,Hungarian Grand Prix
+MAG,66.0,87.839,3.0,MEDIUM,31.0,126,False,Haas F1 Team,True,16.0,30.279,31.197,26.363,,False,False,9462.914,13,Hungarian Grand Prix
+MAG,67.0,113.884,3.0,MEDIUM,32.0,67,False,Haas F1 Team,True,16.0,41.398,40.475,32.011,,True,False,9576.798,13,Hungarian Grand Prix
+MAG,68.0,104.622,4.0,SOFT,1.0,71,False,Haas F1 Team,True,17.0,49.778,30.964,23.88,,False,True,9681.42,13,Hungarian Grand Prix
+MAG,69.0,86.554,4.0,SOFT,2.0,1,True,Haas F1 Team,True,16.0,30.377,31.584,24.593,,False,False,9767.974,13,Hungarian Grand Prix
+TSU,1.0,108.072,1.0,SOFT,1.0,126,False,AlphaTauri,True,16.0,,34.3,34.286,,False,False,3834.11,13,Hungarian Grand Prix
+TSU,2.0,111.19,1.0,SOFT,2.0,67,False,AlphaTauri,True,16.0,46.124,34.757,30.309,,False,False,3945.3,13,Hungarian Grand Prix
+TSU,3.0,88.098,1.0,SOFT,3.0,71,False,AlphaTauri,True,15.0,32.873,31.269,23.956,,False,False,4033.398,13,Hungarian Grand Prix
+TSU,4.0,85.369,1.0,SOFT,4.0,1,True,AlphaTauri,True,15.0,30.859,30.715,23.795,,False,False,4118.767,13,Hungarian Grand Prix
+TSU,5.0,85.159,1.0,SOFT,5.0,1,True,AlphaTauri,True,15.0,30.495,30.867,23.797,,False,False,4203.926,13,Hungarian Grand Prix
+TSU,6.0,85.195,1.0,SOFT,6.0,1,True,AlphaTauri,True,15.0,30.307,30.975,23.913,,False,False,4289.121,13,Hungarian Grand Prix
+TSU,7.0,85.434,1.0,SOFT,7.0,1,True,AlphaTauri,True,14.0,30.425,31.015,23.994,,False,False,4374.555,13,Hungarian Grand Prix
+TSU,8.0,85.788,1.0,SOFT,8.0,1,True,AlphaTauri,True,14.0,30.32,31.194,24.274,,False,False,4460.343,13,Hungarian Grand Prix
+TSU,9.0,85.513,1.0,SOFT,9.0,1,True,AlphaTauri,True,14.0,30.426,31.092,23.995,,False,False,4545.856,13,Hungarian Grand Prix
+TSU,10.0,86.993,1.0,SOFT,10.0,1,True,AlphaTauri,True,15.0,31.05,31.805,24.138,,False,False,4632.849,13,Hungarian Grand Prix
+TSU,11.0,85.997,1.0,SOFT,11.0,1,True,AlphaTauri,True,15.0,30.453,31.339,24.205,,False,False,4718.846,13,Hungarian Grand Prix
+TSU,12.0,86.629,1.0,SOFT,12.0,1,True,AlphaTauri,True,15.0,30.883,31.524,24.222,,False,False,4805.475,13,Hungarian Grand Prix
+TSU,13.0,90.139,1.0,SOFT,13.0,1,False,AlphaTauri,True,17.0,31.291,32.003,26.845,,True,False,4895.614,13,Hungarian Grand Prix
+TSU,14.0,105.199,2.0,MEDIUM,1.0,1,False,AlphaTauri,True,20.0,49.601,31.653,23.945,,False,True,5000.813,13,Hungarian Grand Prix
+TSU,15.0,85.8,2.0,MEDIUM,2.0,1,True,AlphaTauri,True,19.0,30.312,31.248,24.24,,False,False,5086.613,13,Hungarian Grand Prix
+TSU,16.0,85.066,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,19.0,30.59,30.749,23.727,,False,False,5171.679,13,Hungarian Grand Prix
+TSU,17.0,85.144,2.0,MEDIUM,4.0,1,True,AlphaTauri,True,18.0,30.284,30.857,24.003,,False,False,5256.823,13,Hungarian Grand Prix
+TSU,18.0,85.687,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,18.0,30.434,31.12,24.133,,False,False,5342.51,13,Hungarian Grand Prix
+TSU,19.0,85.501,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,17.0,30.384,31.098,24.019,,False,False,5428.011,13,Hungarian Grand Prix
+TSU,20.0,86.613,2.0,MEDIUM,7.0,1,True,AlphaTauri,True,17.0,30.611,31.795,24.207,,False,False,5514.624,13,Hungarian Grand Prix
+TSU,21.0,85.493,2.0,MEDIUM,8.0,1,True,AlphaTauri,True,16.0,30.319,31.107,24.067,,False,False,5600.117,13,Hungarian Grand Prix
+TSU,22.0,86.502,2.0,MEDIUM,9.0,1,True,AlphaTauri,True,16.0,30.639,31.695,24.168,,False,False,5686.619,13,Hungarian Grand Prix
+TSU,23.0,85.415,2.0,MEDIUM,10.0,1,True,AlphaTauri,True,15.0,30.015,31.172,24.228,,False,False,5772.034,13,Hungarian Grand Prix
+TSU,24.0,85.33,2.0,MEDIUM,11.0,1,True,AlphaTauri,True,15.0,30.236,30.938,24.156,,False,False,5857.364,13,Hungarian Grand Prix
+TSU,25.0,85.118,2.0,MEDIUM,12.0,1,True,AlphaTauri,True,15.0,30.11,30.925,24.083,,False,False,5942.482,13,Hungarian Grand Prix
+TSU,26.0,87.375,2.0,MEDIUM,13.0,1,True,AlphaTauri,True,16.0,31.446,31.787,24.142,,False,False,6029.857,13,Hungarian Grand Prix
+TSU,27.0,86.149,2.0,MEDIUM,14.0,1,True,AlphaTauri,True,16.0,30.379,31.602,24.168,,False,False,6116.006,13,Hungarian Grand Prix
+TSU,28.0,85.809,2.0,MEDIUM,15.0,1,True,AlphaTauri,True,15.0,30.315,31.329,24.165,,False,False,6201.815,13,Hungarian Grand Prix
+TSU,29.0,85.582,2.0,MEDIUM,16.0,1,True,AlphaTauri,True,15.0,30.34,31.204,24.038,,False,False,6287.397,13,Hungarian Grand Prix
+TSU,30.0,85.474,2.0,MEDIUM,17.0,1,True,AlphaTauri,True,15.0,30.326,31.04,24.108,,False,False,6372.871,13,Hungarian Grand Prix
+TSU,31.0,85.651,2.0,MEDIUM,18.0,1,True,AlphaTauri,True,15.0,30.415,31.087,24.149,,False,False,6458.522,13,Hungarian Grand Prix
+TSU,32.0,85.599,2.0,MEDIUM,19.0,1,True,AlphaTauri,True,15.0,30.345,31.104,24.15,,False,False,6544.121,13,Hungarian Grand Prix
+TSU,33.0,88.23,2.0,MEDIUM,20.0,1,False,AlphaTauri,True,17.0,30.273,31.406,26.551,,True,False,6632.351,13,Hungarian Grand Prix
+TSU,34.0,123.576,3.0,SOFT,1.0,12,False,AlphaTauri,True,20.0,50.124,47.47,25.982,,False,True,6755.927,13,Hungarian Grand Prix
+TSU,35.0,84.949,3.0,SOFT,2.0,1,True,AlphaTauri,True,20.0,30.633,30.842,23.474,,False,False,6840.876,13,Hungarian Grand Prix
+TSU,36.0,86.379,3.0,SOFT,3.0,1,True,AlphaTauri,True,20.0,31.462,31.26,23.657,,False,False,6927.255,13,Hungarian Grand Prix
+TSU,37.0,84.465,3.0,SOFT,4.0,1,True,AlphaTauri,True,20.0,30.355,30.52,23.59,,False,False,7011.72,13,Hungarian Grand Prix
+TSU,38.0,84.429,3.0,SOFT,5.0,1,True,AlphaTauri,True,20.0,30.226,30.529,23.674,,False,False,7096.149,13,Hungarian Grand Prix
+TSU,39.0,84.422,3.0,SOFT,6.0,1,True,AlphaTauri,True,20.0,30.044,30.586,23.792,,False,False,7180.571,13,Hungarian Grand Prix
+TSU,40.0,85.525,3.0,SOFT,7.0,12,True,AlphaTauri,True,20.0,30.466,31.158,23.901,,False,False,7266.096,13,Hungarian Grand Prix
+TSU,41.0,85.077,3.0,SOFT,8.0,1,True,AlphaTauri,True,19.0,30.408,30.921,23.748,,False,False,7351.173,13,Hungarian Grand Prix
+TSU,42.0,84.774,3.0,SOFT,9.0,1,True,AlphaTauri,True,19.0,30.285,30.674,23.815,,False,False,7435.947,13,Hungarian Grand Prix
+TSU,43.0,84.54,3.0,SOFT,10.0,1,True,AlphaTauri,True,19.0,30.241,30.624,23.675,,False,False,7520.487,13,Hungarian Grand Prix
+TSU,44.0,84.549,3.0,SOFT,11.0,1,True,AlphaTauri,True,19.0,30.245,30.678,23.626,,False,False,7605.036,13,Hungarian Grand Prix
+TSU,45.0,86.246,3.0,SOFT,12.0,1,True,AlphaTauri,True,20.0,30.226,31.947,24.073,,False,False,7691.282,13,Hungarian Grand Prix
+TSU,46.0,84.903,3.0,SOFT,13.0,12,True,AlphaTauri,True,20.0,30.306,30.766,23.831,,False,False,7776.185,13,Hungarian Grand Prix
+TSU,47.0,86.524,3.0,SOFT,14.0,1,True,AlphaTauri,True,20.0,30.188,32.248,24.088,,False,False,7862.709,13,Hungarian Grand Prix
+TSU,48.0,85.138,3.0,SOFT,15.0,1,True,AlphaTauri,True,20.0,30.198,30.968,23.972,,False,False,7947.847,13,Hungarian Grand Prix
+TSU,49.0,85.714,3.0,SOFT,16.0,1,True,AlphaTauri,True,20.0,30.429,31.004,24.281,,False,False,8033.561,13,Hungarian Grand Prix
+TSU,50.0,85.585,3.0,SOFT,17.0,1,True,AlphaTauri,True,20.0,30.514,30.928,24.143,,False,False,8119.146,13,Hungarian Grand Prix
+TSU,51.0,88.783,3.0,SOFT,18.0,1,False,AlphaTauri,True,20.0,30.529,31.617,26.637,,True,False,8207.929,13,Hungarian Grand Prix
+TSU,52.0,111.006,4.0,SOFT,4.0,1,False,AlphaTauri,False,20.0,51.319,33.762,25.925,,False,True,8318.935,13,Hungarian Grand Prix
+TSU,53.0,85.956,4.0,SOFT,5.0,1,True,AlphaTauri,False,20.0,30.674,31.177,24.105,,False,False,8404.891,13,Hungarian Grand Prix
+TSU,54.0,84.725,4.0,SOFT,6.0,1,True,AlphaTauri,False,20.0,30.247,30.693,23.785,,False,False,8489.616,13,Hungarian Grand Prix
+TSU,55.0,89.328,4.0,SOFT,7.0,1,True,AlphaTauri,False,20.0,31.416,33.328,24.584,,False,False,8578.944,13,Hungarian Grand Prix
+TSU,56.0,89.836,4.0,SOFT,8.0,1,True,AlphaTauri,False,20.0,30.301,33.913,25.622,,False,False,8668.78,13,Hungarian Grand Prix
+TSU,57.0,84.68,4.0,SOFT,9.0,1,True,AlphaTauri,False,20.0,30.589,30.48,23.611,,False,False,8753.46,13,Hungarian Grand Prix
+TSU,58.0,83.538,4.0,SOFT,10.0,1,True,AlphaTauri,False,20.0,29.889,30.127,23.522,,False,False,8836.998,13,Hungarian Grand Prix
+TSU,59.0,83.675,4.0,SOFT,11.0,1,True,AlphaTauri,False,20.0,29.804,30.301,23.57,,False,False,8920.673,13,Hungarian Grand Prix
+TSU,60.0,88.703,4.0,SOFT,12.0,1,True,AlphaTauri,False,20.0,30.002,32.365,26.336,,False,False,9009.376,13,Hungarian Grand Prix
+TSU,61.0,84.609,4.0,SOFT,13.0,1,True,AlphaTauri,False,20.0,30.092,30.802,23.715,,False,False,9093.985,13,Hungarian Grand Prix
+TSU,62.0,84.177,4.0,SOFT,14.0,1,True,AlphaTauri,False,20.0,29.926,30.513,23.738,,False,False,9178.162,13,Hungarian Grand Prix
+TSU,63.0,85.012,4.0,SOFT,15.0,1,True,AlphaTauri,False,20.0,30.365,30.883,23.764,,False,False,9263.174,13,Hungarian Grand Prix
+TSU,64.0,86.547,4.0,SOFT,16.0,1,True,AlphaTauri,False,20.0,29.937,32.6,24.01,,False,False,9349.721,13,Hungarian Grand Prix
+TSU,65.0,92.061,4.0,SOFT,17.0,12,True,AlphaTauri,False,20.0,31.045,34.393,26.623,,False,False,9441.782,13,Hungarian Grand Prix
+TSU,66.0,110.91,4.0,SOFT,18.0,26,False,AlphaTauri,False,19.0,40.883,39.478,30.549,,False,False,9552.692,13,Hungarian Grand Prix
+TSU,67.0,104.68,4.0,SOFT,19.0,671,False,AlphaTauri,False,19.0,40.552,37.244,26.884,,False,False,9657.372,13,Hungarian Grand Prix
+TSU,68.0,97.407,4.0,SOFT,20.0,1,True,AlphaTauri,False,19.0,35.282,35.14,26.985,,False,False,9754.779,13,Hungarian Grand Prix
+ALB,1.0,105.881,1.0,SOFT,1.0,126,False,Williams,True,15.0,,33.802,32.815,,False,False,3831.919,13,Hungarian Grand Prix
+ALB,2.0,109.84,1.0,SOFT,2.0,6,False,Williams,True,12.0,47.412,34.553,27.875,,True,False,3941.759,13,Hungarian Grand Prix
+ALB,3.0,113.951,2.0,MEDIUM,1.0,671,False,Williams,True,20.0,58.728,31.299,23.924,,False,True,4055.71,13,Hungarian Grand Prix
+ALB,4.0,85.048,2.0,MEDIUM,2.0,1,True,Williams,True,20.0,30.539,30.777,23.732,,False,False,4140.758,13,Hungarian Grand Prix
+ALB,5.0,84.719,2.0,MEDIUM,3.0,1,True,Williams,True,20.0,30.356,30.618,23.745,,False,False,4225.477,13,Hungarian Grand Prix
+ALB,6.0,84.924,2.0,MEDIUM,4.0,1,True,Williams,True,20.0,30.399,30.801,23.724,,False,False,4310.401,13,Hungarian Grand Prix
+ALB,7.0,85.177,2.0,MEDIUM,5.0,1,True,Williams,True,19.0,30.338,30.803,24.036,,False,False,4395.578,13,Hungarian Grand Prix
+ALB,8.0,85.329,2.0,MEDIUM,6.0,1,True,Williams,True,19.0,30.221,30.936,24.172,,False,False,4480.907,13,Hungarian Grand Prix
+ALB,9.0,85.36,2.0,MEDIUM,7.0,1,True,Williams,True,19.0,30.45,30.925,23.985,,False,False,4566.267,13,Hungarian Grand Prix
+ALB,10.0,85.585,2.0,MEDIUM,8.0,1,True,Williams,True,19.0,30.454,31.109,24.022,,False,False,4651.852,13,Hungarian Grand Prix
+ALB,11.0,85.713,2.0,MEDIUM,9.0,1,True,Williams,True,19.0,30.483,31.135,24.095,,False,False,4737.565,13,Hungarian Grand Prix
+ALB,12.0,85.3,2.0,MEDIUM,10.0,1,True,Williams,True,19.0,30.372,30.968,23.96,,False,False,4822.865,13,Hungarian Grand Prix
+ALB,13.0,85.51,2.0,MEDIUM,11.0,1,True,Williams,True,19.0,30.433,30.96,24.117,,False,False,4908.375,13,Hungarian Grand Prix
+ALB,14.0,85.679,2.0,MEDIUM,12.0,1,True,Williams,True,18.0,30.46,31.011,24.208,,False,False,4994.054,13,Hungarian Grand Prix
+ALB,15.0,85.862,2.0,MEDIUM,13.0,1,True,Williams,True,17.0,30.534,31.123,24.205,,False,False,5079.916,13,Hungarian Grand Prix
+ALB,16.0,85.86,2.0,MEDIUM,14.0,1,True,Williams,True,15.0,30.576,31.186,24.098,,False,False,5165.776,13,Hungarian Grand Prix
+ALB,17.0,86.941,2.0,MEDIUM,15.0,1,True,Williams,True,15.0,30.823,31.653,24.465,,False,False,5252.717,13,Hungarian Grand Prix
+ALB,18.0,87.336,2.0,MEDIUM,16.0,1,True,Williams,True,16.0,30.849,32.064,24.423,,False,False,5340.053,13,Hungarian Grand Prix
+ALB,19.0,87.467,2.0,MEDIUM,17.0,1,True,Williams,True,16.0,31.098,32.002,24.367,,False,False,5427.52,13,Hungarian Grand Prix
+ALB,20.0,86.663,2.0,MEDIUM,18.0,1,True,Williams,True,16.0,30.682,31.671,24.31,,False,False,5514.183,13,Hungarian Grand Prix
+ALB,21.0,90.341,2.0,MEDIUM,19.0,1,False,Williams,True,18.0,30.969,32.69,26.682,,True,False,5604.524,13,Hungarian Grand Prix
+ALB,22.0,104.533,3.0,MEDIUM,1.0,1,False,Williams,True,20.0,49.163,31.419,23.951,,False,True,5709.057,13,Hungarian Grand Prix
+ALB,23.0,85.202,3.0,MEDIUM,2.0,1,True,Williams,True,20.0,30.132,31.17,23.9,,False,False,5794.259,13,Hungarian Grand Prix
+ALB,24.0,84.805,3.0,MEDIUM,3.0,1,True,Williams,True,20.0,30.138,30.817,23.85,,False,False,5879.064,13,Hungarian Grand Prix
+ALB,25.0,84.778,3.0,MEDIUM,4.0,1,True,Williams,True,20.0,30.095,31.023,23.66,,False,False,5963.842,13,Hungarian Grand Prix
+ALB,26.0,84.677,3.0,MEDIUM,5.0,1,True,Williams,True,20.0,30.09,30.837,23.75,,False,False,6048.519,13,Hungarian Grand Prix
+ALB,27.0,85.259,3.0,MEDIUM,6.0,1,True,Williams,True,20.0,30.18,31.064,24.015,,False,False,6133.778,13,Hungarian Grand Prix
+ALB,28.0,85.113,3.0,MEDIUM,7.0,1,True,Williams,True,20.0,30.267,31.059,23.787,,False,False,6218.891,13,Hungarian Grand Prix
+ALB,29.0,84.75,3.0,MEDIUM,8.0,1,True,Williams,True,20.0,30.099,30.865,23.786,,False,False,6303.641,13,Hungarian Grand Prix
+ALB,30.0,85.0,3.0,MEDIUM,9.0,1,True,Williams,True,20.0,30.188,30.721,24.091,,False,False,6388.641,13,Hungarian Grand Prix
+ALB,31.0,85.29,3.0,MEDIUM,10.0,1,True,Williams,True,20.0,30.108,31.324,23.858,,False,False,6473.931,13,Hungarian Grand Prix
+ALB,32.0,84.491,3.0,MEDIUM,11.0,1,True,Williams,True,20.0,29.987,30.771,23.733,,False,False,6558.422,13,Hungarian Grand Prix
+ALB,33.0,90.203,3.0,MEDIUM,12.0,1,True,Williams,True,20.0,30.023,33.127,27.053,,False,False,6648.625,13,Hungarian Grand Prix
+ALB,34.0,86.887,3.0,MEDIUM,13.0,12,True,Williams,True,19.0,31.396,31.292,24.199,,False,False,6735.512,13,Hungarian Grand Prix
+ALB,35.0,86.963,3.0,MEDIUM,14.0,1,True,Williams,True,19.0,30.263,31.129,25.571,,False,False,6822.475,13,Hungarian Grand Prix
+ALB,36.0,85.93,3.0,MEDIUM,15.0,1,True,Williams,True,18.0,30.283,31.473,24.174,,False,False,6908.405,13,Hungarian Grand Prix
+ALB,37.0,85.408,3.0,MEDIUM,16.0,1,True,Williams,True,18.0,30.349,31.176,23.883,,False,False,6993.813,13,Hungarian Grand Prix
+ALB,38.0,85.095,3.0,MEDIUM,17.0,1,True,Williams,True,18.0,30.12,30.956,24.019,,False,False,7078.908,13,Hungarian Grand Prix
+ALB,39.0,84.92,3.0,MEDIUM,18.0,1,True,Williams,True,18.0,30.095,30.982,23.843,,False,False,7163.828,13,Hungarian Grand Prix
+ALB,40.0,87.273,3.0,MEDIUM,19.0,12,False,Williams,True,17.0,30.182,30.731,26.36,,True,False,7251.101,13,Hungarian Grand Prix
+ALB,41.0,104.871,4.0,SOFT,1.0,1,False,Williams,True,20.0,50.999,30.437,23.435,,False,True,7355.972,13,Hungarian Grand Prix
+ALB,42.0,83.357,4.0,SOFT,2.0,1,True,Williams,True,20.0,29.751,30.27,23.336,,False,False,7439.329,13,Hungarian Grand Prix
+ALB,43.0,83.047,4.0,SOFT,3.0,1,True,Williams,True,20.0,29.608,30.172,23.267,,False,False,7522.376,13,Hungarian Grand Prix
+ALB,44.0,83.43,4.0,SOFT,4.0,1,True,Williams,True,20.0,29.553,30.654,23.223,,False,False,7605.806,13,Hungarian Grand Prix
+ALB,45.0,83.591,4.0,SOFT,5.0,1,True,Williams,True,19.0,29.451,30.424,23.716,,False,False,7689.397,13,Hungarian Grand Prix
+ALB,46.0,83.866,4.0,SOFT,6.0,12,True,Williams,True,19.0,29.711,30.607,23.548,,False,False,7773.263,13,Hungarian Grand Prix
+ALB,47.0,83.891,4.0,SOFT,7.0,1,True,Williams,True,19.0,29.648,30.766,23.477,,False,False,7857.154,13,Hungarian Grand Prix
+ALB,48.0,83.857,4.0,SOFT,8.0,1,True,Williams,True,19.0,29.797,30.437,23.623,,False,False,7941.011,13,Hungarian Grand Prix
+ALB,49.0,83.992,4.0,SOFT,9.0,1,True,Williams,True,19.0,29.84,30.428,23.724,,False,False,8025.003,13,Hungarian Grand Prix
+ALB,50.0,83.637,4.0,SOFT,10.0,1,True,Williams,True,19.0,29.838,30.363,23.436,,False,False,8108.64,13,Hungarian Grand Prix
+ALB,51.0,86.056,4.0,SOFT,11.0,1,True,Williams,True,19.0,31.304,31.035,23.717,,False,False,8194.696,13,Hungarian Grand Prix
+ALB,52.0,84.083,4.0,SOFT,12.0,1,True,Williams,True,18.0,29.738,30.555,23.79,,False,False,8278.779,13,Hungarian Grand Prix
+ALB,53.0,84.621,4.0,SOFT,13.0,1,True,Williams,True,18.0,29.913,30.985,23.723,,False,False,8363.4,13,Hungarian Grand Prix
+ALB,54.0,85.927,4.0,SOFT,14.0,1,True,Williams,True,18.0,30.525,31.547,23.855,,False,False,8449.327,13,Hungarian Grand Prix
+ALB,55.0,85.544,4.0,SOFT,15.0,1,True,Williams,True,18.0,30.008,31.535,24.001,,False,False,8534.871,13,Hungarian Grand Prix
+ALB,56.0,84.514,4.0,SOFT,16.0,1,True,Williams,True,17.0,29.738,31.03,23.746,,False,False,8619.385,13,Hungarian Grand Prix
+ALB,57.0,85.166,4.0,SOFT,17.0,1,True,Williams,True,17.0,30.072,31.231,23.863,,False,False,8704.551,13,Hungarian Grand Prix
+ALB,58.0,85.248,4.0,SOFT,18.0,1,True,Williams,True,18.0,30.32,31.047,23.881,,False,False,8789.799,13,Hungarian Grand Prix
+ALB,59.0,85.137,4.0,SOFT,19.0,1,True,Williams,True,18.0,30.1,31.069,23.968,,False,False,8874.936,13,Hungarian Grand Prix
+ALB,60.0,85.062,4.0,SOFT,20.0,1,True,Williams,True,18.0,30.17,30.891,24.001,,False,False,8959.998,13,Hungarian Grand Prix
+ALB,61.0,85.086,4.0,SOFT,21.0,1,True,Williams,True,18.0,29.967,31.068,24.051,,False,False,9045.084,13,Hungarian Grand Prix
+ALB,62.0,85.34,4.0,SOFT,22.0,1,True,Williams,True,18.0,29.975,31.229,24.136,,False,False,9130.424,13,Hungarian Grand Prix
+ALB,63.0,85.46,4.0,SOFT,23.0,1,True,Williams,True,18.0,30.071,31.127,24.262,,False,False,9215.884,13,Hungarian Grand Prix
+ALB,64.0,85.785,4.0,SOFT,24.0,1,True,Williams,True,18.0,30.102,31.252,24.431,,False,False,9301.669,13,Hungarian Grand Prix
+ALB,65.0,86.377,4.0,SOFT,25.0,1,True,Williams,True,18.0,30.362,31.72,24.295,,False,False,9388.046,13,Hungarian Grand Prix
+ALB,66.0,94.127,4.0,SOFT,26.0,126,False,Williams,True,17.0,30.609,32.326,31.192,,False,False,9482.173,13,Hungarian Grand Prix
+ALB,67.0,109.545,4.0,SOFT,27.0,671,False,Williams,True,17.0,41.06,39.569,28.916,,False,False,9591.718,13,Hungarian Grand Prix
+ALB,68.0,88.621,4.0,SOFT,28.0,1,True,Williams,True,16.0,31.409,32.473,24.739,,False,False,9680.339,13,Hungarian Grand Prix
+ALB,69.0,88.485,4.0,SOFT,29.0,1,True,Williams,True,17.0,30.848,32.007,25.63,,False,False,9768.824,13,Hungarian Grand Prix
+ZHO,1.0,109.084,1.0,MEDIUM,1.0,126,False,Alfa Romeo,True,17.0,,34.524,34.95,,False,False,3835.122,13,Hungarian Grand Prix
+ZHO,2.0,110.81,1.0,MEDIUM,2.0,67,False,Alfa Romeo,True,17.0,46.205,34.983,29.622,,False,False,3945.932,13,Hungarian Grand Prix
+ZHO,3.0,88.757,1.0,MEDIUM,3.0,71,False,Alfa Romeo,True,17.0,33.158,31.528,24.071,,False,False,4034.689,13,Hungarian Grand Prix
+ZHO,4.0,85.405,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,17.0,30.251,31.344,23.81,,False,False,4120.094,13,Hungarian Grand Prix
+ZHO,5.0,85.331,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,17.0,30.253,31.163,23.915,,False,False,4205.425,13,Hungarian Grand Prix
+ZHO,6.0,85.4,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,17.0,30.121,31.105,24.174,,False,False,4290.825,13,Hungarian Grand Prix
+ZHO,7.0,85.417,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,16.0,30.293,31.038,24.086,,False,False,4376.242,13,Hungarian Grand Prix
+ZHO,8.0,85.721,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,16.0,30.294,31.265,24.162,,False,False,4461.963,13,Hungarian Grand Prix
+ZHO,9.0,85.78,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,16.0,30.644,31.12,24.016,,False,False,4547.743,13,Hungarian Grand Prix
+ZHO,10.0,85.699,1.0,MEDIUM,10.0,1,True,Alfa Romeo,True,16.0,30.562,31.125,24.012,,False,False,4633.442,13,Hungarian Grand Prix
+ZHO,11.0,85.822,1.0,MEDIUM,11.0,1,True,Alfa Romeo,True,16.0,30.344,31.332,24.146,,False,False,4719.264,13,Hungarian Grand Prix
+ZHO,12.0,86.533,1.0,MEDIUM,12.0,1,True,Alfa Romeo,True,16.0,30.799,31.543,24.191,,False,False,4805.797,13,Hungarian Grand Prix
+ZHO,13.0,85.911,1.0,MEDIUM,13.0,1,True,Alfa Romeo,True,15.0,30.506,31.109,24.296,,False,False,4891.708,13,Hungarian Grand Prix
+ZHO,14.0,85.933,1.0,MEDIUM,14.0,1,True,Alfa Romeo,True,14.0,30.674,31.01,24.249,,False,False,4977.641,13,Hungarian Grand Prix
+ZHO,15.0,85.662,1.0,MEDIUM,15.0,1,True,Alfa Romeo,True,12.0,30.45,31.125,24.087,,False,False,5063.303,13,Hungarian Grand Prix
+ZHO,16.0,85.245,1.0,MEDIUM,16.0,1,True,Alfa Romeo,True,11.0,30.086,31.202,23.957,,False,False,5148.548,13,Hungarian Grand Prix
+ZHO,17.0,85.457,1.0,MEDIUM,17.0,1,True,Alfa Romeo,True,11.0,30.474,31.045,23.938,,False,False,5234.005,13,Hungarian Grand Prix
+ZHO,18.0,85.925,1.0,MEDIUM,18.0,1,True,Alfa Romeo,True,11.0,30.606,31.214,24.105,,False,False,5319.93,13,Hungarian Grand Prix
+ZHO,19.0,86.704,1.0,MEDIUM,19.0,1,True,Alfa Romeo,True,11.0,30.693,31.758,24.253,,False,False,5406.634,13,Hungarian Grand Prix
+ZHO,20.0,86.72,1.0,MEDIUM,20.0,1,True,Alfa Romeo,True,12.0,31.11,31.419,24.191,,False,False,5493.354,13,Hungarian Grand Prix
+ZHO,21.0,86.73,1.0,MEDIUM,21.0,1,True,Alfa Romeo,True,11.0,30.848,31.516,24.366,,False,False,5580.084,13,Hungarian Grand Prix
+ZHO,22.0,85.838,1.0,MEDIUM,22.0,1,True,Alfa Romeo,True,10.0,30.472,31.185,24.181,,False,False,5665.922,13,Hungarian Grand Prix
+ZHO,23.0,85.612,1.0,MEDIUM,23.0,1,True,Alfa Romeo,True,10.0,30.556,31.056,24.0,,False,False,5751.534,13,Hungarian Grand Prix
+ZHO,24.0,85.966,1.0,MEDIUM,24.0,1,True,Alfa Romeo,True,9.0,30.484,31.015,24.467,,False,False,5837.5,13,Hungarian Grand Prix
+ZHO,25.0,86.084,1.0,MEDIUM,25.0,1,True,Alfa Romeo,True,9.0,30.491,31.215,24.378,,False,False,5923.584,13,Hungarian Grand Prix
+ZHO,26.0,86.261,1.0,MEDIUM,26.0,1,True,Alfa Romeo,True,8.0,30.497,31.346,24.418,,False,False,6009.845,13,Hungarian Grand Prix
+ZHO,27.0,88.568,1.0,MEDIUM,27.0,1,False,Alfa Romeo,True,9.0,30.48,31.311,26.777,,True,False,6098.413,13,Hungarian Grand Prix
+ZHO,28.0,107.572,2.0,HARD,1.0,1,False,Alfa Romeo,True,17.0,50.996,32.04,24.536,,False,True,6205.985,13,Hungarian Grand Prix
+ZHO,29.0,85.585,2.0,HARD,2.0,1,True,Alfa Romeo,True,17.0,30.841,30.988,23.756,,False,False,6291.57,13,Hungarian Grand Prix
+ZHO,30.0,84.883,2.0,HARD,3.0,1,True,Alfa Romeo,True,17.0,30.283,30.647,23.953,,False,False,6376.453,13,Hungarian Grand Prix
+ZHO,31.0,85.187,2.0,HARD,4.0,1,True,Alfa Romeo,True,17.0,30.443,30.951,23.793,,False,False,6461.64,13,Hungarian Grand Prix
+ZHO,32.0,85.003,2.0,HARD,5.0,1,True,Alfa Romeo,True,17.0,30.363,30.748,23.892,,False,False,6546.643,13,Hungarian Grand Prix
+ZHO,33.0,85.48,2.0,HARD,6.0,1,True,Alfa Romeo,True,16.0,30.311,31.159,24.01,,False,False,6632.123,13,Hungarian Grand Prix
+ZHO,34.0,85.522,2.0,HARD,7.0,12,True,Alfa Romeo,True,16.0,30.435,31.052,24.035,,False,False,6717.645,13,Hungarian Grand Prix
+ZHO,35.0,85.628,2.0,HARD,8.0,1,True,Alfa Romeo,True,16.0,30.154,31.346,24.128,,False,False,6803.273,13,Hungarian Grand Prix
+ZHO,36.0,85.113,2.0,HARD,9.0,1,True,Alfa Romeo,True,16.0,30.095,31.142,23.876,,False,False,6888.386,13,Hungarian Grand Prix
+ZHO,37.0,85.494,2.0,HARD,10.0,1,True,Alfa Romeo,True,16.0,30.425,31.267,23.802,,False,False,6973.88,13,Hungarian Grand Prix
+ZHO,38.0,85.326,2.0,HARD,11.0,1,True,Alfa Romeo,True,15.0,30.222,31.089,24.015,,False,False,7059.206,13,Hungarian Grand Prix
+ZHO,39.0,85.001,2.0,HARD,12.0,1,True,Alfa Romeo,True,15.0,30.373,30.896,23.732,,False,False,7144.207,13,Hungarian Grand Prix
+ZHO,40.0,84.81,2.0,HARD,13.0,1,True,Alfa Romeo,True,15.0,30.299,30.75,23.761,,False,False,7229.017,13,Hungarian Grand Prix
+ZHO,41.0,85.091,2.0,HARD,14.0,12,True,Alfa Romeo,True,15.0,30.382,30.843,23.866,,False,False,7314.108,13,Hungarian Grand Prix
+ZHO,42.0,85.126,2.0,HARD,15.0,1,True,Alfa Romeo,True,15.0,30.313,31.023,23.79,,False,False,7399.234,13,Hungarian Grand Prix
+ZHO,43.0,85.053,2.0,HARD,16.0,1,True,Alfa Romeo,True,15.0,30.363,30.841,23.849,,False,False,7484.287,13,Hungarian Grand Prix
+ZHO,44.0,85.149,2.0,HARD,17.0,1,True,Alfa Romeo,True,15.0,30.319,30.781,24.049,,False,False,7569.436,13,Hungarian Grand Prix
+ZHO,45.0,85.277,2.0,HARD,18.0,1,True,Alfa Romeo,True,15.0,30.363,31.171,23.743,,False,False,7654.713,13,Hungarian Grand Prix
+ZHO,46.0,85.267,2.0,HARD,19.0,1,True,Alfa Romeo,True,15.0,30.397,31.04,23.83,,False,False,7739.98,13,Hungarian Grand Prix
+ZHO,47.0,89.101,2.0,HARD,20.0,12,True,Alfa Romeo,True,12.0,30.566,32.511,26.024,,False,False,7829.081,13,Hungarian Grand Prix
+ZHO,48.0,87.807,2.0,HARD,21.0,1,True,Alfa Romeo,True,13.0,31.119,32.502,24.186,,False,False,7916.888,13,Hungarian Grand Prix
+ZHO,49.0,87.221,2.0,HARD,22.0,1,True,Alfa Romeo,True,14.0,31.937,31.149,24.135,,False,False,8004.109,13,Hungarian Grand Prix
+ZHO,50.0,87.75,2.0,HARD,23.0,1,True,Alfa Romeo,True,14.0,30.587,33.156,24.007,,False,False,8091.859,13,Hungarian Grand Prix
+ZHO,51.0,90.241,2.0,HARD,24.0,1,False,Alfa Romeo,True,15.0,30.97,32.68,26.591,,True,False,8182.1,13,Hungarian Grand Prix
+ZHO,52.0,109.832,3.0,SOFT,1.0,1,False,Alfa Romeo,True,19.0,55.709,30.747,23.376,,False,True,8291.932,13,Hungarian Grand Prix
+ZHO,53.0,82.951,3.0,SOFT,2.0,1,True,Alfa Romeo,True,19.0,29.849,30.015,23.087,,False,False,8374.883,13,Hungarian Grand Prix
+ZHO,54.0,82.869,3.0,SOFT,3.0,1,True,Alfa Romeo,True,19.0,29.924,29.788,23.157,,False,False,8457.752,13,Hungarian Grand Prix
+ZHO,55.0,82.278,3.0,SOFT,4.0,1,True,Alfa Romeo,True,19.0,29.658,29.708,22.912,,False,False,8540.03,13,Hungarian Grand Prix
+ZHO,56.0,82.491,3.0,SOFT,5.0,1,True,Alfa Romeo,True,18.0,29.692,29.717,23.082,,False,False,8622.521,13,Hungarian Grand Prix
+ZHO,57.0,82.358,3.0,SOFT,6.0,1,True,Alfa Romeo,True,18.0,29.594,29.674,23.09,,False,False,8704.879,13,Hungarian Grand Prix
+ZHO,58.0,82.029,3.0,SOFT,7.0,1,True,Alfa Romeo,True,17.0,29.424,29.618,22.987,,False,False,8786.908,13,Hungarian Grand Prix
+ZHO,59.0,82.466,3.0,SOFT,8.0,1,True,Alfa Romeo,True,17.0,29.766,29.439,23.261,,False,False,8869.374,13,Hungarian Grand Prix
+ZHO,60.0,82.577,3.0,SOFT,9.0,1,True,Alfa Romeo,True,17.0,29.793,29.573,23.211,,False,False,8951.951,13,Hungarian Grand Prix
+ZHO,61.0,83.29,3.0,SOFT,10.0,1,True,Alfa Romeo,True,17.0,29.789,29.861,23.64,,False,False,9035.241,13,Hungarian Grand Prix
+ZHO,62.0,82.199,3.0,SOFT,11.0,1,True,Alfa Romeo,True,16.0,29.422,29.706,23.071,,False,False,9117.44,13,Hungarian Grand Prix
+ZHO,63.0,82.465,3.0,SOFT,12.0,1,True,Alfa Romeo,True,16.0,29.701,29.576,23.188,,False,False,9199.905,13,Hungarian Grand Prix
+ZHO,64.0,82.271,3.0,SOFT,13.0,1,True,Alfa Romeo,True,16.0,29.656,29.401,23.214,,False,False,9282.176,13,Hungarian Grand Prix
+ZHO,65.0,82.832,3.0,SOFT,14.0,1,True,Alfa Romeo,True,16.0,29.676,29.717,23.439,,False,False,9365.008,13,Hungarian Grand Prix
+ZHO,66.0,83.64,3.0,SOFT,15.0,12,True,Alfa Romeo,True,15.0,29.659,30.325,23.656,,False,False,9448.648,13,Hungarian Grand Prix
+ZHO,67.0,109.359,3.0,SOFT,16.0,26,False,Alfa Romeo,True,15.0,38.822,39.343,31.194,,False,False,9558.007,13,Hungarian Grand Prix
+ZHO,68.0,93.191,3.0,SOFT,17.0,671,False,Alfa Romeo,True,15.0,36.945,31.956,24.29,,False,False,9651.198,13,Hungarian Grand Prix
+ZHO,69.0,87.967,3.0,SOFT,18.0,1,True,Alfa Romeo,True,14.0,30.875,31.774,25.318,,False,False,9739.165,13,Hungarian Grand Prix
+RIC,1.0,101.889,1.0,SOFT,3.0,126,False,McLaren,False,11.0,,33.375,30.519,,False,False,3827.927,13,Hungarian Grand Prix
+RIC,2.0,113.527,1.0,SOFT,4.0,6,False,McLaren,False,11.0,47.947,33.555,32.025,,False,False,3941.454,13,Hungarian Grand Prix
+RIC,3.0,87.333,1.0,SOFT,5.0,671,False,McLaren,False,11.0,32.215,31.163,23.955,,False,False,4028.787,13,Hungarian Grand Prix
+RIC,4.0,84.91,1.0,SOFT,6.0,1,True,McLaren,False,11.0,30.116,31.071,23.723,,False,False,4113.697,13,Hungarian Grand Prix
+RIC,5.0,85.227,1.0,SOFT,7.0,1,True,McLaren,False,11.0,30.246,31.23,23.751,,False,False,4198.924,13,Hungarian Grand Prix
+RIC,6.0,85.614,1.0,SOFT,8.0,1,True,McLaren,False,10.0,30.707,31.164,23.743,,False,False,4284.538,13,Hungarian Grand Prix
+RIC,7.0,85.052,1.0,SOFT,9.0,1,True,McLaren,False,10.0,29.89,31.171,23.991,,False,False,4369.59,13,Hungarian Grand Prix
+RIC,8.0,85.521,1.0,SOFT,10.0,1,True,McLaren,False,10.0,30.409,31.08,24.032,,False,False,4455.111,13,Hungarian Grand Prix
+RIC,9.0,85.516,1.0,SOFT,11.0,1,True,McLaren,False,10.0,30.463,31.026,24.027,,False,False,4540.627,13,Hungarian Grand Prix
+RIC,10.0,85.674,1.0,SOFT,12.0,1,True,McLaren,False,10.0,30.387,31.321,23.966,,False,False,4626.301,13,Hungarian Grand Prix
+RIC,11.0,85.806,1.0,SOFT,13.0,1,True,McLaren,False,10.0,30.318,31.315,24.173,,False,False,4712.107,13,Hungarian Grand Prix
+RIC,12.0,85.825,1.0,SOFT,14.0,1,True,McLaren,False,10.0,30.444,31.294,24.087,,False,False,4797.932,13,Hungarian Grand Prix
+RIC,13.0,86.436,1.0,SOFT,15.0,1,True,McLaren,False,10.0,30.399,31.502,24.535,,False,False,4884.368,13,Hungarian Grand Prix
+RIC,14.0,87.807,1.0,SOFT,16.0,1,True,McLaren,False,10.0,30.663,32.047,25.097,,False,False,4972.175,13,Hungarian Grand Prix
+RIC,15.0,90.229,1.0,SOFT,17.0,1,False,McLaren,False,11.0,30.759,32.014,27.456,,True,False,5062.404,13,Hungarian Grand Prix
+RIC,16.0,103.683,2.0,MEDIUM,1.0,1,False,McLaren,True,16.0,49.048,31.038,23.597,,False,True,5166.087,13,Hungarian Grand Prix
+RIC,17.0,84.437,2.0,MEDIUM,2.0,1,True,McLaren,True,14.0,29.963,30.735,23.739,,False,False,5250.524,13,Hungarian Grand Prix
+RIC,18.0,84.529,2.0,MEDIUM,3.0,1,True,McLaren,True,14.0,30.181,30.609,23.739,,False,False,5335.053,13,Hungarian Grand Prix
+RIC,19.0,84.53,2.0,MEDIUM,4.0,1,True,McLaren,True,13.0,30.113,30.665,23.752,,False,False,5419.583,13,Hungarian Grand Prix
+RIC,20.0,84.633,2.0,MEDIUM,5.0,1,True,McLaren,True,13.0,30.218,30.689,23.726,,False,False,5504.216,13,Hungarian Grand Prix
+RIC,21.0,84.45,2.0,MEDIUM,6.0,1,True,McLaren,True,13.0,30.247,30.58,23.623,,False,False,5588.666,13,Hungarian Grand Prix
+RIC,22.0,84.742,2.0,MEDIUM,7.0,1,True,McLaren,True,12.0,30.131,30.768,23.843,,False,False,5673.408,13,Hungarian Grand Prix
+RIC,23.0,84.62,2.0,MEDIUM,8.0,1,True,McLaren,True,12.0,29.932,30.987,23.701,,False,False,5758.028,13,Hungarian Grand Prix
+RIC,24.0,84.748,2.0,MEDIUM,9.0,1,True,McLaren,True,10.0,30.083,30.507,24.158,,False,False,5842.776,13,Hungarian Grand Prix
+RIC,25.0,84.783,2.0,MEDIUM,10.0,1,True,McLaren,True,10.0,30.228,30.692,23.863,,False,False,5927.559,13,Hungarian Grand Prix
+RIC,26.0,84.713,2.0,MEDIUM,11.0,1,True,McLaren,True,10.0,30.184,30.703,23.826,,False,False,6012.272,13,Hungarian Grand Prix
+RIC,27.0,84.824,2.0,MEDIUM,12.0,1,True,McLaren,True,8.0,30.301,30.775,23.748,,False,False,6097.096,13,Hungarian Grand Prix
+RIC,28.0,84.741,2.0,MEDIUM,13.0,1,True,McLaren,True,8.0,30.177,30.702,23.862,,False,False,6181.837,13,Hungarian Grand Prix
+RIC,29.0,84.594,2.0,MEDIUM,14.0,1,True,McLaren,True,8.0,30.315,30.523,23.756,,False,False,6266.431,13,Hungarian Grand Prix
+RIC,30.0,85.07,2.0,MEDIUM,15.0,1,True,McLaren,True,8.0,30.291,30.759,24.02,,False,False,6351.501,13,Hungarian Grand Prix
+RIC,31.0,85.105,2.0,MEDIUM,16.0,1,True,McLaren,True,8.0,30.27,30.844,23.991,,False,False,6436.606,13,Hungarian Grand Prix
+RIC,32.0,85.528,2.0,MEDIUM,17.0,1,True,McLaren,True,8.0,30.458,30.95,24.12,,False,False,6522.134,13,Hungarian Grand Prix
+RIC,33.0,85.111,2.0,MEDIUM,18.0,1,True,McLaren,True,8.0,30.373,30.778,23.96,,False,False,6607.245,13,Hungarian Grand Prix
+RIC,34.0,85.032,2.0,MEDIUM,19.0,1,True,McLaren,True,8.0,30.45,30.632,23.95,,False,False,6692.277,13,Hungarian Grand Prix
+RIC,35.0,85.113,2.0,MEDIUM,20.0,12,True,McLaren,True,8.0,30.371,30.916,23.826,,False,False,6777.39,13,Hungarian Grand Prix
+RIC,36.0,85.062,2.0,MEDIUM,21.0,1,True,McLaren,True,8.0,30.216,30.844,24.002,,False,False,6862.452,13,Hungarian Grand Prix
+RIC,37.0,85.569,2.0,MEDIUM,22.0,1,True,McLaren,True,8.0,30.515,31.003,24.051,,False,False,6948.021,13,Hungarian Grand Prix
+RIC,38.0,85.593,2.0,MEDIUM,23.0,1,True,McLaren,True,8.0,30.424,31.234,23.935,,False,False,7033.614,13,Hungarian Grand Prix
+RIC,39.0,85.624,2.0,MEDIUM,24.0,1,True,McLaren,True,8.0,30.383,31.117,24.124,,False,False,7119.238,13,Hungarian Grand Prix
+RIC,40.0,85.29,2.0,MEDIUM,25.0,1,True,McLaren,True,8.0,30.351,30.972,23.967,,False,False,7204.528,13,Hungarian Grand Prix
+RIC,41.0,85.129,2.0,MEDIUM,26.0,12,True,McLaren,True,8.0,30.489,30.806,23.834,,False,False,7289.657,13,Hungarian Grand Prix
+RIC,42.0,85.079,2.0,MEDIUM,27.0,1,True,McLaren,True,8.0,30.354,30.948,23.777,,False,False,7374.736,13,Hungarian Grand Prix
+RIC,43.0,85.161,2.0,MEDIUM,28.0,1,True,McLaren,True,7.0,30.359,30.922,23.88,,False,False,7459.897,13,Hungarian Grand Prix
+RIC,44.0,84.924,2.0,MEDIUM,29.0,1,True,McLaren,True,7.0,30.217,30.828,23.879,,False,False,7544.821,13,Hungarian Grand Prix
+RIC,45.0,85.042,2.0,MEDIUM,30.0,1,True,McLaren,True,7.0,30.31,30.889,23.843,,False,False,7629.863,13,Hungarian Grand Prix
+RIC,46.0,87.76,2.0,MEDIUM,31.0,1,False,McLaren,True,8.0,30.261,31.059,26.44,,True,False,7717.623,13,Hungarian Grand Prix
+RIC,47.0,109.671,3.0,HARD,1.0,12,False,McLaren,True,11.0,52.071,33.084,24.516,,False,True,7827.294,13,Hungarian Grand Prix
+RIC,48.0,87.952,3.0,HARD,2.0,1,True,McLaren,True,11.0,32.175,31.666,24.111,,False,False,7915.246,13,Hungarian Grand Prix
+RIC,49.0,86.411,3.0,HARD,3.0,1,True,McLaren,True,12.0,30.763,30.666,24.982,,False,False,8001.657,13,Hungarian Grand Prix
+RIC,50.0,84.419,3.0,HARD,4.0,1,True,McLaren,True,12.0,30.424,30.528,23.467,,False,False,8086.076,13,Hungarian Grand Prix
+RIC,51.0,84.823,3.0,HARD,5.0,1,True,McLaren,True,13.0,30.77,30.489,23.564,,False,False,8170.899,13,Hungarian Grand Prix
+RIC,52.0,84.263,3.0,HARD,6.0,1,True,McLaren,True,13.0,30.11,30.411,23.742,,False,False,8255.162,13,Hungarian Grand Prix
+RIC,53.0,85.762,3.0,HARD,7.0,1,True,McLaren,True,13.0,30.06,30.422,25.28,,False,False,8340.924,13,Hungarian Grand Prix
+RIC,54.0,86.589,3.0,HARD,8.0,1,True,McLaren,True,13.0,30.363,32.361,23.865,,False,False,8427.513,13,Hungarian Grand Prix
+RIC,55.0,85.478,3.0,HARD,9.0,1,True,McLaren,True,14.0,30.678,31.103,23.697,,False,False,8512.991,13,Hungarian Grand Prix
+RIC,56.0,85.643,3.0,HARD,10.0,1,True,McLaren,True,14.0,30.069,32.063,23.511,,False,False,8598.634,13,Hungarian Grand Prix
+RIC,57.0,84.251,3.0,HARD,11.0,1,True,McLaren,True,14.0,30.024,30.536,23.691,,False,False,8682.885,13,Hungarian Grand Prix
+RIC,58.0,83.745,3.0,HARD,12.0,1,True,McLaren,True,14.0,29.868,30.237,23.64,,False,False,8766.63,13,Hungarian Grand Prix
+RIC,59.0,84.177,3.0,HARD,13.0,1,True,McLaren,True,14.0,30.199,30.234,23.744,,False,False,8850.807,13,Hungarian Grand Prix
+RIC,60.0,83.809,3.0,HARD,14.0,1,True,McLaren,True,14.0,30.004,30.113,23.692,,False,False,8934.616,13,Hungarian Grand Prix
+RIC,61.0,86.112,3.0,HARD,15.0,1,True,McLaren,True,14.0,31.659,30.543,23.91,,False,False,9020.728,13,Hungarian Grand Prix
+RIC,62.0,85.816,3.0,HARD,16.0,1,True,McLaren,True,14.0,29.939,32.015,23.862,,False,False,9106.544,13,Hungarian Grand Prix
+RIC,63.0,83.654,3.0,HARD,17.0,1,True,McLaren,True,14.0,29.964,30.204,23.486,,False,False,9190.198,13,Hungarian Grand Prix
+RIC,64.0,83.59,3.0,HARD,18.0,1,True,McLaren,True,14.0,29.847,30.147,23.596,,False,False,9273.788,13,Hungarian Grand Prix
+RIC,65.0,83.92,3.0,HARD,19.0,1,True,McLaren,True,14.0,29.95,30.315,23.655,,False,False,9357.708,13,Hungarian Grand Prix
+RIC,66.0,84.896,3.0,HARD,20.0,12,True,McLaren,True,13.0,29.913,30.862,24.121,,False,False,9442.604,13,Hungarian Grand Prix
+RIC,67.0,107.424,3.0,HARD,21.0,26,False,McLaren,True,13.0,36.332,40.325,30.767,,False,False,9550.028,13,Hungarian Grand Prix
+RIC,68.0,98.367,3.0,HARD,22.0,671,False,McLaren,True,13.0,39.419,33.538,25.41,,False,False,9648.395,13,Hungarian Grand Prix
+RIC,69.0,89.992,3.0,HARD,23.0,1,True,McLaren,True,13.0,31.874,32.836,25.282,,False,False,9738.387,13,Hungarian Grand Prix
+OCO,1.0,93.887,1.0,MEDIUM,1.0,126,False,Alpine,True,6.0,,32.554,25.027,,False,False,3819.925,13,Hungarian Grand Prix
+OCO,2.0,114.847,1.0,MEDIUM,2.0,6,False,Alpine,True,6.0,46.551,36.731,31.565,,False,False,3934.772,13,Hungarian Grand Prix
+OCO,3.0,89.34,1.0,MEDIUM,3.0,671,False,Alpine,True,6.0,34.531,31.086,23.723,,False,False,4024.112,13,Hungarian Grand Prix
+OCO,4.0,84.583,1.0,MEDIUM,4.0,1,True,Alpine,True,6.0,30.33,30.588,23.665,,False,False,4108.695,13,Hungarian Grand Prix
+OCO,5.0,84.991,1.0,MEDIUM,5.0,1,True,Alpine,True,6.0,30.355,30.934,23.702,,False,False,4193.686,13,Hungarian Grand Prix
+OCO,6.0,85.0,1.0,MEDIUM,6.0,1,True,Alpine,True,6.0,30.248,30.84,23.912,,False,False,4278.686,13,Hungarian Grand Prix
+OCO,7.0,86.285,1.0,MEDIUM,7.0,1,True,Alpine,True,7.0,30.958,31.239,24.088,,False,False,4364.971,13,Hungarian Grand Prix
+OCO,8.0,85.336,1.0,MEDIUM,8.0,1,True,Alpine,True,7.0,30.41,30.853,24.073,,False,False,4450.307,13,Hungarian Grand Prix
+OCO,9.0,86.048,1.0,MEDIUM,9.0,1,True,Alpine,True,8.0,30.9,31.066,24.082,,False,False,4536.355,13,Hungarian Grand Prix
+OCO,10.0,85.396,1.0,MEDIUM,10.0,1,True,Alpine,True,8.0,30.502,31.033,23.861,,False,False,4621.751,13,Hungarian Grand Prix
+OCO,11.0,85.266,1.0,MEDIUM,11.0,1,True,Alpine,True,8.0,30.37,31.049,23.847,,False,False,4707.017,13,Hungarian Grand Prix
+OCO,12.0,85.335,1.0,MEDIUM,12.0,1,True,Alpine,True,8.0,30.494,30.891,23.95,,False,False,4792.352,13,Hungarian Grand Prix
+OCO,13.0,85.225,1.0,MEDIUM,13.0,1,True,Alpine,True,8.0,30.29,30.806,24.129,,False,False,4877.577,13,Hungarian Grand Prix
+OCO,14.0,85.774,1.0,MEDIUM,14.0,1,True,Alpine,True,7.0,30.464,30.939,24.371,,False,False,4963.351,13,Hungarian Grand Prix
+OCO,15.0,84.704,1.0,MEDIUM,15.0,1,True,Alpine,True,7.0,29.978,30.741,23.985,,False,False,5048.055,13,Hungarian Grand Prix
+OCO,16.0,85.225,1.0,MEDIUM,16.0,1,True,Alpine,True,7.0,30.445,30.752,24.028,,False,False,5133.28,13,Hungarian Grand Prix
+OCO,17.0,85.746,1.0,MEDIUM,17.0,1,True,Alpine,True,5.0,30.639,30.962,24.145,,False,False,5219.026,13,Hungarian Grand Prix
+OCO,18.0,86.403,1.0,MEDIUM,18.0,1,True,Alpine,True,5.0,31.039,31.264,24.1,,False,False,5305.429,13,Hungarian Grand Prix
+OCO,19.0,86.503,1.0,MEDIUM,19.0,1,True,Alpine,True,5.0,30.988,31.367,24.148,,False,False,5391.932,13,Hungarian Grand Prix
+OCO,20.0,85.746,1.0,MEDIUM,20.0,1,True,Alpine,True,4.0,30.48,31.342,23.924,,False,False,5477.678,13,Hungarian Grand Prix
+OCO,21.0,86.191,1.0,MEDIUM,21.0,1,True,Alpine,True,5.0,30.825,31.192,24.174,,False,False,5563.869,13,Hungarian Grand Prix
+OCO,22.0,85.479,1.0,MEDIUM,22.0,1,True,Alpine,True,5.0,30.393,30.979,24.107,,False,False,5649.348,13,Hungarian Grand Prix
+OCO,23.0,87.713,1.0,MEDIUM,23.0,1,False,Alpine,True,6.0,30.345,31.034,26.334,,True,False,5737.061,13,Hungarian Grand Prix
+OCO,24.0,107.433,2.0,HARD,1.0,1,False,Alpine,True,11.0,51.527,31.564,24.342,,False,True,5844.494,13,Hungarian Grand Prix
+OCO,25.0,85.287,2.0,HARD,2.0,1,True,Alpine,True,11.0,30.387,30.933,23.967,,False,False,5929.781,13,Hungarian Grand Prix
+OCO,26.0,85.33,2.0,HARD,3.0,1,True,Alpine,True,11.0,30.371,30.994,23.965,,False,False,6015.111,13,Hungarian Grand Prix
+OCO,27.0,85.642,2.0,HARD,4.0,1,True,Alpine,True,10.0,30.374,31.089,24.179,,False,False,6100.753,13,Hungarian Grand Prix
+OCO,28.0,85.205,2.0,HARD,5.0,1,True,Alpine,True,9.0,30.383,30.789,24.033,,False,False,6185.958,13,Hungarian Grand Prix
+OCO,29.0,86.402,2.0,HARD,6.0,1,True,Alpine,True,10.0,30.952,31.335,24.115,,False,False,6272.36,13,Hungarian Grand Prix
+OCO,30.0,85.58,2.0,HARD,7.0,1,True,Alpine,True,10.0,30.396,30.896,24.288,,False,False,6357.94,13,Hungarian Grand Prix
+OCO,31.0,85.47,2.0,HARD,8.0,1,True,Alpine,True,10.0,30.364,30.855,24.251,,False,False,6443.41,13,Hungarian Grand Prix
+OCO,32.0,85.759,2.0,HARD,9.0,1,True,Alpine,True,10.0,30.297,31.329,24.133,,False,False,6529.169,13,Hungarian Grand Prix
+OCO,33.0,85.215,2.0,HARD,10.0,1,True,Alpine,True,10.0,30.418,30.843,23.954,,False,False,6614.384,13,Hungarian Grand Prix
+OCO,34.0,85.326,2.0,HARD,11.0,1,True,Alpine,True,10.0,30.369,30.961,23.996,,False,False,6699.71,13,Hungarian Grand Prix
+OCO,35.0,85.255,2.0,HARD,12.0,12,True,Alpine,True,10.0,30.33,30.919,24.006,,False,False,6784.965,13,Hungarian Grand Prix
+OCO,36.0,85.06,2.0,HARD,13.0,1,True,Alpine,True,10.0,30.195,31.014,23.851,,False,False,6870.025,13,Hungarian Grand Prix
+OCO,37.0,84.798,2.0,HARD,14.0,1,True,Alpine,True,10.0,30.282,30.748,23.768,,False,False,6954.823,13,Hungarian Grand Prix
+OCO,38.0,86.852,2.0,HARD,15.0,1,True,Alpine,True,11.0,31.174,31.607,24.071,,False,False,7041.675,13,Hungarian Grand Prix
+OCO,39.0,85.466,2.0,HARD,16.0,1,True,Alpine,True,11.0,30.477,30.91,24.079,,False,False,7127.141,13,Hungarian Grand Prix
+OCO,40.0,85.027,2.0,HARD,17.0,1,True,Alpine,True,11.0,30.218,30.768,24.041,,False,False,7212.168,13,Hungarian Grand Prix
+OCO,41.0,86.308,2.0,HARD,18.0,12,True,Alpine,True,12.0,31.398,31.003,23.907,,False,False,7298.476,13,Hungarian Grand Prix
+OCO,42.0,85.196,2.0,HARD,19.0,1,True,Alpine,True,12.0,30.472,30.776,23.948,,False,False,7383.672,13,Hungarian Grand Prix
+OCO,43.0,84.991,2.0,HARD,20.0,1,True,Alpine,True,12.0,30.304,30.637,24.05,,False,False,7468.663,13,Hungarian Grand Prix
+OCO,44.0,85.084,2.0,HARD,21.0,1,True,Alpine,True,12.0,30.19,30.82,24.074,,False,False,7553.747,13,Hungarian Grand Prix
+OCO,45.0,85.053,2.0,HARD,22.0,1,True,Alpine,True,12.0,30.294,30.821,23.938,,False,False,7638.8,13,Hungarian Grand Prix
+OCO,46.0,85.3,2.0,HARD,23.0,1,True,Alpine,True,11.0,30.398,30.812,24.09,,False,False,7724.1,13,Hungarian Grand Prix
+OCO,47.0,84.758,2.0,HARD,24.0,12,True,Alpine,True,9.0,30.245,30.665,23.848,,False,False,7808.858,13,Hungarian Grand Prix
+OCO,48.0,84.718,2.0,HARD,25.0,1,True,Alpine,True,9.0,30.242,30.568,23.908,,False,False,7893.576,13,Hungarian Grand Prix
+OCO,49.0,84.719,2.0,HARD,26.0,1,True,Alpine,True,9.0,30.18,30.471,24.068,,False,False,7978.295,13,Hungarian Grand Prix
+OCO,50.0,84.661,2.0,HARD,27.0,1,True,Alpine,True,9.0,30.216,30.595,23.85,,False,False,8062.956,13,Hungarian Grand Prix
+OCO,51.0,84.553,2.0,HARD,28.0,1,True,Alpine,True,9.0,30.166,30.553,23.834,,False,False,8147.509,13,Hungarian Grand Prix
+OCO,52.0,84.667,2.0,HARD,29.0,1,True,Alpine,True,9.0,30.216,30.64,23.811,,False,False,8232.176,13,Hungarian Grand Prix
+OCO,53.0,85.096,2.0,HARD,30.0,1,True,Alpine,True,9.0,30.192,30.907,23.997,,False,False,8317.272,13,Hungarian Grand Prix
+OCO,54.0,84.612,2.0,HARD,31.0,1,True,Alpine,True,9.0,30.128,30.637,23.847,,False,False,8401.884,13,Hungarian Grand Prix
+OCO,55.0,84.931,2.0,HARD,32.0,1,True,Alpine,True,9.0,30.428,30.591,23.912,,False,False,8486.815,13,Hungarian Grand Prix
+OCO,56.0,84.492,2.0,HARD,33.0,1,True,Alpine,True,9.0,30.257,30.472,23.763,,False,False,8571.307,13,Hungarian Grand Prix
+OCO,57.0,84.78,2.0,HARD,34.0,1,True,Alpine,True,9.0,30.271,30.666,23.843,,False,False,8656.087,13,Hungarian Grand Prix
+OCO,58.0,84.726,2.0,HARD,35.0,1,True,Alpine,True,9.0,30.137,30.77,23.819,,False,False,8740.813,13,Hungarian Grand Prix
+OCO,59.0,84.484,2.0,HARD,36.0,1,True,Alpine,True,9.0,30.208,30.373,23.903,,False,False,8825.297,13,Hungarian Grand Prix
+OCO,60.0,84.149,2.0,HARD,37.0,1,True,Alpine,True,9.0,30.192,30.306,23.651,,False,False,8909.446,13,Hungarian Grand Prix
+OCO,61.0,84.55,2.0,HARD,38.0,1,True,Alpine,True,9.0,30.206,30.491,23.853,,False,False,8993.996,13,Hungarian Grand Prix
+OCO,62.0,85.965,2.0,HARD,39.0,1,True,Alpine,True,9.0,30.072,30.593,25.3,,False,False,9079.961,13,Hungarian Grand Prix
+OCO,63.0,84.413,2.0,HARD,40.0,1,True,Alpine,True,9.0,29.96,30.591,23.862,,False,False,9164.374,13,Hungarian Grand Prix
+OCO,64.0,84.508,2.0,HARD,41.0,1,True,Alpine,True,9.0,30.248,30.342,23.918,,False,False,9248.882,13,Hungarian Grand Prix
+OCO,65.0,84.568,2.0,HARD,42.0,1,True,Alpine,True,9.0,30.158,30.499,23.911,,False,False,9333.45,13,Hungarian Grand Prix
+OCO,66.0,84.655,2.0,HARD,43.0,1,True,Alpine,True,9.0,30.143,30.503,24.009,,False,False,9418.105,13,Hungarian Grand Prix
+OCO,67.0,101.342,2.0,HARD,44.0,126,False,Alpine,True,9.0,30.674,38.155,32.513,,False,False,9519.447,13,Hungarian Grand Prix
+OCO,68.0,103.317,2.0,HARD,45.0,671,False,Alpine,True,9.0,40.81,36.332,26.175,,False,False,9622.764,13,Hungarian Grand Prix
+OCO,69.0,90.274,2.0,HARD,46.0,1,True,Alpine,True,9.0,32.024,32.663,25.587,,False,False,9713.038,13,Hungarian Grand Prix
+NOR,1.0,91.618,1.0,SOFT,4.0,126,False,McLaren,False,4.0,,31.971,23.832,,False,False,3817.656,13,Hungarian Grand Prix
+NOR,2.0,115.079,1.0,SOFT,5.0,6,False,McLaren,False,4.0,46.258,36.853,31.968,,False,False,3932.735,13,Hungarian Grand Prix
+NOR,3.0,89.459,1.0,SOFT,6.0,671,False,McLaren,False,4.0,35.337,30.684,23.438,,False,False,4022.194,13,Hungarian Grand Prix
+NOR,4.0,84.09,1.0,SOFT,7.0,1,True,McLaren,False,4.0,30.417,30.225,23.448,,False,False,4106.284,13,Hungarian Grand Prix
+NOR,5.0,84.182,1.0,SOFT,8.0,1,True,McLaren,False,4.0,30.505,30.255,23.422,,False,False,4190.466,13,Hungarian Grand Prix
+NOR,6.0,84.512,1.0,SOFT,9.0,1,True,McLaren,False,4.0,30.345,30.598,23.569,,False,False,4274.978,13,Hungarian Grand Prix
+NOR,7.0,84.533,1.0,SOFT,10.0,1,True,McLaren,False,4.0,30.508,30.402,23.623,,False,False,4359.511,13,Hungarian Grand Prix
+NOR,8.0,84.857,1.0,SOFT,11.0,1,True,McLaren,False,4.0,30.415,30.67,23.772,,False,False,4444.368,13,Hungarian Grand Prix
+NOR,9.0,84.832,1.0,SOFT,12.0,1,True,McLaren,False,4.0,30.445,30.484,23.903,,False,False,4529.2,13,Hungarian Grand Prix
+NOR,10.0,85.461,1.0,SOFT,13.0,1,True,McLaren,False,4.0,30.666,31.011,23.784,,False,False,4614.661,13,Hungarian Grand Prix
+NOR,11.0,85.801,1.0,SOFT,14.0,1,True,McLaren,False,4.0,30.587,31.209,24.005,,False,False,4700.462,13,Hungarian Grand Prix
+NOR,12.0,87.788,1.0,SOFT,15.0,1,True,McLaren,False,6.0,31.363,31.884,24.541,,False,False,4788.25,13,Hungarian Grand Prix
+NOR,13.0,87.296,1.0,SOFT,16.0,1,True,McLaren,False,7.0,31.113,31.63,24.553,,False,False,4875.546,13,Hungarian Grand Prix
+NOR,14.0,89.653,1.0,SOFT,17.0,1,False,McLaren,False,9.0,30.763,31.667,27.223,,True,False,4965.199,13,Hungarian Grand Prix
+NOR,15.0,105.057,2.0,MEDIUM,1.0,1,False,McLaren,True,16.0,50.84,30.659,23.558,,False,True,5070.256,13,Hungarian Grand Prix
+NOR,16.0,83.914,2.0,MEDIUM,2.0,1,True,McLaren,True,12.0,29.951,30.438,23.525,,False,False,5154.17,13,Hungarian Grand Prix
+NOR,17.0,83.686,2.0,MEDIUM,3.0,1,True,McLaren,True,12.0,29.949,30.299,23.438,,False,False,5237.856,13,Hungarian Grand Prix
+NOR,18.0,84.141,2.0,MEDIUM,4.0,1,True,McLaren,True,12.0,30.277,30.384,23.48,,False,False,5321.997,13,Hungarian Grand Prix
+NOR,19.0,84.78,2.0,MEDIUM,5.0,1,True,McLaren,True,12.0,30.245,30.786,23.749,,False,False,5406.777,13,Hungarian Grand Prix
+NOR,20.0,85.566,2.0,MEDIUM,6.0,1,True,McLaren,True,11.0,30.034,31.25,24.282,,False,False,5492.343,13,Hungarian Grand Prix
+NOR,21.0,85.448,2.0,MEDIUM,7.0,1,True,McLaren,True,9.0,30.158,31.123,24.167,,False,False,5577.791,13,Hungarian Grand Prix
+NOR,22.0,83.568,2.0,MEDIUM,8.0,1,True,McLaren,True,8.0,29.888,30.066,23.614,,False,False,5661.359,13,Hungarian Grand Prix
+NOR,23.0,83.879,2.0,MEDIUM,9.0,1,True,McLaren,True,8.0,30.207,30.146,23.526,,False,False,5745.238,13,Hungarian Grand Prix
+NOR,24.0,84.012,2.0,MEDIUM,10.0,1,True,McLaren,True,7.0,30.157,30.057,23.798,,False,False,5829.25,13,Hungarian Grand Prix
+NOR,25.0,84.225,2.0,MEDIUM,11.0,1,True,McLaren,True,7.0,30.256,30.225,23.744,,False,False,5913.475,13,Hungarian Grand Prix
+NOR,26.0,84.436,2.0,MEDIUM,12.0,1,True,McLaren,True,7.0,30.196,30.583,23.657,,False,False,5997.911,13,Hungarian Grand Prix
+NOR,27.0,84.403,2.0,MEDIUM,13.0,1,True,McLaren,True,7.0,30.15,30.493,23.76,,False,False,6082.314,13,Hungarian Grand Prix
+NOR,28.0,84.451,2.0,MEDIUM,14.0,1,True,McLaren,True,7.0,30.384,30.344,23.723,,False,False,6166.765,13,Hungarian Grand Prix
+NOR,29.0,84.486,2.0,MEDIUM,15.0,1,True,McLaren,True,7.0,30.284,30.583,23.619,,False,False,6251.251,13,Hungarian Grand Prix
+NOR,30.0,85.016,2.0,MEDIUM,16.0,1,True,McLaren,True,7.0,30.346,30.565,24.105,,False,False,6336.267,13,Hungarian Grand Prix
+NOR,31.0,84.645,2.0,MEDIUM,17.0,1,True,McLaren,True,7.0,30.313,30.566,23.766,,False,False,6420.912,13,Hungarian Grand Prix
+NOR,32.0,84.949,2.0,MEDIUM,18.0,1,True,McLaren,True,7.0,30.367,30.583,23.999,,False,False,6505.861,13,Hungarian Grand Prix
+NOR,33.0,84.77,2.0,MEDIUM,19.0,1,True,McLaren,True,7.0,30.427,30.488,23.855,,False,False,6590.631,13,Hungarian Grand Prix
+NOR,34.0,84.692,2.0,MEDIUM,20.0,1,True,McLaren,True,7.0,30.284,30.436,23.972,,False,False,6675.323,13,Hungarian Grand Prix
+NOR,35.0,85.472,2.0,MEDIUM,21.0,12,True,McLaren,True,7.0,30.326,31.216,23.93,,False,False,6760.795,13,Hungarian Grand Prix
+NOR,36.0,85.547,2.0,MEDIUM,22.0,1,True,McLaren,True,7.0,30.31,31.256,23.981,,False,False,6846.342,13,Hungarian Grand Prix
+NOR,37.0,84.924,2.0,MEDIUM,23.0,1,True,McLaren,True,7.0,30.473,30.686,23.765,,False,False,6931.266,13,Hungarian Grand Prix
+NOR,38.0,85.131,2.0,MEDIUM,24.0,1,True,McLaren,True,7.0,30.352,30.924,23.855,,False,False,7016.397,13,Hungarian Grand Prix
+NOR,39.0,85.474,2.0,MEDIUM,25.0,1,True,McLaren,True,7.0,30.5,31.012,23.962,,False,False,7101.871,13,Hungarian Grand Prix
+NOR,40.0,85.065,2.0,MEDIUM,26.0,1,True,McLaren,True,7.0,30.327,30.666,24.072,,False,False,7186.936,13,Hungarian Grand Prix
+NOR,41.0,85.304,2.0,MEDIUM,27.0,12,True,McLaren,True,7.0,30.436,30.714,24.154,,False,False,7272.24,13,Hungarian Grand Prix
+NOR,42.0,88.496,2.0,MEDIUM,28.0,1,False,McLaren,True,7.0,30.632,31.312,26.552,,True,False,7360.736,13,Hungarian Grand Prix
+NOR,43.0,103.907,3.0,HARD,1.0,1,False,McLaren,True,9.0,49.504,30.791,23.612,,False,True,7464.643,13,Hungarian Grand Prix
+NOR,44.0,84.265,3.0,HARD,2.0,1,True,McLaren,True,9.0,30.286,30.472,23.507,,False,False,7548.908,13,Hungarian Grand Prix
+NOR,45.0,83.713,3.0,HARD,3.0,1,True,McLaren,True,9.0,30.16,30.265,23.288,,False,False,7632.621,13,Hungarian Grand Prix
+NOR,46.0,84.271,3.0,HARD,4.0,1,True,McLaren,True,7.0,30.082,30.434,23.755,,False,False,7716.892,13,Hungarian Grand Prix
+NOR,47.0,83.043,3.0,HARD,5.0,12,True,McLaren,True,7.0,29.771,29.93,23.342,,False,False,7799.935,13,Hungarian Grand Prix
+NOR,48.0,83.31,3.0,HARD,6.0,1,True,McLaren,True,7.0,30.02,29.943,23.347,,False,False,7883.245,13,Hungarian Grand Prix
+NOR,49.0,83.626,3.0,HARD,7.0,1,True,McLaren,True,7.0,30.056,29.945,23.625,,False,False,7966.871,13,Hungarian Grand Prix
+NOR,50.0,83.672,3.0,HARD,8.0,1,True,McLaren,True,7.0,30.107,30.111,23.454,,False,False,8050.543,13,Hungarian Grand Prix
+NOR,51.0,83.397,3.0,HARD,9.0,1,True,McLaren,True,7.0,30.024,30.037,23.336,,False,False,8133.94,13,Hungarian Grand Prix
+NOR,52.0,83.798,3.0,HARD,10.0,1,True,McLaren,True,7.0,30.23,30.129,23.439,,False,False,8217.738,13,Hungarian Grand Prix
+NOR,53.0,83.922,3.0,HARD,11.0,1,True,McLaren,True,7.0,30.008,30.277,23.637,,False,False,8301.66,13,Hungarian Grand Prix
+NOR,54.0,83.866,3.0,HARD,12.0,1,True,McLaren,True,7.0,29.98,30.336,23.55,,False,False,8385.526,13,Hungarian Grand Prix
+NOR,55.0,84.129,3.0,HARD,13.0,1,True,McLaren,True,7.0,30.192,30.398,23.539,,False,False,8469.655,13,Hungarian Grand Prix
+NOR,56.0,84.038,3.0,HARD,14.0,1,True,McLaren,True,7.0,30.158,30.268,23.612,,False,False,8553.693,13,Hungarian Grand Prix
+NOR,57.0,84.008,3.0,HARD,15.0,1,True,McLaren,True,7.0,30.383,30.107,23.518,,False,False,8637.701,13,Hungarian Grand Prix
+NOR,58.0,84.268,3.0,HARD,16.0,1,True,McLaren,True,7.0,30.298,30.53,23.44,,False,False,8721.969,13,Hungarian Grand Prix
+NOR,59.0,83.656,3.0,HARD,17.0,1,True,McLaren,True,7.0,30.072,30.159,23.425,,False,False,8805.625,13,Hungarian Grand Prix
+NOR,60.0,83.593,3.0,HARD,18.0,1,True,McLaren,True,7.0,30.164,29.874,23.555,,False,False,8889.218,13,Hungarian Grand Prix
+NOR,61.0,83.314,3.0,HARD,19.0,1,True,McLaren,True,7.0,30.04,29.948,23.326,,False,False,8972.532,13,Hungarian Grand Prix
+NOR,62.0,83.66,3.0,HARD,20.0,1,True,McLaren,True,7.0,30.057,30.125,23.478,,False,False,9056.192,13,Hungarian Grand Prix
+NOR,63.0,84.412,3.0,HARD,21.0,1,True,McLaren,True,7.0,30.323,30.409,23.68,,False,False,9140.604,13,Hungarian Grand Prix
+NOR,64.0,83.901,3.0,HARD,22.0,1,True,McLaren,True,7.0,30.378,30.034,23.489,,False,False,9224.505,13,Hungarian Grand Prix
+NOR,65.0,83.759,3.0,HARD,23.0,1,True,McLaren,True,7.0,30.121,30.035,23.603,,False,False,9308.264,13,Hungarian Grand Prix
+NOR,66.0,84.274,3.0,HARD,24.0,1,True,McLaren,True,7.0,30.338,30.299,23.637,,False,False,9392.538,13,Hungarian Grand Prix
+NOR,67.0,93.072,3.0,HARD,25.0,126,False,McLaren,True,7.0,30.161,31.907,31.004,,False,False,9485.61,13,Hungarian Grand Prix
+NOR,68.0,109.848,3.0,HARD,26.0,671,False,McLaren,True,7.0,41.219,39.654,28.975,,False,False,9595.458,13,Hungarian Grand Prix
+NOR,69.0,91.738,3.0,HARD,27.0,1,True,McLaren,True,7.0,32.505,33.657,25.576,,False,False,9687.196,13,Hungarian Grand Prix
+NOR,70.0,93.054,3.0,HARD,28.0,1,True,McLaren,True,7.0,32.483,34.122,26.449,,False,False,9780.25,13,Hungarian Grand Prix
+HAM,1.0,92.536,1.0,MEDIUM,1.0,126,False,Mercedes,True,5.0,,32.362,24.092,,False,False,3818.574,13,Hungarian Grand Prix
+HAM,2.0,114.827,1.0,MEDIUM,2.0,6,False,Mercedes,True,5.0,46.398,36.815,31.614,,False,False,3933.401,13,Hungarian Grand Prix
+HAM,3.0,89.528,1.0,MEDIUM,3.0,671,False,Mercedes,True,5.0,35.129,30.948,23.451,,False,False,4022.929,13,Hungarian Grand Prix
+HAM,4.0,84.265,1.0,MEDIUM,4.0,1,True,Mercedes,True,5.0,30.068,30.747,23.45,,False,False,4107.194,13,Hungarian Grand Prix
+HAM,5.0,84.348,1.0,MEDIUM,5.0,1,True,Mercedes,True,5.0,30.031,30.798,23.519,,False,False,4191.542,13,Hungarian Grand Prix
+HAM,6.0,84.628,1.0,MEDIUM,6.0,1,True,Mercedes,True,5.0,30.111,30.95,23.567,,False,False,4276.17,13,Hungarian Grand Prix
+HAM,7.0,84.392,1.0,MEDIUM,7.0,1,True,Mercedes,True,5.0,30.252,30.514,23.626,,False,False,4360.562,13,Hungarian Grand Prix
+HAM,8.0,84.78,1.0,MEDIUM,8.0,1,True,Mercedes,True,5.0,30.054,30.877,23.849,,False,False,4445.342,13,Hungarian Grand Prix
+HAM,9.0,84.627,1.0,MEDIUM,9.0,1,True,Mercedes,True,5.0,30.151,30.65,23.826,,False,False,4529.969,13,Hungarian Grand Prix
+HAM,10.0,85.266,1.0,MEDIUM,10.0,1,True,Mercedes,True,5.0,30.24,31.252,23.774,,False,False,4615.235,13,Hungarian Grand Prix
+HAM,11.0,85.711,1.0,MEDIUM,11.0,1,True,Mercedes,True,5.0,30.394,31.24,24.077,,False,False,4700.946,13,Hungarian Grand Prix
+HAM,12.0,83.827,1.0,MEDIUM,12.0,1,True,Mercedes,True,4.0,29.921,30.397,23.509,,False,False,4784.773,13,Hungarian Grand Prix
+HAM,13.0,84.29,1.0,MEDIUM,13.0,1,True,Mercedes,True,4.0,30.33,30.271,23.689,,False,False,4869.063,13,Hungarian Grand Prix
+HAM,14.0,84.666,1.0,MEDIUM,14.0,1,True,Mercedes,True,4.0,30.241,30.585,23.84,,False,False,4953.729,13,Hungarian Grand Prix
+HAM,15.0,85.186,1.0,MEDIUM,15.0,1,True,Mercedes,True,4.0,30.313,30.467,24.406,,False,False,5038.915,13,Hungarian Grand Prix
+HAM,16.0,84.825,1.0,MEDIUM,16.0,1,True,Mercedes,True,4.0,30.473,30.653,23.699,,False,False,5123.74,13,Hungarian Grand Prix
+HAM,17.0,84.972,1.0,MEDIUM,17.0,1,True,Mercedes,True,3.0,30.222,30.93,23.82,,False,False,5208.712,13,Hungarian Grand Prix
+HAM,18.0,85.201,1.0,MEDIUM,18.0,1,True,Mercedes,True,2.0,30.673,30.845,23.683,,False,False,5293.913,13,Hungarian Grand Prix
+HAM,19.0,87.388,1.0,MEDIUM,19.0,1,False,Mercedes,True,2.0,30.336,30.848,26.204,,True,False,5381.301,13,Hungarian Grand Prix
+HAM,20.0,103.175,2.0,MEDIUM,1.0,1,False,Mercedes,True,7.0,48.542,31.321,23.312,,False,True,5484.476,13,Hungarian Grand Prix
+HAM,21.0,83.495,2.0,MEDIUM,2.0,1,True,Mercedes,True,7.0,29.926,30.266,23.303,,False,False,5567.971,13,Hungarian Grand Prix
+HAM,22.0,83.364,2.0,MEDIUM,3.0,1,True,Mercedes,True,6.0,29.97,30.062,23.332,,False,False,5651.335,13,Hungarian Grand Prix
+HAM,23.0,83.482,2.0,MEDIUM,4.0,1,True,Mercedes,True,5.0,29.752,30.266,23.464,,False,False,5734.817,13,Hungarian Grand Prix
+HAM,24.0,83.831,2.0,MEDIUM,5.0,1,True,Mercedes,True,5.0,29.417,30.006,24.408,,False,False,5818.648,13,Hungarian Grand Prix
+HAM,25.0,84.02,2.0,MEDIUM,6.0,1,True,Mercedes,True,5.0,30.044,30.401,23.575,,False,False,5902.668,13,Hungarian Grand Prix
+HAM,26.0,83.485,2.0,MEDIUM,7.0,1,True,Mercedes,True,5.0,29.868,30.293,23.324,,False,False,5986.153,13,Hungarian Grand Prix
+HAM,27.0,83.593,2.0,MEDIUM,8.0,1,True,Mercedes,True,5.0,29.917,30.271,23.405,,False,False,6069.746,13,Hungarian Grand Prix
+HAM,28.0,83.239,2.0,MEDIUM,9.0,1,True,Mercedes,True,5.0,29.876,30.047,23.316,,False,False,6152.985,13,Hungarian Grand Prix
+HAM,29.0,83.697,2.0,MEDIUM,10.0,1,True,Mercedes,True,5.0,30.188,30.071,23.438,,False,False,6236.682,13,Hungarian Grand Prix
+HAM,30.0,83.592,2.0,MEDIUM,11.0,1,True,Mercedes,True,5.0,30.067,30.2,23.325,,False,False,6320.274,13,Hungarian Grand Prix
+HAM,31.0,83.611,2.0,MEDIUM,12.0,1,True,Mercedes,True,5.0,30.103,30.192,23.316,,False,False,6403.885,13,Hungarian Grand Prix
+HAM,32.0,83.459,2.0,MEDIUM,13.0,1,True,Mercedes,True,5.0,29.855,30.071,23.533,,False,False,6487.344,13,Hungarian Grand Prix
+HAM,33.0,83.376,2.0,MEDIUM,14.0,1,True,Mercedes,True,5.0,29.879,30.153,23.344,,False,False,6570.72,13,Hungarian Grand Prix
+HAM,34.0,83.446,2.0,MEDIUM,15.0,1,True,Mercedes,True,5.0,29.826,30.132,23.488,,False,False,6654.166,13,Hungarian Grand Prix
+HAM,35.0,83.76,2.0,MEDIUM,16.0,12,True,Mercedes,True,5.0,29.843,30.385,23.532,,False,False,6737.926,13,Hungarian Grand Prix
+HAM,36.0,83.909,2.0,MEDIUM,17.0,1,True,Mercedes,True,5.0,29.827,30.308,23.774,,False,False,6821.835,13,Hungarian Grand Prix
+HAM,37.0,84.36,2.0,MEDIUM,18.0,1,True,Mercedes,True,5.0,30.145,30.644,23.571,,False,False,6906.195,13,Hungarian Grand Prix
+HAM,38.0,83.879,2.0,MEDIUM,19.0,1,True,Mercedes,True,5.0,30.15,30.35,23.379,,False,False,6990.074,13,Hungarian Grand Prix
+HAM,39.0,83.994,2.0,MEDIUM,20.0,1,True,Mercedes,True,4.0,30.215,30.174,23.605,,False,False,7074.068,13,Hungarian Grand Prix
+HAM,40.0,83.732,2.0,MEDIUM,21.0,1,True,Mercedes,True,2.0,30.158,30.193,23.381,,False,False,7157.8,13,Hungarian Grand Prix
+HAM,41.0,83.669,2.0,MEDIUM,22.0,1,True,Mercedes,True,2.0,29.995,30.037,23.637,,False,False,7241.469,13,Hungarian Grand Prix
+HAM,42.0,83.814,2.0,MEDIUM,23.0,12,True,Mercedes,True,2.0,30.03,30.441,23.343,,False,False,7325.283,13,Hungarian Grand Prix
+HAM,43.0,83.525,2.0,MEDIUM,24.0,1,True,Mercedes,True,2.0,29.976,30.057,23.492,,False,False,7408.808,13,Hungarian Grand Prix
+HAM,44.0,83.508,2.0,MEDIUM,25.0,1,True,Mercedes,True,2.0,29.933,30.2,23.375,,False,False,7492.316,13,Hungarian Grand Prix
+HAM,45.0,83.602,2.0,MEDIUM,26.0,1,True,Mercedes,True,2.0,29.936,30.151,23.515,,False,False,7575.918,13,Hungarian Grand Prix
+HAM,46.0,83.874,2.0,MEDIUM,27.0,1,True,Mercedes,True,2.0,30.035,30.393,23.446,,False,False,7659.792,13,Hungarian Grand Prix
+HAM,47.0,83.759,2.0,MEDIUM,28.0,1,True,Mercedes,True,1.0,29.864,30.424,23.471,,False,False,7743.551,13,Hungarian Grand Prix
+HAM,48.0,84.863,2.0,MEDIUM,29.0,12,True,Mercedes,True,1.0,30.215,30.845,23.803,,False,False,7828.414,13,Hungarian Grand Prix
+HAM,49.0,84.581,2.0,MEDIUM,30.0,1,True,Mercedes,True,1.0,30.142,30.594,23.845,,False,False,7912.995,13,Hungarian Grand Prix
+HAM,50.0,84.766,2.0,MEDIUM,31.0,1,True,Mercedes,True,1.0,30.097,31.055,23.614,,False,False,7997.761,13,Hungarian Grand Prix
+HAM,51.0,86.795,2.0,MEDIUM,32.0,1,False,Mercedes,True,2.0,30.542,30.179,26.074,,True,False,8084.556,13,Hungarian Grand Prix
+HAM,52.0,102.723,3.0,SOFT,3.0,1,False,Mercedes,False,5.0,49.319,30.475,22.929,,False,True,8187.279,13,Hungarian Grand Prix
+HAM,53.0,82.507,3.0,SOFT,4.0,1,True,Mercedes,False,5.0,29.365,30.127,23.015,,False,False,8269.786,13,Hungarian Grand Prix
+HAM,54.0,81.685,3.0,SOFT,5.0,1,True,Mercedes,False,5.0,29.445,29.338,22.902,,False,False,8351.471,13,Hungarian Grand Prix
+HAM,55.0,81.848,3.0,SOFT,6.0,1,True,Mercedes,False,4.0,29.379,29.502,22.967,,False,False,8433.319,13,Hungarian Grand Prix
+HAM,56.0,81.56,3.0,SOFT,7.0,1,True,Mercedes,False,4.0,29.424,29.308,22.828,,False,False,8514.879,13,Hungarian Grand Prix
+HAM,57.0,81.386,3.0,SOFT,8.0,1,True,Mercedes,False,4.0,29.277,29.402,22.707,,False,False,8596.265,13,Hungarian Grand Prix
+HAM,58.0,81.942,3.0,SOFT,9.0,1,True,Mercedes,False,4.0,29.456,29.746,22.74,,False,False,8678.207,13,Hungarian Grand Prix
+HAM,59.0,81.831,3.0,SOFT,10.0,1,True,Mercedes,False,4.0,29.362,29.443,23.026,,False,False,8760.038,13,Hungarian Grand Prix
+HAM,60.0,81.805,3.0,SOFT,11.0,1,True,Mercedes,False,4.0,29.46,29.341,23.004,,False,False,8841.843,13,Hungarian Grand Prix
+HAM,61.0,82.44,3.0,SOFT,12.0,1,True,Mercedes,False,4.0,29.643,29.674,23.123,,False,False,8924.283,13,Hungarian Grand Prix
+HAM,62.0,83.666,3.0,SOFT,13.0,1,True,Mercedes,False,4.0,29.429,30.541,23.696,,False,False,9007.949,13,Hungarian Grand Prix
+HAM,63.0,81.79,3.0,SOFT,14.0,1,True,Mercedes,False,3.0,28.987,29.589,23.214,,False,False,9089.739,13,Hungarian Grand Prix
+HAM,64.0,83.394,3.0,SOFT,15.0,1,True,Mercedes,False,3.0,29.457,30.462,23.475,,False,False,9173.133,13,Hungarian Grand Prix
+HAM,65.0,82.438,3.0,SOFT,16.0,1,True,Mercedes,False,2.0,29.27,29.862,23.306,,False,False,9255.571,13,Hungarian Grand Prix
+HAM,66.0,82.73,3.0,SOFT,17.0,1,True,Mercedes,False,2.0,29.418,30.104,23.208,,False,False,9338.301,13,Hungarian Grand Prix
+HAM,67.0,83.059,3.0,SOFT,18.0,12,True,Mercedes,False,2.0,29.808,29.957,23.294,,False,False,9421.36,13,Hungarian Grand Prix
+HAM,68.0,99.986,3.0,SOFT,19.0,26,False,Mercedes,False,2.0,29.785,38.156,32.045,,False,False,9521.346,13,Hungarian Grand Prix
+HAM,69.0,101.6,3.0,SOFT,20.0,671,False,Mercedes,False,2.0,40.885,35.695,25.02,,False,False,9622.946,13,Hungarian Grand Prix
+HAM,70.0,86.838,3.0,SOFT,21.0,1,True,Mercedes,False,2.0,30.69,31.283,24.865,,False,False,9709.784,13,Hungarian Grand Prix
+MSC,1.0,102.838,1.0,MEDIUM,1.0,126,False,Haas F1 Team,True,12.0,,33.486,31.111,,False,False,3828.876,13,Hungarian Grand Prix
+MSC,2.0,113.475,1.0,MEDIUM,2.0,6,False,Haas F1 Team,True,13.0,47.66,33.762,32.053,,False,False,3942.351,13,Hungarian Grand Prix
+MSC,3.0,87.366,1.0,MEDIUM,3.0,671,False,Haas F1 Team,True,12.0,32.251,31.098,24.017,,False,False,4029.717,13,Hungarian Grand Prix
+MSC,4.0,85.073,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,12.0,30.201,30.89,23.982,,False,False,4114.79,13,Hungarian Grand Prix
+MSC,5.0,85.108,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,12.0,30.177,31.03,23.901,,False,False,4199.898,13,Hungarian Grand Prix
+MSC,6.0,85.891,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,11.0,30.408,31.432,24.051,,False,False,4285.789,13,Hungarian Grand Prix
+MSC,7.0,85.547,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,11.0,30.35,31.156,24.041,,False,False,4371.336,13,Hungarian Grand Prix
+MSC,8.0,85.973,1.0,MEDIUM,8.0,1,True,Haas F1 Team,True,11.0,30.495,31.289,24.189,,False,False,4457.309,13,Hungarian Grand Prix
+MSC,9.0,85.757,1.0,MEDIUM,9.0,1,True,Haas F1 Team,True,11.0,30.644,31.0,24.113,,False,False,4543.066,13,Hungarian Grand Prix
+MSC,10.0,86.007,1.0,MEDIUM,10.0,1,True,Haas F1 Team,True,11.0,30.871,31.25,23.886,,False,False,4629.073,13,Hungarian Grand Prix
+MSC,11.0,85.841,1.0,MEDIUM,11.0,1,True,Haas F1 Team,True,11.0,30.466,31.258,24.117,,False,False,4714.914,13,Hungarian Grand Prix
+MSC,12.0,86.237,1.0,MEDIUM,12.0,1,True,Haas F1 Team,True,11.0,30.969,31.298,23.97,,False,False,4801.151,13,Hungarian Grand Prix
+MSC,13.0,86.414,1.0,MEDIUM,13.0,1,True,Haas F1 Team,True,11.0,30.944,31.232,24.238,,False,False,4887.565,13,Hungarian Grand Prix
+MSC,14.0,86.085,1.0,MEDIUM,14.0,1,True,Haas F1 Team,True,11.0,30.508,31.303,24.274,,False,False,4973.65,13,Hungarian Grand Prix
+MSC,15.0,86.495,1.0,MEDIUM,15.0,1,True,Haas F1 Team,True,9.0,30.495,31.396,24.604,,False,False,5060.145,13,Hungarian Grand Prix
+MSC,16.0,85.617,1.0,MEDIUM,16.0,1,True,Haas F1 Team,True,9.0,30.071,31.409,24.137,,False,False,5145.762,13,Hungarian Grand Prix
+MSC,17.0,85.779,1.0,MEDIUM,17.0,1,True,Haas F1 Team,True,9.0,30.615,31.074,24.09,,False,False,5231.541,13,Hungarian Grand Prix
+MSC,18.0,86.433,1.0,MEDIUM,18.0,1,True,Haas F1 Team,True,9.0,30.864,31.391,24.178,,False,False,5317.974,13,Hungarian Grand Prix
+MSC,19.0,86.21,1.0,MEDIUM,19.0,1,True,Haas F1 Team,True,8.0,30.515,31.405,24.29,,False,False,5404.184,13,Hungarian Grand Prix
+MSC,20.0,86.435,1.0,MEDIUM,20.0,1,True,Haas F1 Team,True,8.0,30.725,31.463,24.247,,False,False,5490.619,13,Hungarian Grand Prix
+MSC,21.0,89.563,1.0,MEDIUM,21.0,1,False,Haas F1 Team,True,12.0,31.097,31.705,26.761,,True,False,5580.182,13,Hungarian Grand Prix
+MSC,22.0,106.19,2.0,HARD,1.0,1,False,Haas F1 Team,True,15.0,50.234,31.578,24.378,,False,True,5686.372,13,Hungarian Grand Prix
+MSC,23.0,87.31,2.0,HARD,2.0,1,True,Haas F1 Team,True,16.0,31.25,31.916,24.144,,False,False,5773.682,13,Hungarian Grand Prix
+MSC,24.0,87.033,2.0,HARD,3.0,1,True,Haas F1 Team,True,17.0,31.007,31.394,24.632,,False,False,5860.715,13,Hungarian Grand Prix
+MSC,25.0,85.712,2.0,HARD,4.0,1,True,Haas F1 Team,True,17.0,30.486,31.233,23.993,,False,False,5946.427,13,Hungarian Grand Prix
+MSC,26.0,85.501,2.0,HARD,5.0,1,True,Haas F1 Team,True,17.0,30.526,31.042,23.933,,False,False,6031.928,13,Hungarian Grand Prix
+MSC,27.0,85.368,2.0,HARD,6.0,1,True,Haas F1 Team,True,17.0,30.496,30.923,23.949,,False,False,6117.296,13,Hungarian Grand Prix
+MSC,28.0,85.715,2.0,HARD,7.0,1,True,Haas F1 Team,True,16.0,30.671,30.953,24.091,,False,False,6203.011,13,Hungarian Grand Prix
+MSC,29.0,86.103,2.0,HARD,8.0,1,True,Haas F1 Team,True,16.0,30.707,31.078,24.318,,False,False,6289.114,13,Hungarian Grand Prix
+MSC,30.0,85.953,2.0,HARD,9.0,1,True,Haas F1 Team,True,16.0,30.473,31.074,24.406,,False,False,6375.067,13,Hungarian Grand Prix
+MSC,31.0,85.727,2.0,HARD,10.0,1,True,Haas F1 Team,True,16.0,30.494,31.074,24.159,,False,False,6460.794,13,Hungarian Grand Prix
+MSC,32.0,85.183,2.0,HARD,11.0,1,True,Haas F1 Team,True,16.0,30.307,30.908,23.968,,False,False,6545.977,13,Hungarian Grand Prix
+MSC,33.0,85.614,2.0,HARD,12.0,1,True,Haas F1 Team,True,15.0,30.365,31.116,24.133,,False,False,6631.591,13,Hungarian Grand Prix
+MSC,34.0,85.303,2.0,HARD,13.0,12,True,Haas F1 Team,True,15.0,30.361,30.897,24.045,,False,False,6716.894,13,Hungarian Grand Prix
+MSC,35.0,85.626,2.0,HARD,14.0,1,True,Haas F1 Team,True,15.0,30.393,31.166,24.067,,False,False,6802.52,13,Hungarian Grand Prix
+MSC,36.0,85.306,2.0,HARD,15.0,1,True,Haas F1 Team,True,15.0,30.393,30.957,23.956,,False,False,6887.826,13,Hungarian Grand Prix
+MSC,37.0,85.773,2.0,HARD,16.0,1,True,Haas F1 Team,True,15.0,30.672,31.01,24.091,,False,False,6973.599,13,Hungarian Grand Prix
+MSC,38.0,88.787,2.0,HARD,17.0,1,True,Haas F1 Team,True,16.0,31.467,31.772,25.548,,False,False,7062.386,13,Hungarian Grand Prix
+MSC,39.0,85.545,2.0,HARD,18.0,1,True,Haas F1 Team,True,16.0,30.167,31.198,24.18,,False,False,7147.931,13,Hungarian Grand Prix
+MSC,40.0,85.667,2.0,HARD,19.0,1,True,Haas F1 Team,True,16.0,30.646,30.961,24.06,,False,False,7233.598,13,Hungarian Grand Prix
+MSC,41.0,89.806,2.0,HARD,20.0,12,False,Haas F1 Team,True,16.0,30.758,31.888,27.16,,True,False,7323.404,13,Hungarian Grand Prix
+MSC,42.0,104.407,3.0,MEDIUM,1.0,1,False,Haas F1 Team,True,16.0,49.801,30.895,23.711,,False,True,7427.811,13,Hungarian Grand Prix
+MSC,43.0,83.643,3.0,MEDIUM,2.0,1,True,Haas F1 Team,True,16.0,30.072,29.848,23.723,,False,False,7511.454,13,Hungarian Grand Prix
+MSC,44.0,83.688,3.0,MEDIUM,3.0,1,True,Haas F1 Team,True,16.0,30.044,30.062,23.582,,False,False,7595.142,13,Hungarian Grand Prix
+MSC,45.0,83.532,3.0,MEDIUM,4.0,1,True,Haas F1 Team,True,16.0,30.081,29.998,23.453,,False,False,7678.674,13,Hungarian Grand Prix
+MSC,46.0,83.363,3.0,MEDIUM,5.0,12,True,Haas F1 Team,True,16.0,29.854,30.073,23.436,,False,False,7762.037,13,Hungarian Grand Prix
+MSC,47.0,83.817,3.0,MEDIUM,6.0,12,True,Haas F1 Team,True,16.0,29.909,30.366,23.542,,False,False,7845.854,13,Hungarian Grand Prix
+MSC,48.0,86.087,3.0,MEDIUM,7.0,1,True,Haas F1 Team,True,16.0,29.961,32.166,23.96,,False,False,7931.941,13,Hungarian Grand Prix
+MSC,49.0,83.565,3.0,MEDIUM,8.0,1,True,Haas F1 Team,True,16.0,30.21,29.891,23.464,,False,False,8015.506,13,Hungarian Grand Prix
+MSC,50.0,83.151,3.0,MEDIUM,9.0,1,True,Haas F1 Team,True,16.0,29.961,29.849,23.341,,False,False,8098.657,13,Hungarian Grand Prix
+MSC,51.0,83.554,3.0,MEDIUM,10.0,1,True,Haas F1 Team,True,16.0,29.88,30.164,23.51,,False,False,8182.211,13,Hungarian Grand Prix
+MSC,52.0,83.35,3.0,MEDIUM,11.0,1,True,Haas F1 Team,True,15.0,29.782,30.253,23.315,,False,False,8265.561,13,Hungarian Grand Prix
+MSC,53.0,83.665,3.0,MEDIUM,12.0,1,True,Haas F1 Team,True,15.0,29.876,30.168,23.621,,False,False,8349.226,13,Hungarian Grand Prix
+MSC,54.0,85.433,3.0,MEDIUM,13.0,1,True,Haas F1 Team,True,15.0,29.959,30.34,25.134,,False,False,8434.659,13,Hungarian Grand Prix
+MSC,55.0,83.809,3.0,MEDIUM,14.0,1,True,Haas F1 Team,True,15.0,29.912,30.31,23.587,,False,False,8518.468,13,Hungarian Grand Prix
+MSC,56.0,83.547,3.0,MEDIUM,15.0,1,True,Haas F1 Team,True,15.0,29.822,30.174,23.551,,False,False,8602.015,13,Hungarian Grand Prix
+MSC,57.0,83.806,3.0,MEDIUM,16.0,1,True,Haas F1 Team,True,15.0,29.891,30.251,23.664,,False,False,8685.821,13,Hungarian Grand Prix
+MSC,58.0,83.637,3.0,MEDIUM,17.0,1,True,Haas F1 Team,True,15.0,29.949,30.079,23.609,,False,False,8769.458,13,Hungarian Grand Prix
+MSC,59.0,86.289,3.0,MEDIUM,18.0,1,True,Haas F1 Team,True,15.0,29.948,32.451,23.89,,False,False,8855.747,13,Hungarian Grand Prix
+MSC,60.0,85.246,3.0,MEDIUM,19.0,1,True,Haas F1 Team,True,15.0,29.982,30.058,25.206,,False,False,8940.993,13,Hungarian Grand Prix
+MSC,61.0,84.535,3.0,MEDIUM,20.0,1,True,Haas F1 Team,True,15.0,29.816,30.621,24.098,,False,False,9025.528,13,Hungarian Grand Prix
+MSC,62.0,83.989,3.0,MEDIUM,21.0,1,True,Haas F1 Team,True,15.0,29.939,30.477,23.573,,False,False,9109.517,13,Hungarian Grand Prix
+MSC,63.0,84.166,3.0,MEDIUM,22.0,1,True,Haas F1 Team,True,15.0,30.048,30.397,23.721,,False,False,9193.683,13,Hungarian Grand Prix
+MSC,64.0,83.798,3.0,MEDIUM,23.0,1,True,Haas F1 Team,True,15.0,29.908,30.3,23.59,,False,False,9277.481,13,Hungarian Grand Prix
+MSC,65.0,84.375,3.0,MEDIUM,24.0,1,True,Haas F1 Team,True,15.0,29.921,30.668,23.786,,False,False,9361.856,13,Hungarian Grand Prix
+MSC,66.0,85.12,3.0,MEDIUM,25.0,12,True,Haas F1 Team,True,14.0,29.899,31.035,24.186,,False,False,9446.976,13,Hungarian Grand Prix
+MSC,67.0,109.565,3.0,MEDIUM,26.0,26,False,Haas F1 Team,True,14.0,38.974,39.56,31.031,,False,False,9556.541,13,Hungarian Grand Prix
+MSC,68.0,94.303,3.0,MEDIUM,27.0,671,False,Haas F1 Team,True,14.0,37.276,32.558,24.469,,False,False,9650.844,13,Hungarian Grand Prix
+MSC,69.0,88.608,3.0,MEDIUM,28.0,1,True,Haas F1 Team,True,15.0,31.068,31.835,25.705,,False,False,9739.452,13,Hungarian Grand Prix
+VET,1.0,109.517,1.0,SOFT,1.0,126,False,Aston Martin,True,18.0,,34.66,35.0,,False,False,3835.555,13,Hungarian Grand Prix
+VET,2.0,110.871,1.0,SOFT,2.0,67,False,Aston Martin,True,18.0,46.928,34.659,29.284,,False,False,3946.426,13,Hungarian Grand Prix
+VET,3.0,87.484,1.0,SOFT,3.0,71,False,Aston Martin,True,16.0,32.291,31.255,23.938,,False,False,4033.91,13,Hungarian Grand Prix
+VET,4.0,85.497,1.0,SOFT,4.0,1,True,Aston Martin,True,16.0,30.637,31.103,23.757,,False,False,4119.407,13,Hungarian Grand Prix
+VET,5.0,85.146,1.0,SOFT,5.0,1,True,Aston Martin,True,16.0,30.302,31.055,23.789,,False,False,4204.553,13,Hungarian Grand Prix
+VET,6.0,85.323,1.0,SOFT,6.0,1,True,Aston Martin,True,16.0,30.292,31.083,23.948,,False,False,4289.876,13,Hungarian Grand Prix
+VET,7.0,85.504,1.0,SOFT,7.0,1,True,Aston Martin,True,15.0,30.224,31.215,24.065,,False,False,4375.38,13,Hungarian Grand Prix
+VET,8.0,85.476,1.0,SOFT,8.0,1,True,Aston Martin,True,15.0,30.164,31.261,24.051,,False,False,4460.856,13,Hungarian Grand Prix
+VET,9.0,85.481,1.0,SOFT,9.0,1,True,Aston Martin,True,15.0,30.433,31.159,23.889,,False,False,4546.337,13,Hungarian Grand Prix
+VET,10.0,85.51,1.0,SOFT,10.0,1,True,Aston Martin,True,14.0,30.166,31.267,24.077,,False,False,4631.847,13,Hungarian Grand Prix
+VET,11.0,85.948,1.0,SOFT,11.0,1,True,Aston Martin,True,14.0,30.447,31.3,24.201,,False,False,4717.795,13,Hungarian Grand Prix
+VET,12.0,86.083,1.0,SOFT,12.0,1,True,Aston Martin,True,14.0,30.526,31.32,24.237,,False,False,4803.878,13,Hungarian Grand Prix
+VET,13.0,86.066,1.0,SOFT,13.0,1,True,Aston Martin,True,14.0,30.451,31.371,24.244,,False,False,4889.944,13,Hungarian Grand Prix
+VET,14.0,86.61,1.0,SOFT,14.0,1,True,Aston Martin,True,13.0,30.338,31.749,24.523,,False,False,4976.554,13,Hungarian Grand Prix
+VET,15.0,88.46,1.0,SOFT,15.0,1,False,Aston Martin,True,13.0,30.184,31.49,26.786,,True,False,5065.014,13,Hungarian Grand Prix
+VET,16.0,103.533,2.0,MEDIUM,2.0,1,False,Aston Martin,False,18.0,48.155,31.377,24.001,,False,True,5168.547,13,Hungarian Grand Prix
+VET,17.0,85.68,2.0,MEDIUM,3.0,1,True,Aston Martin,False,17.0,30.298,31.058,24.324,,False,False,5254.227,13,Hungarian Grand Prix
+VET,18.0,86.198,2.0,MEDIUM,4.0,1,True,Aston Martin,False,17.0,30.349,31.407,24.442,,False,False,5340.425,13,Hungarian Grand Prix
+VET,19.0,84.924,2.0,MEDIUM,5.0,1,True,Aston Martin,False,15.0,29.93,31.14,23.854,,False,False,5425.349,13,Hungarian Grand Prix
+VET,20.0,84.974,2.0,MEDIUM,6.0,1,True,Aston Martin,False,15.0,30.227,30.914,23.833,,False,False,5510.323,13,Hungarian Grand Prix
+VET,21.0,85.233,2.0,MEDIUM,7.0,1,True,Aston Martin,False,15.0,30.432,30.954,23.847,,False,False,5595.556,13,Hungarian Grand Prix
+VET,22.0,84.969,2.0,MEDIUM,8.0,1,True,Aston Martin,False,14.0,30.197,30.9,23.872,,False,False,5680.525,13,Hungarian Grand Prix
+VET,23.0,84.76,2.0,MEDIUM,9.0,1,True,Aston Martin,False,14.0,30.118,30.776,23.866,,False,False,5765.285,13,Hungarian Grand Prix
+VET,24.0,84.683,2.0,MEDIUM,10.0,1,True,Aston Martin,False,14.0,30.036,30.611,24.036,,False,False,5849.968,13,Hungarian Grand Prix
+VET,25.0,85.2,2.0,MEDIUM,11.0,1,True,Aston Martin,False,14.0,30.144,31.007,24.049,,False,False,5935.168,13,Hungarian Grand Prix
+VET,26.0,84.905,2.0,MEDIUM,12.0,1,True,Aston Martin,False,14.0,30.236,30.888,23.781,,False,False,6020.073,13,Hungarian Grand Prix
+VET,27.0,84.754,2.0,MEDIUM,13.0,1,True,Aston Martin,False,13.0,30.038,30.851,23.865,,False,False,6104.827,13,Hungarian Grand Prix
+VET,28.0,85.097,2.0,MEDIUM,14.0,1,True,Aston Martin,False,12.0,30.307,30.955,23.835,,False,False,6189.924,13,Hungarian Grand Prix
+VET,29.0,84.911,2.0,MEDIUM,15.0,1,True,Aston Martin,False,12.0,30.229,30.835,23.847,,False,False,6274.835,13,Hungarian Grand Prix
+VET,30.0,85.432,2.0,MEDIUM,16.0,1,True,Aston Martin,False,12.0,30.178,31.164,24.09,,False,False,6360.267,13,Hungarian Grand Prix
+VET,31.0,84.867,2.0,MEDIUM,17.0,1,True,Aston Martin,False,11.0,30.092,30.762,24.013,,False,False,6445.134,13,Hungarian Grand Prix
+VET,32.0,85.269,2.0,MEDIUM,18.0,1,True,Aston Martin,False,11.0,30.202,31.039,24.028,,False,False,6530.403,13,Hungarian Grand Prix
+VET,33.0,85.061,2.0,MEDIUM,19.0,1,True,Aston Martin,False,11.0,30.307,30.75,24.004,,False,False,6615.464,13,Hungarian Grand Prix
+VET,34.0,84.914,2.0,MEDIUM,20.0,1,True,Aston Martin,False,11.0,30.11,30.846,23.958,,False,False,6700.378,13,Hungarian Grand Prix
+VET,35.0,85.639,2.0,MEDIUM,21.0,12,True,Aston Martin,False,11.0,30.043,31.566,24.03,,False,False,6786.017,13,Hungarian Grand Prix
+VET,36.0,84.674,2.0,MEDIUM,22.0,1,True,Aston Martin,False,11.0,29.843,30.977,23.854,,False,False,6870.691,13,Hungarian Grand Prix
+VET,37.0,84.683,2.0,MEDIUM,23.0,1,True,Aston Martin,False,11.0,30.019,30.971,23.693,,False,False,6955.374,13,Hungarian Grand Prix
+VET,38.0,84.817,2.0,MEDIUM,24.0,1,True,Aston Martin,False,10.0,30.046,30.876,23.895,,False,False,7040.191,13,Hungarian Grand Prix
+VET,39.0,84.713,2.0,MEDIUM,25.0,1,True,Aston Martin,False,10.0,30.16,30.737,23.816,,False,False,7124.904,13,Hungarian Grand Prix
+VET,40.0,84.94,2.0,MEDIUM,26.0,1,True,Aston Martin,False,10.0,30.227,30.691,24.022,,False,False,7209.844,13,Hungarian Grand Prix
+VET,41.0,85.493,2.0,MEDIUM,27.0,12,True,Aston Martin,False,10.0,30.557,30.99,23.946,,False,False,7295.337,13,Hungarian Grand Prix
+VET,42.0,85.259,2.0,MEDIUM,28.0,1,True,Aston Martin,False,10.0,30.386,30.95,23.923,,False,False,7380.596,13,Hungarian Grand Prix
+VET,43.0,85.537,2.0,MEDIUM,29.0,1,True,Aston Martin,False,10.0,30.529,31.082,23.926,,False,False,7466.133,13,Hungarian Grand Prix
+VET,44.0,85.202,2.0,MEDIUM,30.0,1,True,Aston Martin,False,10.0,30.174,30.99,24.038,,False,False,7551.335,13,Hungarian Grand Prix
+VET,45.0,85.424,2.0,MEDIUM,31.0,1,True,Aston Martin,False,10.0,30.482,31.101,23.841,,False,False,7636.759,13,Hungarian Grand Prix
+VET,46.0,87.588,2.0,MEDIUM,32.0,1,False,Aston Martin,False,12.0,30.325,30.993,26.27,,True,False,7724.347,13,Hungarian Grand Prix
+VET,47.0,106.559,3.0,MEDIUM,1.0,12,False,Aston Martin,True,14.0,52.079,30.909,23.571,,False,True,7830.906,13,Hungarian Grand Prix
+VET,48.0,86.301,3.0,MEDIUM,2.0,1,True,Aston Martin,True,14.0,29.988,32.155,24.158,,False,False,7917.207,13,Hungarian Grand Prix
+VET,49.0,85.179,3.0,MEDIUM,3.0,1,True,Aston Martin,True,13.0,29.523,32.0,23.656,,False,False,8002.386,13,Hungarian Grand Prix
+VET,50.0,84.134,3.0,MEDIUM,4.0,1,True,Aston Martin,True,13.0,30.037,30.623,23.474,,False,False,8086.52,13,Hungarian Grand Prix
+VET,51.0,82.824,3.0,MEDIUM,5.0,1,True,Aston Martin,True,12.0,29.587,29.899,23.338,,False,False,8169.344,13,Hungarian Grand Prix
+VET,52.0,83.246,3.0,MEDIUM,6.0,1,True,Aston Martin,True,12.0,29.789,30.073,23.384,,False,False,8252.59,13,Hungarian Grand Prix
+VET,53.0,82.968,3.0,MEDIUM,7.0,1,True,Aston Martin,True,12.0,29.662,29.929,23.377,,False,False,8335.558,13,Hungarian Grand Prix
+VET,54.0,82.989,3.0,MEDIUM,8.0,1,True,Aston Martin,True,12.0,29.685,29.999,23.305,,False,False,8418.547,13,Hungarian Grand Prix
+VET,55.0,82.907,3.0,MEDIUM,9.0,1,True,Aston Martin,True,12.0,29.755,29.802,23.35,,False,False,8501.454,13,Hungarian Grand Prix
+VET,56.0,82.878,3.0,MEDIUM,10.0,1,True,Aston Martin,True,12.0,29.665,29.947,23.266,,False,False,8584.332,13,Hungarian Grand Prix
+VET,57.0,83.37,3.0,MEDIUM,11.0,1,True,Aston Martin,True,12.0,29.745,29.919,23.706,,False,False,8667.702,13,Hungarian Grand Prix
+VET,58.0,83.263,3.0,MEDIUM,12.0,1,True,Aston Martin,True,12.0,29.695,30.137,23.431,,False,False,8750.965,13,Hungarian Grand Prix
+VET,59.0,83.416,3.0,MEDIUM,13.0,1,True,Aston Martin,True,12.0,29.602,30.172,23.642,,False,False,8834.381,13,Hungarian Grand Prix
+VET,60.0,83.494,3.0,MEDIUM,14.0,1,True,Aston Martin,True,12.0,29.581,30.389,23.524,,False,False,8917.875,13,Hungarian Grand Prix
+VET,61.0,84.284,3.0,MEDIUM,15.0,1,True,Aston Martin,True,12.0,29.645,30.76,23.879,,False,False,9002.159,13,Hungarian Grand Prix
+VET,62.0,83.425,3.0,MEDIUM,16.0,1,True,Aston Martin,True,11.0,29.713,30.313,23.399,,False,False,9085.584,13,Hungarian Grand Prix
+VET,63.0,85.466,3.0,MEDIUM,17.0,1,True,Aston Martin,True,11.0,30.54,31.242,23.684,,False,False,9171.05,13,Hungarian Grand Prix
+VET,64.0,83.628,3.0,MEDIUM,18.0,1,True,Aston Martin,True,11.0,29.741,30.27,23.617,,False,False,9254.678,13,Hungarian Grand Prix
+VET,65.0,85.28,3.0,MEDIUM,19.0,1,True,Aston Martin,True,10.0,30.389,31.126,23.765,,False,False,9339.958,13,Hungarian Grand Prix
+VET,66.0,83.182,3.0,MEDIUM,20.0,12,True,Aston Martin,True,10.0,29.674,30.051,23.457,,False,False,9423.14,13,Hungarian Grand Prix
+VET,67.0,100.562,3.0,MEDIUM,21.0,26,False,Aston Martin,True,10.0,29.801,38.593,32.168,,False,False,9523.702,13,Hungarian Grand Prix
+VET,68.0,100.323,3.0,MEDIUM,22.0,671,False,Aston Martin,True,10.0,42.129,33.664,24.53,,False,False,9624.025,13,Hungarian Grand Prix
+VET,69.0,89.156,3.0,MEDIUM,23.0,1,True,Aston Martin,True,10.0,31.073,32.739,25.344,,False,False,9713.181,13,Hungarian Grand Prix
+SAI,1.0,90.046,1.0,MEDIUM,1.0,126,False,Ferrari,True,2.0,,31.279,23.933,,False,False,3816.084,13,Hungarian Grand Prix
+SAI,2.0,114.643,1.0,MEDIUM,2.0,6,False,Ferrari,True,2.0,43.453,37.857,33.333,,False,False,3930.727,13,Hungarian Grand Prix
+SAI,3.0,88.905,1.0,MEDIUM,3.0,671,False,Ferrari,True,2.0,35.368,30.326,23.211,,False,False,4019.632,13,Hungarian Grand Prix
+SAI,4.0,83.354,1.0,MEDIUM,4.0,1,True,Ferrari,True,2.0,30.071,29.948,23.335,,False,False,4102.986,13,Hungarian Grand Prix
+SAI,5.0,83.932,1.0,MEDIUM,5.0,1,True,Ferrari,True,2.0,30.152,30.284,23.496,,False,False,4186.918,13,Hungarian Grand Prix
+SAI,6.0,83.938,1.0,MEDIUM,6.0,1,True,Ferrari,True,2.0,30.038,30.327,23.573,,False,False,4270.856,13,Hungarian Grand Prix
+SAI,7.0,84.065,1.0,MEDIUM,7.0,1,True,Ferrari,True,2.0,30.114,30.303,23.648,,False,False,4354.921,13,Hungarian Grand Prix
+SAI,8.0,84.439,1.0,MEDIUM,8.0,1,True,Ferrari,True,2.0,30.212,30.5,23.727,,False,False,4439.36,13,Hungarian Grand Prix
+SAI,9.0,83.86,1.0,MEDIUM,9.0,1,True,Ferrari,True,2.0,30.065,30.184,23.611,,False,False,4523.22,13,Hungarian Grand Prix
+SAI,10.0,84.648,1.0,MEDIUM,10.0,1,True,Ferrari,True,2.0,30.216,30.645,23.787,,False,False,4607.868,13,Hungarian Grand Prix
+SAI,11.0,83.901,1.0,MEDIUM,11.0,1,True,Ferrari,True,2.0,29.986,30.295,23.62,,False,False,4691.769,13,Hungarian Grand Prix
+SAI,12.0,84.31,1.0,MEDIUM,12.0,1,True,Ferrari,True,2.0,30.055,30.478,23.777,,False,False,4776.079,13,Hungarian Grand Prix
+SAI,13.0,84.107,1.0,MEDIUM,13.0,1,True,Ferrari,True,2.0,29.989,30.358,23.76,,False,False,4860.186,13,Hungarian Grand Prix
+SAI,14.0,84.454,1.0,MEDIUM,14.0,1,True,Ferrari,True,2.0,29.983,30.284,24.187,,False,False,4944.64,13,Hungarian Grand Prix
+SAI,15.0,84.667,1.0,MEDIUM,15.0,1,True,Ferrari,True,2.0,30.211,30.57,23.886,,False,False,5029.307,13,Hungarian Grand Prix
+SAI,16.0,85.113,1.0,MEDIUM,16.0,1,True,Ferrari,True,1.0,30.236,30.837,24.04,,False,False,5114.42,13,Hungarian Grand Prix
+SAI,17.0,86.969,1.0,MEDIUM,17.0,1,False,Ferrari,True,2.0,29.947,30.711,26.311,,True,False,5201.389,13,Hungarian Grand Prix
+SAI,18.0,104.355,2.0,MEDIUM,1.0,1,False,Ferrari,True,6.0,49.94,30.645,23.77,,False,True,5305.744,13,Hungarian Grand Prix
+SAI,19.0,83.482,2.0,MEDIUM,2.0,1,True,Ferrari,True,4.0,29.739,30.23,23.513,,False,False,5389.226,13,Hungarian Grand Prix
+SAI,20.0,83.73,2.0,MEDIUM,3.0,1,True,Ferrari,True,3.0,30.037,30.301,23.392,,False,False,5472.956,13,Hungarian Grand Prix
+SAI,21.0,83.589,2.0,MEDIUM,4.0,1,True,Ferrari,True,3.0,29.932,30.102,23.555,,False,False,5556.545,13,Hungarian Grand Prix
+SAI,22.0,84.521,2.0,MEDIUM,5.0,1,True,Ferrari,True,3.0,30.396,30.452,23.673,,False,False,5641.066,13,Hungarian Grand Prix
+SAI,23.0,83.918,2.0,MEDIUM,6.0,1,True,Ferrari,True,3.0,30.14,30.212,23.566,,False,False,5724.984,13,Hungarian Grand Prix
+SAI,24.0,83.741,2.0,MEDIUM,7.0,1,True,Ferrari,True,3.0,29.806,30.152,23.783,,False,False,5808.725,13,Hungarian Grand Prix
+SAI,25.0,83.577,2.0,MEDIUM,8.0,1,True,Ferrari,True,3.0,29.85,30.023,23.704,,False,False,5892.302,13,Hungarian Grand Prix
+SAI,26.0,83.804,2.0,MEDIUM,9.0,1,True,Ferrari,True,3.0,29.806,30.382,23.616,,False,False,5976.106,13,Hungarian Grand Prix
+SAI,27.0,83.731,2.0,MEDIUM,10.0,1,True,Ferrari,True,3.0,30.064,30.102,23.565,,False,False,6059.837,13,Hungarian Grand Prix
+SAI,28.0,83.648,2.0,MEDIUM,11.0,1,True,Ferrari,True,3.0,29.9,30.328,23.42,,False,False,6143.485,13,Hungarian Grand Prix
+SAI,29.0,84.172,2.0,MEDIUM,12.0,1,True,Ferrari,True,3.0,30.253,30.427,23.492,,False,False,6227.657,13,Hungarian Grand Prix
+SAI,30.0,83.78,2.0,MEDIUM,13.0,1,True,Ferrari,True,3.0,30.016,30.18,23.584,,False,False,6311.437,13,Hungarian Grand Prix
+SAI,31.0,84.042,2.0,MEDIUM,14.0,1,True,Ferrari,True,3.0,29.838,30.436,23.768,,False,False,6395.479,13,Hungarian Grand Prix
+SAI,32.0,84.27,2.0,MEDIUM,15.0,1,True,Ferrari,True,3.0,29.843,30.657,23.77,,False,False,6479.749,13,Hungarian Grand Prix
+SAI,33.0,83.796,2.0,MEDIUM,16.0,1,True,Ferrari,True,3.0,29.908,30.318,23.57,,False,False,6563.545,13,Hungarian Grand Prix
+SAI,34.0,83.755,2.0,MEDIUM,17.0,1,True,Ferrari,True,3.0,29.663,30.396,23.696,,False,False,6647.3,13,Hungarian Grand Prix
+SAI,35.0,84.203,2.0,MEDIUM,18.0,12,True,Ferrari,True,3.0,29.885,30.528,23.79,,False,False,6731.503,13,Hungarian Grand Prix
+SAI,36.0,84.096,2.0,MEDIUM,19.0,1,True,Ferrari,True,3.0,29.805,30.389,23.902,,False,False,6815.599,13,Hungarian Grand Prix
+SAI,37.0,84.076,2.0,MEDIUM,20.0,1,True,Ferrari,True,3.0,29.9,30.373,23.803,,False,False,6899.675,13,Hungarian Grand Prix
+SAI,38.0,84.354,2.0,MEDIUM,21.0,1,True,Ferrari,True,3.0,30.19,30.523,23.641,,False,False,6984.029,13,Hungarian Grand Prix
+SAI,39.0,84.623,2.0,MEDIUM,22.0,1,True,Ferrari,True,2.0,30.151,30.62,23.852,,False,False,7068.652,13,Hungarian Grand Prix
+SAI,40.0,84.09,2.0,MEDIUM,23.0,1,True,Ferrari,True,1.0,29.955,30.4,23.735,,False,False,7152.742,13,Hungarian Grand Prix
+SAI,41.0,83.895,2.0,MEDIUM,24.0,1,True,Ferrari,True,1.0,29.992,30.229,23.674,,False,False,7236.637,13,Hungarian Grand Prix
+SAI,42.0,84.492,2.0,MEDIUM,25.0,12,True,Ferrari,True,1.0,30.174,30.541,23.777,,False,False,7321.129,13,Hungarian Grand Prix
+SAI,43.0,83.621,2.0,MEDIUM,26.0,1,True,Ferrari,True,1.0,29.641,30.265,23.715,,False,False,7404.75,13,Hungarian Grand Prix
+SAI,44.0,84.184,2.0,MEDIUM,27.0,1,True,Ferrari,True,1.0,30.037,30.344,23.803,,False,False,7488.934,13,Hungarian Grand Prix
+SAI,45.0,84.244,2.0,MEDIUM,28.0,1,True,Ferrari,True,1.0,30.057,30.454,23.733,,False,False,7573.178,13,Hungarian Grand Prix
+SAI,46.0,84.289,2.0,MEDIUM,29.0,1,True,Ferrari,True,1.0,30.089,30.57,23.63,,False,False,7657.467,13,Hungarian Grand Prix
+SAI,47.0,86.632,2.0,MEDIUM,30.0,1,False,Ferrari,True,2.0,29.977,30.571,26.084,,True,False,7744.099,13,Hungarian Grand Prix
+SAI,48.0,103.136,3.0,SOFT,4.0,12,False,Ferrari,False,5.0,49.865,29.934,23.337,,False,True,7847.235,13,Hungarian Grand Prix
+SAI,49.0,82.944,3.0,SOFT,5.0,1,True,Ferrari,False,5.0,29.852,29.876,23.216,,False,False,7930.179,13,Hungarian Grand Prix
+SAI,50.0,82.389,3.0,SOFT,6.0,1,True,Ferrari,False,5.0,29.649,29.597,23.143,,False,False,8012.568,13,Hungarian Grand Prix
+SAI,51.0,82.0,3.0,SOFT,7.0,1,True,Ferrari,False,5.0,29.547,29.454,22.999,,False,False,8094.568,13,Hungarian Grand Prix
+SAI,52.0,82.491,3.0,SOFT,8.0,1,True,Ferrari,False,4.0,29.636,29.676,23.179,,False,False,8177.059,13,Hungarian Grand Prix
+SAI,53.0,82.888,3.0,SOFT,9.0,1,True,Ferrari,False,4.0,29.551,30.048,23.289,,False,False,8259.947,13,Hungarian Grand Prix
+SAI,54.0,82.984,3.0,SOFT,10.0,1,True,Ferrari,False,3.0,29.607,29.825,23.552,,False,False,8342.931,13,Hungarian Grand Prix
+SAI,55.0,82.866,3.0,SOFT,11.0,1,True,Ferrari,False,3.0,29.347,30.003,23.516,,False,False,8425.797,13,Hungarian Grand Prix
+SAI,56.0,82.983,3.0,SOFT,12.0,1,True,Ferrari,False,3.0,29.886,29.811,23.286,,False,False,8508.78,13,Hungarian Grand Prix
+SAI,57.0,82.673,3.0,SOFT,13.0,1,True,Ferrari,False,3.0,29.682,29.692,23.299,,False,False,8591.453,13,Hungarian Grand Prix
+SAI,58.0,82.926,3.0,SOFT,14.0,1,True,Ferrari,False,3.0,29.728,29.757,23.441,,False,False,8674.379,13,Hungarian Grand Prix
+SAI,59.0,82.893,3.0,SOFT,15.0,1,True,Ferrari,False,3.0,29.575,29.711,23.607,,False,False,8757.272,13,Hungarian Grand Prix
+SAI,60.0,83.237,3.0,SOFT,16.0,1,True,Ferrari,False,3.0,29.685,29.842,23.71,,False,False,8840.509,13,Hungarian Grand Prix
+SAI,61.0,83.124,3.0,SOFT,17.0,1,True,Ferrari,False,3.0,29.829,29.879,23.416,,False,False,8923.633,13,Hungarian Grand Prix
+SAI,62.0,84.15,3.0,SOFT,18.0,1,True,Ferrari,False,3.0,29.826,30.233,24.091,,False,False,9007.783,13,Hungarian Grand Prix
+SAI,63.0,84.236,3.0,SOFT,19.0,1,True,Ferrari,False,4.0,30.185,30.263,23.788,,False,False,9092.019,13,Hungarian Grand Prix
+SAI,64.0,83.638,3.0,SOFT,20.0,1,True,Ferrari,False,4.0,29.78,30.229,23.629,,False,False,9175.657,13,Hungarian Grand Prix
+SAI,65.0,83.546,3.0,SOFT,21.0,1,True,Ferrari,False,4.0,29.806,30.127,23.613,,False,False,9259.203,13,Hungarian Grand Prix
+SAI,66.0,83.988,3.0,SOFT,22.0,1,True,Ferrari,False,4.0,29.813,30.385,23.79,,False,False,9343.191,13,Hungarian Grand Prix
+SAI,67.0,84.6,3.0,SOFT,23.0,12,True,Ferrari,False,4.0,29.796,30.86,23.944,,False,False,9427.791,13,Hungarian Grand Prix
+SAI,68.0,105.307,3.0,SOFT,24.0,26,False,Ferrari,False,4.0,30.041,44.304,30.962,,False,False,9533.098,13,Hungarian Grand Prix
+SAI,69.0,96.569,3.0,SOFT,25.0,671,False,Ferrari,False,4.0,40.184,31.822,24.563,,False,False,9629.667,13,Hungarian Grand Prix
+SAI,70.0,86.862,3.0,SOFT,26.0,1,True,Ferrari,False,4.0,30.407,31.704,24.751,,False,False,9716.529,13,Hungarian Grand Prix
+LAT,1.0,110.639,1.0,MEDIUM,1.0,126,False,Williams,True,19.0,,34.906,35.64,,False,False,3836.677,13,Hungarian Grand Prix
+LAT,2.0,111.116,1.0,MEDIUM,2.0,67,False,Williams,True,19.0,46.845,34.763,29.508,,False,False,3947.793,13,Hungarian Grand Prix
+LAT,3.0,87.601,1.0,MEDIUM,3.0,71,False,Williams,True,18.0,31.602,31.863,24.136,,False,False,4035.394,13,Hungarian Grand Prix
+LAT,4.0,86.007,1.0,MEDIUM,4.0,1,True,Williams,True,18.0,30.493,31.513,24.001,,False,False,4121.401,13,Hungarian Grand Prix
+LAT,5.0,85.935,1.0,MEDIUM,5.0,1,True,Williams,True,18.0,30.535,31.318,24.082,,False,False,4207.336,13,Hungarian Grand Prix
+LAT,6.0,85.567,1.0,MEDIUM,6.0,1,True,Williams,True,18.0,30.305,31.2,24.062,,False,False,4292.903,13,Hungarian Grand Prix
+LAT,7.0,85.677,1.0,MEDIUM,7.0,1,True,Williams,True,17.0,30.434,31.271,23.972,,False,False,4378.58,13,Hungarian Grand Prix
+LAT,8.0,85.772,1.0,MEDIUM,8.0,1,True,Williams,True,17.0,30.21,31.283,24.279,,False,False,4464.352,13,Hungarian Grand Prix
+LAT,9.0,86.738,1.0,MEDIUM,9.0,1,True,Williams,True,18.0,31.086,31.485,24.167,,False,False,4551.09,13,Hungarian Grand Prix
+LAT,10.0,86.406,1.0,MEDIUM,10.0,1,True,Williams,True,18.0,30.517,31.584,24.305,,False,False,4637.496,13,Hungarian Grand Prix
+LAT,11.0,86.298,1.0,MEDIUM,11.0,1,True,Williams,True,18.0,30.5,31.566,24.232,,False,False,4723.794,13,Hungarian Grand Prix
+LAT,12.0,86.321,1.0,MEDIUM,12.0,1,True,Williams,True,18.0,30.72,31.313,24.288,,False,False,4810.115,13,Hungarian Grand Prix
+LAT,13.0,86.706,1.0,MEDIUM,13.0,1,True,Williams,True,18.0,30.648,31.621,24.437,,False,False,4896.821,13,Hungarian Grand Prix
+LAT,14.0,86.582,1.0,MEDIUM,14.0,1,True,Williams,True,17.0,30.546,31.543,24.493,,False,False,4983.403,13,Hungarian Grand Prix
+LAT,15.0,86.674,1.0,MEDIUM,15.0,1,True,Williams,True,15.0,30.47,31.677,24.527,,False,False,5070.077,13,Hungarian Grand Prix
+LAT,16.0,86.983,1.0,MEDIUM,16.0,1,True,Williams,True,14.0,31.024,31.52,24.439,,False,False,5157.06,13,Hungarian Grand Prix
+LAT,17.0,86.801,1.0,MEDIUM,17.0,1,True,Williams,True,13.0,30.607,31.665,24.529,,False,False,5243.861,13,Hungarian Grand Prix
+LAT,18.0,89.197,1.0,MEDIUM,18.0,1,False,Williams,True,13.0,30.644,31.589,26.964,,True,False,5333.058,13,Hungarian Grand Prix
+LAT,19.0,105.364,2.0,MEDIUM,1.0,1,False,Williams,True,20.0,49.488,31.651,24.225,,False,True,5438.422,13,Hungarian Grand Prix
+LAT,20.0,85.384,2.0,MEDIUM,2.0,1,True,Williams,True,20.0,30.179,31.291,23.914,,False,False,5523.806,13,Hungarian Grand Prix
+LAT,21.0,85.761,2.0,MEDIUM,3.0,1,True,Williams,True,20.0,30.254,31.351,24.156,,False,False,5609.567,13,Hungarian Grand Prix
+LAT,22.0,85.537,2.0,MEDIUM,4.0,1,True,Williams,True,19.0,29.99,31.371,24.176,,False,False,5695.104,13,Hungarian Grand Prix
+LAT,23.0,85.494,2.0,MEDIUM,5.0,1,True,Williams,True,19.0,30.063,31.224,24.207,,False,False,5780.598,13,Hungarian Grand Prix
+LAT,24.0,85.648,2.0,MEDIUM,6.0,1,True,Williams,True,19.0,30.15,31.2,24.298,,False,False,5866.246,13,Hungarian Grand Prix
+LAT,25.0,85.454,2.0,MEDIUM,7.0,1,True,Williams,True,19.0,30.067,31.183,24.204,,False,False,5951.7,13,Hungarian Grand Prix
+LAT,26.0,85.457,2.0,MEDIUM,8.0,1,True,Williams,True,19.0,30.196,31.245,24.016,,False,False,6037.157,13,Hungarian Grand Prix
+LAT,27.0,85.49,2.0,MEDIUM,9.0,1,True,Williams,True,19.0,29.988,31.363,24.139,,False,False,6122.647,13,Hungarian Grand Prix
+LAT,28.0,86.427,2.0,MEDIUM,10.0,1,True,Williams,True,18.0,30.527,31.386,24.514,,False,False,6209.074,13,Hungarian Grand Prix
+LAT,29.0,85.989,2.0,MEDIUM,11.0,1,True,Williams,True,18.0,30.499,31.415,24.075,,False,False,6295.063,13,Hungarian Grand Prix
+LAT,30.0,85.608,2.0,MEDIUM,12.0,1,True,Williams,True,18.0,30.197,31.122,24.289,,False,False,6380.671,13,Hungarian Grand Prix
+LAT,31.0,85.476,2.0,MEDIUM,13.0,1,True,Williams,True,18.0,30.21,31.21,24.056,,False,False,6466.147,13,Hungarian Grand Prix
+LAT,32.0,85.18,2.0,MEDIUM,14.0,1,True,Williams,True,18.0,30.162,31.134,23.884,,False,False,6551.327,13,Hungarian Grand Prix
+LAT,33.0,84.929,2.0,MEDIUM,15.0,1,True,Williams,True,18.0,30.003,30.969,23.957,,False,False,6636.256,13,Hungarian Grand Prix
+LAT,34.0,85.013,2.0,MEDIUM,16.0,12,True,Williams,True,17.0,29.986,31.016,24.011,,False,False,6721.269,13,Hungarian Grand Prix
+LAT,35.0,85.202,2.0,MEDIUM,17.0,1,True,Williams,True,17.0,29.963,31.213,24.026,,False,False,6806.471,13,Hungarian Grand Prix
+LAT,36.0,85.589,2.0,MEDIUM,18.0,1,True,Williams,True,17.0,30.066,31.344,24.179,,False,False,6892.06,13,Hungarian Grand Prix
+LAT,37.0,87.5,2.0,MEDIUM,19.0,1,True,Williams,True,17.0,30.369,33.057,24.074,,False,False,6979.56,13,Hungarian Grand Prix
+LAT,38.0,86.027,2.0,MEDIUM,20.0,1,True,Williams,True,17.0,30.522,31.393,24.112,,False,False,7065.587,13,Hungarian Grand Prix
+LAT,39.0,87.516,2.0,MEDIUM,21.0,1,False,Williams,True,17.0,30.225,31.206,26.085,,True,False,7153.103,13,Hungarian Grand Prix
+LAT,40.0,106.409,3.0,SOFT,1.0,12,False,Williams,True,19.0,50.922,31.442,24.045,,False,True,7259.512,13,Hungarian Grand Prix
+LAT,41.0,85.41,3.0,SOFT,2.0,1,True,Williams,True,18.0,30.049,31.284,24.077,,False,False,7344.922,13,Hungarian Grand Prix
+LAT,42.0,84.015,3.0,SOFT,3.0,1,True,Williams,True,18.0,29.833,30.763,23.419,,False,False,7428.937,13,Hungarian Grand Prix
+LAT,43.0,84.633,3.0,SOFT,4.0,1,True,Williams,True,18.0,29.789,30.882,23.962,,False,False,7513.57,13,Hungarian Grand Prix
+LAT,44.0,84.964,3.0,SOFT,5.0,1,True,Williams,True,18.0,30.031,31.135,23.798,,False,False,7598.534,13,Hungarian Grand Prix
+LAT,45.0,84.723,3.0,SOFT,6.0,1,True,Williams,True,18.0,30.009,30.983,23.731,,False,False,7683.257,13,Hungarian Grand Prix
+LAT,46.0,83.884,3.0,SOFT,7.0,12,True,Williams,True,18.0,29.79,30.507,23.587,,False,False,7767.141,13,Hungarian Grand Prix
+LAT,47.0,84.505,3.0,SOFT,8.0,21,True,Williams,True,18.0,29.896,30.819,23.79,,False,False,7851.646,13,Hungarian Grand Prix
+LAT,48.0,84.641,3.0,SOFT,9.0,1,True,Williams,True,18.0,29.867,30.83,23.944,,False,False,7936.287,13,Hungarian Grand Prix
+LAT,49.0,84.319,3.0,SOFT,10.0,1,True,Williams,True,18.0,29.771,30.659,23.889,,False,False,8020.606,13,Hungarian Grand Prix
+LAT,50.0,84.405,3.0,SOFT,11.0,1,True,Williams,True,18.0,29.896,30.567,23.942,,False,False,8105.011,13,Hungarian Grand Prix
+LAT,51.0,84.856,3.0,SOFT,12.0,1,True,Williams,True,18.0,30.047,30.77,24.039,,False,False,8189.867,13,Hungarian Grand Prix
+LAT,52.0,86.786,3.0,SOFT,13.0,1,True,Williams,True,17.0,29.915,31.142,25.729,,False,False,8276.653,13,Hungarian Grand Prix
+LAT,53.0,85.215,3.0,SOFT,14.0,1,True,Williams,True,17.0,30.061,31.047,24.107,,False,False,8361.868,13,Hungarian Grand Prix
+LAT,54.0,87.13,3.0,SOFT,15.0,1,True,Williams,True,17.0,30.283,31.461,25.386,,False,False,8448.998,13,Hungarian Grand Prix
+LAT,55.0,85.643,3.0,SOFT,16.0,1,True,Williams,True,17.0,30.082,31.227,24.334,,False,False,8534.641,13,Hungarian Grand Prix
+LAT,56.0,89.321,3.0,SOFT,17.0,1,False,Williams,True,19.0,30.663,31.829,26.829,,True,False,8623.962,13,Hungarian Grand Prix
+LAT,57.0,113.244,4.0,SOFT,1.0,1,False,Williams,True,19.0,56.016,33.503,23.725,,False,True,8737.206,13,Hungarian Grand Prix
+LAT,58.0,84.33,4.0,SOFT,2.0,1,True,Williams,True,19.0,29.909,30.146,24.275,,False,False,8821.536,13,Hungarian Grand Prix
+LAT,59.0,83.37,4.0,SOFT,3.0,1,True,Williams,True,19.0,29.875,30.171,23.324,,False,False,8904.906,13,Hungarian Grand Prix
+LAT,60.0,82.478,4.0,SOFT,4.0,1,True,Williams,True,19.0,29.414,29.78,23.284,,False,False,8987.384,13,Hungarian Grand Prix
+LAT,61.0,82.977,4.0,SOFT,5.0,1,True,Williams,True,19.0,29.571,29.942,23.464,,False,False,9070.361,13,Hungarian Grand Prix
+LAT,62.0,84.048,4.0,SOFT,6.0,1,True,Williams,True,19.0,29.772,30.596,23.68,,False,False,9154.409,13,Hungarian Grand Prix
+LAT,63.0,82.913,4.0,SOFT,7.0,1,True,Williams,True,19.0,29.648,29.901,23.364,,False,False,9237.322,13,Hungarian Grand Prix
+LAT,64.0,82.802,4.0,SOFT,8.0,1,True,Williams,True,19.0,29.562,29.855,23.385,,False,False,9320.124,13,Hungarian Grand Prix
+LAT,65.0,83.799,4.0,SOFT,9.0,1,True,Williams,True,19.0,29.711,30.43,23.658,,False,False,9403.923,13,Hungarian Grand Prix
+LAT,66.0,95.953,4.0,SOFT,10.0,126,False,Williams,True,18.0,29.959,36.491,29.503,,False,False,9499.876,13,Hungarian Grand Prix
+LAT,67.0,106.528,4.0,SOFT,11.0,671,False,Williams,True,18.0,40.275,40.231,26.022,,False,False,9606.404,13,Hungarian Grand Prix
+LAT,68.0,87.47,4.0,SOFT,12.0,1,True,Williams,True,18.0,31.023,32.001,24.446,,False,False,9693.874,13,Hungarian Grand Prix
+LAT,69.0,87.073,4.0,SOFT,13.0,1,True,Williams,True,18.0,31.036,31.505,24.532,,False,False,9780.947,13,Hungarian Grand Prix
+RUS,1.0,88.391,1.0,SOFT,4.0,12,False,Mercedes,False,1.0,,30.398,23.455,,False,False,3814.429,13,Hungarian Grand Prix
+RUS,2.0,112.128,1.0,SOFT,5.0,16,False,Mercedes,False,1.0,42.354,37.908,31.866,,False,False,3926.557,13,Hungarian Grand Prix
+RUS,3.0,90.593,1.0,SOFT,6.0,671,False,Mercedes,False,1.0,36.952,30.215,23.426,,False,False,4017.15,13,Hungarian Grand Prix
+RUS,4.0,83.722,1.0,SOFT,7.0,1,True,Mercedes,False,1.0,30.181,30.083,23.458,,False,False,4100.872,13,Hungarian Grand Prix
+RUS,5.0,83.954,1.0,SOFT,8.0,1,True,Mercedes,False,1.0,30.18,30.199,23.575,,False,False,4184.826,13,Hungarian Grand Prix
+RUS,6.0,83.999,1.0,SOFT,9.0,1,True,Mercedes,False,1.0,30.226,30.269,23.504,,False,False,4268.825,13,Hungarian Grand Prix
+RUS,7.0,84.069,1.0,SOFT,10.0,1,True,Mercedes,False,1.0,30.31,30.191,23.568,,False,False,4352.894,13,Hungarian Grand Prix
+RUS,8.0,84.073,1.0,SOFT,11.0,1,True,Mercedes,False,1.0,30.247,30.261,23.565,,False,False,4436.967,13,Hungarian Grand Prix
+RUS,9.0,83.714,1.0,SOFT,12.0,1,True,Mercedes,False,1.0,30.157,30.018,23.539,,False,False,4520.681,13,Hungarian Grand Prix
+RUS,10.0,84.514,1.0,SOFT,13.0,1,True,Mercedes,False,1.0,30.384,30.29,23.84,,False,False,4605.195,13,Hungarian Grand Prix
+RUS,11.0,84.31,1.0,SOFT,14.0,1,True,Mercedes,False,1.0,30.235,30.345,23.73,,False,False,4689.505,13,Hungarian Grand Prix
+RUS,12.0,84.199,1.0,SOFT,15.0,1,True,Mercedes,False,1.0,30.28,30.253,23.666,,False,False,4773.704,13,Hungarian Grand Prix
+RUS,13.0,84.535,1.0,SOFT,16.0,1,True,Mercedes,False,1.0,30.215,30.373,23.947,,False,False,4858.239,13,Hungarian Grand Prix
+RUS,14.0,85.013,1.0,SOFT,17.0,1,True,Mercedes,False,1.0,30.255,30.562,24.196,,False,False,4943.252,13,Hungarian Grand Prix
+RUS,15.0,84.873,1.0,SOFT,18.0,1,True,Mercedes,False,1.0,30.35,30.614,23.909,,False,False,5028.125,13,Hungarian Grand Prix
+RUS,16.0,87.655,1.0,SOFT,19.0,1,False,Mercedes,False,3.0,30.473,30.891,26.291,,True,False,5115.78,13,Hungarian Grand Prix
+RUS,17.0,103.376,2.0,MEDIUM,1.0,1,False,Mercedes,True,6.0,49.935,29.99,23.451,,False,True,5219.156,13,Hungarian Grand Prix
+RUS,18.0,83.272,2.0,MEDIUM,2.0,1,True,Mercedes,True,4.0,29.793,30.077,23.402,,False,False,5302.428,13,Hungarian Grand Prix
+RUS,19.0,83.466,2.0,MEDIUM,3.0,1,True,Mercedes,True,3.0,30.023,30.089,23.354,,False,False,5385.894,13,Hungarian Grand Prix
+RUS,20.0,83.636,2.0,MEDIUM,4.0,1,True,Mercedes,True,2.0,30.028,30.227,23.381,,False,False,5469.53,13,Hungarian Grand Prix
+RUS,21.0,83.923,2.0,MEDIUM,5.0,1,True,Mercedes,True,2.0,30.064,30.327,23.532,,False,False,5553.453,13,Hungarian Grand Prix
+RUS,22.0,83.656,2.0,MEDIUM,6.0,1,True,Mercedes,True,1.0,29.969,30.239,23.448,,False,False,5637.109,13,Hungarian Grand Prix
+RUS,23.0,83.566,2.0,MEDIUM,7.0,1,True,Mercedes,True,1.0,29.903,30.184,23.479,,False,False,5720.675,13,Hungarian Grand Prix
+RUS,24.0,83.901,2.0,MEDIUM,8.0,1,True,Mercedes,True,1.0,29.917,30.217,23.767,,False,False,5804.576,13,Hungarian Grand Prix
+RUS,25.0,83.654,2.0,MEDIUM,9.0,1,True,Mercedes,True,1.0,29.955,30.033,23.666,,False,False,5888.23,13,Hungarian Grand Prix
+RUS,26.0,83.763,2.0,MEDIUM,10.0,1,True,Mercedes,True,1.0,29.978,30.326,23.459,,False,False,5971.993,13,Hungarian Grand Prix
+RUS,27.0,83.878,2.0,MEDIUM,11.0,1,True,Mercedes,True,1.0,30.036,30.282,23.56,,False,False,6055.871,13,Hungarian Grand Prix
+RUS,28.0,84.566,2.0,MEDIUM,12.0,1,True,Mercedes,True,1.0,30.606,30.4,23.56,,False,False,6140.437,13,Hungarian Grand Prix
+RUS,29.0,84.266,2.0,MEDIUM,13.0,1,True,Mercedes,True,1.0,30.324,30.376,23.566,,False,False,6224.703,13,Hungarian Grand Prix
+RUS,30.0,84.196,2.0,MEDIUM,14.0,1,True,Mercedes,True,1.0,30.21,30.481,23.505,,False,False,6308.899,13,Hungarian Grand Prix
+RUS,31.0,85.123,2.0,MEDIUM,15.0,1,True,Mercedes,True,2.0,30.55,30.773,23.8,,False,False,6394.022,13,Hungarian Grand Prix
+RUS,32.0,84.588,2.0,MEDIUM,16.0,1,True,Mercedes,True,2.0,30.034,30.712,23.842,,False,False,6478.61,13,Hungarian Grand Prix
+RUS,33.0,83.939,2.0,MEDIUM,17.0,1,True,Mercedes,True,2.0,30.011,30.469,23.459,,False,False,6562.549,13,Hungarian Grand Prix
+RUS,34.0,83.997,2.0,MEDIUM,18.0,1,True,Mercedes,True,2.0,29.962,30.189,23.846,,False,False,6646.546,13,Hungarian Grand Prix
+RUS,35.0,83.862,2.0,MEDIUM,19.0,12,True,Mercedes,True,2.0,30.06,30.13,23.672,,False,False,6730.408,13,Hungarian Grand Prix
+RUS,36.0,84.16,2.0,MEDIUM,20.0,1,True,Mercedes,True,2.0,29.916,30.394,23.85,,False,False,6814.568,13,Hungarian Grand Prix
+RUS,37.0,83.9,2.0,MEDIUM,21.0,1,True,Mercedes,True,2.0,29.834,30.367,23.699,,False,False,6898.468,13,Hungarian Grand Prix
+RUS,38.0,84.267,2.0,MEDIUM,22.0,1,True,Mercedes,True,2.0,30.232,30.387,23.648,,False,False,6982.735,13,Hungarian Grand Prix
+RUS,39.0,86.637,2.0,MEDIUM,23.0,1,False,Mercedes,True,3.0,30.189,30.459,25.989,,True,False,7069.372,13,Hungarian Grand Prix
+RUS,40.0,102.258,3.0,MEDIUM,1.0,1,False,Mercedes,True,6.0,48.742,30.107,23.409,,False,True,7171.63,13,Hungarian Grand Prix
+RUS,41.0,85.108,3.0,MEDIUM,2.0,12,True,Mercedes,True,6.0,30.262,30.769,24.077,,False,False,7256.738,13,Hungarian Grand Prix
+RUS,42.0,83.931,3.0,MEDIUM,3.0,1,True,Mercedes,True,5.0,30.316,30.443,23.172,,False,False,7340.669,13,Hungarian Grand Prix
+RUS,43.0,82.967,3.0,MEDIUM,4.0,1,True,Mercedes,True,5.0,29.909,29.808,23.25,,False,False,7423.636,13,Hungarian Grand Prix
+RUS,44.0,82.907,3.0,MEDIUM,5.0,1,True,Mercedes,True,5.0,29.753,29.858,23.296,,False,False,7506.543,13,Hungarian Grand Prix
+RUS,45.0,83.04,3.0,MEDIUM,6.0,1,True,Mercedes,True,5.0,29.715,29.907,23.418,,False,False,7589.583,13,Hungarian Grand Prix
+RUS,46.0,83.027,3.0,MEDIUM,7.0,1,True,Mercedes,True,5.0,29.771,30.02,23.236,,False,False,7672.61,13,Hungarian Grand Prix
+RUS,47.0,83.223,3.0,MEDIUM,8.0,1,True,Mercedes,True,5.0,29.826,30.017,23.38,,False,False,7755.833,13,Hungarian Grand Prix
+RUS,48.0,83.128,3.0,MEDIUM,9.0,12,True,Mercedes,True,4.0,29.828,29.86,23.44,,False,False,7838.961,13,Hungarian Grand Prix
+RUS,49.0,83.394,3.0,MEDIUM,10.0,1,True,Mercedes,True,4.0,29.723,30.173,23.498,,False,False,7922.355,13,Hungarian Grand Prix
+RUS,50.0,83.508,3.0,MEDIUM,11.0,1,True,Mercedes,True,4.0,29.824,29.941,23.743,,False,False,8005.863,13,Hungarian Grand Prix
+RUS,51.0,84.17,3.0,MEDIUM,12.0,1,True,Mercedes,True,4.0,29.731,30.783,23.656,,False,False,8090.033,13,Hungarian Grand Prix
+RUS,52.0,83.533,3.0,MEDIUM,13.0,1,True,Mercedes,True,3.0,29.515,30.516,23.502,,False,False,8173.566,13,Hungarian Grand Prix
+RUS,53.0,83.854,3.0,MEDIUM,14.0,1,True,Mercedes,True,3.0,30.059,30.263,23.532,,False,False,8257.42,13,Hungarian Grand Prix
+RUS,54.0,83.007,3.0,MEDIUM,15.0,1,True,Mercedes,True,2.0,29.381,29.986,23.64,,False,False,8340.427,13,Hungarian Grand Prix
+RUS,55.0,83.33,3.0,MEDIUM,16.0,1,True,Mercedes,True,2.0,29.893,29.927,23.51,,False,False,8423.757,13,Hungarian Grand Prix
+RUS,56.0,82.791,3.0,MEDIUM,17.0,1,True,Mercedes,True,2.0,29.896,29.695,23.2,,False,False,8506.548,13,Hungarian Grand Prix
+RUS,57.0,82.766,3.0,MEDIUM,18.0,1,True,Mercedes,True,2.0,29.881,29.707,23.178,,False,False,8589.314,13,Hungarian Grand Prix
+RUS,58.0,83.057,3.0,MEDIUM,19.0,1,True,Mercedes,True,2.0,29.975,29.778,23.304,,False,False,8672.371,13,Hungarian Grand Prix
+RUS,59.0,83.154,3.0,MEDIUM,20.0,1,True,Mercedes,True,2.0,29.691,29.898,23.565,,False,False,8755.525,13,Hungarian Grand Prix
+RUS,60.0,83.576,3.0,MEDIUM,21.0,1,True,Mercedes,True,2.0,29.878,29.972,23.726,,False,False,8839.101,13,Hungarian Grand Prix
+RUS,61.0,82.953,3.0,MEDIUM,22.0,1,True,Mercedes,True,2.0,29.816,29.752,23.385,,False,False,8922.054,13,Hungarian Grand Prix
+RUS,62.0,83.742,3.0,MEDIUM,23.0,1,True,Mercedes,True,2.0,29.917,30.078,23.747,,False,False,9005.796,13,Hungarian Grand Prix
+RUS,63.0,83.235,3.0,MEDIUM,24.0,1,True,Mercedes,True,2.0,29.818,29.841,23.576,,False,False,9089.031,13,Hungarian Grand Prix
+RUS,64.0,83.631,3.0,MEDIUM,25.0,1,True,Mercedes,True,2.0,29.959,30.14,23.532,,False,False,9172.662,13,Hungarian Grand Prix
+RUS,65.0,84.431,3.0,MEDIUM,26.0,1,True,Mercedes,True,3.0,30.443,30.389,23.599,,False,False,9257.093,13,Hungarian Grand Prix
+RUS,66.0,84.387,3.0,MEDIUM,27.0,1,True,Mercedes,True,3.0,30.034,30.412,23.941,,False,False,9341.48,13,Hungarian Grand Prix
+RUS,67.0,83.675,3.0,MEDIUM,28.0,12,True,Mercedes,True,3.0,29.812,30.218,23.645,,False,False,9425.155,13,Hungarian Grand Prix
+RUS,68.0,101.352,3.0,MEDIUM,29.0,26,False,Mercedes,True,3.0,30.083,39.788,31.481,,False,False,9526.507,13,Hungarian Grand Prix
+RUS,69.0,100.381,3.0,MEDIUM,30.0,671,False,Mercedes,True,3.0,40.574,35.259,24.548,,False,False,9626.888,13,Hungarian Grand Prix
+RUS,70.0,87.399,3.0,MEDIUM,31.0,1,True,Mercedes,True,3.0,30.825,31.529,25.045,,False,False,9714.287,13,Hungarian Grand Prix
+BOT,1.0,103.547,1.0,MEDIUM,1.0,126,False,Alfa Romeo,True,13.0,,33.641,31.497,,False,False,3829.585,13,Hungarian Grand Prix
+BOT,2.0,113.373,1.0,MEDIUM,2.0,67,False,Alfa Romeo,True,14.0,47.627,34.126,31.62,,False,False,3942.958,13,Hungarian Grand Prix
+BOT,3.0,87.408,1.0,MEDIUM,3.0,71,False,Alfa Romeo,True,13.0,32.53,30.931,23.947,,False,False,4030.366,13,Hungarian Grand Prix
+BOT,4.0,85.128,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,13.0,30.156,31.019,23.953,,False,False,4115.494,13,Hungarian Grand Prix
+BOT,5.0,85.352,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,13.0,30.316,30.957,24.079,,False,False,4200.846,13,Hungarian Grand Prix
+BOT,6.0,85.824,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,13.0,30.17,31.377,24.277,,False,False,4286.67,13,Hungarian Grand Prix
+BOT,7.0,85.431,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,12.0,30.298,30.986,24.147,,False,False,4372.101,13,Hungarian Grand Prix
+BOT,8.0,85.732,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,12.0,30.274,31.312,24.146,,False,False,4457.833,13,Hungarian Grand Prix
+BOT,9.0,85.684,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,12.0,30.546,31.064,24.074,,False,False,4543.517,13,Hungarian Grand Prix
+BOT,10.0,86.11,1.0,MEDIUM,10.0,1,True,Alfa Romeo,True,12.0,30.732,31.4,23.978,,False,False,4629.627,13,Hungarian Grand Prix
+BOT,11.0,85.588,1.0,MEDIUM,11.0,1,True,Alfa Romeo,True,12.0,30.373,31.163,24.052,,False,False,4715.215,13,Hungarian Grand Prix
+BOT,12.0,86.37,1.0,MEDIUM,12.0,1,True,Alfa Romeo,True,12.0,31.049,31.354,23.967,,False,False,4801.585,13,Hungarian Grand Prix
+BOT,13.0,86.561,1.0,MEDIUM,13.0,1,True,Alfa Romeo,True,12.0,30.834,31.387,24.34,,False,False,4888.146,13,Hungarian Grand Prix
+BOT,14.0,86.046,1.0,MEDIUM,14.0,1,True,Alfa Romeo,True,12.0,30.342,31.298,24.406,,False,False,4974.192,13,Hungarian Grand Prix
+BOT,15.0,86.964,1.0,MEDIUM,15.0,1,True,Alfa Romeo,True,10.0,30.608,31.773,24.583,,False,False,5061.156,13,Hungarian Grand Prix
+BOT,16.0,85.943,1.0,MEDIUM,16.0,1,True,Alfa Romeo,True,10.0,30.709,31.266,23.968,,False,False,5147.099,13,Hungarian Grand Prix
+BOT,17.0,85.653,1.0,MEDIUM,17.0,1,True,Alfa Romeo,True,10.0,30.719,30.963,23.971,,False,False,5232.752,13,Hungarian Grand Prix
+BOT,18.0,85.949,1.0,MEDIUM,18.0,1,True,Alfa Romeo,True,10.0,30.647,31.07,24.232,,False,False,5318.701,13,Hungarian Grand Prix
+BOT,19.0,86.347,1.0,MEDIUM,19.0,1,True,Alfa Romeo,True,9.0,30.368,31.655,24.324,,False,False,5405.048,13,Hungarian Grand Prix
+BOT,20.0,87.193,1.0,MEDIUM,20.0,1,True,Alfa Romeo,True,10.0,30.674,32.022,24.497,,False,False,5492.241,13,Hungarian Grand Prix
+BOT,21.0,87.113,1.0,MEDIUM,21.0,1,True,Alfa Romeo,True,10.0,31.169,31.479,24.465,,False,False,5579.354,13,Hungarian Grand Prix
+BOT,22.0,85.424,1.0,MEDIUM,22.0,1,True,Alfa Romeo,True,9.0,30.569,30.853,24.002,,False,False,5664.778,13,Hungarian Grand Prix
+BOT,23.0,85.473,1.0,MEDIUM,23.0,1,True,Alfa Romeo,True,9.0,30.632,30.805,24.036,,False,False,5750.251,13,Hungarian Grand Prix
+BOT,24.0,85.649,1.0,MEDIUM,24.0,1,True,Alfa Romeo,True,8.0,30.547,30.846,24.256,,False,False,5835.9,13,Hungarian Grand Prix
+BOT,25.0,86.023,1.0,MEDIUM,25.0,1,True,Alfa Romeo,True,8.0,30.645,31.15,24.228,,False,False,5921.923,13,Hungarian Grand Prix
+BOT,26.0,88.113,1.0,MEDIUM,26.0,1,False,Alfa Romeo,True,9.0,30.467,31.16,26.486,,True,False,6010.036,13,Hungarian Grand Prix
+BOT,27.0,104.955,2.0,HARD,1.0,1,False,Alfa Romeo,True,15.0,49.738,31.244,23.973,,False,True,6114.991,13,Hungarian Grand Prix
+BOT,28.0,85.374,2.0,HARD,2.0,1,True,Alfa Romeo,True,14.0,30.571,30.786,24.017,,False,False,6200.365,13,Hungarian Grand Prix
+BOT,29.0,85.149,2.0,HARD,3.0,1,True,Alfa Romeo,True,14.0,30.474,30.75,23.925,,False,False,6285.514,13,Hungarian Grand Prix
+BOT,30.0,85.134,2.0,HARD,4.0,1,True,Alfa Romeo,True,14.0,30.308,30.818,24.008,,False,False,6370.648,13,Hungarian Grand Prix
+BOT,31.0,85.161,2.0,HARD,5.0,1,True,Alfa Romeo,True,14.0,30.347,30.973,23.841,,False,False,6455.809,13,Hungarian Grand Prix
+BOT,32.0,85.047,2.0,HARD,6.0,1,True,Alfa Romeo,True,14.0,30.323,30.882,23.842,,False,False,6540.856,13,Hungarian Grand Prix
+BOT,33.0,85.226,2.0,HARD,7.0,1,True,Alfa Romeo,True,14.0,30.388,30.819,24.019,,False,False,6626.082,13,Hungarian Grand Prix
+BOT,34.0,84.955,2.0,HARD,8.0,12,True,Alfa Romeo,True,14.0,30.408,30.611,23.936,,False,False,6711.037,13,Hungarian Grand Prix
+BOT,35.0,84.639,2.0,HARD,9.0,21,True,Alfa Romeo,True,14.0,30.235,30.641,23.763,,False,False,6795.676,13,Hungarian Grand Prix
+BOT,36.0,84.693,2.0,HARD,10.0,1,True,Alfa Romeo,True,14.0,30.188,30.767,23.738,,False,False,6880.369,13,Hungarian Grand Prix
+BOT,37.0,84.599,2.0,HARD,11.0,1,True,Alfa Romeo,True,14.0,30.455,30.507,23.637,,False,False,6964.968,13,Hungarian Grand Prix
+BOT,38.0,85.026,2.0,HARD,12.0,1,True,Alfa Romeo,True,14.0,30.32,30.836,23.87,,False,False,7049.994,13,Hungarian Grand Prix
+BOT,39.0,84.813,2.0,HARD,13.0,1,True,Alfa Romeo,True,14.0,30.276,30.679,23.858,,False,False,7134.807,13,Hungarian Grand Prix
+BOT,40.0,84.74,2.0,HARD,14.0,1,True,Alfa Romeo,True,14.0,30.335,30.564,23.841,,False,False,7219.547,13,Hungarian Grand Prix
+BOT,41.0,85.007,2.0,HARD,15.0,12,True,Alfa Romeo,True,14.0,30.335,30.776,23.896,,False,False,7304.554,13,Hungarian Grand Prix
+BOT,42.0,84.956,2.0,HARD,16.0,1,True,Alfa Romeo,True,14.0,30.48,30.755,23.721,,False,False,7389.51,13,Hungarian Grand Prix
+BOT,43.0,84.731,2.0,HARD,17.0,1,True,Alfa Romeo,True,14.0,30.336,30.591,23.804,,False,False,7474.241,13,Hungarian Grand Prix
+BOT,44.0,85.124,2.0,HARD,18.0,1,True,Alfa Romeo,True,14.0,30.166,30.878,24.08,,False,False,7559.365,13,Hungarian Grand Prix
+BOT,45.0,84.841,2.0,HARD,19.0,1,True,Alfa Romeo,True,14.0,30.262,30.763,23.816,,False,False,7644.206,13,Hungarian Grand Prix
+BOT,46.0,84.95,2.0,HARD,20.0,1,True,Alfa Romeo,True,13.0,30.325,30.584,24.041,,False,False,7729.156,13,Hungarian Grand Prix
+BOT,47.0,84.813,2.0,HARD,21.0,12,True,Alfa Romeo,True,10.0,30.304,30.74,23.769,,False,False,7813.969,13,Hungarian Grand Prix
+BOT,48.0,84.958,2.0,HARD,22.0,1,True,Alfa Romeo,True,10.0,30.401,30.642,23.915,,False,False,7898.927,13,Hungarian Grand Prix
+BOT,49.0,84.62,2.0,HARD,23.0,1,True,Alfa Romeo,True,10.0,30.29,30.423,23.907,,False,False,7983.547,13,Hungarian Grand Prix
+BOT,50.0,84.734,2.0,HARD,24.0,1,True,Alfa Romeo,True,10.0,30.242,30.492,24.0,,False,False,8068.281,13,Hungarian Grand Prix
+BOT,51.0,84.74,2.0,HARD,25.0,1,True,Alfa Romeo,True,10.0,30.264,30.755,23.721,,False,False,8153.021,13,Hungarian Grand Prix
+BOT,52.0,84.719,2.0,HARD,26.0,1,True,Alfa Romeo,True,10.0,30.353,30.552,23.814,,False,False,8237.74,13,Hungarian Grand Prix
+BOT,53.0,84.8,2.0,HARD,27.0,1,True,Alfa Romeo,True,10.0,30.255,30.519,24.026,,False,False,8322.54,13,Hungarian Grand Prix
+BOT,54.0,84.823,2.0,HARD,28.0,1,True,Alfa Romeo,True,10.0,30.413,30.615,23.795,,False,False,8407.363,13,Hungarian Grand Prix
+BOT,55.0,84.895,2.0,HARD,29.0,1,True,Alfa Romeo,True,10.0,30.332,30.728,23.835,,False,False,8492.258,13,Hungarian Grand Prix
+BOT,56.0,84.884,2.0,HARD,30.0,1,True,Alfa Romeo,True,10.0,30.375,30.781,23.728,,False,False,8577.142,13,Hungarian Grand Prix
+BOT,57.0,84.76,2.0,HARD,31.0,1,True,Alfa Romeo,True,10.0,30.398,30.588,23.774,,False,False,8661.902,13,Hungarian Grand Prix
+BOT,58.0,86.284,2.0,HARD,32.0,1,True,Alfa Romeo,True,10.0,30.327,30.655,25.302,,False,False,8748.186,13,Hungarian Grand Prix
+BOT,59.0,84.187,2.0,HARD,33.0,1,True,Alfa Romeo,True,10.0,29.934,30.374,23.879,,False,False,8832.373,13,Hungarian Grand Prix
+BOT,60.0,84.002,2.0,HARD,34.0,1,True,Alfa Romeo,True,10.0,30.184,30.177,23.641,,False,False,8916.375,13,Hungarian Grand Prix
+BOT,61.0,84.991,2.0,HARD,35.0,1,True,Alfa Romeo,True,10.0,30.333,30.617,24.041,,False,False,9001.366,13,Hungarian Grand Prix
+BOT,62.0,86.579,2.0,HARD,36.0,1,True,Alfa Romeo,True,12.0,31.013,31.377,24.189,,False,False,9087.945,13,Hungarian Grand Prix
+BOT,63.0,89.385,2.0,HARD,37.0,1,True,Alfa Romeo,True,12.0,32.265,33.069,24.051,,False,False,9177.33,13,Hungarian Grand Prix
+BOT,64.0,84.775,2.0,HARD,38.0,1,True,Alfa Romeo,True,12.0,30.256,30.765,23.754,,False,False,9262.105,13,Hungarian Grand Prix
+BOT,65.0,85.179,2.0,HARD,39.0,1,True,Alfa Romeo,True,12.0,30.418,30.853,23.908,,False,False,9347.284,13,Hungarian Grand Prix
+BOT,66.0,,2.0,HARD,40.0,126,False,Alfa Romeo,True,,,,,,False,False,9497.284,13,Hungarian Grand Prix

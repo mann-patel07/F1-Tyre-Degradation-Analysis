@@ -1,0 +1,821 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,98.082,1.0,MEDIUM,1.0,1,False,Red Bull Racing,True,3.0,,30.36,29.775,,False,False,3845.876,2,Saudi Arabian Grand Prix
+VER,2.0,95.275,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,3.0,35.387,30.255,29.633,,False,False,3941.151,2,Saudi Arabian Grand Prix
+VER,3.0,94.89,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,3.0,35.145,30.204,29.541,,False,False,4036.041,2,Saudi Arabian Grand Prix
+VER,4.0,94.7,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,3.0,35.025,30.238,29.437,,False,False,4130.741,2,Saudi Arabian Grand Prix
+VER,5.0,94.809,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,3.0,35.107,30.147,29.555,,False,False,4225.55,2,Saudi Arabian Grand Prix
+VER,6.0,94.84,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,3.0,35.157,30.156,29.527,,False,False,4320.39,2,Saudi Arabian Grand Prix
+VER,7.0,94.634,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,3.0,35.083,30.108,29.443,,False,False,4415.024,2,Saudi Arabian Grand Prix
+VER,8.0,94.821,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,3.0,35.108,30.194,29.519,,False,False,4509.845,2,Saudi Arabian Grand Prix
+VER,9.0,94.832,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,3.0,35.15,30.248,29.434,,False,False,4604.677,2,Saudi Arabian Grand Prix
+VER,10.0,95.252,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,3.0,35.219,30.413,29.62,,False,False,4699.929,2,Saudi Arabian Grand Prix
+VER,11.0,94.959,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,3.0,35.104,30.262,29.593,,False,False,4794.888,2,Saudi Arabian Grand Prix
+VER,12.0,95.191,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,3.0,35.303,30.273,29.615,,False,False,4890.079,2,Saudi Arabian Grand Prix
+VER,13.0,94.982,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,3.0,35.203,30.242,29.537,,False,False,4985.061,2,Saudi Arabian Grand Prix
+VER,14.0,95.093,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,3.0,35.142,30.279,29.672,,False,False,5080.154,2,Saudi Arabian Grand Prix
+VER,15.0,95.37,1.0,MEDIUM,15.0,1,True,Red Bull Racing,True,3.0,35.19,30.526,29.654,,False,False,5175.524,2,Saudi Arabian Grand Prix
+VER,16.0,104.577,1.0,MEDIUM,16.0,1264,False,Red Bull Racing,True,2.0,35.375,30.273,38.929,,True,False,5280.101,2,Saudi Arabian Grand Prix
+VER,17.0,182.658,2.0,HARD,1.0,4,False,Red Bull Racing,True,2.0,67.639,51.363,63.656,,False,True,5462.759,2,Saudi Arabian Grand Prix
+VER,18.0,159.567,2.0,HARD,2.0,4,False,Red Bull Racing,True,2.0,55.341,48.281,55.945,,False,False,5622.326,2,Saudi Arabian Grand Prix
+VER,19.0,149.635,2.0,HARD,3.0,4,False,Red Bull Racing,True,2.0,53.413,46.744,49.478,,False,False,5771.961,2,Saudi Arabian Grand Prix
+VER,20.0,163.487,2.0,HARD,4.0,41,False,Red Bull Racing,True,2.0,52.136,45.115,66.236,,False,False,5935.448,2,Saudi Arabian Grand Prix
+VER,21.0,95.227,2.0,HARD,5.0,1,True,Red Bull Racing,True,2.0,35.577,29.986,29.664,,False,False,6030.675,2,Saudi Arabian Grand Prix
+VER,22.0,94.167,2.0,HARD,6.0,1,True,Red Bull Racing,True,2.0,34.979,29.863,29.325,,False,False,6124.842,2,Saudi Arabian Grand Prix
+VER,23.0,93.688,2.0,HARD,7.0,1,True,Red Bull Racing,True,2.0,34.814,29.795,29.079,,False,False,6218.53,2,Saudi Arabian Grand Prix
+VER,24.0,93.445,2.0,HARD,8.0,1,True,Red Bull Racing,True,2.0,34.675,29.704,29.066,,False,False,6311.975,2,Saudi Arabian Grand Prix
+VER,25.0,93.301,2.0,HARD,9.0,1,True,Red Bull Racing,True,2.0,34.521,29.663,29.117,,False,False,6405.276,2,Saudi Arabian Grand Prix
+VER,26.0,93.304,2.0,HARD,10.0,1,True,Red Bull Racing,True,2.0,34.575,29.713,29.016,,False,False,6498.58,2,Saudi Arabian Grand Prix
+VER,27.0,93.059,2.0,HARD,11.0,1,True,Red Bull Racing,True,2.0,34.458,29.571,29.03,,False,False,6591.639,2,Saudi Arabian Grand Prix
+VER,28.0,93.03,2.0,HARD,12.0,1,True,Red Bull Racing,True,2.0,34.398,29.606,29.026,,False,False,6684.669,2,Saudi Arabian Grand Prix
+VER,29.0,92.93,2.0,HARD,13.0,1,True,Red Bull Racing,True,2.0,34.306,29.556,29.068,,False,False,6777.599,2,Saudi Arabian Grand Prix
+VER,30.0,92.778,2.0,HARD,14.0,1,True,Red Bull Racing,True,2.0,34.243,29.56,28.975,,False,False,6870.377,2,Saudi Arabian Grand Prix
+VER,31.0,92.897,2.0,HARD,15.0,1,True,Red Bull Racing,True,2.0,34.328,29.639,28.93,,False,False,6963.274,2,Saudi Arabian Grand Prix
+VER,32.0,92.887,2.0,HARD,16.0,1,True,Red Bull Racing,True,2.0,34.333,29.581,28.973,,False,False,7056.161,2,Saudi Arabian Grand Prix
+VER,33.0,92.855,2.0,HARD,17.0,1,True,Red Bull Racing,True,2.0,34.31,29.588,28.957,,False,False,7149.016,2,Saudi Arabian Grand Prix
+VER,34.0,92.827,2.0,HARD,18.0,1,True,Red Bull Racing,True,2.0,34.322,29.485,29.02,,False,False,7241.843,2,Saudi Arabian Grand Prix
+VER,35.0,92.474,2.0,HARD,19.0,1,True,Red Bull Racing,True,2.0,34.189,29.384,28.901,,False,False,7334.317,2,Saudi Arabian Grand Prix
+VER,36.0,92.543,2.0,HARD,20.0,1,True,Red Bull Racing,True,2.0,34.122,29.473,28.948,,False,False,7426.86,2,Saudi Arabian Grand Prix
+VER,37.0,93.124,2.0,HARD,21.0,12,True,Red Bull Racing,True,2.0,34.128,29.458,29.538,,False,False,7519.984,2,Saudi Arabian Grand Prix
+VER,38.0,108.873,2.0,HARD,22.0,26,False,Red Bull Racing,True,2.0,34.183,29.629,45.061,,False,False,7628.857,2,Saudi Arabian Grand Prix
+VER,39.0,127.594,2.0,HARD,23.0,6,False,Red Bull Racing,True,2.0,43.1,40.783,43.711,,False,False,7756.451,2,Saudi Arabian Grand Prix
+VER,40.0,123.699,2.0,HARD,24.0,6,False,Red Bull Racing,True,2.0,40.272,42.479,40.948,,False,False,7880.15,2,Saudi Arabian Grand Prix
+VER,41.0,94.945,2.0,HARD,25.0,671,False,Red Bull Racing,True,2.0,37.311,29.239,28.395,,False,False,7975.095,2,Saudi Arabian Grand Prix
+VER,42.0,92.755,2.0,HARD,26.0,1,True,Red Bull Racing,True,1.0,34.669,29.259,28.827,,False,False,8067.85,2,Saudi Arabian Grand Prix
+VER,43.0,94.644,2.0,HARD,27.0,1,True,Red Bull Racing,True,2.0,34.876,29.293,30.475,,False,False,8162.494,2,Saudi Arabian Grand Prix
+VER,44.0,92.302,2.0,HARD,28.0,1,True,Red Bull Racing,True,2.0,34.049,29.462,28.791,,False,False,8254.796,2,Saudi Arabian Grand Prix
+VER,45.0,92.063,2.0,HARD,29.0,1,True,Red Bull Racing,True,2.0,34.113,29.234,28.716,,False,False,8346.859,2,Saudi Arabian Grand Prix
+VER,46.0,92.737,2.0,HARD,30.0,1,True,Red Bull Racing,True,1.0,34.284,29.183,29.27,,False,False,8439.596,2,Saudi Arabian Grand Prix
+VER,47.0,91.779,2.0,HARD,31.0,1,True,Red Bull Racing,True,1.0,33.738,29.237,28.804,,False,False,8531.375,2,Saudi Arabian Grand Prix
+VER,48.0,91.861,2.0,HARD,32.0,12,True,Red Bull Racing,True,1.0,33.812,29.328,28.721,,False,False,8623.236,2,Saudi Arabian Grand Prix
+VER,49.0,92.079,2.0,HARD,33.0,21,True,Red Bull Racing,True,1.0,34.164,29.216,28.699,,False,False,8715.315,2,Saudi Arabian Grand Prix
+VER,50.0,91.772,2.0,HARD,34.0,2,True,Red Bull Racing,True,1.0,34.172,29.113,28.487,,False,False,8807.087,2,Saudi Arabian Grand Prix
+GAS,1.0,103.106,1.0,MEDIUM,1.0,1,False,AlphaTauri,True,10.0,,31.165,30.524,,False,False,3850.9,2,Saudi Arabian Grand Prix
+GAS,2.0,98.899,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,11.0,37.773,31.009,30.117,,False,False,3949.799,2,Saudi Arabian Grand Prix
+GAS,3.0,96.881,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,11.0,36.433,30.722,29.726,,False,False,4046.68,2,Saudi Arabian Grand Prix
+GAS,4.0,97.746,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,10.0,36.762,31.021,29.963,,False,False,4144.426,2,Saudi Arabian Grand Prix
+GAS,5.0,96.984,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,10.0,36.173,30.765,30.046,,False,False,4241.41,2,Saudi Arabian Grand Prix
+GAS,6.0,96.819,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,10.0,35.986,30.858,29.975,,False,False,4338.229,2,Saudi Arabian Grand Prix
+GAS,7.0,96.468,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,10.0,35.896,30.649,29.923,,False,False,4434.697,2,Saudi Arabian Grand Prix
+GAS,8.0,96.775,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,10.0,35.981,30.776,30.018,,False,False,4531.472,2,Saudi Arabian Grand Prix
+GAS,9.0,97.433,1.0,MEDIUM,9.0,1,True,AlphaTauri,True,10.0,36.499,30.817,30.117,,False,False,4628.905,2,Saudi Arabian Grand Prix
+GAS,10.0,96.59,1.0,MEDIUM,10.0,1,True,AlphaTauri,True,10.0,35.826,30.739,30.025,,False,False,4725.495,2,Saudi Arabian Grand Prix
+GAS,11.0,96.998,1.0,MEDIUM,11.0,1,True,AlphaTauri,True,10.0,36.074,30.815,30.109,,False,False,4822.493,2,Saudi Arabian Grand Prix
+GAS,12.0,97.073,1.0,MEDIUM,12.0,1,True,AlphaTauri,True,10.0,36.104,30.884,30.085,,False,False,4919.566,2,Saudi Arabian Grand Prix
+GAS,13.0,97.094,1.0,MEDIUM,13.0,1,True,AlphaTauri,True,10.0,36.065,30.79,30.239,,False,False,5016.66,2,Saudi Arabian Grand Prix
+GAS,14.0,98.153,1.0,MEDIUM,14.0,1,True,AlphaTauri,True,11.0,37.046,30.958,30.149,,False,False,5114.813,2,Saudi Arabian Grand Prix
+GAS,15.0,99.58,1.0,MEDIUM,15.0,1,False,AlphaTauri,True,11.0,36.129,30.858,32.593,,True,False,5214.393,2,Saudi Arabian Grand Prix
+GAS,16.0,143.731,2.0,HARD,1.0,1264,False,AlphaTauri,True,15.0,64.752,37.835,41.144,,False,True,5358.124,2,Saudi Arabian Grand Prix
+GAS,17.0,129.023,2.0,HARD,2.0,4,False,AlphaTauri,True,14.0,42.942,42.2,43.881,,False,False,5487.147,2,Saudi Arabian Grand Prix
+GAS,18.0,158.092,2.0,HARD,3.0,4,False,AlphaTauri,True,14.0,46.46,51.42,60.212,,False,False,5645.239,2,Saudi Arabian Grand Prix
+GAS,19.0,152.97,2.0,HARD,4.0,4,False,AlphaTauri,True,14.0,49.74,47.68,55.55,,False,False,5798.209,2,Saudi Arabian Grand Prix
+GAS,20.0,142.362,2.0,HARD,5.0,41,False,AlphaTauri,True,14.0,42.362,45.339,54.661,,False,False,5940.571,2,Saudi Arabian Grand Prix
+GAS,21.0,98.668,2.0,HARD,6.0,1,True,AlphaTauri,True,14.0,37.547,31.011,30.11,,False,False,6039.239,2,Saudi Arabian Grand Prix
+GAS,22.0,97.267,2.0,HARD,7.0,1,True,AlphaTauri,True,14.0,36.75,30.768,29.749,,False,False,6136.506,2,Saudi Arabian Grand Prix
+GAS,23.0,96.028,2.0,HARD,8.0,1,True,AlphaTauri,True,14.0,36.506,30.354,29.168,,False,False,6232.534,2,Saudi Arabian Grand Prix
+GAS,24.0,95.922,2.0,HARD,9.0,1,True,AlphaTauri,True,14.0,36.269,30.415,29.238,,False,False,6328.456,2,Saudi Arabian Grand Prix
+GAS,25.0,96.303,2.0,HARD,10.0,1,True,AlphaTauri,True,14.0,36.521,30.434,29.348,,False,False,6424.759,2,Saudi Arabian Grand Prix
+GAS,26.0,96.294,2.0,HARD,11.0,1,True,AlphaTauri,True,14.0,36.747,30.307,29.24,,False,False,6521.053,2,Saudi Arabian Grand Prix
+GAS,27.0,95.547,2.0,HARD,12.0,1,True,AlphaTauri,True,14.0,36.112,30.181,29.254,,False,False,6616.6,2,Saudi Arabian Grand Prix
+GAS,28.0,96.143,2.0,HARD,13.0,1,True,AlphaTauri,True,14.0,36.488,30.319,29.336,,False,False,6712.743,2,Saudi Arabian Grand Prix
+GAS,29.0,95.394,2.0,HARD,14.0,1,True,AlphaTauri,True,13.0,35.715,30.095,29.584,,False,False,6808.137,2,Saudi Arabian Grand Prix
+GAS,30.0,94.798,2.0,HARD,15.0,1,True,AlphaTauri,True,13.0,35.327,30.042,29.429,,False,False,6902.935,2,Saudi Arabian Grand Prix
+GAS,31.0,94.845,2.0,HARD,16.0,1,True,AlphaTauri,True,13.0,35.411,30.04,29.394,,False,False,6997.78,2,Saudi Arabian Grand Prix
+GAS,32.0,94.626,2.0,HARD,17.0,1,True,AlphaTauri,True,13.0,35.256,29.993,29.377,,False,False,7092.406,2,Saudi Arabian Grand Prix
+GAS,33.0,94.785,2.0,HARD,18.0,1,True,AlphaTauri,True,13.0,35.328,30.025,29.432,,False,False,7187.191,2,Saudi Arabian Grand Prix
+GAS,34.0,94.665,2.0,HARD,19.0,1,True,AlphaTauri,True,13.0,35.213,30.041,29.411,,False,False,7281.856,2,Saudi Arabian Grand Prix
+GAS,35.0,94.367,2.0,HARD,20.0,1,True,AlphaTauri,True,13.0,35.11,29.96,29.297,,False,False,7376.223,2,Saudi Arabian Grand Prix
+GAS,36.0,95.593,2.0,HARD,21.0,1,True,AlphaTauri,True,10.0,35.949,29.978,29.666,,False,False,7471.816,2,Saudi Arabian Grand Prix
+GAS,37.0,95.058,2.0,HARD,22.0,12,True,AlphaTauri,True,10.0,34.935,29.896,30.227,,False,False,7566.874,2,Saudi Arabian Grand Prix
+GAS,38.0,125.64,2.0,HARD,23.0,26,False,AlphaTauri,True,9.0,42.838,40.553,42.249,,False,False,7692.514,2,Saudi Arabian Grand Prix
+GAS,39.0,125.424,2.0,HARD,24.0,6,False,AlphaTauri,True,9.0,41.249,42.079,42.096,,False,False,7817.938,2,Saudi Arabian Grand Prix
+GAS,40.0,113.144,2.0,HARD,25.0,671,False,AlphaTauri,True,9.0,41.766,41.894,29.484,,False,False,7931.082,2,Saudi Arabian Grand Prix
+GAS,41.0,93.666,2.0,HARD,26.0,1,True,AlphaTauri,True,8.0,34.777,29.775,29.114,,False,False,8024.748,2,Saudi Arabian Grand Prix
+GAS,42.0,93.468,2.0,HARD,27.0,1,True,AlphaTauri,True,8.0,34.687,29.672,29.109,,False,False,8118.216,2,Saudi Arabian Grand Prix
+GAS,43.0,93.55,2.0,HARD,28.0,1,True,AlphaTauri,True,8.0,34.705,29.782,29.063,,False,False,8211.766,2,Saudi Arabian Grand Prix
+GAS,44.0,93.677,2.0,HARD,29.0,1,True,AlphaTauri,True,8.0,34.734,29.784,29.159,,False,False,8305.443,2,Saudi Arabian Grand Prix
+GAS,45.0,93.616,2.0,HARD,30.0,1,True,AlphaTauri,True,8.0,34.692,29.77,29.154,,False,False,8399.059,2,Saudi Arabian Grand Prix
+GAS,46.0,93.779,2.0,HARD,31.0,1,True,AlphaTauri,True,8.0,34.551,29.939,29.289,,False,False,8492.838,2,Saudi Arabian Grand Prix
+GAS,47.0,93.961,2.0,HARD,32.0,1,True,AlphaTauri,True,8.0,34.741,29.965,29.255,,False,False,8586.799,2,Saudi Arabian Grand Prix
+GAS,48.0,94.331,2.0,HARD,33.0,12,True,AlphaTauri,True,8.0,34.98,30.047,29.304,,False,False,8681.13,2,Saudi Arabian Grand Prix
+GAS,49.0,94.711,2.0,HARD,34.0,2,True,AlphaTauri,True,8.0,35.603,29.873,29.235,,False,False,8775.841,2,Saudi Arabian Grand Prix
+GAS,50.0,94.192,2.0,HARD,35.0,2,True,AlphaTauri,True,8.0,35.202,29.88,29.11,,False,False,8870.033,2,Saudi Arabian Grand Prix
+PER,1.0,95.991,1.0,MEDIUM,1.0,1,False,Red Bull Racing,True,1.0,,29.931,29.658,,False,False,3843.785,2,Saudi Arabian Grand Prix
+PER,2.0,94.722,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,1.0,35.163,30.1,29.459,,False,False,3938.507,2,Saudi Arabian Grand Prix
+PER,3.0,94.596,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,1.0,35.016,30.071,29.509,,False,False,4033.103,2,Saudi Arabian Grand Prix
+PER,4.0,94.44,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,1.0,34.917,30.054,29.469,,False,False,4127.543,2,Saudi Arabian Grand Prix
+PER,5.0,94.496,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,1.0,34.913,30.125,29.458,,False,False,4222.039,2,Saudi Arabian Grand Prix
+PER,6.0,94.481,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,1.0,35.009,30.078,29.394,,False,False,4316.52,2,Saudi Arabian Grand Prix
+PER,7.0,94.821,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,1.0,35.067,30.151,29.603,,False,False,4411.341,2,Saudi Arabian Grand Prix
+PER,8.0,94.619,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,1.0,34.869,30.148,29.602,,False,False,4505.96,2,Saudi Arabian Grand Prix
+PER,9.0,94.825,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,1.0,34.96,30.181,29.684,,False,False,4600.785,2,Saudi Arabian Grand Prix
+PER,10.0,94.836,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,1.0,34.991,30.173,29.672,,False,False,4695.621,2,Saudi Arabian Grand Prix
+PER,11.0,94.545,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,34.799,30.166,29.58,,False,False,4790.166,2,Saudi Arabian Grand Prix
+PER,12.0,94.671,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,1.0,34.919,30.101,29.651,,False,False,4884.837,2,Saudi Arabian Grand Prix
+PER,13.0,95.214,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,1.0,35.059,30.376,29.779,,False,False,4980.051,2,Saudi Arabian Grand Prix
+PER,14.0,95.316,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,1.0,35.166,30.338,29.812,,False,False,5075.367,2,Saudi Arabian Grand Prix
+PER,15.0,98.591,1.0,MEDIUM,15.0,1,False,Red Bull Racing,True,2.0,35.377,30.453,32.761,,True,False,5173.958,2,Saudi Arabian Grand Prix
+PER,16.0,128.106,2.0,HARD,1.0,1264,False,Red Bull Racing,True,4.0,53.365,31.24,43.501,,False,True,5302.064,2,Saudi Arabian Grand Prix
+PER,17.0,161.673,2.0,HARD,2.0,4,False,Red Bull Racing,True,3.0,51.081,47.177,63.415,,False,False,5463.737,2,Saudi Arabian Grand Prix
+PER,18.0,161.155,2.0,HARD,3.0,4,False,Red Bull Racing,True,3.0,55.829,47.78,57.546,,False,False,5624.892,2,Saudi Arabian Grand Prix
+PER,19.0,148.779,2.0,HARD,4.0,4,False,Red Bull Racing,True,3.0,52.076,46.631,50.072,,False,False,5773.671,2,Saudi Arabian Grand Prix
+PER,20.0,162.164,2.0,HARD,5.0,41,False,Red Bull Racing,True,3.0,51.457,44.78,65.927,,False,False,5935.835,2,Saudi Arabian Grand Prix
+PER,21.0,96.967,2.0,HARD,6.0,1,True,Red Bull Racing,True,4.0,37.189,30.131,29.647,,False,False,6032.802,2,Saudi Arabian Grand Prix
+PER,22.0,94.659,2.0,HARD,7.0,1,True,Red Bull Racing,True,4.0,35.393,29.868,29.398,,False,False,6127.461,2,Saudi Arabian Grand Prix
+PER,23.0,93.699,2.0,HARD,8.0,1,True,Red Bull Racing,True,4.0,34.876,29.669,29.154,,False,False,6221.16,2,Saudi Arabian Grand Prix
+PER,24.0,93.815,2.0,HARD,9.0,1,True,Red Bull Racing,True,4.0,34.943,29.711,29.161,,False,False,6314.975,2,Saudi Arabian Grand Prix
+PER,25.0,93.697,2.0,HARD,10.0,1,True,Red Bull Racing,True,4.0,34.769,29.648,29.28,,False,False,6408.672,2,Saudi Arabian Grand Prix
+PER,26.0,93.608,2.0,HARD,11.0,1,True,Red Bull Racing,True,4.0,34.701,29.712,29.195,,False,False,6502.28,2,Saudi Arabian Grand Prix
+PER,27.0,93.547,2.0,HARD,12.0,1,True,Red Bull Racing,True,4.0,34.597,29.714,29.236,,False,False,6595.827,2,Saudi Arabian Grand Prix
+PER,28.0,93.407,2.0,HARD,13.0,1,True,Red Bull Racing,True,4.0,34.557,29.706,29.144,,False,False,6689.234,2,Saudi Arabian Grand Prix
+PER,29.0,93.313,2.0,HARD,14.0,1,True,Red Bull Racing,True,4.0,34.632,29.66,29.021,,False,False,6782.547,2,Saudi Arabian Grand Prix
+PER,30.0,93.647,2.0,HARD,15.0,1,True,Red Bull Racing,True,4.0,34.792,29.799,29.056,,False,False,6876.194,2,Saudi Arabian Grand Prix
+PER,31.0,93.102,2.0,HARD,16.0,1,True,Red Bull Racing,True,4.0,34.593,29.502,29.007,,False,False,6969.296,2,Saudi Arabian Grand Prix
+PER,32.0,93.151,2.0,HARD,17.0,1,True,Red Bull Racing,True,4.0,34.45,29.595,29.106,,False,False,7062.447,2,Saudi Arabian Grand Prix
+PER,33.0,93.122,2.0,HARD,18.0,1,True,Red Bull Racing,True,4.0,34.549,29.606,28.967,,False,False,7155.569,2,Saudi Arabian Grand Prix
+PER,34.0,92.935,2.0,HARD,19.0,1,True,Red Bull Racing,True,4.0,34.491,29.552,28.892,,False,False,7248.504,2,Saudi Arabian Grand Prix
+PER,35.0,93.529,2.0,HARD,20.0,1,True,Red Bull Racing,True,4.0,34.928,29.607,28.994,,False,False,7342.033,2,Saudi Arabian Grand Prix
+PER,36.0,92.878,2.0,HARD,21.0,1,True,Red Bull Racing,True,4.0,34.413,29.519,28.946,,False,False,7434.911,2,Saudi Arabian Grand Prix
+PER,37.0,93.008,2.0,HARD,22.0,12,True,Red Bull Racing,True,4.0,34.407,29.517,29.084,,False,False,7527.919,2,Saudi Arabian Grand Prix
+PER,38.0,113.761,2.0,HARD,23.0,26,False,Red Bull Racing,True,4.0,34.339,38.782,40.64,,False,False,7641.68,2,Saudi Arabian Grand Prix
+PER,39.0,126.256,2.0,HARD,24.0,6,False,Red Bull Racing,True,4.0,44.063,39.704,42.489,,False,False,7767.936,2,Saudi Arabian Grand Prix
+PER,40.0,124.945,2.0,HARD,25.0,67,False,Red Bull Racing,True,4.0,42.562,42.156,40.227,,False,False,7892.881,2,Saudi Arabian Grand Prix
+PER,41.0,93.974,2.0,HARD,26.0,71,False,Red Bull Racing,True,4.0,35.608,29.512,28.854,,False,False,7986.855,2,Saudi Arabian Grand Prix
+PER,42.0,92.205,2.0,HARD,27.0,1,True,Red Bull Racing,True,4.0,34.111,29.276,28.818,,False,False,8079.06,2,Saudi Arabian Grand Prix
+PER,43.0,92.41,2.0,HARD,28.0,1,True,Red Bull Racing,True,4.0,34.292,29.373,28.745,,False,False,8171.47,2,Saudi Arabian Grand Prix
+PER,44.0,92.044,2.0,HARD,29.0,1,True,Red Bull Racing,True,4.0,34.105,29.239,28.7,,False,False,8263.514,2,Saudi Arabian Grand Prix
+PER,45.0,92.093,2.0,HARD,30.0,1,True,Red Bull Racing,True,4.0,34.039,29.306,28.748,,False,False,8355.607,2,Saudi Arabian Grand Prix
+PER,46.0,92.042,2.0,HARD,31.0,1,True,Red Bull Racing,True,4.0,34.031,29.261,28.75,,False,False,8447.649,2,Saudi Arabian Grand Prix
+PER,47.0,92.26,2.0,HARD,32.0,1,True,Red Bull Racing,True,4.0,34.096,29.318,28.846,,False,False,8539.909,2,Saudi Arabian Grand Prix
+PER,48.0,92.333,2.0,HARD,33.0,12,True,Red Bull Racing,True,4.0,34.159,29.353,28.821,,False,False,8632.242,2,Saudi Arabian Grand Prix
+PER,49.0,92.485,2.0,HARD,34.0,12,True,Red Bull Racing,True,4.0,34.251,29.398,28.836,,False,False,8724.727,2,Saudi Arabian Grand Prix
+PER,50.0,93.16,2.0,HARD,35.0,2,True,Red Bull Racing,True,4.0,34.666,29.502,28.992,,False,False,8817.887,2,Saudi Arabian Grand Prix
+ALO,1.0,101.458,1.0,MEDIUM,1.0,1,False,Alpine,True,7.0,,31.224,30.105,,False,False,3849.252,2,Saudi Arabian Grand Prix
+ALO,2.0,97.232,1.0,MEDIUM,2.0,1,True,Alpine,True,7.0,36.332,31.017,29.883,,False,False,3946.484,2,Saudi Arabian Grand Prix
+ALO,3.0,96.574,1.0,MEDIUM,3.0,1,True,Alpine,True,7.0,36.141,30.627,29.806,,False,False,4043.058,2,Saudi Arabian Grand Prix
+ALO,4.0,96.113,1.0,MEDIUM,4.0,1,True,Alpine,True,7.0,35.881,30.534,29.698,,False,False,4139.171,2,Saudi Arabian Grand Prix
+ALO,5.0,96.191,1.0,MEDIUM,5.0,1,True,Alpine,True,7.0,36.165,30.424,29.602,,False,False,4235.362,2,Saudi Arabian Grand Prix
+ALO,6.0,96.083,1.0,MEDIUM,6.0,1,True,Alpine,True,7.0,36.141,30.423,29.519,,False,False,4331.445,2,Saudi Arabian Grand Prix
+ALO,7.0,97.759,1.0,MEDIUM,7.0,1,True,Alpine,True,6.0,36.734,30.685,30.34,,False,False,4429.204,2,Saudi Arabian Grand Prix
+ALO,8.0,98.308,1.0,MEDIUM,8.0,1,True,Alpine,True,6.0,36.819,31.254,30.235,,False,False,4527.512,2,Saudi Arabian Grand Prix
+ALO,9.0,96.617,1.0,MEDIUM,9.0,1,True,Alpine,True,6.0,36.125,30.479,30.013,,False,False,4624.129,2,Saudi Arabian Grand Prix
+ALO,10.0,96.341,1.0,MEDIUM,10.0,1,True,Alpine,True,6.0,35.824,30.464,30.053,,False,False,4720.47,2,Saudi Arabian Grand Prix
+ALO,11.0,96.502,1.0,MEDIUM,11.0,1,True,Alpine,True,6.0,35.788,30.613,30.101,,False,False,4816.972,2,Saudi Arabian Grand Prix
+ALO,12.0,96.315,1.0,MEDIUM,12.0,1,True,Alpine,True,6.0,35.751,30.589,29.975,,False,False,4913.287,2,Saudi Arabian Grand Prix
+ALO,13.0,96.431,1.0,MEDIUM,13.0,1,True,Alpine,True,6.0,35.624,30.588,30.219,,False,False,5009.718,2,Saudi Arabian Grand Prix
+ALO,14.0,96.486,1.0,MEDIUM,14.0,1,True,Alpine,True,6.0,35.607,30.763,30.116,,False,False,5106.204,2,Saudi Arabian Grand Prix
+ALO,15.0,96.792,1.0,MEDIUM,15.0,1,True,Alpine,True,6.0,35.812,30.807,30.173,,False,False,5202.996,2,Saudi Arabian Grand Prix
+ALO,16.0,118.83,1.0,MEDIUM,16.0,1264,False,Alpine,True,6.0,35.882,38.082,44.866,,True,False,5321.826,2,Saudi Arabian Grand Prix
+ALO,17.0,153.343,2.0,HARD,1.0,4,False,Alpine,True,8.0,61.997,38.66,52.686,,False,True,5475.169,2,Saudi Arabian Grand Prix
+ALO,18.0,158.188,2.0,HARD,2.0,4,False,Alpine,True,8.0,50.779,50.356,57.053,,False,False,5633.357,2,Saudi Arabian Grand Prix
+ALO,19.0,149.932,2.0,HARD,3.0,4,False,Alpine,True,8.0,52.001,46.897,51.034,,False,False,5783.289,2,Saudi Arabian Grand Prix
+ALO,20.0,154.456,2.0,HARD,4.0,41,False,Alpine,True,8.0,48.719,45.135,60.602,,False,False,5937.745,2,Saudi Arabian Grand Prix
+ALO,21.0,97.877,2.0,HARD,5.0,1,True,Alpine,True,8.0,37.258,30.699,29.92,,False,False,6035.622,2,Saudi Arabian Grand Prix
+ALO,22.0,96.705,2.0,HARD,6.0,1,True,Alpine,True,8.0,36.362,30.582,29.761,,False,False,6132.327,2,Saudi Arabian Grand Prix
+ALO,23.0,95.666,2.0,HARD,7.0,1,True,Alpine,True,8.0,35.707,30.371,29.588,,False,False,6227.993,2,Saudi Arabian Grand Prix
+ALO,24.0,95.666,2.0,HARD,8.0,1,True,Alpine,True,8.0,35.791,30.269,29.606,,False,False,6323.659,2,Saudi Arabian Grand Prix
+ALO,25.0,95.361,2.0,HARD,9.0,1,True,Alpine,True,8.0,35.558,30.257,29.546,,False,False,6419.02,2,Saudi Arabian Grand Prix
+ALO,26.0,94.831,2.0,HARD,10.0,1,True,Alpine,True,8.0,35.301,30.075,29.455,,False,False,6513.851,2,Saudi Arabian Grand Prix
+ALO,27.0,94.594,2.0,HARD,11.0,1,True,Alpine,True,8.0,35.101,29.952,29.541,,False,False,6608.445,2,Saudi Arabian Grand Prix
+ALO,28.0,94.943,2.0,HARD,12.0,1,True,Alpine,True,8.0,35.212,30.012,29.719,,False,False,6703.388,2,Saudi Arabian Grand Prix
+ALO,29.0,95.385,2.0,HARD,13.0,1,True,Alpine,True,8.0,35.55,30.319,29.516,,False,False,6798.773,2,Saudi Arabian Grand Prix
+ALO,30.0,94.404,2.0,HARD,14.0,1,True,Alpine,True,8.0,35.155,29.847,29.402,,False,False,6893.177,2,Saudi Arabian Grand Prix
+ALO,31.0,94.202,2.0,HARD,15.0,1,True,Alpine,True,8.0,35.032,29.834,29.336,,False,False,6987.379,2,Saudi Arabian Grand Prix
+ALO,32.0,93.953,2.0,HARD,16.0,1,True,Alpine,True,8.0,34.906,29.803,29.244,,False,False,7081.332,2,Saudi Arabian Grand Prix
+ALO,33.0,93.831,2.0,HARD,17.0,1,True,Alpine,True,8.0,35.018,29.823,28.99,,False,False,7175.163,2,Saudi Arabian Grand Prix
+ALO,34.0,94.671,2.0,HARD,18.0,1,True,Alpine,True,8.0,35.436,29.872,29.363,,False,False,7269.834,2,Saudi Arabian Grand Prix
+ALO,35.0,94.509,2.0,HARD,19.0,1,True,Alpine,True,7.0,35.196,29.915,29.398,,False,False,7364.343,2,Saudi Arabian Grand Prix
+ALO,36.0,,2.0,HARD,20.0,12,False,Alpine,True,,,,,,False,False,7514.343,2,Saudi Arabian Grand Prix
+LEC,1.0,97.088,1.0,MEDIUM,1.0,1,False,Ferrari,True,2.0,,30.338,29.685,,False,False,3844.882,2,Saudi Arabian Grand Prix
+LEC,2.0,94.943,1.0,MEDIUM,2.0,1,True,Ferrari,True,2.0,35.261,30.09,29.592,,False,False,3939.825,2,Saudi Arabian Grand Prix
+LEC,3.0,94.794,1.0,MEDIUM,3.0,1,True,Ferrari,True,2.0,35.061,30.109,29.624,,False,False,4034.619,2,Saudi Arabian Grand Prix
+LEC,4.0,94.651,1.0,MEDIUM,4.0,1,True,Ferrari,True,2.0,34.936,30.138,29.577,,False,False,4129.27,2,Saudi Arabian Grand Prix
+LEC,5.0,95.156,1.0,MEDIUM,5.0,1,True,Ferrari,True,2.0,35.115,30.318,29.723,,False,False,4224.426,2,Saudi Arabian Grand Prix
+LEC,6.0,94.585,1.0,MEDIUM,6.0,1,True,Ferrari,True,2.0,34.962,30.091,29.532,,False,False,4319.011,2,Saudi Arabian Grand Prix
+LEC,7.0,94.702,1.0,MEDIUM,7.0,1,True,Ferrari,True,2.0,34.907,30.166,29.629,,False,False,4413.713,2,Saudi Arabian Grand Prix
+LEC,8.0,94.569,1.0,MEDIUM,8.0,1,True,Ferrari,True,2.0,34.902,30.101,29.566,,False,False,4508.282,2,Saudi Arabian Grand Prix
+LEC,9.0,94.967,1.0,MEDIUM,9.0,1,True,Ferrari,True,2.0,35.006,30.244,29.717,,False,False,4603.249,2,Saudi Arabian Grand Prix
+LEC,10.0,94.679,1.0,MEDIUM,10.0,1,True,Ferrari,True,2.0,34.92,30.141,29.618,,False,False,4697.928,2,Saudi Arabian Grand Prix
+LEC,11.0,94.781,1.0,MEDIUM,11.0,1,True,Ferrari,True,2.0,34.923,30.136,29.722,,False,False,4792.709,2,Saudi Arabian Grand Prix
+LEC,12.0,94.915,1.0,MEDIUM,12.0,1,True,Ferrari,True,2.0,34.965,30.2,29.75,,False,False,4887.624,2,Saudi Arabian Grand Prix
+LEC,13.0,94.777,1.0,MEDIUM,13.0,1,True,Ferrari,True,2.0,34.93,30.178,29.669,,False,False,4982.401,2,Saudi Arabian Grand Prix
+LEC,14.0,95.214,1.0,MEDIUM,14.0,1,True,Ferrari,True,2.0,35.011,30.311,29.892,,False,False,5077.615,2,Saudi Arabian Grand Prix
+LEC,15.0,95.237,1.0,MEDIUM,15.0,1,True,Ferrari,True,1.0,35.007,30.292,29.938,,False,False,5172.852,2,Saudi Arabian Grand Prix
+LEC,16.0,103.84,1.0,MEDIUM,16.0,1264,False,Ferrari,True,1.0,35.049,30.308,38.483,,True,False,5276.692,2,Saudi Arabian Grand Prix
+LEC,17.0,184.684,2.0,HARD,1.0,4,False,Ferrari,True,1.0,70.134,50.799,63.751,,False,True,5461.376,2,Saudi Arabian Grand Prix
+LEC,18.0,160.07,2.0,HARD,2.0,4,False,Ferrari,True,1.0,55.979,48.062,56.029,,False,False,5621.446,2,Saudi Arabian Grand Prix
+LEC,19.0,149.002,2.0,HARD,3.0,4,False,Ferrari,True,1.0,53.337,46.749,48.916,,False,False,5770.448,2,Saudi Arabian Grand Prix
+LEC,20.0,164.626,2.0,HARD,4.0,41,False,Ferrari,True,1.0,52.742,44.784,67.1,,False,False,5935.074,2,Saudi Arabian Grand Prix
+LEC,21.0,94.636,2.0,HARD,5.0,1,True,Ferrari,True,1.0,35.163,29.96,29.513,,False,False,6029.71,2,Saudi Arabian Grand Prix
+LEC,22.0,94.075,2.0,HARD,6.0,1,True,Ferrari,True,1.0,34.685,30.094,29.296,,False,False,6123.785,2,Saudi Arabian Grand Prix
+LEC,23.0,93.459,2.0,HARD,7.0,1,True,Ferrari,True,1.0,34.471,29.718,29.27,,False,False,6217.244,2,Saudi Arabian Grand Prix
+LEC,24.0,93.521,2.0,HARD,8.0,1,True,Ferrari,True,1.0,34.536,29.733,29.252,,False,False,6310.765,2,Saudi Arabian Grand Prix
+LEC,25.0,93.324,2.0,HARD,9.0,1,True,Ferrari,True,1.0,34.175,29.8,29.349,,False,False,6404.089,2,Saudi Arabian Grand Prix
+LEC,26.0,93.182,2.0,HARD,10.0,1,True,Ferrari,True,1.0,34.261,29.843,29.078,,False,False,6497.271,2,Saudi Arabian Grand Prix
+LEC,27.0,93.184,2.0,HARD,11.0,1,True,Ferrari,True,1.0,34.301,29.728,29.155,,False,False,6590.455,2,Saudi Arabian Grand Prix
+LEC,28.0,92.711,2.0,HARD,12.0,1,True,Ferrari,True,1.0,34.067,29.513,29.131,,False,False,6683.166,2,Saudi Arabian Grand Prix
+LEC,29.0,92.942,2.0,HARD,13.0,1,True,Ferrari,True,1.0,34.159,29.654,29.129,,False,False,6776.108,2,Saudi Arabian Grand Prix
+LEC,30.0,92.752,2.0,HARD,14.0,1,True,Ferrari,True,1.0,34.076,29.593,29.083,,False,False,6868.86,2,Saudi Arabian Grand Prix
+LEC,31.0,93.079,2.0,HARD,15.0,1,True,Ferrari,True,1.0,34.231,29.744,29.104,,False,False,6961.939,2,Saudi Arabian Grand Prix
+LEC,32.0,92.683,2.0,HARD,16.0,1,True,Ferrari,True,1.0,34.055,29.539,29.089,,False,False,7054.622,2,Saudi Arabian Grand Prix
+LEC,33.0,92.878,2.0,HARD,17.0,1,True,Ferrari,True,1.0,34.094,29.659,29.125,,False,False,7147.5,2,Saudi Arabian Grand Prix
+LEC,34.0,92.68,2.0,HARD,18.0,1,True,Ferrari,True,1.0,34.14,29.529,29.011,,False,False,7240.18,2,Saudi Arabian Grand Prix
+LEC,35.0,92.481,2.0,HARD,19.0,1,True,Ferrari,True,1.0,33.973,29.45,29.058,,False,False,7332.661,2,Saudi Arabian Grand Prix
+LEC,36.0,92.64,2.0,HARD,20.0,1,True,Ferrari,True,1.0,34.078,29.544,29.018,,False,False,7425.301,2,Saudi Arabian Grand Prix
+LEC,37.0,93.102,2.0,HARD,21.0,12,True,Ferrari,True,1.0,34.013,29.418,29.671,,False,False,7518.403,2,Saudi Arabian Grand Prix
+LEC,38.0,107.212,2.0,HARD,22.0,26,False,Ferrari,True,1.0,34.172,29.549,43.491,,False,False,7625.615,2,Saudi Arabian Grand Prix
+LEC,39.0,126.419,2.0,HARD,23.0,6,False,Ferrari,True,1.0,43.435,40.459,42.525,,False,False,7752.034,2,Saudi Arabian Grand Prix
+LEC,40.0,126.461,2.0,HARD,24.0,6,False,Ferrari,True,1.0,42.713,42.639,41.109,,False,False,7878.495,2,Saudi Arabian Grand Prix
+LEC,41.0,96.117,2.0,HARD,25.0,671,False,Ferrari,True,1.0,37.784,29.53,28.803,,False,False,7974.612,2,Saudi Arabian Grand Prix
+LEC,42.0,93.281,2.0,HARD,26.0,1,True,Ferrari,True,2.0,34.42,29.627,29.234,,False,False,8067.893,2,Saudi Arabian Grand Prix
+LEC,43.0,93.818,2.0,HARD,27.0,1,True,Ferrari,True,1.0,33.978,29.627,30.213,,False,False,8161.711,2,Saudi Arabian Grand Prix
+LEC,44.0,92.17,2.0,HARD,28.0,1,True,Ferrari,True,1.0,33.728,29.52,28.922,,False,False,8253.881,2,Saudi Arabian Grand Prix
+LEC,45.0,92.259,2.0,HARD,29.0,1,True,Ferrari,True,1.0,33.721,29.399,29.139,,False,False,8346.14,2,Saudi Arabian Grand Prix
+LEC,46.0,93.47,2.0,HARD,30.0,1,True,Ferrari,True,2.0,34.277,29.633,29.56,,False,False,8439.61,2,Saudi Arabian Grand Prix
+LEC,47.0,92.587,2.0,HARD,31.0,1,True,Ferrari,True,2.0,34.411,29.398,28.778,,False,False,8532.197,2,Saudi Arabian Grand Prix
+LEC,48.0,91.634,2.0,HARD,32.0,12,True,Ferrari,True,2.0,33.774,29.148,28.712,,False,False,8623.831,2,Saudi Arabian Grand Prix
+LEC,49.0,92.102,2.0,HARD,33.0,21,True,Ferrari,True,2.0,34.345,29.218,28.539,,False,False,8715.933,2,Saudi Arabian Grand Prix
+LEC,50.0,91.703,2.0,HARD,34.0,2,True,Ferrari,True,2.0,34.007,29.191,28.505,,False,False,8807.636,2,Saudi Arabian Grand Prix
+STR,1.0,103.828,1.0,MEDIUM,2.0,1,False,Aston Martin,False,12.0,,31.287,30.497,,False,False,3851.622,2,Saudi Arabian Grand Prix
+STR,2.0,98.731,1.0,MEDIUM,3.0,1,True,Aston Martin,False,12.0,37.506,31.037,30.188,,False,False,3950.353,2,Saudi Arabian Grand Prix
+STR,3.0,97.586,1.0,MEDIUM,4.0,1,True,Aston Martin,False,12.0,36.738,30.945,29.903,,False,False,4047.939,2,Saudi Arabian Grand Prix
+STR,4.0,97.575,1.0,MEDIUM,5.0,1,True,Aston Martin,False,12.0,36.678,30.998,29.899,,False,False,4145.514,2,Saudi Arabian Grand Prix
+STR,5.0,97.87,1.0,MEDIUM,6.0,1,True,Aston Martin,False,12.0,37.118,30.866,29.886,,False,False,4243.384,2,Saudi Arabian Grand Prix
+STR,6.0,97.422,1.0,MEDIUM,7.0,1,True,Aston Martin,False,12.0,36.722,30.877,29.823,,False,False,4340.806,2,Saudi Arabian Grand Prix
+STR,7.0,97.278,1.0,MEDIUM,8.0,1,True,Aston Martin,False,12.0,36.532,30.874,29.872,,False,False,4438.084,2,Saudi Arabian Grand Prix
+STR,8.0,97.282,1.0,MEDIUM,9.0,1,True,Aston Martin,False,12.0,36.422,30.891,29.969,,False,False,4535.366,2,Saudi Arabian Grand Prix
+STR,9.0,97.799,1.0,MEDIUM,10.0,1,True,Aston Martin,False,13.0,36.502,30.809,30.488,,False,False,4633.165,2,Saudi Arabian Grand Prix
+STR,10.0,98.223,1.0,MEDIUM,11.0,1,True,Aston Martin,False,13.0,36.974,30.973,30.276,,False,False,4731.388,2,Saudi Arabian Grand Prix
+STR,11.0,99.149,1.0,MEDIUM,12.0,1,True,Aston Martin,False,14.0,37.455,31.302,30.392,,False,False,4830.537,2,Saudi Arabian Grand Prix
+STR,12.0,98.365,1.0,MEDIUM,13.0,1,True,Aston Martin,False,15.0,36.697,31.172,30.496,,False,False,4928.902,2,Saudi Arabian Grand Prix
+STR,13.0,101.859,1.0,MEDIUM,14.0,1,False,Aston Martin,False,15.0,37.213,31.414,33.232,,True,False,5030.761,2,Saudi Arabian Grand Prix
+STR,14.0,116.297,2.0,HARD,2.0,1,False,Aston Martin,False,17.0,55.675,30.664,29.958,,False,True,5147.058,2,Saudi Arabian Grand Prix
+STR,15.0,97.836,2.0,HARD,3.0,12,True,Aston Martin,False,16.0,36.204,30.53,31.102,,False,False,5244.894,2,Saudi Arabian Grand Prix
+STR,16.0,126.144,2.0,HARD,4.0,264,False,Aston Martin,False,16.0,42.818,40.353,42.973,,False,False,5371.038,2,Saudi Arabian Grand Prix
+STR,17.0,126.975,2.0,HARD,5.0,4,False,Aston Martin,False,16.0,41.16,42.65,43.165,,False,False,5498.013,2,Saudi Arabian Grand Prix
+STR,18.0,150.078,2.0,HARD,6.0,4,False,Aston Martin,False,16.0,38.79,51.967,59.321,,False,False,5648.091,2,Saudi Arabian Grand Prix
+STR,19.0,154.042,2.0,HARD,7.0,4,False,Aston Martin,False,16.0,48.85,49.506,55.686,,False,False,5802.133,2,Saudi Arabian Grand Prix
+STR,20.0,139.202,2.0,HARD,8.0,41,False,Aston Martin,False,16.0,41.76,44.644,52.798,,False,False,5941.335,2,Saudi Arabian Grand Prix
+STR,21.0,98.809,2.0,HARD,9.0,1,True,Aston Martin,False,16.0,37.718,30.903,30.188,,False,False,6040.144,2,Saudi Arabian Grand Prix
+STR,22.0,97.787,2.0,HARD,10.0,1,True,Aston Martin,False,16.0,36.896,30.802,30.089,,False,False,6137.931,2,Saudi Arabian Grand Prix
+STR,23.0,96.685,2.0,HARD,11.0,1,True,Aston Martin,False,16.0,36.547,30.594,29.544,,False,False,6234.616,2,Saudi Arabian Grand Prix
+STR,24.0,96.241,2.0,HARD,12.0,1,True,Aston Martin,False,16.0,36.021,30.605,29.615,,False,False,6330.857,2,Saudi Arabian Grand Prix
+STR,25.0,96.287,2.0,HARD,13.0,1,True,Aston Martin,False,16.0,35.939,30.509,29.839,,False,False,6427.144,2,Saudi Arabian Grand Prix
+STR,26.0,96.385,2.0,HARD,14.0,1,True,Aston Martin,False,16.0,36.112,30.614,29.659,,False,False,6523.529,2,Saudi Arabian Grand Prix
+STR,27.0,96.195,2.0,HARD,15.0,1,True,Aston Martin,False,15.0,35.954,30.51,29.731,,False,False,6619.724,2,Saudi Arabian Grand Prix
+STR,28.0,96.209,2.0,HARD,16.0,1,True,Aston Martin,False,15.0,35.846,30.595,29.768,,False,False,6715.933,2,Saudi Arabian Grand Prix
+STR,29.0,96.024,2.0,HARD,17.0,1,True,Aston Martin,False,15.0,35.966,30.328,29.73,,False,False,6811.957,2,Saudi Arabian Grand Prix
+STR,30.0,95.839,2.0,HARD,18.0,1,True,Aston Martin,False,15.0,35.772,30.344,29.723,,False,False,6907.796,2,Saudi Arabian Grand Prix
+STR,31.0,95.449,2.0,HARD,19.0,1,True,Aston Martin,False,15.0,35.485,30.246,29.718,,False,False,7003.245,2,Saudi Arabian Grand Prix
+STR,32.0,95.431,2.0,HARD,20.0,1,True,Aston Martin,False,15.0,35.588,30.156,29.687,,False,False,7098.676,2,Saudi Arabian Grand Prix
+STR,33.0,95.663,2.0,HARD,21.0,1,True,Aston Martin,False,15.0,35.544,30.362,29.757,,False,False,7194.339,2,Saudi Arabian Grand Prix
+STR,34.0,95.161,2.0,HARD,22.0,1,True,Aston Martin,False,15.0,35.3,30.229,29.632,,False,False,7289.5,2,Saudi Arabian Grand Prix
+STR,35.0,95.153,2.0,HARD,23.0,1,True,Aston Martin,False,15.0,35.222,30.251,29.68,,False,False,7384.653,2,Saudi Arabian Grand Prix
+STR,36.0,95.315,2.0,HARD,24.0,1,True,Aston Martin,False,12.0,35.408,30.282,29.625,,False,False,7479.968,2,Saudi Arabian Grand Prix
+STR,37.0,95.486,2.0,HARD,25.0,12,True,Aston Martin,False,11.0,35.235,30.33,29.921,,False,False,7575.454,2,Saudi Arabian Grand Prix
+STR,38.0,124.891,2.0,HARD,26.0,26,False,Aston Martin,False,10.0,41.787,40.098,43.006,,False,False,7700.345,2,Saudi Arabian Grand Prix
+STR,39.0,126.48,2.0,HARD,27.0,6,False,Aston Martin,False,10.0,42.905,41.98,41.595,,False,False,7826.825,2,Saudi Arabian Grand Prix
+STR,40.0,109.721,2.0,HARD,28.0,671,False,Aston Martin,False,10.0,42.978,37.303,29.44,,False,False,7936.546,2,Saudi Arabian Grand Prix
+STR,41.0,94.68,2.0,HARD,29.0,1,True,Aston Martin,False,9.0,34.876,30.312,29.492,,False,False,8031.226,2,Saudi Arabian Grand Prix
+STR,42.0,94.81,2.0,HARD,30.0,1,True,Aston Martin,False,9.0,35.007,30.19,29.613,,False,False,8126.036,2,Saudi Arabian Grand Prix
+STR,43.0,95.32,2.0,HARD,31.0,1,True,Aston Martin,False,10.0,35.816,30.042,29.462,,False,False,8221.356,2,Saudi Arabian Grand Prix
+STR,44.0,95.205,2.0,HARD,32.0,1,True,Aston Martin,False,10.0,35.595,30.14,29.47,,False,False,8316.561,2,Saudi Arabian Grand Prix
+STR,45.0,95.191,2.0,HARD,33.0,1,True,Aston Martin,False,11.0,35.714,30.094,29.383,,False,False,8411.752,2,Saudi Arabian Grand Prix
+STR,46.0,94.446,2.0,HARD,34.0,1,True,Aston Martin,False,11.0,34.949,30.098,29.399,,False,False,8506.198,2,Saudi Arabian Grand Prix
+STR,47.0,94.484,2.0,HARD,35.0,1,True,Aston Martin,False,11.0,35.075,30.07,29.339,,False,False,8600.682,2,Saudi Arabian Grand Prix
+STR,48.0,122.768,2.0,HARD,36.0,12,True,Aston Martin,False,13.0,60.711,31.392,30.665,,False,False,8723.45,2,Saudi Arabian Grand Prix
+STR,49.0,98.205,2.0,HARD,37.0,2,True,Aston Martin,False,13.0,37.967,30.594,29.644,,False,False,8821.655,2,Saudi Arabian Grand Prix
+MAG,1.0,102.705,1.0,HARD,3.0,1,False,Haas F1 Team,False,9.0,,31.174,30.628,,False,False,3850.499,2,Saudi Arabian Grand Prix
+MAG,2.0,97.501,1.0,HARD,4.0,1,True,Haas F1 Team,False,9.0,36.254,30.956,30.291,,False,False,3948.0,2,Saudi Arabian Grand Prix
+MAG,3.0,96.83,1.0,HARD,5.0,1,True,Haas F1 Team,False,9.0,36.253,30.602,29.975,,False,False,4044.83,2,Saudi Arabian Grand Prix
+MAG,4.0,96.837,1.0,HARD,6.0,1,True,Haas F1 Team,False,9.0,36.032,30.835,29.97,,False,False,4141.667,2,Saudi Arabian Grand Prix
+MAG,5.0,96.968,1.0,HARD,7.0,1,True,Haas F1 Team,False,9.0,36.372,30.75,29.846,,False,False,4238.635,2,Saudi Arabian Grand Prix
+MAG,6.0,96.843,1.0,HARD,8.0,1,True,Haas F1 Team,False,9.0,36.046,30.661,30.136,,False,False,4335.478,2,Saudi Arabian Grand Prix
+MAG,7.0,96.708,1.0,HARD,9.0,1,True,Haas F1 Team,False,9.0,35.81,30.691,30.207,,False,False,4432.186,2,Saudi Arabian Grand Prix
+MAG,8.0,96.481,1.0,HARD,10.0,1,True,Haas F1 Team,False,9.0,36.092,30.662,29.727,,False,False,4528.667,2,Saudi Arabian Grand Prix
+MAG,9.0,97.306,1.0,HARD,11.0,1,True,Haas F1 Team,False,9.0,36.932,30.749,29.625,,False,False,4625.973,2,Saudi Arabian Grand Prix
+MAG,10.0,96.743,1.0,HARD,12.0,1,True,Haas F1 Team,False,9.0,36.288,30.665,29.79,,False,False,4722.716,2,Saudi Arabian Grand Prix
+MAG,11.0,97.7,1.0,HARD,13.0,1,True,Haas F1 Team,False,9.0,36.674,30.925,30.101,,False,False,4820.416,2,Saudi Arabian Grand Prix
+MAG,12.0,97.029,1.0,HARD,14.0,1,True,Haas F1 Team,False,9.0,36.09,30.827,30.112,,False,False,4917.445,2,Saudi Arabian Grand Prix
+MAG,13.0,96.7,1.0,HARD,15.0,1,True,Haas F1 Team,False,9.0,35.927,30.723,30.05,,False,False,5014.145,2,Saudi Arabian Grand Prix
+MAG,14.0,96.567,1.0,HARD,16.0,1,True,Haas F1 Team,False,9.0,35.821,30.634,30.112,,False,False,5110.712,2,Saudi Arabian Grand Prix
+MAG,15.0,96.103,1.0,HARD,17.0,1,True,Haas F1 Team,False,9.0,35.638,30.532,29.933,,False,False,5206.815,2,Saudi Arabian Grand Prix
+MAG,16.0,122.811,1.0,HARD,18.0,1264,False,Haas F1 Team,False,8.0,35.799,42.09,44.922,,False,False,5329.626,2,Saudi Arabian Grand Prix
+MAG,17.0,140.945,1.0,HARD,19.0,4,False,Haas F1 Team,False,6.0,38.958,40.703,61.284,,False,False,5470.571,2,Saudi Arabian Grand Prix
+MAG,18.0,158.426,1.0,HARD,20.0,4,False,Haas F1 Team,False,6.0,52.763,48.89,56.773,,False,False,5628.997,2,Saudi Arabian Grand Prix
+MAG,19.0,149.807,1.0,HARD,21.0,4,False,Haas F1 Team,False,6.0,51.897,48.361,49.549,,False,False,5778.804,2,Saudi Arabian Grand Prix
+MAG,20.0,158.086,1.0,HARD,22.0,41,False,Haas F1 Team,False,6.0,50.332,45.463,62.291,,False,False,5936.89,2,Saudi Arabian Grand Prix
+MAG,21.0,97.631,1.0,HARD,23.0,1,True,Haas F1 Team,False,6.0,37.193,30.496,29.942,,False,False,6034.521,2,Saudi Arabian Grand Prix
+MAG,22.0,95.639,1.0,HARD,24.0,1,True,Haas F1 Team,False,6.0,35.508,30.391,29.74,,False,False,6130.16,2,Saudi Arabian Grand Prix
+MAG,23.0,95.742,1.0,HARD,25.0,1,True,Haas F1 Team,False,7.0,35.325,30.339,30.078,,False,False,6225.902,2,Saudi Arabian Grand Prix
+MAG,24.0,95.393,1.0,HARD,26.0,1,True,Haas F1 Team,False,6.0,35.387,30.198,29.808,,False,False,6321.295,2,Saudi Arabian Grand Prix
+MAG,25.0,95.75,1.0,HARD,27.0,1,True,Haas F1 Team,False,7.0,36.344,30.08,29.326,,False,False,6417.045,2,Saudi Arabian Grand Prix
+MAG,26.0,95.509,1.0,HARD,28.0,1,True,Haas F1 Team,False,7.0,35.459,30.326,29.724,,False,False,6512.554,2,Saudi Arabian Grand Prix
+MAG,27.0,94.796,1.0,HARD,29.0,1,True,Haas F1 Team,False,7.0,35.061,30.136,29.599,,False,False,6607.35,2,Saudi Arabian Grand Prix
+MAG,28.0,94.837,1.0,HARD,30.0,1,True,Haas F1 Team,False,7.0,35.086,30.113,29.638,,False,False,6702.187,2,Saudi Arabian Grand Prix
+MAG,29.0,94.836,1.0,HARD,31.0,1,True,Haas F1 Team,False,7.0,35.016,30.077,29.743,,False,False,6797.023,2,Saudi Arabian Grand Prix
+MAG,30.0,94.572,1.0,HARD,32.0,1,True,Haas F1 Team,False,7.0,34.882,30.11,29.58,,False,False,6891.595,2,Saudi Arabian Grand Prix
+MAG,31.0,94.462,1.0,HARD,33.0,1,True,Haas F1 Team,False,7.0,34.886,29.926,29.65,,False,False,6986.057,2,Saudi Arabian Grand Prix
+MAG,32.0,94.569,1.0,HARD,34.0,1,True,Haas F1 Team,False,7.0,34.781,30.103,29.685,,False,False,7080.626,2,Saudi Arabian Grand Prix
+MAG,33.0,94.144,1.0,HARD,35.0,1,True,Haas F1 Team,False,7.0,34.562,29.954,29.628,,False,False,7174.77,2,Saudi Arabian Grand Prix
+MAG,34.0,94.834,1.0,HARD,36.0,1,True,Haas F1 Team,False,7.0,35.25,29.992,29.592,,False,False,7269.604,2,Saudi Arabian Grand Prix
+MAG,35.0,95.166,1.0,HARD,37.0,1,True,Haas F1 Team,False,8.0,36.038,29.937,29.191,,False,False,7364.77,2,Saudi Arabian Grand Prix
+MAG,36.0,94.194,1.0,HARD,38.0,1,True,Haas F1 Team,False,7.0,34.561,30.039,29.594,,False,False,7458.964,2,Saudi Arabian Grand Prix
+MAG,37.0,99.989,1.0,HARD,39.0,12,False,Haas F1 Team,False,7.0,34.586,29.849,35.554,,True,False,7558.953,2,Saudi Arabian Grand Prix
+MAG,38.0,143.719,2.0,MEDIUM,3.0,26,False,Haas F1 Team,False,12.0,61.906,40.13,41.683,,False,True,7702.672,2,Saudi Arabian Grand Prix
+MAG,39.0,127.206,2.0,MEDIUM,4.0,6,False,Haas F1 Team,False,12.0,43.117,43.045,41.044,,False,False,7829.878,2,Saudi Arabian Grand Prix
+MAG,40.0,109.251,2.0,MEDIUM,5.0,671,False,Haas F1 Team,False,12.0,43.286,36.708,29.257,,False,False,7939.129,2,Saudi Arabian Grand Prix
+MAG,41.0,93.188,2.0,MEDIUM,6.0,1,True,Haas F1 Team,False,10.0,34.179,29.797,29.212,,False,False,8032.317,2,Saudi Arabian Grand Prix
+MAG,42.0,93.927,2.0,MEDIUM,7.0,1,True,Haas F1 Team,False,10.0,34.494,29.783,29.65,,False,False,8126.244,2,Saudi Arabian Grand Prix
+MAG,43.0,93.238,2.0,MEDIUM,8.0,1,True,Haas F1 Team,False,9.0,34.447,29.632,29.159,,False,False,8219.482,2,Saudi Arabian Grand Prix
+MAG,44.0,93.175,2.0,MEDIUM,9.0,1,True,Haas F1 Team,False,9.0,34.243,29.703,29.229,,False,False,8312.657,2,Saudi Arabian Grand Prix
+MAG,45.0,93.11,2.0,MEDIUM,10.0,1,True,Haas F1 Team,False,9.0,34.286,29.632,29.192,,False,False,8405.767,2,Saudi Arabian Grand Prix
+MAG,46.0,93.452,2.0,MEDIUM,11.0,1,True,Haas F1 Team,False,9.0,34.373,29.735,29.344,,False,False,8499.219,2,Saudi Arabian Grand Prix
+MAG,47.0,92.968,2.0,MEDIUM,12.0,1,True,Haas F1 Team,False,9.0,34.091,29.662,29.215,,False,False,8592.187,2,Saudi Arabian Grand Prix
+MAG,48.0,92.779,2.0,MEDIUM,13.0,12,True,Haas F1 Team,False,9.0,34.188,29.507,29.084,,False,False,8684.966,2,Saudi Arabian Grand Prix
+MAG,49.0,93.6,2.0,MEDIUM,14.0,2,True,Haas F1 Team,False,9.0,34.783,29.647,29.17,,False,False,8778.566,2,Saudi Arabian Grand Prix
+MAG,50.0,92.829,2.0,MEDIUM,15.0,2,True,Haas F1 Team,False,9.0,34.214,29.547,29.068,,False,False,8871.395,2,Saudi Arabian Grand Prix
+ALB,1.0,105.023,1.0,MEDIUM,1.0,1,False,Williams,True,15.0,,31.557,30.53,,False,False,3852.817,2,Saudi Arabian Grand Prix
+ALB,2.0,99.129,1.0,MEDIUM,2.0,1,True,Williams,True,15.0,37.659,31.346,30.124,,False,False,3951.946,2,Saudi Arabian Grand Prix
+ALB,3.0,97.86,1.0,MEDIUM,3.0,1,True,Williams,True,15.0,36.913,30.876,30.071,,False,False,4049.806,2,Saudi Arabian Grand Prix
+ALB,4.0,98.264,1.0,MEDIUM,4.0,1,True,Williams,True,15.0,36.829,31.198,30.237,,False,False,4148.07,2,Saudi Arabian Grand Prix
+ALB,5.0,99.143,1.0,MEDIUM,5.0,1,True,Williams,True,16.0,37.69,31.284,30.169,,False,False,4247.213,2,Saudi Arabian Grand Prix
+ALB,6.0,98.125,1.0,MEDIUM,6.0,1,True,Williams,True,16.0,36.794,31.199,30.132,,False,False,4345.338,2,Saudi Arabian Grand Prix
+ALB,7.0,99.088,1.0,MEDIUM,7.0,1,True,Williams,True,17.0,37.46,31.309,30.319,,False,False,4444.426,2,Saudi Arabian Grand Prix
+ALB,8.0,98.257,1.0,MEDIUM,8.0,1,True,Williams,True,17.0,36.987,31.123,30.147,,False,False,4542.683,2,Saudi Arabian Grand Prix
+ALB,9.0,98.028,1.0,MEDIUM,9.0,1,True,Williams,True,16.0,36.621,31.359,30.048,,False,False,4640.711,2,Saudi Arabian Grand Prix
+ALB,10.0,97.668,1.0,MEDIUM,10.0,1,True,Williams,True,16.0,36.327,31.158,30.183,,False,False,4738.379,2,Saudi Arabian Grand Prix
+ALB,11.0,97.851,1.0,MEDIUM,11.0,1,True,Williams,True,16.0,36.355,31.177,30.319,,False,False,4836.23,2,Saudi Arabian Grand Prix
+ALB,12.0,98.253,1.0,MEDIUM,12.0,1,True,Williams,True,16.0,36.647,31.173,30.433,,False,False,4934.483,2,Saudi Arabian Grand Prix
+ALB,13.0,101.186,1.0,MEDIUM,13.0,1,False,Williams,True,17.0,36.844,31.282,33.06,,True,False,5035.669,2,Saudi Arabian Grand Prix
+ALB,14.0,115.413,2.0,HARD,1.0,1,False,Williams,True,18.0,54.555,30.847,30.011,,False,True,5151.082,2,Saudi Arabian Grand Prix
+ALB,15.0,97.345,2.0,HARD,2.0,12,True,Williams,True,17.0,35.966,30.54,30.839,,False,False,5248.427,2,Saudi Arabian Grand Prix
+ALB,16.0,124.816,2.0,HARD,3.0,264,False,Williams,True,17.0,43.673,39.612,41.531,,False,False,5373.243,2,Saudi Arabian Grand Prix
+ALB,17.0,128.94,2.0,HARD,4.0,4,False,Williams,True,17.0,43.525,41.733,43.682,,False,False,5502.183,2,Saudi Arabian Grand Prix
+ALB,18.0,147.51,2.0,HARD,5.0,4,False,Williams,True,17.0,40.912,47.807,58.791,,False,False,5649.693,2,Saudi Arabian Grand Prix
+ALB,19.0,154.692,2.0,HARD,6.0,4,False,Williams,True,17.0,49.734,48.51,56.448,,False,False,5804.385,2,Saudi Arabian Grand Prix
+ALB,20.0,137.388,2.0,HARD,7.0,41,False,Williams,True,17.0,40.68,44.413,52.295,,False,False,5941.773,2,Saudi Arabian Grand Prix
+ALB,21.0,98.94,2.0,HARD,8.0,1,True,Williams,True,17.0,37.723,30.992,30.225,,False,False,6040.713,2,Saudi Arabian Grand Prix
+ALB,22.0,97.769,2.0,HARD,9.0,1,True,Williams,True,17.0,36.886,30.734,30.149,,False,False,6138.482,2,Saudi Arabian Grand Prix
+ALB,23.0,96.664,2.0,HARD,10.0,1,True,Williams,True,17.0,36.62,30.544,29.5,,False,False,6235.146,2,Saudi Arabian Grand Prix
+ALB,24.0,96.251,2.0,HARD,11.0,1,True,Williams,True,17.0,36.202,30.538,29.511,,False,False,6331.397,2,Saudi Arabian Grand Prix
+ALB,25.0,96.938,2.0,HARD,12.0,1,True,Williams,True,17.0,36.26,30.735,29.943,,False,False,6428.335,2,Saudi Arabian Grand Prix
+ALB,26.0,96.445,2.0,HARD,13.0,1,True,Williams,True,17.0,36.038,30.574,29.833,,False,False,6524.78,2,Saudi Arabian Grand Prix
+ALB,27.0,96.411,2.0,HARD,14.0,1,True,Williams,True,17.0,35.846,30.649,29.916,,False,False,6621.191,2,Saudi Arabian Grand Prix
+ALB,28.0,96.424,2.0,HARD,15.0,1,True,Williams,True,16.0,35.993,30.504,29.927,,False,False,6717.615,2,Saudi Arabian Grand Prix
+ALB,29.0,96.059,2.0,HARD,16.0,1,True,Williams,True,16.0,35.815,30.391,29.853,,False,False,6813.674,2,Saudi Arabian Grand Prix
+ALB,30.0,95.898,2.0,HARD,17.0,1,True,Williams,True,16.0,35.72,30.494,29.684,,False,False,6909.572,2,Saudi Arabian Grand Prix
+ALB,31.0,95.7,2.0,HARD,18.0,1,True,Williams,True,16.0,35.594,30.339,29.767,,False,False,7005.272,2,Saudi Arabian Grand Prix
+ALB,32.0,95.423,2.0,HARD,19.0,1,True,Williams,True,16.0,35.492,30.325,29.606,,False,False,7100.695,2,Saudi Arabian Grand Prix
+ALB,33.0,95.568,2.0,HARD,20.0,1,True,Williams,True,16.0,35.66,30.238,29.67,,False,False,7196.263,2,Saudi Arabian Grand Prix
+ALB,34.0,95.334,2.0,HARD,21.0,1,True,Williams,True,16.0,35.468,30.184,29.682,,False,False,7291.597,2,Saudi Arabian Grand Prix
+ALB,35.0,95.121,2.0,HARD,22.0,1,True,Williams,True,16.0,35.384,30.177,29.56,,False,False,7386.718,2,Saudi Arabian Grand Prix
+ALB,36.0,94.889,2.0,HARD,23.0,1,True,Williams,True,13.0,35.288,30.132,29.469,,False,False,7481.607,2,Saudi Arabian Grand Prix
+ALB,37.0,95.31,2.0,HARD,24.0,12,True,Williams,True,12.0,35.305,30.141,29.864,,False,False,7576.917,2,Saudi Arabian Grand Prix
+ALB,38.0,124.829,2.0,HARD,25.0,26,False,Williams,True,11.0,42.81,40.743,41.276,,False,False,7701.746,2,Saudi Arabian Grand Prix
+ALB,39.0,127.305,2.0,HARD,26.0,6,False,Williams,True,11.0,43.533,42.961,40.811,,False,False,7829.051,2,Saudi Arabian Grand Prix
+ALB,40.0,108.944,2.0,HARD,27.0,671,False,Williams,True,11.0,43.242,36.207,29.495,,False,False,7937.995,2,Saudi Arabian Grand Prix
+ALB,41.0,94.493,2.0,HARD,28.0,1,True,Williams,True,11.0,34.89,30.003,29.6,,False,False,8032.488,2,Saudi Arabian Grand Prix
+ALB,42.0,95.035,2.0,HARD,29.0,1,True,Williams,True,11.0,35.372,30.117,29.546,,False,False,8127.523,2,Saudi Arabian Grand Prix
+ALB,43.0,95.371,2.0,HARD,30.0,1,True,Williams,True,12.0,35.818,30.075,29.478,,False,False,8222.894,2,Saudi Arabian Grand Prix
+ALB,44.0,94.441,2.0,HARD,31.0,1,True,Williams,True,12.0,35.282,29.951,29.208,,False,False,8317.335,2,Saudi Arabian Grand Prix
+ALB,45.0,94.788,2.0,HARD,32.0,1,True,Williams,True,12.0,35.494,29.987,29.307,,False,False,8412.123,2,Saudi Arabian Grand Prix
+ALB,46.0,94.368,2.0,HARD,33.0,1,True,Williams,True,12.0,35.331,29.919,29.118,,False,False,8506.491,2,Saudi Arabian Grand Prix
+ALB,47.0,94.606,2.0,HARD,34.0,1,True,Williams,True,12.0,35.596,29.882,29.128,,False,False,8601.097,2,Saudi Arabian Grand Prix
+ALB,48.0,,2.0,HARD,35.0,12,False,Williams,True,,,,,,False,False,8751.097,2,Saudi Arabian Grand Prix
+ZHO,1.0,106.52,1.0,MEDIUM,1.0,1,False,Alfa Romeo,True,18.0,,31.537,30.349,,False,False,3854.314,2,Saudi Arabian Grand Prix
+ZHO,2.0,98.663,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,17.0,36.984,31.155,30.524,,False,False,3952.977,2,Saudi Arabian Grand Prix
+ZHO,3.0,97.564,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,16.0,36.928,30.816,29.82,,False,False,4050.541,2,Saudi Arabian Grand Prix
+ZHO,4.0,97.639,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,16.0,36.586,31.116,29.937,,False,False,4148.18,2,Saudi Arabian Grand Prix
+ZHO,5.0,98.409,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,15.0,36.919,31.212,30.278,,False,False,4246.589,2,Saudi Arabian Grand Prix
+ZHO,6.0,97.275,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,15.0,36.021,31.024,30.23,,False,False,4343.864,2,Saudi Arabian Grand Prix
+ZHO,7.0,96.823,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,15.0,36.029,30.844,29.95,,False,False,4440.687,2,Saudi Arabian Grand Prix
+ZHO,8.0,96.73,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,14.0,36.253,30.571,29.906,,False,False,4537.417,2,Saudi Arabian Grand Prix
+ZHO,9.0,96.899,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,14.0,36.194,30.791,29.914,,False,False,4634.316,2,Saudi Arabian Grand Prix
+ZHO,10.0,97.149,1.0,MEDIUM,10.0,1,True,Alfa Romeo,True,14.0,36.44,30.766,29.943,,False,False,4731.465,2,Saudi Arabian Grand Prix
+ZHO,11.0,97.067,1.0,MEDIUM,11.0,1,True,Alfa Romeo,True,13.0,35.997,30.866,30.204,,False,False,4828.532,2,Saudi Arabian Grand Prix
+ZHO,12.0,96.926,1.0,MEDIUM,12.0,1,True,Alfa Romeo,True,13.0,35.984,30.768,30.174,,False,False,4925.458,2,Saudi Arabian Grand Prix
+ZHO,13.0,96.251,1.0,MEDIUM,13.0,1,True,Alfa Romeo,True,13.0,35.857,30.441,29.953,,False,False,5021.709,2,Saudi Arabian Grand Prix
+ZHO,14.0,96.783,1.0,MEDIUM,14.0,1,True,Alfa Romeo,True,13.0,36.075,30.598,30.11,,False,False,5118.492,2,Saudi Arabian Grand Prix
+ZHO,15.0,96.659,1.0,MEDIUM,15.0,1,True,Alfa Romeo,True,13.0,36.173,30.638,29.848,,False,False,5215.151,2,Saudi Arabian Grand Prix
+ZHO,16.0,122.305,1.0,MEDIUM,16.0,1264,False,Alfa Romeo,True,12.0,36.349,41.047,44.909,,True,False,5337.456,2,Saudi Arabian Grand Prix
+ZHO,17.0,153.683,2.0,HARD,1.0,4,False,Alfa Romeo,True,15.0,71.088,40.946,41.649,,False,True,5491.139,2,Saudi Arabian Grand Prix
+ZHO,18.0,155.18,2.0,HARD,2.0,4,False,Alfa Romeo,True,15.0,44.533,51.445,59.202,,False,False,5646.319,2,Saudi Arabian Grand Prix
+ZHO,19.0,153.975,2.0,HARD,3.0,4,False,Alfa Romeo,True,15.0,49.387,48.704,55.884,,False,False,5800.294,2,Saudi Arabian Grand Prix
+ZHO,20.0,140.595,2.0,HARD,4.0,41,False,Alfa Romeo,True,15.0,42.409,44.544,53.642,,False,False,5940.889,2,Saudi Arabian Grand Prix
+ZHO,21.0,98.71,2.0,HARD,5.0,1,True,Alfa Romeo,True,15.0,37.647,30.926,30.137,,False,False,6039.599,2,Saudi Arabian Grand Prix
+ZHO,22.0,97.364,2.0,HARD,6.0,1,True,Alfa Romeo,True,15.0,36.816,30.622,29.926,,False,False,6136.963,2,Saudi Arabian Grand Prix
+ZHO,23.0,95.874,2.0,HARD,7.0,1,True,Alfa Romeo,True,15.0,36.472,30.131,29.271,,False,False,6232.837,2,Saudi Arabian Grand Prix
+ZHO,24.0,96.323,2.0,HARD,8.0,1,True,Alfa Romeo,True,15.0,36.396,30.503,29.424,,False,False,6329.16,2,Saudi Arabian Grand Prix
+ZHO,25.0,96.023,2.0,HARD,9.0,1,True,Alfa Romeo,True,15.0,36.188,30.525,29.31,,False,False,6425.183,2,Saudi Arabian Grand Prix
+ZHO,26.0,96.31,2.0,HARD,10.0,1,True,Alfa Romeo,True,15.0,36.638,30.411,29.261,,False,False,6521.493,2,Saudi Arabian Grand Prix
+ZHO,27.0,98.66,2.0,HARD,11.0,1,False,Alfa Romeo,True,16.0,36.091,30.313,32.256,,True,False,6620.153,2,Saudi Arabian Grand Prix
+ZHO,28.0,108.451,3.0,HARD,12.0,1,False,Alfa Romeo,False,17.0,47.906,30.561,29.984,,False,True,6728.604,2,Saudi Arabian Grand Prix
+ZHO,29.0,95.172,3.0,HARD,13.0,1,True,Alfa Romeo,False,17.0,35.421,30.102,29.649,,False,False,6823.776,2,Saudi Arabian Grand Prix
+ZHO,30.0,94.518,3.0,HARD,14.0,1,True,Alfa Romeo,False,17.0,35.143,29.983,29.392,,False,False,6918.294,2,Saudi Arabian Grand Prix
+ZHO,31.0,94.78,3.0,HARD,15.0,1,True,Alfa Romeo,False,17.0,35.174,30.066,29.54,,False,False,7013.074,2,Saudi Arabian Grand Prix
+ZHO,32.0,94.576,3.0,HARD,16.0,1,True,Alfa Romeo,False,17.0,34.983,29.957,29.636,,False,False,7107.65,2,Saudi Arabian Grand Prix
+ZHO,33.0,94.59,3.0,HARD,17.0,1,True,Alfa Romeo,False,17.0,35.092,29.998,29.5,,False,False,7202.24,2,Saudi Arabian Grand Prix
+ZHO,34.0,94.729,3.0,HARD,18.0,1,True,Alfa Romeo,False,17.0,35.278,30.041,29.41,,False,False,7296.969,2,Saudi Arabian Grand Prix
+ZHO,35.0,94.528,3.0,HARD,19.0,1,True,Alfa Romeo,False,17.0,35.113,29.953,29.462,,False,False,7391.497,2,Saudi Arabian Grand Prix
+ZHO,36.0,94.77,3.0,HARD,20.0,1,True,Alfa Romeo,False,14.0,35.23,30.042,29.498,,False,False,7486.267,2,Saudi Arabian Grand Prix
+ZHO,37.0,94.836,3.0,HARD,21.0,126,False,Alfa Romeo,False,14.0,34.994,29.887,29.955,,False,False,7581.103,2,Saudi Arabian Grand Prix
+ZHO,38.0,127.464,3.0,HARD,22.0,6,False,Alfa Romeo,False,13.0,44.288,41.575,41.601,,False,False,7708.567,2,Saudi Arabian Grand Prix
+ZHO,39.0,127.122,3.0,HARD,23.0,6,False,Alfa Romeo,False,13.0,43.612,41.22,42.29,,False,False,7835.689,2,Saudi Arabian Grand Prix
+ZHO,40.0,107.991,3.0,HARD,24.0,671,False,Alfa Romeo,False,13.0,42.591,35.385,30.015,,False,False,7943.68,2,Saudi Arabian Grand Prix
+ZHO,41.0,94.523,3.0,HARD,25.0,1,True,Alfa Romeo,False,13.0,35.194,29.9,29.429,,False,False,8038.203,2,Saudi Arabian Grand Prix
+ZHO,42.0,94.116,3.0,HARD,26.0,1,True,Alfa Romeo,False,13.0,34.938,29.85,29.328,,False,False,8132.319,2,Saudi Arabian Grand Prix
+ZHO,43.0,93.987,3.0,HARD,27.0,1,True,Alfa Romeo,False,13.0,34.918,29.8,29.269,,False,False,8226.306,2,Saudi Arabian Grand Prix
+ZHO,44.0,94.064,3.0,HARD,28.0,1,True,Alfa Romeo,False,13.0,34.943,29.817,29.304,,False,False,8320.37,2,Saudi Arabian Grand Prix
+ZHO,45.0,93.924,3.0,HARD,29.0,1,True,Alfa Romeo,False,13.0,34.823,29.896,29.205,,False,False,8414.294,2,Saudi Arabian Grand Prix
+ZHO,46.0,94.344,3.0,HARD,30.0,1,True,Alfa Romeo,False,13.0,35.052,29.975,29.317,,False,False,8508.638,2,Saudi Arabian Grand Prix
+ZHO,47.0,94.372,3.0,HARD,31.0,1,True,Alfa Romeo,False,13.0,35.096,29.959,29.317,,False,False,8603.01,2,Saudi Arabian Grand Prix
+ZHO,48.0,96.051,3.0,HARD,32.0,12,True,Alfa Romeo,False,11.0,36.369,30.254,29.428,,False,False,8699.061,2,Saudi Arabian Grand Prix
+ZHO,49.0,95.54,3.0,HARD,33.0,2,True,Alfa Romeo,False,11.0,36.126,30.101,29.313,,False,False,8794.601,2,Saudi Arabian Grand Prix
+ZHO,50.0,94.701,3.0,HARD,34.0,2,True,Alfa Romeo,False,11.0,35.39,29.799,29.512,,False,False,8889.302,2,Saudi Arabian Grand Prix
+HUL,1.0,105.803,1.0,HARD,2.0,1,False,Aston Martin,False,16.0,,31.531,30.692,,False,False,3853.597,2,Saudi Arabian Grand Prix
+HUL,2.0,99.035,1.0,HARD,3.0,1,True,Aston Martin,False,16.0,37.378,31.13,30.527,,False,False,3952.632,2,Saudi Arabian Grand Prix
+HUL,3.0,98.064,1.0,HARD,4.0,1,True,Aston Martin,False,17.0,36.897,30.863,30.304,,False,False,4050.696,2,Saudi Arabian Grand Prix
+HUL,4.0,98.357,1.0,HARD,5.0,1,True,Aston Martin,False,17.0,37.19,30.942,30.225,,False,False,4149.053,2,Saudi Arabian Grand Prix
+HUL,5.0,98.504,1.0,HARD,6.0,1,True,Aston Martin,False,17.0,37.144,31.1,30.26,,False,False,4247.557,2,Saudi Arabian Grand Prix
+HUL,6.0,98.057,1.0,HARD,7.0,1,True,Aston Martin,False,17.0,37.294,30.827,29.936,,False,False,4345.614,2,Saudi Arabian Grand Prix
+HUL,7.0,97.487,1.0,HARD,8.0,1,True,Aston Martin,False,16.0,36.61,30.799,30.078,,False,False,4443.101,2,Saudi Arabian Grand Prix
+HUL,8.0,97.277,1.0,HARD,9.0,1,True,Aston Martin,False,16.0,36.533,30.73,30.014,,False,False,4540.378,2,Saudi Arabian Grand Prix
+HUL,9.0,97.034,1.0,HARD,10.0,1,True,Aston Martin,False,15.0,36.299,30.758,29.977,,False,False,4637.412,2,Saudi Arabian Grand Prix
+HUL,10.0,97.821,1.0,HARD,11.0,1,True,Aston Martin,False,15.0,36.262,31.42,30.139,,False,False,4735.233,2,Saudi Arabian Grand Prix
+HUL,11.0,96.884,1.0,HARD,12.0,1,True,Aston Martin,False,15.0,36.176,30.663,30.045,,False,False,4832.117,2,Saudi Arabian Grand Prix
+HUL,12.0,96.594,1.0,HARD,13.0,1,True,Aston Martin,False,14.0,36.19,30.624,29.78,,False,False,4928.711,2,Saudi Arabian Grand Prix
+HUL,13.0,96.69,1.0,HARD,14.0,1,True,Aston Martin,False,14.0,36.099,30.607,29.984,,False,False,5025.401,2,Saudi Arabian Grand Prix
+HUL,14.0,96.966,1.0,HARD,15.0,1,True,Aston Martin,False,14.0,36.112,30.627,30.227,,False,False,5122.367,2,Saudi Arabian Grand Prix
+HUL,15.0,96.582,1.0,HARD,16.0,1,True,Aston Martin,False,14.0,36.052,30.498,30.032,,False,False,5218.949,2,Saudi Arabian Grand Prix
+HUL,16.0,120.614,1.0,HARD,17.0,1264,False,Aston Martin,False,13.0,35.972,42.985,41.657,,False,False,5339.563,2,Saudi Arabian Grand Prix
+HUL,17.0,136.808,1.0,HARD,18.0,4,False,Aston Martin,False,9.0,45.989,38.495,52.324,,False,False,5476.371,2,Saudi Arabian Grand Prix
+HUL,18.0,158.081,1.0,HARD,19.0,4,False,Aston Martin,False,9.0,50.491,50.837,56.753,,False,False,5634.452,2,Saudi Arabian Grand Prix
+HUL,19.0,150.651,1.0,HARD,20.0,4,False,Aston Martin,False,9.0,51.696,47.276,51.679,,False,False,5785.103,2,Saudi Arabian Grand Prix
+HUL,20.0,153.194,1.0,HARD,21.0,41,False,Aston Martin,False,9.0,47.795,45.296,60.103,,False,False,5938.297,2,Saudi Arabian Grand Prix
+HUL,21.0,98.039,1.0,HARD,22.0,1,True,Aston Martin,False,9.0,37.411,30.639,29.989,,False,False,6036.336,2,Saudi Arabian Grand Prix
+HUL,22.0,96.74,1.0,HARD,23.0,1,True,Aston Martin,False,9.0,36.342,30.505,29.893,,False,False,6133.076,2,Saudi Arabian Grand Prix
+HUL,23.0,96.427,1.0,HARD,24.0,1,True,Aston Martin,False,9.0,36.027,30.563,29.837,,False,False,6229.503,2,Saudi Arabian Grand Prix
+HUL,24.0,96.981,1.0,HARD,25.0,1,True,Aston Martin,False,10.0,36.482,30.372,30.127,,False,False,6326.484,2,Saudi Arabian Grand Prix
+HUL,25.0,97.389,1.0,HARD,26.0,1,True,Aston Martin,False,12.0,36.497,30.521,30.371,,False,False,6423.873,2,Saudi Arabian Grand Prix
+HUL,26.0,96.065,1.0,HARD,27.0,1,True,Aston Martin,False,12.0,36.258,30.333,29.474,,False,False,6519.938,2,Saudi Arabian Grand Prix
+HUL,27.0,95.897,1.0,HARD,28.0,1,True,Aston Martin,False,12.0,35.648,30.355,29.894,,False,False,6615.835,2,Saudi Arabian Grand Prix
+HUL,28.0,96.686,1.0,HARD,29.0,1,True,Aston Martin,False,13.0,36.51,30.328,29.848,,False,False,6712.521,2,Saudi Arabian Grand Prix
+HUL,29.0,96.467,1.0,HARD,30.0,1,True,Aston Martin,False,14.0,36.605,30.229,29.633,,False,False,6808.988,2,Saudi Arabian Grand Prix
+HUL,30.0,95.89,1.0,HARD,31.0,1,True,Aston Martin,False,14.0,35.71,30.422,29.758,,False,False,6904.878,2,Saudi Arabian Grand Prix
+HUL,31.0,95.572,1.0,HARD,32.0,1,True,Aston Martin,False,14.0,35.591,30.229,29.752,,False,False,7000.45,2,Saudi Arabian Grand Prix
+HUL,32.0,95.881,1.0,HARD,33.0,1,True,Aston Martin,False,14.0,35.841,30.242,29.798,,False,False,7096.331,2,Saudi Arabian Grand Prix
+HUL,33.0,95.176,1.0,HARD,34.0,1,True,Aston Martin,False,14.0,35.293,30.151,29.732,,False,False,7191.507,2,Saudi Arabian Grand Prix
+HUL,34.0,95.319,1.0,HARD,35.0,1,True,Aston Martin,False,14.0,35.374,30.244,29.701,,False,False,7286.826,2,Saudi Arabian Grand Prix
+HUL,35.0,95.613,1.0,HARD,36.0,1,True,Aston Martin,False,14.0,35.533,30.271,29.809,,False,False,7382.439,2,Saudi Arabian Grand Prix
+HUL,36.0,95.096,1.0,HARD,37.0,1,True,Aston Martin,False,11.0,35.28,30.048,29.768,,False,False,7477.535,2,Saudi Arabian Grand Prix
+HUL,37.0,100.236,1.0,HARD,38.0,12,False,Aston Martin,False,13.0,35.396,30.114,34.726,,True,False,7577.771,2,Saudi Arabian Grand Prix
+HUL,38.0,144.318,2.0,MEDIUM,2.0,26,False,Aston Martin,False,14.0,60.456,40.557,43.305,,False,True,7722.089,2,Saudi Arabian Grand Prix
+HUL,39.0,125.562,2.0,MEDIUM,3.0,6,False,Aston Martin,False,14.0,43.83,40.038,41.694,,False,False,7847.651,2,Saudi Arabian Grand Prix
+HUL,40.0,105.042,2.0,MEDIUM,4.0,671,False,Aston Martin,False,14.0,43.013,32.605,29.424,,False,False,7952.693,2,Saudi Arabian Grand Prix
+HUL,41.0,94.734,2.0,MEDIUM,5.0,1,True,Aston Martin,False,14.0,35.061,30.147,29.526,,False,False,8047.427,2,Saudi Arabian Grand Prix
+HUL,42.0,94.06,2.0,MEDIUM,6.0,1,True,Aston Martin,False,14.0,34.703,29.905,29.452,,False,False,8141.487,2,Saudi Arabian Grand Prix
+HUL,43.0,94.205,2.0,MEDIUM,7.0,1,True,Aston Martin,False,14.0,34.785,29.855,29.565,,False,False,8235.692,2,Saudi Arabian Grand Prix
+HUL,44.0,94.59,2.0,MEDIUM,8.0,1,True,Aston Martin,False,14.0,35.011,30.098,29.481,,False,False,8330.282,2,Saudi Arabian Grand Prix
+HUL,45.0,94.309,2.0,MEDIUM,9.0,1,True,Aston Martin,False,14.0,34.956,29.924,29.429,,False,False,8424.591,2,Saudi Arabian Grand Prix
+HUL,46.0,93.996,2.0,MEDIUM,10.0,1,True,Aston Martin,False,14.0,34.594,29.902,29.5,,False,False,8518.587,2,Saudi Arabian Grand Prix
+HUL,47.0,93.651,2.0,MEDIUM,11.0,1,True,Aston Martin,False,14.0,34.489,29.807,29.355,,False,False,8612.238,2,Saudi Arabian Grand Prix
+HUL,48.0,95.203,2.0,MEDIUM,12.0,12,True,Aston Martin,False,12.0,35.784,29.835,29.584,,False,False,8707.441,2,Saudi Arabian Grand Prix
+HUL,49.0,95.568,2.0,MEDIUM,13.0,2,True,Aston Martin,False,12.0,36.076,29.958,29.534,,False,False,8803.009,2,Saudi Arabian Grand Prix
+HUL,50.0,95.82,2.0,MEDIUM,14.0,2,True,Aston Martin,False,12.0,35.914,30.202,29.704,,False,False,8898.829,2,Saudi Arabian Grand Prix
+RIC,1.0,104.274,1.0,MEDIUM,1.0,1,False,McLaren,True,13.0,,31.287,30.577,,False,False,3852.068,2,Saudi Arabian Grand Prix
+RIC,2.0,98.749,1.0,MEDIUM,2.0,1,True,McLaren,True,13.0,37.403,31.004,30.342,,False,False,3950.817,2,Saudi Arabian Grand Prix
+RIC,3.0,97.376,1.0,MEDIUM,3.0,1,True,McLaren,True,13.0,36.894,30.797,29.685,,False,False,4048.193,2,Saudi Arabian Grand Prix
+RIC,4.0,97.675,1.0,MEDIUM,4.0,1,True,McLaren,True,13.0,37.093,30.694,29.888,,False,False,4145.868,2,Saudi Arabian Grand Prix
+RIC,5.0,98.13,1.0,MEDIUM,5.0,1,True,McLaren,True,13.0,37.259,30.986,29.885,,False,False,4243.998,2,Saudi Arabian Grand Prix
+RIC,6.0,97.311,1.0,MEDIUM,6.0,1,True,McLaren,True,13.0,36.771,30.81,29.73,,False,False,4341.309,2,Saudi Arabian Grand Prix
+RIC,7.0,97.139,1.0,MEDIUM,7.0,1,True,McLaren,True,13.0,36.621,30.803,29.715,,False,False,4438.448,2,Saudi Arabian Grand Prix
+RIC,8.0,100.276,1.0,MEDIUM,8.0,1,False,McLaren,True,15.0,36.668,30.831,32.777,,True,False,4538.724,2,Saudi Arabian Grand Prix
+RIC,9.0,114.148,2.0,HARD,1.0,1,False,McLaren,True,18.0,53.466,30.696,29.986,,False,True,4652.872,2,Saudi Arabian Grand Prix
+RIC,10.0,96.037,2.0,HARD,2.0,1,True,McLaren,True,18.0,35.58,30.531,29.926,,False,False,4748.909,2,Saudi Arabian Grand Prix
+RIC,11.0,96.035,2.0,HARD,3.0,1,True,McLaren,True,18.0,35.565,30.509,29.961,,False,False,4844.944,2,Saudi Arabian Grand Prix
+RIC,12.0,95.716,2.0,HARD,4.0,1,True,McLaren,True,18.0,35.368,30.445,29.903,,False,False,4940.66,2,Saudi Arabian Grand Prix
+RIC,13.0,95.955,2.0,HARD,5.0,1,True,McLaren,True,18.0,35.51,30.495,29.95,,False,False,5036.615,2,Saudi Arabian Grand Prix
+RIC,14.0,95.681,2.0,HARD,6.0,1,True,McLaren,True,16.0,35.44,30.402,29.839,,False,False,5132.296,2,Saudi Arabian Grand Prix
+RIC,15.0,95.907,2.0,HARD,7.0,12,True,McLaren,True,15.0,35.511,30.422,29.974,,False,False,5228.203,2,Saudi Arabian Grand Prix
+RIC,16.0,122.47,2.0,HARD,8.0,264,False,McLaren,True,14.0,41.959,39.285,41.226,,False,False,5350.673,2,Saudi Arabian Grand Prix
+RIC,17.0,130.632,2.0,HARD,9.0,4,False,McLaren,True,12.0,46.272,38.227,46.133,,False,False,5481.305,2,Saudi Arabian Grand Prix
+RIC,18.0,158.789,2.0,HARD,10.0,4,False,McLaren,True,12.0,49.955,50.441,58.393,,False,False,5640.094,2,Saudi Arabian Grand Prix
+RIC,19.0,152.377,2.0,HARD,11.0,4,False,McLaren,True,12.0,49.823,47.783,54.771,,False,False,5792.471,2,Saudi Arabian Grand Prix
+RIC,20.0,147.176,2.0,HARD,12.0,41,False,McLaren,True,12.0,44.466,45.985,56.725,,False,False,5939.647,2,Saudi Arabian Grand Prix
+RIC,21.0,98.412,2.0,HARD,13.0,1,True,McLaren,True,12.0,37.123,31.285,30.004,,False,False,6038.059,2,Saudi Arabian Grand Prix
+RIC,22.0,97.13,2.0,HARD,14.0,1,True,McLaren,True,12.0,36.417,30.731,29.982,,False,False,6135.189,2,Saudi Arabian Grand Prix
+RIC,23.0,95.817,2.0,HARD,15.0,1,True,McLaren,True,12.0,36.233,30.266,29.318,,False,False,6231.006,2,Saudi Arabian Grand Prix
+RIC,24.0,96.211,2.0,HARD,16.0,1,True,McLaren,True,12.0,36.153,30.444,29.614,,False,False,6327.217,2,Saudi Arabian Grand Prix
+RIC,25.0,96.439,2.0,HARD,17.0,1,True,McLaren,True,11.0,36.356,30.484,29.599,,False,False,6423.656,2,Saudi Arabian Grand Prix
+RIC,26.0,95.511,2.0,HARD,18.0,1,True,McLaren,True,11.0,35.506,30.382,29.623,,False,False,6519.167,2,Saudi Arabian Grand Prix
+RIC,27.0,95.255,2.0,HARD,19.0,1,True,McLaren,True,11.0,35.384,30.153,29.718,,False,False,6614.422,2,Saudi Arabian Grand Prix
+RIC,28.0,95.135,2.0,HARD,20.0,1,True,McLaren,True,11.0,35.115,30.231,29.789,,False,False,6709.557,2,Saudi Arabian Grand Prix
+RIC,29.0,94.982,2.0,HARD,21.0,1,True,McLaren,True,11.0,35.205,30.129,29.648,,False,False,6804.539,2,Saudi Arabian Grand Prix
+RIC,30.0,95.042,2.0,HARD,22.0,1,True,McLaren,True,11.0,35.13,30.195,29.717,,False,False,6899.581,2,Saudi Arabian Grand Prix
+RIC,31.0,95.044,2.0,HARD,23.0,1,True,McLaren,True,11.0,35.041,30.209,29.794,,False,False,6994.625,2,Saudi Arabian Grand Prix
+RIC,32.0,94.793,2.0,HARD,24.0,1,True,McLaren,True,11.0,35.092,30.072,29.629,,False,False,7089.418,2,Saudi Arabian Grand Prix
+RIC,33.0,94.701,2.0,HARD,25.0,1,True,McLaren,True,11.0,34.907,30.127,29.667,,False,False,7184.119,2,Saudi Arabian Grand Prix
+RIC,34.0,94.487,2.0,HARD,26.0,1,True,McLaren,True,11.0,34.747,30.089,29.651,,False,False,7278.606,2,Saudi Arabian Grand Prix
+RIC,35.0,94.618,2.0,HARD,27.0,1,True,McLaren,True,11.0,34.787,30.133,29.698,,False,False,7373.224,2,Saudi Arabian Grand Prix
+RIC,36.0,,2.0,HARD,28.0,126,False,McLaren,True,16.0,36.005,29.894,,,True,False,7789.418,2,Saudi Arabian Grand Prix
+OCO,1.0,99.9,1.0,MEDIUM,1.0,1,False,Alpine,True,5.0,,30.87,30.042,,False,False,3847.694,2,Saudi Arabian Grand Prix
+OCO,2.0,96.476,1.0,MEDIUM,2.0,1,True,Alpine,True,5.0,35.729,30.667,30.08,,False,False,3944.17,2,Saudi Arabian Grand Prix
+OCO,3.0,97.306,1.0,MEDIUM,3.0,1,True,Alpine,True,6.0,35.83,30.812,30.664,,False,False,4041.476,2,Saudi Arabian Grand Prix
+OCO,4.0,97.375,1.0,MEDIUM,4.0,1,True,Alpine,True,6.0,36.732,30.718,29.925,,False,False,4138.851,2,Saudi Arabian Grand Prix
+OCO,5.0,96.156,1.0,MEDIUM,5.0,1,True,Alpine,True,6.0,35.668,30.634,29.854,,False,False,4235.007,2,Saudi Arabian Grand Prix
+OCO,6.0,96.203,1.0,MEDIUM,6.0,1,True,Alpine,True,6.0,35.924,30.558,29.721,,False,False,4331.21,2,Saudi Arabian Grand Prix
+OCO,7.0,98.257,1.0,MEDIUM,7.0,1,True,Alpine,True,7.0,37.409,30.61,30.238,,False,False,4429.467,2,Saudi Arabian Grand Prix
+OCO,8.0,98.419,1.0,MEDIUM,8.0,1,True,Alpine,True,7.0,35.689,32.386,30.344,,False,False,4527.886,2,Saudi Arabian Grand Prix
+OCO,9.0,96.745,1.0,MEDIUM,9.0,1,True,Alpine,True,7.0,36.346,30.615,29.784,,False,False,4624.631,2,Saudi Arabian Grand Prix
+OCO,10.0,96.378,1.0,MEDIUM,10.0,1,True,Alpine,True,7.0,35.969,30.561,29.848,,False,False,4721.009,2,Saudi Arabian Grand Prix
+OCO,11.0,96.404,1.0,MEDIUM,11.0,1,True,Alpine,True,7.0,35.937,30.64,29.827,,False,False,4817.413,2,Saudi Arabian Grand Prix
+OCO,12.0,96.516,1.0,MEDIUM,12.0,1,True,Alpine,True,7.0,35.924,30.733,29.859,,False,False,4913.929,2,Saudi Arabian Grand Prix
+OCO,13.0,97.103,1.0,MEDIUM,13.0,1,True,Alpine,True,7.0,36.023,30.914,30.166,,False,False,5011.032,2,Saudi Arabian Grand Prix
+OCO,14.0,97.502,1.0,MEDIUM,14.0,1,True,Alpine,True,8.0,36.312,30.985,30.205,,False,False,5108.534,2,Saudi Arabian Grand Prix
+OCO,15.0,97.257,1.0,MEDIUM,15.0,1,True,Alpine,True,8.0,35.981,31.011,30.265,,False,False,5205.791,2,Saudi Arabian Grand Prix
+OCO,16.0,126.558,1.0,MEDIUM,16.0,1264,False,Alpine,True,9.0,36.067,41.295,49.196,,True,False,5332.349,2,Saudi Arabian Grand Prix
+OCO,17.0,145.977,2.0,HARD,1.0,4,False,Alpine,True,11.0,56.836,37.92,51.221,,False,True,5478.326,2,Saudi Arabian Grand Prix
+OCO,18.0,159.524,2.0,HARD,2.0,4,False,Alpine,True,11.0,50.86,50.852,57.812,,False,False,5637.85,2,Saudi Arabian Grand Prix
+OCO,19.0,150.205,2.0,HARD,3.0,4,False,Alpine,True,11.0,50.997,47.184,52.024,,False,False,5788.055,2,Saudi Arabian Grand Prix
+OCO,20.0,151.199,2.0,HARD,4.0,41,False,Alpine,True,11.0,46.976,45.493,58.73,,False,False,5939.254,2,Saudi Arabian Grand Prix
+OCO,21.0,98.207,2.0,HARD,5.0,1,True,Alpine,True,11.0,37.095,31.013,30.099,,False,False,6037.461,2,Saudi Arabian Grand Prix
+OCO,22.0,97.099,2.0,HARD,6.0,1,True,Alpine,True,11.0,36.384,30.783,29.932,,False,False,6134.56,2,Saudi Arabian Grand Prix
+OCO,23.0,95.673,2.0,HARD,7.0,1,True,Alpine,True,11.0,35.87,30.459,29.344,,False,False,6230.233,2,Saudi Arabian Grand Prix
+OCO,24.0,96.421,2.0,HARD,8.0,1,True,Alpine,True,11.0,36.133,30.441,29.847,,False,False,6326.654,2,Saudi Arabian Grand Prix
+OCO,25.0,95.232,2.0,HARD,9.0,1,True,Alpine,True,10.0,35.267,30.312,29.653,,False,False,6421.886,2,Saudi Arabian Grand Prix
+OCO,26.0,95.18,2.0,HARD,10.0,1,True,Alpine,True,10.0,35.374,30.214,29.592,,False,False,6517.066,2,Saudi Arabian Grand Prix
+OCO,27.0,95.292,2.0,HARD,11.0,1,True,Alpine,True,10.0,35.262,30.301,29.729,,False,False,6612.358,2,Saudi Arabian Grand Prix
+OCO,28.0,95.109,2.0,HARD,12.0,1,True,Alpine,True,10.0,35.211,30.256,29.642,,False,False,6707.467,2,Saudi Arabian Grand Prix
+OCO,29.0,94.816,2.0,HARD,13.0,1,True,Alpine,True,10.0,35.139,30.143,29.534,,False,False,6802.283,2,Saudi Arabian Grand Prix
+OCO,30.0,94.767,2.0,HARD,14.0,1,True,Alpine,True,10.0,35.087,30.214,29.466,,False,False,6897.05,2,Saudi Arabian Grand Prix
+OCO,31.0,94.551,2.0,HARD,15.0,1,True,Alpine,True,10.0,34.935,30.164,29.452,,False,False,6991.601,2,Saudi Arabian Grand Prix
+OCO,32.0,94.19,2.0,HARD,16.0,1,True,Alpine,True,10.0,34.72,30.06,29.41,,False,False,7085.791,2,Saudi Arabian Grand Prix
+OCO,33.0,94.336,2.0,HARD,17.0,1,True,Alpine,True,10.0,34.735,30.183,29.418,,False,False,7180.127,2,Saudi Arabian Grand Prix
+OCO,34.0,94.524,2.0,HARD,18.0,1,True,Alpine,True,10.0,34.862,30.101,29.561,,False,False,7274.651,2,Saudi Arabian Grand Prix
+OCO,35.0,94.53,2.0,HARD,19.0,1,True,Alpine,True,9.0,34.96,30.095,29.475,,False,False,7369.181,2,Saudi Arabian Grand Prix
+OCO,36.0,94.639,2.0,HARD,20.0,1,True,Alpine,True,8.0,34.939,30.153,29.547,,False,False,7463.82,2,Saudi Arabian Grand Prix
+OCO,37.0,95.25,2.0,HARD,21.0,12,True,Alpine,True,8.0,34.733,30.156,30.361,,False,False,7559.07,2,Saudi Arabian Grand Prix
+OCO,38.0,124.541,2.0,HARD,22.0,26,False,Alpine,True,7.0,41.111,40.236,43.194,,False,False,7683.611,2,Saudi Arabian Grand Prix
+OCO,39.0,126.573,2.0,HARD,23.0,6,False,Alpine,True,7.0,43.185,40.419,42.969,,False,False,7810.184,2,Saudi Arabian Grand Prix
+OCO,40.0,114.968,2.0,HARD,24.0,671,False,Alpine,True,7.0,42.315,41.062,31.591,,False,False,7925.152,2,Saudi Arabian Grand Prix
+OCO,41.0,93.862,2.0,HARD,25.0,1,True,Alpine,True,6.0,34.526,29.996,29.34,,False,False,8019.014,2,Saudi Arabian Grand Prix
+OCO,42.0,93.575,2.0,HARD,26.0,1,True,Alpine,True,6.0,34.3,29.923,29.352,,False,False,8112.589,2,Saudi Arabian Grand Prix
+OCO,43.0,93.47,2.0,HARD,27.0,1,True,Alpine,True,6.0,34.305,29.92,29.245,,False,False,8206.059,2,Saudi Arabian Grand Prix
+OCO,44.0,93.156,2.0,HARD,28.0,1,True,Alpine,True,6.0,34.172,29.823,29.161,,False,False,8299.215,2,Saudi Arabian Grand Prix
+OCO,45.0,93.489,2.0,HARD,29.0,1,True,Alpine,True,6.0,34.335,29.838,29.316,,False,False,8392.704,2,Saudi Arabian Grand Prix
+OCO,46.0,93.103,2.0,HARD,30.0,1,True,Alpine,True,6.0,34.166,29.708,29.229,,False,False,8485.807,2,Saudi Arabian Grand Prix
+OCO,47.0,93.424,2.0,HARD,31.0,1,True,Alpine,True,6.0,34.351,29.787,29.286,,False,False,8579.231,2,Saudi Arabian Grand Prix
+OCO,48.0,94.216,2.0,HARD,32.0,12,True,Alpine,True,7.0,34.568,29.903,29.745,,False,False,8673.447,2,Saudi Arabian Grand Prix
+OCO,49.0,95.218,2.0,HARD,33.0,2,True,Alpine,True,7.0,35.961,29.905,29.352,,False,False,8768.665,2,Saudi Arabian Grand Prix
+OCO,50.0,94.439,2.0,HARD,34.0,2,True,Alpine,True,6.0,34.842,29.991,29.606,,False,False,8863.104,2,Saudi Arabian Grand Prix
+NOR,1.0,103.333,1.0,MEDIUM,1.0,1,False,McLaren,True,11.0,,31.309,30.298,,False,False,3851.127,2,Saudi Arabian Grand Prix
+NOR,2.0,98.03,1.0,MEDIUM,2.0,1,True,McLaren,True,10.0,37.052,30.954,30.024,,False,False,3949.157,2,Saudi Arabian Grand Prix
+NOR,3.0,97.08,1.0,MEDIUM,3.0,1,True,McLaren,True,10.0,36.404,30.725,29.951,,False,False,4046.237,2,Saudi Arabian Grand Prix
+NOR,4.0,98.326,1.0,MEDIUM,4.0,1,True,McLaren,True,11.0,36.779,31.029,30.518,,False,False,4144.563,2,Saudi Arabian Grand Prix
+NOR,5.0,98.312,1.0,MEDIUM,5.0,1,True,McLaren,True,11.0,37.38,30.832,30.1,,False,False,4242.875,2,Saudi Arabian Grand Prix
+NOR,6.0,96.917,1.0,MEDIUM,6.0,1,True,McLaren,True,11.0,36.407,30.525,29.985,,False,False,4339.792,2,Saudi Arabian Grand Prix
+NOR,7.0,96.899,1.0,MEDIUM,7.0,1,True,McLaren,True,11.0,36.243,30.556,30.1,,False,False,4436.691,2,Saudi Arabian Grand Prix
+NOR,8.0,97.22,1.0,MEDIUM,8.0,1,True,McLaren,True,11.0,36.29,30.769,30.161,,False,False,4533.911,2,Saudi Arabian Grand Prix
+NOR,9.0,97.169,1.0,MEDIUM,9.0,1,True,McLaren,True,11.0,36.291,30.812,30.066,,False,False,4631.08,2,Saudi Arabian Grand Prix
+NOR,10.0,97.055,1.0,MEDIUM,10.0,1,True,McLaren,True,11.0,36.24,30.684,30.131,,False,False,4728.135,2,Saudi Arabian Grand Prix
+NOR,11.0,97.75,1.0,MEDIUM,11.0,1,True,McLaren,True,12.0,36.591,30.689,30.47,,False,False,4825.885,2,Saudi Arabian Grand Prix
+NOR,12.0,97.266,1.0,MEDIUM,12.0,1,True,McLaren,True,12.0,36.494,30.676,30.096,,False,False,4923.151,2,Saudi Arabian Grand Prix
+NOR,13.0,97.27,1.0,MEDIUM,13.0,1,True,McLaren,True,12.0,36.195,30.846,30.229,,False,False,5020.421,2,Saudi Arabian Grand Prix
+NOR,14.0,97.076,1.0,MEDIUM,14.0,1,True,McLaren,True,12.0,36.02,30.788,30.268,,False,False,5117.497,2,Saudi Arabian Grand Prix
+NOR,15.0,97.115,1.0,MEDIUM,15.0,1,True,McLaren,True,12.0,36.112,30.806,30.197,,False,False,5214.612,2,Saudi Arabian Grand Prix
+NOR,16.0,121.65,1.0,MEDIUM,16.0,1264,False,McLaren,True,11.0,36.109,40.73,44.811,,True,False,5336.262,2,Saudi Arabian Grand Prix
+NOR,17.0,148.586,2.0,HARD,1.0,4,False,McLaren,True,13.0,61.87,37.592,49.124,,False,True,5484.848,2,Saudi Arabian Grand Prix
+NOR,18.0,157.525,2.0,HARD,2.0,4,False,McLaren,True,13.0,47.092,51.3,59.133,,False,False,5642.373,2,Saudi Arabian Grand Prix
+NOR,19.0,153.083,2.0,HARD,3.0,4,False,McLaren,True,13.0,50.31,46.488,56.285,,False,False,5795.456,2,Saudi Arabian Grand Prix
+NOR,20.0,144.586,2.0,HARD,4.0,41,False,McLaren,True,13.0,42.785,45.406,56.395,,False,False,5940.042,2,Saudi Arabian Grand Prix
+NOR,21.0,98.619,2.0,HARD,5.0,1,True,McLaren,True,13.0,37.341,31.096,30.182,,False,False,6038.661,2,Saudi Arabian Grand Prix
+NOR,22.0,97.203,2.0,HARD,6.0,1,True,McLaren,True,13.0,36.436,30.851,29.916,,False,False,6135.864,2,Saudi Arabian Grand Prix
+NOR,23.0,95.949,2.0,HARD,7.0,1,True,McLaren,True,13.0,36.312,30.208,29.429,,False,False,6231.813,2,Saudi Arabian Grand Prix
+NOR,24.0,96.081,2.0,HARD,8.0,1,True,McLaren,True,13.0,36.125,30.311,29.645,,False,False,6327.894,2,Saudi Arabian Grand Prix
+NOR,25.0,96.266,2.0,HARD,9.0,1,True,McLaren,True,13.0,36.367,30.4,29.499,,False,False,6424.16,2,Saudi Arabian Grand Prix
+NOR,26.0,96.292,2.0,HARD,10.0,1,True,McLaren,True,13.0,36.731,30.158,29.403,,False,False,6520.452,2,Saudi Arabian Grand Prix
+NOR,27.0,95.606,2.0,HARD,11.0,1,True,McLaren,True,13.0,35.851,30.134,29.621,,False,False,6616.058,2,Saudi Arabian Grand Prix
+NOR,28.0,95.293,2.0,HARD,12.0,1,True,McLaren,True,12.0,35.412,30.197,29.684,,False,False,6711.351,2,Saudi Arabian Grand Prix
+NOR,29.0,95.152,2.0,HARD,13.0,1,True,McLaren,True,12.0,35.295,30.12,29.737,,False,False,6806.503,2,Saudi Arabian Grand Prix
+NOR,30.0,94.91,2.0,HARD,14.0,1,True,McLaren,True,12.0,35.15,30.052,29.708,,False,False,6901.413,2,Saudi Arabian Grand Prix
+NOR,31.0,94.908,2.0,HARD,15.0,1,True,McLaren,True,12.0,35.103,30.102,29.703,,False,False,6996.321,2,Saudi Arabian Grand Prix
+NOR,32.0,94.721,2.0,HARD,16.0,1,True,McLaren,True,12.0,35.082,30.009,29.63,,False,False,7091.042,2,Saudi Arabian Grand Prix
+NOR,33.0,94.34,2.0,HARD,17.0,1,True,McLaren,True,12.0,34.905,29.975,29.46,,False,False,7185.382,2,Saudi Arabian Grand Prix
+NOR,34.0,94.233,2.0,HARD,18.0,1,True,McLaren,True,12.0,34.859,29.901,29.473,,False,False,7279.615,2,Saudi Arabian Grand Prix
+NOR,35.0,94.046,2.0,HARD,19.0,1,True,McLaren,True,12.0,34.929,29.981,29.136,,False,False,7373.661,2,Saudi Arabian Grand Prix
+NOR,36.0,94.374,2.0,HARD,20.0,1,True,McLaren,True,9.0,34.748,30.046,29.58,,False,False,7468.035,2,Saudi Arabian Grand Prix
+NOR,37.0,94.729,2.0,HARD,21.0,12,True,McLaren,True,9.0,34.5,29.911,30.318,,False,False,7562.764,2,Saudi Arabian Grand Prix
+NOR,38.0,124.912,2.0,HARD,22.0,26,False,McLaren,True,8.0,40.955,41.323,42.634,,False,False,7687.676,2,Saudi Arabian Grand Prix
+NOR,39.0,126.332,2.0,HARD,23.0,6,False,McLaren,True,8.0,42.235,41.722,42.375,,False,False,7814.008,2,Saudi Arabian Grand Prix
+NOR,40.0,113.383,2.0,HARD,24.0,671,False,McLaren,True,8.0,42.797,40.752,29.834,,False,False,7927.391,2,Saudi Arabian Grand Prix
+NOR,41.0,93.635,2.0,HARD,25.0,1,True,McLaren,True,7.0,34.484,29.851,29.3,,False,False,8021.026,2,Saudi Arabian Grand Prix
+NOR,42.0,93.247,2.0,HARD,26.0,1,True,McLaren,True,7.0,34.253,29.653,29.341,,False,False,8114.273,2,Saudi Arabian Grand Prix
+NOR,43.0,93.026,2.0,HARD,27.0,1,True,McLaren,True,7.0,34.204,29.557,29.265,,False,False,8207.299,2,Saudi Arabian Grand Prix
+NOR,44.0,93.295,2.0,HARD,28.0,1,True,McLaren,True,7.0,34.447,29.637,29.211,,False,False,8300.594,2,Saudi Arabian Grand Prix
+NOR,45.0,92.951,2.0,HARD,29.0,1,True,McLaren,True,7.0,34.246,29.578,29.127,,False,False,8393.545,2,Saudi Arabian Grand Prix
+NOR,46.0,92.753,2.0,HARD,30.0,1,True,McLaren,True,7.0,34.234,29.479,29.04,,False,False,8486.298,2,Saudi Arabian Grand Prix
+NOR,47.0,93.244,2.0,HARD,31.0,1,True,McLaren,True,7.0,34.519,29.526,29.199,,False,False,8579.542,2,Saudi Arabian Grand Prix
+NOR,48.0,93.786,2.0,HARD,32.0,12,True,McLaren,True,6.0,34.803,29.602,29.381,,False,False,8673.328,2,Saudi Arabian Grand Prix
+NOR,49.0,95.129,2.0,HARD,33.0,2,True,McLaren,True,6.0,35.807,29.782,29.54,,False,False,8768.457,2,Saudi Arabian Grand Prix
+NOR,50.0,94.754,2.0,HARD,34.0,2,True,McLaren,True,7.0,35.546,29.74,29.468,,False,False,8863.211,2,Saudi Arabian Grand Prix
+HAM,1.0,104.788,1.0,HARD,2.0,1,False,Mercedes,False,14.0,,31.465,30.728,,False,False,3852.582,2,Saudi Arabian Grand Prix
+HAM,2.0,98.649,1.0,HARD,3.0,1,True,Mercedes,False,14.0,37.272,31.107,30.27,,False,False,3951.231,2,Saudi Arabian Grand Prix
+HAM,3.0,97.618,1.0,HARD,4.0,1,True,Mercedes,False,14.0,36.801,30.809,30.008,,False,False,4048.849,2,Saudi Arabian Grand Prix
+HAM,4.0,97.706,1.0,HARD,5.0,1,True,Mercedes,False,14.0,36.83,30.643,30.233,,False,False,4146.555,2,Saudi Arabian Grand Prix
+HAM,5.0,97.984,1.0,HARD,6.0,1,True,Mercedes,False,14.0,37.317,30.66,30.007,,False,False,4244.539,2,Saudi Arabian Grand Prix
+HAM,6.0,97.275,1.0,HARD,7.0,1,True,Mercedes,False,14.0,36.816,30.574,29.885,,False,False,4341.814,2,Saudi Arabian Grand Prix
+HAM,7.0,97.204,1.0,HARD,8.0,1,True,Mercedes,False,14.0,36.544,30.78,29.88,,False,False,4439.018,2,Saudi Arabian Grand Prix
+HAM,8.0,97.073,1.0,HARD,9.0,1,True,Mercedes,False,13.0,36.676,30.591,29.806,,False,False,4536.091,2,Saudi Arabian Grand Prix
+HAM,9.0,96.698,1.0,HARD,10.0,1,True,Mercedes,False,12.0,36.231,30.521,29.946,,False,False,4632.789,2,Saudi Arabian Grand Prix
+HAM,10.0,95.812,1.0,HARD,11.0,1,True,Mercedes,False,12.0,35.691,30.425,29.696,,False,False,4728.601,2,Saudi Arabian Grand Prix
+HAM,11.0,96.957,1.0,HARD,12.0,1,True,Mercedes,False,11.0,36.61,30.406,29.941,,False,False,4825.558,2,Saudi Arabian Grand Prix
+HAM,12.0,95.788,1.0,HARD,13.0,1,True,Mercedes,False,11.0,35.53,30.408,29.85,,False,False,4921.346,2,Saudi Arabian Grand Prix
+HAM,13.0,95.507,1.0,HARD,14.0,1,True,Mercedes,False,11.0,35.664,30.193,29.65,,False,False,5016.853,2,Saudi Arabian Grand Prix
+HAM,14.0,95.648,1.0,HARD,15.0,1,True,Mercedes,False,10.0,35.286,30.432,29.93,,False,False,5112.501,2,Saudi Arabian Grand Prix
+HAM,15.0,95.875,1.0,HARD,16.0,1,True,Mercedes,False,10.0,35.508,30.462,29.905,,False,False,5208.376,2,Saudi Arabian Grand Prix
+HAM,16.0,124.362,1.0,HARD,17.0,1264,False,Mercedes,False,10.0,35.717,41.872,46.773,,False,False,5332.738,2,Saudi Arabian Grand Prix
+HAM,17.0,139.823,1.0,HARD,18.0,4,False,Mercedes,False,7.0,38.099,41.089,60.635,,False,False,5472.561,2,Saudi Arabian Grand Prix
+HAM,18.0,158.803,1.0,HARD,19.0,4,False,Mercedes,False,7.0,52.082,50.509,56.212,,False,False,5631.364,2,Saudi Arabian Grand Prix
+HAM,19.0,149.683,1.0,HARD,20.0,4,False,Mercedes,False,7.0,51.837,47.491,50.355,,False,False,5781.047,2,Saudi Arabian Grand Prix
+HAM,20.0,156.491,1.0,HARD,21.0,41,False,Mercedes,False,7.0,49.258,45.038,62.195,,False,False,5937.538,2,Saudi Arabian Grand Prix
+HAM,21.0,97.339,1.0,HARD,22.0,1,True,Mercedes,False,7.0,36.945,30.409,29.985,,False,False,6034.877,2,Saudi Arabian Grand Prix
+HAM,22.0,95.996,1.0,HARD,23.0,1,True,Mercedes,False,7.0,36.004,30.171,29.821,,False,False,6130.873,2,Saudi Arabian Grand Prix
+HAM,23.0,94.928,1.0,HARD,24.0,1,True,Mercedes,False,6.0,35.34,30.022,29.566,,False,False,6225.801,2,Saudi Arabian Grand Prix
+HAM,24.0,95.876,1.0,HARD,25.0,1,True,Mercedes,False,7.0,36.246,29.995,29.635,,False,False,6321.677,2,Saudi Arabian Grand Prix
+HAM,25.0,94.82,1.0,HARD,26.0,1,True,Mercedes,False,6.0,35.059,30.197,29.564,,False,False,6416.497,2,Saudi Arabian Grand Prix
+HAM,26.0,94.544,1.0,HARD,27.0,1,True,Mercedes,False,6.0,35.089,29.899,29.556,,False,False,6511.041,2,Saudi Arabian Grand Prix
+HAM,27.0,94.699,1.0,HARD,28.0,1,True,Mercedes,False,6.0,34.982,30.071,29.646,,False,False,6605.74,2,Saudi Arabian Grand Prix
+HAM,28.0,94.266,1.0,HARD,29.0,1,True,Mercedes,False,6.0,34.765,29.956,29.545,,False,False,6700.006,2,Saudi Arabian Grand Prix
+HAM,29.0,94.189,1.0,HARD,30.0,1,True,Mercedes,False,6.0,34.88,29.876,29.433,,False,False,6794.195,2,Saudi Arabian Grand Prix
+HAM,30.0,94.074,1.0,HARD,31.0,1,True,Mercedes,False,6.0,34.699,29.93,29.445,,False,False,6888.269,2,Saudi Arabian Grand Prix
+HAM,31.0,94.159,1.0,HARD,32.0,1,True,Mercedes,False,6.0,34.804,29.822,29.533,,False,False,6982.428,2,Saudi Arabian Grand Prix
+HAM,32.0,93.911,1.0,HARD,33.0,1,True,Mercedes,False,6.0,34.646,29.873,29.392,,False,False,7076.339,2,Saudi Arabian Grand Prix
+HAM,33.0,93.937,1.0,HARD,34.0,1,True,Mercedes,False,6.0,34.716,29.842,29.379,,False,False,7170.276,2,Saudi Arabian Grand Prix
+HAM,34.0,93.746,1.0,HARD,35.0,1,True,Mercedes,False,6.0,34.645,29.759,29.342,,False,False,7264.022,2,Saudi Arabian Grand Prix
+HAM,35.0,94.144,1.0,HARD,36.0,1,True,Mercedes,False,6.0,34.729,29.985,29.43,,False,False,7358.166,2,Saudi Arabian Grand Prix
+HAM,36.0,93.79,1.0,HARD,37.0,1,True,Mercedes,False,6.0,34.593,29.792,29.405,,False,False,7451.956,2,Saudi Arabian Grand Prix
+HAM,37.0,98.059,1.0,HARD,38.0,12,True,Mercedes,False,6.0,34.56,29.78,33.719,,False,False,7550.015,2,Saudi Arabian Grand Prix
+HAM,38.0,120.592,1.0,HARD,39.0,26,False,Mercedes,False,6.0,36.641,42.674,41.277,,False,False,7670.607,2,Saudi Arabian Grand Prix
+HAM,39.0,126.598,1.0,HARD,40.0,6,False,Mercedes,False,6.0,42.841,42.406,41.351,,False,False,7797.205,2,Saudi Arabian Grand Prix
+HAM,40.0,123.425,1.0,HARD,41.0,671,False,Mercedes,False,6.0,42.991,42.269,38.165,,True,False,7920.63,2,Saudi Arabian Grand Prix
+HAM,41.0,113.062,2.0,MEDIUM,1.0,1,False,Mercedes,True,12.0,54.235,29.635,29.192,,False,True,8033.692,2,Saudi Arabian Grand Prix
+HAM,42.0,93.982,2.0,MEDIUM,2.0,1,True,Mercedes,True,12.0,34.705,29.768,29.509,,False,False,8127.674,2,Saudi Arabian Grand Prix
+HAM,43.0,93.945,2.0,MEDIUM,3.0,1,True,Mercedes,True,11.0,34.83,29.686,29.429,,False,False,8221.619,2,Saudi Arabian Grand Prix
+HAM,44.0,95.048,2.0,MEDIUM,4.0,1,True,Mercedes,True,11.0,35.862,29.833,29.353,,False,False,8316.667,2,Saudi Arabian Grand Prix
+HAM,45.0,93.379,2.0,MEDIUM,5.0,1,True,Mercedes,True,10.0,34.456,29.647,29.276,,False,False,8410.046,2,Saudi Arabian Grand Prix
+HAM,46.0,93.289,2.0,MEDIUM,6.0,1,True,Mercedes,True,10.0,34.411,29.561,29.317,,False,False,8503.335,2,Saudi Arabian Grand Prix
+HAM,47.0,92.997,2.0,MEDIUM,7.0,1,True,Mercedes,True,10.0,34.264,29.593,29.14,,False,False,8596.332,2,Saudi Arabian Grand Prix
+HAM,48.0,93.185,2.0,MEDIUM,8.0,12,True,Mercedes,True,10.0,34.272,29.528,29.385,,False,False,8689.517,2,Saudi Arabian Grand Prix
+HAM,49.0,95.663,2.0,MEDIUM,9.0,2,True,Mercedes,True,10.0,35.737,29.912,30.014,,False,False,8785.18,2,Saudi Arabian Grand Prix
+HAM,50.0,95.855,2.0,MEDIUM,10.0,2,True,Mercedes,True,10.0,36.29,29.987,29.578,,False,False,8881.035,2,Saudi Arabian Grand Prix
+SAI,1.0,98.635,1.0,MEDIUM,1.0,1,False,Ferrari,True,4.0,,30.386,29.747,,False,False,3846.429,2,Saudi Arabian Grand Prix
+SAI,2.0,95.499,1.0,MEDIUM,2.0,1,True,Ferrari,True,4.0,35.605,30.217,29.677,,False,False,3941.928,2,Saudi Arabian Grand Prix
+SAI,3.0,95.46,1.0,MEDIUM,3.0,1,True,Ferrari,True,4.0,35.341,30.263,29.856,,False,False,4037.388,2,Saudi Arabian Grand Prix
+SAI,4.0,95.321,1.0,MEDIUM,4.0,1,True,Ferrari,True,4.0,35.164,30.4,29.757,,False,False,4132.709,2,Saudi Arabian Grand Prix
+SAI,5.0,95.124,1.0,MEDIUM,5.0,1,True,Ferrari,True,4.0,35.177,30.268,29.679,,False,False,4227.833,2,Saudi Arabian Grand Prix
+SAI,6.0,95.165,1.0,MEDIUM,6.0,1,True,Ferrari,True,4.0,35.159,30.432,29.574,,False,False,4322.998,2,Saudi Arabian Grand Prix
+SAI,7.0,95.058,1.0,MEDIUM,7.0,1,True,Ferrari,True,4.0,35.091,30.253,29.714,,False,False,4418.056,2,Saudi Arabian Grand Prix
+SAI,8.0,94.921,1.0,MEDIUM,8.0,1,True,Ferrari,True,4.0,35.056,30.313,29.552,,False,False,4512.977,2,Saudi Arabian Grand Prix
+SAI,9.0,94.729,1.0,MEDIUM,9.0,1,True,Ferrari,True,4.0,34.919,30.192,29.618,,False,False,4607.706,2,Saudi Arabian Grand Prix
+SAI,10.0,95.133,1.0,MEDIUM,10.0,1,True,Ferrari,True,4.0,35.015,30.311,29.807,,False,False,4702.839,2,Saudi Arabian Grand Prix
+SAI,11.0,94.977,1.0,MEDIUM,11.0,1,True,Ferrari,True,4.0,34.95,30.248,29.779,,False,False,4797.816,2,Saudi Arabian Grand Prix
+SAI,12.0,95.082,1.0,MEDIUM,12.0,1,True,Ferrari,True,4.0,35.062,30.268,29.752,,False,False,4892.898,2,Saudi Arabian Grand Prix
+SAI,13.0,95.101,1.0,MEDIUM,13.0,1,True,Ferrari,True,4.0,34.969,30.328,29.804,,False,False,4987.999,2,Saudi Arabian Grand Prix
+SAI,14.0,95.275,1.0,MEDIUM,14.0,1,True,Ferrari,True,4.0,35.028,30.443,29.804,,False,False,5083.274,2,Saudi Arabian Grand Prix
+SAI,15.0,95.421,1.0,MEDIUM,15.0,1,True,Ferrari,True,4.0,35.034,30.483,29.904,,False,False,5178.695,2,Saudi Arabian Grand Prix
+SAI,16.0,106.94,1.0,MEDIUM,16.0,1264,False,Ferrari,True,3.0,35.102,30.521,41.317,,True,False,5285.635,2,Saudi Arabian Grand Prix
+SAI,17.0,180.804,2.0,HARD,1.0,4,False,Ferrari,True,4.0,68.752,46.939,65.113,,False,True,5466.439,2,Saudi Arabian Grand Prix
+SAI,18.0,159.577,2.0,HARD,2.0,4,False,Ferrari,True,4.0,54.039,48.407,57.131,,False,False,5626.016,2,Saudi Arabian Grand Prix
+SAI,19.0,149.065,2.0,HARD,3.0,4,False,Ferrari,True,4.0,52.04,46.787,50.238,,False,False,5775.081,2,Saudi Arabian Grand Prix
+SAI,20.0,160.994,2.0,HARD,4.0,41,False,Ferrari,True,4.0,51.047,45.116,64.831,,False,False,5936.075,2,Saudi Arabian Grand Prix
+SAI,21.0,95.949,2.0,HARD,5.0,1,True,Ferrari,True,3.0,36.201,30.227,29.521,,False,False,6032.024,2,Saudi Arabian Grand Prix
+SAI,22.0,94.295,2.0,HARD,6.0,1,True,Ferrari,True,3.0,34.837,30.042,29.416,,False,False,6126.319,2,Saudi Arabian Grand Prix
+SAI,23.0,93.857,2.0,HARD,7.0,1,True,Ferrari,True,3.0,34.643,29.984,29.23,,False,False,6220.176,2,Saudi Arabian Grand Prix
+SAI,24.0,93.636,2.0,HARD,8.0,1,True,Ferrari,True,3.0,34.514,29.852,29.27,,False,False,6313.812,2,Saudi Arabian Grand Prix
+SAI,25.0,93.575,2.0,HARD,9.0,1,True,Ferrari,True,3.0,34.465,29.846,29.264,,False,False,6407.387,2,Saudi Arabian Grand Prix
+SAI,26.0,93.181,2.0,HARD,10.0,1,True,Ferrari,True,3.0,34.229,29.751,29.201,,False,False,6500.568,2,Saudi Arabian Grand Prix
+SAI,27.0,93.705,2.0,HARD,11.0,1,True,Ferrari,True,3.0,34.681,29.803,29.221,,False,False,6594.273,2,Saudi Arabian Grand Prix
+SAI,28.0,93.231,2.0,HARD,12.0,1,True,Ferrari,True,3.0,34.308,29.627,29.296,,False,False,6687.504,2,Saudi Arabian Grand Prix
+SAI,29.0,93.582,2.0,HARD,13.0,1,True,Ferrari,True,3.0,34.486,29.799,29.297,,False,False,6781.086,2,Saudi Arabian Grand Prix
+SAI,30.0,93.004,2.0,HARD,14.0,1,True,Ferrari,True,3.0,34.176,29.68,29.148,,False,False,6874.09,2,Saudi Arabian Grand Prix
+SAI,31.0,93.041,2.0,HARD,15.0,1,True,Ferrari,True,3.0,34.223,29.653,29.165,,False,False,6967.131,2,Saudi Arabian Grand Prix
+SAI,32.0,92.904,2.0,HARD,16.0,1,True,Ferrari,True,3.0,34.173,29.635,29.096,,False,False,7060.035,2,Saudi Arabian Grand Prix
+SAI,33.0,93.007,2.0,HARD,17.0,1,True,Ferrari,True,3.0,34.147,29.656,29.204,,False,False,7153.042,2,Saudi Arabian Grand Prix
+SAI,34.0,93.006,2.0,HARD,18.0,1,True,Ferrari,True,3.0,34.155,29.659,29.192,,False,False,7246.048,2,Saudi Arabian Grand Prix
+SAI,35.0,93.201,2.0,HARD,19.0,1,True,Ferrari,True,3.0,34.505,29.611,29.085,,False,False,7339.249,2,Saudi Arabian Grand Prix
+SAI,36.0,93.099,2.0,HARD,20.0,1,True,Ferrari,True,3.0,34.153,29.72,29.226,,False,False,7432.348,2,Saudi Arabian Grand Prix
+SAI,37.0,92.795,2.0,HARD,21.0,12,True,Ferrari,True,3.0,34.016,29.423,29.356,,False,False,7525.143,2,Saudi Arabian Grand Prix
+SAI,38.0,113.588,2.0,HARD,22.0,26,False,Ferrari,True,3.0,34.018,36.026,43.544,,False,False,7638.731,2,Saudi Arabian Grand Prix
+SAI,39.0,125.071,2.0,HARD,23.0,6,False,Ferrari,True,3.0,40.538,42.672,41.861,,False,False,7763.802,2,Saudi Arabian Grand Prix
+SAI,40.0,125.576,2.0,HARD,24.0,67,False,Ferrari,True,3.0,42.353,44.325,38.898,,False,False,7889.378,2,Saudi Arabian Grand Prix
+SAI,41.0,95.353,2.0,HARD,25.0,71,False,Ferrari,True,3.0,36.496,29.68,29.177,,False,False,7984.731,2,Saudi Arabian Grand Prix
+SAI,42.0,92.272,2.0,HARD,26.0,1,True,Ferrari,True,3.0,33.833,29.38,29.059,,False,False,8077.003,2,Saudi Arabian Grand Prix
+SAI,43.0,92.436,2.0,HARD,27.0,1,True,Ferrari,True,3.0,33.896,29.485,29.055,,False,False,8169.439,2,Saudi Arabian Grand Prix
+SAI,44.0,92.27,2.0,HARD,28.0,1,True,Ferrari,True,3.0,33.875,29.382,29.013,,False,False,8261.709,2,Saudi Arabian Grand Prix
+SAI,45.0,92.242,2.0,HARD,29.0,1,True,Ferrari,True,3.0,33.788,29.421,29.033,,False,False,8353.951,2,Saudi Arabian Grand Prix
+SAI,46.0,92.384,2.0,HARD,30.0,1,True,Ferrari,True,3.0,33.915,29.391,29.078,,False,False,8446.335,2,Saudi Arabian Grand Prix
+SAI,47.0,92.271,2.0,HARD,31.0,1,True,Ferrari,True,3.0,33.961,29.364,28.946,,False,False,8538.606,2,Saudi Arabian Grand Prix
+SAI,48.0,91.905,2.0,HARD,32.0,12,True,Ferrari,True,3.0,33.759,29.262,28.884,,False,False,8630.511,2,Saudi Arabian Grand Prix
+SAI,49.0,92.008,2.0,HARD,33.0,12,True,Ferrari,True,3.0,33.906,29.297,28.805,,False,False,8722.519,2,Saudi Arabian Grand Prix
+SAI,50.0,92.665,2.0,HARD,34.0,2,True,Ferrari,True,3.0,34.04,29.487,29.138,,False,False,8815.184,2,Saudi Arabian Grand Prix
+LAT,1.0,106.377,1.0,MEDIUM,1.0,1,False,Williams,True,17.0,,31.688,30.669,,False,False,3854.171,2,Saudi Arabian Grand Prix
+LAT,2.0,100.289,1.0,MEDIUM,2.0,1,True,Williams,True,18.0,37.912,31.569,30.808,,False,False,3954.46,2,Saudi Arabian Grand Prix
+LAT,3.0,98.121,1.0,MEDIUM,3.0,1,True,Williams,True,18.0,36.906,31.004,30.211,,False,False,4052.581,2,Saudi Arabian Grand Prix
+LAT,4.0,98.161,1.0,MEDIUM,4.0,1,True,Williams,True,18.0,36.753,31.035,30.373,,False,False,4150.742,2,Saudi Arabian Grand Prix
+LAT,5.0,98.662,1.0,MEDIUM,5.0,1,True,Williams,True,18.0,37.204,31.061,30.397,,False,False,4249.404,2,Saudi Arabian Grand Prix
+LAT,6.0,98.507,1.0,MEDIUM,6.0,1,True,Williams,True,18.0,37.074,31.152,30.281,,False,False,4347.911,2,Saudi Arabian Grand Prix
+LAT,7.0,98.018,1.0,MEDIUM,7.0,1,True,Williams,True,18.0,36.73,30.935,30.353,,False,False,4445.929,2,Saudi Arabian Grand Prix
+LAT,8.0,98.093,1.0,MEDIUM,8.0,1,True,Williams,True,18.0,36.72,31.105,30.268,,False,False,4544.022,2,Saudi Arabian Grand Prix
+LAT,9.0,97.53,1.0,MEDIUM,9.0,1,True,Williams,True,17.0,36.446,30.932,30.152,,False,False,4641.552,2,Saudi Arabian Grand Prix
+LAT,10.0,97.558,1.0,MEDIUM,10.0,1,True,Williams,True,17.0,36.465,30.971,30.122,,False,False,4739.11,2,Saudi Arabian Grand Prix
+LAT,11.0,97.736,1.0,MEDIUM,11.0,1,True,Williams,True,17.0,36.633,30.932,30.171,,False,False,4836.846,2,Saudi Arabian Grand Prix
+LAT,12.0,98.597,1.0,MEDIUM,12.0,1,True,Williams,True,17.0,36.977,31.241,30.379,,False,False,4935.443,2,Saudi Arabian Grand Prix
+LAT,13.0,98.208,1.0,MEDIUM,13.0,1,True,Williams,True,16.0,36.788,31.06,30.36,,False,False,5033.651,2,Saudi Arabian Grand Prix
+LAT,14.0,98.409,1.0,MEDIUM,14.0,1,True,Williams,True,15.0,36.446,31.15,30.813,,False,False,5132.06,2,Saudi Arabian Grand Prix
+LAT,15.0,,1.0,MEDIUM,15.0,1264,False,Williams,True,,,,,,False,False,5282.06,2,Saudi Arabian Grand Prix
+RUS,1.0,100.421,1.0,MEDIUM,1.0,1,False,Mercedes,True,6.0,,30.738,30.08,,False,False,3848.215,2,Saudi Arabian Grand Prix
+RUS,2.0,96.466,1.0,MEDIUM,2.0,1,True,Mercedes,True,6.0,35.904,30.548,30.014,,False,False,3944.681,2,Saudi Arabian Grand Prix
+RUS,3.0,96.513,1.0,MEDIUM,3.0,1,True,Mercedes,True,5.0,36.18,30.434,29.899,,False,False,4041.194,2,Saudi Arabian Grand Prix
+RUS,4.0,96.341,1.0,MEDIUM,4.0,1,True,Mercedes,True,5.0,35.697,30.384,30.26,,False,False,4137.535,2,Saudi Arabian Grand Prix
+RUS,5.0,96.096,1.0,MEDIUM,5.0,1,True,Mercedes,True,5.0,35.585,30.375,30.136,,False,False,4233.631,2,Saudi Arabian Grand Prix
+RUS,6.0,96.246,1.0,MEDIUM,6.0,1,True,Mercedes,True,5.0,35.598,30.554,30.094,,False,False,4329.877,2,Saudi Arabian Grand Prix
+RUS,7.0,96.111,1.0,MEDIUM,7.0,1,True,Mercedes,True,5.0,35.432,30.602,30.077,,False,False,4425.988,2,Saudi Arabian Grand Prix
+RUS,8.0,95.722,1.0,MEDIUM,8.0,1,True,Mercedes,True,5.0,35.352,30.383,29.987,,False,False,4521.71,2,Saudi Arabian Grand Prix
+RUS,9.0,95.906,1.0,MEDIUM,9.0,1,True,Mercedes,True,5.0,35.369,30.419,30.118,,False,False,4617.616,2,Saudi Arabian Grand Prix
+RUS,10.0,95.593,1.0,MEDIUM,10.0,1,True,Mercedes,True,5.0,35.192,30.364,30.037,,False,False,4713.209,2,Saudi Arabian Grand Prix
+RUS,11.0,95.384,1.0,MEDIUM,11.0,1,True,Mercedes,True,5.0,35.042,30.336,30.006,,False,False,4808.593,2,Saudi Arabian Grand Prix
+RUS,12.0,95.741,1.0,MEDIUM,12.0,1,True,Mercedes,True,5.0,35.161,30.545,30.035,,False,False,4904.334,2,Saudi Arabian Grand Prix
+RUS,13.0,95.681,1.0,MEDIUM,13.0,1,True,Mercedes,True,5.0,35.185,30.467,30.029,,False,False,5000.015,2,Saudi Arabian Grand Prix
+RUS,14.0,95.476,1.0,MEDIUM,14.0,1,True,Mercedes,True,5.0,35.1,30.383,29.993,,False,False,5095.491,2,Saudi Arabian Grand Prix
+RUS,15.0,95.453,1.0,MEDIUM,15.0,1,True,Mercedes,True,5.0,35.035,30.423,29.995,,False,False,5190.944,2,Saudi Arabian Grand Prix
+RUS,16.0,111.651,1.0,MEDIUM,16.0,1264,False,Mercedes,True,5.0,35.05,30.507,46.094,,True,False,5302.595,2,Saudi Arabian Grand Prix
+RUS,17.0,167.014,2.0,HARD,1.0,4,False,Mercedes,True,5.0,57.891,44.76,64.363,,False,True,5469.609,2,Saudi Arabian Grand Prix
+RUS,18.0,158.678,2.0,HARD,2.0,4,False,Mercedes,True,5.0,52.692,49.138,56.848,,False,False,5628.287,2,Saudi Arabian Grand Prix
+RUS,19.0,149.081,2.0,HARD,3.0,4,False,Mercedes,True,5.0,51.814,46.458,50.809,,False,False,5777.368,2,Saudi Arabian Grand Prix
+RUS,20.0,159.288,2.0,HARD,4.0,41,False,Mercedes,True,5.0,50.896,44.662,63.73,,False,False,5936.656,2,Saudi Arabian Grand Prix
+RUS,21.0,97.115,2.0,HARD,5.0,1,True,Mercedes,True,5.0,36.87,30.323,29.922,,False,False,6033.771,2,Saudi Arabian Grand Prix
+RUS,22.0,94.801,2.0,HARD,6.0,1,True,Mercedes,True,5.0,35.255,30.072,29.474,,False,False,6128.572,2,Saudi Arabian Grand Prix
+RUS,23.0,94.184,2.0,HARD,7.0,1,True,Mercedes,True,5.0,34.751,29.866,29.567,,False,False,6222.756,2,Saudi Arabian Grand Prix
+RUS,24.0,94.89,2.0,HARD,8.0,1,True,Mercedes,True,5.0,35.111,30.196,29.583,,False,False,6317.646,2,Saudi Arabian Grand Prix
+RUS,25.0,94.288,2.0,HARD,9.0,1,True,Mercedes,True,5.0,34.814,29.946,29.528,,False,False,6411.934,2,Saudi Arabian Grand Prix
+RUS,26.0,93.968,2.0,HARD,10.0,1,True,Mercedes,True,5.0,34.658,29.817,29.493,,False,False,6505.902,2,Saudi Arabian Grand Prix
+RUS,27.0,94.044,2.0,HARD,11.0,1,True,Mercedes,True,5.0,34.652,29.929,29.463,,False,False,6599.946,2,Saudi Arabian Grand Prix
+RUS,28.0,94.083,2.0,HARD,12.0,1,True,Mercedes,True,5.0,34.684,29.862,29.537,,False,False,6694.029,2,Saudi Arabian Grand Prix
+RUS,29.0,94.072,2.0,HARD,13.0,1,True,Mercedes,True,5.0,34.768,29.754,29.55,,False,False,6788.101,2,Saudi Arabian Grand Prix
+RUS,30.0,94.004,2.0,HARD,14.0,1,True,Mercedes,True,5.0,34.714,29.821,29.469,,False,False,6882.105,2,Saudi Arabian Grand Prix
+RUS,31.0,94.002,2.0,HARD,15.0,1,True,Mercedes,True,5.0,34.66,29.813,29.529,,False,False,6976.107,2,Saudi Arabian Grand Prix
+RUS,32.0,93.951,2.0,HARD,16.0,1,True,Mercedes,True,5.0,34.628,29.826,29.497,,False,False,7070.058,2,Saudi Arabian Grand Prix
+RUS,33.0,93.742,2.0,HARD,17.0,1,True,Mercedes,True,5.0,34.473,29.838,29.431,,False,False,7163.8,2,Saudi Arabian Grand Prix
+RUS,34.0,93.69,2.0,HARD,18.0,1,True,Mercedes,True,5.0,34.525,29.766,29.399,,False,False,7257.49,2,Saudi Arabian Grand Prix
+RUS,35.0,93.375,2.0,HARD,19.0,1,True,Mercedes,True,5.0,34.365,29.707,29.303,,False,False,7350.865,2,Saudi Arabian Grand Prix
+RUS,36.0,93.434,2.0,HARD,20.0,1,True,Mercedes,True,5.0,34.421,29.716,29.297,,False,False,7444.299,2,Saudi Arabian Grand Prix
+RUS,37.0,93.986,2.0,HARD,21.0,12,True,Mercedes,True,5.0,34.413,29.693,29.88,,False,False,7538.285,2,Saudi Arabian Grand Prix
+RUS,38.0,117.192,2.0,HARD,22.0,26,False,Mercedes,True,5.0,34.331,41.085,41.776,,False,False,7655.477,2,Saudi Arabian Grand Prix
+RUS,39.0,125.56,2.0,HARD,23.0,6,False,Mercedes,True,5.0,41.232,42.846,41.482,,False,False,7781.037,2,Saudi Arabian Grand Prix
+RUS,40.0,124.186,2.0,HARD,24.0,671,False,Mercedes,True,5.0,43.29,41.518,39.378,,False,False,7905.223,2,Saudi Arabian Grand Prix
+RUS,41.0,93.387,2.0,HARD,25.0,1,True,Mercedes,True,5.0,34.401,29.651,29.335,,False,False,7998.61,2,Saudi Arabian Grand Prix
+RUS,42.0,93.668,2.0,HARD,26.0,1,True,Mercedes,True,5.0,34.668,29.68,29.32,,False,False,8092.278,2,Saudi Arabian Grand Prix
+RUS,43.0,92.821,2.0,HARD,27.0,1,True,Mercedes,True,5.0,34.19,29.42,29.211,,False,False,8185.099,2,Saudi Arabian Grand Prix
+RUS,44.0,93.035,2.0,HARD,28.0,1,True,Mercedes,True,5.0,34.23,29.508,29.297,,False,False,8278.134,2,Saudi Arabian Grand Prix
+RUS,45.0,92.931,2.0,HARD,29.0,1,True,Mercedes,True,5.0,34.119,29.54,29.272,,False,False,8371.065,2,Saudi Arabian Grand Prix
+RUS,46.0,93.236,2.0,HARD,30.0,1,True,Mercedes,True,5.0,34.362,29.645,29.229,,False,False,8464.301,2,Saudi Arabian Grand Prix
+RUS,47.0,93.048,2.0,HARD,31.0,1,True,Mercedes,True,5.0,34.329,29.459,29.26,,False,False,8557.349,2,Saudi Arabian Grand Prix
+RUS,48.0,93.345,2.0,HARD,32.0,12,True,Mercedes,True,5.0,34.373,29.688,29.284,,False,False,8650.694,2,Saudi Arabian Grand Prix
+RUS,49.0,93.917,2.0,HARD,33.0,12,True,Mercedes,True,5.0,34.796,29.66,29.461,,False,False,8744.611,2,Saudi Arabian Grand Prix
+RUS,50.0,95.208,2.0,HARD,34.0,2,True,Mercedes,True,5.0,35.126,30.182,29.9,,False,False,8839.819,2,Saudi Arabian Grand Prix
+BOT,1.0,102.123,1.0,MEDIUM,1.0,1,False,Alfa Romeo,True,8.0,,31.168,30.384,,False,False,3849.917,2,Saudi Arabian Grand Prix
+BOT,2.0,97.201,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,8.0,36.258,30.83,30.113,,False,False,3947.118,2,Saudi Arabian Grand Prix
+BOT,3.0,96.29,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,8.0,36.256,30.388,29.646,,False,False,4043.408,2,Saudi Arabian Grand Prix
+BOT,4.0,96.674,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,8.0,36.172,30.768,29.734,,False,False,4140.082,2,Saudi Arabian Grand Prix
+BOT,5.0,97.613,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,8.0,36.426,31.084,30.103,,False,False,4237.695,2,Saudi Arabian Grand Prix
+BOT,6.0,95.993,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,8.0,35.667,30.503,29.823,,False,False,4333.688,2,Saudi Arabian Grand Prix
+BOT,7.0,96.416,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,8.0,35.903,30.598,29.915,,False,False,4430.104,2,Saudi Arabian Grand Prix
+BOT,8.0,98.0,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,8.0,36.483,31.097,30.42,,False,False,4528.104,2,Saudi Arabian Grand Prix
+BOT,9.0,97.19,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,8.0,36.913,30.639,29.638,,False,False,4625.294,2,Saudi Arabian Grand Prix
+BOT,10.0,97.055,1.0,MEDIUM,10.0,1,True,Alfa Romeo,True,8.0,36.225,30.849,29.981,,False,False,4722.349,2,Saudi Arabian Grand Prix
+BOT,11.0,96.416,1.0,MEDIUM,11.0,1,True,Alfa Romeo,True,8.0,35.848,30.678,29.89,,False,False,4818.765,2,Saudi Arabian Grand Prix
+BOT,12.0,96.453,1.0,MEDIUM,12.0,1,True,Alfa Romeo,True,8.0,35.717,30.744,29.992,,False,False,4915.218,2,Saudi Arabian Grand Prix
+BOT,13.0,95.967,1.0,MEDIUM,13.0,1,True,Alfa Romeo,True,8.0,35.758,30.455,29.754,,False,False,5011.185,2,Saudi Arabian Grand Prix
+BOT,14.0,96.398,1.0,MEDIUM,14.0,1,True,Alfa Romeo,True,7.0,35.319,30.751,30.328,,False,False,5107.583,2,Saudi Arabian Grand Prix
+BOT,15.0,96.774,1.0,MEDIUM,15.0,1,True,Alfa Romeo,True,7.0,35.811,30.784,30.179,,False,False,5204.357,2,Saudi Arabian Grand Prix
+BOT,16.0,120.798,1.0,MEDIUM,16.0,1264,False,Alfa Romeo,True,7.0,35.896,39.593,45.309,,True,False,5325.155,2,Saudi Arabian Grand Prix
+BOT,17.0,152.124,2.0,HARD,1.0,4,False,Alfa Romeo,True,10.0,62.031,38.57,51.523,,False,True,5477.279,2,Saudi Arabian Grand Prix
+BOT,18.0,158.508,2.0,HARD,2.0,4,False,Alfa Romeo,True,10.0,50.767,50.363,57.378,,False,False,5635.787,2,Saudi Arabian Grand Prix
+BOT,19.0,150.601,2.0,HARD,3.0,4,False,Alfa Romeo,True,10.0,51.787,47.001,51.813,,False,False,5786.388,2,Saudi Arabian Grand Prix
+BOT,20.0,152.224,2.0,HARD,4.0,41,False,Alfa Romeo,True,10.0,47.795,45.109,59.32,,False,False,5938.612,2,Saudi Arabian Grand Prix
+BOT,21.0,98.084,2.0,HARD,5.0,1,True,Alfa Romeo,True,10.0,37.398,30.725,29.961,,False,False,6036.696,2,Saudi Arabian Grand Prix
+BOT,22.0,97.061,2.0,HARD,6.0,1,True,Alfa Romeo,True,10.0,36.437,30.688,29.936,,False,False,6133.757,2,Saudi Arabian Grand Prix
+BOT,23.0,95.816,2.0,HARD,7.0,1,True,Alfa Romeo,True,10.0,35.813,30.446,29.557,,False,False,6229.573,2,Saudi Arabian Grand Prix
+BOT,24.0,95.292,2.0,HARD,8.0,1,True,Alfa Romeo,True,9.0,35.431,30.256,29.605,,False,False,6324.865,2,Saudi Arabian Grand Prix
+BOT,25.0,94.639,2.0,HARD,9.0,1,True,Alfa Romeo,True,9.0,35.32,30.064,29.255,,False,False,6419.504,2,Saudi Arabian Grand Prix
+BOT,26.0,94.735,2.0,HARD,10.0,1,True,Alfa Romeo,True,9.0,35.464,30.039,29.232,,False,False,6514.239,2,Saudi Arabian Grand Prix
+BOT,27.0,95.516,2.0,HARD,11.0,1,True,Alfa Romeo,True,9.0,35.647,30.269,29.6,,False,False,6609.755,2,Saudi Arabian Grand Prix
+BOT,28.0,95.096,2.0,HARD,12.0,1,True,Alfa Romeo,True,9.0,35.245,30.235,29.616,,False,False,6704.851,2,Saudi Arabian Grand Prix
+BOT,29.0,94.498,2.0,HARD,13.0,1,True,Alfa Romeo,True,9.0,35.22,29.998,29.28,,False,False,6799.349,2,Saudi Arabian Grand Prix
+BOT,30.0,94.499,2.0,HARD,14.0,1,True,Alfa Romeo,True,9.0,35.183,30.035,29.281,,False,False,6893.848,2,Saudi Arabian Grand Prix
+BOT,31.0,93.979,2.0,HARD,15.0,1,True,Alfa Romeo,True,9.0,35.127,29.747,29.105,,False,False,6987.827,2,Saudi Arabian Grand Prix
+BOT,32.0,95.173,2.0,HARD,16.0,1,True,Alfa Romeo,True,9.0,35.25,30.273,29.65,,False,False,7083.0,2,Saudi Arabian Grand Prix
+BOT,33.0,95.069,2.0,HARD,17.0,1,True,Alfa Romeo,True,9.0,35.215,30.223,29.631,,False,False,7178.069,2,Saudi Arabian Grand Prix
+BOT,34.0,94.06,2.0,HARD,18.0,1,True,Alfa Romeo,True,9.0,34.753,29.948,29.359,,False,False,7272.129,2,Saudi Arabian Grand Prix
+BOT,35.0,97.908,2.0,HARD,19.0,1,False,Alfa Romeo,True,10.0,35.213,30.009,32.686,,True,False,7370.037,2,Saudi Arabian Grand Prix
+BOT,36.0,135.831,3.0,MEDIUM,1.0,1,False,Alfa Romeo,True,15.0,54.694,33.524,47.613,,True,True,7505.868,2,Saudi Arabian Grand Prix

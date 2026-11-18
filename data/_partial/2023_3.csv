@@ -1,0 +1,1004 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,101.571,1.0,MEDIUM,1.0,124,False,Red Bull Racing,True,3.0,,18.707,46.357,,False,False,3838.671,3,Australian Grand Prix
+VER,2.0,132.105,1.0,MEDIUM,2.0,4,False,Red Bull Racing,True,3.0,48.846,31.614,51.645,,False,False,3970.776,3,Australian Grand Prix
+VER,3.0,130.657,1.0,MEDIUM,3.0,41,False,Red Bull Racing,True,3.0,46.836,29.178,54.643,,False,False,4101.433,3,Australian Grand Prix
+VER,4.0,83.391,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,3.0,28.9,18.326,36.165,,False,False,4184.824,3,Australian Grand Prix
+VER,5.0,83.104,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,3.0,28.935,18.347,35.822,,False,False,4267.928,3,Australian Grand Prix
+VER,6.0,82.843,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,3.0,28.986,17.951,35.906,,False,False,4350.771,3,Australian Grand Prix
+VER,7.0,95.07,1.0,MEDIUM,7.0,124,False,Red Bull Racing,True,2.0,28.798,18.011,48.261,,False,False,4445.841,3,Australian Grand Prix
+VER,8.0,,1.0,MEDIUM,8.0,451,False,Red Bull Racing,True,2.0,48.876,45.642,,,True,False,5526.797,3,Australian Grand Prix
+VER,9.0,,2.0,HARD,1.0,1,False,Red Bull Racing,True,2.0,54.215,52.945,,,False,True,5748.176,3,Australian Grand Prix
+VER,10.0,87.827,2.0,HARD,2.0,1,True,Red Bull Racing,True,2.0,33.323,18.633,35.871,,False,False,5836.003,3,Australian Grand Prix
+VER,11.0,83.46,2.0,HARD,3.0,1,True,Red Bull Racing,True,2.0,29.054,18.556,35.85,,False,False,5919.463,3,Australian Grand Prix
+VER,12.0,81.994,2.0,HARD,4.0,1,True,Red Bull Racing,True,1.0,28.827,18.134,35.033,,False,False,6001.457,3,Australian Grand Prix
+VER,13.0,83.286,2.0,HARD,5.0,1,True,Red Bull Racing,True,1.0,28.876,18.642,35.768,,False,False,6084.743,3,Australian Grand Prix
+VER,14.0,82.869,2.0,HARD,6.0,1,True,Red Bull Racing,True,1.0,28.769,18.604,35.496,,False,False,6167.612,3,Australian Grand Prix
+VER,15.0,82.817,2.0,HARD,7.0,1,True,Red Bull Racing,True,1.0,28.785,18.527,35.505,,False,False,6250.429,3,Australian Grand Prix
+VER,16.0,82.599,2.0,HARD,8.0,1,True,Red Bull Racing,True,1.0,28.696,18.502,35.401,,False,False,6333.028,3,Australian Grand Prix
+VER,17.0,82.595,2.0,HARD,9.0,1,True,Red Bull Racing,True,1.0,28.6,18.529,35.466,,False,False,6415.623,3,Australian Grand Prix
+VER,18.0,100.315,2.0,HARD,10.0,16,False,Red Bull Racing,True,1.0,28.525,24.481,47.309,,False,False,6515.938,3,Australian Grand Prix
+VER,19.0,103.75,2.0,HARD,11.0,671,False,Red Bull Racing,True,1.0,39.394,26.616,37.74,,False,False,6619.688,3,Australian Grand Prix
+VER,20.0,82.389,2.0,HARD,12.0,1,True,Red Bull Racing,True,1.0,28.643,18.603,35.143,,False,False,6702.077,3,Australian Grand Prix
+VER,21.0,82.11,2.0,HARD,13.0,1,True,Red Bull Racing,True,1.0,28.596,18.437,35.077,,False,False,6784.187,3,Australian Grand Prix
+VER,22.0,82.269,2.0,HARD,14.0,1,True,Red Bull Racing,True,1.0,28.588,18.517,35.164,,False,False,6866.456,3,Australian Grand Prix
+VER,23.0,82.193,2.0,HARD,15.0,1,True,Red Bull Racing,True,1.0,28.561,18.479,35.153,,False,False,6948.649,3,Australian Grand Prix
+VER,24.0,81.843,2.0,HARD,16.0,1,True,Red Bull Racing,True,1.0,28.374,18.413,35.056,,False,False,7030.492,3,Australian Grand Prix
+VER,25.0,82.104,2.0,HARD,17.0,1,True,Red Bull Racing,True,1.0,28.561,18.458,35.085,,False,False,7112.596,3,Australian Grand Prix
+VER,26.0,81.972,2.0,HARD,18.0,1,True,Red Bull Racing,True,1.0,28.495,18.436,35.041,,False,False,7194.568,3,Australian Grand Prix
+VER,27.0,81.924,2.0,HARD,19.0,1,True,Red Bull Racing,True,1.0,28.394,18.431,35.099,,False,False,7276.492,3,Australian Grand Prix
+VER,28.0,81.926,2.0,HARD,20.0,1,True,Red Bull Racing,True,1.0,28.436,18.404,35.086,,False,False,7358.418,3,Australian Grand Prix
+VER,29.0,81.772,2.0,HARD,21.0,1,True,Red Bull Racing,True,1.0,28.409,18.376,34.987,,False,False,7440.19,3,Australian Grand Prix
+VER,30.0,82.002,2.0,HARD,22.0,1,True,Red Bull Racing,True,1.0,28.353,18.414,35.235,,False,False,7522.192,3,Australian Grand Prix
+VER,31.0,82.024,2.0,HARD,23.0,1,True,Red Bull Racing,True,1.0,28.451,18.29,35.283,,False,False,7604.216,3,Australian Grand Prix
+VER,32.0,82.012,2.0,HARD,24.0,1,True,Red Bull Racing,True,1.0,28.335,18.404,35.273,,False,False,7686.228,3,Australian Grand Prix
+VER,33.0,81.819,2.0,HARD,25.0,1,True,Red Bull Racing,True,1.0,28.27,18.343,35.206,,False,False,7768.047,3,Australian Grand Prix
+VER,34.0,81.894,2.0,HARD,26.0,1,True,Red Bull Racing,True,1.0,28.381,18.355,35.158,,False,False,7849.941,3,Australian Grand Prix
+VER,35.0,81.681,2.0,HARD,27.0,1,True,Red Bull Racing,True,1.0,28.333,18.331,35.017,,False,False,7931.622,3,Australian Grand Prix
+VER,36.0,81.732,2.0,HARD,28.0,1,True,Red Bull Racing,True,1.0,28.37,18.313,35.049,,False,False,8013.354,3,Australian Grand Prix
+VER,37.0,81.403,2.0,HARD,29.0,1,True,Red Bull Racing,True,1.0,28.327,18.257,34.819,,False,False,8094.757,3,Australian Grand Prix
+VER,38.0,81.319,2.0,HARD,30.0,1,True,Red Bull Racing,True,1.0,28.293,18.217,34.809,,False,False,8176.076,3,Australian Grand Prix
+VER,39.0,81.578,2.0,HARD,31.0,1,True,Red Bull Racing,True,1.0,28.528,18.282,34.768,,False,False,8257.654,3,Australian Grand Prix
+VER,40.0,81.078,2.0,HARD,32.0,1,True,Red Bull Racing,True,1.0,28.204,18.226,34.648,,False,False,8338.732,3,Australian Grand Prix
+VER,41.0,80.986,2.0,HARD,33.0,1,True,Red Bull Racing,True,1.0,28.187,18.181,34.618,,False,False,8419.718,3,Australian Grand Prix
+VER,42.0,81.148,2.0,HARD,34.0,1,True,Red Bull Racing,True,1.0,28.228,18.251,34.669,,False,False,8500.866,3,Australian Grand Prix
+VER,43.0,81.166,2.0,HARD,35.0,1,True,Red Bull Racing,True,1.0,28.222,18.17,34.774,,False,False,8582.032,3,Australian Grand Prix
+VER,44.0,81.089,2.0,HARD,36.0,1,True,Red Bull Racing,True,1.0,28.159,18.228,34.702,,False,False,8663.121,3,Australian Grand Prix
+VER,45.0,80.807,2.0,HARD,37.0,1,True,Red Bull Racing,True,1.0,28.13,18.192,34.485,,False,False,8743.928,3,Australian Grand Prix
+VER,46.0,80.703,2.0,HARD,38.0,1,True,Red Bull Racing,True,1.0,28.029,18.123,34.551,,False,False,8824.631,3,Australian Grand Prix
+VER,47.0,84.107,2.0,HARD,39.0,1,True,Red Bull Racing,True,1.0,28.065,18.117,37.925,,False,False,8908.738,3,Australian Grand Prix
+VER,48.0,81.073,2.0,HARD,40.0,1,True,Red Bull Racing,True,1.0,28.373,18.133,34.567,,False,False,8989.811,3,Australian Grand Prix
+VER,49.0,80.342,2.0,HARD,41.0,1,True,Red Bull Racing,True,1.0,27.834,18.133,34.375,,False,False,9070.153,3,Australian Grand Prix
+VER,50.0,80.471,2.0,HARD,42.0,1,True,Red Bull Racing,True,1.0,28.018,18.151,34.302,,False,False,9150.624,3,Australian Grand Prix
+VER,51.0,80.632,2.0,HARD,43.0,1,True,Red Bull Racing,True,1.0,28.001,18.094,34.537,,False,False,9231.256,3,Australian Grand Prix
+VER,52.0,80.738,2.0,HARD,44.0,1,True,Red Bull Racing,True,1.0,28.025,18.09,34.623,,False,False,9311.994,3,Australian Grand Prix
+VER,53.0,80.671,2.0,HARD,45.0,12,True,Red Bull Racing,True,1.0,28.126,18.043,34.502,,False,False,9392.665,3,Australian Grand Prix
+VER,54.0,91.178,2.0,HARD,46.0,214,False,Red Bull Racing,True,1.0,28.525,18.149,44.504,,False,False,9483.843,3,Australian Grand Prix
+VER,55.0,168.5,2.0,HARD,47.0,45,False,Red Bull Racing,True,1.0,42.201,41.976,84.323,,True,False,9652.343,3,Australian Grand Prix
+VER,56.0,,3.0,SOFT,4.0,1,False,Red Bull Racing,False,1.0,,45.715,81.729,,False,True,10701.189,3,Australian Grand Prix
+VER,57.0,179.625,3.0,SOFT,5.0,125,False,Red Bull Racing,False,1.0,76.86,36.187,66.578,,True,False,10880.814,3,Australian Grand Prix
+VER,58.0,,4.0,SOFT,6.0,1,False,Red Bull Racing,False,1.0,,50.715,59.872,,False,True,12895.509,3,Australian Grand Prix
+GAS,1.0,110.293,1.0,SOFT,1.0,124,False,Alpine,True,8.0,,18.89,53.173,,False,False,3847.393,3,Australian Grand Prix
+GAS,2.0,131.323,1.0,SOFT,2.0,4,False,Alpine,True,8.0,46.907,31.398,53.018,,False,False,3978.716,3,Australian Grand Prix
+GAS,3.0,125.832,1.0,SOFT,3.0,41,False,Alpine,True,8.0,45.929,28.716,51.187,,False,False,4104.548,3,Australian Grand Prix
+GAS,4.0,84.671,1.0,SOFT,4.0,1,True,Alpine,True,8.0,29.683,18.714,36.274,,False,False,4189.219,3,Australian Grand Prix
+GAS,5.0,84.29,1.0,SOFT,5.0,1,True,Alpine,True,8.0,29.229,18.65,36.411,,False,False,4273.509,3,Australian Grand Prix
+GAS,6.0,83.529,1.0,SOFT,6.0,1,True,Alpine,True,8.0,28.98,18.643,35.906,,False,False,4357.038,3,Australian Grand Prix
+GAS,7.0,96.571,1.0,SOFT,7.0,124,False,Alpine,True,5.0,28.914,18.841,48.816,,False,False,4453.609,3,Australian Grand Prix
+GAS,8.0,,1.0,SOFT,8.0,451,False,Alpine,True,5.0,45.629,45.178,,,True,False,5536.815,3,Australian Grand Prix
+GAS,9.0,,2.0,HARD,1.0,1,False,Alpine,True,5.0,47.442,54.044,,,False,True,5749.275,3,Australian Grand Prix
+GAS,10.0,89.037,2.0,HARD,2.0,1,True,Alpine,True,4.0,33.555,18.948,36.534,,False,False,5838.312,3,Australian Grand Prix
+GAS,11.0,84.459,2.0,HARD,3.0,1,True,Alpine,True,4.0,29.589,18.627,36.243,,False,False,5922.771,3,Australian Grand Prix
+GAS,12.0,83.647,2.0,HARD,4.0,1,True,Alpine,True,4.0,29.151,18.522,35.974,,False,False,6006.418,3,Australian Grand Prix
+GAS,13.0,84.568,2.0,HARD,5.0,1,True,Alpine,True,5.0,29.019,18.532,37.017,,False,False,6090.986,3,Australian Grand Prix
+GAS,14.0,83.268,2.0,HARD,6.0,1,True,Alpine,True,5.0,29.034,18.267,35.967,,False,False,6174.254,3,Australian Grand Prix
+GAS,15.0,83.078,2.0,HARD,7.0,1,True,Alpine,True,5.0,28.876,18.282,35.92,,False,False,6257.332,3,Australian Grand Prix
+GAS,16.0,82.777,2.0,HARD,8.0,1,True,Alpine,True,5.0,28.778,18.189,35.81,,False,False,6340.109,3,Australian Grand Prix
+GAS,17.0,83.243,2.0,HARD,9.0,1,True,Alpine,True,4.0,28.742,18.208,36.293,,False,False,6423.352,3,Australian Grand Prix
+GAS,18.0,103.086,2.0,HARD,10.0,16,False,Alpine,True,4.0,28.715,26.367,48.004,,False,False,6526.438,3,Australian Grand Prix
+GAS,19.0,100.408,2.0,HARD,11.0,671,False,Alpine,True,4.0,40.114,23.985,36.309,,False,False,6626.846,3,Australian Grand Prix
+GAS,20.0,82.599,2.0,HARD,12.0,1,True,Alpine,True,4.0,28.745,18.519,35.335,,False,False,6709.445,3,Australian Grand Prix
+GAS,21.0,82.45,2.0,HARD,13.0,1,True,Alpine,True,4.0,28.655,18.36,35.435,,False,False,6791.895,3,Australian Grand Prix
+GAS,22.0,82.85,2.0,HARD,14.0,1,True,Alpine,True,4.0,28.959,18.406,35.485,,False,False,6874.745,3,Australian Grand Prix
+GAS,23.0,82.531,2.0,HARD,15.0,1,True,Alpine,True,4.0,28.693,18.434,35.404,,False,False,6957.276,3,Australian Grand Prix
+GAS,24.0,82.498,2.0,HARD,16.0,1,True,Alpine,True,4.0,28.748,18.352,35.398,,False,False,7039.774,3,Australian Grand Prix
+GAS,25.0,84.245,2.0,HARD,17.0,1,True,Alpine,True,5.0,30.127,18.152,35.966,,False,False,7124.019,3,Australian Grand Prix
+GAS,26.0,82.313,2.0,HARD,18.0,1,True,Alpine,True,5.0,28.646,18.088,35.579,,False,False,7206.332,3,Australian Grand Prix
+GAS,27.0,82.115,2.0,HARD,19.0,1,True,Alpine,True,5.0,28.673,17.971,35.471,,False,False,7288.447,3,Australian Grand Prix
+GAS,28.0,82.026,2.0,HARD,20.0,1,True,Alpine,True,5.0,28.622,18.065,35.339,,False,False,7370.473,3,Australian Grand Prix
+GAS,29.0,82.237,2.0,HARD,21.0,1,True,Alpine,True,5.0,28.527,17.977,35.733,,False,False,7452.71,3,Australian Grand Prix
+GAS,30.0,82.188,2.0,HARD,22.0,1,True,Alpine,True,5.0,28.573,18.135,35.48,,False,False,7534.898,3,Australian Grand Prix
+GAS,31.0,81.964,2.0,HARD,23.0,1,True,Alpine,True,5.0,28.537,18.086,35.341,,False,False,7616.862,3,Australian Grand Prix
+GAS,32.0,81.947,2.0,HARD,24.0,1,True,Alpine,True,5.0,28.507,18.107,35.333,,False,False,7698.809,3,Australian Grand Prix
+GAS,33.0,81.806,2.0,HARD,25.0,1,True,Alpine,True,5.0,28.573,18.041,35.192,,False,False,7780.615,3,Australian Grand Prix
+GAS,34.0,81.776,2.0,HARD,26.0,1,True,Alpine,True,5.0,28.462,18.13,35.184,,False,False,7862.391,3,Australian Grand Prix
+GAS,35.0,81.842,2.0,HARD,27.0,1,True,Alpine,True,5.0,28.511,18.06,35.271,,False,False,7944.233,3,Australian Grand Prix
+GAS,36.0,81.684,2.0,HARD,28.0,1,True,Alpine,True,5.0,28.425,18.054,35.205,,False,False,8025.917,3,Australian Grand Prix
+GAS,37.0,81.748,2.0,HARD,29.0,1,True,Alpine,True,5.0,28.461,18.026,35.261,,False,False,8107.665,3,Australian Grand Prix
+GAS,38.0,81.425,2.0,HARD,30.0,1,True,Alpine,True,5.0,28.333,17.966,35.126,,False,False,8189.09,3,Australian Grand Prix
+GAS,39.0,81.823,2.0,HARD,31.0,1,True,Alpine,True,5.0,28.596,18.088,35.139,,False,False,8270.913,3,Australian Grand Prix
+GAS,40.0,81.801,2.0,HARD,32.0,1,True,Alpine,True,5.0,28.419,18.101,35.281,,False,False,8352.714,3,Australian Grand Prix
+GAS,41.0,81.586,2.0,HARD,33.0,1,True,Alpine,True,5.0,28.443,18.02,35.123,,False,False,8434.3,3,Australian Grand Prix
+GAS,42.0,81.422,2.0,HARD,34.0,1,True,Alpine,True,5.0,28.29,18.063,35.069,,False,False,8515.722,3,Australian Grand Prix
+GAS,43.0,81.103,2.0,HARD,35.0,1,True,Alpine,True,5.0,28.158,17.918,35.027,,False,False,8596.825,3,Australian Grand Prix
+GAS,44.0,81.177,2.0,HARD,36.0,1,True,Alpine,True,5.0,28.213,17.882,35.082,,False,False,8678.002,3,Australian Grand Prix
+GAS,45.0,81.455,2.0,HARD,37.0,1,True,Alpine,True,5.0,28.372,17.854,35.229,,False,False,8759.457,3,Australian Grand Prix
+GAS,46.0,81.24,2.0,HARD,38.0,1,True,Alpine,True,5.0,28.287,17.872,35.081,,False,False,8840.697,3,Australian Grand Prix
+GAS,47.0,80.995,2.0,HARD,39.0,1,True,Alpine,True,5.0,28.18,17.821,34.994,,False,False,8921.692,3,Australian Grand Prix
+GAS,48.0,81.242,2.0,HARD,40.0,1,True,Alpine,True,5.0,28.353,17.933,34.956,,False,False,9002.934,3,Australian Grand Prix
+GAS,49.0,81.152,2.0,HARD,41.0,1,True,Alpine,True,5.0,28.281,17.889,34.982,,False,False,9084.086,3,Australian Grand Prix
+GAS,50.0,81.604,2.0,HARD,42.0,1,True,Alpine,True,5.0,28.282,18.126,35.196,,False,False,9165.69,3,Australian Grand Prix
+GAS,51.0,81.616,2.0,HARD,43.0,1,True,Alpine,True,5.0,28.453,18.185,34.978,,False,False,9247.306,3,Australian Grand Prix
+GAS,52.0,81.62,2.0,HARD,44.0,1,True,Alpine,True,5.0,28.45,18.242,34.928,,False,False,9328.926,3,Australian Grand Prix
+GAS,53.0,81.098,2.0,HARD,45.0,12,True,Alpine,True,5.0,28.171,18.222,34.705,,False,False,9410.024,3,Australian Grand Prix
+GAS,54.0,98.993,2.0,HARD,46.0,14,False,Alpine,True,5.0,28.218,18.861,51.914,,False,False,9509.017,3,Australian Grand Prix
+GAS,55.0,,2.0,HARD,47.0,451,False,Alpine,True,5.0,40.165,25.86,,,True,False,10517.258,3,Australian Grand Prix
+GAS,56.0,,3.0,SOFT,2.0,1,False,Alpine,False,5.0,62.318,48.434,,,False,True,10740.74,3,Australian Grand Prix
+GAS,57.0,,3.0,SOFT,3.0,12,False,Alpine,False,,,,,,False,False,10764.751,3,Australian Grand Prix
+PER,1.0,132.096,1.0,HARD,1.0,124,False,Red Bull Racing,True,18.0,,18.735,69.69,,True,True,3869.196,3,Australian Grand Prix
+PER,2.0,131.789,2.0,MEDIUM,1.0,4,False,Red Bull Racing,True,18.0,41.48,27.181,63.128,,True,True,4000.985,3,Australian Grand Prix
+PER,3.0,110.649,3.0,HARD,1.0,41,False,Red Bull Racing,True,18.0,36.623,27.351,46.675,,False,True,4111.634,3,Australian Grand Prix
+PER,4.0,85.108,3.0,HARD,2.0,1,True,Red Bull Racing,True,17.0,30.17,18.498,36.44,,False,False,4196.742,3,Australian Grand Prix
+PER,5.0,84.501,3.0,HARD,3.0,1,True,Red Bull Racing,True,17.0,29.362,18.331,36.808,,False,False,4281.243,3,Australian Grand Prix
+PER,6.0,83.584,3.0,HARD,4.0,1,True,Red Bull Racing,True,16.0,29.47,18.053,36.061,,False,False,4364.827,3,Australian Grand Prix
+PER,7.0,101.11,3.0,HARD,5.0,124,False,Red Bull Racing,True,14.0,29.184,26.304,45.622,,False,False,4465.937,3,Australian Grand Prix
+PER,8.0,,3.0,HARD,6.0,451,False,Red Bull Racing,True,14.0,45.041,44.211,,,True,False,5569.226,3,Australian Grand Prix
+PER,9.0,181.911,4.0,HARD,2.0,1,False,Red Bull Racing,False,14.0,41.005,45.549,95.357,,False,True,5751.137,3,Australian Grand Prix
+PER,10.0,93.436,4.0,HARD,3.0,1,True,Red Bull Racing,False,16.0,36.336,19.121,37.979,,False,False,5844.573,3,Australian Grand Prix
+PER,11.0,86.003,4.0,HARD,4.0,1,True,Red Bull Racing,False,16.0,30.555,18.477,36.971,,False,False,5930.576,3,Australian Grand Prix
+PER,12.0,83.982,4.0,HARD,5.0,1,True,Red Bull Racing,False,16.0,29.692,17.865,36.425,,False,False,6014.558,3,Australian Grand Prix
+PER,13.0,83.052,4.0,HARD,6.0,1,True,Red Bull Racing,False,15.0,29.128,17.928,35.996,,False,False,6097.61,3,Australian Grand Prix
+PER,14.0,83.33,4.0,HARD,7.0,1,True,Red Bull Racing,False,15.0,28.995,17.893,36.442,,False,False,6180.94,3,Australian Grand Prix
+PER,15.0,84.167,4.0,HARD,8.0,1,True,Red Bull Racing,False,14.0,29.358,17.96,36.849,,False,False,6265.107,3,Australian Grand Prix
+PER,16.0,84.299,4.0,HARD,9.0,1,True,Red Bull Racing,False,13.0,29.672,18.073,36.554,,False,False,6349.406,3,Australian Grand Prix
+PER,17.0,82.345,4.0,HARD,10.0,1,True,Red Bull Racing,False,12.0,28.69,17.943,35.712,,False,False,6431.751,3,Australian Grand Prix
+PER,18.0,108.483,4.0,HARD,11.0,16,False,Red Bull Racing,False,12.0,34.332,24.994,49.157,,False,False,6540.234,3,Australian Grand Prix
+PER,19.0,96.565,4.0,HARD,12.0,671,False,Red Bull Racing,False,12.0,39.077,20.856,36.632,,False,False,6636.799,3,Australian Grand Prix
+PER,20.0,82.757,4.0,HARD,13.0,1,True,Red Bull Racing,False,12.0,29.135,17.711,35.911,,False,False,6719.556,3,Australian Grand Prix
+PER,21.0,83.537,4.0,HARD,14.0,1,True,Red Bull Racing,False,11.0,28.993,17.695,36.849,,False,False,6803.093,3,Australian Grand Prix
+PER,22.0,82.737,4.0,HARD,15.0,1,True,Red Bull Racing,False,10.0,29.184,17.928,35.625,,False,False,6885.83,3,Australian Grand Prix
+PER,23.0,82.186,4.0,HARD,16.0,1,True,Red Bull Racing,False,9.0,29.116,17.914,35.156,,False,False,6968.016,3,Australian Grand Prix
+PER,24.0,82.678,4.0,HARD,17.0,1,True,Red Bull Racing,False,9.0,29.025,18.301,35.352,,False,False,7050.694,3,Australian Grand Prix
+PER,25.0,82.064,4.0,HARD,18.0,1,True,Red Bull Racing,False,9.0,28.769,18.256,35.039,,False,False,7132.758,3,Australian Grand Prix
+PER,26.0,82.224,4.0,HARD,19.0,1,True,Red Bull Racing,False,9.0,28.68,18.239,35.305,,False,False,7214.982,3,Australian Grand Prix
+PER,27.0,82.07,4.0,HARD,20.0,1,True,Red Bull Racing,False,9.0,28.578,18.246,35.246,,False,False,7297.052,3,Australian Grand Prix
+PER,28.0,82.244,4.0,HARD,21.0,1,True,Red Bull Racing,False,9.0,28.814,18.236,35.194,,False,False,7379.296,3,Australian Grand Prix
+PER,29.0,81.908,4.0,HARD,22.0,1,True,Red Bull Racing,False,9.0,28.624,18.232,35.052,,False,False,7461.204,3,Australian Grand Prix
+PER,30.0,81.918,4.0,HARD,23.0,1,True,Red Bull Racing,False,9.0,28.795,18.134,34.989,,False,False,7543.122,3,Australian Grand Prix
+PER,31.0,81.812,4.0,HARD,24.0,1,True,Red Bull Racing,False,9.0,28.617,18.194,35.001,,False,False,7624.934,3,Australian Grand Prix
+PER,32.0,81.456,4.0,HARD,25.0,1,True,Red Bull Racing,False,9.0,28.391,18.1,34.965,,False,False,7706.39,3,Australian Grand Prix
+PER,33.0,81.807,4.0,HARD,26.0,1,True,Red Bull Racing,False,9.0,28.656,18.155,34.996,,False,False,7788.197,3,Australian Grand Prix
+PER,34.0,81.907,4.0,HARD,27.0,1,True,Red Bull Racing,False,9.0,28.722,18.116,35.069,,False,False,7870.104,3,Australian Grand Prix
+PER,35.0,82.236,4.0,HARD,28.0,1,True,Red Bull Racing,False,9.0,28.763,18.186,35.287,,False,False,7952.34,3,Australian Grand Prix
+PER,36.0,82.059,4.0,HARD,29.0,1,True,Red Bull Racing,False,9.0,28.607,18.142,35.31,,False,False,8034.399,3,Australian Grand Prix
+PER,37.0,81.814,4.0,HARD,30.0,1,True,Red Bull Racing,False,9.0,28.668,18.089,35.057,,False,False,8116.213,3,Australian Grand Prix
+PER,38.0,81.701,4.0,HARD,31.0,1,True,Red Bull Racing,False,9.0,28.447,18.088,35.166,,False,False,8197.914,3,Australian Grand Prix
+PER,39.0,81.718,4.0,HARD,32.0,1,True,Red Bull Racing,False,9.0,28.671,18.038,35.009,,False,False,8279.632,3,Australian Grand Prix
+PER,40.0,81.602,4.0,HARD,33.0,1,True,Red Bull Racing,False,9.0,28.685,18.053,34.864,,False,False,8361.234,3,Australian Grand Prix
+PER,41.0,81.744,4.0,HARD,34.0,1,True,Red Bull Racing,False,9.0,28.498,17.922,35.324,,False,False,8442.978,3,Australian Grand Prix
+PER,42.0,80.979,4.0,HARD,35.0,1,True,Red Bull Racing,False,9.0,28.075,17.699,35.205,,False,False,8523.957,3,Australian Grand Prix
+PER,43.0,80.697,4.0,HARD,36.0,1,True,Red Bull Racing,False,8.0,28.3,17.606,34.791,,False,False,8604.654,3,Australian Grand Prix
+PER,44.0,81.232,4.0,HARD,37.0,1,True,Red Bull Racing,False,7.0,28.458,17.589,35.185,,False,False,8685.886,3,Australian Grand Prix
+PER,45.0,81.147,4.0,HARD,38.0,1,True,Red Bull Racing,False,7.0,28.371,17.995,34.781,,False,False,8767.033,3,Australian Grand Prix
+PER,46.0,81.004,4.0,HARD,39.0,1,True,Red Bull Racing,False,7.0,28.477,17.954,34.573,,False,False,8848.037,3,Australian Grand Prix
+PER,47.0,80.643,4.0,HARD,40.0,1,True,Red Bull Racing,False,7.0,28.281,17.881,34.481,,False,False,8928.68,3,Australian Grand Prix
+PER,48.0,80.732,4.0,HARD,41.0,1,True,Red Bull Racing,False,7.0,28.223,18.064,34.445,,False,False,9009.412,3,Australian Grand Prix
+PER,49.0,80.747,4.0,HARD,42.0,1,True,Red Bull Racing,False,7.0,28.285,17.969,34.493,,False,False,9090.159,3,Australian Grand Prix
+PER,50.0,81.019,4.0,HARD,43.0,1,True,Red Bull Racing,False,7.0,28.365,17.923,34.731,,False,False,9171.178,3,Australian Grand Prix
+PER,51.0,81.31,4.0,HARD,44.0,1,True,Red Bull Racing,False,7.0,28.677,17.82,34.813,,False,False,9252.488,3,Australian Grand Prix
+PER,52.0,80.855,4.0,HARD,45.0,1,True,Red Bull Racing,False,7.0,28.441,18.013,34.401,,False,False,9333.343,3,Australian Grand Prix
+PER,53.0,80.235,4.0,HARD,46.0,12,True,Red Bull Racing,False,7.0,28.044,17.802,34.389,,False,False,9413.578,3,Australian Grand Prix
+PER,54.0,100.5,4.0,HARD,47.0,14,False,Red Bull Racing,False,7.0,28.425,24.553,47.522,,False,False,9514.078,3,Australian Grand Prix
+PER,55.0,,4.0,HARD,48.0,451,False,Red Bull Racing,False,7.0,40.694,25.315,,,True,False,10525.519,3,Australian Grand Prix
+PER,56.0,,5.0,SOFT,1.0,1,False,Red Bull Racing,True,7.0,58.38,49.353,,,False,True,10741.376,3,Australian Grand Prix
+PER,57.0,,5.0,SOFT,2.0,125,False,Red Bull Racing,True,6.0,53.041,31.647,,,True,False,12735.603,3,Australian Grand Prix
+PER,58.0,163.325,6.0,SOFT,1.0,1,False,Red Bull Racing,True,6.0,55.297,49.282,58.746,,False,True,12898.928,3,Australian Grand Prix
+ALO,1.0,105.543,1.0,MEDIUM,2.0,124,False,Aston Martin,False,5.0,,18.868,49.346,,False,False,3842.643,3,Australian Grand Prix
+ALO,2.0,130.728,1.0,MEDIUM,3.0,4,False,Aston Martin,False,5.0,47.342,31.93,51.456,,False,False,3973.371,3,Australian Grand Prix
+ALO,3.0,129.502,1.0,MEDIUM,4.0,41,False,Aston Martin,False,5.0,46.721,28.947,53.834,,False,False,4102.873,3,Australian Grand Prix
+ALO,4.0,84.293,1.0,MEDIUM,5.0,1,True,Aston Martin,False,5.0,29.391,18.696,36.206,,False,False,4187.166,3,Australian Grand Prix
+ALO,5.0,83.29,1.0,MEDIUM,6.0,1,True,Aston Martin,False,5.0,28.87,18.573,35.847,,False,False,4270.456,3,Australian Grand Prix
+ALO,6.0,82.603,1.0,MEDIUM,7.0,1,True,Aston Martin,False,5.0,28.656,18.305,35.642,,False,False,4353.059,3,Australian Grand Prix
+ALO,7.0,95.355,1.0,MEDIUM,8.0,124,False,Aston Martin,False,3.0,28.746,18.265,48.344,,False,False,4448.414,3,Australian Grand Prix
+ALO,8.0,,1.0,MEDIUM,9.0,451,False,Aston Martin,False,3.0,47.712,44.908,,,True,False,5531.058,3,Australian Grand Prix
+ALO,9.0,,2.0,HARD,1.0,1,False,Aston Martin,True,3.0,50.693,53.642,,,False,True,5748.648,3,Australian Grand Prix
+ALO,10.0,88.668,2.0,HARD,2.0,1,True,Aston Martin,True,3.0,33.489,18.929,36.25,,False,False,5837.316,3,Australian Grand Prix
+ALO,11.0,84.644,2.0,HARD,3.0,1,True,Aston Martin,True,3.0,29.548,18.786,36.31,,False,False,5921.96,3,Australian Grand Prix
+ALO,12.0,83.321,2.0,HARD,4.0,1,True,Aston Martin,True,3.0,29.034,18.555,35.732,,False,False,6005.281,3,Australian Grand Prix
+ALO,13.0,83.634,2.0,HARD,5.0,1,True,Aston Martin,True,3.0,29.021,18.578,36.035,,False,False,6088.915,3,Australian Grand Prix
+ALO,14.0,83.424,2.0,HARD,6.0,1,True,Aston Martin,True,3.0,29.029,18.581,35.814,,False,False,6172.339,3,Australian Grand Prix
+ALO,15.0,83.008,2.0,HARD,7.0,1,True,Aston Martin,True,3.0,28.878,18.57,35.56,,False,False,6255.347,3,Australian Grand Prix
+ALO,16.0,82.26,2.0,HARD,8.0,1,True,Aston Martin,True,3.0,28.583,18.51,35.167,,False,False,6337.607,3,Australian Grand Prix
+ALO,17.0,82.261,2.0,HARD,9.0,1,True,Aston Martin,True,3.0,28.576,18.306,35.379,,False,False,6419.868,3,Australian Grand Prix
+ALO,18.0,101.221,2.0,HARD,10.0,16,False,Aston Martin,True,3.0,28.488,26.882,45.851,,False,False,6521.089,3,Australian Grand Prix
+ALO,19.0,102.386,2.0,HARD,11.0,671,False,Aston Martin,True,3.0,40.648,25.201,36.537,,False,False,6623.475,3,Australian Grand Prix
+ALO,20.0,82.913,2.0,HARD,12.0,1,True,Aston Martin,True,3.0,28.684,18.456,35.773,,False,False,6706.388,3,Australian Grand Prix
+ALO,21.0,82.921,2.0,HARD,13.0,1,True,Aston Martin,True,3.0,28.802,18.521,35.598,,False,False,6789.309,3,Australian Grand Prix
+ALO,22.0,83.054,2.0,HARD,14.0,1,True,Aston Martin,True,3.0,28.857,18.5,35.697,,False,False,6872.363,3,Australian Grand Prix
+ALO,23.0,83.087,2.0,HARD,15.0,1,True,Aston Martin,True,3.0,28.794,18.582,35.711,,False,False,6955.45,3,Australian Grand Prix
+ALO,24.0,82.885,2.0,HARD,16.0,1,True,Aston Martin,True,3.0,28.801,18.49,35.594,,False,False,7038.335,3,Australian Grand Prix
+ALO,25.0,82.934,2.0,HARD,17.0,1,True,Aston Martin,True,3.0,28.899,18.52,35.515,,False,False,7121.269,3,Australian Grand Prix
+ALO,26.0,82.325,2.0,HARD,18.0,1,True,Aston Martin,True,3.0,28.606,18.447,35.272,,False,False,7203.594,3,Australian Grand Prix
+ALO,27.0,82.354,2.0,HARD,19.0,1,True,Aston Martin,True,3.0,28.614,18.424,35.316,,False,False,7285.948,3,Australian Grand Prix
+ALO,28.0,81.901,2.0,HARD,20.0,1,True,Aston Martin,True,3.0,28.523,18.351,35.027,,False,False,7367.849,3,Australian Grand Prix
+ALO,29.0,82.029,2.0,HARD,21.0,1,True,Aston Martin,True,3.0,28.429,18.368,35.232,,False,False,7449.878,3,Australian Grand Prix
+ALO,30.0,81.932,2.0,HARD,22.0,1,True,Aston Martin,True,3.0,28.493,18.332,35.107,,False,False,7531.81,3,Australian Grand Prix
+ALO,31.0,82.456,2.0,HARD,23.0,1,True,Aston Martin,True,3.0,28.896,18.363,35.197,,False,False,7614.266,3,Australian Grand Prix
+ALO,32.0,82.098,2.0,HARD,24.0,1,True,Aston Martin,True,3.0,28.407,18.393,35.298,,False,False,7696.364,3,Australian Grand Prix
+ALO,33.0,81.991,2.0,HARD,25.0,1,True,Aston Martin,True,3.0,28.51,18.354,35.127,,False,False,7778.355,3,Australian Grand Prix
+ALO,34.0,82.021,2.0,HARD,26.0,1,True,Aston Martin,True,3.0,28.522,18.44,35.059,,False,False,7860.376,3,Australian Grand Prix
+ALO,35.0,81.728,2.0,HARD,27.0,1,True,Aston Martin,True,3.0,28.3,18.42,35.008,,False,False,7942.104,3,Australian Grand Prix
+ALO,36.0,81.687,2.0,HARD,28.0,1,True,Aston Martin,True,3.0,28.358,18.381,34.948,,False,False,8023.791,3,Australian Grand Prix
+ALO,37.0,81.573,2.0,HARD,29.0,1,True,Aston Martin,True,3.0,28.311,18.293,34.969,,False,False,8105.364,3,Australian Grand Prix
+ALO,38.0,81.716,2.0,HARD,30.0,1,True,Aston Martin,True,3.0,28.221,18.366,35.129,,False,False,8187.08,3,Australian Grand Prix
+ALO,39.0,81.654,2.0,HARD,31.0,1,True,Aston Martin,True,3.0,28.335,18.386,34.933,,False,False,8268.734,3,Australian Grand Prix
+ALO,40.0,81.694,2.0,HARD,32.0,1,True,Aston Martin,True,3.0,28.308,18.399,34.987,,False,False,8350.428,3,Australian Grand Prix
+ALO,41.0,81.37,2.0,HARD,33.0,1,True,Aston Martin,True,3.0,28.202,18.306,34.862,,False,False,8431.798,3,Australian Grand Prix
+ALO,42.0,81.284,2.0,HARD,34.0,1,True,Aston Martin,True,3.0,28.176,18.299,34.809,,False,False,8513.082,3,Australian Grand Prix
+ALO,43.0,81.206,2.0,HARD,35.0,1,True,Aston Martin,True,3.0,28.132,18.241,34.833,,False,False,8594.288,3,Australian Grand Prix
+ALO,44.0,80.959,2.0,HARD,36.0,1,True,Aston Martin,True,3.0,28.122,18.104,34.733,,False,False,8675.247,3,Australian Grand Prix
+ALO,45.0,81.063,2.0,HARD,37.0,1,True,Aston Martin,True,3.0,28.146,18.112,34.805,,False,False,8756.31,3,Australian Grand Prix
+ALO,46.0,80.69,2.0,HARD,38.0,1,True,Aston Martin,True,3.0,28.004,18.041,34.645,,False,False,8837.0,3,Australian Grand Prix
+ALO,47.0,81.031,2.0,HARD,39.0,1,True,Aston Martin,True,3.0,28.123,18.111,34.797,,False,False,8918.031,3,Australian Grand Prix
+ALO,48.0,81.118,2.0,HARD,40.0,1,True,Aston Martin,True,3.0,28.305,18.155,34.658,,False,False,8999.149,3,Australian Grand Prix
+ALO,49.0,80.734,2.0,HARD,41.0,1,True,Aston Martin,True,3.0,28.002,18.085,34.647,,False,False,9079.883,3,Australian Grand Prix
+ALO,50.0,80.723,2.0,HARD,42.0,1,True,Aston Martin,True,3.0,28.072,18.081,34.57,,False,False,9160.606,3,Australian Grand Prix
+ALO,51.0,80.904,2.0,HARD,43.0,1,True,Aston Martin,True,3.0,27.892,18.239,34.773,,False,False,9241.51,3,Australian Grand Prix
+ALO,52.0,80.516,2.0,HARD,44.0,1,True,Aston Martin,True,3.0,27.939,18.03,34.547,,False,False,9322.026,3,Australian Grand Prix
+ALO,53.0,80.476,2.0,HARD,45.0,12,True,Aston Martin,True,3.0,27.948,18.107,34.421,,False,False,9402.502,3,Australian Grand Prix
+ALO,54.0,95.066,2.0,HARD,46.0,14,False,Aston Martin,True,3.0,28.259,18.082,48.725,,False,False,9497.568,3,Australian Grand Prix
+ALO,55.0,,2.0,HARD,47.0,451,False,Aston Martin,True,3.0,41.774,32.313,,,True,False,10511.485,3,Australian Grand Prix
+ALO,56.0,,3.0,SOFT,5.0,1,False,Aston Martin,False,3.0,65.15,48.339,,,False,True,10739.998,3,Australian Grand Prix
+ALO,57.0,,3.0,SOFT,6.0,125,False,Aston Martin,False,3.0,55.327,31.956,,,True,False,12727.58,3,Australian Grand Prix
+ALO,58.0,168.784,4.0,SOFT,5.0,1,False,Aston Martin,False,3.0,61.003,48.96,58.821,,False,True,12896.364,3,Australian Grand Prix
+LEC,1.0,,1.0,MEDIUM,1.0,124,False,Ferrari,True,,,,,,False,False,3834.954,3,Australian Grand Prix
+STR,1.0,108.052,1.0,MEDIUM,2.0,124,False,Aston Martin,False,7.0,,19.292,50.986,,False,False,3845.152,3,Australian Grand Prix
+STR,2.0,131.142,1.0,MEDIUM,3.0,4,False,Aston Martin,False,7.0,47.638,32.012,51.492,,False,False,3976.294,3,Australian Grand Prix
+STR,3.0,127.757,1.0,MEDIUM,4.0,41,False,Aston Martin,False,7.0,47.476,28.293,51.988,,False,False,4104.051,3,Australian Grand Prix
+STR,4.0,84.385,1.0,MEDIUM,5.0,1,True,Aston Martin,False,7.0,29.461,18.644,36.28,,False,False,4188.436,3,Australian Grand Prix
+STR,5.0,83.937,1.0,MEDIUM,6.0,1,True,Aston Martin,False,7.0,29.358,18.652,35.927,,False,False,4272.373,3,Australian Grand Prix
+STR,6.0,83.076,1.0,MEDIUM,7.0,1,True,Aston Martin,False,7.0,28.985,18.271,35.82,,False,False,4355.449,3,Australian Grand Prix
+STR,7.0,98.03,1.0,MEDIUM,8.0,124,False,Aston Martin,False,4.0,28.91,19.043,50.077,,False,False,4453.479,3,Australian Grand Prix
+STR,8.0,,1.0,MEDIUM,9.0,451,False,Aston Martin,False,4.0,44.739,44.58,,,True,False,5534.56,3,Australian Grand Prix
+STR,9.0,,2.0,HARD,1.0,1,False,Aston Martin,True,4.0,48.799,53.627,,,False,True,5749.062,3,Australian Grand Prix
+STR,10.0,90.499,2.0,HARD,2.0,1,True,Aston Martin,True,6.0,34.86,18.991,36.648,,False,False,5839.561,3,Australian Grand Prix
+STR,11.0,84.738,2.0,HARD,3.0,1,True,Aston Martin,True,6.0,29.383,18.714,36.641,,False,False,5924.299,3,Australian Grand Prix
+STR,12.0,83.277,2.0,HARD,4.0,1,True,Aston Martin,True,6.0,29.049,18.338,35.89,,False,False,6007.576,3,Australian Grand Prix
+STR,13.0,83.802,2.0,HARD,5.0,1,True,Aston Martin,True,6.0,28.914,18.191,36.697,,False,False,6091.378,3,Australian Grand Prix
+STR,14.0,83.271,2.0,HARD,6.0,1,True,Aston Martin,True,6.0,29.193,18.241,35.837,,False,False,6174.649,3,Australian Grand Prix
+STR,15.0,83.647,2.0,HARD,7.0,1,True,Aston Martin,True,7.0,29.683,18.161,35.803,,False,False,6258.296,3,Australian Grand Prix
+STR,16.0,83.077,2.0,HARD,8.0,1,True,Aston Martin,True,7.0,29.081,18.118,35.878,,False,False,6341.373,3,Australian Grand Prix
+STR,17.0,83.317,2.0,HARD,9.0,1,True,Aston Martin,True,6.0,28.895,18.232,36.19,,False,False,6424.69,3,Australian Grand Prix
+STR,18.0,105.34,2.0,HARD,10.0,16,False,Aston Martin,True,6.0,28.755,27.216,49.369,,False,False,6530.03,3,Australian Grand Prix
+STR,19.0,98.708,2.0,HARD,11.0,671,False,Aston Martin,True,6.0,38.899,23.97,35.839,,False,False,6628.738,3,Australian Grand Prix
+STR,20.0,82.155,2.0,HARD,12.0,1,True,Aston Martin,True,6.0,28.747,18.087,35.321,,False,False,6710.893,3,Australian Grand Prix
+STR,21.0,82.187,2.0,HARD,13.0,1,True,Aston Martin,True,6.0,28.73,18.128,35.329,,False,False,6793.08,3,Australian Grand Prix
+STR,22.0,82.731,2.0,HARD,14.0,1,True,Aston Martin,True,6.0,28.824,18.195,35.712,,False,False,6875.811,3,Australian Grand Prix
+STR,23.0,82.699,2.0,HARD,15.0,1,True,Aston Martin,True,6.0,28.841,18.154,35.704,,False,False,6958.51,3,Australian Grand Prix
+STR,24.0,82.543,2.0,HARD,16.0,1,True,Aston Martin,True,6.0,28.805,18.157,35.581,,False,False,7041.053,3,Australian Grand Prix
+STR,25.0,83.371,2.0,HARD,17.0,1,True,Aston Martin,True,6.0,29.143,18.222,36.006,,False,False,7124.424,3,Australian Grand Prix
+STR,26.0,82.502,2.0,HARD,18.0,1,True,Aston Martin,True,6.0,28.844,18.177,35.481,,False,False,7206.926,3,Australian Grand Prix
+STR,27.0,82.104,2.0,HARD,19.0,1,True,Aston Martin,True,6.0,28.687,18.162,35.255,,False,False,7289.03,3,Australian Grand Prix
+STR,28.0,82.187,2.0,HARD,20.0,1,True,Aston Martin,True,6.0,28.703,18.173,35.311,,False,False,7371.217,3,Australian Grand Prix
+STR,29.0,82.005,2.0,HARD,21.0,1,True,Aston Martin,True,6.0,28.47,18.099,35.436,,False,False,7453.222,3,Australian Grand Prix
+STR,30.0,82.187,2.0,HARD,22.0,1,True,Aston Martin,True,6.0,28.68,18.098,35.409,,False,False,7535.409,3,Australian Grand Prix
+STR,31.0,82.069,2.0,HARD,23.0,1,True,Aston Martin,True,6.0,28.602,18.041,35.426,,False,False,7617.478,3,Australian Grand Prix
+STR,32.0,82.174,2.0,HARD,24.0,1,True,Aston Martin,True,6.0,28.586,18.129,35.459,,False,False,7699.652,3,Australian Grand Prix
+STR,33.0,81.976,2.0,HARD,25.0,1,True,Aston Martin,True,6.0,28.535,18.15,35.291,,False,False,7781.628,3,Australian Grand Prix
+STR,34.0,82.231,2.0,HARD,26.0,1,True,Aston Martin,True,6.0,28.612,18.275,35.344,,False,False,7863.859,3,Australian Grand Prix
+STR,35.0,82.065,2.0,HARD,27.0,1,True,Aston Martin,True,6.0,28.481,18.269,35.315,,False,False,7945.924,3,Australian Grand Prix
+STR,36.0,82.048,2.0,HARD,28.0,1,True,Aston Martin,True,6.0,28.414,18.233,35.401,,False,False,8027.972,3,Australian Grand Prix
+STR,37.0,82.298,2.0,HARD,29.0,1,True,Aston Martin,True,6.0,28.633,18.461,35.204,,False,False,8110.27,3,Australian Grand Prix
+STR,38.0,81.451,2.0,HARD,30.0,1,True,Aston Martin,True,6.0,28.283,18.22,34.948,,False,False,8191.721,3,Australian Grand Prix
+STR,39.0,81.691,2.0,HARD,31.0,1,True,Aston Martin,True,6.0,28.336,18.332,35.023,,False,False,8273.412,3,Australian Grand Prix
+STR,40.0,81.506,2.0,HARD,32.0,1,True,Aston Martin,True,6.0,28.279,18.343,34.884,,False,False,8354.918,3,Australian Grand Prix
+STR,41.0,81.725,2.0,HARD,33.0,1,True,Aston Martin,True,6.0,28.361,18.277,35.087,,False,False,8436.643,3,Australian Grand Prix
+STR,42.0,81.583,2.0,HARD,34.0,1,True,Aston Martin,True,6.0,28.383,18.25,34.95,,False,False,8518.226,3,Australian Grand Prix
+STR,43.0,81.189,2.0,HARD,35.0,1,True,Aston Martin,True,6.0,28.245,18.258,34.686,,False,False,8599.415,3,Australian Grand Prix
+STR,44.0,82.039,2.0,HARD,36.0,1,True,Aston Martin,True,6.0,28.995,18.313,34.731,,False,False,8681.454,3,Australian Grand Prix
+STR,45.0,81.317,2.0,HARD,37.0,1,True,Aston Martin,True,6.0,28.254,18.194,34.869,,False,False,8762.771,3,Australian Grand Prix
+STR,46.0,81.273,2.0,HARD,38.0,1,True,Aston Martin,True,6.0,28.461,18.186,34.626,,False,False,8844.044,3,Australian Grand Prix
+STR,47.0,81.435,2.0,HARD,39.0,1,True,Aston Martin,True,6.0,28.235,18.202,34.998,,False,False,8925.479,3,Australian Grand Prix
+STR,48.0,81.025,2.0,HARD,40.0,1,True,Aston Martin,True,6.0,28.155,18.162,34.708,,False,False,9006.504,3,Australian Grand Prix
+STR,49.0,81.133,2.0,HARD,41.0,1,True,Aston Martin,True,6.0,28.252,18.149,34.732,,False,False,9087.637,3,Australian Grand Prix
+STR,50.0,80.934,2.0,HARD,42.0,1,True,Aston Martin,True,6.0,28.417,17.941,34.576,,False,False,9168.571,3,Australian Grand Prix
+STR,51.0,81.155,2.0,HARD,43.0,1,True,Aston Martin,True,6.0,28.293,18.201,34.661,,False,False,9249.726,3,Australian Grand Prix
+STR,52.0,81.131,2.0,HARD,44.0,1,True,Aston Martin,True,6.0,28.203,18.18,34.748,,False,False,9330.857,3,Australian Grand Prix
+STR,53.0,80.957,2.0,HARD,45.0,12,True,Aston Martin,True,6.0,28.114,18.101,34.742,,False,False,9411.814,3,Australian Grand Prix
+STR,54.0,99.175,2.0,HARD,46.0,14,False,Aston Martin,True,6.0,28.313,23.743,47.119,,False,False,9510.989,3,Australian Grand Prix
+STR,55.0,,2.0,HARD,47.0,451,False,Aston Martin,True,6.0,41.852,24.773,,,True,False,10520.471,3,Australian Grand Prix
+STR,56.0,,3.0,SOFT,6.0,1,False,Aston Martin,False,6.0,62.104,47.445,,,False,True,10741.0,3,Australian Grand Prix
+STR,57.0,,3.0,SOFT,7.0,125,False,Aston Martin,False,5.0,56.172,31.512,,,True,False,12731.526,3,Australian Grand Prix
+STR,58.0,167.064,4.0,SOFT,7.0,1,False,Aston Martin,False,5.0,58.399,49.348,59.317,,False,True,12898.59,3,Australian Grand Prix
+SAR,1.0,131.454,1.0,HARD,1.0,124,False,Williams,True,17.0,,18.82,71.597,,True,False,3868.554,3,Australian Grand Prix
+SAR,2.0,133.1,2.0,MEDIUM,1.0,4,False,Williams,True,19.0,40.196,28.543,64.361,,True,True,4001.654,3,Australian Grand Prix
+SAR,3.0,110.807,3.0,HARD,2.0,41,False,Williams,False,19.0,37.071,27.405,46.331,,False,True,4112.461,3,Australian Grand Prix
+SAR,4.0,85.804,3.0,HARD,3.0,1,True,Williams,False,19.0,30.077,18.641,37.086,,False,False,4198.265,3,Australian Grand Prix
+SAR,5.0,85.136,3.0,HARD,4.0,1,True,Williams,False,19.0,29.782,18.55,36.804,,False,False,4283.401,3,Australian Grand Prix
+SAR,6.0,84.319,3.0,HARD,5.0,1,True,Williams,False,19.0,29.383,18.421,36.515,,False,False,4367.72,3,Australian Grand Prix
+SAR,7.0,102.694,3.0,HARD,6.0,124,False,Williams,False,17.0,29.233,26.854,46.607,,False,False,4470.414,3,Australian Grand Prix
+SAR,8.0,,3.0,HARD,7.0,451,False,Williams,False,17.0,43.834,43.902,,,True,False,5577.25,3,Australian Grand Prix
+SAR,9.0,174.365,4.0,MEDIUM,1.0,1,False,Williams,True,16.0,41.272,42.877,90.216,,False,True,5751.615,3,Australian Grand Prix
+SAR,10.0,92.633,4.0,MEDIUM,2.0,1,True,Williams,True,15.0,35.529,19.143,37.961,,False,False,5844.248,3,Australian Grand Prix
+SAR,11.0,85.76,4.0,MEDIUM,3.0,1,True,Williams,True,15.0,30.291,18.295,37.174,,False,False,5930.008,3,Australian Grand Prix
+SAR,12.0,84.08,4.0,MEDIUM,4.0,1,True,Williams,True,15.0,29.558,17.994,36.528,,False,False,6014.088,3,Australian Grand Prix
+SAR,13.0,84.245,4.0,MEDIUM,5.0,1,True,Williams,True,16.0,29.008,18.062,37.175,,False,False,6098.333,3,Australian Grand Prix
+SAR,14.0,83.499,4.0,MEDIUM,6.0,1,True,Williams,True,16.0,28.904,18.039,36.556,,False,False,6181.832,3,Australian Grand Prix
+SAR,15.0,84.186,4.0,MEDIUM,7.0,1,True,Williams,True,16.0,29.17,18.106,36.91,,False,False,6266.018,3,Australian Grand Prix
+SAR,16.0,84.676,4.0,MEDIUM,8.0,1,True,Williams,True,16.0,29.771,18.23,36.675,,False,False,6350.694,3,Australian Grand Prix
+SAR,17.0,84.105,4.0,MEDIUM,9.0,1,True,Williams,True,16.0,29.316,18.14,36.649,,False,False,6434.799,3,Australian Grand Prix
+SAR,18.0,109.052,4.0,MEDIUM,10.0,16,False,Williams,True,15.0,35.806,24.413,48.833,,False,False,6543.851,3,Australian Grand Prix
+SAR,19.0,96.916,4.0,MEDIUM,11.0,671,False,Williams,True,15.0,39.127,20.935,36.854,,False,False,6640.767,3,Australian Grand Prix
+SAR,20.0,83.766,4.0,MEDIUM,12.0,1,True,Williams,True,15.0,29.256,18.139,36.371,,False,False,6724.533,3,Australian Grand Prix
+SAR,21.0,83.878,4.0,MEDIUM,13.0,1,True,Williams,True,15.0,29.064,18.39,36.424,,False,False,6808.411,3,Australian Grand Prix
+SAR,22.0,84.059,4.0,MEDIUM,14.0,1,True,Williams,True,15.0,29.322,18.326,36.411,,False,False,6892.47,3,Australian Grand Prix
+SAR,23.0,83.982,4.0,MEDIUM,15.0,1,True,Williams,True,15.0,29.394,18.363,36.225,,False,False,6976.452,3,Australian Grand Prix
+SAR,24.0,84.049,4.0,MEDIUM,16.0,1,True,Williams,True,15.0,29.367,18.288,36.394,,False,False,7060.501,3,Australian Grand Prix
+SAR,25.0,83.993,4.0,MEDIUM,17.0,1,True,Williams,True,15.0,29.395,18.354,36.244,,False,False,7144.494,3,Australian Grand Prix
+SAR,26.0,84.205,4.0,MEDIUM,18.0,1,True,Williams,True,15.0,29.519,18.374,36.312,,False,False,7228.699,3,Australian Grand Prix
+SAR,27.0,83.758,4.0,MEDIUM,19.0,1,True,Williams,True,15.0,29.386,18.308,36.064,,False,False,7312.457,3,Australian Grand Prix
+SAR,28.0,83.735,4.0,MEDIUM,20.0,1,True,Williams,True,15.0,29.28,18.285,36.17,,False,False,7396.192,3,Australian Grand Prix
+SAR,29.0,84.122,4.0,MEDIUM,21.0,1,True,Williams,True,15.0,29.414,18.4,36.308,,False,False,7480.314,3,Australian Grand Prix
+SAR,30.0,84.282,4.0,MEDIUM,22.0,1,True,Williams,True,15.0,29.555,18.412,36.315,,False,False,7564.596,3,Australian Grand Prix
+SAR,31.0,84.16,4.0,MEDIUM,23.0,1,True,Williams,True,15.0,29.438,18.458,36.264,,False,False,7648.756,3,Australian Grand Prix
+SAR,32.0,83.996,4.0,MEDIUM,24.0,1,True,Williams,True,15.0,29.425,18.4,36.171,,False,False,7732.752,3,Australian Grand Prix
+SAR,33.0,84.377,4.0,MEDIUM,25.0,1,True,Williams,True,15.0,29.543,18.497,36.337,,False,False,7817.129,3,Australian Grand Prix
+SAR,34.0,83.848,4.0,MEDIUM,26.0,1,True,Williams,True,15.0,29.394,18.434,36.02,,False,False,7900.977,3,Australian Grand Prix
+SAR,35.0,84.874,4.0,MEDIUM,27.0,1,True,Williams,True,16.0,29.873,18.246,36.755,,False,False,7985.851,3,Australian Grand Prix
+SAR,36.0,99.313,4.0,MEDIUM,28.0,1,False,Williams,True,17.0,29.336,18.374,51.603,,True,False,8085.164,3,Australian Grand Prix
+SAR,37.0,89.657,5.0,HARD,8.0,1,False,Williams,False,17.0,35.111,18.523,36.023,,False,True,8174.821,3,Australian Grand Prix
+SAR,38.0,84.396,5.0,HARD,9.0,1,True,Williams,False,17.0,30.631,18.145,35.62,,False,False,8259.217,3,Australian Grand Prix
+SAR,39.0,82.887,5.0,HARD,10.0,1,True,Williams,False,17.0,28.727,18.38,35.78,,False,False,8342.104,3,Australian Grand Prix
+SAR,40.0,82.674,5.0,HARD,11.0,1,True,Williams,False,17.0,28.994,18.25,35.43,,False,False,8424.778,3,Australian Grand Prix
+SAR,41.0,81.974,5.0,HARD,12.0,1,True,Williams,False,17.0,28.622,18.181,35.171,,False,False,8506.752,3,Australian Grand Prix
+SAR,42.0,81.945,5.0,HARD,13.0,1,True,Williams,False,17.0,28.751,18.136,35.058,,False,False,8588.697,3,Australian Grand Prix
+SAR,43.0,81.881,5.0,HARD,14.0,1,True,Williams,False,17.0,28.745,18.033,35.103,,False,False,8670.578,3,Australian Grand Prix
+SAR,44.0,81.57,5.0,HARD,15.0,1,True,Williams,False,17.0,28.556,18.018,34.996,,False,False,8752.148,3,Australian Grand Prix
+SAR,45.0,81.912,5.0,HARD,16.0,1,True,Williams,False,16.0,28.6,18.029,35.283,,False,False,8834.06,3,Australian Grand Prix
+SAR,46.0,81.563,5.0,HARD,17.0,1,True,Williams,False,16.0,28.412,18.076,35.075,,False,False,8915.623,3,Australian Grand Prix
+SAR,47.0,85.687,5.0,HARD,18.0,1,True,Williams,False,16.0,31.383,18.033,36.271,,False,False,9001.31,3,Australian Grand Prix
+SAR,48.0,85.121,5.0,HARD,19.0,1,True,Williams,False,16.0,31.943,18.126,35.052,,False,False,9086.431,3,Australian Grand Prix
+SAR,49.0,83.324,5.0,HARD,20.0,1,True,Williams,False,16.0,28.66,19.023,35.641,,False,False,9169.755,3,Australian Grand Prix
+SAR,50.0,81.456,5.0,HARD,21.0,1,True,Williams,False,16.0,28.208,17.922,35.326,,False,False,9251.211,3,Australian Grand Prix
+SAR,51.0,83.403,5.0,HARD,22.0,1,True,Williams,False,16.0,29.834,18.193,35.376,,False,False,9334.614,3,Australian Grand Prix
+SAR,52.0,81.514,5.0,HARD,23.0,12,True,Williams,False,16.0,28.321,17.964,35.229,,False,False,9416.128,3,Australian Grand Prix
+SAR,53.0,101.181,5.0,HARD,24.0,14,False,Williams,False,15.0,28.717,24.754,47.71,,False,False,9517.309,3,Australian Grand Prix
+SAR,54.0,,5.0,HARD,25.0,45,False,Williams,False,15.0,39.654,25.089,,,True,False,9911.5,3,Australian Grand Prix
+SAR,55.0,,6.0,SOFT,1.0,51,False,Williams,True,15.0,,19.457,,,True,True,10555.387,3,Australian Grand Prix
+SAR,56.0,187.662,7.0,SOFT,2.0,1,False,Williams,False,16.0,48.935,41.733,96.994,,False,True,10743.049,3,Australian Grand Prix
+SAR,57.0,,7.0,SOFT,3.0,12,False,Williams,False,,,,,,False,False,10764.751,3,Australian Grand Prix
+MAG,1.0,118.026,1.0,MEDIUM,1.0,124,False,Haas F1 Team,True,12.0,,19.134,59.285,,False,False,3855.126,3,Australian Grand Prix
+MAG,2.0,127.597,1.0,MEDIUM,2.0,4,False,Haas F1 Team,True,12.0,44.888,31.126,51.583,,False,False,3982.723,3,Australian Grand Prix
+MAG,3.0,124.025,1.0,MEDIUM,3.0,41,False,Haas F1 Team,True,12.0,48.199,28.516,47.31,,False,False,4106.748,3,Australian Grand Prix
+MAG,4.0,85.406,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,12.0,29.986,18.623,36.797,,False,False,4192.154,3,Australian Grand Prix
+MAG,5.0,85.054,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,12.0,29.749,18.706,36.599,,False,False,4277.208,3,Australian Grand Prix
+MAG,6.0,83.956,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,12.0,29.421,18.553,35.982,,False,False,4361.164,3,Australian Grand Prix
+MAG,7.0,117.79,1.0,MEDIUM,7.0,124,False,Haas F1 Team,True,18.0,28.974,20.885,67.931,,True,False,4478.954,3,Australian Grand Prix
+MAG,8.0,,2.0,HARD,1.0,451,False,Haas F1 Team,True,18.0,39.872,41.069,,,True,True,5584.13,3,Australian Grand Prix
+MAG,9.0,167.847,3.0,HARD,2.0,1,False,Haas F1 Team,False,18.0,38.639,42.517,86.691,,False,True,5751.977,3,Australian Grand Prix
+MAG,10.0,92.162,3.0,HARD,3.0,1,True,Haas F1 Team,False,14.0,34.906,19.187,38.069,,False,False,5844.139,3,Australian Grand Prix
+MAG,11.0,85.389,3.0,HARD,4.0,1,True,Haas F1 Team,False,14.0,30.034,18.621,36.734,,False,False,5929.528,3,Australian Grand Prix
+MAG,12.0,83.863,3.0,HARD,5.0,1,True,Haas F1 Team,False,14.0,29.567,18.276,36.02,,False,False,6013.391,3,Australian Grand Prix
+MAG,13.0,83.538,3.0,HARD,6.0,1,True,Haas F1 Team,False,14.0,29.177,18.223,36.138,,False,False,6096.929,3,Australian Grand Prix
+MAG,14.0,83.519,3.0,HARD,7.0,1,True,Haas F1 Team,False,14.0,29.153,18.197,36.169,,False,False,6180.448,3,Australian Grand Prix
+MAG,15.0,85.158,3.0,HARD,8.0,1,True,Haas F1 Team,False,15.0,29.414,18.361,37.383,,False,False,6265.606,3,Australian Grand Prix
+MAG,16.0,84.687,3.0,HARD,9.0,1,True,Haas F1 Team,False,15.0,29.521,18.264,36.902,,False,False,6350.293,3,Australian Grand Prix
+MAG,17.0,83.574,3.0,HARD,10.0,1,True,Haas F1 Team,False,15.0,29.222,18.206,36.146,,False,False,6433.867,3,Australian Grand Prix
+MAG,18.0,109.154,3.0,HARD,11.0,16,False,Haas F1 Team,False,14.0,35.758,24.53,48.866,,False,False,6543.021,3,Australian Grand Prix
+MAG,19.0,96.945,3.0,HARD,12.0,671,False,Haas F1 Team,False,14.0,39.593,21.295,36.057,,False,False,6639.966,3,Australian Grand Prix
+MAG,20.0,83.584,3.0,HARD,13.0,1,True,Haas F1 Team,False,14.0,29.223,18.423,35.938,,False,False,6723.55,3,Australian Grand Prix
+MAG,21.0,83.425,3.0,HARD,14.0,1,True,Haas F1 Team,False,14.0,29.112,18.439,35.874,,False,False,6806.975,3,Australian Grand Prix
+MAG,22.0,83.387,3.0,HARD,15.0,1,True,Haas F1 Team,False,14.0,29.203,18.412,35.772,,False,False,6890.362,3,Australian Grand Prix
+MAG,23.0,83.313,3.0,HARD,16.0,1,True,Haas F1 Team,False,14.0,28.973,18.427,35.913,,False,False,6973.675,3,Australian Grand Prix
+MAG,24.0,83.043,3.0,HARD,17.0,1,True,Haas F1 Team,False,14.0,29.006,18.416,35.621,,False,False,7056.718,3,Australian Grand Prix
+MAG,25.0,83.216,3.0,HARD,18.0,1,True,Haas F1 Team,False,14.0,29.023,18.384,35.809,,False,False,7139.934,3,Australian Grand Prix
+MAG,26.0,83.235,3.0,HARD,19.0,1,True,Haas F1 Team,False,14.0,29.003,18.395,35.837,,False,False,7223.169,3,Australian Grand Prix
+MAG,27.0,82.554,3.0,HARD,20.0,1,True,Haas F1 Team,False,14.0,28.793,17.995,35.766,,False,False,7305.723,3,Australian Grand Prix
+MAG,28.0,83.442,3.0,HARD,21.0,1,True,Haas F1 Team,False,14.0,29.255,18.477,35.71,,False,False,7389.165,3,Australian Grand Prix
+MAG,29.0,82.587,3.0,HARD,22.0,1,True,Haas F1 Team,False,14.0,28.821,17.988,35.778,,False,False,7471.752,3,Australian Grand Prix
+MAG,30.0,83.476,3.0,HARD,23.0,1,True,Haas F1 Team,False,14.0,28.938,18.093,36.445,,False,False,7555.228,3,Australian Grand Prix
+MAG,31.0,84.146,3.0,HARD,24.0,1,True,Haas F1 Team,False,14.0,29.249,18.016,36.881,,False,False,7639.374,3,Australian Grand Prix
+MAG,32.0,83.534,3.0,HARD,25.0,1,True,Haas F1 Team,False,14.0,29.249,18.085,36.2,,False,False,7722.908,3,Australian Grand Prix
+MAG,33.0,82.592,3.0,HARD,26.0,1,True,Haas F1 Team,False,14.0,28.886,17.998,35.708,,False,False,7805.5,3,Australian Grand Prix
+MAG,34.0,83.295,3.0,HARD,27.0,1,True,Haas F1 Team,False,14.0,28.988,18.037,36.27,,False,False,7888.795,3,Australian Grand Prix
+MAG,35.0,84.159,3.0,HARD,28.0,1,True,Haas F1 Team,False,13.0,30.234,18.07,35.855,,False,False,7972.954,3,Australian Grand Prix
+MAG,36.0,82.807,3.0,HARD,29.0,1,True,Haas F1 Team,False,12.0,28.777,18.087,35.943,,False,False,8055.761,3,Australian Grand Prix
+MAG,37.0,83.212,3.0,HARD,30.0,1,True,Haas F1 Team,False,12.0,29.012,18.525,35.675,,False,False,8138.973,3,Australian Grand Prix
+MAG,38.0,82.647,3.0,HARD,31.0,1,True,Haas F1 Team,False,12.0,28.82,18.495,35.332,,False,False,8221.62,3,Australian Grand Prix
+MAG,39.0,82.484,3.0,HARD,32.0,1,True,Haas F1 Team,False,12.0,28.71,18.495,35.279,,False,False,8304.104,3,Australian Grand Prix
+MAG,40.0,82.141,3.0,HARD,33.0,1,True,Haas F1 Team,False,12.0,28.533,18.399,35.209,,False,False,8386.245,3,Australian Grand Prix
+MAG,41.0,82.774,3.0,HARD,34.0,1,True,Haas F1 Team,False,12.0,28.594,18.409,35.771,,False,False,8469.019,3,Australian Grand Prix
+MAG,42.0,82.53,3.0,HARD,35.0,1,True,Haas F1 Team,False,12.0,28.834,18.426,35.27,,False,False,8551.549,3,Australian Grand Prix
+MAG,43.0,82.209,3.0,HARD,36.0,1,True,Haas F1 Team,False,12.0,28.652,18.388,35.169,,False,False,8633.758,3,Australian Grand Prix
+MAG,44.0,82.164,3.0,HARD,37.0,1,True,Haas F1 Team,False,12.0,28.602,18.385,35.177,,False,False,8715.922,3,Australian Grand Prix
+MAG,45.0,81.963,3.0,HARD,38.0,1,True,Haas F1 Team,False,12.0,28.727,18.265,34.971,,False,False,8797.885,3,Australian Grand Prix
+MAG,46.0,81.792,3.0,HARD,39.0,1,True,Haas F1 Team,False,12.0,28.433,18.314,35.045,,False,False,8879.677,3,Australian Grand Prix
+MAG,47.0,81.919,3.0,HARD,40.0,1,True,Haas F1 Team,False,12.0,28.522,18.38,35.017,,False,False,8961.596,3,Australian Grand Prix
+MAG,48.0,81.972,3.0,HARD,41.0,1,True,Haas F1 Team,False,12.0,28.428,18.401,35.143,,False,False,9043.568,3,Australian Grand Prix
+MAG,49.0,81.963,3.0,HARD,42.0,1,True,Haas F1 Team,False,12.0,28.425,18.397,35.141,,False,False,9125.531,3,Australian Grand Prix
+MAG,50.0,81.978,3.0,HARD,43.0,1,True,Haas F1 Team,False,12.0,28.532,18.399,35.047,,False,False,9207.509,3,Australian Grand Prix
+MAG,51.0,82.575,3.0,HARD,44.0,1,True,Haas F1 Team,False,12.0,28.497,18.38,35.698,,False,False,9290.084,3,Australian Grand Prix
+MAG,52.0,81.685,3.0,HARD,45.0,1,True,Haas F1 Team,False,12.0,28.475,18.273,34.937,,False,False,9371.769,3,Australian Grand Prix
+MAG,53.0,,3.0,HARD,46.0,124,False,Haas F1 Team,False,,,,,,False,False,9605.748,3,Australian Grand Prix
+DEV,1.0,119.887,1.0,HARD,1.0,124,False,AlphaTauri,True,14.0,,19.23,59.997,,False,False,3856.987,3,Australian Grand Prix
+DEV,2.0,127.5,1.0,HARD,2.0,4,False,AlphaTauri,True,14.0,45.085,30.76,51.655,,False,False,3984.487,3,Australian Grand Prix
+DEV,3.0,123.952,1.0,HARD,3.0,41,False,AlphaTauri,True,14.0,48.178,28.173,47.601,,False,False,4108.439,3,Australian Grand Prix
+DEV,4.0,85.259,1.0,HARD,4.0,1,True,AlphaTauri,True,14.0,29.751,18.691,36.817,,False,False,4193.698,3,Australian Grand Prix
+DEV,5.0,85.025,1.0,HARD,5.0,1,True,AlphaTauri,True,14.0,29.641,18.745,36.639,,False,False,4278.723,3,Australian Grand Prix
+DEV,6.0,84.18,1.0,HARD,6.0,1,True,AlphaTauri,True,14.0,29.543,18.288,36.349,,False,False,4362.903,3,Australian Grand Prix
+DEV,7.0,101.827,1.0,HARD,7.0,124,False,AlphaTauri,True,12.0,29.233,25.992,46.602,,False,False,4464.73,3,Australian Grand Prix
+DEV,8.0,,1.0,HARD,8.0,451,False,AlphaTauri,True,12.0,44.538,43.661,,,True,False,5563.525,3,Australian Grand Prix
+DEV,9.0,187.449,2.0,MEDIUM,1.0,1,False,AlphaTauri,True,12.0,40.469,49.979,97.001,,False,True,5750.974,3,Australian Grand Prix
+DEV,10.0,94.287,2.0,MEDIUM,2.0,1,True,AlphaTauri,True,17.0,37.204,19.515,37.568,,False,False,5845.261,3,Australian Grand Prix
+DEV,11.0,85.891,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,17.0,30.459,18.719,36.713,,False,False,5931.152,3,Australian Grand Prix
+DEV,12.0,84.118,2.0,MEDIUM,4.0,1,True,AlphaTauri,True,17.0,29.698,18.258,36.162,,False,False,6015.27,3,Australian Grand Prix
+DEV,13.0,83.579,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,17.0,29.181,18.279,36.119,,False,False,6098.849,3,Australian Grand Prix
+DEV,14.0,83.662,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,17.0,29.306,18.344,36.012,,False,False,6182.511,3,Australian Grand Prix
+DEV,15.0,83.984,2.0,MEDIUM,7.0,1,True,AlphaTauri,True,17.0,29.132,18.292,36.56,,False,False,6266.495,3,Australian Grand Prix
+DEV,16.0,84.689,2.0,MEDIUM,8.0,1,True,AlphaTauri,True,17.0,29.625,18.447,36.617,,False,False,6351.184,3,Australian Grand Prix
+DEV,17.0,84.01,2.0,MEDIUM,9.0,1,True,AlphaTauri,True,17.0,29.325,18.292,36.393,,False,False,6435.194,3,Australian Grand Prix
+DEV,18.0,111.842,2.0,MEDIUM,10.0,16,False,AlphaTauri,True,17.0,39.575,23.181,49.086,,False,False,6547.036,3,Australian Grand Prix
+DEV,19.0,95.942,2.0,MEDIUM,11.0,671,False,AlphaTauri,True,17.0,38.398,21.428,36.116,,False,False,6642.978,3,Australian Grand Prix
+DEV,20.0,84.161,2.0,MEDIUM,12.0,1,True,AlphaTauri,True,16.0,29.05,18.172,36.939,,False,False,6727.139,3,Australian Grand Prix
+DEV,21.0,83.792,2.0,MEDIUM,13.0,1,True,AlphaTauri,True,16.0,29.249,18.609,35.934,,False,False,6810.931,3,Australian Grand Prix
+DEV,22.0,84.349,2.0,MEDIUM,14.0,1,True,AlphaTauri,True,16.0,29.29,18.659,36.4,,False,False,6895.28,3,Australian Grand Prix
+DEV,23.0,84.019,2.0,MEDIUM,15.0,1,True,AlphaTauri,True,16.0,29.301,18.616,36.102,,False,False,6979.299,3,Australian Grand Prix
+DEV,24.0,84.229,2.0,MEDIUM,16.0,1,True,AlphaTauri,True,16.0,29.436,18.562,36.231,,False,False,7063.528,3,Australian Grand Prix
+DEV,25.0,84.453,2.0,MEDIUM,17.0,1,True,AlphaTauri,True,16.0,29.548,18.612,36.293,,False,False,7147.981,3,Australian Grand Prix
+DEV,26.0,84.353,2.0,MEDIUM,18.0,1,True,AlphaTauri,True,16.0,29.42,18.601,36.332,,False,False,7232.334,3,Australian Grand Prix
+DEV,27.0,86.014,2.0,MEDIUM,19.0,1,True,AlphaTauri,True,17.0,30.898,18.515,36.601,,False,False,7318.348,3,Australian Grand Prix
+DEV,28.0,84.406,2.0,MEDIUM,20.0,1,True,AlphaTauri,True,17.0,29.271,18.623,36.512,,False,False,7402.754,3,Australian Grand Prix
+DEV,29.0,84.527,2.0,MEDIUM,21.0,1,True,AlphaTauri,True,17.0,29.483,18.62,36.424,,False,False,7487.281,3,Australian Grand Prix
+DEV,30.0,84.284,2.0,MEDIUM,22.0,1,True,AlphaTauri,True,17.0,29.403,18.585,36.296,,False,False,7571.565,3,Australian Grand Prix
+DEV,31.0,84.333,2.0,MEDIUM,23.0,1,True,AlphaTauri,True,17.0,29.314,18.685,36.334,,False,False,7655.898,3,Australian Grand Prix
+DEV,32.0,84.357,2.0,MEDIUM,24.0,1,True,AlphaTauri,True,17.0,29.393,18.692,36.272,,False,False,7740.255,3,Australian Grand Prix
+DEV,33.0,83.992,2.0,MEDIUM,25.0,1,True,AlphaTauri,True,17.0,29.382,18.511,36.099,,False,False,7824.247,3,Australian Grand Prix
+DEV,34.0,84.134,2.0,MEDIUM,26.0,1,True,AlphaTauri,True,17.0,29.241,18.697,36.196,,False,False,7908.381,3,Australian Grand Prix
+DEV,35.0,84.628,2.0,MEDIUM,27.0,1,True,AlphaTauri,True,17.0,29.194,18.684,36.75,,False,False,7993.009,3,Australian Grand Prix
+DEV,36.0,84.398,2.0,MEDIUM,28.0,1,True,AlphaTauri,True,16.0,29.425,18.593,36.38,,False,False,8077.407,3,Australian Grand Prix
+DEV,37.0,84.155,2.0,MEDIUM,29.0,1,True,AlphaTauri,True,16.0,29.252,18.684,36.219,,False,False,8161.562,3,Australian Grand Prix
+DEV,38.0,84.131,2.0,MEDIUM,30.0,1,True,AlphaTauri,True,16.0,29.331,18.637,36.163,,False,False,8245.693,3,Australian Grand Prix
+DEV,39.0,83.947,2.0,MEDIUM,31.0,1,True,AlphaTauri,True,16.0,29.12,18.697,36.13,,False,False,8329.64,3,Australian Grand Prix
+DEV,40.0,83.933,2.0,MEDIUM,32.0,1,True,AlphaTauri,True,16.0,29.248,18.685,36.0,,False,False,8413.573,3,Australian Grand Prix
+DEV,41.0,83.696,2.0,MEDIUM,33.0,1,True,AlphaTauri,True,16.0,29.056,18.621,36.019,,False,False,8497.269,3,Australian Grand Prix
+DEV,42.0,84.184,2.0,MEDIUM,34.0,1,True,AlphaTauri,True,16.0,29.234,18.701,36.249,,False,False,8581.453,3,Australian Grand Prix
+DEV,43.0,85.035,2.0,MEDIUM,35.0,1,True,AlphaTauri,True,16.0,30.559,18.586,35.89,,False,False,8666.488,3,Australian Grand Prix
+DEV,44.0,83.637,2.0,MEDIUM,36.0,1,True,AlphaTauri,True,16.0,29.165,18.591,35.881,,False,False,8750.125,3,Australian Grand Prix
+DEV,45.0,98.544,2.0,MEDIUM,37.0,1,False,AlphaTauri,True,17.0,29.246,18.57,50.728,,True,False,8848.669,3,Australian Grand Prix
+DEV,46.0,88.53,3.0,SOFT,1.0,1,False,AlphaTauri,True,17.0,34.684,18.646,35.2,,False,True,8937.199,3,Australian Grand Prix
+DEV,47.0,81.844,3.0,SOFT,2.0,1,True,AlphaTauri,True,17.0,28.378,18.415,35.051,,False,False,9019.043,3,Australian Grand Prix
+DEV,48.0,81.693,3.0,SOFT,3.0,1,True,AlphaTauri,True,17.0,28.391,18.378,34.924,,False,False,9100.736,3,Australian Grand Prix
+DEV,49.0,81.288,3.0,SOFT,4.0,1,True,AlphaTauri,True,17.0,28.265,18.287,34.736,,False,False,9182.024,3,Australian Grand Prix
+DEV,50.0,81.183,3.0,SOFT,5.0,1,True,AlphaTauri,True,17.0,28.155,18.299,34.729,,False,False,9263.207,3,Australian Grand Prix
+DEV,51.0,81.331,3.0,SOFT,6.0,1,True,AlphaTauri,True,17.0,28.289,18.219,34.823,,False,False,9344.538,3,Australian Grand Prix
+DEV,52.0,81.189,3.0,SOFT,7.0,12,True,AlphaTauri,True,17.0,28.328,18.157,34.704,,False,False,9425.727,3,Australian Grand Prix
+DEV,53.0,105.538,3.0,SOFT,8.0,14,False,AlphaTauri,True,16.0,29.774,25.646,50.118,,False,False,9531.265,3,Australian Grand Prix
+DEV,54.0,,3.0,SOFT,9.0,45,False,AlphaTauri,True,16.0,39.176,25.203,,,True,False,10090.199,3,Australian Grand Prix
+DEV,55.0,,4.0,SOFT,5.0,51,False,AlphaTauri,False,16.0,,19.937,,,True,True,10557.865,3,Australian Grand Prix
+DEV,56.0,184.995,5.0,SOFT,6.0,1,False,AlphaTauri,False,15.0,48.662,41.003,95.33,,False,True,10742.86,3,Australian Grand Prix
+DEV,57.0,,5.0,SOFT,7.0,12,False,AlphaTauri,False,,,,,,False,False,10764.751,3,Australian Grand Prix
+TSU,1.0,113.776,1.0,MEDIUM,1.0,124,False,AlphaTauri,True,10.0,,19.12,55.577,,False,False,3850.876,3,Australian Grand Prix
+TSU,2.0,130.201,1.0,MEDIUM,2.0,4,False,AlphaTauri,True,10.0,45.585,32.958,51.658,,False,False,3981.077,3,Australian Grand Prix
+TSU,3.0,124.796,1.0,MEDIUM,3.0,41,False,AlphaTauri,True,10.0,46.162,29.67,48.964,,False,False,4105.873,3,Australian Grand Prix
+TSU,4.0,85.299,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,10.0,29.88,18.731,36.688,,False,False,4191.172,3,Australian Grand Prix
+TSU,5.0,84.62,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,10.0,29.502,18.737,36.381,,False,False,4275.792,3,Australian Grand Prix
+TSU,6.0,84.11,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,10.0,29.272,18.683,36.155,,False,False,4359.902,3,Australian Grand Prix
+TSU,7.0,101.839,1.0,MEDIUM,7.0,124,False,AlphaTauri,True,9.0,29.343,20.89,51.606,,False,False,4461.741,3,Australian Grand Prix
+TSU,8.0,,1.0,MEDIUM,8.0,451,False,AlphaTauri,True,8.0,43.542,44.471,,,True,False,5549.95,3,Australian Grand Prix
+TSU,9.0,,2.0,HARD,1.0,1,False,AlphaTauri,True,8.0,42.533,52.346,,,False,True,5750.27,3,Australian Grand Prix
+TSU,10.0,90.664,2.0,HARD,2.0,1,True,AlphaTauri,True,8.0,34.642,19.067,36.955,,False,False,5840.934,3,Australian Grand Prix
+TSU,11.0,84.878,2.0,HARD,3.0,1,True,AlphaTauri,True,8.0,29.617,18.717,36.544,,False,False,5925.812,3,Australian Grand Prix
+TSU,12.0,84.596,2.0,HARD,4.0,1,True,AlphaTauri,True,9.0,30.045,18.479,36.072,,False,False,6010.408,3,Australian Grand Prix
+TSU,13.0,83.629,2.0,HARD,5.0,1,True,AlphaTauri,True,9.0,29.019,18.543,36.067,,False,False,6094.037,3,Australian Grand Prix
+TSU,14.0,84.369,2.0,HARD,6.0,1,True,AlphaTauri,True,10.0,29.153,18.568,36.648,,False,False,6178.406,3,Australian Grand Prix
+TSU,15.0,83.945,2.0,HARD,7.0,1,True,AlphaTauri,True,10.0,29.399,18.511,36.035,,False,False,6262.351,3,Australian Grand Prix
+TSU,16.0,84.004,2.0,HARD,8.0,1,True,AlphaTauri,True,10.0,29.116,18.599,36.289,,False,False,6346.355,3,Australian Grand Prix
+TSU,17.0,83.704,2.0,HARD,9.0,1,True,AlphaTauri,True,9.0,29.204,18.538,35.962,,False,False,6430.059,3,Australian Grand Prix
+TSU,18.0,106.475,2.0,HARD,10.0,16,False,AlphaTauri,True,9.0,30.785,27.304,48.386,,False,False,6536.534,3,Australian Grand Prix
+TSU,19.0,98.349,2.0,HARD,11.0,671,False,AlphaTauri,True,9.0,39.992,22.558,35.799,,False,False,6634.883,3,Australian Grand Prix
+TSU,20.0,83.267,2.0,HARD,12.0,1,True,AlphaTauri,True,9.0,28.976,18.483,35.808,,False,False,6718.15,3,Australian Grand Prix
+TSU,21.0,83.906,2.0,HARD,13.0,1,True,AlphaTauri,True,9.0,28.988,18.485,36.433,,False,False,6802.056,3,Australian Grand Prix
+TSU,22.0,83.222,2.0,HARD,14.0,1,True,AlphaTauri,True,9.0,28.973,18.679,35.57,,False,False,6885.278,3,Australian Grand Prix
+TSU,23.0,83.846,2.0,HARD,15.0,1,True,AlphaTauri,True,10.0,29.042,18.653,36.151,,False,False,6969.124,3,Australian Grand Prix
+TSU,24.0,83.76,2.0,HARD,16.0,1,True,AlphaTauri,True,10.0,29.023,18.523,36.214,,False,False,7052.884,3,Australian Grand Prix
+TSU,25.0,83.612,2.0,HARD,17.0,1,True,AlphaTauri,True,10.0,28.969,18.571,36.072,,False,False,7136.496,3,Australian Grand Prix
+TSU,26.0,83.431,2.0,HARD,18.0,1,True,AlphaTauri,True,10.0,29.147,18.547,35.737,,False,False,7219.927,3,Australian Grand Prix
+TSU,27.0,83.693,2.0,HARD,19.0,1,True,AlphaTauri,True,11.0,29.017,18.568,36.108,,False,False,7303.62,3,Australian Grand Prix
+TSU,28.0,83.13,2.0,HARD,20.0,1,True,AlphaTauri,True,11.0,28.804,18.53,35.796,,False,False,7386.75,3,Australian Grand Prix
+TSU,29.0,83.893,2.0,HARD,21.0,1,True,AlphaTauri,True,12.0,29.202,18.626,36.065,,False,False,7470.643,3,Australian Grand Prix
+TSU,30.0,83.558,2.0,HARD,22.0,1,True,AlphaTauri,True,12.0,29.166,18.494,35.898,,False,False,7554.201,3,Australian Grand Prix
+TSU,31.0,83.831,2.0,HARD,23.0,1,True,AlphaTauri,True,12.0,29.122,18.568,36.141,,False,False,7638.032,3,Australian Grand Prix
+TSU,32.0,83.246,2.0,HARD,24.0,1,True,AlphaTauri,True,12.0,29.073,18.614,35.559,,False,False,7721.278,3,Australian Grand Prix
+TSU,33.0,83.068,2.0,HARD,25.0,1,True,AlphaTauri,True,12.0,28.866,18.581,35.621,,False,False,7804.346,3,Australian Grand Prix
+TSU,34.0,83.934,2.0,HARD,26.0,1,True,AlphaTauri,True,12.0,28.905,18.555,36.474,,False,False,7888.28,3,Australian Grand Prix
+TSU,35.0,85.477,2.0,HARD,27.0,1,True,AlphaTauri,True,14.0,30.382,18.343,36.752,,False,False,7973.757,3,Australian Grand Prix
+TSU,36.0,83.31,2.0,HARD,28.0,1,True,AlphaTauri,True,14.0,28.921,18.506,35.883,,False,False,8057.067,3,Australian Grand Prix
+TSU,37.0,83.084,2.0,HARD,29.0,1,True,AlphaTauri,True,14.0,28.997,18.262,35.825,,False,False,8140.151,3,Australian Grand Prix
+TSU,38.0,83.057,2.0,HARD,30.0,1,True,AlphaTauri,True,14.0,29.021,18.257,35.779,,False,False,8223.208,3,Australian Grand Prix
+TSU,39.0,83.193,2.0,HARD,31.0,1,True,AlphaTauri,True,14.0,28.919,18.552,35.722,,False,False,8306.401,3,Australian Grand Prix
+TSU,40.0,82.901,2.0,HARD,32.0,1,True,AlphaTauri,True,14.0,28.977,18.483,35.441,,False,False,8389.302,3,Australian Grand Prix
+TSU,41.0,82.91,2.0,HARD,33.0,1,True,AlphaTauri,True,14.0,28.917,18.51,35.483,,False,False,8472.212,3,Australian Grand Prix
+TSU,42.0,82.881,2.0,HARD,34.0,1,True,AlphaTauri,True,14.0,28.89,18.554,35.437,,False,False,8555.093,3,Australian Grand Prix
+TSU,43.0,82.806,2.0,HARD,35.0,1,True,AlphaTauri,True,14.0,28.897,18.486,35.423,,False,False,8637.899,3,Australian Grand Prix
+TSU,44.0,82.387,2.0,HARD,36.0,1,True,AlphaTauri,True,14.0,28.796,18.411,35.18,,False,False,8720.286,3,Australian Grand Prix
+TSU,45.0,82.111,2.0,HARD,37.0,1,True,AlphaTauri,True,14.0,28.563,18.343,35.205,,False,False,8802.397,3,Australian Grand Prix
+TSU,46.0,82.299,2.0,HARD,38.0,1,True,AlphaTauri,True,14.0,28.671,18.347,35.281,,False,False,8884.696,3,Australian Grand Prix
+TSU,47.0,82.009,2.0,HARD,39.0,1,True,AlphaTauri,True,14.0,28.587,18.372,35.05,,False,False,8966.705,3,Australian Grand Prix
+TSU,48.0,82.04,2.0,HARD,40.0,1,True,AlphaTauri,True,14.0,28.519,18.414,35.107,,False,False,9048.745,3,Australian Grand Prix
+TSU,49.0,82.294,2.0,HARD,41.0,1,True,AlphaTauri,True,14.0,28.714,18.425,35.155,,False,False,9131.039,3,Australian Grand Prix
+TSU,50.0,82.011,2.0,HARD,42.0,1,True,AlphaTauri,True,14.0,28.653,18.316,35.042,,False,False,9213.05,3,Australian Grand Prix
+TSU,51.0,81.827,2.0,HARD,43.0,1,True,AlphaTauri,True,14.0,28.528,18.309,34.99,,False,False,9294.877,3,Australian Grand Prix
+TSU,52.0,81.789,2.0,HARD,44.0,1,True,AlphaTauri,True,14.0,28.553,18.331,34.905,,False,False,9376.666,3,Australian Grand Prix
+TSU,53.0,91.019,2.0,HARD,45.0,124,False,AlphaTauri,True,13.0,30.103,18.472,42.444,,False,False,9467.685,3,Australian Grand Prix
+TSU,54.0,123.458,2.0,HARD,46.0,4,False,AlphaTauri,True,13.0,46.162,20.15,57.146,,True,False,9591.143,3,Australian Grand Prix
+TSU,55.0,,3.0,SOFT,1.0,451,False,AlphaTauri,True,13.0,47.542,24.464,,,True,True,10550.206,3,Australian Grand Prix
+TSU,56.0,192.156,4.0,SOFT,5.0,1,False,AlphaTauri,False,12.0,52.121,41.487,98.548,,False,True,10742.362,3,Australian Grand Prix
+TSU,57.0,,4.0,SOFT,6.0,125,False,AlphaTauri,False,11.0,45.605,31.41,,,True,False,12744.54,3,Australian Grand Prix
+TSU,58.0,156.971,5.0,SOFT,9.0,1,False,AlphaTauri,False,11.0,49.925,50.541,56.505,,False,True,12901.511,3,Australian Grand Prix
+ALB,1.0,106.373,1.0,MEDIUM,1.0,124,False,Williams,True,6.0,,18.791,50.087,,False,False,3843.473,3,Australian Grand Prix
+ALB,2.0,130.798,1.0,MEDIUM,2.0,4,False,Williams,True,6.0,47.994,31.504,51.3,,False,False,3974.271,3,Australian Grand Prix
+ALB,3.0,129.355,1.0,MEDIUM,3.0,41,False,Williams,True,6.0,47.694,28.097,53.564,,False,False,4103.626,3,Australian Grand Prix
+ALB,4.0,84.327,1.0,MEDIUM,4.0,1,True,Williams,True,6.0,29.279,18.408,36.64,,False,False,4187.953,3,Australian Grand Prix
+ALB,5.0,83.639,1.0,MEDIUM,5.0,1,True,Williams,True,6.0,29.185,18.308,36.146,,False,False,4271.592,3,Australian Grand Prix
+ALB,6.0,83.349,1.0,MEDIUM,6.0,1,True,Williams,True,6.0,29.156,18.316,35.877,,False,False,4354.941,3,Australian Grand Prix
+ALB,7.0,,1.0,MEDIUM,7.0,124,False,Williams,True,,,,,,False,False,4560.697,3,Australian Grand Prix
+ZHO,1.0,129.967,1.0,SOFT,1.0,124,False,Alfa Romeo,True,16.0,,19.38,70.454,,True,False,3867.067,3,Australian Grand Prix
+ZHO,2.0,119.863,2.0,HARD,1.0,4,False,Alfa Romeo,True,16.0,40.087,28.783,50.993,,False,True,3986.93,3,Australian Grand Prix
+ZHO,3.0,123.71,2.0,HARD,2.0,41,False,Alfa Romeo,True,16.0,48.051,27.84,47.819,,False,False,4110.64,3,Australian Grand Prix
+ZHO,4.0,85.204,2.0,HARD,3.0,1,True,Alfa Romeo,True,16.0,29.669,18.847,36.688,,False,False,4195.844,3,Australian Grand Prix
+ZHO,5.0,84.847,2.0,HARD,4.0,1,True,Alfa Romeo,True,16.0,29.531,18.788,36.528,,False,False,4280.691,3,Australian Grand Prix
+ZHO,6.0,84.856,2.0,HARD,5.0,1,True,Alfa Romeo,True,17.0,29.409,18.769,36.678,,False,False,4365.547,3,Australian Grand Prix
+ZHO,7.0,101.268,2.0,HARD,6.0,124,False,Alfa Romeo,True,15.0,29.323,26.201,45.744,,False,False,4466.815,3,Australian Grand Prix
+ZHO,8.0,,2.0,HARD,7.0,451,False,Alfa Romeo,True,15.0,45.105,44.355,,,True,False,5572.912,3,Australian Grand Prix
+ZHO,9.0,178.607,3.0,HARD,8.0,1,False,Alfa Romeo,False,15.0,42.389,44.122,92.096,,False,True,5751.519,3,Australian Grand Prix
+ZHO,10.0,91.657,3.0,HARD,9.0,1,True,Alfa Romeo,False,12.0,34.705,18.938,38.014,,False,False,5843.176,3,Australian Grand Prix
+ZHO,11.0,85.23,3.0,HARD,10.0,1,True,Alfa Romeo,False,12.0,29.826,18.694,36.71,,False,False,5928.406,3,Australian Grand Prix
+ZHO,12.0,83.869,3.0,HARD,11.0,1,True,Alfa Romeo,False,12.0,29.503,18.312,36.054,,False,False,6012.275,3,Australian Grand Prix
+ZHO,13.0,83.411,3.0,HARD,12.0,1,True,Alfa Romeo,False,12.0,29.141,18.357,35.913,,False,False,6095.686,3,Australian Grand Prix
+ZHO,14.0,83.581,3.0,HARD,13.0,1,True,Alfa Romeo,False,12.0,29.12,18.267,36.194,,False,False,6179.267,3,Australian Grand Prix
+ZHO,15.0,85.028,3.0,HARD,14.0,1,True,Alfa Romeo,False,12.0,29.926,18.245,36.857,,False,False,6264.295,3,Australian Grand Prix
+ZHO,16.0,85.545,3.0,HARD,15.0,1,True,Alfa Romeo,False,14.0,29.79,18.514,37.241,,False,False,6349.84,3,Australian Grand Prix
+ZHO,17.0,83.374,3.0,HARD,16.0,1,True,Alfa Romeo,False,13.0,29.071,18.356,35.947,,False,False,6433.214,3,Australian Grand Prix
+ZHO,18.0,107.644,3.0,HARD,17.0,16,False,Alfa Romeo,False,13.0,34.679,24.388,48.577,,False,False,6540.858,3,Australian Grand Prix
+ZHO,19.0,97.806,3.0,HARD,18.0,671,False,Alfa Romeo,False,13.0,39.95,21.815,36.041,,False,False,6638.664,3,Australian Grand Prix
+ZHO,20.0,83.666,3.0,HARD,19.0,1,True,Alfa Romeo,False,13.0,29.261,18.639,35.766,,False,False,6722.33,3,Australian Grand Prix
+ZHO,21.0,83.268,3.0,HARD,20.0,1,True,Alfa Romeo,False,13.0,29.026,18.575,35.667,,False,False,6805.598,3,Australian Grand Prix
+ZHO,22.0,83.205,3.0,HARD,21.0,1,True,Alfa Romeo,False,13.0,29.037,18.484,35.684,,False,False,6888.803,3,Australian Grand Prix
+ZHO,23.0,83.418,3.0,HARD,22.0,1,True,Alfa Romeo,False,13.0,29.042,18.618,35.758,,False,False,6972.221,3,Australian Grand Prix
+ZHO,24.0,83.121,3.0,HARD,23.0,1,True,Alfa Romeo,False,13.0,28.959,18.423,35.739,,False,False,7055.342,3,Australian Grand Prix
+ZHO,25.0,83.46,3.0,HARD,24.0,1,True,Alfa Romeo,False,13.0,28.953,18.497,36.01,,False,False,7138.802,3,Australian Grand Prix
+ZHO,26.0,83.488,3.0,HARD,25.0,1,True,Alfa Romeo,False,13.0,29.038,18.492,35.958,,False,False,7222.29,3,Australian Grand Prix
+ZHO,27.0,82.631,3.0,HARD,26.0,1,True,Alfa Romeo,False,13.0,28.753,18.169,35.709,,False,False,7304.921,3,Australian Grand Prix
+ZHO,28.0,82.904,3.0,HARD,27.0,1,True,Alfa Romeo,False,13.0,28.829,18.271,35.804,,False,False,7387.825,3,Australian Grand Prix
+ZHO,29.0,83.25,3.0,HARD,28.0,1,True,Alfa Romeo,False,13.0,29.105,18.274,35.871,,False,False,7471.075,3,Australian Grand Prix
+ZHO,30.0,83.563,3.0,HARD,29.0,1,True,Alfa Romeo,False,13.0,29.215,18.245,36.103,,False,False,7554.638,3,Australian Grand Prix
+ZHO,31.0,84.468,3.0,HARD,30.0,1,True,Alfa Romeo,False,13.0,29.205,18.153,37.11,,False,False,7639.106,3,Australian Grand Prix
+ZHO,32.0,83.025,3.0,HARD,31.0,1,True,Alfa Romeo,False,13.0,28.854,18.266,35.905,,False,False,7722.131,3,Australian Grand Prix
+ZHO,33.0,82.777,3.0,HARD,32.0,1,True,Alfa Romeo,False,13.0,28.857,18.277,35.643,,False,False,7804.908,3,Australian Grand Prix
+ZHO,34.0,83.493,3.0,HARD,33.0,1,True,Alfa Romeo,False,13.0,28.876,18.133,36.484,,False,False,7888.401,3,Australian Grand Prix
+ZHO,35.0,83.667,3.0,HARD,34.0,1,True,Alfa Romeo,False,12.0,29.438,18.686,35.543,,False,False,7972.068,3,Australian Grand Prix
+ZHO,36.0,84.117,3.0,HARD,35.0,1,True,Alfa Romeo,False,13.0,28.724,18.597,36.796,,False,False,8056.185,3,Australian Grand Prix
+ZHO,37.0,83.222,3.0,HARD,36.0,1,True,Alfa Romeo,False,13.0,29.126,18.345,35.751,,False,False,8139.407,3,Australian Grand Prix
+ZHO,38.0,82.917,3.0,HARD,37.0,1,True,Alfa Romeo,False,13.0,29.059,18.284,35.574,,False,False,8222.324,3,Australian Grand Prix
+ZHO,39.0,82.464,3.0,HARD,38.0,1,True,Alfa Romeo,False,13.0,28.79,18.35,35.324,,False,False,8304.788,3,Australian Grand Prix
+ZHO,40.0,82.243,3.0,HARD,39.0,1,True,Alfa Romeo,False,13.0,28.697,18.268,35.278,,False,False,8387.031,3,Australian Grand Prix
+ZHO,41.0,82.246,3.0,HARD,40.0,1,True,Alfa Romeo,False,13.0,28.661,18.169,35.416,,False,False,8469.277,3,Australian Grand Prix
+ZHO,42.0,82.732,3.0,HARD,41.0,1,True,Alfa Romeo,False,13.0,29.106,18.148,35.478,,False,False,8552.009,3,Australian Grand Prix
+ZHO,43.0,82.348,3.0,HARD,42.0,1,True,Alfa Romeo,False,13.0,28.79,18.162,35.396,,False,False,8634.357,3,Australian Grand Prix
+ZHO,44.0,82.115,3.0,HARD,43.0,1,True,Alfa Romeo,False,13.0,28.686,18.208,35.221,,False,False,8716.472,3,Australian Grand Prix
+ZHO,45.0,82.049,3.0,HARD,44.0,1,True,Alfa Romeo,False,13.0,28.685,18.079,35.285,,False,False,8798.521,3,Australian Grand Prix
+ZHO,46.0,81.936,3.0,HARD,45.0,1,True,Alfa Romeo,False,13.0,28.52,18.167,35.249,,False,False,8880.457,3,Australian Grand Prix
+ZHO,47.0,81.862,3.0,HARD,46.0,1,True,Alfa Romeo,False,13.0,28.499,18.173,35.19,,False,False,8962.319,3,Australian Grand Prix
+ZHO,48.0,81.819,3.0,HARD,47.0,1,True,Alfa Romeo,False,13.0,28.487,18.222,35.11,,False,False,9044.138,3,Australian Grand Prix
+ZHO,49.0,81.983,3.0,HARD,48.0,1,True,Alfa Romeo,False,13.0,28.491,18.209,35.283,,False,False,9126.121,3,Australian Grand Prix
+ZHO,50.0,81.836,3.0,HARD,49.0,1,True,Alfa Romeo,False,13.0,28.448,18.087,35.301,,False,False,9207.957,3,Australian Grand Prix
+ZHO,51.0,82.781,3.0,HARD,50.0,1,True,Alfa Romeo,False,13.0,28.538,17.988,36.255,,False,False,9290.738,3,Australian Grand Prix
+ZHO,52.0,82.05,3.0,HARD,51.0,1,True,Alfa Romeo,False,13.0,28.692,18.199,35.159,,False,False,9372.788,3,Australian Grand Prix
+ZHO,53.0,86.766,3.0,HARD,52.0,124,False,Alfa Romeo,False,12.0,29.97,18.695,38.101,,False,False,9459.554,3,Australian Grand Prix
+ZHO,54.0,130.457,3.0,HARD,53.0,4,False,Alfa Romeo,False,12.0,50.503,19.701,60.253,,True,False,9590.011,3,Australian Grand Prix
+ZHO,55.0,,4.0,SOFT,1.0,451,False,Alfa Romeo,True,12.0,43.389,25.407,,,True,True,10545.682,3,Australian Grand Prix
+ZHO,56.0,,5.0,SOFT,1.0,1,False,Alfa Romeo,True,14.0,51.007,44.181,,,False,True,10742.774,3,Australian Grand Prix
+ZHO,57.0,,5.0,SOFT,2.0,125,False,Alfa Romeo,True,10.0,49.827,31.478,,,True,False,12743.782,3,Australian Grand Prix
+ZHO,58.0,157.402,6.0,SOFT,3.0,1,False,Alfa Romeo,False,10.0,50.262,50.247,56.893,,False,True,12901.184,3,Australian Grand Prix
+HUL,1.0,111.408,1.0,MEDIUM,1.0,124,False,Haas F1 Team,True,9.0,,18.831,53.661,,False,False,3848.508,3,Australian Grand Prix
+HUL,2.0,131.316,1.0,MEDIUM,2.0,4,False,Haas F1 Team,True,9.0,46.722,31.511,53.083,,False,False,3979.824,3,Australian Grand Prix
+HUL,3.0,125.204,1.0,MEDIUM,3.0,41,False,Haas F1 Team,True,9.0,45.784,29.229,50.191,,False,False,4105.028,3,Australian Grand Prix
+HUL,4.0,84.833,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,9.0,29.802,18.455,36.576,,False,False,4189.861,3,Australian Grand Prix
+HUL,5.0,84.295,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,9.0,29.423,18.482,36.39,,False,False,4274.156,3,Australian Grand Prix
+HUL,6.0,83.539,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,9.0,29.248,18.163,36.128,,False,False,4357.695,3,Australian Grand Prix
+HUL,7.0,99.166,1.0,MEDIUM,7.0,124,False,Haas F1 Team,True,6.0,29.193,19.167,50.806,,False,False,4456.861,3,Australian Grand Prix
+HUL,8.0,,1.0,MEDIUM,8.0,451,False,Haas F1 Team,True,6.0,43.8,45.299,,,True,False,5538.879,3,Australian Grand Prix
+HUL,9.0,,2.0,HARD,1.0,1,False,Haas F1 Team,True,7.0,46.837,54.255,,,False,True,5749.78,3,Australian Grand Prix
+HUL,10.0,90.264,2.0,HARD,2.0,1,True,Haas F1 Team,True,7.0,34.52,18.694,37.05,,False,False,5840.044,3,Australian Grand Prix
+HUL,11.0,84.823,2.0,HARD,3.0,1,True,Haas F1 Team,True,7.0,29.533,18.415,36.875,,False,False,5924.867,3,Australian Grand Prix
+HUL,12.0,83.261,2.0,HARD,4.0,1,True,Haas F1 Team,True,7.0,29.196,18.123,35.942,,False,False,6008.128,3,Australian Grand Prix
+HUL,13.0,83.719,2.0,HARD,5.0,1,True,Haas F1 Team,True,7.0,29.056,18.181,36.482,,False,False,6091.847,3,Australian Grand Prix
+HUL,14.0,84.129,2.0,HARD,6.0,1,True,Haas F1 Team,True,8.0,29.936,18.2,35.993,,False,False,6175.976,3,Australian Grand Prix
+HUL,15.0,83.01,2.0,HARD,7.0,1,True,Haas F1 Team,True,8.0,29.006,18.148,35.856,,False,False,6258.986,3,Australian Grand Prix
+HUL,16.0,82.824,2.0,HARD,8.0,1,True,Haas F1 Team,True,8.0,28.993,18.052,35.779,,False,False,6341.81,3,Australian Grand Prix
+HUL,17.0,83.7,2.0,HARD,9.0,1,True,Haas F1 Team,True,7.0,29.163,18.002,36.535,,False,False,6425.51,3,Australian Grand Prix
+HUL,18.0,105.143,2.0,HARD,10.0,16,False,Haas F1 Team,True,7.0,28.822,28.017,48.304,,False,False,6530.653,3,Australian Grand Prix
+HUL,19.0,99.241,2.0,HARD,11.0,671,False,Haas F1 Team,True,7.0,39.041,24.018,36.182,,False,False,6629.894,3,Australian Grand Prix
+HUL,20.0,82.613,2.0,HARD,12.0,1,True,Haas F1 Team,True,7.0,28.901,18.297,35.415,,False,False,6712.507,3,Australian Grand Prix
+HUL,21.0,82.681,2.0,HARD,13.0,1,True,Haas F1 Team,True,7.0,28.872,18.311,35.498,,False,False,6795.188,3,Australian Grand Prix
+HUL,22.0,82.625,2.0,HARD,14.0,1,True,Haas F1 Team,True,7.0,28.839,18.31,35.476,,False,False,6877.813,3,Australian Grand Prix
+HUL,23.0,82.59,2.0,HARD,15.0,1,True,Haas F1 Team,True,7.0,28.761,18.344,35.485,,False,False,6960.403,3,Australian Grand Prix
+HUL,24.0,82.639,2.0,HARD,16.0,1,True,Haas F1 Team,True,7.0,28.836,18.31,35.493,,False,False,7043.042,3,Australian Grand Prix
+HUL,25.0,83.067,2.0,HARD,17.0,1,True,Haas F1 Team,True,7.0,28.923,18.311,35.833,,False,False,7126.109,3,Australian Grand Prix
+HUL,26.0,82.479,2.0,HARD,18.0,1,True,Haas F1 Team,True,7.0,28.683,18.241,35.555,,False,False,7208.588,3,Australian Grand Prix
+HUL,27.0,82.221,2.0,HARD,19.0,1,True,Haas F1 Team,True,7.0,28.63,18.145,35.446,,False,False,7290.809,3,Australian Grand Prix
+HUL,28.0,82.333,2.0,HARD,20.0,1,True,Haas F1 Team,True,7.0,28.792,18.161,35.38,,False,False,7373.142,3,Australian Grand Prix
+HUL,29.0,82.223,2.0,HARD,21.0,1,True,Haas F1 Team,True,7.0,28.721,18.173,35.329,,False,False,7455.365,3,Australian Grand Prix
+HUL,30.0,82.671,2.0,HARD,22.0,1,True,Haas F1 Team,True,7.0,29.077,18.289,35.305,,False,False,7538.036,3,Australian Grand Prix
+HUL,31.0,82.397,2.0,HARD,23.0,1,True,Haas F1 Team,True,7.0,28.811,18.344,35.242,,False,False,7620.433,3,Australian Grand Prix
+HUL,32.0,82.088,2.0,HARD,24.0,1,True,Haas F1 Team,True,7.0,28.701,18.266,35.121,,False,False,7702.521,3,Australian Grand Prix
+HUL,33.0,81.744,2.0,HARD,25.0,1,True,Haas F1 Team,True,7.0,28.516,18.154,35.074,,False,False,7784.265,3,Australian Grand Prix
+HUL,34.0,82.192,2.0,HARD,26.0,1,True,Haas F1 Team,True,7.0,28.713,18.331,35.148,,False,False,7866.457,3,Australian Grand Prix
+HUL,35.0,82.241,2.0,HARD,27.0,1,True,Haas F1 Team,True,7.0,28.634,18.292,35.315,,False,False,7948.698,3,Australian Grand Prix
+HUL,36.0,82.141,2.0,HARD,28.0,1,True,Haas F1 Team,True,7.0,28.563,18.22,35.358,,False,False,8030.839,3,Australian Grand Prix
+HUL,37.0,81.969,2.0,HARD,29.0,1,True,Haas F1 Team,True,7.0,28.577,18.24,35.152,,False,False,8112.808,3,Australian Grand Prix
+HUL,38.0,82.197,2.0,HARD,30.0,1,True,Haas F1 Team,True,7.0,28.635,18.21,35.352,,False,False,8195.005,3,Australian Grand Prix
+HUL,39.0,81.852,2.0,HARD,31.0,1,True,Haas F1 Team,True,7.0,28.59,18.269,34.993,,False,False,8276.857,3,Australian Grand Prix
+HUL,40.0,81.593,2.0,HARD,32.0,1,True,Haas F1 Team,True,7.0,28.469,18.185,34.939,,False,False,8358.45,3,Australian Grand Prix
+HUL,41.0,81.993,2.0,HARD,33.0,1,True,Haas F1 Team,True,7.0,28.505,18.165,35.323,,False,False,8440.443,3,Australian Grand Prix
+HUL,42.0,81.438,2.0,HARD,34.0,1,True,Haas F1 Team,True,7.0,28.406,18.17,34.862,,False,False,8521.881,3,Australian Grand Prix
+HUL,43.0,81.53,2.0,HARD,35.0,1,True,Haas F1 Team,True,7.0,28.428,18.134,34.968,,False,False,8603.411,3,Australian Grand Prix
+HUL,44.0,83.034,2.0,HARD,36.0,1,True,Haas F1 Team,True,8.0,28.718,18.189,36.127,,False,False,8686.445,3,Australian Grand Prix
+HUL,45.0,81.406,2.0,HARD,37.0,1,True,Haas F1 Team,True,8.0,28.546,17.889,34.971,,False,False,8767.851,3,Australian Grand Prix
+HUL,46.0,81.124,2.0,HARD,38.0,1,True,Haas F1 Team,True,8.0,28.446,17.687,34.991,,False,False,8848.975,3,Australian Grand Prix
+HUL,47.0,81.544,2.0,HARD,39.0,1,True,Haas F1 Team,True,8.0,28.273,18.014,35.257,,False,False,8930.519,3,Australian Grand Prix
+HUL,48.0,81.866,2.0,HARD,40.0,1,True,Haas F1 Team,True,8.0,28.471,18.042,35.353,,False,False,9012.385,3,Australian Grand Prix
+HUL,49.0,81.942,2.0,HARD,41.0,1,True,Haas F1 Team,True,8.0,28.669,18.117,35.156,,False,False,9094.327,3,Australian Grand Prix
+HUL,50.0,81.872,2.0,HARD,42.0,1,True,Haas F1 Team,True,8.0,28.417,18.142,35.313,,False,False,9176.199,3,Australian Grand Prix
+HUL,51.0,84.48,2.0,HARD,43.0,1,True,Haas F1 Team,True,9.0,28.45,18.158,37.872,,False,False,9260.679,3,Australian Grand Prix
+HUL,52.0,82.593,2.0,HARD,44.0,1,True,Haas F1 Team,True,9.0,29.191,18.263,35.139,,False,False,9343.272,3,Australian Grand Prix
+HUL,53.0,81.726,2.0,HARD,45.0,12,True,Haas F1 Team,True,9.0,28.548,18.126,35.052,,False,False,9424.998,3,Australian Grand Prix
+HUL,54.0,104.548,2.0,HARD,46.0,14,False,Haas F1 Team,True,9.0,28.82,26.546,49.182,,False,False,9529.546,3,Australian Grand Prix
+HUL,55.0,,2.0,HARD,47.0,451,False,Haas F1 Team,True,9.0,39.536,25.295,,,True,False,10535.134,3,Australian Grand Prix
+HUL,56.0,,3.0,SOFT,5.0,1,False,Haas F1 Team,False,9.0,52.428,49.821,,,False,True,10741.819,3,Australian Grand Prix
+HUL,57.0,,3.0,SOFT,6.0,125,False,Haas F1 Team,False,8.0,44.319,30.694,,,True,False,12740.39,3,Australian Grand Prix
+HUL,58.0,160.053,4.0,SOFT,5.0,1,False,Haas F1 Team,False,8.0,52.096,50.403,57.554,,False,True,12900.443,3,Australian Grand Prix
+OCO,1.0,122.304,1.0,SOFT,1.0,124,False,Alpine,True,15.0,,18.778,65.009,,True,False,3859.404,3,Australian Grand Prix
+OCO,2.0,126.286,2.0,HARD,1.0,4,False,Alpine,True,15.0,43.67,30.604,52.012,,False,True,3985.69,3,Australian Grand Prix
+OCO,3.0,123.289,2.0,HARD,2.0,41,False,Alpine,True,15.0,48.064,27.896,47.329,,False,False,4108.979,3,Australian Grand Prix
+OCO,4.0,85.603,2.0,HARD,3.0,1,True,Alpine,True,15.0,30.011,18.581,37.011,,False,False,4194.582,3,Australian Grand Prix
+OCO,5.0,84.974,2.0,HARD,4.0,1,True,Alpine,True,15.0,29.636,18.491,36.847,,False,False,4279.556,3,Australian Grand Prix
+OCO,6.0,83.963,2.0,HARD,5.0,1,True,Alpine,True,15.0,29.473,18.207,36.283,,False,False,4363.519,3,Australian Grand Prix
+OCO,7.0,101.541,2.0,HARD,6.0,124,False,Alpine,True,13.0,29.24,26.638,45.663,,False,False,4465.06,3,Australian Grand Prix
+OCO,8.0,,2.0,HARD,7.0,451,False,Alpine,True,13.0,45.093,43.768,,,True,False,5566.139,3,Australian Grand Prix
+OCO,9.0,184.973,3.0,HARD,8.0,1,False,Alpine,False,13.0,41.172,47.722,96.079,,False,True,5751.112,3,Australian Grand Prix
+OCO,10.0,92.567,3.0,HARD,9.0,1,True,Alpine,False,13.0,35.334,18.821,38.412,,False,False,5843.679,3,Australian Grand Prix
+OCO,11.0,85.266,3.0,HARD,10.0,1,True,Alpine,False,13.0,29.859,18.828,36.579,,False,False,5928.945,3,Australian Grand Prix
+OCO,12.0,83.841,3.0,HARD,11.0,1,True,Alpine,False,13.0,29.511,18.036,36.294,,False,False,6012.786,3,Australian Grand Prix
+OCO,13.0,83.486,3.0,HARD,12.0,1,True,Alpine,False,13.0,29.154,18.127,36.205,,False,False,6096.272,3,Australian Grand Prix
+OCO,14.0,83.49,3.0,HARD,13.0,1,True,Alpine,False,13.0,29.103,18.091,36.296,,False,False,6179.762,3,Australian Grand Prix
+OCO,15.0,84.884,3.0,HARD,14.0,1,True,Alpine,False,13.0,29.724,18.149,37.011,,False,False,6264.646,3,Australian Grand Prix
+OCO,16.0,83.447,3.0,HARD,15.0,1,True,Alpine,False,12.0,29.733,18.098,35.616,,False,False,6348.093,3,Australian Grand Prix
+OCO,17.0,83.008,3.0,HARD,16.0,1,True,Alpine,False,11.0,28.956,18.071,35.981,,False,False,6431.101,3,Australian Grand Prix
+OCO,18.0,107.904,3.0,HARD,17.0,16,False,Alpine,False,11.0,33.964,25.056,48.884,,False,False,6539.005,3,Australian Grand Prix
+OCO,19.0,97.286,3.0,HARD,18.0,671,False,Alpine,False,11.0,39.164,21.823,36.299,,False,False,6636.291,3,Australian Grand Prix
+OCO,20.0,82.77,3.0,HARD,19.0,1,True,Alpine,False,11.0,29.006,18.056,35.708,,False,False,6719.061,3,Australian Grand Prix
+OCO,21.0,84.341,3.0,HARD,20.0,1,True,Alpine,False,12.0,29.045,18.003,37.293,,False,False,6803.402,3,Australian Grand Prix
+OCO,22.0,83.518,3.0,HARD,21.0,1,True,Alpine,False,12.0,29.304,18.095,36.119,,False,False,6886.92,3,Australian Grand Prix
+OCO,23.0,83.585,3.0,HARD,22.0,1,True,Alpine,False,12.0,28.925,17.901,36.759,,False,False,6970.505,3,Australian Grand Prix
+OCO,24.0,83.404,3.0,HARD,23.0,1,True,Alpine,False,12.0,28.741,18.04,36.623,,False,False,7053.909,3,Australian Grand Prix
+OCO,25.0,83.632,3.0,HARD,24.0,1,True,Alpine,False,12.0,28.95,18.045,36.637,,False,False,7137.541,3,Australian Grand Prix
+OCO,26.0,82.913,3.0,HARD,25.0,1,True,Alpine,False,11.0,28.973,17.873,36.067,,False,False,7220.454,3,Australian Grand Prix
+OCO,27.0,82.047,3.0,HARD,26.0,1,True,Alpine,False,10.0,29.003,17.949,35.095,,False,False,7302.501,3,Australian Grand Prix
+OCO,28.0,82.256,3.0,HARD,27.0,1,True,Alpine,False,10.0,28.698,18.37,35.188,,False,False,7384.757,3,Australian Grand Prix
+OCO,29.0,82.138,3.0,HARD,28.0,1,True,Alpine,False,10.0,28.648,18.388,35.102,,False,False,7466.895,3,Australian Grand Prix
+OCO,30.0,81.998,3.0,HARD,29.0,1,True,Alpine,False,10.0,28.669,18.331,34.998,,False,False,7548.893,3,Australian Grand Prix
+OCO,31.0,82.027,3.0,HARD,30.0,1,True,Alpine,False,10.0,28.534,18.358,35.135,,False,False,7630.92,3,Australian Grand Prix
+OCO,32.0,82.041,3.0,HARD,31.0,1,True,Alpine,False,10.0,28.537,18.289,35.215,,False,False,7712.961,3,Australian Grand Prix
+OCO,33.0,82.088,3.0,HARD,32.0,1,True,Alpine,False,10.0,28.758,18.342,34.988,,False,False,7795.049,3,Australian Grand Prix
+OCO,34.0,81.788,3.0,HARD,33.0,1,True,Alpine,False,10.0,28.56,18.256,34.972,,False,False,7876.837,3,Australian Grand Prix
+OCO,35.0,82.071,3.0,HARD,34.0,1,True,Alpine,False,10.0,28.613,18.293,35.165,,False,False,7958.908,3,Australian Grand Prix
+OCO,36.0,82.772,3.0,HARD,35.0,1,True,Alpine,False,10.0,28.673,18.281,35.818,,False,False,8041.68,3,Australian Grand Prix
+OCO,37.0,81.954,3.0,HARD,36.0,1,True,Alpine,False,10.0,28.59,18.319,35.045,,False,False,8123.634,3,Australian Grand Prix
+OCO,38.0,81.869,3.0,HARD,37.0,1,True,Alpine,False,10.0,28.659,18.344,34.866,,False,False,8205.503,3,Australian Grand Prix
+OCO,39.0,81.75,3.0,HARD,38.0,1,True,Alpine,False,10.0,28.52,18.251,34.979,,False,False,8287.253,3,Australian Grand Prix
+OCO,40.0,81.902,3.0,HARD,39.0,1,True,Alpine,False,10.0,28.559,18.305,35.038,,False,False,8369.155,3,Australian Grand Prix
+OCO,41.0,81.675,3.0,HARD,40.0,1,True,Alpine,False,10.0,28.499,18.26,34.916,,False,False,8450.83,3,Australian Grand Prix
+OCO,42.0,81.539,3.0,HARD,41.0,1,True,Alpine,False,10.0,28.516,18.286,34.737,,False,False,8532.369,3,Australian Grand Prix
+OCO,43.0,81.273,3.0,HARD,42.0,1,True,Alpine,False,10.0,28.386,18.131,34.756,,False,False,8613.642,3,Australian Grand Prix
+OCO,44.0,81.203,3.0,HARD,43.0,1,True,Alpine,False,10.0,28.358,18.217,34.628,,False,False,8694.845,3,Australian Grand Prix
+OCO,45.0,81.476,3.0,HARD,44.0,1,True,Alpine,False,10.0,28.462,18.274,34.74,,False,False,8776.321,3,Australian Grand Prix
+OCO,46.0,81.508,3.0,HARD,45.0,1,True,Alpine,False,10.0,28.293,18.168,35.047,,False,False,8857.829,3,Australian Grand Prix
+OCO,47.0,81.382,3.0,HARD,46.0,1,True,Alpine,False,10.0,28.39,18.157,34.835,,False,False,8939.211,3,Australian Grand Prix
+OCO,48.0,81.47,3.0,HARD,47.0,1,True,Alpine,False,10.0,28.371,18.194,34.905,,False,False,9020.681,3,Australian Grand Prix
+OCO,49.0,81.668,3.0,HARD,48.0,1,True,Alpine,False,10.0,28.485,18.191,34.992,,False,False,9102.349,3,Australian Grand Prix
+OCO,50.0,81.204,3.0,HARD,49.0,1,True,Alpine,False,10.0,28.306,18.111,34.787,,False,False,9183.553,3,Australian Grand Prix
+OCO,51.0,81.452,3.0,HARD,50.0,1,True,Alpine,False,10.0,28.392,18.185,34.875,,False,False,9265.005,3,Australian Grand Prix
+OCO,52.0,81.436,3.0,HARD,51.0,1,True,Alpine,False,10.0,28.646,18.018,34.772,,False,False,9346.441,3,Australian Grand Prix
+OCO,53.0,81.338,3.0,HARD,52.0,12,True,Alpine,False,10.0,28.418,18.076,34.844,,False,False,9427.779,3,Australian Grand Prix
+OCO,54.0,106.329,3.0,HARD,53.0,14,False,Alpine,False,10.0,35.272,25.447,45.61,,False,False,9534.108,3,Australian Grand Prix
+OCO,55.0,,3.0,HARD,54.0,451,False,Alpine,False,10.0,40.018,25.314,,,True,False,10538.904,3,Australian Grand Prix
+OCO,56.0,,4.0,SOFT,1.0,1,False,Alpine,True,10.0,54.346,45.097,,,False,True,10741.964,3,Australian Grand Prix
+OCO,57.0,,4.0,SOFT,2.0,12,False,Alpine,True,,,,,,False,False,10764.751,3,Australian Grand Prix
+NOR,1.0,116.566,1.0,MEDIUM,1.0,124,False,McLaren,True,11.0,,19.112,58.183,,False,False,3853.666,3,Australian Grand Prix
+NOR,2.0,127.813,1.0,MEDIUM,2.0,4,False,McLaren,True,11.0,44.951,31.491,51.371,,False,False,3981.479,3,Australian Grand Prix
+NOR,3.0,124.797,1.0,MEDIUM,3.0,41,False,McLaren,True,11.0,47.448,29.013,48.336,,False,False,4106.276,3,Australian Grand Prix
+NOR,4.0,85.444,1.0,MEDIUM,4.0,1,True,McLaren,True,11.0,29.98,18.704,36.76,,False,False,4191.72,3,Australian Grand Prix
+NOR,5.0,84.732,1.0,MEDIUM,5.0,1,True,McLaren,True,11.0,29.49,18.751,36.491,,False,False,4276.452,3,Australian Grand Prix
+NOR,6.0,83.858,1.0,MEDIUM,6.0,1,True,McLaren,True,11.0,29.139,18.374,36.345,,False,False,4360.31,3,Australian Grand Prix
+NOR,7.0,102.393,1.0,MEDIUM,7.0,124,False,McLaren,True,10.0,29.226,20.817,52.35,,False,False,4462.703,3,Australian Grand Prix
+NOR,8.0,,1.0,MEDIUM,8.0,451,False,McLaren,True,9.0,43.368,44.336,,,True,False,5553.85,3,Australian Grand Prix
+NOR,9.0,,2.0,HARD,1.0,1,False,McLaren,True,9.0,41.723,54.404,,,False,True,5750.415,3,Australian Grand Prix
+NOR,10.0,90.926,2.0,HARD,2.0,1,True,McLaren,True,9.0,34.757,18.999,37.17,,False,False,5841.341,3,Australian Grand Prix
+NOR,11.0,85.817,2.0,HARD,3.0,1,True,McLaren,True,10.0,30.68,18.69,36.447,,False,False,5927.158,3,Australian Grand Prix
+NOR,12.0,83.775,2.0,HARD,4.0,1,True,McLaren,True,10.0,29.319,18.354,36.102,,False,False,6010.933,3,Australian Grand Prix
+NOR,13.0,83.54,2.0,HARD,5.0,1,True,McLaren,True,10.0,29.079,18.271,36.19,,False,False,6094.473,3,Australian Grand Prix
+NOR,14.0,83.307,2.0,HARD,6.0,1,True,McLaren,True,9.0,29.102,18.12,36.085,,False,False,6177.78,3,Australian Grand Prix
+NOR,15.0,83.568,2.0,HARD,7.0,1,True,McLaren,True,9.0,29.122,18.563,35.883,,False,False,6261.348,3,Australian Grand Prix
+NOR,16.0,83.111,2.0,HARD,8.0,1,True,McLaren,True,9.0,29.019,18.485,35.607,,False,False,6344.459,3,Australian Grand Prix
+NOR,17.0,82.986,2.0,HARD,9.0,1,True,McLaren,True,8.0,28.841,18.512,35.633,,False,False,6427.445,3,Australian Grand Prix
+NOR,18.0,105.957,2.0,HARD,10.0,16,False,McLaren,True,8.0,28.932,27.675,49.35,,False,False,6533.402,3,Australian Grand Prix
+NOR,19.0,98.45,2.0,HARD,11.0,671,False,McLaren,True,8.0,38.503,24.259,35.688,,False,False,6631.852,3,Australian Grand Prix
+NOR,20.0,82.741,2.0,HARD,12.0,1,True,McLaren,True,8.0,28.775,18.508,35.458,,False,False,6714.593,3,Australian Grand Prix
+NOR,21.0,82.828,2.0,HARD,13.0,1,True,McLaren,True,8.0,28.836,18.537,35.455,,False,False,6797.421,3,Australian Grand Prix
+NOR,22.0,82.532,2.0,HARD,14.0,1,True,McLaren,True,8.0,28.671,18.5,35.361,,False,False,6879.953,3,Australian Grand Prix
+NOR,23.0,82.65,2.0,HARD,15.0,1,True,McLaren,True,8.0,28.778,18.567,35.305,,False,False,6962.603,3,Australian Grand Prix
+NOR,24.0,82.536,2.0,HARD,16.0,1,True,McLaren,True,8.0,28.819,18.366,35.351,,False,False,7045.139,3,Australian Grand Prix
+NOR,25.0,82.56,2.0,HARD,17.0,1,True,McLaren,True,8.0,28.687,18.476,35.397,,False,False,7127.699,3,Australian Grand Prix
+NOR,26.0,82.458,2.0,HARD,18.0,1,True,McLaren,True,8.0,28.708,18.375,35.375,,False,False,7210.157,3,Australian Grand Prix
+NOR,27.0,82.415,2.0,HARD,19.0,1,True,McLaren,True,8.0,28.68,18.434,35.301,,False,False,7292.572,3,Australian Grand Prix
+NOR,28.0,82.426,2.0,HARD,20.0,1,True,McLaren,True,8.0,28.695,18.414,35.317,,False,False,7374.998,3,Australian Grand Prix
+NOR,29.0,82.234,2.0,HARD,21.0,1,True,McLaren,True,8.0,28.718,18.468,35.048,,False,False,7457.232,3,Australian Grand Prix
+NOR,30.0,82.228,2.0,HARD,22.0,1,True,McLaren,True,8.0,28.623,18.386,35.219,,False,False,7539.46,3,Australian Grand Prix
+NOR,31.0,82.339,2.0,HARD,23.0,1,True,McLaren,True,8.0,28.675,18.416,35.248,,False,False,7621.799,3,Australian Grand Prix
+NOR,32.0,82.16,2.0,HARD,24.0,1,True,McLaren,True,8.0,28.623,18.469,35.068,,False,False,7703.959,3,Australian Grand Prix
+NOR,33.0,82.28,2.0,HARD,25.0,1,True,McLaren,True,8.0,28.696,18.415,35.169,,False,False,7786.239,3,Australian Grand Prix
+NOR,34.0,82.294,2.0,HARD,26.0,1,True,McLaren,True,8.0,28.681,18.424,35.189,,False,False,7868.533,3,Australian Grand Prix
+NOR,35.0,82.147,2.0,HARD,27.0,1,True,McLaren,True,8.0,28.598,18.425,35.124,,False,False,7950.68,3,Australian Grand Prix
+NOR,36.0,82.09,2.0,HARD,28.0,1,True,McLaren,True,8.0,28.491,18.364,35.235,,False,False,8032.77,3,Australian Grand Prix
+NOR,37.0,82.155,2.0,HARD,29.0,1,True,McLaren,True,8.0,28.582,18.46,35.113,,False,False,8114.925,3,Australian Grand Prix
+NOR,38.0,81.856,2.0,HARD,30.0,1,True,McLaren,True,8.0,28.532,18.353,34.971,,False,False,8196.781,3,Australian Grand Prix
+NOR,39.0,81.657,2.0,HARD,31.0,1,True,McLaren,True,8.0,28.509,18.337,34.811,,False,False,8278.438,3,Australian Grand Prix
+NOR,40.0,81.643,2.0,HARD,32.0,1,True,McLaren,True,8.0,28.472,18.301,34.87,,False,False,8360.081,3,Australian Grand Prix
+NOR,41.0,81.674,2.0,HARD,33.0,1,True,McLaren,True,8.0,28.435,18.362,34.877,,False,False,8441.755,3,Australian Grand Prix
+NOR,42.0,81.496,2.0,HARD,34.0,1,True,McLaren,True,8.0,28.387,18.326,34.783,,False,False,8523.251,3,Australian Grand Prix
+NOR,43.0,82.219,2.0,HARD,35.0,1,True,McLaren,True,9.0,28.381,18.314,35.524,,False,False,8605.47,3,Australian Grand Prix
+NOR,44.0,81.272,2.0,HARD,36.0,1,True,McLaren,True,9.0,28.319,17.92,35.033,,False,False,8686.742,3,Australian Grand Prix
+NOR,45.0,81.518,2.0,HARD,37.0,1,True,McLaren,True,9.0,28.568,18.093,34.857,,False,False,8768.26,3,Australian Grand Prix
+NOR,46.0,81.173,2.0,HARD,38.0,1,True,McLaren,True,9.0,28.478,17.949,34.746,,False,False,8849.433,3,Australian Grand Prix
+NOR,47.0,81.482,2.0,HARD,39.0,1,True,McLaren,True,9.0,28.304,17.969,35.209,,False,False,8930.915,3,Australian Grand Prix
+NOR,48.0,81.784,2.0,HARD,40.0,1,True,McLaren,True,9.0,28.574,17.932,35.278,,False,False,9012.699,3,Australian Grand Prix
+NOR,49.0,82.341,2.0,HARD,41.0,1,True,McLaren,True,9.0,28.788,17.924,35.629,,False,False,9095.04,3,Australian Grand Prix
+NOR,50.0,81.714,2.0,HARD,42.0,1,True,McLaren,True,9.0,28.322,17.945,35.447,,False,False,9176.754,3,Australian Grand Prix
+NOR,51.0,82.032,2.0,HARD,43.0,1,True,McLaren,True,8.0,28.462,17.975,35.595,,False,False,9258.786,3,Australian Grand Prix
+NOR,52.0,81.352,2.0,HARD,44.0,1,True,McLaren,True,8.0,28.511,18.31,34.531,,False,False,9340.138,3,Australian Grand Prix
+NOR,53.0,81.259,2.0,HARD,45.0,12,True,McLaren,True,8.0,28.346,18.308,34.605,,False,False,9421.397,3,Australian Grand Prix
+NOR,54.0,104.622,2.0,HARD,46.0,14,False,McLaren,True,8.0,28.99,27.976,47.656,,False,False,9526.019,3,Australian Grand Prix
+NOR,55.0,,2.0,HARD,47.0,451,False,McLaren,True,8.0,39.352,25.311,,,True,False,10533.23,3,Australian Grand Prix
+NOR,56.0,,3.0,SOFT,1.0,1,False,McLaren,True,8.0,53.189,50.231,,,False,True,10741.603,3,Australian Grand Prix
+NOR,57.0,,3.0,SOFT,2.0,125,False,McLaren,True,7.0,48.113,30.548,,,True,False,12738.251,3,Australian Grand Prix
+NOR,58.0,161.001,4.0,SOFT,5.0,1,False,McLaren,False,7.0,53.703,50.182,57.116,,False,True,12899.252,3,Australian Grand Prix
+HAM,1.0,100.229,1.0,MEDIUM,1.0,124,False,Mercedes,True,2.0,,18.733,45.558,,False,False,3837.329,3,Australian Grand Prix
+HAM,2.0,132.287,1.0,MEDIUM,2.0,4,False,Mercedes,True,2.0,48.71,31.804,51.773,,False,False,3969.616,3,Australian Grand Prix
+HAM,3.0,131.362,1.0,MEDIUM,3.0,41,False,Mercedes,True,2.0,47.074,29.262,55.026,,False,False,4100.978,3,Australian Grand Prix
+HAM,4.0,83.295,1.0,MEDIUM,4.0,1,True,Mercedes,True,2.0,28.776,18.722,35.797,,False,False,4184.273,3,Australian Grand Prix
+HAM,5.0,83.17,1.0,MEDIUM,5.0,1,True,Mercedes,True,2.0,28.837,18.471,35.862,,False,False,4267.443,3,Australian Grand Prix
+HAM,6.0,82.89,1.0,MEDIUM,6.0,1,True,Mercedes,True,2.0,28.755,18.248,35.887,,False,False,4350.333,3,Australian Grand Prix
+HAM,7.0,94.144,1.0,MEDIUM,7.0,124,False,Mercedes,True,1.0,28.603,18.313,47.228,,False,False,4444.477,3,Australian Grand Prix
+HAM,8.0,172.33,1.0,MEDIUM,8.0,45,False,Mercedes,True,1.0,49.426,45.424,77.48,,True,False,4616.807,3,Australian Grand Prix
+HAM,9.0,,2.0,HARD,1.0,1,False,Mercedes,True,1.0,,52.89,78.814,,False,True,5711.542,3,Australian Grand Prix
+HAM,10.0,123.62,2.0,HARD,2.0,1,True,Mercedes,True,1.0,69.31,18.767,35.543,,False,False,5835.162,3,Australian Grand Prix
+HAM,11.0,83.79,2.0,HARD,3.0,1,True,Mercedes,True,1.0,29.102,18.759,35.929,,False,False,5918.952,3,Australian Grand Prix
+HAM,12.0,84.616,2.0,HARD,4.0,1,True,Mercedes,True,2.0,29.016,18.689,36.911,,False,False,6003.568,3,Australian Grand Prix
+HAM,13.0,83.771,2.0,HARD,5.0,1,True,Mercedes,True,2.0,29.39,18.682,35.699,,False,False,6087.339,3,Australian Grand Prix
+HAM,14.0,83.618,2.0,HARD,6.0,1,True,Mercedes,True,2.0,28.927,18.628,36.063,,False,False,6170.957,3,Australian Grand Prix
+HAM,15.0,82.998,2.0,HARD,7.0,1,True,Mercedes,True,2.0,28.731,18.574,35.693,,False,False,6253.955,3,Australian Grand Prix
+HAM,16.0,82.934,2.0,HARD,8.0,1,True,Mercedes,True,2.0,28.776,18.546,35.612,,False,False,6336.889,3,Australian Grand Prix
+HAM,17.0,82.121,2.0,HARD,9.0,1,True,Mercedes,True,2.0,28.519,18.429,35.173,,False,False,6419.01,3,Australian Grand Prix
+HAM,18.0,100.488,2.0,HARD,10.0,16,False,Mercedes,True,2.0,28.577,25.475,46.436,,False,False,6519.498,3,Australian Grand Prix
+HAM,19.0,103.041,2.0,HARD,11.0,671,False,Mercedes,True,2.0,40.528,25.879,36.634,,False,False,6622.539,3,Australian Grand Prix
+HAM,20.0,82.12,2.0,HARD,12.0,1,True,Mercedes,True,2.0,28.518,18.435,35.167,,False,False,6704.659,3,Australian Grand Prix
+HAM,21.0,82.704,2.0,HARD,13.0,1,True,Mercedes,True,2.0,28.526,18.538,35.64,,False,False,6787.363,3,Australian Grand Prix
+HAM,22.0,82.72,2.0,HARD,14.0,1,True,Mercedes,True,2.0,28.593,18.475,35.652,,False,False,6870.083,3,Australian Grand Prix
+HAM,23.0,82.971,2.0,HARD,15.0,1,True,Mercedes,True,2.0,28.623,18.613,35.735,,False,False,6953.054,3,Australian Grand Prix
+HAM,24.0,83.174,2.0,HARD,16.0,1,True,Mercedes,True,2.0,28.798,18.581,35.795,,False,False,7036.228,3,Australian Grand Prix
+HAM,25.0,82.456,2.0,HARD,17.0,1,True,Mercedes,True,2.0,28.641,18.43,35.385,,False,False,7118.684,3,Australian Grand Prix
+HAM,26.0,82.595,2.0,HARD,18.0,1,True,Mercedes,True,2.0,28.586,18.523,35.486,,False,False,7201.279,3,Australian Grand Prix
+HAM,27.0,82.131,2.0,HARD,19.0,1,True,Mercedes,True,2.0,28.433,18.438,35.26,,False,False,7283.41,3,Australian Grand Prix
+HAM,28.0,82.008,2.0,HARD,20.0,1,True,Mercedes,True,2.0,28.521,18.417,35.07,,False,False,7365.418,3,Australian Grand Prix
+HAM,29.0,82.715,2.0,HARD,21.0,1,True,Mercedes,True,2.0,28.61,18.554,35.551,,False,False,7448.133,3,Australian Grand Prix
+HAM,30.0,82.205,2.0,HARD,22.0,1,True,Mercedes,True,2.0,28.501,18.403,35.301,,False,False,7530.338,3,Australian Grand Prix
+HAM,31.0,82.22,2.0,HARD,23.0,1,True,Mercedes,True,2.0,28.586,18.437,35.197,,False,False,7612.558,3,Australian Grand Prix
+HAM,32.0,82.551,2.0,HARD,24.0,1,True,Mercedes,True,2.0,28.743,18.522,35.286,,False,False,7695.109,3,Australian Grand Prix
+HAM,33.0,81.654,2.0,HARD,25.0,1,True,Mercedes,True,2.0,28.259,18.355,35.04,,False,False,7776.763,3,Australian Grand Prix
+HAM,34.0,81.973,2.0,HARD,26.0,1,True,Mercedes,True,2.0,28.498,18.502,34.973,,False,False,7858.736,3,Australian Grand Prix
+HAM,35.0,81.832,2.0,HARD,27.0,1,True,Mercedes,True,2.0,28.535,18.404,34.893,,False,False,7940.568,3,Australian Grand Prix
+HAM,36.0,82.08,2.0,HARD,28.0,1,True,Mercedes,True,2.0,28.297,18.43,35.353,,False,False,8022.648,3,Australian Grand Prix
+HAM,37.0,81.4,2.0,HARD,29.0,1,True,Mercedes,True,2.0,28.293,18.389,34.718,,False,False,8104.048,3,Australian Grand Prix
+HAM,38.0,81.693,2.0,HARD,30.0,1,True,Mercedes,True,2.0,28.366,18.406,34.921,,False,False,8185.741,3,Australian Grand Prix
+HAM,39.0,81.315,2.0,HARD,31.0,1,True,Mercedes,True,2.0,28.194,18.308,34.813,,False,False,8267.056,3,Australian Grand Prix
+HAM,40.0,81.563,2.0,HARD,32.0,1,True,Mercedes,True,2.0,28.238,18.414,34.911,,False,False,8348.619,3,Australian Grand Prix
+HAM,41.0,81.267,2.0,HARD,33.0,1,True,Mercedes,True,2.0,28.278,18.289,34.7,,False,False,8429.886,3,Australian Grand Prix
+HAM,42.0,81.379,2.0,HARD,34.0,1,True,Mercedes,True,2.0,28.292,18.353,34.734,,False,False,8511.265,3,Australian Grand Prix
+HAM,43.0,81.073,2.0,HARD,35.0,1,True,Mercedes,True,2.0,28.251,18.256,34.566,,False,False,8592.338,3,Australian Grand Prix
+HAM,44.0,80.981,2.0,HARD,36.0,1,True,Mercedes,True,2.0,28.254,18.108,34.619,,False,False,8673.319,3,Australian Grand Prix
+HAM,45.0,81.422,2.0,HARD,37.0,1,True,Mercedes,True,2.0,28.531,18.17,34.721,,False,False,8754.741,3,Australian Grand Prix
+HAM,46.0,81.029,2.0,HARD,38.0,1,True,Mercedes,True,2.0,28.28,18.112,34.637,,False,False,8835.77,3,Australian Grand Prix
+HAM,47.0,80.816,2.0,HARD,39.0,1,True,Mercedes,True,2.0,28.194,18.05,34.572,,False,False,8916.586,3,Australian Grand Prix
+HAM,48.0,80.85,2.0,HARD,40.0,1,True,Mercedes,True,2.0,28.107,18.223,34.52,,False,False,8997.436,3,Australian Grand Prix
+HAM,49.0,80.613,2.0,HARD,41.0,1,True,Mercedes,True,2.0,27.911,18.141,34.561,,False,False,9078.049,3,Australian Grand Prix
+HAM,50.0,80.909,2.0,HARD,42.0,1,True,Mercedes,True,2.0,28.087,18.216,34.606,,False,False,9158.958,3,Australian Grand Prix
+HAM,51.0,80.682,2.0,HARD,43.0,1,True,Mercedes,True,2.0,27.958,18.175,34.549,,False,False,9239.64,3,Australian Grand Prix
+HAM,52.0,80.741,2.0,HARD,44.0,1,True,Mercedes,True,2.0,28.058,18.189,34.494,,False,False,9320.381,3,Australian Grand Prix
+HAM,53.0,80.652,2.0,HARD,45.0,12,True,Mercedes,True,2.0,28.01,18.172,34.47,,False,False,9401.033,3,Australian Grand Prix
+HAM,54.0,95.603,2.0,HARD,46.0,14,False,Mercedes,True,2.0,28.55,18.286,48.767,,False,False,9496.636,3,Australian Grand Prix
+HAM,55.0,159.291,2.0,HARD,47.0,45,False,Mercedes,True,2.0,41.17,30.998,87.123,,True,False,9655.927,3,Australian Grand Prix
+HAM,56.0,,3.0,SOFT,5.0,1,False,Mercedes,False,2.0,,47.686,,,False,True,10739.524,3,Australian Grand Prix
+HAM,57.0,144.44,3.0,SOFT,6.0,125,False,Mercedes,False,2.0,42.74,32.453,69.247,,True,False,10883.964,3,Australian Grand Prix
+HAM,58.0,,4.0,SOFT,5.0,1,False,Mercedes,False,2.0,,49.184,59.223,,False,True,12895.729,3,Australian Grand Prix
+SAI,1.0,103.866,1.0,MEDIUM,1.0,124,False,Ferrari,False,4.0,,18.702,48.235,,False,False,3840.966,3,Australian Grand Prix
+SAI,2.0,131.411,1.0,MEDIUM,2.0,4,False,Ferrari,False,4.0,47.207,31.797,52.407,,False,False,3972.377,3,Australian Grand Prix
+SAI,3.0,129.958,1.0,MEDIUM,3.0,41,False,Ferrari,False,4.0,46.167,29.035,54.756,,False,False,4102.335,3,Australian Grand Prix
+SAI,4.0,83.889,1.0,MEDIUM,4.0,1,True,Ferrari,False,4.0,29.248,18.62,36.021,,False,False,4186.224,3,Australian Grand Prix
+SAI,5.0,83.217,1.0,MEDIUM,5.0,1,True,Ferrari,False,4.0,28.969,18.453,35.795,,False,False,4269.441,3,Australian Grand Prix
+SAI,6.0,82.809,1.0,MEDIUM,6.0,1,True,Ferrari,False,4.0,28.859,18.435,35.515,,False,False,4352.25,3,Australian Grand Prix
+SAI,7.0,108.202,1.0,MEDIUM,7.0,124,False,Ferrari,False,8.0,28.792,18.423,60.987,,True,False,4460.452,3,Australian Grand Prix
+SAI,8.0,,2.0,HARD,1.0,451,False,Ferrari,True,11.0,47.972,43.451,,,True,True,5560.136,3,Australian Grand Prix
+SAI,9.0,190.689,3.0,HARD,2.0,1,False,Ferrari,False,11.0,41.326,51.052,98.311,,False,True,5750.825,3,Australian Grand Prix
+SAI,10.0,90.864,3.0,HARD,3.0,1,True,Ferrari,False,10.0,34.638,18.933,37.293,,False,False,5841.689,3,Australian Grand Prix
+SAI,11.0,84.433,3.0,HARD,4.0,1,True,Ferrari,False,9.0,29.859,18.526,36.048,,False,False,5926.122,3,Australian Grand Prix
+SAI,12.0,83.199,3.0,HARD,5.0,1,True,Ferrari,False,8.0,29.127,18.46,35.612,,False,False,6009.321,3,Australian Grand Prix
+SAI,13.0,82.862,3.0,HARD,6.0,1,True,Ferrari,False,8.0,28.938,18.342,35.582,,False,False,6092.183,3,Australian Grand Prix
+SAI,14.0,82.958,3.0,HARD,7.0,1,True,Ferrari,False,7.0,29.124,18.183,35.651,,False,False,6175.141,3,Australian Grand Prix
+SAI,15.0,82.587,3.0,HARD,8.0,1,True,Ferrari,False,6.0,28.778,18.255,35.554,,False,False,6257.728,3,Australian Grand Prix
+SAI,16.0,83.225,3.0,HARD,9.0,1,True,Ferrari,False,6.0,29.315,18.066,35.844,,False,False,6340.953,3,Australian Grand Prix
+SAI,17.0,82.945,3.0,HARD,10.0,1,True,Ferrari,False,5.0,28.798,18.104,36.043,,False,False,6423.898,3,Australian Grand Prix
+SAI,18.0,104.581,3.0,HARD,11.0,16,False,Ferrari,False,5.0,28.867,26.611,49.103,,False,False,6528.479,3,Australian Grand Prix
+SAI,19.0,99.533,3.0,HARD,12.0,671,False,Ferrari,False,5.0,38.886,24.958,35.689,,False,False,6628.012,3,Australian Grand Prix
+SAI,20.0,82.102,3.0,HARD,13.0,1,True,Ferrari,False,5.0,28.615,18.28,35.207,,False,False,6710.114,3,Australian Grand Prix
+SAI,21.0,82.15,3.0,HARD,14.0,1,True,Ferrari,False,5.0,28.514,18.241,35.395,,False,False,6792.264,3,Australian Grand Prix
+SAI,22.0,82.903,3.0,HARD,15.0,1,True,Ferrari,False,5.0,28.967,18.151,35.785,,False,False,6875.167,3,Australian Grand Prix
+SAI,23.0,82.523,3.0,HARD,16.0,1,True,Ferrari,False,5.0,28.798,18.214,35.511,,False,False,6957.69,3,Australian Grand Prix
+SAI,24.0,82.425,3.0,HARD,17.0,1,True,Ferrari,False,5.0,28.989,18.126,35.31,,False,False,7040.115,3,Australian Grand Prix
+SAI,25.0,82.994,3.0,HARD,18.0,1,True,Ferrari,False,4.0,29.198,18.446,35.35,,False,False,7123.109,3,Australian Grand Prix
+SAI,26.0,82.438,3.0,HARD,19.0,1,True,Ferrari,False,4.0,28.675,18.383,35.38,,False,False,7205.547,3,Australian Grand Prix
+SAI,27.0,82.099,3.0,HARD,20.0,1,True,Ferrari,False,4.0,28.609,18.304,35.186,,False,False,7287.646,3,Australian Grand Prix
+SAI,28.0,81.919,3.0,HARD,21.0,1,True,Ferrari,False,4.0,28.592,18.228,35.099,,False,False,7369.565,3,Australian Grand Prix
+SAI,29.0,82.412,3.0,HARD,22.0,1,True,Ferrari,False,4.0,28.618,18.334,35.46,,False,False,7451.977,3,Australian Grand Prix
+SAI,30.0,82.155,3.0,HARD,23.0,1,True,Ferrari,False,4.0,28.647,18.278,35.23,,False,False,7534.132,3,Australian Grand Prix
+SAI,31.0,81.854,3.0,HARD,24.0,1,True,Ferrari,False,4.0,28.575,18.288,34.991,,False,False,7615.986,3,Australian Grand Prix
+SAI,32.0,81.986,3.0,HARD,25.0,1,True,Ferrari,False,4.0,28.442,18.335,35.209,,False,False,7697.972,3,Australian Grand Prix
+SAI,33.0,81.77,3.0,HARD,26.0,1,True,Ferrari,False,4.0,28.508,18.266,34.996,,False,False,7779.742,3,Australian Grand Prix
+SAI,34.0,81.877,3.0,HARD,27.0,1,True,Ferrari,False,4.0,28.474,18.239,35.164,,False,False,7861.619,3,Australian Grand Prix
+SAI,35.0,81.692,3.0,HARD,28.0,1,True,Ferrari,False,4.0,28.409,18.27,35.013,,False,False,7943.311,3,Australian Grand Prix
+SAI,36.0,81.695,3.0,HARD,29.0,1,True,Ferrari,False,4.0,28.371,18.238,35.086,,False,False,8025.006,3,Australian Grand Prix
+SAI,37.0,81.659,3.0,HARD,30.0,1,True,Ferrari,False,4.0,28.398,18.244,35.017,,False,False,8106.665,3,Australian Grand Prix
+SAI,38.0,81.552,3.0,HARD,31.0,1,True,Ferrari,False,4.0,28.314,18.222,35.016,,False,False,8188.217,3,Australian Grand Prix
+SAI,39.0,81.852,3.0,HARD,32.0,1,True,Ferrari,False,4.0,28.488,18.269,35.095,,False,False,8270.069,3,Australian Grand Prix
+SAI,40.0,81.942,3.0,HARD,33.0,1,True,Ferrari,False,4.0,28.561,18.231,35.15,,False,False,8352.011,3,Australian Grand Prix
+SAI,41.0,81.412,3.0,HARD,34.0,1,True,Ferrari,False,4.0,28.304,18.201,34.907,,False,False,8433.423,3,Australian Grand Prix
+SAI,42.0,81.34,3.0,HARD,35.0,1,True,Ferrari,False,4.0,28.285,18.117,34.938,,False,False,8514.763,3,Australian Grand Prix
+SAI,43.0,81.074,3.0,HARD,36.0,1,True,Ferrari,False,4.0,28.18,18.112,34.782,,False,False,8595.837,3,Australian Grand Prix
+SAI,44.0,81.337,3.0,HARD,37.0,1,True,Ferrari,False,4.0,28.34,18.104,34.893,,False,False,8677.174,3,Australian Grand Prix
+SAI,45.0,81.303,3.0,HARD,38.0,1,True,Ferrari,False,4.0,28.212,18.2,34.891,,False,False,8758.477,3,Australian Grand Prix
+SAI,46.0,81.308,3.0,HARD,39.0,1,True,Ferrari,False,4.0,28.261,18.211,34.836,,False,False,8839.785,3,Australian Grand Prix
+SAI,47.0,81.033,3.0,HARD,40.0,1,True,Ferrari,False,4.0,28.153,18.112,34.768,,False,False,8920.818,3,Australian Grand Prix
+SAI,48.0,81.235,3.0,HARD,41.0,1,True,Ferrari,False,4.0,28.218,18.127,34.89,,False,False,9002.053,3,Australian Grand Prix
+SAI,49.0,81.102,3.0,HARD,42.0,1,True,Ferrari,False,4.0,28.189,18.175,34.738,,False,False,9083.155,3,Australian Grand Prix
+SAI,50.0,80.97,3.0,HARD,43.0,1,True,Ferrari,False,4.0,28.16,18.172,34.638,,False,False,9164.125,3,Australian Grand Prix
+SAI,51.0,80.826,3.0,HARD,44.0,1,True,Ferrari,False,4.0,28.125,18.111,34.59,,False,False,9244.951,3,Australian Grand Prix
+SAI,52.0,80.719,3.0,HARD,45.0,1,True,Ferrari,False,4.0,27.973,18.102,34.644,,False,False,9325.67,3,Australian Grand Prix
+SAI,53.0,80.467,3.0,HARD,46.0,12,True,Ferrari,False,4.0,27.985,18.061,34.421,,False,False,9406.137,3,Australian Grand Prix
+SAI,54.0,98.214,3.0,HARD,47.0,14,False,Ferrari,False,4.0,28.502,18.249,51.463,,False,False,9504.351,3,Australian Grand Prix
+SAI,55.0,,3.0,HARD,48.0,451,False,Ferrari,False,4.0,41.29,28.462,,,True,False,10514.679,3,Australian Grand Prix
+SAI,56.0,,4.0,SOFT,5.0,1,False,Ferrari,False,4.0,63.058,48.703,,,False,True,10740.551,3,Australian Grand Prix
+SAI,57.0,,4.0,SOFT,6.0,125,False,Ferrari,False,4.0,44.202,30.937,,,True,False,12730.075,3,Australian Grand Prix
+SAI,58.0,167.016,5.0,SOFT,5.0,1,False,Ferrari,False,4.0,59.062,49.471,58.483,,False,True,12897.091,3,Australian Grand Prix
+RUS,1.0,97.854,1.0,MEDIUM,1.0,124,False,Mercedes,True,1.0,,18.88,44.614,,False,False,3834.954,3,Australian Grand Prix
+RUS,2.0,133.298,1.0,MEDIUM,2.0,4,False,Mercedes,True,1.0,49.471,31.958,51.869,,False,False,3968.252,3,Australian Grand Prix
+RUS,3.0,132.017,1.0,MEDIUM,3.0,41,False,Mercedes,True,1.0,46.537,29.752,55.728,,False,False,4100.269,3,Australian Grand Prix
+RUS,4.0,83.134,1.0,MEDIUM,4.0,1,True,Mercedes,True,1.0,28.739,18.727,35.668,,False,False,4183.403,3,Australian Grand Prix
+RUS,5.0,83.134,1.0,MEDIUM,5.0,1,True,Mercedes,True,1.0,28.855,18.712,35.567,,False,False,4266.537,3,Australian Grand Prix
+RUS,6.0,83.159,1.0,MEDIUM,6.0,1,True,Mercedes,True,1.0,28.666,18.685,35.808,,False,False,4349.696,3,Australian Grand Prix
+RUS,7.0,107.537,1.0,MEDIUM,7.0,124,False,Mercedes,True,7.0,28.604,18.608,60.325,,True,False,4457.233,3,Australian Grand Prix
+RUS,8.0,,2.0,HARD,1.0,451,False,Mercedes,True,7.0,46.829,44.031,,,True,True,5546.124,3,Australian Grand Prix
+RUS,9.0,,3.0,HARD,2.0,1,False,Mercedes,False,6.0,42.335,54.255,,,False,True,5749.778,3,Australian Grand Prix
+RUS,10.0,89.218,3.0,HARD,3.0,1,True,Mercedes,False,5.0,33.632,18.904,36.682,,False,False,5838.996,3,Australian Grand Prix
+RUS,11.0,84.617,3.0,HARD,4.0,1,True,Mercedes,False,5.0,29.386,19.158,36.073,,False,False,5923.613,3,Australian Grand Prix
+RUS,12.0,83.169,3.0,HARD,5.0,1,True,Mercedes,False,5.0,29.026,18.246,35.897,,False,False,6006.782,3,Australian Grand Prix
+RUS,13.0,83.705,3.0,HARD,6.0,1,True,Mercedes,False,4.0,29.03,18.207,36.468,,False,False,6090.487,3,Australian Grand Prix
+RUS,14.0,83.073,3.0,HARD,7.0,1,True,Mercedes,False,4.0,28.68,18.521,35.872,,False,False,6173.56,3,Australian Grand Prix
+RUS,15.0,83.079,3.0,HARD,8.0,1,True,Mercedes,False,4.0,28.823,18.486,35.77,,False,False,6256.639,3,Australian Grand Prix
+RUS,16.0,82.68,3.0,HARD,9.0,1,True,Mercedes,False,4.0,28.733,18.436,35.511,,False,False,6339.319,3,Australian Grand Prix
+RUS,17.0,94.488,3.0,HARD,10.0,1,True,Mercedes,False,14.0,28.79,18.41,47.288,,False,False,6433.807,3,Australian Grand Prix
+RUS,18.0,,3.0,HARD,11.0,16724,False,Mercedes,False,,,,,,False,False,9605.748,3,Australian Grand Prix
+BOT,1.0,137.156,1.0,SOFT,1.0,124,False,Alfa Romeo,True,19.0,,19.004,73.128,,True,True,3874.256,3,Australian Grand Prix
+BOT,2.0,114.147,2.0,HARD,1.0,4,False,Alfa Romeo,True,17.0,42.532,23.163,48.452,,False,True,3988.403,3,Australian Grand Prix
+BOT,3.0,122.845,2.0,HARD,2.0,41,False,Alfa Romeo,True,17.0,47.615,27.79,47.44,,False,False,4111.248,3,Australian Grand Prix
+BOT,4.0,86.356,2.0,HARD,3.0,1,True,Alfa Romeo,True,18.0,30.183,18.837,37.336,,False,False,4197.604,3,Australian Grand Prix
+BOT,5.0,84.849,2.0,HARD,4.0,1,True,Alfa Romeo,True,18.0,29.655,18.663,36.531,,False,False,4282.453,3,Australian Grand Prix
+BOT,6.0,84.331,2.0,HARD,5.0,1,True,Alfa Romeo,True,18.0,29.379,18.546,36.406,,False,False,4366.784,3,Australian Grand Prix
+BOT,7.0,103.169,2.0,HARD,6.0,124,False,Alfa Romeo,True,16.0,29.335,26.676,47.158,,False,False,4469.953,3,Australian Grand Prix
+BOT,8.0,,2.0,HARD,7.0,451,False,Alfa Romeo,True,16.0,43.659,43.768,,,True,False,5575.093,3,Australian Grand Prix
+BOT,9.0,176.532,3.0,HARD,8.0,1,False,Alfa Romeo,False,17.0,41.347,43.658,91.527,,False,True,5751.625,3,Australian Grand Prix
+BOT,10.0,94.202,3.0,HARD,9.0,1,True,Alfa Romeo,False,18.0,36.842,19.473,37.887,,False,False,5845.827,3,Australian Grand Prix
+BOT,11.0,85.889,3.0,HARD,10.0,1,True,Alfa Romeo,False,18.0,30.299,18.733,36.857,,False,False,5931.716,3,Australian Grand Prix
+BOT,12.0,84.397,3.0,HARD,11.0,1,True,Alfa Romeo,False,18.0,29.851,18.513,36.033,,False,False,6016.113,3,Australian Grand Prix
+BOT,13.0,83.394,3.0,HARD,12.0,1,True,Alfa Romeo,False,18.0,29.16,18.304,35.93,,False,False,6099.507,3,Australian Grand Prix
+BOT,14.0,83.598,3.0,HARD,13.0,1,True,Alfa Romeo,False,18.0,29.381,18.318,35.899,,False,False,6183.105,3,Australian Grand Prix
+BOT,15.0,83.939,3.0,HARD,14.0,1,True,Alfa Romeo,False,18.0,29.346,18.323,36.27,,False,False,6267.044,3,Australian Grand Prix
+BOT,16.0,84.456,3.0,HARD,15.0,1,True,Alfa Romeo,False,18.0,29.485,18.204,36.767,,False,False,6351.5,3,Australian Grand Prix
+BOT,17.0,84.103,3.0,HARD,16.0,1,True,Alfa Romeo,False,18.0,29.476,18.192,36.435,,False,False,6435.603,3,Australian Grand Prix
+BOT,18.0,109.902,3.0,HARD,17.0,16,False,Alfa Romeo,False,16.0,36.181,24.972,48.749,,False,False,6545.505,3,Australian Grand Prix
+BOT,19.0,96.697,3.0,HARD,18.0,671,False,Alfa Romeo,False,16.0,39.232,20.99,36.475,,False,False,6642.202,3,Australian Grand Prix
+BOT,20.0,85.798,3.0,HARD,19.0,1,True,Alfa Romeo,False,17.0,29.247,18.45,38.101,,False,False,6728.0,3,Australian Grand Prix
+BOT,21.0,84.504,3.0,HARD,20.0,1,True,Alfa Romeo,False,17.0,29.468,18.653,36.383,,False,False,6812.504,3,Australian Grand Prix
+BOT,22.0,83.753,3.0,HARD,21.0,1,True,Alfa Romeo,False,17.0,29.206,18.567,35.98,,False,False,6896.257,3,Australian Grand Prix
+BOT,23.0,83.485,3.0,HARD,22.0,1,True,Alfa Romeo,False,17.0,29.165,18.246,36.074,,False,False,6979.742,3,Australian Grand Prix
+BOT,24.0,84.155,3.0,HARD,23.0,1,True,Alfa Romeo,False,17.0,29.544,18.241,36.37,,False,False,7063.897,3,Australian Grand Prix
+BOT,25.0,84.481,3.0,HARD,24.0,1,True,Alfa Romeo,False,17.0,29.653,18.243,36.585,,False,False,7148.378,3,Australian Grand Prix
+BOT,26.0,84.149,3.0,HARD,25.0,1,True,Alfa Romeo,False,17.0,29.562,18.239,36.348,,False,False,7232.527,3,Australian Grand Prix
+BOT,27.0,84.528,3.0,HARD,26.0,1,True,Alfa Romeo,False,16.0,30.107,18.682,35.739,,False,False,7317.055,3,Australian Grand Prix
+BOT,28.0,83.298,3.0,HARD,27.0,1,True,Alfa Romeo,False,16.0,28.878,18.61,35.81,,False,False,7400.353,3,Australian Grand Prix
+BOT,29.0,83.014,3.0,HARD,28.0,1,True,Alfa Romeo,False,16.0,28.881,18.536,35.597,,False,False,7483.367,3,Australian Grand Prix
+BOT,30.0,83.485,3.0,HARD,29.0,1,True,Alfa Romeo,False,16.0,29.052,18.548,35.885,,False,False,7566.852,3,Australian Grand Prix
+BOT,31.0,83.366,3.0,HARD,30.0,1,True,Alfa Romeo,False,16.0,29.092,18.559,35.715,,False,False,7650.218,3,Australian Grand Prix
+BOT,32.0,83.593,3.0,HARD,31.0,1,True,Alfa Romeo,False,16.0,29.192,18.582,35.819,,False,False,7733.811,3,Australian Grand Prix
+BOT,33.0,83.716,3.0,HARD,32.0,1,True,Alfa Romeo,False,16.0,29.337,18.347,36.032,,False,False,7817.527,3,Australian Grand Prix
+BOT,34.0,83.765,3.0,HARD,33.0,1,True,Alfa Romeo,False,16.0,29.542,18.35,35.873,,False,False,7901.292,3,Australian Grand Prix
+BOT,35.0,83.049,3.0,HARD,34.0,1,True,Alfa Romeo,False,15.0,28.92,18.607,35.522,,False,False,7984.341,3,Australian Grand Prix
+BOT,36.0,82.831,3.0,HARD,35.0,1,True,Alfa Romeo,False,15.0,28.717,18.586,35.528,,False,False,8067.172,3,Australian Grand Prix
+BOT,37.0,83.02,3.0,HARD,36.0,1,True,Alfa Romeo,False,15.0,28.748,18.71,35.562,,False,False,8150.192,3,Australian Grand Prix
+BOT,38.0,82.773,3.0,HARD,37.0,1,True,Alfa Romeo,False,15.0,28.692,18.555,35.526,,False,False,8232.965,3,Australian Grand Prix
+BOT,39.0,83.019,3.0,HARD,38.0,1,True,Alfa Romeo,False,15.0,28.606,18.727,35.686,,False,False,8315.984,3,Australian Grand Prix
+BOT,40.0,82.695,3.0,HARD,39.0,1,True,Alfa Romeo,False,15.0,28.578,18.617,35.5,,False,False,8398.679,3,Australian Grand Prix
+BOT,41.0,83.085,3.0,HARD,40.0,1,True,Alfa Romeo,False,15.0,28.719,18.726,35.64,,False,False,8481.764,3,Australian Grand Prix
+BOT,42.0,82.944,3.0,HARD,41.0,1,True,Alfa Romeo,False,15.0,28.83,18.588,35.526,,False,False,8564.708,3,Australian Grand Prix
+BOT,43.0,82.563,3.0,HARD,42.0,1,True,Alfa Romeo,False,15.0,28.587,18.595,35.381,,False,False,8647.271,3,Australian Grand Prix
+BOT,44.0,82.523,3.0,HARD,43.0,1,True,Alfa Romeo,False,15.0,28.606,18.581,35.336,,False,False,8729.794,3,Australian Grand Prix
+BOT,45.0,82.391,3.0,HARD,44.0,1,True,Alfa Romeo,False,15.0,28.611,18.483,35.297,,False,False,8812.185,3,Australian Grand Prix
+BOT,46.0,82.233,3.0,HARD,45.0,1,True,Alfa Romeo,False,15.0,28.414,18.51,35.309,,False,False,8894.418,3,Australian Grand Prix
+BOT,47.0,82.37,3.0,HARD,46.0,1,True,Alfa Romeo,False,15.0,28.455,18.58,35.335,,False,False,8976.788,3,Australian Grand Prix
+BOT,48.0,82.436,3.0,HARD,47.0,1,True,Alfa Romeo,False,15.0,28.603,18.566,35.267,,False,False,9059.224,3,Australian Grand Prix
+BOT,49.0,82.473,3.0,HARD,48.0,1,True,Alfa Romeo,False,15.0,28.584,18.693,35.196,,False,False,9141.697,3,Australian Grand Prix
+BOT,50.0,82.405,3.0,HARD,49.0,1,True,Alfa Romeo,False,15.0,28.616,18.557,35.232,,False,False,9224.102,3,Australian Grand Prix
+BOT,51.0,82.473,3.0,HARD,50.0,1,True,Alfa Romeo,False,15.0,28.44,18.571,35.462,,False,False,9306.575,3,Australian Grand Prix
+BOT,52.0,82.661,3.0,HARD,51.0,1,True,Alfa Romeo,False,15.0,28.585,18.571,35.505,,False,False,9389.236,3,Australian Grand Prix
+BOT,53.0,110.643,3.0,HARD,52.0,124,False,Alfa Romeo,False,14.0,30.054,18.872,61.717,,True,False,9499.879,3,Australian Grand Prix
+BOT,54.0,,4.0,SOFT,1.0,45,False,Alfa Romeo,True,14.0,41.621,30.576,,,True,True,9895.484,3,Australian Grand Prix
+BOT,55.0,,5.0,SOFT,2.0,51,False,Alfa Romeo,False,14.0,,19.593,,,True,True,10553.341,3,Australian Grand Prix
+BOT,56.0,189.21,6.0,SOFT,3.0,1,False,Alfa Romeo,False,13.0,49.955,41.789,97.466,,False,True,10742.551,3,Australian Grand Prix
+BOT,57.0,,6.0,SOFT,4.0,125,False,Alfa Romeo,False,12.0,50.384,31.658,,,True,False,12747.186,3,Australian Grand Prix
+BOT,58.0,154.815,7.0,SOFT,5.0,1,False,Alfa Romeo,False,12.0,48.39,50.379,56.046,,False,True,12902.001,3,Australian Grand Prix
+PIA,1.0,118.915,1.0,MEDIUM,1.0,124,False,McLaren,True,13.0,,19.695,59.494,,False,False,3856.015,3,Australian Grand Prix
+PIA,2.0,127.15,1.0,MEDIUM,2.0,4,False,McLaren,True,13.0,45.379,30.728,51.043,,False,False,3983.165,3,Australian Grand Prix
+PIA,3.0,124.169,1.0,MEDIUM,3.0,41,False,McLaren,True,13.0,48.588,28.234,47.347,,False,False,4107.334,3,Australian Grand Prix
+PIA,4.0,85.428,1.0,MEDIUM,4.0,1,True,McLaren,True,13.0,30.0,18.948,36.48,,False,False,4192.762,3,Australian Grand Prix
+PIA,5.0,84.996,1.0,MEDIUM,5.0,1,True,McLaren,True,13.0,29.732,18.729,36.535,,False,False,4277.758,3,Australian Grand Prix
+PIA,6.0,84.052,1.0,MEDIUM,6.0,1,True,McLaren,True,13.0,29.532,18.493,36.027,,False,False,4361.81,3,Australian Grand Prix
+PIA,7.0,101.556,1.0,MEDIUM,7.0,124,False,McLaren,True,11.0,29.08,25.003,47.473,,False,False,4463.366,3,Australian Grand Prix
+PIA,8.0,,1.0,MEDIUM,8.0,451,False,McLaren,True,10.0,43.941,43.737,,,True,False,5556.012,3,Australian Grand Prix
+PIA,9.0,194.742,2.0,HARD,1.0,1,False,McLaren,True,10.0,42.594,52.419,99.729,,False,True,5750.754,3,Australian Grand Prix
+PIA,10.0,91.821,2.0,HARD,2.0,1,True,McLaren,True,11.0,35.008,19.283,37.53,,False,False,5842.575,3,Australian Grand Prix
+PIA,11.0,85.221,2.0,HARD,3.0,1,True,McLaren,True,11.0,29.787,18.968,36.466,,False,False,5927.796,3,Australian Grand Prix
+PIA,12.0,83.759,2.0,HARD,4.0,1,True,McLaren,True,11.0,29.464,18.371,35.924,,False,False,6011.555,3,Australian Grand Prix
+PIA,13.0,83.496,2.0,HARD,5.0,1,True,McLaren,True,11.0,28.937,18.449,36.11,,False,False,6095.051,3,Australian Grand Prix
+PIA,14.0,83.56,2.0,HARD,6.0,1,True,McLaren,True,11.0,29.12,18.294,36.146,,False,False,6178.611,3,Australian Grand Prix
+PIA,15.0,85.236,2.0,HARD,7.0,1,True,McLaren,True,11.0,30.147,18.353,36.736,,False,False,6263.847,3,Australian Grand Prix
+PIA,16.0,83.558,2.0,HARD,8.0,1,True,McLaren,True,11.0,29.004,18.597,35.957,,False,False,6347.405,3,Australian Grand Prix
+PIA,17.0,83.229,2.0,HARD,9.0,1,True,McLaren,True,10.0,29.004,18.294,35.931,,False,False,6430.634,3,Australian Grand Prix
+PIA,18.0,106.859,2.0,HARD,10.0,16,False,McLaren,True,10.0,32.457,26.105,48.297,,False,False,6537.493,3,Australian Grand Prix
+PIA,19.0,98.081,2.0,HARD,11.0,671,False,McLaren,True,10.0,39.843,22.275,35.963,,False,False,6635.574,3,Australian Grand Prix
+PIA,20.0,83.051,2.0,HARD,12.0,1,True,McLaren,True,10.0,28.88,18.322,35.849,,False,False,6718.625,3,Australian Grand Prix
+PIA,21.0,83.996,2.0,HARD,13.0,1,True,McLaren,True,10.0,28.906,18.251,36.839,,False,False,6802.621,3,Australian Grand Prix
+PIA,22.0,83.854,2.0,HARD,14.0,1,True,McLaren,True,11.0,29.28,18.272,36.302,,False,False,6886.475,3,Australian Grand Prix
+PIA,23.0,83.2,2.0,HARD,15.0,1,True,McLaren,True,11.0,28.952,18.298,35.95,,False,False,6969.675,3,Australian Grand Prix
+PIA,24.0,83.796,2.0,HARD,16.0,1,True,McLaren,True,11.0,28.987,18.117,36.692,,False,False,7053.471,3,Australian Grand Prix
+PIA,25.0,83.478,2.0,HARD,17.0,1,True,McLaren,True,11.0,28.945,18.383,36.15,,False,False,7136.949,3,Australian Grand Prix
+PIA,26.0,84.327,2.0,HARD,18.0,1,True,McLaren,True,12.0,29.151,18.293,36.883,,False,False,7221.276,3,Australian Grand Prix
+PIA,27.0,82.995,2.0,HARD,19.0,1,True,McLaren,True,12.0,28.839,18.263,35.893,,False,False,7304.271,3,Australian Grand Prix
+PIA,28.0,82.825,2.0,HARD,20.0,1,True,McLaren,True,12.0,28.798,18.262,35.765,,False,False,7387.096,3,Australian Grand Prix
+PIA,29.0,82.635,2.0,HARD,21.0,1,True,McLaren,True,11.0,29.1,18.25,35.285,,False,False,7469.731,3,Australian Grand Prix
+PIA,30.0,83.083,2.0,HARD,22.0,1,True,McLaren,True,11.0,28.938,18.635,35.51,,False,False,7552.814,3,Australian Grand Prix
+PIA,31.0,82.662,2.0,HARD,23.0,1,True,McLaren,True,11.0,28.791,18.574,35.297,,False,False,7635.476,3,Australian Grand Prix
+PIA,32.0,82.855,2.0,HARD,24.0,1,True,McLaren,True,11.0,28.986,18.607,35.262,,False,False,7718.331,3,Australian Grand Prix
+PIA,33.0,82.431,2.0,HARD,25.0,1,True,McLaren,True,11.0,28.839,18.564,35.028,,False,False,7800.762,3,Australian Grand Prix
+PIA,34.0,82.504,2.0,HARD,26.0,1,True,McLaren,True,11.0,28.765,18.546,35.193,,False,False,7883.266,3,Australian Grand Prix
+PIA,35.0,82.471,2.0,HARD,27.0,1,True,McLaren,True,11.0,28.735,18.608,35.128,,False,False,7965.737,3,Australian Grand Prix
+PIA,36.0,82.473,2.0,HARD,28.0,1,True,McLaren,True,11.0,28.813,18.518,35.142,,False,False,8048.21,3,Australian Grand Prix
+PIA,37.0,82.346,2.0,HARD,29.0,1,True,McLaren,True,11.0,28.634,18.554,35.158,,False,False,8130.556,3,Australian Grand Prix
+PIA,38.0,82.316,2.0,HARD,30.0,1,True,McLaren,True,11.0,28.688,18.589,35.039,,False,False,8212.872,3,Australian Grand Prix
+PIA,39.0,82.512,2.0,HARD,31.0,1,True,McLaren,True,11.0,28.81,18.685,35.017,,False,False,8295.384,3,Australian Grand Prix
+PIA,40.0,82.003,2.0,HARD,32.0,1,True,McLaren,True,11.0,28.663,18.52,34.82,,False,False,8377.387,3,Australian Grand Prix
+PIA,41.0,81.931,2.0,HARD,33.0,1,True,McLaren,True,11.0,28.517,18.498,34.916,,False,False,8459.318,3,Australian Grand Prix
+PIA,42.0,82.101,2.0,HARD,34.0,1,True,McLaren,True,11.0,28.684,18.511,34.906,,False,False,8541.419,3,Australian Grand Prix
+PIA,43.0,82.218,2.0,HARD,35.0,1,True,McLaren,True,11.0,28.634,18.496,35.088,,False,False,8623.637,3,Australian Grand Prix
+PIA,44.0,81.697,2.0,HARD,36.0,1,True,McLaren,True,11.0,28.597,18.401,34.699,,False,False,8705.334,3,Australian Grand Prix
+PIA,45.0,81.707,2.0,HARD,37.0,1,True,McLaren,True,11.0,28.444,18.486,34.777,,False,False,8787.041,3,Australian Grand Prix
+PIA,46.0,81.652,2.0,HARD,38.0,1,True,McLaren,True,11.0,28.488,18.449,34.715,,False,False,8868.693,3,Australian Grand Prix
+PIA,47.0,81.669,2.0,HARD,39.0,1,True,McLaren,True,11.0,28.518,18.397,34.754,,False,False,8950.362,3,Australian Grand Prix
+PIA,48.0,81.686,2.0,HARD,40.0,1,True,McLaren,True,11.0,28.552,18.496,34.638,,False,False,9032.048,3,Australian Grand Prix
+PIA,49.0,81.525,2.0,HARD,41.0,1,True,McLaren,True,11.0,28.394,18.467,34.664,,False,False,9113.573,3,Australian Grand Prix
+PIA,50.0,81.752,2.0,HARD,42.0,1,True,McLaren,True,11.0,28.522,18.478,34.752,,False,False,9195.325,3,Australian Grand Prix
+PIA,51.0,81.737,2.0,HARD,43.0,1,True,McLaren,True,11.0,28.411,18.485,34.841,,False,False,9277.062,3,Australian Grand Prix
+PIA,52.0,81.683,2.0,HARD,44.0,1,True,McLaren,True,11.0,28.577,18.388,34.718,,False,False,9358.745,3,Australian Grand Prix
+PIA,53.0,81.335,2.0,HARD,45.0,12,True,McLaren,True,11.0,28.297,18.364,34.674,,False,False,9440.08,3,Australian Grand Prix
+PIA,54.0,122.932,2.0,HARD,46.0,14,False,McLaren,True,11.0,35.818,26.293,60.821,,True,False,9563.012,3,Australian Grand Prix
+PIA,55.0,,3.0,SOFT,1.0,451,False,McLaren,True,11.0,43.006,27.169,,,True,True,10541.516,3,Australian Grand Prix
+PIA,56.0,,4.0,SOFT,1.0,1,False,McLaren,True,11.0,53.423,44.425,,,False,True,10742.357,3,Australian Grand Prix
+PIA,57.0,,4.0,SOFT,2.0,125,False,McLaren,True,9.0,48.869,31.272,,,True,False,12742.694,3,Australian Grand Prix
+PIA,58.0,158.126,5.0,SOFT,1.0,1,False,McLaren,True,9.0,50.827,50.176,57.123,,False,True,12900.82,3,Australian Grand Prix

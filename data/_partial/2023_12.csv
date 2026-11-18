@@ -1,0 +1,817 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,115.659,1.0,SOFT,1.0,1,False,Red Bull Racing,True,4.0,,49.787,29.968,,False,False,3880.474,12,Belgian Grand Prix
+VER,2.0,113.103,1.0,SOFT,2.0,12,True,Red Bull Racing,True,4.0,32.291,50.712,30.1,,False,False,3993.577,12,Belgian Grand Prix
+VER,3.0,112.277,1.0,SOFT,3.0,21,True,Red Bull Racing,True,4.0,31.758,50.325,30.194,,False,False,4105.854,12,Belgian Grand Prix
+VER,4.0,112.789,1.0,SOFT,4.0,1,True,Red Bull Racing,True,4.0,31.881,50.599,30.309,,False,False,4218.643,12,Belgian Grand Prix
+VER,5.0,112.602,1.0,SOFT,5.0,1,True,Red Bull Racing,True,4.0,32.001,50.201,30.4,,False,False,4331.245,12,Belgian Grand Prix
+VER,6.0,112.13,1.0,SOFT,6.0,1,True,Red Bull Racing,True,3.0,31.967,49.818,30.345,,False,False,4443.375,12,Belgian Grand Prix
+VER,7.0,112.415,1.0,SOFT,7.0,1,True,Red Bull Racing,True,3.0,32.639,49.487,30.289,,False,False,4555.79,12,Belgian Grand Prix
+VER,8.0,112.472,1.0,SOFT,8.0,1,True,Red Bull Racing,True,3.0,32.299,49.833,30.34,,False,False,4668.262,12,Belgian Grand Prix
+VER,9.0,111.88,1.0,SOFT,9.0,1,True,Red Bull Racing,True,2.0,32.023,49.462,30.395,,False,False,4780.142,12,Belgian Grand Prix
+VER,10.0,112.455,1.0,SOFT,10.0,1,True,Red Bull Racing,True,2.0,32.711,49.261,30.483,,False,False,4892.597,12,Belgian Grand Prix
+VER,11.0,112.613,1.0,SOFT,11.0,1,True,Red Bull Racing,True,2.0,32.883,49.361,30.369,,False,False,5005.21,12,Belgian Grand Prix
+VER,12.0,112.714,1.0,SOFT,12.0,1,True,Red Bull Racing,True,2.0,32.711,49.661,30.342,,False,False,5117.924,12,Belgian Grand Prix
+VER,13.0,112.962,1.0,SOFT,13.0,1,True,Red Bull Racing,True,1.0,32.883,49.588,30.491,,False,False,5230.886,12,Belgian Grand Prix
+VER,14.0,117.166,1.0,SOFT,14.0,1,False,Red Bull Racing,True,1.0,32.934,49.266,34.966,,True,False,5348.052,12,Belgian Grand Prix
+VER,15.0,123.986,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,2.0,46.294,48.059,29.633,,False,True,5472.038,12,Belgian Grand Prix
+VER,16.0,110.696,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,2.0,31.588,49.186,29.922,,False,False,5582.734,12,Belgian Grand Prix
+VER,17.0,110.108,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,1.0,31.791,48.188,30.129,,False,False,5692.842,12,Belgian Grand Prix
+VER,18.0,111.637,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,1.0,32.664,48.716,30.257,,False,False,5804.479,12,Belgian Grand Prix
+VER,19.0,111.956,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,1.0,32.659,48.697,30.6,,False,False,5916.435,12,Belgian Grand Prix
+VER,20.0,115.733,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,1.0,33.136,50.946,31.651,,False,False,6032.168,12,Belgian Grand Prix
+VER,21.0,114.915,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,1.0,33.974,50.087,30.854,,False,False,6147.083,12,Belgian Grand Prix
+VER,22.0,115.325,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,1.0,33.125,51.111,31.089,,False,False,6262.408,12,Belgian Grand Prix
+VER,23.0,112.905,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,1.0,33.482,49.274,30.149,,False,False,6375.313,12,Belgian Grand Prix
+VER,24.0,110.996,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,1.0,32.673,48.189,30.134,,False,False,6486.309,12,Belgian Grand Prix
+VER,25.0,111.106,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,32.656,48.348,30.102,,False,False,6597.415,12,Belgian Grand Prix
+VER,26.0,111.377,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,1.0,32.676,48.581,30.12,,False,False,6708.792,12,Belgian Grand Prix
+VER,27.0,111.472,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,1.0,32.742,48.397,30.333,,False,False,6820.264,12,Belgian Grand Prix
+VER,28.0,111.41,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,1.0,32.76,48.435,30.215,,False,False,6931.674,12,Belgian Grand Prix
+VER,29.0,111.595,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,32.67,48.714,30.211,,False,False,7043.269,12,Belgian Grand Prix
+VER,30.0,115.882,2.0,MEDIUM,16.0,1,False,Red Bull Racing,True,1.0,32.883,48.392,34.607,,True,False,7159.151,12,Belgian Grand Prix
+VER,31.0,123.585,3.0,SOFT,1.0,1,False,Red Bull Racing,True,1.0,46.598,47.145,29.842,,False,True,7282.736,12,Belgian Grand Prix
+VER,32.0,108.922,3.0,SOFT,2.0,1,True,Red Bull Racing,True,1.0,32.354,47.017,29.551,,False,False,7391.658,12,Belgian Grand Prix
+VER,33.0,110.586,3.0,SOFT,3.0,1,True,Red Bull Racing,True,1.0,32.665,47.994,29.927,,False,False,7502.244,12,Belgian Grand Prix
+VER,34.0,110.792,3.0,SOFT,4.0,1,True,Red Bull Racing,True,1.0,32.556,48.197,30.039,,False,False,7613.036,12,Belgian Grand Prix
+VER,35.0,110.408,3.0,SOFT,5.0,1,True,Red Bull Racing,True,1.0,32.552,48.05,29.806,,False,False,7723.444,12,Belgian Grand Prix
+VER,36.0,110.362,3.0,SOFT,6.0,1,True,Red Bull Racing,True,1.0,32.584,47.831,29.947,,False,False,7833.806,12,Belgian Grand Prix
+VER,37.0,110.317,3.0,SOFT,7.0,1,True,Red Bull Racing,True,1.0,32.634,47.696,29.987,,False,False,7944.123,12,Belgian Grand Prix
+VER,38.0,110.147,3.0,SOFT,8.0,1,True,Red Bull Racing,True,1.0,32.612,47.62,29.915,,False,False,8054.27,12,Belgian Grand Prix
+VER,39.0,110.113,3.0,SOFT,9.0,1,True,Red Bull Racing,True,1.0,32.491,47.716,29.906,,False,False,8164.383,12,Belgian Grand Prix
+VER,40.0,110.067,3.0,SOFT,10.0,1,True,Red Bull Racing,True,1.0,32.66,47.491,29.916,,False,False,8274.45,12,Belgian Grand Prix
+VER,41.0,109.954,3.0,SOFT,11.0,1,True,Red Bull Racing,True,1.0,32.495,47.523,29.936,,False,False,8384.404,12,Belgian Grand Prix
+VER,42.0,110.187,3.0,SOFT,12.0,1,True,Red Bull Racing,True,1.0,32.76,47.595,29.832,,False,False,8494.591,12,Belgian Grand Prix
+VER,43.0,110.095,3.0,SOFT,13.0,1,True,Red Bull Racing,True,1.0,32.718,47.656,29.721,,False,False,8604.686,12,Belgian Grand Prix
+VER,44.0,110.579,3.0,SOFT,14.0,1,True,Red Bull Racing,True,1.0,32.491,47.951,30.137,,False,False,8715.265,12,Belgian Grand Prix
+PER,1.0,113.295,1.0,SOFT,1.0,1,False,Red Bull Racing,True,1.0,,48.536,30.124,,False,False,3878.11,12,Belgian Grand Prix
+PER,2.0,112.166,1.0,SOFT,2.0,12,True,Red Bull Racing,True,1.0,32.557,49.364,30.245,,False,False,3990.276,12,Belgian Grand Prix
+PER,3.0,112.153,1.0,SOFT,3.0,21,True,Red Bull Racing,True,1.0,32.702,49.068,30.383,,False,False,4102.429,12,Belgian Grand Prix
+PER,4.0,112.336,1.0,SOFT,4.0,1,True,Red Bull Racing,True,1.0,32.894,49.117,30.325,,False,False,4214.765,12,Belgian Grand Prix
+PER,5.0,112.572,1.0,SOFT,5.0,1,True,Red Bull Racing,True,1.0,32.843,49.213,30.516,,False,False,4327.337,12,Belgian Grand Prix
+PER,6.0,112.466,1.0,SOFT,6.0,1,True,Red Bull Racing,True,1.0,32.968,49.099,30.399,,False,False,4439.803,12,Belgian Grand Prix
+PER,7.0,112.52,1.0,SOFT,7.0,1,True,Red Bull Racing,True,1.0,32.912,49.162,30.446,,False,False,4552.323,12,Belgian Grand Prix
+PER,8.0,112.305,1.0,SOFT,8.0,1,True,Red Bull Racing,True,1.0,32.849,49.063,30.393,,False,False,4664.628,12,Belgian Grand Prix
+PER,9.0,112.465,1.0,SOFT,9.0,1,True,Red Bull Racing,True,1.0,33.009,49.099,30.357,,False,False,4777.093,12,Belgian Grand Prix
+PER,10.0,112.72,1.0,SOFT,10.0,1,True,Red Bull Racing,True,1.0,32.944,49.354,30.422,,False,False,4889.813,12,Belgian Grand Prix
+PER,11.0,112.644,1.0,SOFT,11.0,1,True,Red Bull Racing,True,1.0,32.757,49.495,30.392,,False,False,5002.457,12,Belgian Grand Prix
+PER,12.0,112.973,1.0,SOFT,12.0,1,True,Red Bull Racing,True,1.0,32.838,49.735,30.4,,False,False,5115.43,12,Belgian Grand Prix
+PER,13.0,117.632,1.0,SOFT,13.0,1,False,Red Bull Racing,True,2.0,32.936,49.573,35.123,,True,False,5233.062,12,Belgian Grand Prix
+PER,14.0,126.242,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,2.0,47.301,48.841,30.1,,False,True,5359.304,12,Belgian Grand Prix
+PER,15.0,111.621,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,1.0,32.552,49.072,29.997,,False,False,5470.925,12,Belgian Grand Prix
+PER,16.0,111.416,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,1.0,32.417,49.037,29.962,,False,False,5582.341,12,Belgian Grand Prix
+PER,17.0,112.175,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,2.0,32.453,49.413,30.309,,False,False,5694.516,12,Belgian Grand Prix
+PER,18.0,112.289,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,2.0,32.473,49.361,30.455,,False,False,5806.805,12,Belgian Grand Prix
+PER,19.0,113.525,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,2.0,32.73,49.91,30.885,,False,False,5920.33,12,Belgian Grand Prix
+PER,20.0,115.459,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,2.0,32.933,50.781,31.745,,False,False,6035.789,12,Belgian Grand Prix
+PER,21.0,115.448,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,2.0,33.813,50.723,30.912,,False,False,6151.237,12,Belgian Grand Prix
+PER,22.0,116.286,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,2.0,32.936,52.567,30.783,,False,False,6267.523,12,Belgian Grand Prix
+PER,23.0,113.361,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,2.0,33.429,49.814,30.118,,False,False,6380.884,12,Belgian Grand Prix
+PER,24.0,111.716,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,2.0,32.736,48.788,30.192,,False,False,6492.6,12,Belgian Grand Prix
+PER,25.0,111.692,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,2.0,32.527,48.897,30.268,,False,False,6604.292,12,Belgian Grand Prix
+PER,26.0,111.891,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,2.0,32.59,48.928,30.373,,False,False,6716.183,12,Belgian Grand Prix
+PER,27.0,112.199,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,2.0,32.751,49.01,30.438,,False,False,6828.382,12,Belgian Grand Prix
+PER,28.0,112.162,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,2.0,32.709,49.137,30.316,,False,False,6940.544,12,Belgian Grand Prix
+PER,29.0,116.724,2.0,MEDIUM,16.0,1,False,Red Bull Racing,True,2.0,32.496,49.225,35.003,,True,False,7057.268,12,Belgian Grand Prix
+PER,30.0,124.522,3.0,SOFT,1.0,1,False,Red Bull Racing,True,2.0,46.533,48.161,29.828,,False,True,7181.79,12,Belgian Grand Prix
+PER,31.0,110.308,3.0,SOFT,2.0,1,True,Red Bull Racing,True,2.0,32.372,48.099,29.837,,False,False,7292.098,12,Belgian Grand Prix
+PER,32.0,111.184,3.0,SOFT,3.0,1,True,Red Bull Racing,True,2.0,32.77,48.513,29.901,,False,False,7403.282,12,Belgian Grand Prix
+PER,33.0,111.44,3.0,SOFT,4.0,1,True,Red Bull Racing,True,2.0,32.663,48.775,30.002,,False,False,7514.722,12,Belgian Grand Prix
+PER,34.0,111.387,3.0,SOFT,5.0,1,True,Red Bull Racing,True,2.0,32.517,48.812,30.058,,False,False,7626.109,12,Belgian Grand Prix
+PER,35.0,110.827,3.0,SOFT,6.0,1,True,Red Bull Racing,True,2.0,32.462,48.313,30.052,,False,False,7736.936,12,Belgian Grand Prix
+PER,36.0,111.082,3.0,SOFT,7.0,1,True,Red Bull Racing,True,2.0,32.522,48.566,29.994,,False,False,7848.018,12,Belgian Grand Prix
+PER,37.0,111.103,3.0,SOFT,8.0,1,True,Red Bull Racing,True,2.0,32.265,48.734,30.104,,False,False,7959.121,12,Belgian Grand Prix
+PER,38.0,111.42,3.0,SOFT,9.0,1,True,Red Bull Racing,True,2.0,32.653,48.688,30.079,,False,False,8070.541,12,Belgian Grand Prix
+PER,39.0,111.117,3.0,SOFT,10.0,1,True,Red Bull Racing,True,2.0,32.324,48.673,30.12,,False,False,8181.658,12,Belgian Grand Prix
+PER,40.0,111.318,3.0,SOFT,11.0,1,True,Red Bull Racing,True,2.0,32.557,48.65,30.111,,False,False,8292.976,12,Belgian Grand Prix
+PER,41.0,110.935,3.0,SOFT,12.0,1,True,Red Bull Racing,True,2.0,32.336,48.523,30.076,,False,False,8403.911,12,Belgian Grand Prix
+PER,42.0,111.24,3.0,SOFT,13.0,1,True,Red Bull Racing,True,2.0,32.431,48.764,30.045,,False,False,8515.151,12,Belgian Grand Prix
+PER,43.0,110.911,3.0,SOFT,14.0,1,True,Red Bull Racing,True,2.0,32.278,48.647,29.986,,False,False,8626.062,12,Belgian Grand Prix
+PER,44.0,111.508,3.0,SOFT,15.0,12,True,Red Bull Racing,True,2.0,32.535,48.866,30.107,,False,False,8737.57,12,Belgian Grand Prix
+LEC,1.0,114.584,1.0,SOFT,1.0,1,False,Ferrari,True,2.0,,49.931,29.936,,False,False,3879.399,12,Belgian Grand Prix
+LEC,2.0,112.839,1.0,SOFT,2.0,12,True,Ferrari,True,2.0,32.285,50.121,30.433,,False,False,3992.238,12,Belgian Grand Prix
+LEC,3.0,112.292,1.0,SOFT,3.0,21,True,Ferrari,True,2.0,32.498,49.541,30.253,,False,False,4104.53,12,Belgian Grand Prix
+LEC,4.0,112.479,1.0,SOFT,4.0,1,True,Ferrari,True,2.0,32.526,49.676,30.277,,False,False,4217.009,12,Belgian Grand Prix
+LEC,5.0,112.575,1.0,SOFT,5.0,1,True,Ferrari,True,2.0,32.487,49.691,30.397,,False,False,4329.584,12,Belgian Grand Prix
+LEC,6.0,112.684,1.0,SOFT,6.0,1,True,Ferrari,True,2.0,32.603,49.698,30.383,,False,False,4442.268,12,Belgian Grand Prix
+LEC,7.0,112.763,1.0,SOFT,7.0,1,True,Ferrari,True,2.0,32.722,49.612,30.429,,False,False,4555.031,12,Belgian Grand Prix
+LEC,8.0,112.641,1.0,SOFT,8.0,1,True,Ferrari,True,2.0,32.649,49.578,30.414,,False,False,4667.672,12,Belgian Grand Prix
+LEC,9.0,113.603,1.0,SOFT,9.0,1,True,Ferrari,True,3.0,32.544,50.607,30.452,,False,False,4781.275,12,Belgian Grand Prix
+LEC,10.0,113.559,1.0,SOFT,10.0,1,True,Ferrari,True,3.0,32.429,50.027,31.103,,False,False,4894.834,12,Belgian Grand Prix
+LEC,11.0,113.232,1.0,SOFT,11.0,1,True,Ferrari,True,3.0,32.634,50.072,30.526,,False,False,5008.066,12,Belgian Grand Prix
+LEC,12.0,113.523,1.0,SOFT,12.0,1,True,Ferrari,True,3.0,32.855,49.955,30.713,,False,False,5121.589,12,Belgian Grand Prix
+LEC,13.0,117.485,1.0,SOFT,13.0,1,False,Ferrari,True,3.0,32.498,50.133,34.854,,True,False,5239.074,12,Belgian Grand Prix
+LEC,14.0,125.902,2.0,MEDIUM,1.0,1,False,Ferrari,True,3.0,46.961,48.689,30.252,,False,True,5364.976,12,Belgian Grand Prix
+LEC,15.0,111.88,2.0,MEDIUM,2.0,1,True,Ferrari,True,3.0,32.334,49.295,30.251,,False,False,5476.856,12,Belgian Grand Prix
+LEC,16.0,112.064,2.0,MEDIUM,3.0,1,True,Ferrari,True,3.0,32.475,49.179,30.41,,False,False,5588.92,12,Belgian Grand Prix
+LEC,17.0,112.243,2.0,MEDIUM,4.0,1,True,Ferrari,True,3.0,32.384,49.367,30.492,,False,False,5701.163,12,Belgian Grand Prix
+LEC,18.0,112.168,2.0,MEDIUM,5.0,1,True,Ferrari,True,3.0,32.37,49.402,30.396,,False,False,5813.331,12,Belgian Grand Prix
+LEC,19.0,112.868,2.0,MEDIUM,6.0,1,True,Ferrari,True,3.0,32.426,49.609,30.833,,False,False,5926.199,12,Belgian Grand Prix
+LEC,20.0,115.838,2.0,MEDIUM,7.0,1,True,Ferrari,True,3.0,32.815,50.363,32.66,,False,False,6042.037,12,Belgian Grand Prix
+LEC,21.0,115.901,2.0,MEDIUM,8.0,1,True,Ferrari,True,3.0,33.334,50.912,31.655,,False,False,6157.938,12,Belgian Grand Prix
+LEC,22.0,116.499,2.0,MEDIUM,9.0,1,True,Ferrari,True,3.0,33.23,51.874,31.395,,False,False,6274.437,12,Belgian Grand Prix
+LEC,23.0,113.585,2.0,MEDIUM,10.0,1,True,Ferrari,True,3.0,33.378,49.887,30.32,,False,False,6388.022,12,Belgian Grand Prix
+LEC,24.0,111.81,2.0,MEDIUM,11.0,1,True,Ferrari,True,3.0,32.479,48.993,30.338,,False,False,6499.832,12,Belgian Grand Prix
+LEC,25.0,111.717,2.0,MEDIUM,12.0,1,True,Ferrari,True,3.0,32.233,49.034,30.45,,False,False,6611.549,12,Belgian Grand Prix
+LEC,26.0,111.75,2.0,MEDIUM,13.0,1,True,Ferrari,True,3.0,32.434,49.036,30.28,,False,False,6723.299,12,Belgian Grand Prix
+LEC,27.0,111.865,2.0,MEDIUM,14.0,1,True,Ferrari,True,3.0,32.361,49.149,30.355,,False,False,6835.164,12,Belgian Grand Prix
+LEC,28.0,115.953,2.0,MEDIUM,15.0,1,False,Ferrari,True,3.0,32.397,49.118,34.438,,True,False,6951.117,12,Belgian Grand Prix
+LEC,29.0,123.881,3.0,SOFT,1.0,1,False,Ferrari,True,3.0,46.626,47.434,29.821,,False,True,7074.998,12,Belgian Grand Prix
+LEC,30.0,110.436,3.0,SOFT,2.0,1,True,Ferrari,True,3.0,32.085,48.292,30.059,,False,False,7185.434,12,Belgian Grand Prix
+LEC,31.0,110.903,3.0,SOFT,3.0,1,True,Ferrari,True,3.0,32.194,48.424,30.285,,False,False,7296.337,12,Belgian Grand Prix
+LEC,32.0,111.681,3.0,SOFT,4.0,1,True,Ferrari,True,3.0,32.166,49.344,30.171,,False,False,7408.018,12,Belgian Grand Prix
+LEC,33.0,111.189,3.0,SOFT,5.0,1,True,Ferrari,True,3.0,32.283,48.778,30.128,,False,False,7519.207,12,Belgian Grand Prix
+LEC,34.0,110.726,3.0,SOFT,6.0,1,True,Ferrari,True,3.0,32.114,48.475,30.137,,False,False,7629.933,12,Belgian Grand Prix
+LEC,35.0,111.267,3.0,SOFT,7.0,1,True,Ferrari,True,3.0,32.329,48.694,30.244,,False,False,7741.2,12,Belgian Grand Prix
+LEC,36.0,111.143,3.0,SOFT,8.0,1,True,Ferrari,True,3.0,32.297,48.679,30.167,,False,False,7852.343,12,Belgian Grand Prix
+LEC,37.0,111.298,3.0,SOFT,9.0,1,True,Ferrari,True,3.0,32.134,48.832,30.332,,False,False,7963.641,12,Belgian Grand Prix
+LEC,38.0,111.312,3.0,SOFT,10.0,1,True,Ferrari,True,3.0,32.16,49.004,30.148,,False,False,8074.953,12,Belgian Grand Prix
+LEC,39.0,110.919,3.0,SOFT,11.0,1,True,Ferrari,True,3.0,32.149,48.634,30.136,,False,False,8185.872,12,Belgian Grand Prix
+LEC,40.0,111.833,3.0,SOFT,12.0,1,True,Ferrari,True,3.0,32.299,49.136,30.398,,False,False,8297.705,12,Belgian Grand Prix
+LEC,41.0,112.252,3.0,SOFT,13.0,1,True,Ferrari,True,3.0,32.216,49.615,30.421,,False,False,8409.957,12,Belgian Grand Prix
+LEC,42.0,111.419,3.0,SOFT,14.0,1,True,Ferrari,True,3.0,32.318,48.877,30.224,,False,False,8521.376,12,Belgian Grand Prix
+LEC,43.0,112.442,3.0,SOFT,15.0,1,True,Ferrari,True,3.0,32.162,49.875,30.405,,False,False,8633.818,12,Belgian Grand Prix
+LEC,44.0,113.706,3.0,SOFT,16.0,12,True,Ferrari,True,3.0,32.56,50.379,30.767,,False,False,8747.524,12,Belgian Grand Prix
+HAM,1.0,115.21,1.0,SOFT,1.0,1,False,Mercedes,True,3.0,,50.262,29.96,,False,False,3880.025,12,Belgian Grand Prix
+HAM,2.0,113.02,1.0,SOFT,2.0,12,True,Mercedes,True,3.0,32.201,50.548,30.271,,False,False,3993.045,12,Belgian Grand Prix
+HAM,3.0,112.454,1.0,SOFT,3.0,21,True,Mercedes,True,3.0,32.132,49.997,30.325,,False,False,4105.499,12,Belgian Grand Prix
+HAM,4.0,112.506,1.0,SOFT,4.0,1,True,Mercedes,True,3.0,31.921,50.337,30.248,,False,False,4218.005,12,Belgian Grand Prix
+HAM,5.0,112.717,1.0,SOFT,5.0,1,True,Mercedes,True,3.0,32.076,50.19,30.451,,False,False,4330.722,12,Belgian Grand Prix
+HAM,6.0,113.813,1.0,SOFT,6.0,1,True,Mercedes,True,4.0,32.453,51.017,30.343,,False,False,4444.535,12,Belgian Grand Prix
+HAM,7.0,113.43,1.0,SOFT,7.0,1,True,Mercedes,True,4.0,32.449,50.421,30.56,,False,False,4557.965,12,Belgian Grand Prix
+HAM,8.0,113.276,1.0,SOFT,8.0,1,True,Mercedes,True,4.0,32.548,50.037,30.691,,False,False,4671.241,12,Belgian Grand Prix
+HAM,9.0,113.472,1.0,SOFT,9.0,1,True,Mercedes,True,4.0,32.465,50.318,30.689,,False,False,4784.713,12,Belgian Grand Prix
+HAM,10.0,113.381,1.0,SOFT,10.0,1,True,Mercedes,True,4.0,32.507,50.339,30.535,,False,False,4898.094,12,Belgian Grand Prix
+HAM,11.0,114.073,1.0,SOFT,11.0,1,True,Mercedes,True,4.0,32.523,50.867,30.683,,False,False,5012.167,12,Belgian Grand Prix
+HAM,12.0,118.156,1.0,SOFT,12.0,1,False,Mercedes,True,4.0,32.681,50.609,34.866,,True,False,5130.323,12,Belgian Grand Prix
+HAM,13.0,125.716,2.0,MEDIUM,1.0,1,False,Mercedes,True,4.0,46.489,49.261,29.966,,False,True,5256.039,12,Belgian Grand Prix
+HAM,14.0,111.523,2.0,MEDIUM,2.0,1,True,Mercedes,True,4.0,31.915,49.468,30.14,,False,False,5367.562,12,Belgian Grand Prix
+HAM,15.0,112.126,2.0,MEDIUM,3.0,1,True,Mercedes,True,4.0,32.131,49.747,30.248,,False,False,5479.688,12,Belgian Grand Prix
+HAM,16.0,112.215,2.0,MEDIUM,4.0,1,True,Mercedes,True,4.0,32.282,49.734,30.199,,False,False,5591.903,12,Belgian Grand Prix
+HAM,17.0,112.421,2.0,MEDIUM,5.0,1,True,Mercedes,True,4.0,32.233,49.705,30.483,,False,False,5704.324,12,Belgian Grand Prix
+HAM,18.0,112.764,2.0,MEDIUM,6.0,1,True,Mercedes,True,4.0,32.344,50.003,30.417,,False,False,5817.088,12,Belgian Grand Prix
+HAM,19.0,112.953,2.0,MEDIUM,7.0,1,True,Mercedes,True,4.0,32.351,49.88,30.722,,False,False,5930.041,12,Belgian Grand Prix
+HAM,20.0,115.105,2.0,MEDIUM,8.0,1,True,Mercedes,True,4.0,32.46,50.731,31.914,,False,False,6045.146,12,Belgian Grand Prix
+HAM,21.0,116.302,2.0,MEDIUM,9.0,1,True,Mercedes,True,4.0,33.017,51.648,31.637,,False,False,6161.448,12,Belgian Grand Prix
+HAM,22.0,116.499,2.0,MEDIUM,10.0,1,True,Mercedes,True,4.0,32.635,52.284,31.58,,False,False,6277.947,12,Belgian Grand Prix
+HAM,23.0,112.296,2.0,MEDIUM,11.0,1,True,Mercedes,True,4.0,32.812,49.238,30.246,,False,False,6390.243,12,Belgian Grand Prix
+HAM,24.0,111.998,2.0,MEDIUM,12.0,1,True,Mercedes,True,4.0,32.37,49.295,30.333,,False,False,6502.241,12,Belgian Grand Prix
+HAM,25.0,112.191,2.0,MEDIUM,13.0,1,True,Mercedes,True,4.0,32.309,49.56,30.322,,False,False,6614.432,12,Belgian Grand Prix
+HAM,26.0,112.36,2.0,MEDIUM,14.0,1,True,Mercedes,True,4.0,32.265,49.784,30.311,,False,False,6726.792,12,Belgian Grand Prix
+HAM,27.0,116.092,2.0,MEDIUM,15.0,1,False,Mercedes,True,4.0,32.281,49.257,34.554,,True,False,6842.884,12,Belgian Grand Prix
+HAM,28.0,123.721,3.0,SOFT,1.0,1,False,Mercedes,True,5.0,46.299,47.786,29.636,,False,True,6966.605,12,Belgian Grand Prix
+HAM,29.0,110.283,3.0,SOFT,2.0,1,True,Mercedes,True,4.0,32.014,48.195,30.074,,False,False,7076.888,12,Belgian Grand Prix
+HAM,30.0,110.923,3.0,SOFT,3.0,1,True,Mercedes,True,4.0,32.045,48.795,30.083,,False,False,7187.811,12,Belgian Grand Prix
+HAM,31.0,111.134,3.0,SOFT,4.0,1,True,Mercedes,True,4.0,32.121,48.881,30.132,,False,False,7298.945,12,Belgian Grand Prix
+HAM,32.0,110.935,3.0,SOFT,5.0,1,True,Mercedes,True,4.0,32.135,48.798,30.002,,False,False,7409.88,12,Belgian Grand Prix
+HAM,33.0,111.136,3.0,SOFT,6.0,1,True,Mercedes,True,4.0,32.302,48.754,30.08,,False,False,7521.016,12,Belgian Grand Prix
+HAM,34.0,111.05,3.0,SOFT,7.0,1,True,Mercedes,True,4.0,32.173,48.8,30.077,,False,False,7632.066,12,Belgian Grand Prix
+HAM,35.0,111.65,3.0,SOFT,8.0,1,True,Mercedes,True,4.0,32.14,49.297,30.213,,False,False,7743.716,12,Belgian Grand Prix
+HAM,36.0,111.224,3.0,SOFT,9.0,1,True,Mercedes,True,4.0,32.165,48.923,30.136,,False,False,7854.94,12,Belgian Grand Prix
+HAM,37.0,111.428,3.0,SOFT,10.0,1,True,Mercedes,True,4.0,32.127,49.21,30.091,,False,False,7966.368,12,Belgian Grand Prix
+HAM,38.0,111.109,3.0,SOFT,11.0,1,True,Mercedes,True,4.0,31.95,48.939,30.22,,False,False,8077.477,12,Belgian Grand Prix
+HAM,39.0,111.408,3.0,SOFT,12.0,1,True,Mercedes,True,4.0,32.137,49.11,30.161,,False,False,8188.885,12,Belgian Grand Prix
+HAM,40.0,112.166,3.0,SOFT,13.0,1,True,Mercedes,True,4.0,32.221,49.497,30.448,,False,False,8301.051,12,Belgian Grand Prix
+HAM,41.0,111.796,3.0,SOFT,14.0,1,True,Mercedes,True,4.0,32.171,49.5,30.125,,False,False,8412.847,12,Belgian Grand Prix
+HAM,42.0,115.22,3.0,SOFT,15.0,1,False,Mercedes,True,4.0,32.093,48.813,34.314,,True,False,8528.067,12,Belgian Grand Prix
+HAM,43.0,129.564,4.0,MEDIUM,1.0,1,False,Mercedes,True,4.0,46.618,50.523,32.423,,False,True,8657.631,12,Belgian Grand Prix
+HAM,44.0,107.305,4.0,MEDIUM,2.0,12,True,Mercedes,True,4.0,31.545,46.47,29.29,,False,False,8764.936,12,Belgian Grand Prix
+ALO,1.0,118.27,1.0,MEDIUM,1.0,1,False,Aston Martin,True,6.0,,51.17,30.448,,False,False,3883.085,12,Belgian Grand Prix
+ALO,2.0,114.343,1.0,MEDIUM,2.0,12,True,Aston Martin,True,6.0,32.467,51.378,30.498,,False,False,3997.428,12,Belgian Grand Prix
+ALO,3.0,114.585,1.0,MEDIUM,3.0,21,True,Aston Martin,True,6.0,32.288,51.534,30.763,,False,False,4112.013,12,Belgian Grand Prix
+ALO,4.0,113.395,1.0,MEDIUM,4.0,1,True,Aston Martin,True,5.0,32.119,50.729,30.547,,False,False,4225.408,12,Belgian Grand Prix
+ALO,5.0,113.596,1.0,MEDIUM,5.0,1,True,Aston Martin,True,5.0,32.807,50.278,30.511,,False,False,4339.004,12,Belgian Grand Prix
+ALO,6.0,113.643,1.0,MEDIUM,6.0,1,True,Aston Martin,True,5.0,32.745,50.294,30.604,,False,False,4452.647,12,Belgian Grand Prix
+ALO,7.0,113.455,1.0,MEDIUM,7.0,1,True,Aston Martin,True,5.0,32.812,50.096,30.547,,False,False,4566.102,12,Belgian Grand Prix
+ALO,8.0,113.585,1.0,MEDIUM,8.0,1,True,Aston Martin,True,5.0,32.833,50.244,30.508,,False,False,4679.687,12,Belgian Grand Prix
+ALO,9.0,113.456,1.0,MEDIUM,9.0,1,True,Aston Martin,True,5.0,32.654,50.195,30.607,,False,False,4793.143,12,Belgian Grand Prix
+ALO,10.0,118.157,1.0,MEDIUM,10.0,1,False,Aston Martin,True,5.0,32.83,50.301,35.026,,True,False,4911.3,12,Belgian Grand Prix
+ALO,11.0,128.573,2.0,MEDIUM,1.0,1,False,Aston Martin,True,9.0,46.493,51.08,31.0,,False,True,5039.873,12,Belgian Grand Prix
+ALO,12.0,111.942,2.0,MEDIUM,2.0,1,True,Aston Martin,True,8.0,32.329,49.333,30.28,,False,False,5151.815,12,Belgian Grand Prix
+ALO,13.0,112.499,2.0,MEDIUM,3.0,1,True,Aston Martin,True,8.0,32.472,49.637,30.39,,False,False,5264.314,12,Belgian Grand Prix
+ALO,14.0,111.886,2.0,MEDIUM,4.0,1,True,Aston Martin,True,8.0,32.345,49.333,30.208,,False,False,5376.2,12,Belgian Grand Prix
+ALO,15.0,113.029,2.0,MEDIUM,5.0,1,True,Aston Martin,True,6.0,31.702,50.87,30.457,,False,False,5489.229,12,Belgian Grand Prix
+ALO,16.0,112.635,2.0,MEDIUM,6.0,1,True,Aston Martin,True,5.0,32.164,50.101,30.37,,False,False,5601.864,12,Belgian Grand Prix
+ALO,17.0,112.886,2.0,MEDIUM,7.0,1,True,Aston Martin,True,5.0,32.732,49.495,30.659,,False,False,5714.75,12,Belgian Grand Prix
+ALO,18.0,112.812,2.0,MEDIUM,8.0,1,True,Aston Martin,True,5.0,32.595,49.782,30.435,,False,False,5827.562,12,Belgian Grand Prix
+ALO,19.0,113.374,2.0,MEDIUM,9.0,1,True,Aston Martin,True,5.0,32.692,49.832,30.85,,False,False,5940.936,12,Belgian Grand Prix
+ALO,20.0,115.606,2.0,MEDIUM,10.0,1,True,Aston Martin,True,5.0,32.839,51.158,31.609,,False,False,6056.542,12,Belgian Grand Prix
+ALO,21.0,116.204,2.0,MEDIUM,11.0,1,True,Aston Martin,True,5.0,33.02,51.647,31.537,,False,False,6172.746,12,Belgian Grand Prix
+ALO,22.0,116.909,2.0,MEDIUM,12.0,1,True,Aston Martin,True,5.0,33.373,52.242,31.294,,False,False,6289.655,12,Belgian Grand Prix
+ALO,23.0,114.11,2.0,MEDIUM,13.0,1,True,Aston Martin,True,5.0,33.477,50.02,30.613,,False,False,6403.765,12,Belgian Grand Prix
+ALO,24.0,112.249,2.0,MEDIUM,14.0,1,True,Aston Martin,True,5.0,32.607,49.244,30.398,,False,False,6516.014,12,Belgian Grand Prix
+ALO,25.0,112.717,2.0,MEDIUM,15.0,1,True,Aston Martin,True,5.0,32.622,49.632,30.463,,False,False,6628.731,12,Belgian Grand Prix
+ALO,26.0,112.187,2.0,MEDIUM,16.0,1,True,Aston Martin,True,5.0,32.519,49.34,30.328,,False,False,6740.918,12,Belgian Grand Prix
+ALO,27.0,112.505,2.0,MEDIUM,17.0,1,True,Aston Martin,True,5.0,32.578,49.318,30.609,,False,False,6853.423,12,Belgian Grand Prix
+ALO,28.0,112.928,2.0,MEDIUM,18.0,1,True,Aston Martin,True,4.0,32.604,49.672,30.652,,False,False,6966.351,12,Belgian Grand Prix
+ALO,29.0,118.063,2.0,MEDIUM,19.0,1,False,Aston Martin,True,5.0,32.434,50.542,35.087,,True,False,7084.414,12,Belgian Grand Prix
+ALO,30.0,126.152,3.0,SOFT,1.0,1,False,Aston Martin,True,5.0,47.257,48.754,30.141,,False,True,7210.566,12,Belgian Grand Prix
+ALO,31.0,112.098,3.0,SOFT,2.0,1,True,Aston Martin,True,5.0,32.507,49.384,30.207,,False,False,7322.664,12,Belgian Grand Prix
+ALO,32.0,111.756,3.0,SOFT,3.0,1,True,Aston Martin,True,5.0,32.478,49.211,30.067,,False,False,7434.42,12,Belgian Grand Prix
+ALO,33.0,110.955,3.0,SOFT,4.0,1,True,Aston Martin,True,5.0,32.434,48.457,30.064,,False,False,7545.375,12,Belgian Grand Prix
+ALO,34.0,111.834,3.0,SOFT,5.0,1,True,Aston Martin,True,5.0,32.46,49.178,30.196,,False,False,7657.209,12,Belgian Grand Prix
+ALO,35.0,111.967,3.0,SOFT,6.0,1,True,Aston Martin,True,5.0,32.404,49.103,30.46,,False,False,7769.176,12,Belgian Grand Prix
+ALO,36.0,111.666,3.0,SOFT,7.0,1,True,Aston Martin,True,5.0,32.435,49.025,30.206,,False,False,7880.842,12,Belgian Grand Prix
+ALO,37.0,111.505,3.0,SOFT,8.0,1,True,Aston Martin,True,5.0,32.368,48.855,30.282,,False,False,7992.347,12,Belgian Grand Prix
+ALO,38.0,111.442,3.0,SOFT,9.0,1,True,Aston Martin,True,5.0,32.369,48.852,30.221,,False,False,8103.789,12,Belgian Grand Prix
+ALO,39.0,111.214,3.0,SOFT,10.0,1,True,Aston Martin,True,5.0,32.272,48.704,30.238,,False,False,8215.003,12,Belgian Grand Prix
+ALO,40.0,111.279,3.0,SOFT,11.0,1,True,Aston Martin,True,5.0,32.36,48.715,30.204,,False,False,8326.282,12,Belgian Grand Prix
+ALO,41.0,111.326,3.0,SOFT,12.0,1,True,Aston Martin,True,5.0,32.43,48.647,30.249,,False,False,8437.608,12,Belgian Grand Prix
+ALO,42.0,110.938,3.0,SOFT,13.0,1,True,Aston Martin,True,5.0,32.393,48.452,30.093,,False,False,8548.546,12,Belgian Grand Prix
+ALO,43.0,111.351,3.0,SOFT,14.0,1,True,Aston Martin,True,5.0,32.495,48.754,30.102,,False,False,8659.897,12,Belgian Grand Prix
+ALO,44.0,111.552,3.0,SOFT,15.0,12,True,Aston Martin,True,5.0,32.284,48.775,30.493,,False,False,8771.449,12,Belgian Grand Prix
+RUS,1.0,120.809,1.0,MEDIUM,1.0,1,False,Mercedes,True,11.0,,52.141,30.584,,False,False,3885.624,12,Belgian Grand Prix
+RUS,2.0,115.207,1.0,MEDIUM,2.0,12,True,Mercedes,True,11.0,32.287,52.545,30.375,,False,False,4000.831,12,Belgian Grand Prix
+RUS,3.0,114.15,1.0,MEDIUM,3.0,21,True,Mercedes,True,11.0,31.853,51.852,30.445,,False,False,4114.981,12,Belgian Grand Prix
+RUS,4.0,115.162,1.0,MEDIUM,4.0,1,True,Mercedes,True,11.0,32.167,52.178,30.817,,False,False,4230.143,12,Belgian Grand Prix
+RUS,5.0,115.531,1.0,MEDIUM,5.0,1,True,Mercedes,True,10.0,31.892,52.726,30.913,,False,False,4345.674,12,Belgian Grand Prix
+RUS,6.0,116.057,1.0,MEDIUM,6.0,1,True,Mercedes,True,9.0,32.033,53.332,30.692,,False,False,4461.731,12,Belgian Grand Prix
+RUS,7.0,113.791,1.0,MEDIUM,7.0,1,True,Mercedes,True,8.0,32.545,50.738,30.508,,False,False,4575.522,12,Belgian Grand Prix
+RUS,8.0,113.789,1.0,MEDIUM,8.0,1,True,Mercedes,True,8.0,32.461,50.918,30.41,,False,False,4689.311,12,Belgian Grand Prix
+RUS,9.0,113.972,1.0,MEDIUM,9.0,1,True,Mercedes,True,8.0,32.544,50.798,30.63,,False,False,4803.283,12,Belgian Grand Prix
+RUS,10.0,114.1,1.0,MEDIUM,10.0,1,True,Mercedes,True,7.0,32.837,50.646,30.617,,False,False,4917.383,12,Belgian Grand Prix
+RUS,11.0,114.008,1.0,MEDIUM,11.0,1,True,Mercedes,True,6.0,32.886,50.438,30.684,,False,False,5031.391,12,Belgian Grand Prix
+RUS,12.0,113.983,1.0,MEDIUM,12.0,1,True,Mercedes,True,6.0,32.757,50.551,30.675,,False,False,5145.374,12,Belgian Grand Prix
+RUS,13.0,114.611,1.0,MEDIUM,13.0,1,True,Mercedes,True,6.0,32.474,51.038,31.099,,False,False,5259.985,12,Belgian Grand Prix
+RUS,14.0,114.012,1.0,MEDIUM,14.0,1,True,Mercedes,True,6.0,32.454,50.808,30.75,,False,False,5373.997,12,Belgian Grand Prix
+RUS,15.0,115.729,1.0,MEDIUM,15.0,1,True,Mercedes,True,7.0,32.453,51.944,31.332,,False,False,5489.726,12,Belgian Grand Prix
+RUS,16.0,114.828,1.0,MEDIUM,16.0,1,True,Mercedes,True,7.0,32.833,51.217,30.778,,False,False,5604.554,12,Belgian Grand Prix
+RUS,17.0,113.66,1.0,MEDIUM,17.0,1,True,Mercedes,True,6.0,32.195,50.694,30.771,,False,False,5718.214,12,Belgian Grand Prix
+RUS,18.0,114.223,1.0,MEDIUM,18.0,1,True,Mercedes,True,6.0,32.833,50.353,31.037,,False,False,5832.437,12,Belgian Grand Prix
+RUS,19.0,114.726,1.0,MEDIUM,19.0,1,True,Mercedes,True,6.0,33.053,50.648,31.025,,False,False,5947.163,12,Belgian Grand Prix
+RUS,20.0,116.771,1.0,MEDIUM,20.0,1,True,Mercedes,True,6.0,33.21,51.207,32.354,,False,False,6063.934,12,Belgian Grand Prix
+RUS,21.0,117.525,1.0,MEDIUM,21.0,1,True,Mercedes,True,6.0,33.249,52.14,32.136,,False,False,6181.459,12,Belgian Grand Prix
+RUS,22.0,122.178,1.0,MEDIUM,22.0,1,False,Mercedes,True,8.0,33.395,52.513,36.27,,True,False,6303.637,12,Belgian Grand Prix
+RUS,23.0,128.989,2.0,SOFT,1.0,1,False,Mercedes,True,15.0,48.167,50.928,29.894,,False,True,6432.626,12,Belgian Grand Prix
+RUS,24.0,110.843,2.0,SOFT,2.0,1,True,Mercedes,True,10.0,31.572,49.229,30.042,,False,False,6543.469,12,Belgian Grand Prix
+RUS,25.0,110.603,2.0,SOFT,3.0,1,True,Mercedes,True,7.0,31.702,48.758,30.143,,False,False,6654.072,12,Belgian Grand Prix
+RUS,26.0,111.424,2.0,SOFT,4.0,1,True,Mercedes,True,6.0,32.343,48.684,30.397,,False,False,6765.496,12,Belgian Grand Prix
+RUS,27.0,111.588,2.0,SOFT,5.0,1,True,Mercedes,True,6.0,32.485,48.639,30.464,,False,False,6877.084,12,Belgian Grand Prix
+RUS,28.0,111.742,2.0,SOFT,6.0,1,True,Mercedes,True,6.0,32.538,48.768,30.436,,False,False,6988.826,12,Belgian Grand Prix
+RUS,29.0,111.813,2.0,SOFT,7.0,1,True,Mercedes,True,6.0,32.631,48.753,30.429,,False,False,7100.639,12,Belgian Grand Prix
+RUS,30.0,112.221,2.0,SOFT,8.0,1,True,Mercedes,True,6.0,32.537,49.017,30.667,,False,False,7212.86,12,Belgian Grand Prix
+RUS,31.0,111.805,2.0,SOFT,9.0,1,True,Mercedes,True,6.0,32.525,48.954,30.326,,False,False,7324.665,12,Belgian Grand Prix
+RUS,32.0,111.273,2.0,SOFT,10.0,1,True,Mercedes,True,6.0,32.402,48.692,30.179,,False,False,7435.938,12,Belgian Grand Prix
+RUS,33.0,111.524,2.0,SOFT,11.0,1,True,Mercedes,True,6.0,32.366,48.902,30.256,,False,False,7547.462,12,Belgian Grand Prix
+RUS,34.0,111.75,2.0,SOFT,12.0,1,True,Mercedes,True,6.0,32.472,48.949,30.329,,False,False,7659.212,12,Belgian Grand Prix
+RUS,35.0,111.796,2.0,SOFT,13.0,1,True,Mercedes,True,6.0,32.301,49.1,30.395,,False,False,7771.008,12,Belgian Grand Prix
+RUS,36.0,111.842,2.0,SOFT,14.0,1,True,Mercedes,True,6.0,32.425,48.98,30.437,,False,False,7882.85,12,Belgian Grand Prix
+RUS,37.0,111.89,2.0,SOFT,15.0,1,True,Mercedes,True,6.0,32.389,48.954,30.547,,False,False,7994.74,12,Belgian Grand Prix
+RUS,38.0,111.828,2.0,SOFT,16.0,1,True,Mercedes,True,6.0,32.386,48.88,30.562,,False,False,8106.568,12,Belgian Grand Prix
+RUS,39.0,111.966,2.0,SOFT,17.0,1,True,Mercedes,True,6.0,32.496,49.039,30.431,,False,False,8218.534,12,Belgian Grand Prix
+RUS,40.0,111.757,2.0,SOFT,18.0,1,True,Mercedes,True,6.0,32.533,48.774,30.45,,False,False,8330.291,12,Belgian Grand Prix
+RUS,41.0,111.982,2.0,SOFT,19.0,1,True,Mercedes,True,6.0,32.513,48.963,30.506,,False,False,8442.273,12,Belgian Grand Prix
+RUS,42.0,112.009,2.0,SOFT,20.0,1,True,Mercedes,True,6.0,32.564,49.07,30.375,,False,False,8554.282,12,Belgian Grand Prix
+RUS,43.0,112.072,2.0,SOFT,21.0,1,True,Mercedes,True,6.0,32.629,49.002,30.441,,False,False,8666.354,12,Belgian Grand Prix
+RUS,44.0,112.012,2.0,SOFT,22.0,12,True,Mercedes,True,6.0,32.473,49.23,30.309,,False,False,8778.366,12,Belgian Grand Prix
+NOR,1.0,118.832,1.0,MEDIUM,1.0,1,False,McLaren,True,7.0,,51.511,30.585,,False,False,3883.647,12,Belgian Grand Prix
+NOR,2.0,114.921,1.0,MEDIUM,2.0,12,True,McLaren,True,7.0,32.806,51.336,30.779,,False,False,3998.568,12,Belgian Grand Prix
+NOR,3.0,114.717,1.0,MEDIUM,3.0,21,True,McLaren,True,8.0,32.886,51.087,30.744,,False,False,4113.285,12,Belgian Grand Prix
+NOR,4.0,116.661,1.0,MEDIUM,4.0,1,True,McLaren,True,10.0,32.619,52.636,31.406,,False,False,4229.946,12,Belgian Grand Prix
+NOR,5.0,120.43,1.0,MEDIUM,5.0,1,False,McLaren,True,17.0,32.692,52.467,35.271,,True,False,4350.376,12,Belgian Grand Prix
+NOR,6.0,129.109,2.0,HARD,1.0,1,False,McLaren,True,17.0,49.442,49.098,30.569,,False,True,4479.485,12,Belgian Grand Prix
+NOR,7.0,113.072,2.0,HARD,2.0,1,True,McLaren,True,16.0,32.894,49.903,30.275,,False,False,4592.557,12,Belgian Grand Prix
+NOR,8.0,113.812,2.0,HARD,3.0,1,True,McLaren,True,15.0,32.431,50.888,30.493,,False,False,4706.369,12,Belgian Grand Prix
+NOR,9.0,113.209,2.0,HARD,4.0,1,True,McLaren,True,14.0,32.468,50.205,30.536,,False,False,4819.578,12,Belgian Grand Prix
+NOR,10.0,114.599,2.0,HARD,5.0,1,True,McLaren,True,15.0,32.773,51.421,30.405,,False,False,4934.177,12,Belgian Grand Prix
+NOR,11.0,113.289,2.0,HARD,6.0,1,True,McLaren,True,15.0,32.448,50.356,30.485,,False,False,5047.466,12,Belgian Grand Prix
+NOR,12.0,113.561,2.0,HARD,7.0,1,True,McLaren,True,15.0,32.38,50.593,30.588,,False,False,5161.027,12,Belgian Grand Prix
+NOR,13.0,114.112,2.0,HARD,8.0,1,True,McLaren,True,14.0,32.388,50.927,30.797,,False,False,5275.139,12,Belgian Grand Prix
+NOR,14.0,115.04,2.0,HARD,9.0,1,True,McLaren,True,15.0,32.514,51.66,30.866,,False,False,5390.179,12,Belgian Grand Prix
+NOR,15.0,115.659,2.0,HARD,10.0,1,True,McLaren,True,15.0,32.98,51.437,31.242,,False,False,5505.838,12,Belgian Grand Prix
+NOR,16.0,115.611,2.0,HARD,11.0,1,True,McLaren,True,16.0,32.955,51.733,30.923,,False,False,5621.449,12,Belgian Grand Prix
+NOR,17.0,118.917,2.0,HARD,12.0,1,False,McLaren,True,16.0,32.721,51.104,35.092,,True,False,5740.366,12,Belgian Grand Prix
+NOR,18.0,126.244,3.0,SOFT,1.0,1,False,McLaren,True,19.0,47.58,48.356,30.308,,False,True,5866.61,12,Belgian Grand Prix
+NOR,19.0,111.729,3.0,SOFT,2.0,1,True,McLaren,True,18.0,32.644,48.825,30.26,,False,False,5978.339,12,Belgian Grand Prix
+NOR,20.0,111.745,3.0,SOFT,3.0,1,True,McLaren,True,18.0,32.634,48.697,30.414,,False,False,6090.084,12,Belgian Grand Prix
+NOR,21.0,113.769,3.0,SOFT,4.0,1,True,McLaren,True,17.0,32.539,50.286,30.944,,False,False,6203.853,12,Belgian Grand Prix
+NOR,22.0,113.725,3.0,SOFT,5.0,1,True,McLaren,True,15.0,32.406,50.045,31.274,,False,False,6317.578,12,Belgian Grand Prix
+NOR,23.0,112.578,3.0,SOFT,6.0,1,True,McLaren,True,13.0,32.401,49.675,30.502,,False,False,6430.156,12,Belgian Grand Prix
+NOR,24.0,112.859,3.0,SOFT,7.0,1,True,McLaren,True,9.0,32.307,50.073,30.479,,False,False,6543.015,12,Belgian Grand Prix
+NOR,25.0,112.283,3.0,SOFT,8.0,1,True,McLaren,True,8.0,32.504,49.333,30.446,,False,False,6655.298,12,Belgian Grand Prix
+NOR,26.0,111.682,3.0,SOFT,9.0,1,True,McLaren,True,7.0,32.646,48.514,30.522,,False,False,6766.98,12,Belgian Grand Prix
+NOR,27.0,111.789,3.0,SOFT,10.0,1,True,McLaren,True,7.0,32.703,48.566,30.52,,False,False,6878.769,12,Belgian Grand Prix
+NOR,28.0,111.991,3.0,SOFT,11.0,1,True,McLaren,True,7.0,32.878,48.666,30.447,,False,False,6990.76,12,Belgian Grand Prix
+NOR,29.0,112.195,3.0,SOFT,12.0,1,True,McLaren,True,7.0,32.993,48.624,30.578,,False,False,7102.955,12,Belgian Grand Prix
+NOR,30.0,112.289,3.0,SOFT,13.0,1,True,McLaren,True,7.0,33.078,48.551,30.66,,False,False,7215.244,12,Belgian Grand Prix
+NOR,31.0,112.21,3.0,SOFT,14.0,1,True,McLaren,True,7.0,32.948,48.678,30.584,,False,False,7327.454,12,Belgian Grand Prix
+NOR,32.0,111.914,3.0,SOFT,15.0,1,True,McLaren,True,7.0,32.863,48.598,30.453,,False,False,7439.368,12,Belgian Grand Prix
+NOR,33.0,112.239,3.0,SOFT,16.0,1,True,McLaren,True,7.0,33.114,48.617,30.508,,False,False,7551.607,12,Belgian Grand Prix
+NOR,34.0,112.221,3.0,SOFT,17.0,1,True,McLaren,True,7.0,32.885,48.809,30.527,,False,False,7663.828,12,Belgian Grand Prix
+NOR,35.0,112.736,3.0,SOFT,18.0,1,True,McLaren,True,7.0,33.004,49.053,30.679,,False,False,7776.564,12,Belgian Grand Prix
+NOR,36.0,112.433,3.0,SOFT,19.0,1,True,McLaren,True,7.0,32.995,48.781,30.657,,False,False,7888.997,12,Belgian Grand Prix
+NOR,37.0,112.618,3.0,SOFT,20.0,1,True,McLaren,True,7.0,33.059,48.881,30.678,,False,False,8001.615,12,Belgian Grand Prix
+NOR,38.0,112.659,3.0,SOFT,21.0,1,True,McLaren,True,7.0,32.995,48.96,30.704,,False,False,8114.274,12,Belgian Grand Prix
+NOR,39.0,112.717,3.0,SOFT,22.0,1,True,McLaren,True,7.0,33.061,48.914,30.742,,False,False,8226.991,12,Belgian Grand Prix
+NOR,40.0,112.811,3.0,SOFT,23.0,1,True,McLaren,True,7.0,33.111,48.95,30.75,,False,False,8339.802,12,Belgian Grand Prix
+NOR,41.0,112.428,3.0,SOFT,24.0,1,True,McLaren,True,7.0,33.011,48.83,30.587,,False,False,8452.23,12,Belgian Grand Prix
+NOR,42.0,112.0,3.0,SOFT,25.0,1,True,McLaren,True,7.0,32.92,48.6,30.48,,False,False,8564.23,12,Belgian Grand Prix
+NOR,43.0,112.309,3.0,SOFT,26.0,1,True,McLaren,True,7.0,32.965,48.735,30.609,,False,False,8676.539,12,Belgian Grand Prix
+NOR,44.0,112.445,3.0,SOFT,27.0,12,True,McLaren,True,7.0,32.957,48.875,30.613,,False,False,8788.984,12,Belgian Grand Prix
+OCO,1.0,121.887,1.0,SOFT,1.0,1,False,Alpine,True,13.0,,51.868,30.867,,False,False,3886.702,12,Belgian Grand Prix
+OCO,2.0,115.421,1.0,SOFT,2.0,12,True,Alpine,True,13.0,32.179,52.68,30.562,,False,False,4002.123,12,Belgian Grand Prix
+OCO,3.0,113.76,1.0,SOFT,3.0,21,True,Alpine,True,12.0,31.626,51.483,30.651,,False,False,4115.883,12,Belgian Grand Prix
+OCO,4.0,114.967,1.0,SOFT,4.0,1,True,Alpine,True,12.0,32.047,51.9,31.02,,False,False,4230.85,12,Belgian Grand Prix
+OCO,5.0,115.853,1.0,SOFT,5.0,1,True,Alpine,True,11.0,32.17,52.454,31.229,,False,False,4346.703,12,Belgian Grand Prix
+OCO,6.0,120.088,1.0,SOFT,6.0,1,False,Alpine,True,15.0,32.096,52.577,35.415,,True,False,4466.791,12,Belgian Grand Prix
+OCO,7.0,126.224,2.0,MEDIUM,1.0,1,False,Alpine,True,17.0,46.025,50.075,30.124,,False,True,4593.015,12,Belgian Grand Prix
+OCO,8.0,112.486,2.0,MEDIUM,2.0,1,True,Alpine,True,14.0,31.769,50.473,30.244,,False,False,4705.501,12,Belgian Grand Prix
+OCO,9.0,113.128,2.0,MEDIUM,3.0,1,True,Alpine,True,13.0,31.744,51.106,30.278,,False,False,4818.629,12,Belgian Grand Prix
+OCO,10.0,112.232,2.0,MEDIUM,4.0,1,True,Alpine,True,12.0,31.855,50.15,30.227,,False,False,4930.861,12,Belgian Grand Prix
+OCO,11.0,112.962,2.0,MEDIUM,5.0,1,True,Alpine,True,12.0,32.178,50.289,30.495,,False,False,5043.823,12,Belgian Grand Prix
+OCO,12.0,113.238,2.0,MEDIUM,6.0,1,True,Alpine,True,11.0,32.075,50.628,30.535,,False,False,5157.061,12,Belgian Grand Prix
+OCO,13.0,113.389,2.0,MEDIUM,7.0,1,True,Alpine,True,11.0,31.966,50.903,30.52,,False,False,5270.45,12,Belgian Grand Prix
+OCO,14.0,114.085,2.0,MEDIUM,8.0,1,True,Alpine,True,11.0,31.969,51.47,30.646,,False,False,5384.535,12,Belgian Grand Prix
+OCO,15.0,114.456,2.0,MEDIUM,9.0,1,True,Alpine,True,11.0,32.014,51.585,30.857,,False,False,5498.991,12,Belgian Grand Prix
+OCO,16.0,113.606,2.0,MEDIUM,10.0,1,True,Alpine,True,10.0,32.19,50.925,30.491,,False,False,5612.597,12,Belgian Grand Prix
+OCO,17.0,113.702,2.0,MEDIUM,11.0,1,True,Alpine,True,10.0,32.438,50.472,30.792,,False,False,5726.299,12,Belgian Grand Prix
+OCO,18.0,114.951,2.0,MEDIUM,12.0,1,True,Alpine,True,10.0,32.506,50.712,31.733,,False,False,5841.25,12,Belgian Grand Prix
+OCO,19.0,115.886,2.0,MEDIUM,13.0,1,True,Alpine,True,10.0,33.317,51.042,31.527,,False,False,5957.136,12,Belgian Grand Prix
+OCO,20.0,116.533,2.0,MEDIUM,14.0,1,True,Alpine,True,9.0,32.876,52.044,31.613,,False,False,6073.669,12,Belgian Grand Prix
+OCO,21.0,116.379,2.0,MEDIUM,15.0,1,True,Alpine,True,9.0,32.457,52.267,31.655,,False,False,6190.048,12,Belgian Grand Prix
+OCO,22.0,117.125,2.0,MEDIUM,16.0,1,True,Alpine,True,10.0,32.589,53.11,31.426,,False,False,6307.173,12,Belgian Grand Prix
+OCO,23.0,115.109,2.0,MEDIUM,17.0,1,True,Alpine,True,7.0,33.121,50.738,31.25,,False,False,6422.282,12,Belgian Grand Prix
+OCO,24.0,113.714,2.0,MEDIUM,18.0,1,True,Alpine,True,7.0,32.6,50.179,30.935,,False,False,6535.996,12,Belgian Grand Prix
+OCO,25.0,117.52,2.0,MEDIUM,19.0,1,False,Alpine,True,6.0,32.451,49.886,35.183,,True,False,6653.516,12,Belgian Grand Prix
+OCO,26.0,125.354,3.0,SOFT,1.0,1,False,Alpine,True,12.0,46.555,48.725,30.074,,False,True,6778.87,12,Belgian Grand Prix
+OCO,27.0,110.439,3.0,SOFT,2.0,1,True,Alpine,True,12.0,31.83,48.604,30.005,,False,False,6889.309,12,Belgian Grand Prix
+OCO,28.0,110.774,3.0,SOFT,3.0,1,True,Alpine,True,12.0,31.666,48.968,30.14,,False,False,7000.083,12,Belgian Grand Prix
+OCO,29.0,112.095,3.0,SOFT,4.0,1,True,Alpine,True,11.0,31.249,50.509,30.337,,False,False,7112.178,12,Belgian Grand Prix
+OCO,30.0,111.758,3.0,SOFT,5.0,1,True,Alpine,True,10.0,31.915,49.605,30.238,,False,False,7223.936,12,Belgian Grand Prix
+OCO,31.0,111.807,3.0,SOFT,6.0,1,True,Alpine,True,10.0,32.14,49.367,30.3,,False,False,7335.743,12,Belgian Grand Prix
+OCO,32.0,111.595,3.0,SOFT,7.0,1,True,Alpine,True,10.0,32.07,49.37,30.155,,False,False,7447.338,12,Belgian Grand Prix
+OCO,33.0,111.864,3.0,SOFT,8.0,1,True,Alpine,True,10.0,32.072,49.591,30.201,,False,False,7559.202,12,Belgian Grand Prix
+OCO,34.0,112.092,3.0,SOFT,9.0,1,True,Alpine,True,10.0,31.69,50.052,30.35,,False,False,7671.294,12,Belgian Grand Prix
+OCO,35.0,112.727,3.0,SOFT,10.0,1,True,Alpine,True,10.0,31.568,50.664,30.495,,False,False,7784.021,12,Belgian Grand Prix
+OCO,36.0,112.533,3.0,SOFT,11.0,1,True,Alpine,True,10.0,31.915,50.071,30.547,,False,False,7896.554,12,Belgian Grand Prix
+OCO,37.0,111.809,3.0,SOFT,12.0,1,True,Alpine,True,10.0,32.023,49.433,30.353,,False,False,8008.363,12,Belgian Grand Prix
+OCO,38.0,111.484,3.0,SOFT,13.0,1,True,Alpine,True,9.0,31.529,49.593,30.362,,False,False,8119.847,12,Belgian Grand Prix
+OCO,39.0,111.869,3.0,SOFT,14.0,1,True,Alpine,True,9.0,32.095,49.407,30.367,,False,False,8231.716,12,Belgian Grand Prix
+OCO,40.0,111.876,3.0,SOFT,15.0,1,True,Alpine,True,9.0,32.11,49.407,30.359,,False,False,8343.592,12,Belgian Grand Prix
+OCO,41.0,111.098,3.0,SOFT,16.0,1,True,Alpine,True,8.0,31.845,48.985,30.268,,False,False,8454.69,12,Belgian Grand Prix
+OCO,42.0,111.71,3.0,SOFT,17.0,1,True,Alpine,True,8.0,32.237,49.267,30.206,,False,False,8566.4,12,Belgian Grand Prix
+OCO,43.0,111.664,3.0,SOFT,18.0,1,True,Alpine,True,8.0,32.137,49.234,30.293,,False,False,8678.064,12,Belgian Grand Prix
+OCO,44.0,111.92,3.0,SOFT,19.0,12,True,Alpine,True,8.0,32.159,49.48,30.281,,False,False,8789.984,12,Belgian Grand Prix
+STR,1.0,120.096,1.0,MEDIUM,1.0,1,False,Aston Martin,True,9.0,,51.884,30.668,,False,False,3884.911,12,Belgian Grand Prix
+STR,2.0,115.619,1.0,MEDIUM,2.0,12,True,Aston Martin,True,10.0,32.662,52.509,30.448,,False,False,4000.53,12,Belgian Grand Prix
+STR,3.0,113.977,1.0,MEDIUM,3.0,21,True,Aston Martin,True,10.0,32.076,51.366,30.535,,False,False,4114.507,12,Belgian Grand Prix
+STR,4.0,115.058,1.0,MEDIUM,4.0,1,True,Aston Martin,True,9.0,32.185,52.247,30.626,,False,False,4229.565,12,Belgian Grand Prix
+STR,5.0,115.795,1.0,MEDIUM,5.0,1,True,Aston Martin,True,9.0,32.506,52.355,30.934,,False,False,4345.36,12,Belgian Grand Prix
+STR,6.0,115.063,1.0,MEDIUM,6.0,1,True,Aston Martin,True,8.0,32.277,52.275,30.511,,False,False,4460.423,12,Belgian Grand Prix
+STR,7.0,114.307,1.0,MEDIUM,7.0,1,True,Aston Martin,True,7.0,32.659,50.954,30.694,,False,False,4574.73,12,Belgian Grand Prix
+STR,8.0,113.908,1.0,MEDIUM,8.0,1,True,Aston Martin,True,7.0,32.727,50.563,30.618,,False,False,4688.638,12,Belgian Grand Prix
+STR,9.0,113.838,1.0,MEDIUM,9.0,1,True,Aston Martin,True,7.0,32.765,50.461,30.612,,False,False,4802.476,12,Belgian Grand Prix
+STR,10.0,113.889,1.0,MEDIUM,10.0,1,True,Aston Martin,True,6.0,32.932,50.299,30.658,,False,False,4916.365,12,Belgian Grand Prix
+STR,11.0,113.869,1.0,MEDIUM,11.0,1,True,Aston Martin,True,5.0,32.839,50.386,30.644,,False,False,5030.234,12,Belgian Grand Prix
+STR,12.0,114.079,1.0,MEDIUM,12.0,1,True,Aston Martin,True,5.0,32.847,50.47,30.762,,False,False,5144.313,12,Belgian Grand Prix
+STR,13.0,114.812,1.0,MEDIUM,13.0,1,True,Aston Martin,True,5.0,32.594,51.348,30.87,,False,False,5259.125,12,Belgian Grand Prix
+STR,14.0,114.264,1.0,MEDIUM,14.0,1,True,Aston Martin,True,5.0,32.817,50.532,30.915,,False,False,5373.389,12,Belgian Grand Prix
+STR,15.0,114.934,1.0,MEDIUM,15.0,1,True,Aston Martin,True,5.0,33.002,51.212,30.72,,False,False,5488.323,12,Belgian Grand Prix
+STR,16.0,115.68,1.0,MEDIUM,16.0,1,True,Aston Martin,True,6.0,33.175,51.632,30.873,,False,False,5604.003,12,Belgian Grand Prix
+STR,17.0,115.513,1.0,MEDIUM,17.0,1,True,Aston Martin,True,7.0,32.804,51.796,30.913,,False,False,5719.516,12,Belgian Grand Prix
+STR,18.0,115.474,1.0,MEDIUM,18.0,1,True,Aston Martin,True,7.0,33.1,51.286,31.088,,False,False,5834.99,12,Belgian Grand Prix
+STR,19.0,116.9,1.0,MEDIUM,19.0,1,True,Aston Martin,True,8.0,33.267,52.294,31.339,,False,False,5951.89,12,Belgian Grand Prix
+STR,20.0,123.672,1.0,MEDIUM,20.0,1,False,Aston Martin,True,11.0,33.138,53.713,36.821,,True,False,6075.562,12,Belgian Grand Prix
+STR,21.0,133.65,2.0,SOFT,1.0,1,False,Aston Martin,True,18.0,49.155,52.321,32.174,,False,True,6209.212,12,Belgian Grand Prix
+STR,22.0,116.412,2.0,SOFT,2.0,1,True,Aston Martin,True,18.0,32.851,53.329,30.232,,False,False,6325.624,12,Belgian Grand Prix
+STR,23.0,111.394,2.0,SOFT,3.0,1,True,Aston Martin,True,17.0,32.412,48.968,30.014,,False,False,6437.018,12,Belgian Grand Prix
+STR,24.0,111.446,2.0,SOFT,4.0,1,True,Aston Martin,True,14.0,32.246,48.914,30.286,,False,False,6548.464,12,Belgian Grand Prix
+STR,25.0,111.741,2.0,SOFT,5.0,1,True,Aston Martin,True,10.0,32.12,49.264,30.357,,False,False,6660.205,12,Belgian Grand Prix
+STR,26.0,111.297,2.0,SOFT,6.0,1,True,Aston Martin,True,8.0,32.307,48.728,30.262,,False,False,6771.502,12,Belgian Grand Prix
+STR,27.0,111.707,2.0,SOFT,7.0,1,True,Aston Martin,True,8.0,32.47,48.845,30.392,,False,False,6883.209,12,Belgian Grand Prix
+STR,28.0,111.705,2.0,SOFT,8.0,1,True,Aston Martin,True,8.0,32.508,48.93,30.267,,False,False,6994.914,12,Belgian Grand Prix
+STR,29.0,111.919,2.0,SOFT,9.0,1,True,Aston Martin,True,8.0,32.493,49.095,30.331,,False,False,7106.833,12,Belgian Grand Prix
+STR,30.0,112.035,2.0,SOFT,10.0,1,True,Aston Martin,True,8.0,32.693,49.074,30.268,,False,False,7218.868,12,Belgian Grand Prix
+STR,31.0,112.203,2.0,SOFT,11.0,1,True,Aston Martin,True,8.0,32.649,49.148,30.406,,False,False,7331.071,12,Belgian Grand Prix
+STR,32.0,112.218,2.0,SOFT,12.0,1,True,Aston Martin,True,8.0,32.528,49.326,30.364,,False,False,7443.289,12,Belgian Grand Prix
+STR,33.0,112.139,2.0,SOFT,13.0,1,True,Aston Martin,True,8.0,32.541,49.223,30.375,,False,False,7555.428,12,Belgian Grand Prix
+STR,34.0,112.367,2.0,SOFT,14.0,1,True,Aston Martin,True,8.0,32.637,49.325,30.405,,False,False,7667.795,12,Belgian Grand Prix
+STR,35.0,112.258,2.0,SOFT,15.0,1,True,Aston Martin,True,8.0,32.427,49.321,30.51,,False,False,7780.053,12,Belgian Grand Prix
+STR,36.0,112.884,2.0,SOFT,16.0,1,True,Aston Martin,True,8.0,32.772,49.455,30.657,,False,False,7892.937,12,Belgian Grand Prix
+STR,37.0,112.569,2.0,SOFT,17.0,1,True,Aston Martin,True,8.0,32.59,49.433,30.546,,False,False,8005.506,12,Belgian Grand Prix
+STR,38.0,112.315,2.0,SOFT,18.0,1,True,Aston Martin,True,8.0,32.57,49.262,30.483,,False,False,8117.821,12,Belgian Grand Prix
+STR,39.0,112.605,2.0,SOFT,19.0,1,True,Aston Martin,True,8.0,32.545,49.463,30.597,,False,False,8230.426,12,Belgian Grand Prix
+STR,40.0,112.617,2.0,SOFT,20.0,1,True,Aston Martin,True,8.0,32.447,49.444,30.726,,False,False,8343.043,12,Belgian Grand Prix
+STR,41.0,113.416,2.0,SOFT,21.0,1,True,Aston Martin,True,9.0,32.59,50.29,30.536,,False,False,8456.459,12,Belgian Grand Prix
+STR,42.0,112.736,2.0,SOFT,22.0,1,True,Aston Martin,True,9.0,32.552,49.742,30.442,,False,False,8569.195,12,Belgian Grand Prix
+STR,43.0,112.632,2.0,SOFT,23.0,1,True,Aston Martin,True,9.0,32.579,49.504,30.549,,False,False,8681.827,12,Belgian Grand Prix
+STR,44.0,112.778,2.0,SOFT,24.0,12,True,Aston Martin,True,9.0,32.599,49.706,30.473,,False,False,8794.605,12,Belgian Grand Prix
+TSU,1.0,119.555,1.0,MEDIUM,1.0,1,False,AlphaTauri,True,8.0,,51.926,30.484,,False,False,3884.37,12,Belgian Grand Prix
+TSU,2.0,114.71,1.0,MEDIUM,2.0,12,True,AlphaTauri,True,8.0,32.238,52.024,30.448,,False,False,3999.08,12,Belgian Grand Prix
+TSU,3.0,113.774,1.0,MEDIUM,3.0,21,True,AlphaTauri,True,7.0,31.984,51.06,30.73,,False,False,4112.854,12,Belgian Grand Prix
+TSU,4.0,115.437,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,7.0,32.218,52.555,30.664,,False,False,4228.291,12,Belgian Grand Prix
+TSU,5.0,113.829,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,6.0,32.337,50.957,30.535,,False,False,4342.12,12,Belgian Grand Prix
+TSU,6.0,114.027,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,6.0,32.521,50.985,30.521,,False,False,4456.147,12,Belgian Grand Prix
+TSU,7.0,113.679,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,6.0,32.532,50.575,30.572,,False,False,4569.826,12,Belgian Grand Prix
+TSU,8.0,113.81,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,6.0,32.545,50.804,30.461,,False,False,4683.636,12,Belgian Grand Prix
+TSU,9.0,118.292,1.0,MEDIUM,9.0,1,False,AlphaTauri,True,6.0,32.623,50.938,34.731,,True,False,4801.928,12,Belgian Grand Prix
+TSU,10.0,126.819,2.0,MEDIUM,1.0,1,False,AlphaTauri,True,11.0,46.335,50.727,29.757,,False,True,4928.747,12,Belgian Grand Prix
+TSU,11.0,112.246,2.0,MEDIUM,2.0,1,True,AlphaTauri,True,10.0,31.735,50.137,30.374,,False,False,5040.993,12,Belgian Grand Prix
+TSU,12.0,114.228,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,9.0,32.102,51.519,30.607,,False,False,5155.221,12,Belgian Grand Prix
+TSU,13.0,112.504,2.0,MEDIUM,4.0,1,True,AlphaTauri,True,9.0,32.128,50.054,30.322,,False,False,5267.725,12,Belgian Grand Prix
+TSU,14.0,112.963,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,9.0,32.277,50.277,30.409,,False,False,5380.688,12,Belgian Grand Prix
+TSU,15.0,113.326,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,9.0,32.345,50.63,30.351,,False,False,5494.014,12,Belgian Grand Prix
+TSU,16.0,113.657,2.0,MEDIUM,7.0,1,True,AlphaTauri,True,9.0,32.372,50.755,30.53,,False,False,5607.671,12,Belgian Grand Prix
+TSU,17.0,114.123,2.0,MEDIUM,8.0,1,True,AlphaTauri,True,9.0,32.342,51.182,30.599,,False,False,5721.794,12,Belgian Grand Prix
+TSU,18.0,114.752,2.0,MEDIUM,9.0,1,True,AlphaTauri,True,9.0,32.213,51.716,30.823,,False,False,5836.546,12,Belgian Grand Prix
+TSU,19.0,115.757,2.0,MEDIUM,10.0,1,True,AlphaTauri,True,9.0,32.454,52.33,30.973,,False,False,5952.303,12,Belgian Grand Prix
+TSU,20.0,116.587,2.0,MEDIUM,11.0,1,True,AlphaTauri,True,8.0,32.199,53.26,31.128,,False,False,6068.89,12,Belgian Grand Prix
+TSU,21.0,116.674,2.0,MEDIUM,12.0,1,True,AlphaTauri,True,8.0,32.317,53.02,31.337,,False,False,6185.564,12,Belgian Grand Prix
+TSU,22.0,117.058,2.0,MEDIUM,13.0,1,True,AlphaTauri,True,7.0,32.255,53.445,31.358,,False,False,6302.622,12,Belgian Grand Prix
+TSU,23.0,114.848,2.0,MEDIUM,14.0,1,True,AlphaTauri,True,6.0,32.722,51.465,30.661,,False,False,6417.47,12,Belgian Grand Prix
+TSU,24.0,117.947,2.0,MEDIUM,15.0,1,False,AlphaTauri,True,6.0,32.656,50.626,34.665,,True,False,6535.417,12,Belgian Grand Prix
+TSU,25.0,126.716,3.0,SOFT,1.0,1,False,AlphaTauri,True,11.0,46.242,50.341,30.133,,False,True,6662.133,12,Belgian Grand Prix
+TSU,26.0,111.394,3.0,SOFT,2.0,1,True,AlphaTauri,True,9.0,32.049,49.438,29.907,,False,False,6773.527,12,Belgian Grand Prix
+TSU,27.0,111.76,3.0,SOFT,3.0,1,True,AlphaTauri,True,9.0,31.95,49.672,30.138,,False,False,6885.287,12,Belgian Grand Prix
+TSU,28.0,111.945,3.0,SOFT,4.0,1,True,AlphaTauri,True,9.0,32.073,49.662,30.21,,False,False,6997.232,12,Belgian Grand Prix
+TSU,29.0,112.147,3.0,SOFT,5.0,1,True,AlphaTauri,True,9.0,32.069,49.717,30.361,,False,False,7109.379,12,Belgian Grand Prix
+TSU,30.0,112.482,3.0,SOFT,6.0,1,True,AlphaTauri,True,9.0,32.249,50.049,30.184,,False,False,7221.861,12,Belgian Grand Prix
+TSU,31.0,112.222,3.0,SOFT,7.0,1,True,AlphaTauri,True,9.0,32.206,49.784,30.232,,False,False,7334.083,12,Belgian Grand Prix
+TSU,32.0,111.997,3.0,SOFT,8.0,1,True,AlphaTauri,True,9.0,32.172,49.728,30.097,,False,False,7446.08,12,Belgian Grand Prix
+TSU,33.0,112.133,3.0,SOFT,9.0,1,True,AlphaTauri,True,9.0,32.194,49.895,30.044,,False,False,7558.213,12,Belgian Grand Prix
+TSU,34.0,112.411,3.0,SOFT,10.0,1,True,AlphaTauri,True,9.0,32.163,49.824,30.424,,False,False,7670.624,12,Belgian Grand Prix
+TSU,35.0,112.48,3.0,SOFT,11.0,1,True,AlphaTauri,True,9.0,32.121,50.141,30.218,,False,False,7783.104,12,Belgian Grand Prix
+TSU,36.0,112.317,3.0,SOFT,12.0,1,True,AlphaTauri,True,9.0,32.189,49.937,30.191,,False,False,7895.421,12,Belgian Grand Prix
+TSU,37.0,112.21,3.0,SOFT,13.0,1,True,AlphaTauri,True,9.0,32.18,49.808,30.222,,False,False,8007.631,12,Belgian Grand Prix
+TSU,38.0,113.457,3.0,SOFT,14.0,1,True,AlphaTauri,True,10.0,32.154,50.961,30.342,,False,False,8121.088,12,Belgian Grand Prix
+TSU,39.0,112.467,3.0,SOFT,15.0,1,True,AlphaTauri,True,10.0,32.117,50.249,30.101,,False,False,8233.555,12,Belgian Grand Prix
+TSU,40.0,112.298,3.0,SOFT,16.0,1,True,AlphaTauri,True,10.0,32.101,49.905,30.292,,False,False,8345.853,12,Belgian Grand Prix
+TSU,41.0,112.243,3.0,SOFT,17.0,1,True,AlphaTauri,True,10.0,32.08,49.883,30.28,,False,False,8458.096,12,Belgian Grand Prix
+TSU,42.0,112.367,3.0,SOFT,18.0,1,True,AlphaTauri,True,10.0,32.216,49.911,30.24,,False,False,8570.463,12,Belgian Grand Prix
+TSU,43.0,112.554,3.0,SOFT,19.0,1,True,AlphaTauri,True,10.0,32.219,50.116,30.219,,False,False,8683.017,12,Belgian Grand Prix
+TSU,44.0,112.469,3.0,SOFT,20.0,12,True,AlphaTauri,True,10.0,32.216,50.182,30.071,,False,False,8795.486,12,Belgian Grand Prix
+GAS,1.0,122.849,1.0,SOFT,1.0,1,False,Alpine,True,16.0,,51.767,30.53,,False,False,3887.664,12,Belgian Grand Prix
+GAS,2.0,116.015,1.0,SOFT,2.0,12,True,Alpine,True,16.0,32.027,53.017,30.971,,False,False,4003.679,12,Belgian Grand Prix
+GAS,3.0,114.814,1.0,SOFT,3.0,21,True,Alpine,True,16.0,32.021,52.011,30.782,,False,False,4118.493,12,Belgian Grand Prix
+GAS,4.0,114.371,1.0,SOFT,4.0,1,True,Alpine,True,16.0,32.047,51.644,30.68,,False,False,4232.864,12,Belgian Grand Prix
+GAS,5.0,115.415,1.0,SOFT,5.0,1,True,Alpine,True,14.0,31.866,52.175,31.374,,False,False,4348.279,12,Belgian Grand Prix
+GAS,6.0,115.56,1.0,SOFT,6.0,1,True,Alpine,True,12.0,31.982,52.165,31.413,,False,False,4463.839,12,Belgian Grand Prix
+GAS,7.0,115.449,1.0,SOFT,7.0,1,True,Alpine,True,11.0,31.997,52.106,31.346,,False,False,4579.288,12,Belgian Grand Prix
+GAS,8.0,113.984,1.0,SOFT,8.0,1,True,Alpine,True,9.0,32.093,51.101,30.79,,False,False,4693.272,12,Belgian Grand Prix
+GAS,9.0,113.43,1.0,SOFT,9.0,1,True,Alpine,True,9.0,32.392,50.381,30.657,,False,False,4806.702,12,Belgian Grand Prix
+GAS,10.0,113.587,1.0,SOFT,10.0,1,True,Alpine,True,8.0,32.514,50.453,30.62,,False,False,4920.289,12,Belgian Grand Prix
+GAS,11.0,113.822,1.0,SOFT,11.0,1,True,Alpine,True,7.0,32.568,50.523,30.731,,False,False,5034.111,12,Belgian Grand Prix
+GAS,12.0,113.641,1.0,SOFT,12.0,1,True,Alpine,True,7.0,32.498,50.466,30.677,,False,False,5147.752,12,Belgian Grand Prix
+GAS,13.0,113.769,1.0,SOFT,13.0,1,True,Alpine,True,7.0,32.44,50.533,30.796,,False,False,5261.521,12,Belgian Grand Prix
+GAS,14.0,114.014,1.0,SOFT,14.0,1,True,Alpine,True,7.0,32.43,50.727,30.857,,False,False,5375.535,12,Belgian Grand Prix
+GAS,15.0,115.359,1.0,SOFT,15.0,1,True,Alpine,True,8.0,32.524,52.057,30.778,,False,False,5490.894,12,Belgian Grand Prix
+GAS,16.0,114.782,1.0,SOFT,16.0,1,True,Alpine,True,8.0,32.596,51.334,30.852,,False,False,5605.676,12,Belgian Grand Prix
+GAS,17.0,114.87,1.0,SOFT,17.0,1,True,Alpine,True,8.0,32.646,51.292,30.932,,False,False,5720.546,12,Belgian Grand Prix
+GAS,18.0,115.278,1.0,SOFT,18.0,1,True,Alpine,True,8.0,32.193,52.112,30.973,,False,False,5835.824,12,Belgian Grand Prix
+GAS,19.0,115.566,1.0,SOFT,19.0,1,True,Alpine,True,7.0,32.323,51.888,31.355,,False,False,5951.39,12,Belgian Grand Prix
+GAS,20.0,116.854,1.0,SOFT,20.0,1,True,Alpine,True,7.0,32.918,52.282,31.654,,False,False,6068.244,12,Belgian Grand Prix
+GAS,21.0,116.834,1.0,SOFT,21.0,1,True,Alpine,True,7.0,32.694,51.8,32.34,,False,False,6185.078,12,Belgian Grand Prix
+GAS,22.0,117.187,1.0,SOFT,22.0,1,True,Alpine,True,6.0,32.584,52.964,31.639,,False,False,6302.265,12,Belgian Grand Prix
+GAS,23.0,121.28,1.0,SOFT,23.0,1,False,Alpine,True,8.0,33.196,52.545,35.539,,True,False,6423.545,12,Belgian Grand Prix
+GAS,24.0,129.405,2.0,MEDIUM,1.0,1,False,Alpine,True,17.0,49.65,49.897,29.858,,False,True,6552.95,12,Belgian Grand Prix
+GAS,25.0,110.911,2.0,MEDIUM,2.0,1,True,Alpine,True,13.0,31.531,49.432,29.948,,False,False,6663.861,12,Belgian Grand Prix
+GAS,26.0,111.509,2.0,MEDIUM,3.0,1,True,Alpine,True,11.0,31.641,49.829,30.039,,False,False,6775.37,12,Belgian Grand Prix
+GAS,27.0,111.966,2.0,MEDIUM,4.0,1,True,Alpine,True,11.0,31.455,50.387,30.124,,False,False,6887.336,12,Belgian Grand Prix
+GAS,28.0,112.131,2.0,MEDIUM,5.0,1,True,Alpine,True,11.0,31.915,50.042,30.174,,False,False,6999.467,12,Belgian Grand Prix
+GAS,29.0,113.343,2.0,MEDIUM,6.0,1,True,Alpine,True,12.0,31.837,51.018,30.488,,False,False,7112.81,12,Belgian Grand Prix
+GAS,30.0,112.362,2.0,MEDIUM,7.0,1,True,Alpine,True,12.0,31.846,50.053,30.463,,False,False,7225.172,12,Belgian Grand Prix
+GAS,31.0,112.866,2.0,MEDIUM,8.0,1,True,Alpine,True,12.0,32.012,50.544,30.31,,False,False,7338.038,12,Belgian Grand Prix
+GAS,32.0,113.097,2.0,MEDIUM,9.0,1,True,Alpine,True,11.0,31.777,50.756,30.564,,False,False,7451.135,12,Belgian Grand Prix
+GAS,33.0,112.384,2.0,MEDIUM,10.0,1,True,Alpine,True,11.0,32.144,50.026,30.214,,False,False,7563.519,12,Belgian Grand Prix
+GAS,34.0,112.246,2.0,MEDIUM,11.0,1,True,Alpine,True,11.0,32.297,49.498,30.451,,False,False,7675.765,12,Belgian Grand Prix
+GAS,35.0,112.022,2.0,MEDIUM,12.0,1,True,Alpine,True,11.0,32.169,49.414,30.439,,False,False,7787.787,12,Belgian Grand Prix
+GAS,36.0,112.227,2.0,MEDIUM,13.0,1,True,Alpine,True,11.0,32.261,49.432,30.534,,False,False,7900.014,12,Belgian Grand Prix
+GAS,37.0,111.902,2.0,MEDIUM,14.0,1,True,Alpine,True,11.0,32.297,49.224,30.381,,False,False,8011.916,12,Belgian Grand Prix
+GAS,38.0,111.831,2.0,MEDIUM,15.0,1,True,Alpine,True,11.0,32.178,49.29,30.363,,False,False,8123.747,12,Belgian Grand Prix
+GAS,39.0,112.369,2.0,MEDIUM,16.0,1,True,Alpine,True,11.0,32.151,49.845,30.373,,False,False,8236.116,12,Belgian Grand Prix
+GAS,40.0,112.084,2.0,MEDIUM,17.0,1,True,Alpine,True,11.0,32.276,49.45,30.358,,False,False,8348.2,12,Belgian Grand Prix
+GAS,41.0,111.8,2.0,MEDIUM,18.0,1,True,Alpine,True,11.0,32.171,49.299,30.33,,False,False,8460.0,12,Belgian Grand Prix
+GAS,42.0,112.234,2.0,MEDIUM,19.0,1,True,Alpine,True,11.0,32.088,49.78,30.366,,False,False,8572.234,12,Belgian Grand Prix
+GAS,43.0,113.022,2.0,MEDIUM,20.0,1,True,Alpine,True,11.0,32.175,50.128,30.719,,False,False,8685.256,12,Belgian Grand Prix
+GAS,44.0,113.093,2.0,MEDIUM,21.0,12,True,Alpine,True,11.0,32.489,50.151,30.453,,False,False,8798.349,12,Belgian Grand Prix
+BOT,1.0,121.163,1.0,SOFT,1.0,1,False,Alfa Romeo,True,12.0,,52.017,30.518,,False,False,3885.978,12,Belgian Grand Prix
+BOT,2.0,115.608,1.0,SOFT,2.0,12,True,Alfa Romeo,True,12.0,32.417,52.697,30.494,,False,False,4001.586,12,Belgian Grand Prix
+BOT,3.0,114.834,1.0,SOFT,3.0,21,True,Alfa Romeo,True,13.0,32.175,52.002,30.657,,False,False,4116.42,12,Belgian Grand Prix
+BOT,4.0,115.571,1.0,SOFT,4.0,1,True,Alfa Romeo,True,14.0,32.347,52.456,30.768,,False,False,4231.991,12,Belgian Grand Prix
+BOT,5.0,115.599,1.0,SOFT,5.0,1,True,Alfa Romeo,True,13.0,32.166,52.319,31.114,,False,False,4347.59,12,Belgian Grand Prix
+BOT,6.0,120.115,1.0,SOFT,6.0,1,False,Alfa Romeo,True,16.0,32.198,52.361,35.556,,True,False,4467.705,12,Belgian Grand Prix
+BOT,7.0,126.796,2.0,MEDIUM,1.0,1,False,Alfa Romeo,True,19.0,45.746,50.863,30.187,,False,True,4594.501,12,Belgian Grand Prix
+BOT,8.0,112.919,2.0,MEDIUM,2.0,1,True,Alfa Romeo,True,17.0,31.741,50.803,30.375,,False,False,4707.42,12,Belgian Grand Prix
+BOT,9.0,113.499,2.0,MEDIUM,3.0,1,True,Alfa Romeo,True,16.0,32.135,51.106,30.258,,False,False,4820.919,12,Belgian Grand Prix
+BOT,10.0,113.782,2.0,MEDIUM,4.0,1,True,Alfa Romeo,True,16.0,32.177,51.219,30.386,,False,False,4934.701,12,Belgian Grand Prix
+BOT,11.0,113.53,2.0,MEDIUM,5.0,1,True,Alfa Romeo,True,16.0,32.114,50.962,30.454,,False,False,5048.231,12,Belgian Grand Prix
+BOT,12.0,113.411,2.0,MEDIUM,6.0,1,True,Alfa Romeo,True,16.0,32.047,50.713,30.651,,False,False,5161.642,12,Belgian Grand Prix
+BOT,13.0,113.924,2.0,MEDIUM,7.0,1,True,Alfa Romeo,True,15.0,32.021,51.14,30.763,,False,False,5275.566,12,Belgian Grand Prix
+BOT,14.0,113.719,2.0,MEDIUM,8.0,1,True,Alfa Romeo,True,14.0,31.89,51.128,30.701,,False,False,5389.285,12,Belgian Grand Prix
+BOT,15.0,115.311,2.0,MEDIUM,9.0,1,True,Alfa Romeo,True,14.0,32.257,52.335,30.719,,False,False,5504.596,12,Belgian Grand Prix
+BOT,16.0,114.537,2.0,MEDIUM,10.0,1,True,Alfa Romeo,True,14.0,32.298,51.554,30.685,,False,False,5619.133,12,Belgian Grand Prix
+BOT,17.0,114.71,2.0,MEDIUM,11.0,1,True,Alfa Romeo,True,14.0,32.04,51.888,30.782,,False,False,5733.843,12,Belgian Grand Prix
+BOT,18.0,114.982,2.0,MEDIUM,12.0,1,True,Alfa Romeo,True,14.0,32.177,52.034,30.771,,False,False,5848.825,12,Belgian Grand Prix
+BOT,19.0,115.107,2.0,MEDIUM,13.0,1,True,Alfa Romeo,True,14.0,32.805,51.398,30.904,,False,False,5963.932,12,Belgian Grand Prix
+BOT,20.0,115.526,2.0,MEDIUM,14.0,1,True,Alfa Romeo,True,14.0,32.219,52.174,31.133,,False,False,6079.458,12,Belgian Grand Prix
+BOT,21.0,117.084,2.0,MEDIUM,15.0,1,True,Alfa Romeo,True,13.0,32.132,52.674,32.278,,False,False,6196.542,12,Belgian Grand Prix
+BOT,22.0,116.219,2.0,MEDIUM,16.0,1,True,Alfa Romeo,True,12.0,32.487,52.41,31.322,,False,False,6312.761,12,Belgian Grand Prix
+BOT,23.0,114.59,2.0,MEDIUM,17.0,1,True,Alfa Romeo,True,11.0,33.071,50.845,30.674,,False,False,6427.351,12,Belgian Grand Prix
+BOT,24.0,118.044,2.0,MEDIUM,18.0,1,False,Alfa Romeo,True,11.0,32.638,50.451,34.955,,True,False,6545.395,12,Belgian Grand Prix
+BOT,25.0,124.853,3.0,MEDIUM,1.0,1,False,Alfa Romeo,True,15.0,47.045,48.103,29.705,,False,True,6670.248,12,Belgian Grand Prix
+BOT,26.0,110.515,3.0,MEDIUM,2.0,1,True,Alfa Romeo,True,13.0,32.125,48.406,29.984,,False,False,6780.763,12,Belgian Grand Prix
+BOT,27.0,111.131,3.0,MEDIUM,3.0,1,True,Alfa Romeo,True,13.0,32.142,48.904,30.085,,False,False,6891.894,12,Belgian Grand Prix
+BOT,28.0,111.46,3.0,MEDIUM,4.0,1,True,Alfa Romeo,True,13.0,32.228,49.118,30.114,,False,False,7003.354,12,Belgian Grand Prix
+BOT,29.0,111.672,3.0,MEDIUM,5.0,1,True,Alfa Romeo,True,13.0,32.345,49.115,30.212,,False,False,7115.026,12,Belgian Grand Prix
+BOT,30.0,111.904,3.0,MEDIUM,6.0,1,True,Alfa Romeo,True,13.0,32.292,49.299,30.313,,False,False,7226.93,12,Belgian Grand Prix
+BOT,31.0,112.128,3.0,MEDIUM,7.0,1,True,Alfa Romeo,True,13.0,32.297,49.735,30.096,,False,False,7339.058,12,Belgian Grand Prix
+BOT,32.0,112.898,3.0,MEDIUM,8.0,1,True,Alfa Romeo,True,13.0,32.212,50.088,30.598,,False,False,7451.956,12,Belgian Grand Prix
+BOT,33.0,113.414,3.0,MEDIUM,9.0,1,True,Alfa Romeo,True,12.0,31.957,51.309,30.148,,False,False,7565.37,12,Belgian Grand Prix
+BOT,34.0,112.188,3.0,MEDIUM,10.0,1,True,Alfa Romeo,True,12.0,32.353,49.342,30.493,,False,False,7677.558,12,Belgian Grand Prix
+BOT,35.0,112.412,3.0,MEDIUM,11.0,1,True,Alfa Romeo,True,12.0,32.377,49.584,30.451,,False,False,7789.97,12,Belgian Grand Prix
+BOT,36.0,112.391,3.0,MEDIUM,12.0,1,True,Alfa Romeo,True,12.0,32.386,49.551,30.454,,False,False,7902.361,12,Belgian Grand Prix
+BOT,37.0,112.129,3.0,MEDIUM,13.0,1,True,Alfa Romeo,True,12.0,32.449,49.427,30.253,,False,False,8014.49,12,Belgian Grand Prix
+BOT,38.0,112.077,3.0,MEDIUM,14.0,1,True,Alfa Romeo,True,12.0,32.353,49.333,30.391,,False,False,8126.567,12,Belgian Grand Prix
+BOT,39.0,112.396,3.0,MEDIUM,15.0,1,True,Alfa Romeo,True,12.0,32.329,49.689,30.378,,False,False,8238.963,12,Belgian Grand Prix
+BOT,40.0,112.344,3.0,MEDIUM,16.0,1,True,Alfa Romeo,True,12.0,32.46,49.467,30.417,,False,False,8351.307,12,Belgian Grand Prix
+BOT,41.0,112.363,3.0,MEDIUM,17.0,1,True,Alfa Romeo,True,12.0,32.42,49.504,30.439,,False,False,8463.67,12,Belgian Grand Prix
+BOT,42.0,112.382,3.0,MEDIUM,18.0,1,True,Alfa Romeo,True,12.0,32.475,49.399,30.508,,False,False,8576.052,12,Belgian Grand Prix
+BOT,43.0,112.17,3.0,MEDIUM,19.0,1,True,Alfa Romeo,True,12.0,32.375,49.39,30.405,,False,False,8688.222,12,Belgian Grand Prix
+BOT,44.0,112.234,3.0,MEDIUM,20.0,12,True,Alfa Romeo,True,12.0,32.365,49.59,30.279,,False,False,8800.456,12,Belgian Grand Prix
+ZHO,1.0,121.921,1.0,SOFT,1.0,1,False,Alfa Romeo,True,14.0,,52.342,30.465,,False,False,3886.736,12,Belgian Grand Prix
+ZHO,2.0,115.929,1.0,SOFT,2.0,12,True,Alfa Romeo,True,14.0,32.086,53.161,30.682,,False,False,4002.665,12,Belgian Grand Prix
+ZHO,3.0,115.198,1.0,SOFT,3.0,21,True,Alfa Romeo,True,15.0,32.326,52.345,30.527,,False,False,4117.863,12,Belgian Grand Prix
+ZHO,4.0,114.639,1.0,SOFT,4.0,1,True,Alfa Romeo,True,15.0,31.994,51.887,30.758,,False,False,4232.502,12,Belgian Grand Prix
+ZHO,5.0,116.11,1.0,SOFT,5.0,1,True,Alfa Romeo,True,15.0,32.188,52.862,31.06,,False,False,4348.612,12,Belgian Grand Prix
+ZHO,6.0,115.867,1.0,SOFT,6.0,1,True,Alfa Romeo,True,13.0,32.393,52.2,31.274,,False,False,4464.479,12,Belgian Grand Prix
+ZHO,7.0,119.727,1.0,SOFT,7.0,1,False,Alfa Romeo,True,14.0,32.245,51.959,35.523,,True,False,4584.206,12,Belgian Grand Prix
+ZHO,8.0,127.212,2.0,MEDIUM,1.0,1,False,Alfa Romeo,True,19.0,47.983,49.317,29.912,,False,True,4711.418,12,Belgian Grand Prix
+ZHO,9.0,112.422,2.0,MEDIUM,2.0,1,True,Alfa Romeo,True,18.0,31.997,50.27,30.155,,False,False,4823.84,12,Belgian Grand Prix
+ZHO,10.0,113.904,2.0,MEDIUM,3.0,1,True,Alfa Romeo,True,18.0,31.774,51.774,30.356,,False,False,4937.744,12,Belgian Grand Prix
+ZHO,11.0,112.645,2.0,MEDIUM,4.0,1,True,Alfa Romeo,True,17.0,31.795,50.478,30.372,,False,False,5050.389,12,Belgian Grand Prix
+ZHO,12.0,113.303,2.0,MEDIUM,5.0,1,True,Alfa Romeo,True,17.0,32.204,50.57,30.529,,False,False,5163.692,12,Belgian Grand Prix
+ZHO,13.0,113.733,2.0,MEDIUM,6.0,1,True,Alfa Romeo,True,16.0,32.265,51.06,30.408,,False,False,5277.425,12,Belgian Grand Prix
+ZHO,14.0,113.927,2.0,MEDIUM,7.0,1,True,Alfa Romeo,True,16.0,32.306,50.955,30.666,,False,False,5391.352,12,Belgian Grand Prix
+ZHO,15.0,114.979,2.0,MEDIUM,8.0,1,True,Alfa Romeo,True,16.0,32.46,51.809,30.71,,False,False,5506.331,12,Belgian Grand Prix
+ZHO,16.0,114.295,2.0,MEDIUM,9.0,1,True,Alfa Romeo,True,15.0,32.018,51.498,30.779,,False,False,5620.626,12,Belgian Grand Prix
+ZHO,17.0,114.886,2.0,MEDIUM,10.0,1,True,Alfa Romeo,True,15.0,32.444,51.588,30.854,,False,False,5735.512,12,Belgian Grand Prix
+ZHO,18.0,115.003,2.0,MEDIUM,11.0,1,True,Alfa Romeo,True,15.0,32.3,51.843,30.86,,False,False,5850.515,12,Belgian Grand Prix
+ZHO,19.0,115.516,2.0,MEDIUM,12.0,1,True,Alfa Romeo,True,15.0,32.83,51.857,30.829,,False,False,5966.031,12,Belgian Grand Prix
+ZHO,20.0,115.451,2.0,MEDIUM,13.0,1,True,Alfa Romeo,True,15.0,32.57,52.018,30.863,,False,False,6081.482,12,Belgian Grand Prix
+ZHO,21.0,115.811,2.0,MEDIUM,14.0,1,True,Alfa Romeo,True,14.0,32.339,52.087,31.385,,False,False,6197.293,12,Belgian Grand Prix
+ZHO,22.0,118.747,2.0,MEDIUM,15.0,1,True,Alfa Romeo,True,13.0,32.198,54.82,31.729,,False,False,6316.04,12,Belgian Grand Prix
+ZHO,23.0,115.68,2.0,MEDIUM,16.0,1,True,Alfa Romeo,True,14.0,32.71,52.04,30.93,,False,False,6431.72,12,Belgian Grand Prix
+ZHO,24.0,114.616,2.0,MEDIUM,17.0,1,True,Alfa Romeo,True,12.0,32.525,51.384,30.707,,False,False,6546.336,12,Belgian Grand Prix
+ZHO,25.0,117.989,2.0,MEDIUM,18.0,1,False,Alfa Romeo,True,14.0,32.384,50.515,35.09,,True,False,6664.325,12,Belgian Grand Prix
+ZHO,26.0,126.229,3.0,SOFT,1.0,1,False,Alfa Romeo,True,18.0,47.581,48.877,29.771,,False,True,6790.554,12,Belgian Grand Prix
+ZHO,27.0,110.188,3.0,SOFT,2.0,1,True,Alfa Romeo,True,18.0,31.806,48.488,29.894,,False,False,6900.742,12,Belgian Grand Prix
+ZHO,28.0,111.466,3.0,SOFT,3.0,1,True,Alfa Romeo,True,18.0,31.802,49.347,30.317,,False,False,7012.208,12,Belgian Grand Prix
+ZHO,29.0,112.052,3.0,SOFT,4.0,1,True,Alfa Romeo,True,18.0,31.884,50.046,30.122,,False,False,7124.26,12,Belgian Grand Prix
+ZHO,30.0,112.82,3.0,SOFT,5.0,1,True,Alfa Romeo,True,18.0,31.73,50.802,30.288,,False,False,7237.08,12,Belgian Grand Prix
+ZHO,31.0,112.35,3.0,SOFT,6.0,1,True,Alfa Romeo,True,18.0,31.858,50.062,30.43,,False,False,7349.43,12,Belgian Grand Prix
+ZHO,32.0,112.247,3.0,SOFT,7.0,1,True,Alfa Romeo,True,18.0,31.572,50.456,30.219,,False,False,7461.677,12,Belgian Grand Prix
+ZHO,33.0,111.506,3.0,SOFT,8.0,1,True,Alfa Romeo,True,17.0,31.665,49.702,30.139,,False,False,7573.183,12,Belgian Grand Prix
+ZHO,34.0,112.052,3.0,SOFT,9.0,1,True,Alfa Romeo,True,16.0,32.021,49.76,30.271,,False,False,7685.235,12,Belgian Grand Prix
+ZHO,35.0,112.507,3.0,SOFT,10.0,1,True,Alfa Romeo,True,16.0,32.141,50.013,30.353,,False,False,7797.742,12,Belgian Grand Prix
+ZHO,36.0,112.809,3.0,SOFT,11.0,1,True,Alfa Romeo,True,16.0,32.266,50.114,30.429,,False,False,7910.551,12,Belgian Grand Prix
+ZHO,37.0,112.981,3.0,SOFT,12.0,1,True,Alfa Romeo,True,16.0,31.62,51.043,30.318,,False,False,8023.532,12,Belgian Grand Prix
+ZHO,38.0,113.446,3.0,SOFT,13.0,1,True,Alfa Romeo,True,16.0,31.56,51.285,30.601,,False,False,8136.978,12,Belgian Grand Prix
+ZHO,39.0,113.017,3.0,SOFT,14.0,1,True,Alfa Romeo,True,15.0,31.666,50.817,30.534,,False,False,8249.995,12,Belgian Grand Prix
+ZHO,40.0,111.884,3.0,SOFT,15.0,1,True,Alfa Romeo,True,14.0,31.844,49.728,30.312,,False,False,8361.879,12,Belgian Grand Prix
+ZHO,41.0,113.108,3.0,SOFT,16.0,1,True,Alfa Romeo,True,14.0,31.774,50.731,30.603,,False,False,8474.987,12,Belgian Grand Prix
+ZHO,42.0,111.69,3.0,SOFT,17.0,1,True,Alfa Romeo,True,13.0,31.824,49.581,30.285,,False,False,8586.677,12,Belgian Grand Prix
+ZHO,43.0,112.023,3.0,SOFT,18.0,1,True,Alfa Romeo,True,13.0,32.238,49.453,30.332,,False,False,8698.7,12,Belgian Grand Prix
+ZHO,44.0,112.006,3.0,SOFT,19.0,12,True,Alfa Romeo,True,13.0,32.266,49.68,30.06,,False,False,8810.706,12,Belgian Grand Prix
+ALB,1.0,120.359,1.0,SOFT,1.0,1,False,Williams,True,10.0,,51.925,30.497,,False,False,3885.174,12,Belgian Grand Prix
+ALB,2.0,114.821,1.0,SOFT,2.0,12,True,Williams,True,9.0,32.142,52.359,30.32,,False,False,3999.995,12,Belgian Grand Prix
+ALB,3.0,113.907,1.0,SOFT,3.0,21,True,Williams,True,9.0,31.733,51.751,30.423,,False,False,4113.902,12,Belgian Grand Prix
+ALB,4.0,115.004,1.0,SOFT,4.0,1,True,Williams,True,8.0,31.698,52.56,30.746,,False,False,4228.906,12,Belgian Grand Prix
+ALB,5.0,115.653,1.0,SOFT,5.0,1,True,Williams,True,7.0,31.878,53.226,30.549,,False,False,4344.559,12,Belgian Grand Prix
+ALB,6.0,114.309,1.0,SOFT,6.0,1,True,Williams,True,7.0,32.192,51.628,30.489,,False,False,4458.868,12,Belgian Grand Prix
+ALB,7.0,118.541,1.0,SOFT,7.0,1,False,Williams,True,9.0,32.36,51.19,34.991,,True,False,4577.409,12,Belgian Grand Prix
+ALB,8.0,127.31,2.0,MEDIUM,1.0,1,False,Williams,True,13.0,47.3,49.993,30.017,,False,True,4704.719,12,Belgian Grand Prix
+ALB,9.0,111.937,2.0,MEDIUM,2.0,1,True,Williams,True,11.0,31.813,50.219,29.905,,False,False,4816.656,12,Belgian Grand Prix
+ALB,10.0,111.774,2.0,MEDIUM,3.0,1,True,Williams,True,10.0,31.486,50.257,30.031,,False,False,4928.43,12,Belgian Grand Prix
+ALB,11.0,113.93,2.0,MEDIUM,4.0,1,True,Williams,True,11.0,31.95,51.73,30.25,,False,False,5042.36,12,Belgian Grand Prix
+ALB,12.0,113.815,2.0,MEDIUM,5.0,1,True,Williams,True,10.0,31.838,51.563,30.414,,False,False,5156.175,12,Belgian Grand Prix
+ALB,13.0,113.705,2.0,MEDIUM,6.0,1,True,Williams,True,10.0,31.999,51.366,30.34,,False,False,5269.88,12,Belgian Grand Prix
+ALB,14.0,113.822,2.0,MEDIUM,7.0,1,True,Williams,True,10.0,31.89,51.678,30.254,,False,False,5383.702,12,Belgian Grand Prix
+ALB,15.0,114.522,2.0,MEDIUM,8.0,1,True,Williams,True,10.0,32.109,51.861,30.552,,False,False,5498.224,12,Belgian Grand Prix
+ALB,16.0,115.068,2.0,MEDIUM,9.0,1,True,Williams,True,11.0,32.34,52.091,30.637,,False,False,5613.292,12,Belgian Grand Prix
+ALB,17.0,114.996,2.0,MEDIUM,10.0,1,True,Williams,True,11.0,31.937,52.444,30.615,,False,False,5728.288,12,Belgian Grand Prix
+ALB,18.0,114.701,2.0,MEDIUM,11.0,1,True,Williams,True,11.0,32.267,51.847,30.587,,False,False,5842.989,12,Belgian Grand Prix
+ALB,19.0,115.183,2.0,MEDIUM,12.0,1,True,Williams,True,11.0,32.478,52.054,30.651,,False,False,5958.172,12,Belgian Grand Prix
+ALB,20.0,116.307,2.0,MEDIUM,13.0,1,True,Williams,True,10.0,32.08,53.166,31.061,,False,False,6074.479,12,Belgian Grand Prix
+ALB,21.0,116.16,2.0,MEDIUM,14.0,1,True,Williams,True,10.0,31.85,53.077,31.233,,False,False,6190.639,12,Belgian Grand Prix
+ALB,22.0,115.435,2.0,MEDIUM,15.0,1,True,Williams,True,9.0,31.814,52.587,31.034,,False,False,6306.074,12,Belgian Grand Prix
+ALB,23.0,119.277,2.0,MEDIUM,16.0,1,False,Williams,True,10.0,32.696,51.492,35.089,,True,False,6425.351,12,Belgian Grand Prix
+ALB,24.0,126.441,3.0,MEDIUM,1.0,1,False,Williams,True,15.0,46.752,49.95,29.739,,False,True,6551.792,12,Belgian Grand Prix
+ALB,25.0,111.432,3.0,MEDIUM,2.0,1,True,Williams,True,12.0,31.395,50.277,29.76,,False,False,6663.224,12,Belgian Grand Prix
+ALB,26.0,111.563,3.0,MEDIUM,3.0,1,True,Williams,True,10.0,31.565,50.08,29.918,,False,False,6774.787,12,Belgian Grand Prix
+ALB,27.0,111.888,3.0,MEDIUM,4.0,1,True,Williams,True,10.0,31.745,50.254,29.889,,False,False,6886.675,12,Belgian Grand Prix
+ALB,28.0,112.076,3.0,MEDIUM,5.0,1,True,Williams,True,10.0,31.659,50.47,29.947,,False,False,6998.751,12,Belgian Grand Prix
+ALB,29.0,112.691,3.0,MEDIUM,6.0,1,True,Williams,True,10.0,31.842,50.794,30.055,,False,False,7111.442,12,Belgian Grand Prix
+ALB,30.0,113.203,3.0,MEDIUM,7.0,1,True,Williams,True,11.0,31.861,50.9,30.442,,False,False,7224.645,12,Belgian Grand Prix
+ALB,31.0,112.731,3.0,MEDIUM,8.0,1,True,Williams,True,11.0,31.581,51.069,30.081,,False,False,7337.376,12,Belgian Grand Prix
+ALB,32.0,114.306,3.0,MEDIUM,9.0,1,True,Williams,True,12.0,31.985,51.363,30.958,,False,False,7451.682,12,Belgian Grand Prix
+ALB,33.0,117.737,3.0,MEDIUM,10.0,1,False,Williams,True,15.0,31.566,51.612,34.559,,True,False,7569.419,12,Belgian Grand Prix
+ALB,34.0,125.488,4.0,SOFT,1.0,1,False,Williams,True,18.0,46.409,49.556,29.523,,False,True,7694.907,12,Belgian Grand Prix
+ALB,35.0,109.841,4.0,SOFT,2.0,1,True,Williams,True,17.0,31.392,48.936,29.513,,False,False,7804.748,12,Belgian Grand Prix
+ALB,36.0,110.82,4.0,SOFT,3.0,1,True,Williams,True,17.0,31.506,49.543,29.771,,False,False,7915.568,12,Belgian Grand Prix
+ALB,37.0,111.065,4.0,SOFT,4.0,1,True,Williams,True,17.0,31.686,49.644,29.735,,False,False,8026.633,12,Belgian Grand Prix
+ALB,38.0,111.575,4.0,SOFT,5.0,1,True,Williams,True,17.0,31.67,50.046,29.859,,False,False,8138.208,12,Belgian Grand Prix
+ALB,39.0,112.918,4.0,SOFT,6.0,1,True,Williams,True,17.0,31.336,51.245,30.337,,False,False,8251.126,12,Belgian Grand Prix
+ALB,40.0,112.75,4.0,SOFT,7.0,1,True,Williams,True,15.0,31.552,50.982,30.216,,False,False,8363.876,12,Belgian Grand Prix
+ALB,41.0,112.064,4.0,SOFT,8.0,1,True,Williams,True,15.0,31.829,50.319,29.916,,False,False,8475.94,12,Belgian Grand Prix
+ALB,42.0,112.918,4.0,SOFT,9.0,1,True,Williams,True,14.0,31.48,51.378,30.06,,False,False,8588.858,12,Belgian Grand Prix
+ALB,43.0,111.14,4.0,SOFT,10.0,1,True,Williams,True,14.0,31.699,49.604,29.837,,False,False,8699.998,12,Belgian Grand Prix
+ALB,44.0,111.451,4.0,SOFT,11.0,12,True,Williams,True,14.0,31.866,49.862,29.723,,False,False,8811.449,12,Belgian Grand Prix
+MAG,1.0,123.83,1.0,SOFT,1.0,1,False,Haas F1 Team,True,18.0,,52.064,30.931,,False,False,3888.645,12,Belgian Grand Prix
+MAG,2.0,115.592,1.0,SOFT,2.0,12,True,Haas F1 Team,True,18.0,32.21,52.91,30.472,,False,False,4004.237,12,Belgian Grand Prix
+MAG,3.0,115.403,1.0,SOFT,3.0,21,True,Haas F1 Team,True,18.0,31.8,52.796,30.807,,False,False,4119.64,12,Belgian Grand Prix
+MAG,4.0,114.635,1.0,SOFT,4.0,1,True,Haas F1 Team,True,18.0,31.748,52.071,30.816,,False,False,4234.275,12,Belgian Grand Prix
+MAG,5.0,119.429,1.0,SOFT,5.0,1,False,Haas F1 Team,True,18.0,31.787,52.537,35.105,,True,False,4353.704,12,Belgian Grand Prix
+MAG,6.0,126.556,2.0,MEDIUM,1.0,1,False,Haas F1 Team,True,18.0,46.716,49.788,30.052,,False,True,4480.26,12,Belgian Grand Prix
+MAG,7.0,111.534,2.0,MEDIUM,2.0,1,True,Haas F1 Team,True,15.0,31.751,49.59,30.193,,False,False,4591.794,12,Belgian Grand Prix
+MAG,8.0,112.645,2.0,MEDIUM,3.0,1,True,Haas F1 Team,True,12.0,32.325,49.991,30.329,,False,False,4704.439,12,Belgian Grand Prix
+MAG,9.0,113.819,2.0,MEDIUM,4.0,1,True,Haas F1 Team,True,12.0,32.428,51.05,30.341,,False,False,4818.258,12,Belgian Grand Prix
+MAG,10.0,114.01,2.0,MEDIUM,5.0,1,True,Haas F1 Team,True,13.0,32.382,51.397,30.231,,False,False,4932.268,12,Belgian Grand Prix
+MAG,11.0,113.589,2.0,MEDIUM,6.0,1,True,Haas F1 Team,True,13.0,32.297,50.778,30.514,,False,False,5045.857,12,Belgian Grand Prix
+MAG,12.0,113.828,2.0,MEDIUM,7.0,1,True,Haas F1 Team,True,13.0,32.338,50.897,30.593,,False,False,5159.685,12,Belgian Grand Prix
+MAG,13.0,114.086,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,12.0,32.342,51.059,30.685,,False,False,5273.771,12,Belgian Grand Prix
+MAG,14.0,114.434,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,12.0,32.29,51.494,30.65,,False,False,5388.205,12,Belgian Grand Prix
+MAG,15.0,115.185,2.0,MEDIUM,10.0,1,True,Haas F1 Team,True,12.0,32.432,52.117,30.636,,False,False,5503.39,12,Belgian Grand Prix
+MAG,16.0,114.434,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,12.0,32.631,51.113,30.69,,False,False,5617.824,12,Belgian Grand Prix
+MAG,17.0,114.689,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,12.0,32.556,51.315,30.818,,False,False,5732.513,12,Belgian Grand Prix
+MAG,18.0,114.812,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,12.0,32.575,51.466,30.771,,False,False,5847.325,12,Belgian Grand Prix
+MAG,19.0,114.843,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,12.0,32.632,51.336,30.875,,False,False,5962.168,12,Belgian Grand Prix
+MAG,20.0,115.621,2.0,MEDIUM,15.0,1,True,Haas F1 Team,True,12.0,32.792,51.838,30.991,,False,False,6077.789,12,Belgian Grand Prix
+MAG,21.0,116.026,2.0,MEDIUM,16.0,1,True,Haas F1 Team,True,11.0,32.677,51.91,31.439,,False,False,6193.815,12,Belgian Grand Prix
+MAG,22.0,116.72,2.0,MEDIUM,17.0,1,True,Haas F1 Team,True,11.0,32.674,52.861,31.185,,False,False,6310.535,12,Belgian Grand Prix
+MAG,23.0,114.764,2.0,MEDIUM,18.0,1,True,Haas F1 Team,True,9.0,32.905,51.092,30.767,,False,False,6425.299,12,Belgian Grand Prix
+MAG,24.0,114.351,2.0,MEDIUM,19.0,1,True,Haas F1 Team,True,8.0,32.81,50.877,30.664,,False,False,6539.65,12,Belgian Grand Prix
+MAG,25.0,118.299,2.0,MEDIUM,20.0,1,False,Haas F1 Team,True,9.0,32.5,50.747,35.052,,True,False,6657.949,12,Belgian Grand Prix
+MAG,26.0,125.615,3.0,MEDIUM,1.0,1,False,Haas F1 Team,True,14.0,46.622,49.073,29.92,,False,True,6783.564,12,Belgian Grand Prix
+MAG,27.0,110.993,3.0,MEDIUM,2.0,1,True,Haas F1 Team,True,14.0,31.828,49.06,30.105,,False,False,6894.557,12,Belgian Grand Prix
+MAG,28.0,111.362,3.0,MEDIUM,3.0,1,True,Haas F1 Team,True,14.0,32.002,49.31,30.05,,False,False,7005.919,12,Belgian Grand Prix
+MAG,29.0,111.804,3.0,MEDIUM,4.0,1,True,Haas F1 Team,True,14.0,32.126,49.526,30.152,,False,False,7117.723,12,Belgian Grand Prix
+MAG,30.0,112.039,3.0,MEDIUM,5.0,1,True,Haas F1 Team,True,14.0,32.172,49.555,30.312,,False,False,7229.762,12,Belgian Grand Prix
+MAG,31.0,112.541,3.0,MEDIUM,6.0,1,True,Haas F1 Team,True,14.0,32.243,49.875,30.423,,False,False,7342.303,12,Belgian Grand Prix
+MAG,32.0,112.826,3.0,MEDIUM,7.0,1,True,Haas F1 Team,True,14.0,32.262,50.23,30.334,,False,False,7455.129,12,Belgian Grand Prix
+MAG,33.0,112.814,3.0,MEDIUM,8.0,1,True,Haas F1 Team,True,13.0,32.345,50.24,30.229,,False,False,7567.943,12,Belgian Grand Prix
+MAG,34.0,112.789,3.0,MEDIUM,9.0,1,True,Haas F1 Team,True,13.0,32.279,50.114,30.396,,False,False,7680.732,12,Belgian Grand Prix
+MAG,35.0,113.23,3.0,MEDIUM,10.0,1,True,Haas F1 Team,True,13.0,32.301,50.337,30.592,,False,False,7793.962,12,Belgian Grand Prix
+MAG,36.0,113.437,3.0,MEDIUM,11.0,1,True,Haas F1 Team,True,13.0,32.284,50.652,30.501,,False,False,7907.399,12,Belgian Grand Prix
+MAG,37.0,113.413,3.0,MEDIUM,12.0,1,True,Haas F1 Team,True,13.0,32.451,50.255,30.707,,False,False,8020.812,12,Belgian Grand Prix
+MAG,38.0,113.103,3.0,MEDIUM,13.0,1,True,Haas F1 Team,True,13.0,32.342,50.131,30.63,,False,False,8133.915,12,Belgian Grand Prix
+MAG,39.0,113.436,3.0,MEDIUM,14.0,1,True,Haas F1 Team,True,13.0,32.478,50.43,30.528,,False,False,8247.351,12,Belgian Grand Prix
+MAG,40.0,113.598,3.0,MEDIUM,15.0,1,True,Haas F1 Team,True,13.0,32.568,50.357,30.673,,False,False,8360.949,12,Belgian Grand Prix
+MAG,41.0,113.446,3.0,MEDIUM,16.0,1,True,Haas F1 Team,True,13.0,32.458,50.42,30.568,,False,False,8474.395,12,Belgian Grand Prix
+MAG,42.0,115.236,3.0,MEDIUM,17.0,1,True,Haas F1 Team,True,15.0,32.519,51.533,31.184,,False,False,8589.631,12,Belgian Grand Prix
+MAG,43.0,113.95,3.0,MEDIUM,18.0,1,True,Haas F1 Team,True,15.0,32.516,50.782,30.652,,False,False,8703.581,12,Belgian Grand Prix
+MAG,44.0,113.438,3.0,MEDIUM,19.0,12,True,Haas F1 Team,True,15.0,32.61,50.404,30.424,,False,False,8817.019,12,Belgian Grand Prix
+RIC,1.0,124.175,1.0,SOFT,1.0,1,False,AlphaTauri,True,19.0,,52.378,30.372,,False,False,3888.99,12,Belgian Grand Prix
+RIC,2.0,116.01,1.0,SOFT,2.0,12,True,AlphaTauri,True,19.0,32.328,53.146,30.536,,False,False,4005.0,12,Belgian Grand Prix
+RIC,3.0,115.204,1.0,SOFT,3.0,21,True,AlphaTauri,True,19.0,32.166,52.142,30.896,,False,False,4120.204,12,Belgian Grand Prix
+RIC,4.0,114.815,1.0,SOFT,4.0,1,True,AlphaTauri,True,19.0,32.023,51.79,31.002,,False,False,4235.019,12,Belgian Grand Prix
+RIC,5.0,119.336,1.0,SOFT,5.0,1,False,AlphaTauri,True,19.0,32.149,51.852,35.335,,True,False,4354.355,12,Belgian Grand Prix
+RIC,6.0,127.338,2.0,MEDIUM,1.0,1,False,AlphaTauri,True,19.0,46.309,50.981,30.048,,False,True,4481.693,12,Belgian Grand Prix
+RIC,7.0,112.398,2.0,MEDIUM,2.0,1,True,AlphaTauri,True,18.0,31.664,50.595,30.139,,False,False,4594.091,12,Belgian Grand Prix
+RIC,8.0,112.975,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,16.0,31.735,50.812,30.428,,False,False,4707.066,12,Belgian Grand Prix
+RIC,9.0,113.378,2.0,MEDIUM,4.0,1,True,AlphaTauri,True,15.0,31.858,51.173,30.347,,False,False,4820.444,12,Belgian Grand Prix
+RIC,10.0,113.034,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,14.0,31.909,50.858,30.267,,False,False,4933.478,12,Belgian Grand Prix
+RIC,11.0,113.369,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,14.0,32.29,50.655,30.424,,False,False,5046.847,12,Belgian Grand Prix
+RIC,12.0,113.535,2.0,MEDIUM,7.0,1,True,AlphaTauri,True,14.0,31.943,51.046,30.546,,False,False,5160.382,12,Belgian Grand Prix
+RIC,13.0,114.036,2.0,MEDIUM,8.0,1,True,AlphaTauri,True,13.0,32.141,51.262,30.633,,False,False,5274.418,12,Belgian Grand Prix
+RIC,14.0,114.323,2.0,MEDIUM,9.0,1,True,AlphaTauri,True,13.0,32.013,51.656,30.654,,False,False,5388.741,12,Belgian Grand Prix
+RIC,15.0,115.31,2.0,MEDIUM,10.0,1,True,AlphaTauri,True,13.0,31.906,52.777,30.627,,False,False,5504.051,12,Belgian Grand Prix
+RIC,16.0,114.625,2.0,MEDIUM,11.0,1,True,AlphaTauri,True,13.0,32.275,51.586,30.764,,False,False,5618.676,12,Belgian Grand Prix
+RIC,17.0,114.58,2.0,MEDIUM,12.0,1,True,AlphaTauri,True,13.0,32.113,51.75,30.717,,False,False,5733.256,12,Belgian Grand Prix
+RIC,18.0,114.826,2.0,MEDIUM,13.0,1,True,AlphaTauri,True,13.0,31.942,52.145,30.739,,False,False,5848.082,12,Belgian Grand Prix
+RIC,19.0,115.001,2.0,MEDIUM,14.0,1,True,AlphaTauri,True,13.0,32.225,51.848,30.928,,False,False,5963.083,12,Belgian Grand Prix
+RIC,20.0,115.672,2.0,MEDIUM,15.0,1,True,AlphaTauri,True,13.0,32.298,52.269,31.105,,False,False,6078.755,12,Belgian Grand Prix
+RIC,21.0,117.354,2.0,MEDIUM,16.0,1,True,AlphaTauri,True,12.0,32.288,52.79,32.276,,False,False,6196.109,12,Belgian Grand Prix
+RIC,22.0,125.575,2.0,MEDIUM,17.0,1,False,AlphaTauri,True,17.0,32.969,54.493,38.113,,True,False,6321.684,12,Belgian Grand Prix
+RIC,23.0,129.835,3.0,MEDIUM,1.0,1,False,AlphaTauri,True,18.0,47.005,52.076,30.754,,False,True,6451.519,12,Belgian Grand Prix
+RIC,24.0,111.719,3.0,MEDIUM,2.0,1,True,AlphaTauri,True,18.0,32.061,49.518,30.14,,False,False,6563.238,12,Belgian Grand Prix
+RIC,25.0,110.994,3.0,MEDIUM,3.0,1,True,AlphaTauri,True,16.0,31.555,49.417,30.022,,False,False,6674.232,12,Belgian Grand Prix
+RIC,26.0,111.932,3.0,MEDIUM,4.0,1,True,AlphaTauri,True,16.0,31.848,49.885,30.199,,False,False,6786.164,12,Belgian Grand Prix
+RIC,27.0,111.567,3.0,MEDIUM,5.0,1,True,AlphaTauri,True,16.0,31.981,49.421,30.165,,False,False,6897.731,12,Belgian Grand Prix
+RIC,28.0,111.634,3.0,MEDIUM,6.0,1,True,AlphaTauri,True,16.0,31.952,49.495,30.187,,False,False,7009.365,12,Belgian Grand Prix
+RIC,29.0,112.143,3.0,MEDIUM,7.0,1,True,AlphaTauri,True,16.0,32.321,49.516,30.306,,False,False,7121.508,12,Belgian Grand Prix
+RIC,30.0,111.975,3.0,MEDIUM,8.0,1,True,AlphaTauri,True,16.0,32.244,49.495,30.236,,False,False,7233.483,12,Belgian Grand Prix
+RIC,31.0,112.068,3.0,MEDIUM,9.0,1,True,AlphaTauri,True,16.0,32.206,49.612,30.25,,False,False,7345.551,12,Belgian Grand Prix
+RIC,32.0,112.419,3.0,MEDIUM,10.0,1,True,AlphaTauri,True,16.0,32.061,49.854,30.504,,False,False,7457.97,12,Belgian Grand Prix
+RIC,33.0,112.469,3.0,MEDIUM,11.0,1,True,AlphaTauri,True,16.0,32.213,49.985,30.271,,False,False,7570.439,12,Belgian Grand Prix
+RIC,34.0,112.824,3.0,MEDIUM,12.0,1,True,AlphaTauri,True,15.0,32.13,50.223,30.471,,False,False,7683.263,12,Belgian Grand Prix
+RIC,35.0,113.391,3.0,MEDIUM,13.0,1,True,AlphaTauri,True,15.0,32.159,50.56,30.672,,False,False,7796.654,12,Belgian Grand Prix
+RIC,36.0,113.215,3.0,MEDIUM,14.0,1,True,AlphaTauri,True,15.0,31.993,50.699,30.523,,False,False,7909.869,12,Belgian Grand Prix
+RIC,37.0,113.131,3.0,MEDIUM,15.0,1,True,AlphaTauri,True,15.0,31.928,50.683,30.52,,False,False,8023.0,12,Belgian Grand Prix
+RIC,38.0,113.461,3.0,MEDIUM,16.0,1,True,AlphaTauri,True,15.0,31.743,51.16,30.558,,False,False,8136.461,12,Belgian Grand Prix
+RIC,39.0,114.52,3.0,MEDIUM,17.0,1,True,AlphaTauri,True,16.0,32.203,51.744,30.573,,False,False,8250.981,12,Belgian Grand Prix
+RIC,40.0,114.361,3.0,MEDIUM,18.0,1,True,AlphaTauri,True,17.0,32.192,51.232,30.937,,False,False,8365.342,12,Belgian Grand Prix
+RIC,41.0,113.367,3.0,MEDIUM,19.0,1,True,AlphaTauri,True,17.0,31.664,51.074,30.629,,False,False,8478.709,12,Belgian Grand Prix
+RIC,42.0,115.247,3.0,MEDIUM,20.0,1,True,AlphaTauri,True,16.0,34.264,50.653,30.33,,False,False,8593.956,12,Belgian Grand Prix
+RIC,43.0,112.115,3.0,MEDIUM,21.0,1,True,AlphaTauri,True,16.0,32.4,49.459,30.256,,False,False,8706.071,12,Belgian Grand Prix
+RIC,44.0,112.265,3.0,MEDIUM,22.0,12,True,AlphaTauri,True,16.0,32.406,49.585,30.274,,False,False,8818.336,12,Belgian Grand Prix
+SAR,1.0,122.372,1.0,SOFT,1.0,1,False,Williams,True,15.0,,52.166,30.417,,False,False,3887.187,12,Belgian Grand Prix
+SAR,2.0,115.985,1.0,SOFT,2.0,12,True,Williams,True,15.0,31.987,53.206,30.792,,False,False,4003.172,12,Belgian Grand Prix
+SAR,3.0,114.142,1.0,SOFT,3.0,21,True,Williams,True,14.0,31.528,52.0,30.614,,False,False,4117.314,12,Belgian Grand Prix
+SAR,4.0,114.152,1.0,SOFT,4.0,1,True,Williams,True,13.0,31.429,52.02,30.703,,False,False,4231.466,12,Belgian Grand Prix
+SAR,5.0,115.729,1.0,SOFT,5.0,1,True,Williams,True,12.0,31.88,52.696,31.153,,False,False,4347.195,12,Belgian Grand Prix
+SAR,6.0,115.947,1.0,SOFT,6.0,1,True,Williams,True,11.0,32.024,52.594,31.329,,False,False,4463.142,12,Belgian Grand Prix
+SAR,7.0,115.4,1.0,SOFT,7.0,1,True,Williams,True,10.0,32.284,52.175,30.941,,False,False,4578.542,12,Belgian Grand Prix
+SAR,8.0,118.908,1.0,SOFT,8.0,1,False,Williams,True,11.0,32.271,51.222,35.415,,True,False,4697.45,12,Belgian Grand Prix
+SAR,9.0,127.068,2.0,MEDIUM,1.0,1,False,Williams,True,19.0,46.033,50.928,30.107,,False,True,4824.518,12,Belgian Grand Prix
+SAR,10.0,113.736,2.0,MEDIUM,2.0,1,True,Williams,True,19.0,31.404,51.934,30.398,,False,False,4938.254,12,Belgian Grand Prix
+SAR,11.0,114.844,2.0,MEDIUM,3.0,1,True,Williams,True,19.0,31.526,52.371,30.947,,False,False,5053.098,12,Belgian Grand Prix
+SAR,12.0,115.497,2.0,MEDIUM,4.0,1,True,Williams,True,19.0,31.612,52.247,31.638,,False,False,5168.595,12,Belgian Grand Prix
+SAR,13.0,114.596,2.0,MEDIUM,5.0,1,True,Williams,True,18.0,32.031,51.711,30.854,,False,False,5283.191,12,Belgian Grand Prix
+SAR,14.0,114.962,2.0,MEDIUM,6.0,1,True,Williams,True,18.0,31.975,51.985,31.002,,False,False,5398.153,12,Belgian Grand Prix
+SAR,15.0,115.749,2.0,MEDIUM,7.0,1,True,Williams,True,18.0,31.909,52.646,31.194,,False,False,5513.902,12,Belgian Grand Prix
+SAR,16.0,113.822,2.0,MEDIUM,8.0,1,True,Williams,True,17.0,31.782,51.46,30.58,,False,False,5627.724,12,Belgian Grand Prix
+SAR,17.0,114.913,2.0,MEDIUM,9.0,1,True,Williams,True,17.0,32.065,51.665,31.183,,False,False,5742.637,12,Belgian Grand Prix
+SAR,18.0,115.069,2.0,MEDIUM,10.0,1,True,Williams,True,17.0,32.234,52.109,30.726,,False,False,5857.706,12,Belgian Grand Prix
+SAR,19.0,114.603,2.0,MEDIUM,11.0,1,True,Williams,True,17.0,32.134,51.568,30.901,,False,False,5972.309,12,Belgian Grand Prix
+SAR,20.0,115.579,2.0,MEDIUM,12.0,1,True,Williams,True,17.0,32.16,52.354,31.065,,False,False,6087.888,12,Belgian Grand Prix
+SAR,21.0,115.771,2.0,MEDIUM,13.0,1,True,Williams,True,16.0,32.272,52.311,31.188,,False,False,6203.659,12,Belgian Grand Prix
+SAR,22.0,115.602,2.0,MEDIUM,14.0,1,True,Williams,True,16.0,32.085,52.358,31.159,,False,False,6319.261,12,Belgian Grand Prix
+SAR,23.0,114.853,2.0,MEDIUM,15.0,1,True,Williams,True,16.0,32.056,51.893,30.904,,False,False,6434.114,12,Belgian Grand Prix
+SAR,24.0,118.451,2.0,MEDIUM,16.0,1,False,Williams,True,16.0,32.058,51.305,35.088,,True,False,6552.565,12,Belgian Grand Prix
+SAR,25.0,125.126,3.0,MEDIUM,1.0,1,False,Williams,True,18.0,46.675,48.766,29.685,,False,True,6677.691,12,Belgian Grand Prix
+SAR,26.0,110.667,3.0,MEDIUM,2.0,1,True,Williams,True,17.0,31.453,49.431,29.783,,False,False,6788.358,12,Belgian Grand Prix
+SAR,27.0,111.329,3.0,MEDIUM,3.0,1,True,Williams,True,17.0,31.648,49.679,30.002,,False,False,6899.687,12,Belgian Grand Prix
+SAR,28.0,111.821,3.0,MEDIUM,4.0,1,True,Williams,True,17.0,31.574,50.075,30.172,,False,False,7011.508,12,Belgian Grand Prix
+SAR,29.0,112.192,3.0,MEDIUM,5.0,1,True,Williams,True,17.0,31.836,50.258,30.098,,False,False,7123.7,12,Belgian Grand Prix
+SAR,30.0,112.727,3.0,MEDIUM,6.0,1,True,Williams,True,17.0,32.131,50.414,30.182,,False,False,7236.427,12,Belgian Grand Prix
+SAR,31.0,112.285,3.0,MEDIUM,7.0,1,True,Williams,True,17.0,31.82,50.25,30.215,,False,False,7348.712,12,Belgian Grand Prix
+SAR,32.0,112.6,3.0,MEDIUM,8.0,1,True,Williams,True,17.0,31.916,50.357,30.327,,False,False,7461.312,12,Belgian Grand Prix
+SAR,33.0,113.556,3.0,MEDIUM,9.0,1,True,Williams,True,18.0,32.049,50.985,30.522,,False,False,7574.868,12,Belgian Grand Prix
+SAR,34.0,117.484,3.0,MEDIUM,10.0,1,False,Williams,True,17.0,32.052,50.636,34.796,,True,False,7692.352,12,Belgian Grand Prix
+SAR,35.0,124.478,4.0,SOFT,1.0,1,False,Williams,True,18.0,45.786,49.126,29.566,,False,True,7816.83,12,Belgian Grand Prix
+SAR,36.0,110.236,4.0,SOFT,2.0,1,True,Williams,True,18.0,31.517,48.999,29.72,,False,False,7927.066,12,Belgian Grand Prix
+SAR,37.0,110.486,4.0,SOFT,3.0,1,True,Williams,True,18.0,31.606,49.024,29.856,,False,False,8037.552,12,Belgian Grand Prix
+SAR,38.0,110.818,4.0,SOFT,4.0,1,True,Williams,True,18.0,31.635,49.241,29.942,,False,False,8148.37,12,Belgian Grand Prix
+SAR,39.0,111.513,4.0,SOFT,5.0,1,True,Williams,True,18.0,31.655,49.845,30.013,,False,False,8259.883,12,Belgian Grand Prix
+SAR,40.0,112.082,4.0,SOFT,6.0,1,True,Williams,True,18.0,31.764,50.152,30.166,,False,False,8371.965,12,Belgian Grand Prix
+SAR,41.0,111.581,4.0,SOFT,7.0,1,True,Williams,True,18.0,31.795,49.796,29.99,,False,False,8483.546,12,Belgian Grand Prix
+SAR,42.0,112.364,4.0,SOFT,8.0,1,True,Williams,True,18.0,31.916,50.231,30.217,,False,False,8595.91,12,Belgian Grand Prix
+SAR,43.0,111.241,4.0,SOFT,9.0,1,True,Williams,True,17.0,31.665,49.622,29.954,,False,False,8707.151,12,Belgian Grand Prix
+SAR,44.0,112.59,4.0,SOFT,10.0,12,True,Williams,True,17.0,32.347,50.052,30.191,,False,False,8819.741,12,Belgian Grand Prix
+HUL,1.0,123.27,1.0,MEDIUM,1.0,1,False,Haas F1 Team,True,17.0,,52.068,30.0,,False,True,3888.085,12,Belgian Grand Prix
+HUL,2.0,115.743,1.0,MEDIUM,2.0,12,True,Haas F1 Team,True,17.0,32.008,53.029,30.706,,False,False,4003.828,12,Belgian Grand Prix
+HUL,3.0,115.176,1.0,MEDIUM,3.0,21,True,Haas F1 Team,True,17.0,31.872,52.546,30.758,,False,False,4119.004,12,Belgian Grand Prix
+HUL,4.0,114.581,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,17.0,32.119,51.678,30.784,,False,False,4233.585,12,Belgian Grand Prix
+HUL,5.0,115.53,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,16.0,32.172,52.244,31.114,,False,False,4349.115,12,Belgian Grand Prix
+HUL,6.0,115.923,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,14.0,32.176,52.514,31.233,,False,False,4465.038,12,Belgian Grand Prix
+HUL,7.0,115.607,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,12.0,32.377,52.098,31.132,,False,False,4580.645,12,Belgian Grand Prix
+HUL,8.0,114.741,1.0,MEDIUM,8.0,1,True,Haas F1 Team,True,10.0,32.687,51.236,30.818,,False,False,4695.386,12,Belgian Grand Prix
+HUL,9.0,115.36,1.0,MEDIUM,9.0,1,True,Haas F1 Team,True,10.0,33.159,51.193,31.008,,False,False,4810.746,12,Belgian Grand Prix
+HUL,10.0,114.655,1.0,MEDIUM,10.0,1,True,Haas F1 Team,True,9.0,32.764,51.104,30.787,,False,False,4925.401,12,Belgian Grand Prix
+HUL,11.0,114.262,1.0,MEDIUM,11.0,1,True,Haas F1 Team,True,8.0,32.286,50.94,31.036,,False,False,5039.663,12,Belgian Grand Prix
+HUL,12.0,119.37,1.0,MEDIUM,12.0,1,False,Haas F1 Team,True,12.0,32.721,51.665,34.984,,True,False,5159.033,12,Belgian Grand Prix
+HUL,13.0,127.044,2.0,SOFT,1.0,1,False,Haas F1 Team,True,19.0,47.674,49.078,30.292,,False,True,5286.077,12,Belgian Grand Prix
+HUL,14.0,112.348,2.0,SOFT,2.0,1,True,Haas F1 Team,True,19.0,32.039,49.913,30.396,,False,False,5398.425,12,Belgian Grand Prix
+HUL,15.0,115.586,2.0,SOFT,3.0,1,True,Haas F1 Team,True,19.0,31.887,52.819,30.88,,False,False,5514.011,12,Belgian Grand Prix
+HUL,16.0,113.91,2.0,SOFT,4.0,1,True,Haas F1 Team,True,18.0,31.919,51.684,30.307,,False,False,5627.921,12,Belgian Grand Prix
+HUL,17.0,114.852,2.0,SOFT,5.0,1,True,Haas F1 Team,True,18.0,32.053,51.955,30.844,,False,False,5742.773,12,Belgian Grand Prix
+HUL,18.0,112.937,2.0,SOFT,6.0,1,True,Haas F1 Team,True,16.0,31.961,50.3,30.676,,False,False,5855.71,12,Belgian Grand Prix
+HUL,19.0,113.743,2.0,SOFT,7.0,1,True,Haas F1 Team,True,16.0,32.538,50.492,30.713,,False,False,5969.453,12,Belgian Grand Prix
+HUL,20.0,114.393,2.0,SOFT,8.0,1,True,Haas F1 Team,True,16.0,32.609,51.12,30.664,,False,False,6083.846,12,Belgian Grand Prix
+HUL,21.0,114.691,2.0,SOFT,9.0,1,True,Haas F1 Team,True,15.0,32.407,51.28,31.004,,False,False,6198.537,12,Belgian Grand Prix
+HUL,22.0,117.8,2.0,SOFT,10.0,1,True,Haas F1 Team,True,14.0,32.361,53.668,31.771,,False,False,6316.337,12,Belgian Grand Prix
+HUL,23.0,113.292,2.0,SOFT,11.0,1,True,Haas F1 Team,True,12.0,32.346,50.236,30.71,,False,False,6429.629,12,Belgian Grand Prix
+HUL,24.0,117.257,2.0,SOFT,12.0,1,False,Haas F1 Team,True,13.0,32.471,50.177,34.609,,True,False,6546.886,12,Belgian Grand Prix
+HUL,25.0,127.746,3.0,SOFT,1.0,1,False,Haas F1 Team,True,17.0,48.023,49.821,29.902,,False,True,6674.632,12,Belgian Grand Prix
+HUL,26.0,109.907,3.0,SOFT,2.0,1,True,Haas F1 Team,True,15.0,31.307,48.733,29.867,,False,False,6784.539,12,Belgian Grand Prix
+HUL,27.0,111.225,3.0,SOFT,3.0,1,True,Haas F1 Team,True,15.0,31.875,49.217,30.133,,False,False,6895.764,12,Belgian Grand Prix
+HUL,28.0,111.545,3.0,SOFT,4.0,1,True,Haas F1 Team,True,15.0,31.976,49.383,30.186,,False,False,7007.309,12,Belgian Grand Prix
+HUL,29.0,111.844,3.0,SOFT,5.0,1,True,Haas F1 Team,True,15.0,32.118,49.565,30.161,,False,False,7119.153,12,Belgian Grand Prix
+HUL,30.0,112.495,3.0,SOFT,6.0,1,True,Haas F1 Team,True,15.0,32.659,49.567,30.269,,False,False,7231.648,12,Belgian Grand Prix
+HUL,31.0,112.588,3.0,SOFT,7.0,1,True,Haas F1 Team,True,15.0,32.379,49.777,30.432,,False,False,7344.236,12,Belgian Grand Prix
+HUL,32.0,112.332,3.0,SOFT,8.0,1,True,Haas F1 Team,True,15.0,32.23,49.771,30.331,,False,False,7456.568,12,Belgian Grand Prix
+HUL,33.0,112.601,3.0,SOFT,9.0,1,True,Haas F1 Team,True,14.0,32.305,50.105,30.191,,False,False,7569.169,12,Belgian Grand Prix
+HUL,34.0,113.056,3.0,SOFT,10.0,1,True,Haas F1 Team,True,14.0,32.257,50.349,30.45,,False,False,7682.225,12,Belgian Grand Prix
+HUL,35.0,113.676,3.0,SOFT,11.0,1,True,Haas F1 Team,True,14.0,32.249,50.606,30.821,,False,False,7795.901,12,Belgian Grand Prix
+HUL,36.0,113.401,3.0,SOFT,12.0,1,True,Haas F1 Team,True,14.0,32.311,50.492,30.598,,False,False,7909.302,12,Belgian Grand Prix
+HUL,37.0,113.019,3.0,SOFT,13.0,1,True,Haas F1 Team,True,14.0,32.213,50.362,30.444,,False,False,8022.321,12,Belgian Grand Prix
+HUL,38.0,113.621,3.0,SOFT,14.0,1,True,Haas F1 Team,True,14.0,32.282,50.594,30.745,,False,False,8135.942,12,Belgian Grand Prix
+HUL,39.0,113.522,3.0,SOFT,15.0,1,True,Haas F1 Team,True,14.0,32.39,50.55,30.582,,False,False,8249.464,12,Belgian Grand Prix
+HUL,40.0,115.26,3.0,SOFT,16.0,1,True,Haas F1 Team,True,16.0,32.351,51.603,31.306,,False,False,8364.724,12,Belgian Grand Prix
+HUL,41.0,113.845,3.0,SOFT,17.0,1,True,Haas F1 Team,True,16.0,32.075,50.723,31.047,,False,False,8478.569,12,Belgian Grand Prix
+HUL,42.0,116.987,3.0,SOFT,18.0,1,True,Haas F1 Team,True,17.0,34.544,51.748,30.695,,False,False,8595.556,12,Belgian Grand Prix
+HUL,43.0,115.314,3.0,SOFT,19.0,1,True,Haas F1 Team,True,18.0,32.342,51.545,31.427,,False,False,8710.87,12,Belgian Grand Prix
+HUL,44.0,114.845,3.0,SOFT,20.0,12,True,Haas F1 Team,True,18.0,32.768,50.898,31.179,,False,False,8825.715,12,Belgian Grand Prix
+SAI,1.0,117.901,1.0,SOFT,1.0,1,False,Ferrari,True,5.0,,51.528,30.52,,False,False,3882.716,12,Belgian Grand Prix
+SAI,2.0,114.247,1.0,SOFT,2.0,12,True,Ferrari,True,5.0,32.321,51.281,30.645,,False,False,3996.963,12,Belgian Grand Prix
+SAI,3.0,114.718,1.0,SOFT,3.0,21,True,Ferrari,True,5.0,32.395,51.429,30.894,,False,False,4111.681,12,Belgian Grand Prix
+SAI,4.0,116.245,1.0,SOFT,4.0,1,True,Ferrari,True,6.0,32.495,52.93,30.82,,False,False,4227.926,12,Belgian Grand Prix
+SAI,5.0,116.974,1.0,SOFT,5.0,1,True,Ferrari,True,8.0,32.69,52.75,31.534,,False,False,4344.9,12,Belgian Grand Prix
+SAI,6.0,117.26,1.0,SOFT,6.0,1,True,Ferrari,True,10.0,32.488,53.343,31.429,,False,False,4462.16,12,Belgian Grand Prix
+SAI,7.0,121.147,1.0,SOFT,7.0,1,False,Ferrari,True,13.0,32.363,52.582,36.202,,True,False,4583.307,12,Belgian Grand Prix
+SAI,8.0,126.929,2.0,MEDIUM,1.0,1,False,Ferrari,True,18.0,46.545,50.217,30.167,,False,True,4710.236,12,Belgian Grand Prix
+SAI,9.0,113.138,2.0,MEDIUM,2.0,1,True,Ferrari,True,17.0,32.045,50.712,30.381,,False,False,4823.374,12,Belgian Grand Prix
+SAI,10.0,113.893,2.0,MEDIUM,3.0,1,True,Ferrari,True,17.0,31.999,51.417,30.477,,False,False,4937.267,12,Belgian Grand Prix
+SAI,11.0,115.201,2.0,MEDIUM,4.0,1,True,Ferrari,True,18.0,32.299,52.154,30.748,,False,False,5052.468,12,Belgian Grand Prix
+SAI,12.0,115.119,2.0,MEDIUM,5.0,1,True,Ferrari,True,18.0,32.152,51.801,31.166,,False,False,5167.587,12,Belgian Grand Prix
+SAI,13.0,114.907,2.0,MEDIUM,6.0,1,True,Ferrari,True,17.0,32.482,51.647,30.778,,False,False,5282.494,12,Belgian Grand Prix
+SAI,14.0,115.076,2.0,MEDIUM,7.0,1,True,Ferrari,True,17.0,32.305,51.728,31.043,,False,False,5397.57,12,Belgian Grand Prix
+SAI,15.0,115.834,2.0,MEDIUM,8.0,1,True,Ferrari,True,17.0,32.334,52.276,31.224,,False,False,5513.404,12,Belgian Grand Prix
+SAI,16.0,117.532,2.0,MEDIUM,9.0,1,True,Ferrari,True,19.0,32.503,53.784,31.245,,False,False,5630.936,12,Belgian Grand Prix
+SAI,17.0,116.062,2.0,MEDIUM,10.0,1,True,Ferrari,True,19.0,32.485,52.505,31.072,,False,False,5746.998,12,Belgian Grand Prix
+SAI,18.0,116.221,2.0,MEDIUM,11.0,1,True,Ferrari,True,18.0,32.601,52.417,31.203,,False,False,5863.219,12,Belgian Grand Prix
+SAI,19.0,117.541,2.0,MEDIUM,12.0,1,True,Ferrari,True,19.0,33.063,53.041,31.437,,False,False,5980.76,12,Belgian Grand Prix
+SAI,20.0,116.426,2.0,MEDIUM,13.0,1,True,Ferrari,True,19.0,32.648,52.419,31.359,,False,False,6097.186,12,Belgian Grand Prix
+SAI,21.0,120.162,2.0,MEDIUM,14.0,1,True,Ferrari,True,19.0,32.787,54.76,32.615,,False,False,6217.348,12,Belgian Grand Prix
+SAI,22.0,117.949,2.0,MEDIUM,15.0,1,True,Ferrari,True,19.0,32.936,53.638,31.375,,False,False,6335.297,12,Belgian Grand Prix
+SAI,23.0,123.363,2.0,MEDIUM,16.0,1,False,Ferrari,True,19.0,32.748,52.157,38.458,,True,False,6458.66,12,Belgian Grand Prix
+PIA,1.0,,1.0,MEDIUM,1.0,1,False,McLaren,True,,,,,,False,False,3878.11,12,Belgian Grand Prix

@@ -1,0 +1,959 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,104.415,1.0,MEDIUM,1.0,12,False,Red Bull Racing,True,2.0,,29.745,43.526,,False,False,2664.903,12,French Grand Prix
+VER,2.0,98.33,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,2.0,25.101,29.683,43.546,,False,False,2763.233,12,French Grand Prix
+VER,3.0,98.117,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,2.0,24.93,29.604,43.583,,False,False,2861.35,12,French Grand Prix
+VER,4.0,98.39,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,2.0,25.088,29.607,43.695,,False,False,2959.74,12,French Grand Prix
+VER,5.0,98.72,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,2.0,25.082,29.713,43.925,,False,False,3058.46,12,French Grand Prix
+VER,6.0,98.634,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,2.0,25.036,29.828,43.77,,False,False,3157.094,12,French Grand Prix
+VER,7.0,99.219,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,2.0,25.215,30.021,43.983,,False,False,3256.313,12,French Grand Prix
+VER,8.0,99.159,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,2.0,25.264,29.965,43.93,,False,False,3355.472,12,French Grand Prix
+VER,9.0,99.13,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,2.0,25.135,29.977,44.018,,False,False,3454.602,12,French Grand Prix
+VER,10.0,99.043,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,2.0,25.203,30.111,43.729,,False,False,3553.645,12,French Grand Prix
+VER,11.0,99.285,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,2.0,25.217,29.877,44.191,,False,False,3652.93,12,French Grand Prix
+VER,12.0,99.109,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,2.0,25.137,29.886,44.086,,False,False,3752.039,12,French Grand Prix
+VER,13.0,99.026,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,2.0,25.144,29.994,43.888,,False,False,3851.065,12,French Grand Prix
+VER,14.0,99.276,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,2.0,25.287,30.127,43.862,,False,False,3950.341,12,French Grand Prix
+VER,15.0,99.102,1.0,MEDIUM,15.0,1,True,Red Bull Racing,True,2.0,25.28,29.99,43.832,,False,False,4049.443,12,French Grand Prix
+VER,16.0,117.773,1.0,MEDIUM,16.0,1,False,Red Bull Racing,True,5.0,25.088,30.045,62.64,,True,False,4167.216,12,French Grand Prix
+VER,17.0,105.628,2.0,HARD,1.0,1,False,Red Bull Racing,True,6.0,32.801,29.77,43.057,,False,True,4272.844,12,French Grand Prix
+VER,18.0,112.41,2.0,HARD,2.0,124,False,Red Bull Racing,True,2.0,24.659,29.665,58.086,,False,False,4385.254,12,French Grand Prix
+VER,19.0,157.35,2.0,HARD,3.0,4,False,Red Bull Racing,True,1.0,39.52,47.671,70.159,,False,False,4542.604,12,French Grand Prix
+VER,20.0,151.527,2.0,HARD,4.0,41,False,Red Bull Racing,True,1.0,35.51,41.36,74.657,,False,False,4694.131,12,French Grand Prix
+VER,21.0,97.701,2.0,HARD,5.0,1,True,Red Bull Racing,True,1.0,24.764,29.65,43.287,,False,False,4791.832,12,French Grand Prix
+VER,22.0,97.774,2.0,HARD,6.0,12,True,Red Bull Racing,True,1.0,24.831,29.71,43.233,,False,False,4889.606,12,French Grand Prix
+VER,23.0,98.273,2.0,HARD,7.0,21,True,Red Bull Racing,True,1.0,25.023,29.73,43.52,,False,False,4987.879,12,French Grand Prix
+VER,24.0,98.009,2.0,HARD,8.0,1,True,Red Bull Racing,True,1.0,24.835,29.599,43.575,,False,False,5085.888,12,French Grand Prix
+VER,25.0,98.344,2.0,HARD,9.0,1,True,Red Bull Racing,True,1.0,24.922,29.786,43.636,,False,False,5184.232,12,French Grand Prix
+VER,26.0,97.95,2.0,HARD,10.0,1,True,Red Bull Racing,True,1.0,24.739,29.721,43.49,,False,False,5282.182,12,French Grand Prix
+VER,27.0,97.967,2.0,HARD,11.0,1,True,Red Bull Racing,True,1.0,24.995,29.696,43.276,,False,False,5380.149,12,French Grand Prix
+VER,28.0,97.696,2.0,HARD,12.0,1,True,Red Bull Racing,True,1.0,24.907,29.578,43.211,,False,False,5477.845,12,French Grand Prix
+VER,29.0,97.695,2.0,HARD,13.0,1,True,Red Bull Racing,True,1.0,24.705,29.665,43.325,,False,False,5575.54,12,French Grand Prix
+VER,30.0,97.491,2.0,HARD,14.0,1,True,Red Bull Racing,True,1.0,24.667,29.686,43.138,,False,False,5673.031,12,French Grand Prix
+VER,31.0,97.786,2.0,HARD,15.0,1,True,Red Bull Racing,True,1.0,24.789,29.638,43.359,,False,False,5770.817,12,French Grand Prix
+VER,32.0,97.804,2.0,HARD,16.0,1,True,Red Bull Racing,True,1.0,24.726,29.717,43.361,,False,False,5868.621,12,French Grand Prix
+VER,33.0,97.9,2.0,HARD,17.0,1,True,Red Bull Racing,True,1.0,24.755,29.82,43.325,,False,False,5966.521,12,French Grand Prix
+VER,34.0,97.911,2.0,HARD,18.0,1,True,Red Bull Racing,True,1.0,24.783,29.755,43.373,,False,False,6064.432,12,French Grand Prix
+VER,35.0,98.301,2.0,HARD,19.0,1,True,Red Bull Racing,True,1.0,24.912,29.832,43.557,,False,False,6162.733,12,French Grand Prix
+VER,36.0,98.053,2.0,HARD,20.0,1,True,Red Bull Racing,True,1.0,24.901,29.72,43.432,,False,False,6260.786,12,French Grand Prix
+VER,37.0,98.27,2.0,HARD,21.0,1,True,Red Bull Racing,True,1.0,24.91,29.699,43.661,,False,False,6359.056,12,French Grand Prix
+VER,38.0,97.683,2.0,HARD,22.0,12,True,Red Bull Racing,True,1.0,24.825,29.637,43.221,,False,False,6456.739,12,French Grand Prix
+VER,39.0,98.027,2.0,HARD,23.0,1,True,Red Bull Racing,True,1.0,24.987,29.617,43.423,,False,False,6554.766,12,French Grand Prix
+VER,40.0,97.838,2.0,HARD,24.0,1,True,Red Bull Racing,True,1.0,24.749,29.682,43.407,,False,False,6652.604,12,French Grand Prix
+VER,41.0,97.736,2.0,HARD,25.0,1,True,Red Bull Racing,True,1.0,24.787,29.586,43.363,,False,False,6750.34,12,French Grand Prix
+VER,42.0,97.836,2.0,HARD,26.0,1,True,Red Bull Racing,True,1.0,24.91,29.64,43.286,,False,False,6848.176,12,French Grand Prix
+VER,43.0,97.642,2.0,HARD,27.0,1,True,Red Bull Racing,True,1.0,24.731,29.691,43.22,,False,False,6945.818,12,French Grand Prix
+VER,44.0,98.019,2.0,HARD,28.0,1,True,Red Bull Racing,True,1.0,24.819,29.707,43.493,,False,False,7043.837,12,French Grand Prix
+VER,45.0,97.856,2.0,HARD,29.0,1,True,Red Bull Racing,True,1.0,24.772,29.698,43.386,,False,False,7141.693,12,French Grand Prix
+VER,46.0,98.242,2.0,HARD,30.0,1,True,Red Bull Racing,True,1.0,25.033,29.608,43.601,,False,False,7239.935,12,French Grand Prix
+VER,47.0,98.073,2.0,HARD,31.0,1,True,Red Bull Racing,True,1.0,24.849,29.85,43.374,,False,False,7338.008,12,French Grand Prix
+VER,48.0,97.945,2.0,HARD,32.0,1,True,Red Bull Racing,True,1.0,24.987,29.656,43.302,,False,False,7435.953,12,French Grand Prix
+VER,49.0,98.732,2.0,HARD,33.0,12,True,Red Bull Racing,True,1.0,25.078,29.841,43.813,,False,False,7534.685,12,French Grand Prix
+VER,50.0,132.092,2.0,HARD,34.0,2671,False,Red Bull Racing,True,1.0,29.213,41.934,60.945,,False,False,7666.777,12,French Grand Prix
+VER,51.0,99.093,2.0,HARD,35.0,1,True,Red Bull Racing,True,1.0,25.6,29.804,43.689,,False,False,7765.87,12,French Grand Prix
+VER,52.0,98.288,2.0,HARD,36.0,1,True,Red Bull Racing,True,1.0,24.963,29.754,43.571,,False,False,7864.158,12,French Grand Prix
+VER,53.0,98.442,2.0,HARD,37.0,1,True,Red Bull Racing,True,1.0,25.034,29.884,43.524,,False,False,7962.6,12,French Grand Prix
+GAS,1.0,114.14,1.0,HARD,1.0,12,False,AlphaTauri,True,15.0,,32.347,46.336,,False,False,2674.628,12,French Grand Prix
+GAS,2.0,102.174,1.0,HARD,2.0,1,True,AlphaTauri,True,15.0,26.566,30.628,44.98,,False,False,2776.802,12,French Grand Prix
+GAS,3.0,101.845,1.0,HARD,3.0,1,True,AlphaTauri,True,16.0,26.617,30.411,44.817,,False,False,2878.647,12,French Grand Prix
+GAS,4.0,100.767,1.0,HARD,4.0,1,True,AlphaTauri,True,16.0,25.664,30.515,44.588,,False,False,2979.414,12,French Grand Prix
+GAS,5.0,100.789,1.0,HARD,5.0,1,True,AlphaTauri,True,16.0,25.498,30.56,44.731,,False,False,3080.203,12,French Grand Prix
+GAS,6.0,100.801,1.0,HARD,6.0,1,True,AlphaTauri,True,16.0,25.56,30.59,44.651,,False,False,3181.004,12,French Grand Prix
+GAS,7.0,101.08,1.0,HARD,7.0,1,True,AlphaTauri,True,16.0,25.674,30.662,44.744,,False,False,3282.084,12,French Grand Prix
+GAS,8.0,100.618,1.0,HARD,8.0,1,True,AlphaTauri,True,15.0,25.59,30.463,44.565,,False,False,3382.702,12,French Grand Prix
+GAS,9.0,100.73,1.0,HARD,9.0,1,True,AlphaTauri,True,14.0,25.515,30.491,44.724,,False,False,3483.432,12,French Grand Prix
+GAS,10.0,101.208,1.0,HARD,10.0,1,True,AlphaTauri,True,14.0,25.658,30.852,44.698,,False,False,3584.64,12,French Grand Prix
+GAS,11.0,101.047,1.0,HARD,11.0,1,True,AlphaTauri,True,14.0,25.597,30.674,44.776,,False,False,3685.687,12,French Grand Prix
+GAS,12.0,100.82,1.0,HARD,12.0,1,True,AlphaTauri,True,14.0,25.582,30.535,44.703,,False,False,3786.507,12,French Grand Prix
+GAS,13.0,101.156,1.0,HARD,13.0,1,True,AlphaTauri,True,14.0,25.72,30.678,44.758,,False,False,3887.663,12,French Grand Prix
+GAS,14.0,101.254,1.0,HARD,14.0,1,True,AlphaTauri,True,14.0,25.776,30.781,44.697,,False,False,3988.917,12,French Grand Prix
+GAS,15.0,100.823,1.0,HARD,15.0,1,True,AlphaTauri,True,14.0,25.689,30.553,44.581,,False,False,4089.74,12,French Grand Prix
+GAS,16.0,100.825,1.0,HARD,16.0,1,True,AlphaTauri,True,14.0,25.579,30.573,44.673,,False,False,4190.565,12,French Grand Prix
+GAS,17.0,100.799,1.0,HARD,17.0,1,True,AlphaTauri,True,14.0,25.7,30.635,44.464,,False,False,4291.364,12,French Grand Prix
+GAS,18.0,135.607,1.0,HARD,18.0,124,False,AlphaTauri,True,14.0,25.647,37.536,72.424,,True,False,4426.971,12,French Grand Prix
+GAS,19.0,141.175,2.0,MEDIUM,1.0,4,False,AlphaTauri,True,13.0,42.013,42.562,56.6,,False,True,4568.146,12,French Grand Prix
+GAS,20.0,133.091,2.0,MEDIUM,2.0,41,False,AlphaTauri,True,12.0,27.541,42.924,62.626,,False,False,4701.237,12,French Grand Prix
+GAS,21.0,100.786,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,12.0,25.779,30.318,44.689,,False,False,4802.023,12,French Grand Prix
+GAS,22.0,101.251,2.0,MEDIUM,4.0,12,True,AlphaTauri,True,12.0,25.757,30.5,44.994,,False,False,4903.274,12,French Grand Prix
+GAS,23.0,100.304,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,12.0,25.709,30.084,44.511,,False,False,5003.578,12,French Grand Prix
+GAS,24.0,99.951,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,12.0,25.375,30.102,44.474,,False,False,5103.529,12,French Grand Prix
+GAS,25.0,99.719,2.0,MEDIUM,7.0,1,True,AlphaTauri,True,12.0,25.402,30.068,44.249,,False,False,5203.248,12,French Grand Prix
+GAS,26.0,99.877,2.0,MEDIUM,8.0,1,True,AlphaTauri,True,12.0,25.277,30.176,44.424,,False,False,5303.125,12,French Grand Prix
+GAS,27.0,99.801,2.0,MEDIUM,9.0,1,True,AlphaTauri,True,12.0,25.36,30.071,44.37,,False,False,5402.926,12,French Grand Prix
+GAS,28.0,102.426,2.0,MEDIUM,10.0,1,True,AlphaTauri,True,15.0,25.233,31.793,45.4,,False,False,5505.352,12,French Grand Prix
+GAS,29.0,99.806,2.0,MEDIUM,11.0,1,True,AlphaTauri,True,15.0,25.393,29.954,44.459,,False,False,5605.158,12,French Grand Prix
+GAS,30.0,100.05,2.0,MEDIUM,12.0,1,True,AlphaTauri,True,15.0,25.333,30.338,44.379,,False,False,5705.208,12,French Grand Prix
+GAS,31.0,100.149,2.0,MEDIUM,13.0,1,True,AlphaTauri,True,15.0,25.467,30.193,44.489,,False,False,5805.357,12,French Grand Prix
+GAS,32.0,99.989,2.0,MEDIUM,14.0,1,True,AlphaTauri,True,15.0,25.497,30.328,44.164,,False,False,5905.346,12,French Grand Prix
+GAS,33.0,100.157,2.0,MEDIUM,15.0,1,True,AlphaTauri,True,15.0,25.393,30.346,44.418,,False,False,6005.503,12,French Grand Prix
+GAS,34.0,100.181,2.0,MEDIUM,16.0,1,True,AlphaTauri,True,15.0,25.541,30.349,44.291,,False,False,6105.684,12,French Grand Prix
+GAS,35.0,100.289,2.0,MEDIUM,17.0,1,True,AlphaTauri,True,15.0,25.48,30.485,44.324,,False,False,6205.973,12,French Grand Prix
+GAS,36.0,100.173,2.0,MEDIUM,18.0,1,True,AlphaTauri,True,13.0,25.41,30.546,44.217,,False,False,6306.146,12,French Grand Prix
+GAS,37.0,99.425,2.0,MEDIUM,19.0,1,True,AlphaTauri,True,13.0,25.214,30.28,43.931,,False,False,6405.571,12,French Grand Prix
+GAS,38.0,99.234,2.0,MEDIUM,20.0,12,True,AlphaTauri,True,13.0,25.136,30.122,43.976,,False,False,6504.805,12,French Grand Prix
+GAS,39.0,99.446,2.0,MEDIUM,21.0,1,True,AlphaTauri,True,13.0,25.279,30.259,43.908,,False,False,6604.251,12,French Grand Prix
+GAS,40.0,99.573,2.0,MEDIUM,22.0,1,True,AlphaTauri,True,13.0,25.225,30.299,44.049,,False,False,6703.824,12,French Grand Prix
+GAS,41.0,99.663,2.0,MEDIUM,23.0,1,True,AlphaTauri,True,13.0,25.265,30.046,44.352,,False,False,6803.487,12,French Grand Prix
+GAS,42.0,100.041,2.0,MEDIUM,24.0,1,True,AlphaTauri,True,13.0,25.62,30.172,44.249,,False,False,6903.528,12,French Grand Prix
+GAS,43.0,99.558,2.0,MEDIUM,25.0,1,True,AlphaTauri,True,13.0,25.341,30.247,43.97,,False,False,7003.086,12,French Grand Prix
+GAS,44.0,99.541,2.0,MEDIUM,26.0,1,True,AlphaTauri,True,13.0,25.313,30.092,44.136,,False,False,7102.627,12,French Grand Prix
+GAS,45.0,99.586,2.0,MEDIUM,27.0,1,True,AlphaTauri,True,13.0,25.351,30.086,44.149,,False,False,7202.213,12,French Grand Prix
+GAS,46.0,99.561,2.0,MEDIUM,28.0,1,True,AlphaTauri,True,13.0,25.234,30.099,44.228,,False,False,7301.774,12,French Grand Prix
+GAS,47.0,99.981,2.0,MEDIUM,29.0,1,True,AlphaTauri,True,12.0,25.303,30.935,43.743,,False,False,7401.755,12,French Grand Prix
+GAS,48.0,99.117,2.0,MEDIUM,30.0,1,True,AlphaTauri,True,12.0,25.054,30.228,43.835,,False,False,7500.872,12,French Grand Prix
+GAS,49.0,118.696,2.0,MEDIUM,31.0,1267,False,AlphaTauri,True,12.0,25.047,35.983,57.666,,False,False,7619.568,12,French Grand Prix
+GAS,50.0,111.92,2.0,MEDIUM,32.0,71,False,AlphaTauri,True,12.0,33.137,35.35,43.433,,False,False,7731.488,12,French Grand Prix
+GAS,51.0,98.833,2.0,MEDIUM,33.0,1,True,AlphaTauri,True,12.0,25.07,30.092,43.671,,False,False,7830.321,12,French Grand Prix
+GAS,52.0,98.941,2.0,MEDIUM,34.0,1,True,AlphaTauri,True,12.0,24.963,30.297,43.681,,False,False,7929.262,12,French Grand Prix
+GAS,53.0,98.786,2.0,MEDIUM,35.0,1,True,AlphaTauri,True,12.0,25.045,30.138,43.603,,False,False,8028.048,12,French Grand Prix
+PER,1.0,106.399,1.0,MEDIUM,1.0,12,False,Red Bull Racing,True,4.0,,30.214,43.769,,False,False,2666.887,12,French Grand Prix
+PER,2.0,99.289,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,4.0,25.36,29.851,44.078,,False,False,2766.176,12,French Grand Prix
+PER,3.0,99.427,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,4.0,25.321,29.897,44.209,,False,False,2865.603,12,French Grand Prix
+PER,4.0,98.92,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,4.0,25.318,29.851,43.751,,False,False,2964.523,12,French Grand Prix
+PER,5.0,99.683,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,4.0,25.236,30.138,44.309,,False,False,3064.206,12,French Grand Prix
+PER,6.0,99.774,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,4.0,25.161,30.098,44.515,,False,False,3163.98,12,French Grand Prix
+PER,7.0,99.715,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,4.0,25.299,30.319,44.097,,False,False,3263.695,12,French Grand Prix
+PER,8.0,99.188,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,4.0,25.237,30.079,43.872,,False,False,3362.883,12,French Grand Prix
+PER,9.0,99.681,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,4.0,25.203,30.304,44.174,,False,False,3462.564,12,French Grand Prix
+PER,10.0,99.639,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,4.0,25.304,30.206,44.129,,False,False,3562.203,12,French Grand Prix
+PER,11.0,99.644,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,4.0,25.293,30.177,44.174,,False,False,3661.847,12,French Grand Prix
+PER,12.0,99.434,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,4.0,25.188,30.117,44.129,,False,False,3761.281,12,French Grand Prix
+PER,13.0,99.343,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,4.0,25.265,30.22,43.858,,False,False,3860.624,12,French Grand Prix
+PER,14.0,99.451,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,4.0,25.298,30.223,43.93,,False,False,3960.075,12,French Grand Prix
+PER,15.0,99.462,1.0,MEDIUM,15.0,1,True,Red Bull Racing,True,4.0,25.343,30.15,43.969,,False,False,4059.537,12,French Grand Prix
+PER,16.0,99.513,1.0,MEDIUM,16.0,1,True,Red Bull Racing,True,3.0,25.325,30.314,43.874,,False,False,4159.05,12,French Grand Prix
+PER,17.0,99.755,1.0,MEDIUM,17.0,1,True,Red Bull Racing,True,3.0,25.372,30.324,44.059,,False,False,4258.805,12,French Grand Prix
+PER,18.0,127.468,1.0,MEDIUM,18.0,124,False,Red Bull Racing,True,3.0,25.246,30.332,71.89,,True,False,4386.273,12,French Grand Prix
+PER,19.0,160.844,2.0,HARD,1.0,4,False,Red Bull Racing,True,3.0,40.566,49.393,70.885,,False,True,4547.117,12,French Grand Prix
+PER,20.0,148.786,2.0,HARD,2.0,41,False,Red Bull Racing,True,3.0,34.017,42.639,72.13,,False,False,4695.903,12,French Grand Prix
+PER,21.0,98.575,2.0,HARD,3.0,1,True,Red Bull Racing,True,3.0,25.027,30.184,43.364,,False,False,4794.478,12,French Grand Prix
+PER,22.0,98.161,2.0,HARD,4.0,12,True,Red Bull Racing,True,3.0,24.939,29.749,43.473,,False,False,4892.639,12,French Grand Prix
+PER,23.0,98.793,2.0,HARD,5.0,21,True,Red Bull Racing,True,3.0,25.45,29.833,43.51,,False,False,4991.432,12,French Grand Prix
+PER,24.0,98.423,2.0,HARD,6.0,1,True,Red Bull Racing,True,3.0,24.98,29.927,43.516,,False,False,5089.855,12,French Grand Prix
+PER,25.0,98.605,2.0,HARD,7.0,1,True,Red Bull Racing,True,3.0,24.967,29.866,43.772,,False,False,5188.46,12,French Grand Prix
+PER,26.0,98.368,2.0,HARD,8.0,1,True,Red Bull Racing,True,3.0,25.011,29.76,43.597,,False,False,5286.828,12,French Grand Prix
+PER,27.0,98.175,2.0,HARD,9.0,1,True,Red Bull Racing,True,3.0,25.013,29.728,43.434,,False,False,5385.003,12,French Grand Prix
+PER,28.0,98.006,2.0,HARD,10.0,1,True,Red Bull Racing,True,3.0,24.916,29.731,43.359,,False,False,5483.009,12,French Grand Prix
+PER,29.0,98.117,2.0,HARD,11.0,1,True,Red Bull Racing,True,3.0,24.974,29.726,43.417,,False,False,5581.126,12,French Grand Prix
+PER,30.0,98.021,2.0,HARD,12.0,1,True,Red Bull Racing,True,3.0,24.827,29.811,43.383,,False,False,5679.147,12,French Grand Prix
+PER,31.0,98.24,2.0,HARD,13.0,1,True,Red Bull Racing,True,3.0,24.87,29.895,43.475,,False,False,5777.387,12,French Grand Prix
+PER,32.0,98.363,2.0,HARD,14.0,1,True,Red Bull Racing,True,3.0,24.966,29.946,43.451,,False,False,5875.75,12,French Grand Prix
+PER,33.0,98.284,2.0,HARD,15.0,1,True,Red Bull Racing,True,3.0,24.813,29.994,43.477,,False,False,5974.034,12,French Grand Prix
+PER,34.0,98.525,2.0,HARD,16.0,1,True,Red Bull Racing,True,3.0,25.136,30.047,43.342,,False,False,6072.559,12,French Grand Prix
+PER,35.0,98.671,2.0,HARD,17.0,1,True,Red Bull Racing,True,3.0,25.096,30.103,43.472,,False,False,6171.23,12,French Grand Prix
+PER,36.0,98.995,2.0,HARD,18.0,1,True,Red Bull Racing,True,3.0,25.302,30.111,43.582,,False,False,6270.225,12,French Grand Prix
+PER,37.0,98.446,2.0,HARD,19.0,1,True,Red Bull Racing,True,3.0,25.15,29.867,43.429,,False,False,6368.671,12,French Grand Prix
+PER,38.0,98.271,2.0,HARD,20.0,12,True,Red Bull Racing,True,3.0,24.9,29.93,43.441,,False,False,6466.942,12,French Grand Prix
+PER,39.0,98.663,2.0,HARD,21.0,1,True,Red Bull Racing,True,3.0,25.157,29.941,43.565,,False,False,6565.605,12,French Grand Prix
+PER,40.0,98.41,2.0,HARD,22.0,1,True,Red Bull Racing,True,3.0,24.945,29.935,43.53,,False,False,6664.015,12,French Grand Prix
+PER,41.0,99.672,2.0,HARD,23.0,1,True,Red Bull Racing,True,4.0,25.031,30.315,44.326,,False,False,6763.687,12,French Grand Prix
+PER,42.0,100.737,2.0,HARD,24.0,1,True,Red Bull Racing,True,3.0,26.215,29.489,45.033,,False,False,6864.424,12,French Grand Prix
+PER,43.0,98.448,2.0,HARD,25.0,1,True,Red Bull Racing,True,3.0,24.918,30.022,43.508,,False,False,6962.872,12,French Grand Prix
+PER,44.0,98.31,2.0,HARD,26.0,1,True,Red Bull Racing,True,3.0,25.035,29.957,43.318,,False,False,7061.182,12,French Grand Prix
+PER,45.0,97.78,2.0,HARD,27.0,1,True,Red Bull Racing,True,3.0,24.809,29.76,43.211,,False,False,7158.962,12,French Grand Prix
+PER,46.0,97.977,2.0,HARD,28.0,1,True,Red Bull Racing,True,3.0,24.868,29.88,43.229,,False,False,7256.939,12,French Grand Prix
+PER,47.0,98.067,2.0,HARD,29.0,1,True,Red Bull Racing,True,3.0,24.877,29.981,43.209,,False,False,7355.006,12,French Grand Prix
+PER,48.0,98.507,2.0,HARD,30.0,1,True,Red Bull Racing,True,3.0,24.994,30.219,43.294,,False,False,7453.513,12,French Grand Prix
+PER,49.0,98.791,2.0,HARD,31.0,126,False,Red Bull Racing,True,3.0,25.027,29.989,43.775,,False,False,7552.304,12,French Grand Prix
+PER,50.0,133.384,2.0,HARD,32.0,671,False,Red Bull Racing,True,4.0,37.567,37.897,57.92,,False,False,7685.688,12,French Grand Prix
+PER,51.0,97.964,2.0,HARD,33.0,1,True,Red Bull Racing,True,4.0,25.088,29.676,43.2,,False,False,7783.652,12,French Grand Prix
+PER,52.0,97.952,2.0,HARD,34.0,1,True,Red Bull Racing,True,4.0,24.715,29.639,43.598,,False,False,7881.604,12,French Grand Prix
+PER,53.0,98.306,2.0,HARD,35.0,1,True,Red Bull Racing,True,4.0,25.021,29.782,43.503,,False,False,7979.91,12,French Grand Prix
+ALO,1.0,107.416,1.0,MEDIUM,1.0,12,False,Alpine,True,5.0,,30.408,44.211,,False,False,2667.904,12,French Grand Prix
+ALO,2.0,99.9,1.0,MEDIUM,2.0,1,True,Alpine,True,5.0,25.612,30.224,44.064,,False,False,2767.804,12,French Grand Prix
+ALO,3.0,100.53,1.0,MEDIUM,3.0,1,True,Alpine,True,6.0,25.395,30.787,44.348,,False,False,2868.334,12,French Grand Prix
+ALO,4.0,99.156,1.0,MEDIUM,4.0,1,True,Alpine,True,6.0,25.123,30.012,44.021,,False,False,2967.49,12,French Grand Prix
+ALO,5.0,100.243,1.0,MEDIUM,5.0,1,True,Alpine,True,6.0,25.313,30.522,44.408,,False,False,3067.733,12,French Grand Prix
+ALO,6.0,100.069,1.0,MEDIUM,6.0,1,True,Alpine,True,6.0,25.45,30.505,44.114,,False,False,3167.802,12,French Grand Prix
+ALO,7.0,100.261,1.0,MEDIUM,7.0,1,True,Alpine,True,6.0,25.528,30.568,44.165,,False,False,3268.063,12,French Grand Prix
+ALO,8.0,100.034,1.0,MEDIUM,8.0,1,True,Alpine,True,6.0,25.427,30.507,44.1,,False,False,3368.097,12,French Grand Prix
+ALO,9.0,99.926,1.0,MEDIUM,9.0,1,True,Alpine,True,6.0,25.338,30.552,44.036,,False,False,3468.023,12,French Grand Prix
+ALO,10.0,100.067,1.0,MEDIUM,10.0,1,True,Alpine,True,6.0,25.501,30.692,43.874,,False,False,3568.09,12,French Grand Prix
+ALO,11.0,100.393,1.0,MEDIUM,11.0,1,True,Alpine,True,6.0,25.469,30.547,44.377,,False,False,3668.483,12,French Grand Prix
+ALO,12.0,100.206,1.0,MEDIUM,12.0,1,True,Alpine,True,6.0,25.407,30.552,44.247,,False,False,3768.689,12,French Grand Prix
+ALO,13.0,100.174,1.0,MEDIUM,13.0,1,True,Alpine,True,6.0,25.403,30.689,44.082,,False,False,3868.863,12,French Grand Prix
+ALO,14.0,100.067,1.0,MEDIUM,14.0,1,True,Alpine,True,6.0,25.394,30.578,44.095,,False,False,3968.93,12,French Grand Prix
+ALO,15.0,99.83,1.0,MEDIUM,15.0,1,True,Alpine,True,6.0,25.306,30.418,44.106,,False,False,4068.76,12,French Grand Prix
+ALO,16.0,100.212,1.0,MEDIUM,16.0,1,True,Alpine,True,6.0,25.334,30.684,44.194,,False,False,4168.972,12,French Grand Prix
+ALO,17.0,100.167,1.0,MEDIUM,17.0,1,True,Alpine,True,5.0,25.407,30.636,44.124,,False,False,4269.139,12,French Grand Prix
+ALO,18.0,128.758,1.0,MEDIUM,18.0,124,False,Alpine,True,5.0,25.265,30.428,73.065,,True,False,4397.897,12,French Grand Prix
+ALO,19.0,153.726,2.0,HARD,1.0,4,False,Alpine,True,5.0,42.005,45.407,66.314,,False,True,4551.623,12,French Grand Prix
+ALO,20.0,145.921,2.0,HARD,2.0,41,False,Alpine,True,5.0,33.222,41.4,71.299,,False,False,4697.544,12,French Grand Prix
+ALO,21.0,99.971,2.0,HARD,3.0,1,True,Alpine,True,5.0,25.355,30.554,44.062,,False,False,4797.515,12,French Grand Prix
+ALO,22.0,100.452,2.0,HARD,4.0,12,True,Alpine,True,6.0,25.355,30.719,44.378,,False,False,4897.967,12,French Grand Prix
+ALO,23.0,99.78,2.0,HARD,5.0,1,True,Alpine,True,6.0,25.336,30.401,44.043,,False,False,4997.747,12,French Grand Prix
+ALO,24.0,99.396,2.0,HARD,6.0,1,True,Alpine,True,6.0,25.188,30.204,44.004,,False,False,5097.143,12,French Grand Prix
+ALO,25.0,99.294,2.0,HARD,7.0,1,True,Alpine,True,6.0,25.121,30.307,43.866,,False,False,5196.437,12,French Grand Prix
+ALO,26.0,99.531,2.0,HARD,8.0,1,True,Alpine,True,6.0,25.24,30.345,43.946,,False,False,5295.968,12,French Grand Prix
+ALO,27.0,99.326,2.0,HARD,9.0,1,True,Alpine,True,6.0,25.122,30.217,43.987,,False,False,5395.294,12,French Grand Prix
+ALO,28.0,98.948,2.0,HARD,10.0,1,True,Alpine,True,6.0,25.021,30.115,43.812,,False,False,5494.242,12,French Grand Prix
+ALO,29.0,98.957,2.0,HARD,11.0,1,True,Alpine,True,6.0,25.056,30.158,43.743,,False,False,5593.199,12,French Grand Prix
+ALO,30.0,99.551,2.0,HARD,12.0,1,True,Alpine,True,6.0,25.134,30.391,44.026,,False,False,5692.75,12,French Grand Prix
+ALO,31.0,99.323,2.0,HARD,13.0,1,True,Alpine,True,6.0,25.133,30.411,43.779,,False,False,5792.073,12,French Grand Prix
+ALO,32.0,99.307,2.0,HARD,14.0,1,True,Alpine,True,6.0,25.154,30.472,43.681,,False,False,5891.38,12,French Grand Prix
+ALO,33.0,99.313,2.0,HARD,15.0,1,True,Alpine,True,6.0,25.255,30.513,43.545,,False,False,5990.693,12,French Grand Prix
+ALO,34.0,99.742,2.0,HARD,16.0,1,True,Alpine,True,6.0,25.202,30.609,43.931,,False,False,6090.435,12,French Grand Prix
+ALO,35.0,99.887,2.0,HARD,17.0,1,True,Alpine,True,6.0,25.435,30.54,43.912,,False,False,6190.322,12,French Grand Prix
+ALO,36.0,99.674,2.0,HARD,18.0,1,True,Alpine,True,6.0,25.311,30.536,43.827,,False,False,6289.996,12,French Grand Prix
+ALO,37.0,99.555,2.0,HARD,19.0,1,True,Alpine,True,6.0,25.265,30.406,43.884,,False,False,6389.551,12,French Grand Prix
+ALO,38.0,99.958,2.0,HARD,20.0,12,True,Alpine,True,6.0,25.408,30.573,43.977,,False,False,6489.509,12,French Grand Prix
+ALO,39.0,99.306,2.0,HARD,21.0,1,True,Alpine,True,6.0,25.156,30.398,43.752,,False,False,6588.815,12,French Grand Prix
+ALO,40.0,98.95,2.0,HARD,22.0,1,True,Alpine,True,6.0,24.99,30.203,43.757,,False,False,6687.765,12,French Grand Prix
+ALO,41.0,98.752,2.0,HARD,23.0,1,True,Alpine,True,6.0,25.024,30.252,43.476,,False,False,6786.517,12,French Grand Prix
+ALO,42.0,98.917,2.0,HARD,24.0,1,True,Alpine,True,5.0,25.077,30.308,43.532,,False,False,6885.434,12,French Grand Prix
+ALO,43.0,98.851,2.0,HARD,25.0,1,True,Alpine,True,5.0,25.107,30.257,43.487,,False,False,6984.285,12,French Grand Prix
+ALO,44.0,98.774,2.0,HARD,26.0,1,True,Alpine,True,5.0,25.034,30.241,43.499,,False,False,7083.059,12,French Grand Prix
+ALO,45.0,98.715,2.0,HARD,27.0,1,True,Alpine,True,5.0,24.991,30.16,43.564,,False,False,7181.774,12,French Grand Prix
+ALO,46.0,98.289,2.0,HARD,28.0,1,True,Alpine,True,5.0,24.831,30.154,43.304,,False,False,7280.063,12,French Grand Prix
+ALO,47.0,99.492,2.0,HARD,29.0,1,True,Alpine,True,6.0,25.006,30.351,44.135,,False,False,7379.555,12,French Grand Prix
+ALO,48.0,98.931,2.0,HARD,30.0,1,True,Alpine,True,6.0,25.077,30.172,43.682,,False,False,7478.486,12,French Grand Prix
+ALO,49.0,112.086,2.0,HARD,31.0,126,False,Alpine,True,6.0,24.977,30.394,56.715,,False,False,7590.572,12,French Grand Prix
+ALO,50.0,119.741,2.0,HARD,32.0,671,False,Alpine,True,6.0,32.845,42.57,44.326,,False,False,7710.313,12,French Grand Prix
+ALO,51.0,98.37,2.0,HARD,33.0,1,True,Alpine,True,6.0,24.914,30.121,43.335,,False,False,7808.683,12,French Grand Prix
+ALO,52.0,98.636,2.0,HARD,34.0,1,True,Alpine,True,6.0,24.951,30.167,43.518,,False,False,7907.319,12,French Grand Prix
+ALO,53.0,98.16,2.0,HARD,35.0,1,True,Alpine,True,6.0,24.804,30.047,43.309,,False,False,8005.479,12,French Grand Prix
+LEC,1.0,103.351,1.0,MEDIUM,1.0,12,False,Ferrari,True,1.0,,29.614,43.228,,False,False,2663.839,12,French Grand Prix
+LEC,2.0,98.127,1.0,MEDIUM,2.0,1,True,Ferrari,True,1.0,24.948,29.995,43.184,,False,False,2761.966,12,French Grand Prix
+LEC,3.0,98.699,1.0,MEDIUM,3.0,1,True,Ferrari,True,1.0,25.178,30.071,43.45,,False,False,2860.665,12,French Grand Prix
+LEC,4.0,98.088,1.0,MEDIUM,4.0,1,True,Ferrari,True,1.0,24.921,29.872,43.295,,False,False,2958.753,12,French Grand Prix
+LEC,5.0,99.097,1.0,MEDIUM,5.0,1,True,Ferrari,True,1.0,25.014,30.182,43.901,,False,False,3057.85,12,French Grand Prix
+LEC,6.0,98.61,1.0,MEDIUM,6.0,1,True,Ferrari,True,1.0,24.872,30.276,43.462,,False,False,3156.46,12,French Grand Prix
+LEC,7.0,99.288,1.0,MEDIUM,7.0,1,True,Ferrari,True,1.0,25.172,30.234,43.882,,False,False,3255.748,12,French Grand Prix
+LEC,8.0,98.964,1.0,MEDIUM,8.0,1,True,Ferrari,True,1.0,25.118,30.181,43.665,,False,False,3354.712,12,French Grand Prix
+LEC,9.0,99.141,1.0,MEDIUM,9.0,1,True,Ferrari,True,1.0,25.172,30.211,43.758,,False,False,3453.853,12,French Grand Prix
+LEC,10.0,98.855,1.0,MEDIUM,10.0,1,True,Ferrari,True,1.0,25.197,30.311,43.347,,False,False,3552.708,12,French Grand Prix
+LEC,11.0,99.344,1.0,MEDIUM,11.0,1,True,Ferrari,True,1.0,25.224,30.158,43.962,,False,False,3652.052,12,French Grand Prix
+LEC,12.0,99.046,1.0,MEDIUM,12.0,1,True,Ferrari,True,1.0,25.017,30.16,43.869,,False,False,3751.098,12,French Grand Prix
+LEC,13.0,98.658,1.0,MEDIUM,13.0,1,True,Ferrari,True,1.0,24.967,30.177,43.514,,False,False,3849.756,12,French Grand Prix
+LEC,14.0,99.012,1.0,MEDIUM,14.0,1,True,Ferrari,True,1.0,25.224,30.261,43.527,,False,False,3948.768,12,French Grand Prix
+LEC,15.0,98.844,1.0,MEDIUM,15.0,1,True,Ferrari,True,1.0,25.083,30.216,43.545,,False,False,4047.612,12,French Grand Prix
+LEC,16.0,98.855,1.0,MEDIUM,16.0,1,True,Ferrari,True,1.0,24.958,30.288,43.609,,False,False,4146.467,12,French Grand Prix
+LEC,17.0,98.963,1.0,MEDIUM,17.0,1,True,Ferrari,True,1.0,25.242,30.209,43.512,,False,False,4245.43,12,French Grand Prix
+LEC,18.0,,1.0,MEDIUM,18.0,124,False,Ferrari,True,,,,,,False,False,4395.43,12,French Grand Prix
+STR,1.0,111.666,1.0,MEDIUM,3.0,12,False,Aston Martin,False,10.0,,32.022,44.521,,False,False,2672.154,12,French Grand Prix
+STR,2.0,100.753,1.0,MEDIUM,4.0,1,True,Aston Martin,False,10.0,25.748,30.632,44.373,,False,False,2772.907,12,French Grand Prix
+STR,3.0,100.451,1.0,MEDIUM,5.0,1,True,Aston Martin,False,10.0,25.833,30.33,44.288,,False,False,2873.358,12,French Grand Prix
+STR,4.0,100.102,1.0,MEDIUM,6.0,1,True,Aston Martin,False,10.0,25.595,30.077,44.43,,False,False,2973.46,12,French Grand Prix
+STR,5.0,100.139,1.0,MEDIUM,7.0,1,True,Aston Martin,False,10.0,25.497,30.42,44.222,,False,False,3073.599,12,French Grand Prix
+STR,6.0,100.43,1.0,MEDIUM,8.0,1,True,Aston Martin,False,10.0,25.679,30.33,44.421,,False,False,3174.029,12,French Grand Prix
+STR,7.0,100.753,1.0,MEDIUM,9.0,1,True,Aston Martin,False,10.0,25.659,30.516,44.578,,False,False,3274.782,12,French Grand Prix
+STR,8.0,100.691,1.0,MEDIUM,10.0,1,True,Aston Martin,False,10.0,25.584,30.477,44.63,,False,False,3375.473,12,French Grand Prix
+STR,9.0,100.599,1.0,MEDIUM,11.0,1,True,Aston Martin,False,10.0,25.599,30.541,44.459,,False,False,3476.072,12,French Grand Prix
+STR,10.0,100.772,1.0,MEDIUM,12.0,1,True,Aston Martin,False,10.0,25.594,30.53,44.648,,False,False,3576.844,12,French Grand Prix
+STR,11.0,100.739,1.0,MEDIUM,13.0,1,True,Aston Martin,False,10.0,25.598,30.515,44.626,,False,False,3677.583,12,French Grand Prix
+STR,12.0,100.789,1.0,MEDIUM,14.0,1,True,Aston Martin,False,10.0,25.639,30.486,44.664,,False,False,3778.372,12,French Grand Prix
+STR,13.0,102.019,1.0,MEDIUM,15.0,1,True,Aston Martin,False,11.0,25.884,31.318,44.817,,False,False,3880.391,12,French Grand Prix
+STR,14.0,100.823,1.0,MEDIUM,16.0,1,True,Aston Martin,False,11.0,25.761,30.516,44.546,,False,False,3981.214,12,French Grand Prix
+STR,15.0,100.593,1.0,MEDIUM,17.0,1,True,Aston Martin,False,11.0,25.773,30.567,44.253,,False,False,4081.807,12,French Grand Prix
+STR,16.0,100.675,1.0,MEDIUM,18.0,1,True,Aston Martin,False,11.0,25.582,30.601,44.492,,False,False,4182.482,12,French Grand Prix
+STR,17.0,100.736,1.0,MEDIUM,19.0,1,True,Aston Martin,False,11.0,25.693,30.544,44.499,,False,False,4283.218,12,French Grand Prix
+STR,18.0,138.213,1.0,MEDIUM,20.0,124,False,Aston Martin,False,12.0,25.666,33.234,79.313,,True,False,4421.431,12,French Grand Prix
+STR,19.0,138.541,2.0,HARD,2.0,4,False,Aston Martin,False,10.0,41.024,41.597,55.92,,False,True,4559.972,12,French Grand Prix
+STR,20.0,140.153,2.0,HARD,3.0,41,False,Aston Martin,False,10.0,30.353,44.191,65.609,,False,False,4700.125,12,French Grand Prix
+STR,21.0,101.049,2.0,HARD,4.0,1,True,Aston Martin,False,10.0,26.045,30.469,44.535,,False,False,4801.174,12,French Grand Prix
+STR,22.0,100.435,2.0,HARD,5.0,12,True,Aston Martin,False,10.0,25.588,30.421,44.426,,False,False,4901.609,12,French Grand Prix
+STR,23.0,99.849,2.0,HARD,6.0,1,True,Aston Martin,False,10.0,25.518,30.279,44.052,,False,False,5001.458,12,French Grand Prix
+STR,24.0,99.759,2.0,HARD,7.0,1,True,Aston Martin,False,10.0,25.347,30.265,44.147,,False,False,5101.217,12,French Grand Prix
+STR,25.0,99.738,2.0,HARD,8.0,1,True,Aston Martin,False,10.0,25.353,30.242,44.143,,False,False,5200.955,12,French Grand Prix
+STR,26.0,99.647,2.0,HARD,9.0,1,True,Aston Martin,False,10.0,25.369,30.309,43.969,,False,False,5300.602,12,French Grand Prix
+STR,27.0,99.705,2.0,HARD,10.0,1,True,Aston Martin,False,10.0,25.502,30.17,44.033,,False,False,5400.307,12,French Grand Prix
+STR,28.0,99.511,2.0,HARD,11.0,1,True,Aston Martin,False,10.0,25.302,30.19,44.019,,False,False,5499.818,12,French Grand Prix
+STR,29.0,99.524,2.0,HARD,12.0,1,True,Aston Martin,False,10.0,25.347,30.235,43.942,,False,False,5599.342,12,French Grand Prix
+STR,30.0,99.77,2.0,HARD,13.0,1,True,Aston Martin,False,10.0,25.188,30.406,44.176,,False,False,5699.112,12,French Grand Prix
+STR,31.0,100.177,2.0,HARD,14.0,1,True,Aston Martin,False,10.0,25.409,30.418,44.35,,False,False,5799.289,12,French Grand Prix
+STR,32.0,99.695,2.0,HARD,15.0,1,True,Aston Martin,False,10.0,25.276,30.493,43.926,,False,False,5898.984,12,French Grand Prix
+STR,33.0,99.796,2.0,HARD,16.0,1,True,Aston Martin,False,10.0,25.276,30.544,43.976,,False,False,5998.78,12,French Grand Prix
+STR,34.0,99.905,2.0,HARD,17.0,1,True,Aston Martin,False,10.0,25.314,30.601,43.99,,False,False,6098.685,12,French Grand Prix
+STR,35.0,100.215,2.0,HARD,18.0,1,True,Aston Martin,False,10.0,25.486,30.551,44.178,,False,False,6198.9,12,French Grand Prix
+STR,36.0,99.978,2.0,HARD,19.0,1,True,Aston Martin,False,10.0,25.506,30.424,44.048,,False,False,6298.878,12,French Grand Prix
+STR,37.0,99.947,2.0,HARD,20.0,1,True,Aston Martin,False,10.0,25.395,30.371,44.181,,False,False,6398.825,12,French Grand Prix
+STR,38.0,100.066,2.0,HARD,21.0,12,True,Aston Martin,False,10.0,25.439,30.446,44.181,,False,False,6498.891,12,French Grand Prix
+STR,39.0,99.739,2.0,HARD,22.0,1,True,Aston Martin,False,10.0,25.411,30.362,43.966,,False,False,6598.63,12,French Grand Prix
+STR,40.0,99.556,2.0,HARD,23.0,1,True,Aston Martin,False,10.0,25.17,30.405,43.981,,False,False,6698.186,12,French Grand Prix
+STR,41.0,99.449,2.0,HARD,24.0,1,True,Aston Martin,False,10.0,25.244,30.404,43.801,,False,False,6797.635,12,French Grand Prix
+STR,42.0,99.375,2.0,HARD,25.0,1,True,Aston Martin,False,10.0,25.304,30.41,43.661,,False,False,6897.01,12,French Grand Prix
+STR,43.0,99.44,2.0,HARD,26.0,1,True,Aston Martin,False,10.0,25.428,30.413,43.599,,False,False,6996.45,12,French Grand Prix
+STR,44.0,99.566,2.0,HARD,27.0,1,True,Aston Martin,False,10.0,25.313,30.473,43.78,,False,False,7096.016,12,French Grand Prix
+STR,45.0,99.766,2.0,HARD,28.0,1,True,Aston Martin,False,10.0,25.43,30.34,43.996,,False,False,7195.782,12,French Grand Prix
+STR,46.0,99.358,2.0,HARD,29.0,1,True,Aston Martin,False,10.0,25.316,30.33,43.712,,False,False,7295.14,12,French Grand Prix
+STR,47.0,99.285,2.0,HARD,30.0,1,True,Aston Martin,False,10.0,25.274,30.159,43.852,,False,False,7394.425,12,French Grand Prix
+STR,48.0,99.467,2.0,HARD,31.0,1,True,Aston Martin,False,10.0,25.4,30.24,43.827,,False,False,7493.892,12,French Grand Prix
+STR,49.0,118.265,2.0,HARD,32.0,1267,False,Aston Martin,False,10.0,25.417,30.498,62.35,,False,False,7612.157,12,French Grand Prix
+STR,50.0,113.791,2.0,HARD,33.0,71,False,Aston Martin,False,10.0,33.2,36.927,43.664,,False,False,7725.948,12,French Grand Prix
+STR,51.0,99.411,2.0,HARD,34.0,1,True,Aston Martin,False,10.0,25.474,30.334,43.603,,False,False,7825.359,12,French Grand Prix
+STR,52.0,99.185,2.0,HARD,35.0,1,True,Aston Martin,False,10.0,25.295,30.184,43.706,,False,False,7924.544,12,French Grand Prix
+STR,53.0,100.605,2.0,HARD,36.0,1,True,Aston Martin,False,10.0,25.397,30.561,44.647,,False,False,8025.149,12,French Grand Prix
+MAG,1.0,113.204,1.0,MEDIUM,1.0,12,False,Haas F1 Team,True,13.0,,31.492,45.343,,False,False,2673.692,12,French Grand Prix
+MAG,2.0,101.11,1.0,MEDIUM,2.0,1,True,Haas F1 Team,True,12.0,26.058,30.577,44.475,,False,False,2774.802,12,French Grand Prix
+MAG,3.0,100.01,1.0,MEDIUM,3.0,1,True,Haas F1 Team,True,12.0,25.453,30.111,44.446,,False,False,2874.812,12,French Grand Prix
+MAG,4.0,100.145,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,12.0,25.529,30.149,44.467,,False,False,2974.957,12,French Grand Prix
+MAG,5.0,100.336,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,12.0,25.502,30.295,44.539,,False,False,3075.293,12,French Grand Prix
+MAG,6.0,100.326,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,12.0,25.441,30.325,44.56,,False,False,3175.619,12,French Grand Prix
+MAG,7.0,100.799,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,12.0,25.583,30.35,44.866,,False,False,3276.418,12,French Grand Prix
+MAG,8.0,121.961,1.0,MEDIUM,8.0,1,False,Haas F1 Team,True,20.0,25.794,31.172,64.995,,True,False,3398.379,12,French Grand Prix
+MAG,9.0,107.36,2.0,HARD,1.0,1,False,Haas F1 Team,True,19.0,33.178,30.461,43.721,,False,True,3505.739,12,French Grand Prix
+MAG,10.0,100.029,2.0,HARD,2.0,1,True,Haas F1 Team,True,18.0,25.357,30.548,44.124,,False,False,3605.768,12,French Grand Prix
+MAG,11.0,99.265,2.0,HARD,3.0,1,True,Haas F1 Team,True,17.0,25.014,30.402,43.849,,False,False,3705.033,12,French Grand Prix
+MAG,12.0,99.581,2.0,HARD,4.0,1,True,Haas F1 Team,True,17.0,25.235,30.345,44.001,,False,False,3804.614,12,French Grand Prix
+MAG,13.0,99.978,2.0,HARD,5.0,1,True,Haas F1 Team,True,17.0,25.369,30.462,44.147,,False,False,3904.592,12,French Grand Prix
+MAG,14.0,100.156,2.0,HARD,6.0,1,True,Haas F1 Team,True,17.0,25.366,30.5,44.29,,False,False,4004.748,12,French Grand Prix
+MAG,15.0,100.534,2.0,HARD,7.0,1,True,Haas F1 Team,True,17.0,25.341,30.571,44.622,,False,False,4105.282,12,French Grand Prix
+MAG,16.0,100.459,2.0,HARD,8.0,1,True,Haas F1 Team,True,17.0,25.234,30.64,44.585,,False,False,4205.741,12,French Grand Prix
+MAG,17.0,100.722,2.0,HARD,9.0,1,True,Haas F1 Team,True,17.0,25.458,30.535,44.729,,False,False,4306.463,12,French Grand Prix
+MAG,18.0,141.666,2.0,HARD,10.0,124,False,Haas F1 Team,True,17.0,25.441,43.773,72.452,,True,False,4448.129,12,French Grand Prix
+MAG,19.0,140.952,3.0,HARD,1.0,4,False,Haas F1 Team,True,17.0,40.932,41.42,58.6,,False,True,4589.081,12,French Grand Prix
+MAG,20.0,115.315,3.0,HARD,2.0,41,False,Haas F1 Team,True,17.0,26.39,32.754,56.171,,False,False,4704.396,12,French Grand Prix
+MAG,21.0,100.549,3.0,HARD,3.0,1,True,Haas F1 Team,True,17.0,25.806,30.543,44.2,,False,False,4804.945,12,French Grand Prix
+MAG,22.0,100.355,3.0,HARD,4.0,12,True,Haas F1 Team,True,16.0,25.595,30.356,44.404,,False,False,4905.3,12,French Grand Prix
+MAG,23.0,100.42,3.0,HARD,5.0,1,True,Haas F1 Team,True,15.0,25.957,29.986,44.477,,False,False,5005.72,12,French Grand Prix
+MAG,24.0,99.671,3.0,HARD,6.0,1,True,Haas F1 Team,True,15.0,25.312,30.064,44.295,,False,False,5105.391,12,French Grand Prix
+MAG,25.0,99.807,3.0,HARD,7.0,1,True,Haas F1 Team,True,15.0,25.458,29.923,44.426,,False,False,5205.198,12,French Grand Prix
+MAG,26.0,99.79,3.0,HARD,8.0,1,True,Haas F1 Team,True,15.0,25.393,30.051,44.346,,False,False,5304.988,12,French Grand Prix
+MAG,27.0,99.882,3.0,HARD,9.0,1,True,Haas F1 Team,True,15.0,25.518,29.992,44.372,,False,False,5404.87,12,French Grand Prix
+MAG,28.0,99.99,3.0,HARD,10.0,1,True,Haas F1 Team,True,14.0,25.483,29.923,44.584,,False,False,5504.86,12,French Grand Prix
+MAG,29.0,99.793,3.0,HARD,11.0,1,True,Haas F1 Team,True,14.0,25.418,30.024,44.351,,False,False,5604.653,12,French Grand Prix
+MAG,30.0,100.098,3.0,HARD,12.0,1,True,Haas F1 Team,True,14.0,25.392,30.311,44.395,,False,False,5704.751,12,French Grand Prix
+MAG,31.0,100.177,3.0,HARD,13.0,1,True,Haas F1 Team,True,14.0,25.423,30.31,44.444,,False,False,5804.928,12,French Grand Prix
+MAG,32.0,99.781,3.0,HARD,14.0,1,True,Haas F1 Team,True,14.0,25.444,30.392,43.945,,False,False,5904.709,12,French Grand Prix
+MAG,33.0,100.405,3.0,HARD,15.0,1,True,Haas F1 Team,True,14.0,25.42,30.587,44.398,,False,False,6005.114,12,French Grand Prix
+MAG,34.0,100.029,3.0,HARD,16.0,1,True,Haas F1 Team,True,14.0,25.357,30.557,44.115,,False,False,6105.143,12,French Grand Prix
+MAG,35.0,100.373,3.0,HARD,17.0,1,True,Haas F1 Team,True,14.0,25.467,30.787,44.119,,False,False,6205.516,12,French Grand Prix
+MAG,36.0,101.523,3.0,HARD,18.0,1,True,Haas F1 Team,True,14.0,25.515,30.997,45.011,,False,False,6307.039,12,French Grand Prix
+MAG,37.0,100.667,3.0,HARD,19.0,1,True,Haas F1 Team,True,14.0,25.419,30.732,44.516,,False,False,6407.706,12,French Grand Prix
+MAG,38.0,,3.0,HARD,20.0,12,False,Haas F1 Team,True,14.0,,,,,True,False,6508.487,12,French Grand Prix
+TSU,1.0,122.423,1.0,MEDIUM,1.0,12,False,AlphaTauri,True,20.0,,42.852,45.432,,False,False,2682.911,12,French Grand Prix
+TSU,2.0,100.24,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,20.0,25.504,30.377,44.359,,False,False,2783.151,12,French Grand Prix
+TSU,3.0,100.619,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,20.0,25.558,30.541,44.52,,False,False,2883.77,12,French Grand Prix
+TSU,4.0,100.216,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,20.0,25.585,30.298,44.333,,False,False,2983.986,12,French Grand Prix
+TSU,5.0,100.672,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,20.0,25.489,30.553,44.63,,False,False,3084.658,12,French Grand Prix
+TSU,6.0,100.944,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,20.0,25.636,30.785,44.523,,False,False,3185.602,12,French Grand Prix
+TSU,7.0,101.138,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,20.0,25.744,30.631,44.763,,False,False,3286.74,12,French Grand Prix
+TSU,8.0,100.735,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,19.0,25.521,30.613,44.601,,False,False,3387.475,12,French Grand Prix
+TSU,9.0,101.117,1.0,MEDIUM,9.0,1,True,AlphaTauri,True,17.0,25.567,30.784,44.766,,False,False,3488.592,12,French Grand Prix
+TSU,10.0,102.007,1.0,MEDIUM,10.0,1,True,AlphaTauri,True,17.0,25.831,30.861,45.315,,False,False,3590.599,12,French Grand Prix
+TSU,11.0,124.195,1.0,MEDIUM,11.0,1,False,AlphaTauri,True,19.0,26.401,31.087,66.707,,True,False,3714.794,12,French Grand Prix
+TSU,12.0,110.63,2.0,HARD,1.0,1,False,AlphaTauri,True,20.0,34.945,30.858,44.827,,False,True,3825.424,12,French Grand Prix
+TSU,13.0,101.601,2.0,HARD,2.0,1,True,AlphaTauri,True,20.0,25.903,31.007,44.691,,False,False,3927.025,12,French Grand Prix
+TSU,14.0,101.728,2.0,HARD,3.0,1,True,AlphaTauri,True,20.0,25.861,30.918,44.949,,False,False,4028.753,12,French Grand Prix
+TSU,15.0,101.886,2.0,HARD,4.0,1,True,AlphaTauri,True,20.0,25.746,30.971,45.169,,False,False,4130.639,12,French Grand Prix
+TSU,16.0,102.279,2.0,HARD,5.0,1,True,AlphaTauri,True,20.0,25.974,30.846,45.459,,False,False,4232.918,12,French Grand Prix
+TSU,17.0,102.297,2.0,HARD,6.0,12,True,AlphaTauri,True,20.0,26.026,31.095,45.176,,False,False,4335.215,12,French Grand Prix
+TSU,18.0,,2.0,HARD,7.0,24,False,AlphaTauri,True,18.0,34.107,41.575,,,True,False,4458.964,12,French Grand Prix
+ALB,1.0,112.802,1.0,MEDIUM,1.0,12,False,Williams,True,12.0,,31.639,45.664,,False,False,2673.29,12,French Grand Prix
+ALB,2.0,102.001,1.0,MEDIUM,2.0,1,True,Williams,True,13.0,26.101,30.492,45.408,,False,False,2775.291,12,French Grand Prix
+ALB,3.0,100.395,1.0,MEDIUM,3.0,1,True,Williams,True,13.0,25.674,30.094,44.627,,False,False,2875.686,12,French Grand Prix
+ALB,4.0,100.423,1.0,MEDIUM,4.0,1,True,Williams,True,13.0,25.342,30.059,45.022,,False,False,2976.109,12,French Grand Prix
+ALB,5.0,101.576,1.0,MEDIUM,5.0,1,True,Williams,True,14.0,25.576,31.071,44.929,,False,False,3077.685,12,French Grand Prix
+ALB,6.0,100.279,1.0,MEDIUM,6.0,1,True,Williams,True,14.0,25.347,30.338,44.594,,False,False,3177.964,12,French Grand Prix
+ALB,7.0,100.884,1.0,MEDIUM,7.0,1,True,Williams,True,14.0,25.581,30.576,44.727,,False,False,3278.848,12,French Grand Prix
+ALB,8.0,100.379,1.0,MEDIUM,8.0,1,True,Williams,True,13.0,25.376,30.438,44.565,,False,False,3379.227,12,French Grand Prix
+ALB,9.0,100.265,1.0,MEDIUM,9.0,1,True,Williams,True,13.0,25.259,30.509,44.497,,False,False,3479.492,12,French Grand Prix
+ALB,10.0,100.865,1.0,MEDIUM,10.0,1,True,Williams,True,13.0,25.585,30.621,44.659,,False,False,3580.357,12,French Grand Prix
+ALB,11.0,101.072,1.0,MEDIUM,11.0,1,True,Williams,True,13.0,25.589,30.546,44.937,,False,False,3681.429,12,French Grand Prix
+ALB,12.0,100.702,1.0,MEDIUM,12.0,1,True,Williams,True,13.0,25.62,30.434,44.648,,False,False,3782.131,12,French Grand Prix
+ALB,13.0,101.235,1.0,MEDIUM,13.0,1,True,Williams,True,13.0,25.729,30.824,44.682,,False,False,3883.366,12,French Grand Prix
+ALB,14.0,101.371,1.0,MEDIUM,14.0,1,True,Williams,True,13.0,25.653,30.672,45.046,,False,False,3984.737,12,French Grand Prix
+ALB,15.0,100.944,1.0,MEDIUM,15.0,1,True,Williams,True,13.0,25.598,30.451,44.895,,False,False,4085.681,12,French Grand Prix
+ALB,16.0,101.056,1.0,MEDIUM,16.0,1,True,Williams,True,13.0,25.512,30.588,44.956,,False,False,4186.737,12,French Grand Prix
+ALB,17.0,101.107,1.0,MEDIUM,17.0,1,True,Williams,True,13.0,25.797,30.484,44.826,,False,False,4287.844,12,French Grand Prix
+ALB,18.0,136.977,1.0,MEDIUM,18.0,124,False,Williams,True,13.0,25.545,36.3,75.132,,True,False,4424.821,12,French Grand Prix
+ALB,19.0,139.154,2.0,HARD,1.0,4,False,Williams,True,11.0,41.18,42.672,55.302,,False,True,4563.975,12,French Grand Prix
+ALB,20.0,136.812,2.0,HARD,2.0,41,False,Williams,True,11.0,29.259,43.154,64.399,,False,False,4700.787,12,French Grand Prix
+ALB,21.0,100.853,2.0,HARD,3.0,1,True,Williams,True,11.0,25.738,30.493,44.622,,False,False,4801.64,12,French Grand Prix
+ALB,22.0,101.067,2.0,HARD,4.0,12,True,Williams,True,11.0,25.696,30.421,44.95,,False,False,4902.707,12,French Grand Prix
+ALB,23.0,100.35,2.0,HARD,5.0,1,True,Williams,True,11.0,25.545,30.295,44.51,,False,False,5003.057,12,French Grand Prix
+ALB,24.0,99.92,2.0,HARD,6.0,1,True,Williams,True,11.0,25.113,30.249,44.558,,False,False,5102.977,12,French Grand Prix
+ALB,25.0,99.779,2.0,HARD,7.0,1,True,Williams,True,11.0,25.089,30.401,44.289,,False,False,5202.756,12,French Grand Prix
+ALB,26.0,99.804,2.0,HARD,8.0,1,True,Williams,True,11.0,25.147,30.348,44.309,,False,False,5302.56,12,French Grand Prix
+ALB,27.0,99.819,2.0,HARD,9.0,1,True,Williams,True,11.0,25.306,30.289,44.224,,False,False,5402.379,12,French Grand Prix
+ALB,28.0,100.117,2.0,HARD,10.0,1,True,Williams,True,11.0,25.118,30.707,44.292,,False,False,5502.496,12,French Grand Prix
+ALB,29.0,99.762,2.0,HARD,11.0,1,True,Williams,True,11.0,25.297,30.339,44.126,,False,False,5602.258,12,French Grand Prix
+ALB,30.0,99.656,2.0,HARD,12.0,1,True,Williams,True,11.0,25.018,30.443,44.195,,False,False,5701.914,12,French Grand Prix
+ALB,31.0,99.839,2.0,HARD,13.0,1,True,Williams,True,11.0,25.127,30.432,44.28,,False,False,5801.753,12,French Grand Prix
+ALB,32.0,99.551,2.0,HARD,14.0,1,True,Williams,True,11.0,25.13,30.44,43.981,,False,False,5901.304,12,French Grand Prix
+ALB,33.0,100.0,2.0,HARD,15.0,1,True,Williams,True,11.0,25.198,30.639,44.163,,False,False,6001.304,12,French Grand Prix
+ALB,34.0,99.729,2.0,HARD,16.0,1,True,Williams,True,11.0,25.206,30.441,44.082,,False,False,6101.033,12,French Grand Prix
+ALB,35.0,100.042,2.0,HARD,17.0,1,True,Williams,True,11.0,25.329,30.462,44.251,,False,False,6201.075,12,French Grand Prix
+ALB,36.0,100.095,2.0,HARD,18.0,1,True,Williams,True,11.0,25.264,30.607,44.224,,False,False,6301.17,12,French Grand Prix
+ALB,37.0,99.875,2.0,HARD,19.0,1,True,Williams,True,11.0,25.21,30.439,44.226,,False,False,6401.045,12,French Grand Prix
+ALB,38.0,100.713,2.0,HARD,20.0,12,True,Williams,True,11.0,25.387,30.543,44.783,,False,False,6501.758,12,French Grand Prix
+ALB,39.0,101.366,2.0,HARD,21.0,1,True,Williams,True,12.0,26.203,30.412,44.751,,False,False,6603.124,12,French Grand Prix
+ALB,40.0,100.09,2.0,HARD,22.0,1,True,Williams,True,12.0,25.338,30.435,44.317,,False,False,6703.214,12,French Grand Prix
+ALB,41.0,99.854,2.0,HARD,23.0,1,True,Williams,True,12.0,25.241,30.298,44.315,,False,False,6803.068,12,French Grand Prix
+ALB,42.0,99.853,2.0,HARD,24.0,1,True,Williams,True,12.0,25.335,30.401,44.117,,False,False,6902.921,12,French Grand Prix
+ALB,43.0,99.551,2.0,HARD,25.0,1,True,Williams,True,12.0,25.292,30.537,43.722,,False,False,7002.472,12,French Grand Prix
+ALB,44.0,99.638,2.0,HARD,26.0,1,True,Williams,True,12.0,25.14,30.514,43.984,,False,False,7102.11,12,French Grand Prix
+ALB,45.0,99.449,2.0,HARD,27.0,1,True,Williams,True,12.0,25.224,30.22,44.005,,False,False,7201.559,12,French Grand Prix
+ALB,46.0,99.857,2.0,HARD,28.0,1,True,Williams,True,12.0,25.064,30.377,44.416,,False,False,7301.416,12,French Grand Prix
+ALB,47.0,101.357,2.0,HARD,29.0,1,True,Williams,True,13.0,26.126,30.588,44.643,,False,False,7402.773,12,French Grand Prix
+ALB,48.0,99.495,2.0,HARD,30.0,1,True,Williams,True,13.0,25.077,30.28,44.138,,False,False,7502.268,12,French Grand Prix
+ALB,49.0,119.985,2.0,HARD,31.0,1267,False,Williams,True,13.0,25.221,36.505,58.259,,False,False,7622.253,12,French Grand Prix
+ALB,50.0,110.932,2.0,HARD,32.0,71,False,Williams,True,13.0,33.355,33.515,44.062,,False,False,7733.185,12,French Grand Prix
+ALB,51.0,99.475,2.0,HARD,33.0,1,True,Williams,True,13.0,25.119,30.353,44.003,,False,False,7832.66,12,French Grand Prix
+ALB,52.0,99.306,2.0,HARD,34.0,1,True,Williams,True,13.0,25.018,30.33,43.958,,False,False,7931.966,12,French Grand Prix
+ALB,53.0,99.199,2.0,HARD,35.0,1,True,Williams,True,13.0,24.818,30.23,44.151,,False,False,8031.165,12,French Grand Prix
+ZHO,1.0,115.29,1.0,MEDIUM,1.0,12,False,Alfa Romeo,True,19.0,,31.77,46.457,,False,False,2675.778,12,French Grand Prix
+ZHO,2.0,103.13,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,19.0,26.933,30.717,45.48,,False,False,2778.908,12,French Grand Prix
+ZHO,3.0,101.256,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,19.0,26.018,30.273,44.965,,False,False,2880.164,12,French Grand Prix
+ZHO,4.0,101.111,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,19.0,25.891,30.352,44.868,,False,False,2981.275,12,French Grand Prix
+ZHO,5.0,100.779,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,19.0,25.775,30.198,44.806,,False,False,3082.054,12,French Grand Prix
+ZHO,6.0,100.816,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,19.0,25.771,30.318,44.727,,False,False,3182.87,12,French Grand Prix
+ZHO,7.0,101.176,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,19.0,25.751,30.33,45.095,,False,False,3284.046,12,French Grand Prix
+ZHO,8.0,100.806,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,18.0,25.688,30.34,44.778,,False,False,3384.852,12,French Grand Prix
+ZHO,9.0,121.165,1.0,MEDIUM,9.0,1,False,Alfa Romeo,True,20.0,25.682,30.491,64.992,,True,False,3506.017,12,French Grand Prix
+ZHO,10.0,108.448,2.0,HARD,1.0,1,False,Alfa Romeo,True,20.0,33.764,30.612,44.072,,False,True,3614.465,12,French Grand Prix
+ZHO,11.0,100.822,2.0,HARD,2.0,1,True,Alfa Romeo,True,20.0,25.711,30.57,44.541,,False,False,3715.287,12,French Grand Prix
+ZHO,12.0,100.129,2.0,HARD,3.0,1,True,Alfa Romeo,True,19.0,25.548,30.426,44.155,,False,False,3815.416,12,French Grand Prix
+ZHO,13.0,100.408,2.0,HARD,4.0,1,True,Alfa Romeo,True,19.0,25.636,30.597,44.175,,False,False,3915.824,12,French Grand Prix
+ZHO,14.0,100.391,2.0,HARD,5.0,1,True,Alfa Romeo,True,19.0,25.421,30.658,44.312,,False,False,4016.215,12,French Grand Prix
+ZHO,15.0,100.232,2.0,HARD,6.0,1,True,Alfa Romeo,True,19.0,25.454,30.544,44.234,,False,False,4116.447,12,French Grand Prix
+ZHO,16.0,100.37,2.0,HARD,7.0,1,True,Alfa Romeo,True,19.0,25.452,30.445,44.473,,False,False,4216.817,12,French Grand Prix
+ZHO,17.0,100.327,2.0,HARD,8.0,12,True,Alfa Romeo,True,19.0,25.549,30.547,44.231,,False,False,4317.144,12,French Grand Prix
+ZHO,18.0,130.145,2.0,HARD,9.0,24,False,Alfa Romeo,True,16.0,26.591,43.222,60.332,,False,False,4447.289,12,French Grand Prix
+ZHO,19.0,132.365,2.0,HARD,10.0,4,False,Alfa Romeo,True,16.0,34.033,41.37,56.962,,False,False,4579.654,12,French Grand Prix
+ZHO,20.0,124.356,2.0,HARD,11.0,41,False,Alfa Romeo,True,16.0,28.995,37.167,58.194,,False,False,4704.01,12,French Grand Prix
+ZHO,21.0,100.864,2.0,HARD,12.0,1,True,Alfa Romeo,True,16.0,25.788,30.479,44.597,,False,False,4804.874,12,French Grand Prix
+ZHO,22.0,144.607,2.0,HARD,13.0,12,False,Alfa Romeo,True,18.0,26.495,30.518,87.594,,True,False,4949.481,12,French Grand Prix
+ZHO,23.0,108.747,3.0,HARD,1.0,1,False,Alfa Romeo,True,18.0,33.503,30.591,44.653,,False,True,5058.228,12,French Grand Prix
+ZHO,24.0,99.75,3.0,HARD,2.0,1,True,Alfa Romeo,True,18.0,25.416,30.181,44.153,,False,False,5157.978,12,French Grand Prix
+ZHO,25.0,99.368,3.0,HARD,3.0,1,True,Alfa Romeo,True,18.0,25.164,30.215,43.989,,False,False,5257.346,12,French Grand Prix
+ZHO,26.0,99.449,3.0,HARD,4.0,1,True,Alfa Romeo,True,18.0,25.301,30.225,43.923,,False,False,5356.795,12,French Grand Prix
+ZHO,27.0,99.833,3.0,HARD,5.0,1,True,Alfa Romeo,True,18.0,25.439,30.193,44.201,,False,False,5456.628,12,French Grand Prix
+ZHO,28.0,99.483,3.0,HARD,6.0,1,True,Alfa Romeo,True,18.0,25.302,30.17,44.011,,False,False,5556.111,12,French Grand Prix
+ZHO,29.0,99.369,3.0,HARD,7.0,1,True,Alfa Romeo,True,18.0,25.279,30.193,43.897,,False,False,5655.48,12,French Grand Prix
+ZHO,30.0,99.988,3.0,HARD,8.0,1,True,Alfa Romeo,True,18.0,25.273,30.505,44.21,,False,False,5755.468,12,French Grand Prix
+ZHO,31.0,99.868,3.0,HARD,9.0,1,True,Alfa Romeo,True,18.0,25.307,30.501,44.06,,False,False,5855.336,12,French Grand Prix
+ZHO,32.0,100.349,3.0,HARD,10.0,1,True,Alfa Romeo,True,18.0,25.324,30.513,44.512,,False,False,5955.685,12,French Grand Prix
+ZHO,33.0,99.877,3.0,HARD,11.0,1,True,Alfa Romeo,True,18.0,25.459,30.426,43.992,,False,False,6055.562,12,French Grand Prix
+ZHO,34.0,100.229,3.0,HARD,12.0,1,True,Alfa Romeo,True,18.0,25.449,30.675,44.105,,False,False,6155.791,12,French Grand Prix
+ZHO,35.0,100.235,3.0,HARD,13.0,1,True,Alfa Romeo,True,18.0,25.54,30.543,44.152,,False,False,6256.026,12,French Grand Prix
+ZHO,36.0,100.366,3.0,HARD,14.0,1,True,Alfa Romeo,True,18.0,25.617,30.589,44.16,,False,False,6356.392,12,French Grand Prix
+ZHO,37.0,102.069,3.0,HARD,15.0,12,True,Alfa Romeo,True,18.0,25.458,30.589,46.022,,False,False,6458.461,12,French Grand Prix
+ZHO,38.0,100.839,3.0,HARD,16.0,1,True,Alfa Romeo,True,18.0,25.698,30.664,44.477,,False,False,6559.3,12,French Grand Prix
+ZHO,39.0,100.223,3.0,HARD,17.0,1,True,Alfa Romeo,True,17.0,25.538,30.41,44.275,,False,False,6659.523,12,French Grand Prix
+ZHO,40.0,102.354,3.0,HARD,18.0,1,True,Alfa Romeo,True,17.0,27.25,30.791,44.313,,False,False,6761.877,12,French Grand Prix
+ZHO,41.0,105.418,3.0,HARD,19.0,1,True,Alfa Romeo,True,17.0,25.52,31.771,48.127,,False,False,6867.295,12,French Grand Prix
+ZHO,42.0,100.119,3.0,HARD,20.0,1,True,Alfa Romeo,True,16.0,25.609,30.461,44.049,,False,False,6967.414,12,French Grand Prix
+ZHO,43.0,99.877,3.0,HARD,21.0,1,True,Alfa Romeo,True,16.0,25.563,30.48,43.834,,False,False,7067.291,12,French Grand Prix
+ZHO,44.0,101.794,3.0,HARD,22.0,1,True,Alfa Romeo,True,16.0,25.409,30.364,46.021,,False,False,7169.085,12,French Grand Prix
+ZHO,45.0,100.046,3.0,HARD,23.0,1,True,Alfa Romeo,True,16.0,25.538,30.436,44.072,,False,False,7269.131,12,French Grand Prix
+ZHO,46.0,100.027,3.0,HARD,24.0,1,True,Alfa Romeo,True,16.0,25.467,30.421,44.139,,False,False,7369.158,12,French Grand Prix
+ZHO,47.0,102.395,3.0,HARD,25.0,1,True,Alfa Romeo,True,16.0,25.439,30.652,46.304,,False,False,7471.553,12,French Grand Prix
+ZHO,48.0,,3.0,HARD,26.0,1267,False,Alfa Romeo,True,,,,,,False,False,7621.553,12,French Grand Prix
+RIC,1.0,109.249,1.0,MEDIUM,1.0,12,False,McLaren,True,8.0,,31.042,44.295,,False,False,2669.737,12,French Grand Prix
+RIC,2.0,100.948,1.0,MEDIUM,2.0,1,True,McLaren,True,8.0,26.092,30.265,44.591,,False,False,2770.685,12,French Grand Prix
+RIC,3.0,100.796,1.0,MEDIUM,3.0,1,True,McLaren,True,8.0,25.641,30.604,44.551,,False,False,2871.481,12,French Grand Prix
+RIC,4.0,100.293,1.0,MEDIUM,4.0,1,True,McLaren,True,8.0,25.596,30.33,44.367,,False,False,2971.774,12,French Grand Prix
+RIC,5.0,100.235,1.0,MEDIUM,5.0,1,True,McLaren,True,8.0,25.389,30.412,44.434,,False,False,3072.009,12,French Grand Prix
+RIC,6.0,100.36,1.0,MEDIUM,6.0,1,True,McLaren,True,8.0,25.539,30.575,44.246,,False,False,3172.369,12,French Grand Prix
+RIC,7.0,101.733,1.0,MEDIUM,7.0,1,True,McLaren,True,9.0,25.661,31.144,44.928,,False,False,3274.102,12,French Grand Prix
+RIC,8.0,100.842,1.0,MEDIUM,8.0,1,True,McLaren,True,9.0,25.646,30.659,44.537,,False,False,3374.944,12,French Grand Prix
+RIC,9.0,100.415,1.0,MEDIUM,9.0,1,True,McLaren,True,9.0,25.516,30.658,44.241,,False,False,3475.359,12,French Grand Prix
+RIC,10.0,100.627,1.0,MEDIUM,10.0,1,True,McLaren,True,9.0,25.581,30.645,44.401,,False,False,3575.986,12,French Grand Prix
+RIC,11.0,100.771,1.0,MEDIUM,11.0,1,True,McLaren,True,9.0,25.522,30.691,44.558,,False,False,3676.757,12,French Grand Prix
+RIC,12.0,100.474,1.0,MEDIUM,12.0,1,True,McLaren,True,9.0,25.486,30.667,44.321,,False,False,3777.231,12,French Grand Prix
+RIC,13.0,100.786,1.0,MEDIUM,13.0,1,True,McLaren,True,9.0,25.709,30.729,44.348,,False,False,3878.017,12,French Grand Prix
+RIC,14.0,100.905,1.0,MEDIUM,14.0,1,True,McLaren,True,9.0,25.571,30.767,44.567,,False,False,3978.922,12,French Grand Prix
+RIC,15.0,100.456,1.0,MEDIUM,15.0,1,True,McLaren,True,9.0,25.479,30.591,44.386,,False,False,4079.378,12,French Grand Prix
+RIC,16.0,100.747,1.0,MEDIUM,16.0,1,True,McLaren,True,9.0,25.511,30.671,44.565,,False,False,4180.125,12,French Grand Prix
+RIC,17.0,101.543,1.0,MEDIUM,17.0,1,True,McLaren,True,10.0,25.647,31.079,44.817,,False,False,4281.668,12,French Grand Prix
+RIC,18.0,134.243,1.0,MEDIUM,18.0,124,False,McLaren,True,9.0,25.639,30.977,77.627,,True,False,4415.911,12,French Grand Prix
+RIC,19.0,139.588,2.0,HARD,1.0,4,False,McLaren,True,7.0,41.562,41.5,56.526,,False,True,4555.499,12,French Grand Prix
+RIC,20.0,143.386,2.0,HARD,2.0,41,False,McLaren,True,7.0,31.848,44.429,67.109,,False,False,4698.885,12,French Grand Prix
+RIC,21.0,100.922,2.0,HARD,3.0,1,True,McLaren,True,8.0,26.262,30.389,44.271,,False,False,4799.807,12,French Grand Prix
+RIC,22.0,99.796,2.0,HARD,4.0,12,True,McLaren,True,8.0,25.458,30.317,44.021,,False,False,4899.603,12,French Grand Prix
+RIC,23.0,99.815,2.0,HARD,5.0,1,True,McLaren,True,8.0,25.601,30.208,44.006,,False,False,4999.418,12,French Grand Prix
+RIC,24.0,99.694,2.0,HARD,6.0,1,True,McLaren,True,8.0,25.305,30.294,44.095,,False,False,5099.112,12,French Grand Prix
+RIC,25.0,99.427,2.0,HARD,7.0,1,True,McLaren,True,8.0,25.189,30.113,44.125,,False,False,5198.539,12,French Grand Prix
+RIC,26.0,99.506,2.0,HARD,8.0,1,True,McLaren,True,8.0,25.342,30.407,43.757,,False,False,5298.045,12,French Grand Prix
+RIC,27.0,99.133,2.0,HARD,9.0,1,True,McLaren,True,8.0,25.228,29.906,43.999,,False,False,5397.178,12,French Grand Prix
+RIC,28.0,99.462,2.0,HARD,10.0,1,True,McLaren,True,8.0,25.195,30.365,43.902,,False,False,5496.64,12,French Grand Prix
+RIC,29.0,99.791,2.0,HARD,11.0,1,True,McLaren,True,8.0,25.358,30.431,44.002,,False,False,5596.431,12,French Grand Prix
+RIC,30.0,99.724,2.0,HARD,12.0,1,True,McLaren,True,8.0,25.272,30.437,44.015,,False,False,5696.155,12,French Grand Prix
+RIC,31.0,99.675,2.0,HARD,13.0,1,True,McLaren,True,8.0,25.331,30.423,43.921,,False,False,5795.83,12,French Grand Prix
+RIC,32.0,99.368,2.0,HARD,14.0,1,True,McLaren,True,8.0,25.318,30.445,43.605,,False,False,5895.198,12,French Grand Prix
+RIC,33.0,99.943,2.0,HARD,15.0,1,True,McLaren,True,8.0,25.238,30.477,44.228,,False,False,5995.141,12,French Grand Prix
+RIC,34.0,99.863,2.0,HARD,16.0,1,True,McLaren,True,8.0,25.397,30.533,43.933,,False,False,6095.004,12,French Grand Prix
+RIC,35.0,100.27,2.0,HARD,17.0,1,True,McLaren,True,8.0,25.558,30.607,44.105,,False,False,6195.274,12,French Grand Prix
+RIC,36.0,99.806,2.0,HARD,18.0,1,True,McLaren,True,8.0,25.402,30.474,43.93,,False,False,6295.08,12,French Grand Prix
+RIC,37.0,99.808,2.0,HARD,19.0,1,True,McLaren,True,8.0,25.437,30.21,44.161,,False,False,6394.888,12,French Grand Prix
+RIC,38.0,99.767,2.0,HARD,20.0,12,True,McLaren,True,8.0,25.409,30.26,44.098,,False,False,6494.655,12,French Grand Prix
+RIC,39.0,99.675,2.0,HARD,21.0,1,True,McLaren,True,8.0,25.415,30.319,43.941,,False,False,6594.33,12,French Grand Prix
+RIC,40.0,99.584,2.0,HARD,22.0,1,True,McLaren,True,8.0,25.272,30.242,44.07,,False,False,6693.914,12,French Grand Prix
+RIC,41.0,99.928,2.0,HARD,23.0,1,True,McLaren,True,8.0,25.436,30.289,44.203,,False,False,6793.842,12,French Grand Prix
+RIC,42.0,99.675,2.0,HARD,24.0,1,True,McLaren,True,8.0,25.5,30.368,43.807,,False,False,6893.517,12,French Grand Prix
+RIC,43.0,99.708,2.0,HARD,25.0,1,True,McLaren,True,7.0,25.377,30.312,44.019,,False,False,6993.225,12,French Grand Prix
+RIC,44.0,100.312,2.0,HARD,26.0,1,True,McLaren,True,8.0,25.87,30.369,44.073,,False,False,7093.537,12,French Grand Prix
+RIC,45.0,101.069,2.0,HARD,27.0,1,True,McLaren,True,9.0,25.658,30.639,44.772,,False,False,7194.606,12,French Grand Prix
+RIC,46.0,99.739,2.0,HARD,28.0,1,True,McLaren,True,9.0,25.426,30.163,44.15,,False,False,7294.345,12,French Grand Prix
+RIC,47.0,99.339,2.0,HARD,29.0,1,True,McLaren,True,9.0,25.084,30.498,43.757,,False,False,7393.684,12,French Grand Prix
+RIC,48.0,99.389,2.0,HARD,30.0,1,True,McLaren,True,9.0,25.324,30.324,43.741,,False,False,7493.073,12,French Grand Prix
+RIC,49.0,118.346,2.0,HARD,31.0,1267,False,McLaren,True,9.0,25.396,30.742,62.208,,False,False,7611.419,12,French Grand Prix
+RIC,50.0,113.693,2.0,HARD,32.0,71,False,McLaren,True,9.0,33.267,37.005,43.421,,False,False,7725.112,12,French Grand Prix
+RIC,51.0,99.363,2.0,HARD,33.0,1,True,McLaren,True,9.0,25.275,30.363,43.725,,False,False,7824.475,12,French Grand Prix
+RIC,52.0,99.207,2.0,HARD,34.0,1,True,McLaren,True,9.0,25.237,30.298,43.672,,False,False,7923.682,12,French Grand Prix
+RIC,53.0,99.29,2.0,HARD,35.0,1,True,McLaren,True,9.0,25.185,30.351,43.754,,False,False,8022.972,12,French Grand Prix
+OCO,1.0,110.622,1.0,MEDIUM,1.0,12,False,Alpine,True,9.0,,32.251,44.089,,False,False,2671.11,12,French Grand Prix
+OCO,2.0,100.899,1.0,MEDIUM,2.0,1,True,Alpine,True,9.0,25.888,30.529,44.482,,False,False,2772.009,12,French Grand Prix
+OCO,3.0,100.621,1.0,MEDIUM,3.0,1,True,Alpine,True,9.0,25.728,30.57,44.323,,False,False,2872.63,12,French Grand Prix
+OCO,4.0,99.948,1.0,MEDIUM,4.0,1,True,Alpine,True,9.0,25.455,30.139,44.354,,False,False,2972.578,12,French Grand Prix
+OCO,5.0,100.066,1.0,MEDIUM,5.0,1,True,Alpine,True,9.0,25.361,30.247,44.458,,False,False,3072.644,12,French Grand Prix
+OCO,6.0,100.285,1.0,MEDIUM,6.0,1,True,Alpine,True,9.0,25.643,30.299,44.343,,False,False,3172.929,12,French Grand Prix
+OCO,7.0,100.327,1.0,MEDIUM,7.0,1,True,Alpine,True,8.0,25.566,30.218,44.543,,False,False,3273.256,12,French Grand Prix
+OCO,8.0,100.502,1.0,MEDIUM,8.0,1,True,Alpine,True,8.0,25.519,30.543,44.44,,False,False,3373.758,12,French Grand Prix
+OCO,9.0,100.671,1.0,MEDIUM,9.0,1,True,Alpine,True,8.0,25.501,30.686,44.484,,False,False,3474.429,12,French Grand Prix
+OCO,10.0,100.327,1.0,MEDIUM,10.0,1,True,Alpine,True,8.0,25.443,30.535,44.349,,False,False,3574.756,12,French Grand Prix
+OCO,11.0,100.641,1.0,MEDIUM,11.0,1,True,Alpine,True,8.0,25.462,30.667,44.512,,False,False,3675.397,12,French Grand Prix
+OCO,12.0,100.318,1.0,MEDIUM,12.0,1,True,Alpine,True,8.0,25.419,30.599,44.3,,False,False,3775.715,12,French Grand Prix
+OCO,13.0,100.528,1.0,MEDIUM,13.0,1,True,Alpine,True,8.0,25.534,30.639,44.355,,False,False,3876.243,12,French Grand Prix
+OCO,14.0,100.746,1.0,MEDIUM,14.0,1,True,Alpine,True,8.0,25.474,30.753,44.519,,False,False,3976.989,12,French Grand Prix
+OCO,15.0,100.252,1.0,MEDIUM,15.0,1,True,Alpine,True,8.0,25.409,30.528,44.315,,False,False,4077.241,12,French Grand Prix
+OCO,16.0,100.608,1.0,MEDIUM,16.0,1,True,Alpine,True,8.0,25.469,30.663,44.476,,False,False,4177.849,12,French Grand Prix
+OCO,17.0,100.527,1.0,MEDIUM,17.0,1,True,Alpine,True,8.0,25.559,30.596,44.372,,False,False,4278.376,12,French Grand Prix
+OCO,18.0,141.24,1.0,MEDIUM,18.0,124,False,Alpine,True,11.0,25.483,30.622,85.135,,True,False,4419.616,12,French Grand Prix
+OCO,19.0,139.208,2.0,HARD,1.0,4,False,Alpine,True,9.0,40.386,42.054,56.768,,False,True,4558.824,12,French Grand Prix
+OCO,20.0,140.902,2.0,HARD,2.0,41,False,Alpine,True,9.0,30.56,44.43,65.912,,False,False,4699.726,12,French Grand Prix
+OCO,21.0,100.602,2.0,HARD,3.0,1,True,Alpine,True,9.0,25.861,30.489,44.252,,False,False,4800.328,12,French Grand Prix
+OCO,22.0,100.339,2.0,HARD,4.0,12,True,Alpine,True,9.0,25.703,30.38,44.256,,False,False,4900.667,12,French Grand Prix
+OCO,23.0,99.788,2.0,HARD,5.0,1,True,Alpine,True,9.0,25.454,30.006,44.328,,False,False,5000.455,12,French Grand Prix
+OCO,24.0,99.619,2.0,HARD,6.0,1,True,Alpine,True,9.0,25.267,30.038,44.314,,False,False,5100.074,12,French Grand Prix
+OCO,25.0,99.662,2.0,HARD,7.0,1,True,Alpine,True,9.0,25.307,30.188,44.167,,False,False,5199.736,12,French Grand Prix
+OCO,26.0,99.689,2.0,HARD,8.0,1,True,Alpine,True,9.0,25.314,30.308,44.067,,False,False,5299.425,12,French Grand Prix
+OCO,27.0,99.271,2.0,HARD,9.0,1,True,Alpine,True,9.0,25.218,30.106,43.947,,False,False,5398.696,12,French Grand Prix
+OCO,28.0,99.361,2.0,HARD,10.0,1,True,Alpine,True,9.0,25.184,30.209,43.968,,False,False,5498.057,12,French Grand Prix
+OCO,29.0,99.532,2.0,HARD,11.0,1,True,Alpine,True,9.0,25.248,30.335,43.949,,False,False,5597.589,12,French Grand Prix
+OCO,30.0,99.587,2.0,HARD,12.0,1,True,Alpine,True,9.0,25.188,30.407,43.992,,False,False,5697.176,12,French Grand Prix
+OCO,31.0,99.801,2.0,HARD,13.0,1,True,Alpine,True,9.0,25.272,30.479,44.05,,False,False,5796.977,12,French Grand Prix
+OCO,32.0,99.551,2.0,HARD,14.0,1,True,Alpine,True,9.0,25.266,30.458,43.827,,False,False,5896.528,12,French Grand Prix
+OCO,33.0,99.636,2.0,HARD,15.0,1,True,Alpine,True,9.0,25.091,30.542,44.003,,False,False,5996.164,12,French Grand Prix
+OCO,34.0,99.374,2.0,HARD,16.0,1,True,Alpine,True,9.0,25.324,30.216,43.834,,False,False,6095.538,12,French Grand Prix
+OCO,35.0,100.255,2.0,HARD,17.0,1,True,Alpine,True,9.0,25.491,30.427,44.337,,False,False,6195.793,12,French Grand Prix
+OCO,36.0,99.914,2.0,HARD,18.0,1,True,Alpine,True,9.0,25.443,30.388,44.083,,False,False,6295.707,12,French Grand Prix
+OCO,37.0,99.773,2.0,HARD,19.0,1,True,Alpine,True,9.0,25.379,30.242,44.152,,False,False,6395.48,12,French Grand Prix
+OCO,38.0,99.822,2.0,HARD,20.0,12,True,Alpine,True,9.0,25.414,30.225,44.183,,False,False,6495.302,12,French Grand Prix
+OCO,39.0,99.725,2.0,HARD,21.0,1,True,Alpine,True,9.0,25.254,30.363,44.108,,False,False,6595.027,12,French Grand Prix
+OCO,40.0,99.58,2.0,HARD,22.0,1,True,Alpine,True,9.0,25.261,30.208,44.111,,False,False,6694.607,12,French Grand Prix
+OCO,41.0,99.777,2.0,HARD,23.0,1,True,Alpine,True,9.0,25.287,30.219,44.271,,False,False,6794.384,12,French Grand Prix
+OCO,42.0,99.76,2.0,HARD,24.0,1,True,Alpine,True,9.0,25.592,30.208,43.96,,False,False,6894.144,12,French Grand Prix
+OCO,43.0,99.992,2.0,HARD,25.0,1,True,Alpine,True,9.0,25.32,30.29,44.382,,False,False,6994.136,12,French Grand Prix
+OCO,44.0,99.711,2.0,HARD,26.0,1,True,Alpine,True,9.0,25.538,30.223,43.95,,False,False,7093.847,12,French Grand Prix
+OCO,45.0,100.077,2.0,HARD,27.0,1,True,Alpine,True,8.0,25.807,30.226,44.044,,False,False,7193.924,12,French Grand Prix
+OCO,46.0,99.428,2.0,HARD,28.0,1,True,Alpine,True,8.0,25.152,30.502,43.774,,False,False,7293.352,12,French Grand Prix
+OCO,47.0,98.962,2.0,HARD,29.0,1,True,Alpine,True,8.0,25.049,30.493,43.42,,False,False,7392.314,12,French Grand Prix
+OCO,48.0,99.063,2.0,HARD,30.0,1,True,Alpine,True,8.0,25.091,30.274,43.698,,False,False,7491.377,12,French Grand Prix
+OCO,49.0,117.115,2.0,HARD,31.0,1267,False,Alpine,True,8.0,25.319,30.509,61.287,,False,False,7608.492,12,French Grand Prix
+OCO,50.0,114.785,2.0,HARD,32.0,71,False,Alpine,True,8.0,33.361,37.826,43.598,,False,False,7723.277,12,French Grand Prix
+OCO,51.0,98.801,2.0,HARD,33.0,1,True,Alpine,True,8.0,25.187,30.155,43.459,,False,False,7822.078,12,French Grand Prix
+OCO,52.0,98.797,2.0,HARD,34.0,1,True,Alpine,True,8.0,25.153,30.244,43.4,,False,False,7920.875,12,French Grand Prix
+OCO,53.0,98.684,2.0,HARD,35.0,1,True,Alpine,True,8.0,25.045,30.127,43.512,,False,False,8019.559,12,French Grand Prix
+NOR,1.0,108.54,1.0,MEDIUM,1.0,12,False,McLaren,True,7.0,,30.582,44.234,,False,False,2669.028,12,French Grand Prix
+NOR,2.0,100.479,1.0,MEDIUM,2.0,1,True,McLaren,True,7.0,25.846,30.323,44.31,,False,False,2769.507,12,French Grand Prix
+NOR,3.0,100.356,1.0,MEDIUM,3.0,1,True,McLaren,True,7.0,25.494,30.343,44.519,,False,False,2869.863,12,French Grand Prix
+NOR,4.0,100.078,1.0,MEDIUM,4.0,1,True,McLaren,True,7.0,25.442,30.39,44.246,,False,False,2969.941,12,French Grand Prix
+NOR,5.0,100.05,1.0,MEDIUM,5.0,1,True,McLaren,True,7.0,25.35,30.458,44.242,,False,False,3069.991,12,French Grand Prix
+NOR,6.0,100.496,1.0,MEDIUM,6.0,1,True,McLaren,True,7.0,25.499,30.558,44.439,,False,False,3170.487,12,French Grand Prix
+NOR,7.0,100.4,1.0,MEDIUM,7.0,1,True,McLaren,True,7.0,25.498,30.54,44.362,,False,False,3270.887,12,French Grand Prix
+NOR,8.0,100.212,1.0,MEDIUM,8.0,1,True,McLaren,True,7.0,25.466,30.569,44.177,,False,False,3371.099,12,French Grand Prix
+NOR,9.0,100.026,1.0,MEDIUM,9.0,1,True,McLaren,True,7.0,25.283,30.621,44.122,,False,False,3471.125,12,French Grand Prix
+NOR,10.0,100.143,1.0,MEDIUM,10.0,1,True,McLaren,True,7.0,25.48,30.665,43.998,,False,False,3571.268,12,French Grand Prix
+NOR,11.0,100.488,1.0,MEDIUM,11.0,1,True,McLaren,True,7.0,25.513,30.608,44.367,,False,False,3671.756,12,French Grand Prix
+NOR,12.0,100.035,1.0,MEDIUM,12.0,1,True,McLaren,True,7.0,25.429,30.51,44.096,,False,False,3771.791,12,French Grand Prix
+NOR,13.0,100.267,1.0,MEDIUM,13.0,1,True,McLaren,True,7.0,25.62,30.618,44.029,,False,False,3872.058,12,French Grand Prix
+NOR,14.0,100.369,1.0,MEDIUM,14.0,1,True,McLaren,True,7.0,25.636,30.556,44.177,,False,False,3972.427,12,French Grand Prix
+NOR,15.0,100.144,1.0,MEDIUM,15.0,1,True,McLaren,True,7.0,25.538,30.453,44.153,,False,False,4072.571,12,French Grand Prix
+NOR,16.0,100.411,1.0,MEDIUM,16.0,1,True,McLaren,True,7.0,25.543,30.542,44.326,,False,False,4172.982,12,French Grand Prix
+NOR,17.0,101.207,1.0,MEDIUM,17.0,1,True,McLaren,True,7.0,25.703,30.65,44.854,,False,False,4274.189,12,French Grand Prix
+NOR,18.0,133.216,1.0,MEDIUM,18.0,124,False,McLaren,True,7.0,25.511,30.6,77.105,,True,False,4407.405,12,French Grand Prix
+NOR,19.0,146.803,2.0,HARD,1.0,4,False,McLaren,True,6.0,38.133,41.806,66.864,,False,True,4554.208,12,French Grand Prix
+NOR,20.0,144.189,2.0,HARD,2.0,41,False,McLaren,True,6.0,31.622,43.205,69.362,,False,False,4698.397,12,French Grand Prix
+NOR,21.0,100.661,2.0,HARD,3.0,1,True,McLaren,True,7.0,25.605,30.677,44.379,,False,False,4799.058,12,French Grand Prix
+NOR,22.0,99.708,2.0,HARD,4.0,12,True,McLaren,True,7.0,25.463,30.231,44.014,,False,False,4898.766,12,French Grand Prix
+NOR,23.0,99.75,2.0,HARD,5.0,1,True,McLaren,True,7.0,25.553,30.215,43.982,,False,False,4998.516,12,French Grand Prix
+NOR,24.0,99.56,2.0,HARD,6.0,1,True,McLaren,True,7.0,25.373,30.319,43.868,,False,False,5098.076,12,French Grand Prix
+NOR,25.0,99.618,2.0,HARD,7.0,1,True,McLaren,True,7.0,25.294,30.253,44.071,,False,False,5197.694,12,French Grand Prix
+NOR,26.0,99.354,2.0,HARD,8.0,1,True,McLaren,True,7.0,25.246,30.302,43.806,,False,False,5297.048,12,French Grand Prix
+NOR,27.0,99.082,2.0,HARD,9.0,1,True,McLaren,True,7.0,25.305,30.057,43.72,,False,False,5396.13,12,French Grand Prix
+NOR,28.0,98.985,2.0,HARD,10.0,1,True,McLaren,True,7.0,25.202,30.118,43.665,,False,False,5495.115,12,French Grand Prix
+NOR,29.0,99.536,2.0,HARD,11.0,1,True,McLaren,True,7.0,25.229,30.321,43.986,,False,False,5594.651,12,French Grand Prix
+NOR,30.0,99.489,2.0,HARD,12.0,1,True,McLaren,True,7.0,25.297,30.321,43.871,,False,False,5694.14,12,French Grand Prix
+NOR,31.0,99.695,2.0,HARD,13.0,1,True,McLaren,True,7.0,25.371,30.452,43.872,,False,False,5793.835,12,French Grand Prix
+NOR,32.0,99.519,2.0,HARD,14.0,1,True,McLaren,True,7.0,25.312,30.363,43.844,,False,False,5893.354,12,French Grand Prix
+NOR,33.0,99.636,2.0,HARD,15.0,1,True,McLaren,True,7.0,25.254,30.515,43.867,,False,False,5992.99,12,French Grand Prix
+NOR,34.0,100.323,2.0,HARD,16.0,1,True,McLaren,True,7.0,25.348,30.569,44.406,,False,False,6093.313,12,French Grand Prix
+NOR,35.0,99.814,2.0,HARD,17.0,1,True,McLaren,True,7.0,25.544,30.459,43.811,,False,False,6193.127,12,French Grand Prix
+NOR,36.0,99.597,2.0,HARD,18.0,1,True,McLaren,True,7.0,25.398,30.513,43.686,,False,False,6292.724,12,French Grand Prix
+NOR,37.0,99.493,2.0,HARD,19.0,1,True,McLaren,True,7.0,25.375,30.272,43.846,,False,False,6392.217,12,French Grand Prix
+NOR,38.0,99.47,2.0,HARD,20.0,12,True,McLaren,True,7.0,25.346,30.337,43.787,,False,False,6491.687,12,French Grand Prix
+NOR,39.0,99.409,2.0,HARD,21.0,1,True,McLaren,True,7.0,25.389,30.282,43.738,,False,False,6591.096,12,French Grand Prix
+NOR,40.0,99.131,2.0,HARD,22.0,1,True,McLaren,True,7.0,25.122,30.174,43.835,,False,False,6690.227,12,French Grand Prix
+NOR,41.0,99.125,2.0,HARD,23.0,1,True,McLaren,True,7.0,25.237,30.252,43.636,,False,False,6789.352,12,French Grand Prix
+NOR,42.0,99.389,2.0,HARD,24.0,1,True,McLaren,True,6.0,25.305,30.322,43.762,,False,False,6888.741,12,French Grand Prix
+NOR,43.0,99.037,2.0,HARD,25.0,1,True,McLaren,True,6.0,25.176,30.303,43.558,,False,False,6987.778,12,French Grand Prix
+NOR,44.0,99.296,2.0,HARD,26.0,1,True,McLaren,True,6.0,25.302,30.362,43.632,,False,False,7087.074,12,French Grand Prix
+NOR,45.0,99.897,2.0,HARD,27.0,1,True,McLaren,True,7.0,25.418,30.25,44.229,,False,False,7186.971,12,French Grand Prix
+NOR,46.0,99.321,2.0,HARD,28.0,1,True,McLaren,True,7.0,25.297,30.375,43.649,,False,False,7286.292,12,French Grand Prix
+NOR,47.0,99.161,2.0,HARD,29.0,1,True,McLaren,True,7.0,25.276,30.358,43.527,,False,False,7385.453,12,French Grand Prix
+NOR,48.0,99.038,2.0,HARD,30.0,1,True,McLaren,True,7.0,25.176,30.207,43.655,,False,False,7484.491,12,French Grand Prix
+NOR,49.0,115.189,2.0,HARD,31.0,126,False,McLaren,True,7.0,25.185,30.75,59.254,,False,False,7599.68,12,French Grand Prix
+NOR,50.0,115.83,2.0,HARD,32.0,671,False,McLaren,True,7.0,31.874,40.322,43.634,,False,False,7715.51,12,French Grand Prix
+NOR,51.0,99.475,2.0,HARD,33.0,1,True,McLaren,True,7.0,25.264,30.421,43.79,,False,False,7814.985,12,French Grand Prix
+NOR,52.0,99.509,2.0,HARD,34.0,1,True,McLaren,True,7.0,25.157,30.283,44.069,,False,False,7914.494,12,French Grand Prix
+NOR,53.0,100.132,2.0,HARD,35.0,1,True,McLaren,True,7.0,25.482,30.509,44.141,,False,False,8014.626,12,French Grand Prix
+HAM,1.0,105.421,1.0,MEDIUM,1.0,12,False,Mercedes,True,3.0,,30.008,43.562,,False,False,2665.909,12,French Grand Prix
+HAM,2.0,99.316,1.0,MEDIUM,2.0,1,True,Mercedes,True,3.0,25.316,30.146,43.854,,False,False,2765.225,12,French Grand Prix
+HAM,3.0,99.62,1.0,MEDIUM,3.0,1,True,Mercedes,True,3.0,25.296,30.323,44.001,,False,False,2864.845,12,French Grand Prix
+HAM,4.0,99.066,1.0,MEDIUM,4.0,1,True,Mercedes,True,3.0,24.995,30.092,43.979,,False,False,2963.911,12,French Grand Prix
+HAM,5.0,99.608,1.0,MEDIUM,5.0,1,True,Mercedes,True,3.0,25.204,30.272,44.132,,False,False,3063.519,12,French Grand Prix
+HAM,6.0,99.779,1.0,MEDIUM,6.0,1,True,Mercedes,True,3.0,25.035,30.318,44.426,,False,False,3163.298,12,French Grand Prix
+HAM,7.0,99.135,1.0,MEDIUM,7.0,1,True,Mercedes,True,3.0,25.06,30.24,43.835,,False,False,3262.433,12,French Grand Prix
+HAM,8.0,98.9,1.0,MEDIUM,8.0,1,True,Mercedes,True,3.0,24.908,30.258,43.734,,False,False,3361.333,12,French Grand Prix
+HAM,9.0,99.031,1.0,MEDIUM,9.0,1,True,Mercedes,True,3.0,24.88,30.307,43.844,,False,False,3460.364,12,French Grand Prix
+HAM,10.0,99.201,1.0,MEDIUM,10.0,1,True,Mercedes,True,3.0,25.132,30.316,43.753,,False,False,3559.565,12,French Grand Prix
+HAM,11.0,99.499,1.0,MEDIUM,11.0,1,True,Mercedes,True,3.0,25.072,30.239,44.188,,False,False,3659.064,12,French Grand Prix
+HAM,12.0,99.246,1.0,MEDIUM,12.0,1,True,Mercedes,True,3.0,25.046,30.218,43.982,,False,False,3758.31,12,French Grand Prix
+HAM,13.0,99.373,1.0,MEDIUM,13.0,1,True,Mercedes,True,3.0,24.992,30.368,44.013,,False,False,3857.683,12,French Grand Prix
+HAM,14.0,99.469,1.0,MEDIUM,14.0,1,True,Mercedes,True,3.0,25.176,30.285,44.008,,False,False,3957.152,12,French Grand Prix
+HAM,15.0,99.335,1.0,MEDIUM,15.0,1,True,Mercedes,True,3.0,25.1,30.22,44.015,,False,False,4056.487,12,French Grand Prix
+HAM,16.0,99.428,1.0,MEDIUM,16.0,1,True,Mercedes,True,2.0,25.01,30.306,44.112,,False,False,4155.915,12,French Grand Prix
+HAM,17.0,99.772,1.0,MEDIUM,17.0,1,True,Mercedes,True,2.0,25.309,30.357,44.106,,False,False,4255.687,12,French Grand Prix
+HAM,18.0,124.746,1.0,MEDIUM,18.0,124,False,Mercedes,True,1.0,25.079,30.323,69.344,,True,False,4380.433,12,French Grand Prix
+HAM,19.0,164.819,2.0,HARD,1.0,4,False,Mercedes,True,2.0,45.518,48.907,70.394,,False,True,4545.252,12,French Grand Prix
+HAM,20.0,149.797,2.0,HARD,2.0,41,False,Mercedes,True,2.0,34.445,42.197,73.155,,False,False,4695.049,12,French Grand Prix
+HAM,21.0,98.102,2.0,HARD,3.0,1,True,Mercedes,True,2.0,24.788,29.93,43.384,,False,False,4793.151,12,French Grand Prix
+HAM,22.0,98.431,2.0,HARD,4.0,12,True,Mercedes,True,2.0,24.821,30.034,43.576,,False,False,4891.582,12,French Grand Prix
+HAM,23.0,98.892,2.0,HARD,5.0,21,True,Mercedes,True,2.0,24.889,30.119,43.884,,False,False,4990.474,12,French Grand Prix
+HAM,24.0,98.487,2.0,HARD,6.0,1,True,Mercedes,True,2.0,24.756,29.907,43.824,,False,False,5088.961,12,French Grand Prix
+HAM,25.0,98.256,2.0,HARD,7.0,1,True,Mercedes,True,2.0,24.648,30.028,43.58,,False,False,5187.217,12,French Grand Prix
+HAM,26.0,98.37,2.0,HARD,8.0,1,True,Mercedes,True,2.0,24.719,29.958,43.693,,False,False,5285.587,12,French Grand Prix
+HAM,27.0,98.044,2.0,HARD,9.0,1,True,Mercedes,True,2.0,24.762,29.788,43.494,,False,False,5383.631,12,French Grand Prix
+HAM,28.0,97.81,2.0,HARD,10.0,1,True,Mercedes,True,2.0,24.568,29.908,43.334,,False,False,5481.441,12,French Grand Prix
+HAM,29.0,97.961,2.0,HARD,11.0,1,True,Mercedes,True,2.0,24.586,29.912,43.463,,False,False,5579.402,12,French Grand Prix
+HAM,30.0,97.668,2.0,HARD,12.0,1,True,Mercedes,True,2.0,24.469,29.993,43.206,,False,False,5677.07,12,French Grand Prix
+HAM,31.0,98.109,2.0,HARD,13.0,1,True,Mercedes,True,2.0,24.66,29.984,43.465,,False,False,5775.179,12,French Grand Prix
+HAM,32.0,99.196,2.0,HARD,14.0,1,True,Mercedes,True,2.0,25.602,30.249,43.345,,False,False,5874.375,12,French Grand Prix
+HAM,33.0,98.485,2.0,HARD,15.0,1,True,Mercedes,True,2.0,24.711,30.154,43.62,,False,False,5972.86,12,French Grand Prix
+HAM,34.0,98.145,2.0,HARD,16.0,1,True,Mercedes,True,2.0,24.686,30.092,43.367,,False,False,6071.005,12,French Grand Prix
+HAM,35.0,98.282,2.0,HARD,17.0,1,True,Mercedes,True,2.0,24.873,30.26,43.149,,False,False,6169.287,12,French Grand Prix
+HAM,36.0,98.689,2.0,HARD,18.0,1,True,Mercedes,True,2.0,24.965,30.248,43.476,,False,False,6267.976,12,French Grand Prix
+HAM,37.0,98.034,2.0,HARD,19.0,1,True,Mercedes,True,2.0,24.785,29.98,43.269,,False,False,6366.01,12,French Grand Prix
+HAM,38.0,98.235,2.0,HARD,20.0,12,True,Mercedes,True,2.0,24.564,30.109,43.562,,False,False,6464.245,12,French Grand Prix
+HAM,39.0,98.612,2.0,HARD,21.0,1,True,Mercedes,True,2.0,24.908,30.094,43.61,,False,False,6562.857,12,French Grand Prix
+HAM,40.0,98.126,2.0,HARD,22.0,1,True,Mercedes,True,2.0,24.567,29.973,43.586,,False,False,6660.983,12,French Grand Prix
+HAM,41.0,97.815,2.0,HARD,23.0,1,True,Mercedes,True,2.0,24.538,29.992,43.285,,False,False,6758.798,12,French Grand Prix
+HAM,42.0,98.279,2.0,HARD,24.0,1,True,Mercedes,True,2.0,24.709,30.02,43.55,,False,False,6857.077,12,French Grand Prix
+HAM,43.0,98.257,2.0,HARD,25.0,1,True,Mercedes,True,2.0,24.638,30.176,43.443,,False,False,6955.334,12,French Grand Prix
+HAM,44.0,98.123,2.0,HARD,26.0,1,True,Mercedes,True,2.0,24.686,30.061,43.376,,False,False,7053.457,12,French Grand Prix
+HAM,45.0,97.89,2.0,HARD,27.0,1,True,Mercedes,True,2.0,24.581,30.034,43.275,,False,False,7151.347,12,French Grand Prix
+HAM,46.0,98.248,2.0,HARD,28.0,1,True,Mercedes,True,2.0,24.836,30.013,43.399,,False,False,7249.595,12,French Grand Prix
+HAM,47.0,98.589,2.0,HARD,29.0,1,True,Mercedes,True,2.0,24.856,30.354,43.379,,False,False,7348.184,12,French Grand Prix
+HAM,48.0,98.31,2.0,HARD,30.0,1,True,Mercedes,True,2.0,24.909,30.096,43.305,,False,False,7446.494,12,French Grand Prix
+HAM,49.0,98.748,2.0,HARD,31.0,12,True,Mercedes,True,2.0,24.9,30.286,43.562,,False,False,7545.242,12,French Grand Prix
+HAM,50.0,131.309,2.0,HARD,32.0,2671,False,Mercedes,True,2.0,32.673,42.128,56.508,,False,False,7676.551,12,French Grand Prix
+HAM,51.0,98.712,2.0,HARD,33.0,1,True,Mercedes,True,2.0,25.18,30.245,43.287,,False,False,7775.263,12,French Grand Prix
+HAM,52.0,98.805,2.0,HARD,34.0,1,True,Mercedes,True,2.0,25.095,30.224,43.486,,False,False,7874.068,12,French Grand Prix
+HAM,53.0,99.119,2.0,HARD,35.0,1,True,Mercedes,True,2.0,24.863,30.211,44.045,,False,False,7973.187,12,French Grand Prix
+MSC,1.0,113.429,1.0,MEDIUM,1.0,12,False,Haas F1 Team,True,14.0,,31.747,45.801,,False,False,2673.917,12,French Grand Prix
+MSC,2.0,101.579,1.0,MEDIUM,2.0,1,True,Haas F1 Team,True,14.0,26.305,30.526,44.748,,False,False,2775.496,12,French Grand Prix
+MSC,3.0,100.774,1.0,MEDIUM,3.0,1,True,Haas F1 Team,True,14.0,26.068,30.043,44.663,,False,False,2876.27,12,French Grand Prix
+MSC,4.0,101.312,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,15.0,25.484,30.563,45.265,,False,False,2977.582,12,French Grand Prix
+MSC,5.0,100.644,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,15.0,25.462,30.502,44.68,,False,False,3078.226,12,French Grand Prix
+MSC,6.0,100.224,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,15.0,25.592,30.36,44.272,,False,False,3178.45,12,French Grand Prix
+MSC,7.0,101.206,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,15.0,25.816,30.597,44.793,,False,False,3279.656,12,French Grand Prix
+MSC,8.0,100.519,1.0,MEDIUM,8.0,1,True,Haas F1 Team,True,14.0,25.523,30.357,44.639,,False,False,3380.175,12,French Grand Prix
+MSC,9.0,120.834,1.0,MEDIUM,9.0,1,False,Haas F1 Team,True,18.0,25.298,30.635,64.901,,True,False,3501.009,12,French Grand Prix
+MSC,10.0,108.551,2.0,HARD,1.0,1,False,Haas F1 Team,True,19.0,33.45,30.703,44.398,,False,True,3609.56,12,French Grand Prix
+MSC,11.0,99.986,2.0,HARD,2.0,1,True,Haas F1 Team,True,18.0,25.195,30.428,44.363,,False,False,3709.546,12,French Grand Prix
+MSC,12.0,99.941,2.0,HARD,3.0,1,True,Haas F1 Team,True,18.0,25.278,30.276,44.387,,False,False,3809.487,12,French Grand Prix
+MSC,13.0,100.407,2.0,HARD,4.0,1,True,Haas F1 Team,True,18.0,25.311,30.568,44.528,,False,False,3909.894,12,French Grand Prix
+MSC,14.0,100.695,2.0,HARD,5.0,1,True,Haas F1 Team,True,18.0,25.467,30.533,44.695,,False,False,4010.589,12,French Grand Prix
+MSC,15.0,100.351,2.0,HARD,6.0,1,True,Haas F1 Team,True,18.0,25.407,30.484,44.46,,False,False,4110.94,12,French Grand Prix
+MSC,16.0,100.979,2.0,HARD,7.0,1,True,Haas F1 Team,True,18.0,25.401,30.621,44.957,,False,False,4211.919,12,French Grand Prix
+MSC,17.0,100.962,2.0,HARD,8.0,1,True,Haas F1 Team,True,18.0,25.565,30.589,44.808,,False,False,4312.881,12,French Grand Prix
+MSC,18.0,146.111,2.0,HARD,9.0,124,False,Haas F1 Team,True,19.0,26.188,41.689,78.234,,True,False,4458.992,12,French Grand Prix
+MSC,19.0,138.311,3.0,HARD,1.0,4,False,Haas F1 Team,True,18.0,39.118,41.158,58.035,,False,True,4597.303,12,French Grand Prix
+MSC,20.0,107.304,3.0,HARD,2.0,41,False,Haas F1 Team,True,18.0,27.456,32.325,47.523,,False,False,4704.607,12,French Grand Prix
+MSC,21.0,101.63,3.0,HARD,3.0,1,True,Haas F1 Team,True,18.0,26.087,30.676,44.867,,False,False,4806.237,12,French Grand Prix
+MSC,22.0,109.668,3.0,HARD,4.0,12,True,Haas F1 Team,True,17.0,25.561,30.495,53.612,,False,False,4915.905,12,French Grand Prix
+MSC,23.0,100.02,3.0,HARD,5.0,1,True,Haas F1 Team,True,17.0,25.236,30.442,44.342,,False,False,5015.925,12,French Grand Prix
+MSC,24.0,100.509,3.0,HARD,6.0,1,True,Haas F1 Team,True,17.0,25.531,30.329,44.649,,False,False,5116.434,12,French Grand Prix
+MSC,25.0,100.046,3.0,HARD,7.0,1,True,Haas F1 Team,True,17.0,25.27,30.323,44.453,,False,False,5216.48,12,French Grand Prix
+MSC,26.0,100.177,3.0,HARD,8.0,1,True,Haas F1 Team,True,17.0,25.175,30.276,44.726,,False,False,5316.657,12,French Grand Prix
+MSC,27.0,99.592,3.0,HARD,9.0,1,True,Haas F1 Team,True,17.0,25.188,30.126,44.278,,False,False,5416.249,12,French Grand Prix
+MSC,28.0,99.43,3.0,HARD,10.0,1,True,Haas F1 Team,True,17.0,25.068,30.196,44.166,,False,False,5515.679,12,French Grand Prix
+MSC,29.0,100.105,3.0,HARD,11.0,1,True,Haas F1 Team,True,17.0,25.158,30.45,44.497,,False,False,5615.784,12,French Grand Prix
+MSC,30.0,99.9,3.0,HARD,12.0,1,True,Haas F1 Team,True,17.0,25.041,30.428,44.431,,False,False,5715.684,12,French Grand Prix
+MSC,31.0,99.69,3.0,HARD,13.0,1,True,Haas F1 Team,True,17.0,25.164,30.37,44.156,,False,False,5815.374,12,French Grand Prix
+MSC,32.0,99.671,3.0,HARD,14.0,1,True,Haas F1 Team,True,17.0,24.95,30.312,44.409,,False,False,5915.045,12,French Grand Prix
+MSC,33.0,100.692,3.0,HARD,15.0,1,True,Haas F1 Team,True,17.0,25.376,30.638,44.678,,False,False,6015.737,12,French Grand Prix
+MSC,34.0,99.887,3.0,HARD,16.0,1,True,Haas F1 Team,True,17.0,25.162,30.54,44.185,,False,False,6115.624,12,French Grand Prix
+MSC,35.0,100.185,3.0,HARD,17.0,1,True,Haas F1 Team,True,17.0,25.2,30.566,44.419,,False,False,6215.809,12,French Grand Prix
+MSC,36.0,99.918,3.0,HARD,18.0,1,True,Haas F1 Team,True,16.0,25.141,30.41,44.367,,False,False,6315.727,12,French Grand Prix
+MSC,37.0,99.702,3.0,HARD,19.0,1,True,Haas F1 Team,True,16.0,25.213,30.385,44.104,,False,False,6415.429,12,French Grand Prix
+MSC,38.0,101.154,3.0,HARD,20.0,12,True,Haas F1 Team,True,15.0,25.382,30.556,45.216,,False,False,6516.583,12,French Grand Prix
+MSC,39.0,99.648,3.0,HARD,21.0,1,True,Haas F1 Team,True,14.0,25.113,30.191,44.344,,False,False,6616.231,12,French Grand Prix
+MSC,40.0,99.8,3.0,HARD,22.0,1,True,Haas F1 Team,True,14.0,25.122,30.416,44.262,,False,False,6716.031,12,French Grand Prix
+MSC,41.0,99.519,3.0,HARD,23.0,1,True,Haas F1 Team,True,14.0,25.082,30.127,44.31,,False,False,6815.55,12,French Grand Prix
+MSC,42.0,99.663,3.0,HARD,24.0,1,True,Haas F1 Team,True,14.0,25.181,30.349,44.133,,False,False,6915.213,12,French Grand Prix
+MSC,43.0,99.318,3.0,HARD,25.0,1,True,Haas F1 Team,True,14.0,25.029,30.314,43.975,,False,False,7014.531,12,French Grand Prix
+MSC,44.0,99.404,3.0,HARD,26.0,1,True,Haas F1 Team,True,14.0,25.082,30.133,44.189,,False,False,7113.935,12,French Grand Prix
+MSC,45.0,99.42,3.0,HARD,27.0,1,True,Haas F1 Team,True,14.0,25.148,30.233,44.039,,False,False,7213.355,12,French Grand Prix
+MSC,46.0,99.422,3.0,HARD,28.0,1,True,Haas F1 Team,True,14.0,25.009,30.525,43.888,,False,False,7312.777,12,French Grand Prix
+MSC,47.0,99.327,3.0,HARD,29.0,1,True,Haas F1 Team,True,14.0,25.151,30.474,43.702,,False,False,7412.104,12,French Grand Prix
+MSC,48.0,99.068,3.0,HARD,30.0,12,True,Haas F1 Team,True,14.0,25.213,30.29,43.565,,False,False,7511.172,12,French Grand Prix
+MSC,49.0,123.921,3.0,HARD,31.0,267,False,Haas F1 Team,True,14.0,25.234,38.213,60.474,,False,False,7635.093,12,French Grand Prix
+MSC,50.0,107.596,3.0,HARD,32.0,71,False,Haas F1 Team,True,14.0,33.28,30.495,43.821,,False,False,7742.689,12,French Grand Prix
+MSC,51.0,100.135,3.0,HARD,33.0,1,True,Haas F1 Team,True,14.0,25.245,30.901,43.989,,False,False,7842.824,12,French Grand Prix
+MSC,52.0,100.139,3.0,HARD,34.0,1,True,Haas F1 Team,True,15.0,25.826,30.527,43.786,,False,False,7942.963,12,French Grand Prix
+MSC,53.0,100.031,3.0,HARD,35.0,1,True,Haas F1 Team,True,15.0,25.477,30.317,44.237,,False,False,8042.994,12,French Grand Prix
+VET,1.0,112.214,1.0,MEDIUM,3.0,12,False,Aston Martin,False,11.0,,32.137,45.249,,False,False,2672.702,12,French Grand Prix
+VET,2.0,101.161,1.0,MEDIUM,4.0,1,True,Aston Martin,False,11.0,26.216,30.53,44.415,,False,False,2773.863,12,French Grand Prix
+VET,3.0,100.34,1.0,MEDIUM,5.0,1,True,Aston Martin,False,11.0,25.793,30.247,44.3,,False,False,2874.203,12,French Grand Prix
+VET,4.0,100.078,1.0,MEDIUM,6.0,1,True,Aston Martin,False,11.0,25.654,29.993,44.431,,False,False,2974.281,12,French Grand Prix
+VET,5.0,100.216,1.0,MEDIUM,7.0,1,True,Aston Martin,False,11.0,25.523,30.304,44.389,,False,False,3074.497,12,French Grand Prix
+VET,6.0,100.344,1.0,MEDIUM,8.0,1,True,Aston Martin,False,11.0,25.584,30.256,44.504,,False,False,3174.841,12,French Grand Prix
+VET,7.0,100.71,1.0,MEDIUM,9.0,1,True,Aston Martin,False,11.0,25.573,30.572,44.565,,False,False,3275.551,12,French Grand Prix
+VET,8.0,100.834,1.0,MEDIUM,10.0,1,True,Aston Martin,False,11.0,25.653,30.528,44.653,,False,False,3376.385,12,French Grand Prix
+VET,9.0,100.562,1.0,MEDIUM,11.0,1,True,Aston Martin,False,11.0,25.664,30.229,44.669,,False,False,3476.947,12,French Grand Prix
+VET,10.0,100.724,1.0,MEDIUM,12.0,1,True,Aston Martin,False,11.0,25.679,30.38,44.665,,False,False,3577.671,12,French Grand Prix
+VET,11.0,100.883,1.0,MEDIUM,13.0,1,True,Aston Martin,False,11.0,25.639,30.401,44.843,,False,False,3678.554,12,French Grand Prix
+VET,12.0,101.964,1.0,MEDIUM,14.0,1,True,Aston Martin,False,12.0,26.668,30.519,44.777,,False,False,3780.518,12,French Grand Prix
+VET,13.0,101.066,1.0,MEDIUM,15.0,1,True,Aston Martin,False,12.0,25.79,30.693,44.583,,False,False,3881.584,12,French Grand Prix
+VET,14.0,101.077,1.0,MEDIUM,16.0,1,True,Aston Martin,False,12.0,25.886,30.654,44.537,,False,False,3982.661,12,French Grand Prix
+VET,15.0,100.752,1.0,MEDIUM,17.0,1,True,Aston Martin,False,12.0,25.679,30.502,44.571,,False,False,4083.413,12,French Grand Prix
+VET,16.0,100.726,1.0,MEDIUM,18.0,1,True,Aston Martin,False,12.0,25.628,30.448,44.65,,False,False,4184.139,12,French Grand Prix
+VET,17.0,100.875,1.0,MEDIUM,19.0,1,True,Aston Martin,False,12.0,25.714,30.655,44.506,,False,False,4285.014,12,French Grand Prix
+VET,18.0,119.46,1.0,MEDIUM,20.0,124,False,Aston Martin,False,6.0,25.494,34.657,59.309,,False,False,4404.474,12,French Grand Prix
+VET,19.0,160.884,1.0,MEDIUM,21.0,4,False,Aston Martin,False,12.0,32.883,45.654,82.347,,True,False,4565.358,12,French Grand Prix
+VET,20.0,136.561,2.0,HARD,2.0,41,False,Aston Martin,False,13.0,38.016,36.825,61.72,,False,True,4701.919,12,French Grand Prix
+VET,21.0,100.675,2.0,HARD,3.0,1,True,Aston Martin,False,13.0,25.762,30.577,44.336,,False,False,4802.594,12,French Grand Prix
+VET,22.0,101.011,2.0,HARD,4.0,12,True,Aston Martin,False,13.0,25.796,30.46,44.755,,False,False,4903.605,12,French Grand Prix
+VET,23.0,100.563,2.0,HARD,5.0,1,True,Aston Martin,False,13.0,26.064,30.214,44.285,,False,False,5004.168,12,French Grand Prix
+VET,24.0,100.06,2.0,HARD,6.0,1,True,Aston Martin,False,13.0,25.561,30.167,44.332,,False,False,5104.228,12,French Grand Prix
+VET,25.0,99.748,2.0,HARD,7.0,1,True,Aston Martin,False,13.0,25.467,30.146,44.135,,False,False,5203.976,12,French Grand Prix
+VET,26.0,99.736,2.0,HARD,8.0,1,True,Aston Martin,False,13.0,25.328,30.126,44.282,,False,False,5303.712,12,French Grand Prix
+VET,27.0,99.91,2.0,HARD,9.0,1,True,Aston Martin,False,13.0,25.626,29.989,44.295,,False,False,5403.622,12,French Grand Prix
+VET,28.0,99.586,2.0,HARD,10.0,1,True,Aston Martin,False,12.0,25.427,30.071,44.088,,False,False,5503.208,12,French Grand Prix
+VET,29.0,99.594,2.0,HARD,11.0,1,True,Aston Martin,False,12.0,25.367,30.216,44.011,,False,False,5602.802,12,French Grand Prix
+VET,30.0,99.718,2.0,HARD,12.0,1,True,Aston Martin,False,12.0,25.416,30.168,44.134,,False,False,5702.52,12,French Grand Prix
+VET,31.0,99.876,2.0,HARD,13.0,1,True,Aston Martin,False,12.0,25.419,30.312,44.145,,False,False,5802.396,12,French Grand Prix
+VET,32.0,99.767,2.0,HARD,14.0,1,True,Aston Martin,False,12.0,25.405,30.237,44.125,,False,False,5902.163,12,French Grand Prix
+VET,33.0,99.822,2.0,HARD,15.0,1,True,Aston Martin,False,12.0,25.256,30.338,44.228,,False,False,6001.985,12,French Grand Prix
+VET,34.0,99.788,2.0,HARD,16.0,1,True,Aston Martin,False,12.0,25.369,30.256,44.163,,False,False,6101.773,12,French Grand Prix
+VET,35.0,100.025,2.0,HARD,17.0,1,True,Aston Martin,False,12.0,25.53,30.156,44.339,,False,False,6201.798,12,French Grand Prix
+VET,36.0,99.917,2.0,HARD,18.0,1,True,Aston Martin,False,12.0,25.459,30.222,44.236,,False,False,6301.715,12,French Grand Prix
+VET,37.0,99.869,2.0,HARD,19.0,1,True,Aston Martin,False,12.0,25.501,30.175,44.193,,False,False,6401.584,12,French Grand Prix
+VET,38.0,100.554,2.0,HARD,20.0,12,True,Aston Martin,False,12.0,25.539,30.231,44.784,,False,False,6502.138,12,French Grand Prix
+VET,39.0,99.392,2.0,HARD,21.0,1,True,Aston Martin,False,11.0,25.361,30.185,43.846,,False,False,6601.53,12,French Grand Prix
+VET,40.0,99.507,2.0,HARD,22.0,1,True,Aston Martin,False,11.0,25.228,30.316,43.963,,False,False,6701.037,12,French Grand Prix
+VET,41.0,99.415,2.0,HARD,23.0,1,True,Aston Martin,False,11.0,25.323,30.304,43.788,,False,False,6800.452,12,French Grand Prix
+VET,42.0,99.124,2.0,HARD,24.0,1,True,Aston Martin,False,11.0,25.254,30.204,43.666,,False,False,6899.576,12,French Grand Prix
+VET,43.0,99.044,2.0,HARD,25.0,1,True,Aston Martin,False,11.0,25.276,30.242,43.526,,False,False,6998.62,12,French Grand Prix
+VET,44.0,99.259,2.0,HARD,26.0,1,True,Aston Martin,False,11.0,25.293,30.137,43.829,,False,False,7097.879,12,French Grand Prix
+VET,45.0,99.26,2.0,HARD,27.0,1,True,Aston Martin,False,11.0,25.335,30.142,43.783,,False,False,7197.139,12,French Grand Prix
+VET,46.0,99.239,2.0,HARD,28.0,1,True,Aston Martin,False,11.0,25.319,30.269,43.651,,False,False,7296.378,12,French Grand Prix
+VET,47.0,99.157,2.0,HARD,29.0,1,True,Aston Martin,False,11.0,25.242,30.242,43.673,,False,False,7395.535,12,French Grand Prix
+VET,48.0,99.083,2.0,HARD,30.0,1,True,Aston Martin,False,11.0,25.295,29.942,43.846,,False,False,7494.618,12,French Grand Prix
+VET,49.0,118.515,2.0,HARD,31.0,1267,False,Aston Martin,False,11.0,25.563,30.632,62.32,,False,False,7613.133,12,French Grand Prix
+VET,50.0,113.434,2.0,HARD,32.0,71,False,Aston Martin,False,11.0,33.043,36.644,43.747,,False,False,7726.567,12,French Grand Prix
+VET,51.0,99.437,2.0,HARD,33.0,1,True,Aston Martin,False,11.0,25.4,30.262,43.775,,False,False,7826.004,12,French Grand Prix
+VET,52.0,99.218,2.0,HARD,34.0,1,True,Aston Martin,False,11.0,25.252,30.076,43.89,,False,False,7925.222,12,French Grand Prix
+VET,53.0,101.872,2.0,HARD,35.0,1,True,Aston Martin,False,11.0,25.291,30.192,46.389,,False,False,8027.094,12,French Grand Prix
+SAI,1.0,115.014,1.0,HARD,1.0,12,False,Ferrari,True,18.0,,31.81,46.353,,False,False,2675.502,12,French Grand Prix
+SAI,2.0,101.355,1.0,HARD,2.0,1,True,Ferrari,True,16.0,26.657,30.397,44.301,,False,False,2776.857,12,French Grand Prix
+SAI,3.0,99.779,1.0,HARD,3.0,1,True,Ferrari,True,15.0,25.723,30.279,43.777,,False,False,2876.636,12,French Grand Prix
+SAI,4.0,100.095,1.0,HARD,4.0,1,True,Ferrari,True,14.0,25.626,30.258,44.211,,False,False,2976.731,12,French Grand Prix
+SAI,5.0,100.063,1.0,HARD,5.0,1,True,Ferrari,True,13.0,25.478,30.366,44.219,,False,False,3076.794,12,French Grand Prix
+SAI,6.0,99.942,1.0,HARD,6.0,1,True,Ferrari,True,13.0,25.321,30.51,44.111,,False,False,3176.736,12,French Grand Prix
+SAI,7.0,100.38,1.0,HARD,7.0,1,True,Ferrari,True,13.0,25.666,30.354,44.36,,False,False,3277.116,12,French Grand Prix
+SAI,8.0,100.042,1.0,HARD,8.0,1,True,Ferrari,True,12.0,25.475,30.446,44.121,,False,False,3377.158,12,French Grand Prix
+SAI,9.0,100.24,1.0,HARD,9.0,1,True,Ferrari,True,12.0,25.505,30.189,44.546,,False,False,3477.398,12,French Grand Prix
+SAI,10.0,100.712,1.0,HARD,10.0,1,True,Ferrari,True,12.0,25.65,30.394,44.668,,False,False,3578.11,12,French Grand Prix
+SAI,11.0,100.664,1.0,HARD,11.0,1,True,Ferrari,True,12.0,25.745,30.327,44.592,,False,False,3678.774,12,French Grand Prix
+SAI,12.0,100.397,1.0,HARD,12.0,1,True,Ferrari,True,11.0,25.68,30.408,44.309,,False,False,3779.171,12,French Grand Prix
+SAI,13.0,100.468,1.0,HARD,13.0,1,True,Ferrari,True,10.0,25.658,30.533,44.277,,False,False,3879.639,12,French Grand Prix
+SAI,14.0,100.435,1.0,HARD,14.0,1,True,Ferrari,True,10.0,25.611,30.494,44.33,,False,False,3980.074,12,French Grand Prix
+SAI,15.0,100.116,1.0,HARD,15.0,1,True,Ferrari,True,10.0,25.562,30.397,44.157,,False,False,4080.19,12,French Grand Prix
+SAI,16.0,100.359,1.0,HARD,16.0,1,True,Ferrari,True,10.0,25.393,30.496,44.47,,False,False,4180.549,12,French Grand Prix
+SAI,17.0,100.049,1.0,HARD,17.0,1,True,Ferrari,True,9.0,25.704,30.187,44.158,,False,False,4280.598,12,French Grand Prix
+SAI,18.0,137.57,1.0,HARD,18.0,124,False,Ferrari,True,10.0,25.246,30.497,81.827,,True,False,4418.168,12,French Grand Prix
+SAI,19.0,140.344,2.0,MEDIUM,1.0,4,False,Ferrari,True,8.0,40.036,42.191,58.117,,False,True,4558.512,12,French Grand Prix
+SAI,20.0,140.535,2.0,MEDIUM,2.0,41,False,Ferrari,True,8.0,29.52,44.59,66.425,,False,False,4699.047,12,French Grand Prix
+SAI,21.0,98.725,2.0,MEDIUM,3.0,1,True,Ferrari,True,6.0,25.296,29.816,43.613,,False,False,4797.772,12,French Grand Prix
+SAI,22.0,98.744,2.0,MEDIUM,4.0,12,True,Ferrari,True,5.0,25.439,29.976,43.329,,False,False,4896.516,12,French Grand Prix
+SAI,23.0,98.393,2.0,MEDIUM,5.0,21,True,Ferrari,True,5.0,25.026,29.808,43.559,,False,False,4994.909,12,French Grand Prix
+SAI,24.0,97.941,2.0,MEDIUM,6.0,1,True,Ferrari,True,5.0,24.74,29.814,43.387,,False,False,5092.85,12,French Grand Prix
+SAI,25.0,98.128,2.0,MEDIUM,7.0,1,True,Ferrari,True,5.0,24.789,29.833,43.506,,False,False,5190.978,12,French Grand Prix
+SAI,26.0,97.889,2.0,MEDIUM,8.0,1,True,Ferrari,True,5.0,24.908,29.588,43.393,,False,False,5288.867,12,French Grand Prix
+SAI,27.0,98.043,2.0,MEDIUM,9.0,1,True,Ferrari,True,5.0,24.959,29.669,43.415,,False,False,5386.91,12,French Grand Prix
+SAI,28.0,98.32,2.0,MEDIUM,10.0,1,True,Ferrari,True,5.0,24.919,29.713,43.688,,False,False,5485.23,12,French Grand Prix
+SAI,29.0,98.257,2.0,MEDIUM,11.0,1,True,Ferrari,True,5.0,24.853,29.745,43.659,,False,False,5583.487,12,French Grand Prix
+SAI,30.0,98.211,2.0,MEDIUM,12.0,1,True,Ferrari,True,4.0,24.932,29.83,43.449,,False,False,5681.698,12,French Grand Prix
+SAI,31.0,98.513,2.0,MEDIUM,13.0,1,True,Ferrari,True,4.0,24.8,30.298,43.415,,False,False,5780.211,12,French Grand Prix
+SAI,32.0,97.963,2.0,MEDIUM,14.0,1,True,Ferrari,True,4.0,24.849,30.017,43.097,,False,False,5878.174,12,French Grand Prix
+SAI,33.0,97.975,2.0,MEDIUM,15.0,1,True,Ferrari,True,4.0,24.696,30.047,43.232,,False,False,5976.149,12,French Grand Prix
+SAI,34.0,98.081,2.0,MEDIUM,16.0,1,True,Ferrari,True,4.0,24.834,30.102,43.145,,False,False,6074.23,12,French Grand Prix
+SAI,35.0,98.172,2.0,MEDIUM,17.0,1,True,Ferrari,True,4.0,24.907,30.108,43.157,,False,False,6172.402,12,French Grand Prix
+SAI,36.0,98.599,2.0,MEDIUM,18.0,1,True,Ferrari,True,4.0,25.102,29.919,43.578,,False,False,6271.001,12,French Grand Prix
+SAI,37.0,98.416,2.0,MEDIUM,19.0,1,True,Ferrari,True,4.0,25.042,29.824,43.55,,False,False,6369.417,12,French Grand Prix
+SAI,38.0,98.31,2.0,MEDIUM,20.0,12,True,Ferrari,True,4.0,24.943,29.813,43.554,,False,False,6467.727,12,French Grand Prix
+SAI,39.0,98.703,2.0,MEDIUM,21.0,1,True,Ferrari,True,4.0,25.141,29.881,43.681,,False,False,6566.43,12,French Grand Prix
+SAI,40.0,98.348,2.0,MEDIUM,22.0,1,True,Ferrari,True,4.0,24.892,29.873,43.583,,False,False,6664.778,12,French Grand Prix
+SAI,41.0,98.857,2.0,MEDIUM,23.0,1,True,Ferrari,True,3.0,24.834,29.852,44.171,,False,False,6763.635,12,French Grand Prix
+SAI,42.0,125.219,2.0,MEDIUM,24.0,1,False,Ferrari,True,7.0,25.374,30.264,69.581,,True,False,6888.854,12,French Grand Prix
+SAI,43.0,104.372,3.0,MEDIUM,1.0,1,False,Ferrari,True,8.0,31.862,29.237,43.273,,False,True,6993.226,12,French Grand Prix
+SAI,44.0,96.242,3.0,MEDIUM,2.0,1,True,Ferrari,True,7.0,24.264,29.523,42.455,,False,False,7089.468,12,French Grand Prix
+SAI,45.0,96.208,3.0,MEDIUM,3.0,1,True,Ferrari,True,6.0,24.403,29.347,42.458,,False,False,7185.676,12,French Grand Prix
+SAI,46.0,96.243,3.0,MEDIUM,4.0,1,True,Ferrari,True,6.0,24.282,29.501,42.46,,False,False,7281.919,12,French Grand Prix
+SAI,47.0,95.852,3.0,MEDIUM,5.0,1,True,Ferrari,True,5.0,24.37,29.46,42.022,,False,False,7377.771,12,French Grand Prix
+SAI,48.0,96.611,3.0,MEDIUM,6.0,1,True,Ferrari,True,5.0,24.403,29.586,42.622,,False,False,7474.382,12,French Grand Prix
+SAI,49.0,107.636,3.0,MEDIUM,7.0,126,False,Ferrari,True,5.0,24.566,29.645,53.425,,False,False,7582.018,12,French Grand Prix
+SAI,50.0,120.875,3.0,MEDIUM,8.0,671,False,Ferrari,True,5.0,32.569,43.232,45.074,,False,False,7702.893,12,French Grand Prix
+SAI,51.0,95.781,3.0,MEDIUM,9.0,1,True,Ferrari,True,5.0,24.221,29.393,42.167,,False,False,7798.674,12,French Grand Prix
+SAI,52.0,96.352,3.0,MEDIUM,10.0,1,True,Ferrari,True,5.0,24.3,29.458,42.594,,False,False,7895.026,12,French Grand Prix
+SAI,53.0,96.446,3.0,MEDIUM,11.0,1,True,Ferrari,True,5.0,24.34,29.536,42.57,,False,False,7991.472,12,French Grand Prix
+LAT,1.0,114.94,1.0,MEDIUM,1.0,12,False,Williams,True,17.0,,31.806,46.505,,False,False,2675.428,12,French Grand Prix
+LAT,2.0,102.934,1.0,MEDIUM,2.0,1,True,Williams,True,18.0,26.967,30.977,44.99,,False,False,2778.362,12,French Grand Prix
+LAT,3.0,101.281,1.0,MEDIUM,3.0,1,True,Williams,True,18.0,26.088,30.418,44.775,,False,False,2879.643,12,French Grand Prix
+LAT,4.0,101.089,1.0,MEDIUM,4.0,1,True,Williams,True,18.0,25.907,30.386,44.796,,False,False,2980.732,12,French Grand Prix
+LAT,5.0,100.706,1.0,MEDIUM,5.0,1,True,Williams,True,18.0,25.581,30.298,44.827,,False,False,3081.438,12,French Grand Prix
+LAT,6.0,100.983,1.0,MEDIUM,6.0,1,True,Williams,True,18.0,25.528,30.435,45.02,,False,False,3182.421,12,French Grand Prix
+LAT,7.0,101.028,1.0,MEDIUM,7.0,1,True,Williams,True,18.0,25.495,30.427,45.106,,False,False,3283.449,12,French Grand Prix
+LAT,8.0,100.612,1.0,MEDIUM,8.0,1,True,Williams,True,17.0,25.444,30.348,44.82,,False,False,3384.061,12,French Grand Prix
+LAT,9.0,100.936,1.0,MEDIUM,9.0,1,True,Williams,True,16.0,25.671,30.584,44.681,,False,False,3484.997,12,French Grand Prix
+LAT,10.0,101.188,1.0,MEDIUM,10.0,1,True,Williams,True,16.0,25.714,30.47,45.004,,False,False,3586.185,12,French Grand Prix
+LAT,11.0,101.054,1.0,MEDIUM,11.0,1,True,Williams,True,16.0,25.615,30.286,45.153,,False,False,3687.239,12,French Grand Prix
+LAT,12.0,100.856,1.0,MEDIUM,12.0,1,True,Williams,True,16.0,25.631,30.31,44.915,,False,False,3788.095,12,French Grand Prix
+LAT,13.0,101.145,1.0,MEDIUM,13.0,1,True,Williams,True,16.0,25.837,30.511,44.797,,False,False,3889.24,12,French Grand Prix
+LAT,14.0,101.857,1.0,MEDIUM,14.0,1,True,Williams,True,15.0,26.423,30.386,45.048,,False,False,3991.097,12,French Grand Prix
+LAT,15.0,101.032,1.0,MEDIUM,15.0,1,True,Williams,True,15.0,25.637,30.585,44.81,,False,False,4092.129,12,French Grand Prix
+LAT,16.0,100.754,1.0,MEDIUM,16.0,1,True,Williams,True,15.0,25.421,30.545,44.788,,False,False,4192.883,12,French Grand Prix
+LAT,17.0,101.068,1.0,MEDIUM,17.0,1,True,Williams,True,15.0,25.711,30.712,44.645,,False,False,4293.951,12,French Grand Prix
+LAT,18.0,121.742,1.0,MEDIUM,18.0,124,False,Williams,True,8.0,25.393,37.916,58.433,,False,False,4415.693,12,French Grand Prix
+LAT,19.0,154.586,1.0,MEDIUM,19.0,4,False,Williams,True,14.0,34.237,41.089,79.26,,True,False,4570.279,12,French Grand Prix
+LAT,20.0,132.9,2.0,HARD,1.0,41,False,Williams,True,15.0,34.577,37.286,61.037,,False,True,4703.179,12,French Grand Prix
+LAT,21.0,100.946,2.0,HARD,2.0,1,True,Williams,True,15.0,25.842,30.354,44.75,,False,False,4804.125,12,French Grand Prix
+LAT,22.0,100.616,2.0,HARD,3.0,12,True,Williams,True,15.0,25.568,30.354,44.694,,False,False,4904.741,12,French Grand Prix
+LAT,23.0,101.341,2.0,HARD,4.0,1,True,Williams,True,16.0,25.927,30.138,45.276,,False,False,5006.082,12,French Grand Prix
+LAT,24.0,100.347,2.0,HARD,5.0,1,True,Williams,True,16.0,25.535,30.171,44.641,,False,False,5106.429,12,French Grand Prix
+LAT,25.0,100.336,2.0,HARD,6.0,1,True,Williams,True,16.0,25.547,30.333,44.456,,False,False,5206.765,12,French Grand Prix
+LAT,26.0,99.85,2.0,HARD,7.0,1,True,Williams,True,16.0,25.279,30.332,44.239,,False,False,5306.615,12,French Grand Prix
+LAT,27.0,99.82,2.0,HARD,8.0,1,True,Williams,True,16.0,25.316,30.132,44.372,,False,False,5406.435,12,French Grand Prix
+LAT,28.0,99.909,2.0,HARD,9.0,1,True,Williams,True,16.0,25.285,30.143,44.481,,False,False,5506.344,12,French Grand Prix
+LAT,29.0,99.904,2.0,HARD,10.0,1,True,Williams,True,16.0,25.339,30.071,44.494,,False,False,5606.248,12,French Grand Prix
+LAT,30.0,99.725,2.0,HARD,11.0,1,True,Williams,True,16.0,25.215,30.142,44.368,,False,False,5705.973,12,French Grand Prix
+LAT,31.0,100.163,2.0,HARD,12.0,1,True,Williams,True,16.0,25.374,30.321,44.468,,False,False,5806.136,12,French Grand Prix
+LAT,32.0,99.923,2.0,HARD,13.0,1,True,Williams,True,16.0,25.385,30.216,44.322,,False,False,5906.059,12,French Grand Prix
+LAT,33.0,100.008,2.0,HARD,14.0,1,True,Williams,True,16.0,25.237,30.381,44.39,,False,False,6006.067,12,French Grand Prix
+LAT,34.0,100.148,2.0,HARD,15.0,1,True,Williams,True,16.0,25.448,30.262,44.438,,False,False,6106.215,12,French Grand Prix
+LAT,35.0,100.502,2.0,HARD,16.0,1,True,Williams,True,16.0,25.561,30.351,44.59,,False,False,6206.717,12,French Grand Prix
+LAT,36.0,100.768,2.0,HARD,17.0,1,True,Williams,True,15.0,25.465,30.33,44.973,,False,False,6307.485,12,French Grand Prix
+LAT,37.0,100.621,2.0,HARD,18.0,1,True,Williams,True,15.0,25.463,30.338,44.82,,False,False,6408.106,12,French Grand Prix
+LAT,38.0,140.387,2.0,HARD,19.0,12,False,Williams,True,17.0,39.299,32.074,69.014,,True,False,6548.493,12,French Grand Prix
+LAT,39.0,107.723,3.0,MEDIUM,1.0,1,False,Williams,True,16.0,33.623,30.363,43.737,,False,True,6656.216,12,French Grand Prix
+LAT,40.0,99.65,3.0,MEDIUM,2.0,1,True,Williams,True,16.0,25.24,30.256,44.154,,False,False,6755.866,12,French Grand Prix
+LAT,41.0,,3.0,MEDIUM,3.0,1,False,Williams,True,16.0,25.616,35.647,,,True,False,6865.841,12,French Grand Prix
+RUS,1.0,107.996,1.0,MEDIUM,1.0,12,False,Mercedes,True,6.0,,30.498,44.073,,False,False,2668.484,12,French Grand Prix
+RUS,2.0,99.807,1.0,MEDIUM,2.0,1,True,Mercedes,True,6.0,25.599,30.35,43.858,,False,False,2768.291,12,French Grand Prix
+RUS,3.0,99.389,1.0,MEDIUM,3.0,1,True,Mercedes,True,5.0,25.414,30.004,43.971,,False,False,2867.68,12,French Grand Prix
+RUS,4.0,98.837,1.0,MEDIUM,4.0,1,True,Mercedes,True,5.0,25.047,30.103,43.687,,False,False,2966.517,12,French Grand Prix
+RUS,5.0,99.6,1.0,MEDIUM,5.0,1,True,Mercedes,True,5.0,25.241,30.299,44.06,,False,False,3066.117,12,French Grand Prix
+RUS,6.0,99.927,1.0,MEDIUM,6.0,1,True,Mercedes,True,5.0,25.16,30.461,44.306,,False,False,3166.044,12,French Grand Prix
+RUS,7.0,99.79,1.0,MEDIUM,7.0,1,True,Mercedes,True,5.0,25.234,30.494,44.062,,False,False,3265.834,12,French Grand Prix
+RUS,8.0,99.014,1.0,MEDIUM,8.0,1,True,Mercedes,True,5.0,25.004,30.141,43.869,,False,False,3364.848,12,French Grand Prix
+RUS,9.0,99.212,1.0,MEDIUM,9.0,1,True,Mercedes,True,5.0,25.086,30.27,43.856,,False,False,3464.06,12,French Grand Prix
+RUS,10.0,99.527,1.0,MEDIUM,10.0,1,True,Mercedes,True,5.0,25.246,30.358,43.923,,False,False,3563.587,12,French Grand Prix
+RUS,11.0,99.588,1.0,MEDIUM,11.0,1,True,Mercedes,True,5.0,25.257,30.27,44.061,,False,False,3663.175,12,French Grand Prix
+RUS,12.0,99.353,1.0,MEDIUM,12.0,1,True,Mercedes,True,5.0,25.068,30.306,43.979,,False,False,3762.528,12,French Grand Prix
+RUS,13.0,99.273,1.0,MEDIUM,13.0,1,True,Mercedes,True,5.0,25.136,30.379,43.758,,False,False,3861.801,12,French Grand Prix
+RUS,14.0,99.807,1.0,MEDIUM,14.0,1,True,Mercedes,True,5.0,25.392,30.361,44.054,,False,False,3961.608,12,French Grand Prix
+RUS,15.0,99.543,1.0,MEDIUM,15.0,1,True,Mercedes,True,5.0,25.303,30.21,44.03,,False,False,4061.151,12,French Grand Prix
+RUS,16.0,99.345,1.0,MEDIUM,16.0,1,True,Mercedes,True,4.0,25.057,30.27,44.018,,False,False,4160.496,12,French Grand Prix
+RUS,17.0,99.733,1.0,MEDIUM,17.0,1,True,Mercedes,True,4.0,25.202,30.317,44.214,,False,False,4260.229,12,French Grand Prix
+RUS,18.0,127.168,1.0,MEDIUM,18.0,124,False,Mercedes,True,4.0,25.032,30.274,71.862,,True,False,4387.397,12,French Grand Prix
+RUS,19.0,162.49,2.0,HARD,2.0,4,False,Mercedes,False,4.0,40.787,49.638,72.065,,False,True,4549.887,12,French Grand Prix
+RUS,20.0,146.413,2.0,HARD,3.0,41,False,Mercedes,False,4.0,32.02,43.123,71.27,,False,False,4696.3,12,French Grand Prix
+RUS,21.0,99.469,2.0,HARD,4.0,1,True,Mercedes,False,4.0,25.416,30.31,43.743,,False,False,4795.769,12,French Grand Prix
+RUS,22.0,98.344,2.0,HARD,5.0,12,True,Mercedes,False,4.0,24.921,29.89,43.533,,False,False,4894.113,12,French Grand Prix
+RUS,23.0,98.234,2.0,HARD,6.0,21,True,Mercedes,False,4.0,24.949,29.743,43.542,,False,False,4992.347,12,French Grand Prix
+RUS,24.0,98.502,2.0,HARD,7.0,1,True,Mercedes,False,4.0,24.845,29.851,43.806,,False,False,5090.849,12,French Grand Prix
+RUS,25.0,99.024,2.0,HARD,8.0,1,True,Mercedes,False,4.0,25.124,30.03,43.87,,False,False,5189.873,12,French Grand Prix
+RUS,26.0,98.476,2.0,HARD,9.0,1,True,Mercedes,False,4.0,25.078,29.795,43.603,,False,False,5288.349,12,French Grand Prix
+RUS,27.0,97.95,2.0,HARD,10.0,1,True,Mercedes,False,4.0,24.821,29.678,43.451,,False,False,5386.299,12,French Grand Prix
+RUS,28.0,98.185,2.0,HARD,11.0,1,True,Mercedes,False,4.0,24.926,29.72,43.539,,False,False,5484.484,12,French Grand Prix
+RUS,29.0,98.45,2.0,HARD,12.0,1,True,Mercedes,False,4.0,24.911,29.895,43.644,,False,False,5582.934,12,French Grand Prix
+RUS,30.0,100.105,2.0,HARD,13.0,1,True,Mercedes,False,5.0,24.914,30.369,44.822,,False,False,5683.039,12,French Grand Prix
+RUS,31.0,98.725,2.0,HARD,14.0,1,True,Mercedes,False,5.0,24.982,30.186,43.557,,False,False,5781.764,12,French Grand Prix
+RUS,32.0,98.591,2.0,HARD,15.0,1,True,Mercedes,False,5.0,25.058,30.031,43.502,,False,False,5880.355,12,French Grand Prix
+RUS,33.0,98.604,2.0,HARD,16.0,1,True,Mercedes,False,5.0,24.806,30.151,43.647,,False,False,5978.959,12,French Grand Prix
+RUS,34.0,98.326,2.0,HARD,17.0,1,True,Mercedes,False,5.0,24.823,30.151,43.352,,False,False,6077.285,12,French Grand Prix
+RUS,35.0,98.34,2.0,HARD,18.0,1,True,Mercedes,False,5.0,24.91,30.072,43.358,,False,False,6175.625,12,French Grand Prix
+RUS,36.0,98.746,2.0,HARD,19.0,1,True,Mercedes,False,5.0,25.081,30.146,43.519,,False,False,6274.371,12,French Grand Prix
+RUS,37.0,98.225,2.0,HARD,20.0,1,True,Mercedes,False,5.0,24.913,29.944,43.368,,False,False,6372.596,12,French Grand Prix
+RUS,38.0,98.289,2.0,HARD,21.0,12,True,Mercedes,False,5.0,24.847,29.974,43.468,,False,False,6470.885,12,French Grand Prix
+RUS,39.0,98.368,2.0,HARD,22.0,1,True,Mercedes,False,5.0,24.953,30.011,43.404,,False,False,6569.253,12,French Grand Prix
+RUS,40.0,98.025,2.0,HARD,23.0,1,True,Mercedes,False,5.0,24.683,29.941,43.401,,False,False,6667.278,12,French Grand Prix
+RUS,41.0,98.252,2.0,HARD,24.0,1,True,Mercedes,False,5.0,24.717,29.976,43.559,,False,False,6765.53,12,French Grand Prix
+RUS,42.0,99.349,2.0,HARD,25.0,1,True,Mercedes,False,4.0,24.989,30.391,43.969,,False,False,6864.879,12,French Grand Prix
+RUS,43.0,98.415,2.0,HARD,26.0,1,True,Mercedes,False,4.0,25.126,29.728,43.561,,False,False,6963.294,12,French Grand Prix
+RUS,44.0,98.438,2.0,HARD,27.0,1,True,Mercedes,False,4.0,25.152,29.852,43.434,,False,False,7061.732,12,French Grand Prix
+RUS,45.0,98.084,2.0,HARD,28.0,1,True,Mercedes,False,4.0,24.885,29.836,43.363,,False,False,7159.816,12,French Grand Prix
+RUS,46.0,97.627,2.0,HARD,29.0,1,True,Mercedes,False,4.0,24.741,29.704,43.182,,False,False,7257.443,12,French Grand Prix
+RUS,47.0,98.097,2.0,HARD,30.0,1,True,Mercedes,False,4.0,25.037,29.858,43.202,,False,False,7355.54,12,French Grand Prix
+RUS,48.0,98.49,2.0,HARD,31.0,1,True,Mercedes,False,4.0,24.956,29.983,43.551,,False,False,7454.03,12,French Grand Prix
+RUS,49.0,101.792,2.0,HARD,32.0,126,False,Mercedes,False,4.0,25.183,29.912,46.697,,False,False,7555.822,12,French Grand Prix
+RUS,50.0,129.363,2.0,HARD,33.0,671,False,Mercedes,False,3.0,34.588,40.784,53.991,,False,False,7685.185,12,French Grand Prix
+RUS,51.0,97.548,2.0,HARD,34.0,1,True,Mercedes,False,3.0,24.665,30.017,42.866,,False,False,7782.733,12,French Grand Prix
+RUS,52.0,98.349,2.0,HARD,35.0,1,True,Mercedes,False,3.0,24.664,29.969,43.716,,False,False,7881.082,12,French Grand Prix
+RUS,53.0,98.013,2.0,HARD,36.0,1,True,Mercedes,False,3.0,24.682,30.011,43.32,,False,False,7979.095,12,French Grand Prix
+BOT,1.0,114.308,1.0,HARD,1.0,12,False,Alfa Romeo,True,16.0,,31.899,46.112,,False,False,2674.796,12,French Grand Prix
+BOT,2.0,102.929,1.0,HARD,2.0,1,True,Alfa Romeo,True,17.0,26.804,31.272,44.853,,False,False,2777.725,12,French Grand Prix
+BOT,3.0,101.529,1.0,HARD,3.0,1,True,Alfa Romeo,True,17.0,26.206,30.436,44.887,,False,False,2879.254,12,French Grand Prix
+BOT,4.0,100.929,1.0,HARD,4.0,1,True,Alfa Romeo,True,17.0,25.792,30.405,44.732,,False,False,2980.183,12,French Grand Prix
+BOT,5.0,100.601,1.0,HARD,5.0,1,True,Alfa Romeo,True,17.0,25.664,30.289,44.648,,False,False,3080.784,12,French Grand Prix
+BOT,6.0,100.803,1.0,HARD,6.0,1,True,Alfa Romeo,True,17.0,25.643,30.558,44.602,,False,False,3181.587,12,French Grand Prix
+BOT,7.0,101.332,1.0,HARD,7.0,1,True,Alfa Romeo,True,17.0,25.692,30.662,44.978,,False,False,3282.919,12,French Grand Prix
+BOT,8.0,100.537,1.0,HARD,8.0,1,True,Alfa Romeo,True,16.0,25.526,30.352,44.659,,False,False,3383.456,12,French Grand Prix
+BOT,9.0,100.952,1.0,HARD,9.0,1,True,Alfa Romeo,True,15.0,25.748,30.543,44.661,,False,False,3484.408,12,French Grand Prix
+BOT,10.0,101.033,1.0,HARD,10.0,1,True,Alfa Romeo,True,15.0,25.72,30.453,44.86,,False,False,3585.441,12,French Grand Prix
+BOT,11.0,101.085,1.0,HARD,11.0,1,True,Alfa Romeo,True,15.0,25.693,30.566,44.826,,False,False,3686.526,12,French Grand Prix
+BOT,12.0,100.894,1.0,HARD,12.0,1,True,Alfa Romeo,True,15.0,25.758,30.378,44.758,,False,False,3787.42,12,French Grand Prix
+BOT,13.0,101.512,1.0,HARD,13.0,1,True,Alfa Romeo,True,15.0,25.872,30.7,44.94,,False,False,3888.932,12,French Grand Prix
+BOT,14.0,103.243,1.0,HARD,14.0,1,True,Alfa Romeo,True,16.0,26.381,31.215,45.647,,False,False,3992.175,12,French Grand Prix
+BOT,15.0,101.408,1.0,HARD,15.0,1,True,Alfa Romeo,True,16.0,25.97,30.545,44.893,,False,False,4093.583,12,French Grand Prix
+BOT,16.0,101.794,1.0,HARD,16.0,1,True,Alfa Romeo,True,16.0,25.829,30.743,45.222,,False,False,4195.377,12,French Grand Prix
+BOT,17.0,101.699,1.0,HARD,17.0,1,True,Alfa Romeo,True,16.0,26.116,30.568,45.015,,False,False,4297.076,12,French Grand Prix
+BOT,18.0,140.005,1.0,HARD,18.0,124,False,Alfa Romeo,True,15.0,25.844,38.505,75.656,,True,False,4437.081,12,French Grand Prix
+BOT,19.0,137.767,2.0,HARD,1.0,4,False,Alfa Romeo,True,15.0,40.949,40.502,56.316,,False,True,4574.848,12,French Grand Prix
+BOT,20.0,127.65,2.0,HARD,2.0,41,False,Alfa Romeo,True,14.0,29.429,37.704,60.517,,False,False,4702.498,12,French Grand Prix
+BOT,21.0,100.735,2.0,HARD,3.0,1,True,Alfa Romeo,True,14.0,25.831,30.581,44.323,,False,False,4803.233,12,French Grand Prix
+BOT,22.0,100.867,2.0,HARD,4.0,12,True,Alfa Romeo,True,14.0,25.736,30.31,44.821,,False,False,4904.1,12,French Grand Prix
+BOT,23.0,100.795,2.0,HARD,5.0,1,True,Alfa Romeo,True,14.0,26.12,30.157,44.518,,False,False,5004.895,12,French Grand Prix
+BOT,24.0,99.883,2.0,HARD,6.0,1,True,Alfa Romeo,True,14.0,25.55,30.068,44.265,,False,False,5104.778,12,French Grand Prix
+BOT,25.0,99.738,2.0,HARD,7.0,1,True,Alfa Romeo,True,14.0,25.551,30.039,44.148,,False,False,5204.516,12,French Grand Prix
+BOT,26.0,99.784,2.0,HARD,8.0,1,True,Alfa Romeo,True,14.0,25.517,30.027,44.24,,False,False,5304.3,12,French Grand Prix
+BOT,27.0,99.976,2.0,HARD,9.0,1,True,Alfa Romeo,True,14.0,25.622,30.002,44.352,,False,False,5404.276,12,French Grand Prix
+BOT,28.0,99.682,2.0,HARD,10.0,1,True,Alfa Romeo,True,13.0,25.362,30.087,44.233,,False,False,5503.958,12,French Grand Prix
+BOT,29.0,99.826,2.0,HARD,11.0,1,True,Alfa Romeo,True,13.0,25.485,30.251,44.09,,False,False,5603.784,12,French Grand Prix
+BOT,30.0,99.953,2.0,HARD,12.0,1,True,Alfa Romeo,True,13.0,25.529,30.386,44.038,,False,False,5703.737,12,French Grand Prix
+BOT,31.0,100.014,2.0,HARD,13.0,1,True,Alfa Romeo,True,13.0,25.455,30.479,44.08,,False,False,5803.751,12,French Grand Prix
+BOT,32.0,99.723,2.0,HARD,14.0,1,True,Alfa Romeo,True,13.0,25.323,30.383,44.017,,False,False,5903.474,12,French Grand Prix
+BOT,33.0,99.928,2.0,HARD,15.0,1,True,Alfa Romeo,True,13.0,25.427,30.451,44.05,,False,False,6003.402,12,French Grand Prix
+BOT,34.0,99.913,2.0,HARD,16.0,1,True,Alfa Romeo,True,13.0,25.439,30.507,43.967,,False,False,6103.315,12,French Grand Prix
+BOT,35.0,100.283,2.0,HARD,17.0,1,True,Alfa Romeo,True,13.0,25.658,30.463,44.162,,False,False,6203.598,12,French Grand Prix
+BOT,36.0,120.346,2.0,HARD,18.0,1,False,Alfa Romeo,True,17.0,25.523,30.426,64.397,,True,False,6323.944,12,French Grand Prix
+BOT,37.0,105.625,3.0,MEDIUM,1.0,12,False,Alfa Romeo,True,17.0,32.817,29.609,43.199,,False,True,6429.569,12,French Grand Prix
+BOT,38.0,98.219,3.0,MEDIUM,2.0,1,True,Alfa Romeo,True,16.0,24.921,29.808,43.49,,False,False,6527.788,12,French Grand Prix
+BOT,39.0,98.218,3.0,MEDIUM,3.0,1,True,Alfa Romeo,True,15.0,24.917,29.796,43.505,,False,False,6626.006,12,French Grand Prix
+BOT,40.0,98.312,3.0,MEDIUM,4.0,1,True,Alfa Romeo,True,15.0,24.97,29.829,43.513,,False,False,6724.318,12,French Grand Prix
+BOT,41.0,98.254,3.0,MEDIUM,5.0,1,True,Alfa Romeo,True,15.0,24.926,29.813,43.515,,False,False,6822.572,12,French Grand Prix
+BOT,42.0,99.036,3.0,MEDIUM,6.0,1,True,Alfa Romeo,True,15.0,25.099,30.126,43.811,,False,False,6921.608,12,French Grand Prix
+BOT,43.0,98.631,3.0,MEDIUM,7.0,1,True,Alfa Romeo,True,15.0,25.077,29.981,43.573,,False,False,7020.239,12,French Grand Prix
+BOT,44.0,98.662,3.0,MEDIUM,8.0,1,True,Alfa Romeo,True,15.0,25.128,29.965,43.569,,False,False,7118.901,12,French Grand Prix
+BOT,45.0,98.466,3.0,MEDIUM,9.0,1,True,Alfa Romeo,True,15.0,25.037,29.83,43.599,,False,False,7217.367,12,French Grand Prix
+BOT,46.0,98.682,3.0,MEDIUM,10.0,1,True,Alfa Romeo,True,15.0,25.101,30.101,43.48,,False,False,7316.049,12,French Grand Prix
+BOT,47.0,98.376,3.0,MEDIUM,11.0,1,True,Alfa Romeo,True,15.0,25.001,29.951,43.424,,False,False,7414.425,12,French Grand Prix
+BOT,48.0,98.524,3.0,MEDIUM,12.0,12,True,Alfa Romeo,True,15.0,24.989,29.98,43.555,,False,False,7512.949,12,French Grand Prix
+BOT,49.0,123.277,3.0,MEDIUM,13.0,267,False,Alfa Romeo,True,15.0,25.3,38.371,59.606,,False,False,7636.226,12,French Grand Prix
+BOT,50.0,106.728,3.0,MEDIUM,14.0,71,False,Alfa Romeo,True,15.0,33.319,29.777,43.632,,False,False,7742.954,12,French Grand Prix
+BOT,51.0,99.991,3.0,MEDIUM,15.0,1,True,Alfa Romeo,True,15.0,25.507,30.558,43.926,,False,False,7842.945,12,French Grand Prix
+BOT,52.0,97.963,3.0,MEDIUM,16.0,1,True,Alfa Romeo,True,14.0,24.809,29.962,43.192,,False,False,7940.908,12,French Grand Prix
+BOT,53.0,98.358,3.0,MEDIUM,17.0,1,True,Alfa Romeo,True,14.0,25.102,29.874,43.382,,False,False,8039.266,12,French Grand Prix

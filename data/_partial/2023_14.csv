@@ -1,0 +1,958 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,87.905,1.0,MEDIUM,1.0,1,False,Red Bull Racing,True,2.0,,29.666,28.473,,False,False,5029.78,14,Italian Grand Prix
+VER,2.0,86.163,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,2.0,28.274,29.543,28.346,,False,False,5115.943,14,Italian Grand Prix
+VER,3.0,85.702,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,2.0,28.097,29.32,28.285,,False,False,5201.645,14,Italian Grand Prix
+VER,4.0,86.05,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,2.0,28.145,29.474,28.431,,False,False,5287.695,14,Italian Grand Prix
+VER,5.0,86.176,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,2.0,28.155,29.514,28.507,,False,False,5373.871,14,Italian Grand Prix
+VER,6.0,86.837,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,2.0,28.7,29.662,28.475,,False,False,5460.708,14,Italian Grand Prix
+VER,7.0,86.368,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,2.0,28.166,29.751,28.451,,False,False,5547.076,14,Italian Grand Prix
+VER,8.0,85.99,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,2.0,28.075,29.432,28.483,,False,False,5633.066,14,Italian Grand Prix
+VER,9.0,86.605,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,2.0,28.149,29.927,28.529,,False,False,5719.671,14,Italian Grand Prix
+VER,10.0,86.603,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,2.0,28.315,29.78,28.508,,False,False,5806.274,14,Italian Grand Prix
+VER,11.0,86.643,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,2.0,28.233,29.893,28.517,,False,False,5892.917,14,Italian Grand Prix
+VER,12.0,86.442,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,2.0,28.179,29.813,28.45,,False,False,5979.359,14,Italian Grand Prix
+VER,13.0,86.666,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,2.0,28.254,29.907,28.505,,False,False,6066.025,14,Italian Grand Prix
+VER,14.0,87.028,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,2.0,28.223,30.28,28.525,,False,False,6153.053,14,Italian Grand Prix
+VER,15.0,86.782,1.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,28.137,30.444,28.201,,False,False,6239.835,14,Italian Grand Prix
+VER,16.0,86.718,1.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,28.45,29.91,28.358,,False,False,6326.553,14,Italian Grand Prix
+VER,17.0,86.733,1.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,28.348,29.889,28.496,,False,False,6413.286,14,Italian Grand Prix
+VER,18.0,86.273,1.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,28.247,29.668,28.358,,False,False,6499.559,14,Italian Grand Prix
+VER,19.0,86.438,1.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,28.368,29.832,28.238,,False,False,6585.997,14,Italian Grand Prix
+VER,20.0,90.849,1.0,MEDIUM,20.0,1,False,Red Bull Racing,True,1.0,28.384,29.907,32.558,,True,False,6676.846,14,Italian Grand Prix
+VER,21.0,105.66,2.0,HARD,1.0,1,False,Red Bull Racing,True,5.0,48.054,29.398,28.208,,False,True,6782.506,14,Italian Grand Prix
+VER,22.0,85.885,2.0,HARD,2.0,1,True,Red Bull Racing,True,3.0,28.01,29.546,28.329,,False,False,6868.391,14,Italian Grand Prix
+VER,23.0,86.159,2.0,HARD,3.0,1,True,Red Bull Racing,True,2.0,28.131,29.638,28.39,,False,False,6954.55,14,Italian Grand Prix
+VER,24.0,86.327,2.0,HARD,4.0,1,True,Red Bull Racing,True,2.0,28.187,29.358,28.782,,False,False,7040.877,14,Italian Grand Prix
+VER,25.0,85.914,2.0,HARD,5.0,1,True,Red Bull Racing,True,1.0,28.052,29.542,28.32,,False,False,7126.791,14,Italian Grand Prix
+VER,26.0,85.786,2.0,HARD,6.0,1,True,Red Bull Racing,True,1.0,28.257,29.382,28.147,,False,False,7212.577,14,Italian Grand Prix
+VER,27.0,85.501,2.0,HARD,7.0,1,True,Red Bull Racing,True,1.0,28.117,29.266,28.118,,False,False,7298.078,14,Italian Grand Prix
+VER,28.0,85.434,2.0,HARD,8.0,1,True,Red Bull Racing,True,1.0,28.158,29.202,28.074,,False,False,7383.512,14,Italian Grand Prix
+VER,29.0,85.471,2.0,HARD,9.0,1,True,Red Bull Racing,True,1.0,28.149,29.369,27.953,,False,False,7468.983,14,Italian Grand Prix
+VER,30.0,85.398,2.0,HARD,10.0,1,True,Red Bull Racing,True,1.0,28.15,29.213,28.035,,False,False,7554.381,14,Italian Grand Prix
+VER,31.0,85.502,2.0,HARD,11.0,1,True,Red Bull Racing,True,1.0,28.161,29.37,27.971,,False,False,7639.883,14,Italian Grand Prix
+VER,32.0,85.41,2.0,HARD,12.0,1,True,Red Bull Racing,True,1.0,28.151,29.284,27.975,,False,False,7725.293,14,Italian Grand Prix
+VER,33.0,85.24,2.0,HARD,13.0,1,True,Red Bull Racing,True,1.0,28.057,29.201,27.982,,False,False,7810.533,14,Italian Grand Prix
+VER,34.0,85.683,2.0,HARD,14.0,1,True,Red Bull Racing,True,1.0,28.111,29.501,28.071,,False,False,7896.216,14,Italian Grand Prix
+VER,35.0,85.815,2.0,HARD,15.0,1,True,Red Bull Racing,True,1.0,28.179,29.472,28.164,,False,False,7982.031,14,Italian Grand Prix
+VER,36.0,85.598,2.0,HARD,16.0,1,True,Red Bull Racing,True,1.0,28.04,29.439,28.119,,False,False,8067.629,14,Italian Grand Prix
+VER,37.0,85.683,2.0,HARD,17.0,1,True,Red Bull Racing,True,1.0,28.074,29.485,28.124,,False,False,8153.312,14,Italian Grand Prix
+VER,38.0,85.585,2.0,HARD,18.0,1,True,Red Bull Racing,True,1.0,28.067,29.469,28.049,,False,False,8238.897,14,Italian Grand Prix
+VER,39.0,85.486,2.0,HARD,19.0,1,True,Red Bull Racing,True,1.0,28.053,29.353,28.08,,False,False,8324.383,14,Italian Grand Prix
+VER,40.0,85.901,2.0,HARD,20.0,1,True,Red Bull Racing,True,1.0,28.185,29.481,28.235,,False,False,8410.284,14,Italian Grand Prix
+VER,41.0,85.779,2.0,HARD,21.0,1,True,Red Bull Racing,True,1.0,28.079,29.543,28.157,,False,False,8496.063,14,Italian Grand Prix
+VER,42.0,85.912,2.0,HARD,22.0,1,True,Red Bull Racing,True,1.0,28.057,29.562,28.293,,False,False,8581.975,14,Italian Grand Prix
+VER,43.0,85.994,2.0,HARD,23.0,1,True,Red Bull Racing,True,1.0,28.178,29.666,28.15,,False,False,8667.969,14,Italian Grand Prix
+VER,44.0,85.751,2.0,HARD,24.0,1,True,Red Bull Racing,True,1.0,28.03,29.503,28.218,,False,False,8753.72,14,Italian Grand Prix
+VER,45.0,85.916,2.0,HARD,25.0,1,True,Red Bull Racing,True,1.0,28.045,29.693,28.178,,False,False,8839.636,14,Italian Grand Prix
+VER,46.0,86.185,2.0,HARD,26.0,1,True,Red Bull Racing,True,1.0,28.067,29.921,28.197,,False,False,8925.821,14,Italian Grand Prix
+VER,47.0,86.137,2.0,HARD,27.0,1,True,Red Bull Racing,True,1.0,28.058,29.565,28.514,,False,False,9011.958,14,Italian Grand Prix
+VER,48.0,87.235,2.0,HARD,28.0,1,True,Red Bull Racing,True,1.0,28.459,30.06,28.716,,False,False,9099.193,14,Italian Grand Prix
+VER,49.0,87.907,2.0,HARD,29.0,1,True,Red Bull Racing,True,1.0,28.567,30.249,29.091,,False,False,9187.1,14,Italian Grand Prix
+VER,50.0,88.393,2.0,HARD,30.0,1,True,Red Bull Racing,True,1.0,28.738,30.474,29.181,,False,False,9275.493,14,Italian Grand Prix
+VER,51.0,87.525,2.0,HARD,31.0,1,True,Red Bull Racing,True,1.0,28.415,30.353,28.757,,False,False,9363.018,14,Italian Grand Prix
+GAS,1.0,95.974,1.0,MEDIUM,1.0,1,False,Alpine,True,17.0,,32.313,29.984,,False,False,5037.849,14,Italian Grand Prix
+GAS,2.0,88.696,1.0,MEDIUM,2.0,1,True,Alpine,True,17.0,28.782,30.575,29.339,,False,False,5126.545,14,Italian Grand Prix
+GAS,3.0,87.916,1.0,MEDIUM,3.0,1,True,Alpine,True,17.0,28.714,30.06,29.142,,False,False,5214.461,14,Italian Grand Prix
+GAS,4.0,87.472,1.0,MEDIUM,4.0,1,True,Alpine,True,17.0,28.432,30.029,29.011,,False,False,5301.933,14,Italian Grand Prix
+GAS,5.0,87.694,1.0,MEDIUM,5.0,1,True,Alpine,True,17.0,28.291,30.155,29.248,,False,False,5389.627,14,Italian Grand Prix
+GAS,6.0,87.324,1.0,MEDIUM,6.0,1,True,Alpine,True,17.0,28.241,30.047,29.036,,False,False,5476.951,14,Italian Grand Prix
+GAS,7.0,87.21,1.0,MEDIUM,7.0,1,True,Alpine,True,17.0,28.18,29.932,29.098,,False,False,5564.161,14,Italian Grand Prix
+GAS,8.0,87.24,1.0,MEDIUM,8.0,1,True,Alpine,True,17.0,28.0,30.157,29.083,,False,False,5651.401,14,Italian Grand Prix
+GAS,9.0,87.366,1.0,MEDIUM,9.0,1,True,Alpine,True,17.0,28.124,29.976,29.266,,False,False,5738.767,14,Italian Grand Prix
+GAS,10.0,92.034,1.0,MEDIUM,10.0,1,False,Alpine,True,18.0,28.126,30.178,33.73,,True,False,5830.801,14,Italian Grand Prix
+GAS,11.0,110.17,2.0,HARD,4.0,1,False,Alpine,False,19.0,51.42,29.937,28.813,,False,True,5940.971,14,Italian Grand Prix
+GAS,12.0,87.431,2.0,HARD,5.0,1,True,Alpine,False,19.0,28.524,29.851,29.056,,False,False,6028.402,14,Italian Grand Prix
+GAS,13.0,87.368,2.0,HARD,6.0,1,True,Alpine,False,18.0,28.44,29.892,29.036,,False,False,6115.77,14,Italian Grand Prix
+GAS,14.0,87.348,2.0,HARD,7.0,1,True,Alpine,False,18.0,28.394,30.051,28.903,,False,False,6203.118,14,Italian Grand Prix
+GAS,15.0,87.363,2.0,HARD,8.0,1,True,Alpine,False,18.0,28.462,30.093,28.808,,False,False,6290.481,14,Italian Grand Prix
+GAS,16.0,87.088,2.0,HARD,9.0,1,True,Alpine,False,18.0,28.289,30.067,28.732,,False,False,6377.569,14,Italian Grand Prix
+GAS,17.0,87.076,2.0,HARD,10.0,1,True,Alpine,False,18.0,28.286,29.953,28.837,,False,False,6464.645,14,Italian Grand Prix
+GAS,18.0,87.053,2.0,HARD,11.0,1,True,Alpine,False,18.0,28.315,30.045,28.693,,False,False,6551.698,14,Italian Grand Prix
+GAS,19.0,87.136,2.0,HARD,12.0,1,True,Alpine,False,18.0,28.422,30.088,28.626,,False,False,6638.834,14,Italian Grand Prix
+GAS,20.0,87.035,2.0,HARD,13.0,1,True,Alpine,False,18.0,28.17,30.107,28.758,,False,False,6725.869,14,Italian Grand Prix
+GAS,21.0,87.706,2.0,HARD,14.0,1,True,Alpine,False,17.0,28.31,30.354,29.042,,False,False,6813.575,14,Italian Grand Prix
+GAS,22.0,87.219,2.0,HARD,15.0,1,True,Alpine,False,17.0,28.315,30.023,28.881,,False,False,6900.794,14,Italian Grand Prix
+GAS,23.0,87.454,2.0,HARD,16.0,1,True,Alpine,False,17.0,28.367,30.178,28.909,,False,False,6988.248,14,Italian Grand Prix
+GAS,24.0,87.06,2.0,HARD,17.0,1,True,Alpine,False,17.0,28.144,30.16,28.756,,False,False,7075.308,14,Italian Grand Prix
+GAS,25.0,87.223,2.0,HARD,18.0,1,True,Alpine,False,16.0,28.176,30.119,28.928,,False,False,7162.531,14,Italian Grand Prix
+GAS,26.0,87.59,2.0,HARD,19.0,1,True,Alpine,False,15.0,28.496,30.15,28.944,,False,False,7250.121,14,Italian Grand Prix
+GAS,27.0,87.189,2.0,HARD,20.0,1,True,Alpine,False,15.0,28.305,30.124,28.76,,False,False,7337.31,14,Italian Grand Prix
+GAS,28.0,87.521,2.0,HARD,21.0,1,True,Alpine,False,15.0,28.314,30.209,28.998,,False,False,7424.831,14,Italian Grand Prix
+GAS,29.0,87.383,2.0,HARD,22.0,1,True,Alpine,False,15.0,28.372,30.15,28.861,,False,False,7512.214,14,Italian Grand Prix
+GAS,30.0,87.658,2.0,HARD,23.0,1,True,Alpine,False,15.0,28.399,30.299,28.96,,False,False,7599.872,14,Italian Grand Prix
+GAS,31.0,92.204,2.0,HARD,24.0,1,False,Alpine,False,17.0,28.325,30.421,33.458,,True,False,7692.076,14,Italian Grand Prix
+GAS,32.0,106.72,3.0,MEDIUM,1.0,1,False,Alpine,True,19.0,48.486,29.732,28.502,,False,True,7798.796,14,Italian Grand Prix
+GAS,33.0,86.439,3.0,MEDIUM,2.0,1,True,Alpine,True,19.0,28.265,29.682,28.492,,False,False,7885.235,14,Italian Grand Prix
+GAS,34.0,86.877,3.0,MEDIUM,3.0,1,True,Alpine,True,18.0,28.208,29.857,28.812,,False,False,7972.112,14,Italian Grand Prix
+GAS,35.0,86.903,3.0,MEDIUM,4.0,1,True,Alpine,True,18.0,28.318,29.75,28.835,,False,False,8059.015,14,Italian Grand Prix
+GAS,36.0,86.797,3.0,MEDIUM,5.0,1,True,Alpine,True,18.0,28.373,29.719,28.705,,False,False,8145.812,14,Italian Grand Prix
+GAS,37.0,86.499,3.0,MEDIUM,6.0,1,True,Alpine,True,18.0,28.27,29.768,28.461,,False,False,8232.311,14,Italian Grand Prix
+GAS,38.0,86.357,3.0,MEDIUM,7.0,1,True,Alpine,True,18.0,28.251,29.614,28.492,,False,False,8318.668,14,Italian Grand Prix
+GAS,39.0,86.736,3.0,MEDIUM,8.0,1,True,Alpine,True,17.0,28.411,29.667,28.658,,False,False,8405.404,14,Italian Grand Prix
+GAS,40.0,86.548,3.0,MEDIUM,9.0,1,True,Alpine,True,16.0,28.22,29.656,28.672,,False,False,8491.952,14,Italian Grand Prix
+GAS,41.0,86.346,3.0,MEDIUM,10.0,1,True,Alpine,True,16.0,28.298,29.528,28.52,,False,False,8578.298,14,Italian Grand Prix
+GAS,42.0,86.425,3.0,MEDIUM,11.0,1,True,Alpine,True,16.0,28.346,29.611,28.468,,False,False,8664.723,14,Italian Grand Prix
+GAS,43.0,85.921,3.0,MEDIUM,12.0,1,True,Alpine,True,16.0,28.119,29.491,28.311,,False,False,8750.644,14,Italian Grand Prix
+GAS,44.0,85.758,3.0,MEDIUM,13.0,1,True,Alpine,True,16.0,28.058,29.469,28.231,,False,False,8836.402,14,Italian Grand Prix
+GAS,45.0,86.297,3.0,MEDIUM,14.0,1,True,Alpine,True,16.0,28.079,29.77,28.448,,False,False,8922.699,14,Italian Grand Prix
+GAS,46.0,86.292,3.0,MEDIUM,15.0,1,True,Alpine,True,16.0,28.121,29.695,28.476,,False,False,9008.991,14,Italian Grand Prix
+GAS,47.0,86.144,3.0,MEDIUM,16.0,1,True,Alpine,True,16.0,27.984,29.639,28.521,,False,False,9095.135,14,Italian Grand Prix
+GAS,48.0,86.288,3.0,MEDIUM,17.0,1,True,Alpine,True,16.0,28.078,29.805,28.405,,False,False,9181.423,14,Italian Grand Prix
+GAS,49.0,87.913,3.0,MEDIUM,18.0,1,True,Alpine,True,16.0,28.05,30.784,29.079,,False,False,9269.336,14,Italian Grand Prix
+GAS,50.0,87.375,3.0,MEDIUM,19.0,1,True,Alpine,True,15.0,28.252,30.016,29.107,,False,False,9356.711,14,Italian Grand Prix
+GAS,51.0,,3.0,MEDIUM,20.0,1,False,Alpine,True,,,,,,False,False,9506.711,14,Italian Grand Prix
+PER,1.0,89.806,1.0,MEDIUM,1.0,1,False,Red Bull Racing,True,5.0,,30.555,28.768,,False,False,5031.681,14,Italian Grand Prix
+PER,2.0,86.881,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,5.0,28.473,29.887,28.521,,False,False,5118.562,14,Italian Grand Prix
+PER,3.0,86.143,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,5.0,28.372,29.462,28.309,,False,False,5204.705,14,Italian Grand Prix
+PER,4.0,86.019,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,5.0,28.308,29.522,28.189,,False,False,5290.724,14,Italian Grand Prix
+PER,5.0,86.354,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,5.0,28.33,29.673,28.351,,False,False,5377.078,14,Italian Grand Prix
+PER,6.0,86.465,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,5.0,28.327,29.863,28.275,,False,False,5463.543,14,Italian Grand Prix
+PER,7.0,86.333,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,5.0,28.288,29.798,28.247,,False,False,5549.876,14,Italian Grand Prix
+PER,8.0,86.887,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,5.0,28.038,30.154,28.695,,False,False,5636.763,14,Italian Grand Prix
+PER,9.0,86.564,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,5.0,28.437,29.838,28.289,,False,False,5723.327,14,Italian Grand Prix
+PER,10.0,86.454,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,5.0,28.302,29.828,28.324,,False,False,5809.781,14,Italian Grand Prix
+PER,11.0,87.245,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,5.0,28.223,30.258,28.764,,False,False,5897.026,14,Italian Grand Prix
+PER,12.0,86.968,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,5.0,28.362,30.211,28.395,,False,False,5983.994,14,Italian Grand Prix
+PER,13.0,87.014,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,5.0,28.52,30.253,28.241,,False,False,6071.008,14,Italian Grand Prix
+PER,14.0,87.451,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,5.0,28.229,30.757,28.465,,False,False,6158.459,14,Italian Grand Prix
+PER,15.0,86.779,1.0,MEDIUM,15.0,1,True,Red Bull Racing,True,5.0,28.425,30.127,28.227,,False,False,6245.238,14,Italian Grand Prix
+PER,16.0,86.823,1.0,MEDIUM,16.0,1,True,Red Bull Racing,True,4.0,28.121,30.458,28.244,,False,False,6332.061,14,Italian Grand Prix
+PER,17.0,87.011,1.0,MEDIUM,17.0,1,True,Red Bull Racing,True,4.0,28.691,30.102,28.218,,False,False,6419.072,14,Italian Grand Prix
+PER,18.0,86.765,1.0,MEDIUM,18.0,1,True,Red Bull Racing,True,4.0,28.397,29.981,28.387,,False,False,6505.837,14,Italian Grand Prix
+PER,19.0,86.669,1.0,MEDIUM,19.0,1,True,Red Bull Racing,True,3.0,28.381,29.943,28.345,,False,False,6592.506,14,Italian Grand Prix
+PER,20.0,86.509,1.0,MEDIUM,20.0,1,True,Red Bull Racing,True,2.0,28.174,29.896,28.439,,False,False,6679.015,14,Italian Grand Prix
+PER,21.0,90.934,1.0,MEDIUM,21.0,1,False,Red Bull Racing,True,1.0,28.368,30.014,32.552,,True,False,6769.949,14,Italian Grand Prix
+PER,22.0,105.228,2.0,HARD,1.0,1,False,Red Bull Racing,True,7.0,47.765,29.377,28.086,,False,True,6875.177,14,Italian Grand Prix
+PER,23.0,85.564,2.0,HARD,2.0,1,True,Red Bull Racing,True,6.0,28.146,29.392,28.026,,False,False,6960.741,14,Italian Grand Prix
+PER,24.0,85.759,2.0,HARD,3.0,1,True,Red Bull Racing,True,5.0,28.041,29.399,28.319,,False,False,7046.5,14,Italian Grand Prix
+PER,25.0,86.005,2.0,HARD,4.0,1,True,Red Bull Racing,True,5.0,28.403,29.587,28.015,,False,False,7132.505,14,Italian Grand Prix
+PER,26.0,85.884,2.0,HARD,5.0,1,True,Red Bull Racing,True,5.0,28.196,29.713,27.975,,False,False,7218.389,14,Italian Grand Prix
+PER,27.0,86.456,2.0,HARD,6.0,1,True,Red Bull Racing,True,4.0,28.286,29.542,28.628,,False,False,7304.845,14,Italian Grand Prix
+PER,28.0,85.584,2.0,HARD,7.0,1,True,Red Bull Racing,True,4.0,28.034,29.58,27.97,,False,False,7390.429,14,Italian Grand Prix
+PER,29.0,85.606,2.0,HARD,8.0,1,True,Red Bull Racing,True,4.0,28.122,29.489,27.995,,False,False,7476.035,14,Italian Grand Prix
+PER,30.0,85.757,2.0,HARD,9.0,1,True,Red Bull Racing,True,4.0,28.101,29.752,27.904,,False,False,7561.792,14,Italian Grand Prix
+PER,31.0,86.415,2.0,HARD,10.0,1,True,Red Bull Racing,True,4.0,27.825,30.328,28.262,,False,False,7648.207,14,Italian Grand Prix
+PER,32.0,85.88,2.0,HARD,11.0,1,True,Red Bull Racing,True,3.0,28.166,29.868,27.846,,False,False,7734.087,14,Italian Grand Prix
+PER,33.0,86.02,2.0,HARD,12.0,1,True,Red Bull Racing,True,3.0,28.422,29.703,27.895,,False,False,7820.107,14,Italian Grand Prix
+PER,34.0,85.948,2.0,HARD,13.0,1,True,Red Bull Racing,True,3.0,28.323,29.676,27.949,,False,False,7906.055,14,Italian Grand Prix
+PER,35.0,85.651,2.0,HARD,14.0,1,True,Red Bull Racing,True,3.0,28.18,29.513,27.958,,False,False,7991.706,14,Italian Grand Prix
+PER,36.0,85.627,2.0,HARD,15.0,1,True,Red Bull Racing,True,3.0,28.192,29.54,27.895,,False,False,8077.333,14,Italian Grand Prix
+PER,37.0,85.757,2.0,HARD,16.0,1,True,Red Bull Racing,True,3.0,28.168,29.619,27.97,,False,False,8163.09,14,Italian Grand Prix
+PER,38.0,85.584,2.0,HARD,17.0,1,True,Red Bull Racing,True,3.0,28.047,29.518,28.019,,False,False,8248.674,14,Italian Grand Prix
+PER,39.0,85.522,2.0,HARD,18.0,1,True,Red Bull Racing,True,3.0,28.005,29.53,27.987,,False,False,8334.196,14,Italian Grand Prix
+PER,40.0,85.626,2.0,HARD,19.0,1,True,Red Bull Racing,True,3.0,28.096,29.591,27.939,,False,False,8419.822,14,Italian Grand Prix
+PER,41.0,86.719,2.0,HARD,20.0,1,True,Red Bull Racing,True,3.0,28.078,30.539,28.102,,False,False,8506.541,14,Italian Grand Prix
+PER,42.0,86.539,2.0,HARD,21.0,1,True,Red Bull Racing,True,3.0,28.121,30.276,28.142,,False,False,8593.08,14,Italian Grand Prix
+PER,43.0,86.624,2.0,HARD,22.0,1,True,Red Bull Racing,True,3.0,28.249,30.205,28.17,,False,False,8679.704,14,Italian Grand Prix
+PER,44.0,86.329,2.0,HARD,23.0,1,True,Red Bull Racing,True,3.0,28.396,29.943,27.99,,False,False,8766.033,14,Italian Grand Prix
+PER,45.0,86.573,2.0,HARD,24.0,1,True,Red Bull Racing,True,3.0,28.094,30.365,28.114,,False,False,8852.606,14,Italian Grand Prix
+PER,46.0,85.598,2.0,HARD,25.0,1,True,Red Bull Racing,True,2.0,27.932,29.663,28.003,,False,False,8938.204,14,Italian Grand Prix
+PER,47.0,86.476,2.0,HARD,26.0,1,True,Red Bull Racing,True,2.0,28.289,29.768,28.419,,False,False,9024.68,14,Italian Grand Prix
+PER,48.0,86.108,2.0,HARD,27.0,1,True,Red Bull Racing,True,2.0,28.253,29.659,28.196,,False,False,9110.788,14,Italian Grand Prix
+PER,49.0,86.006,2.0,HARD,28.0,1,True,Red Bull Racing,True,2.0,28.272,29.563,28.171,,False,False,9196.794,14,Italian Grand Prix
+PER,50.0,86.385,2.0,HARD,29.0,1,True,Red Bull Racing,True,2.0,28.257,29.905,28.223,,False,False,9283.179,14,Italian Grand Prix
+PER,51.0,85.903,2.0,HARD,30.0,1,True,Red Bull Racing,True,2.0,28.247,29.516,28.14,,False,False,9369.082,14,Italian Grand Prix
+ALO,1.0,93.34,1.0,MEDIUM,1.0,1,False,Aston Martin,True,11.0,,32.049,29.284,,False,False,5035.215,14,Italian Grand Prix
+ALO,2.0,88.012,1.0,MEDIUM,2.0,1,True,Aston Martin,True,11.0,28.525,30.38,29.107,,False,False,5123.227,14,Italian Grand Prix
+ALO,3.0,87.546,1.0,MEDIUM,3.0,1,True,Aston Martin,True,11.0,28.514,30.136,28.896,,False,False,5210.773,14,Italian Grand Prix
+ALO,4.0,87.221,1.0,MEDIUM,4.0,1,True,Aston Martin,True,11.0,28.2,30.095,28.926,,False,False,5297.994,14,Italian Grand Prix
+ALO,5.0,87.033,1.0,MEDIUM,5.0,1,True,Aston Martin,True,11.0,28.03,30.158,28.845,,False,False,5385.027,14,Italian Grand Prix
+ALO,6.0,87.175,1.0,MEDIUM,6.0,1,True,Aston Martin,True,11.0,28.048,30.18,28.947,,False,False,5472.202,14,Italian Grand Prix
+ALO,7.0,86.929,1.0,MEDIUM,7.0,1,True,Aston Martin,True,11.0,28.135,29.944,28.85,,False,False,5559.131,14,Italian Grand Prix
+ALO,8.0,86.943,1.0,MEDIUM,8.0,1,True,Aston Martin,True,10.0,27.89,30.205,28.848,,False,False,5646.074,14,Italian Grand Prix
+ALO,9.0,87.383,1.0,MEDIUM,9.0,1,True,Aston Martin,True,10.0,28.364,30.033,28.986,,False,False,5733.457,14,Italian Grand Prix
+ALO,10.0,87.368,1.0,MEDIUM,10.0,1,True,Aston Martin,True,10.0,28.289,30.065,29.014,,False,False,5820.825,14,Italian Grand Prix
+ALO,11.0,87.343,1.0,MEDIUM,11.0,1,True,Aston Martin,True,10.0,28.23,30.106,29.007,,False,False,5908.168,14,Italian Grand Prix
+ALO,12.0,87.339,1.0,MEDIUM,12.0,1,True,Aston Martin,True,10.0,28.344,30.153,28.842,,False,False,5995.507,14,Italian Grand Prix
+ALO,13.0,87.158,1.0,MEDIUM,13.0,1,True,Aston Martin,True,10.0,28.219,30.16,28.779,,False,False,6082.665,14,Italian Grand Prix
+ALO,14.0,87.607,1.0,MEDIUM,14.0,1,True,Aston Martin,True,10.0,28.743,30.141,28.723,,False,False,6170.272,14,Italian Grand Prix
+ALO,15.0,86.929,1.0,MEDIUM,15.0,1,True,Aston Martin,True,10.0,28.12,30.043,28.766,,False,False,6257.201,14,Italian Grand Prix
+ALO,16.0,87.164,1.0,MEDIUM,16.0,1,True,Aston Martin,True,9.0,28.235,30.255,28.674,,False,False,6344.365,14,Italian Grand Prix
+ALO,17.0,87.156,1.0,MEDIUM,17.0,1,True,Aston Martin,True,9.0,28.169,30.151,28.836,,False,False,6431.521,14,Italian Grand Prix
+ALO,18.0,87.275,1.0,MEDIUM,18.0,1,True,Aston Martin,True,9.0,28.21,30.324,28.741,,False,False,6518.796,14,Italian Grand Prix
+ALO,19.0,87.318,1.0,MEDIUM,19.0,1,True,Aston Martin,True,9.0,28.251,30.267,28.8,,False,False,6606.114,14,Italian Grand Prix
+ALO,20.0,88.284,1.0,MEDIUM,20.0,1,True,Aston Martin,True,7.0,28.303,31.004,28.977,,False,False,6694.398,14,Italian Grand Prix
+ALO,21.0,92.377,1.0,MEDIUM,21.0,1,False,Aston Martin,True,6.0,28.267,30.526,33.584,,True,False,6786.775,14,Italian Grand Prix
+ALO,22.0,107.272,2.0,HARD,4.0,1,False,Aston Martin,False,12.0,48.485,30.233,28.554,,False,True,6894.047,14,Italian Grand Prix
+ALO,23.0,86.849,2.0,HARD,5.0,1,True,Aston Martin,False,12.0,28.229,29.832,28.788,,False,False,6980.896,14,Italian Grand Prix
+ALO,24.0,86.949,2.0,HARD,6.0,1,True,Aston Martin,False,11.0,28.24,30.006,28.703,,False,False,7067.845,14,Italian Grand Prix
+ALO,25.0,86.899,2.0,HARD,7.0,1,True,Aston Martin,False,11.0,28.139,30.044,28.716,,False,False,7154.744,14,Italian Grand Prix
+ALO,26.0,86.792,2.0,HARD,8.0,1,True,Aston Martin,False,10.0,28.194,29.885,28.713,,False,False,7241.536,14,Italian Grand Prix
+ALO,27.0,86.666,2.0,HARD,9.0,1,True,Aston Martin,False,10.0,28.132,29.838,28.696,,False,False,7328.202,14,Italian Grand Prix
+ALO,28.0,86.723,2.0,HARD,10.0,1,True,Aston Martin,False,9.0,28.121,29.958,28.644,,False,False,7414.925,14,Italian Grand Prix
+ALO,29.0,86.997,2.0,HARD,11.0,1,True,Aston Martin,False,10.0,28.249,30.04,28.708,,False,False,7501.922,14,Italian Grand Prix
+ALO,30.0,86.915,2.0,HARD,12.0,1,True,Aston Martin,False,10.0,28.315,29.961,28.639,,False,False,7588.837,14,Italian Grand Prix
+ALO,31.0,86.848,2.0,HARD,13.0,1,True,Aston Martin,False,10.0,28.145,30.095,28.608,,False,False,7675.685,14,Italian Grand Prix
+ALO,32.0,86.747,2.0,HARD,14.0,1,True,Aston Martin,False,10.0,28.219,29.93,28.598,,False,False,7762.432,14,Italian Grand Prix
+ALO,33.0,86.769,2.0,HARD,15.0,1,True,Aston Martin,False,10.0,28.316,29.842,28.611,,False,False,7849.201,14,Italian Grand Prix
+ALO,34.0,86.563,2.0,HARD,16.0,1,True,Aston Martin,False,10.0,28.146,29.905,28.512,,False,False,7935.764,14,Italian Grand Prix
+ALO,35.0,86.517,2.0,HARD,17.0,1,True,Aston Martin,False,10.0,28.068,29.929,28.52,,False,False,8022.281,14,Italian Grand Prix
+ALO,36.0,86.457,2.0,HARD,18.0,1,True,Aston Martin,False,10.0,28.152,29.967,28.338,,False,False,8108.738,14,Italian Grand Prix
+ALO,37.0,86.38,2.0,HARD,19.0,1,True,Aston Martin,False,10.0,28.147,29.835,28.398,,False,False,8195.118,14,Italian Grand Prix
+ALO,38.0,86.574,2.0,HARD,20.0,1,True,Aston Martin,False,10.0,28.039,29.984,28.551,,False,False,8281.692,14,Italian Grand Prix
+ALO,39.0,86.707,2.0,HARD,21.0,1,True,Aston Martin,False,10.0,28.156,30.082,28.469,,False,False,8368.399,14,Italian Grand Prix
+ALO,40.0,86.61,2.0,HARD,22.0,1,True,Aston Martin,False,10.0,28.187,29.957,28.466,,False,False,8455.009,14,Italian Grand Prix
+ALO,41.0,86.815,2.0,HARD,23.0,1,True,Aston Martin,False,9.0,28.084,30.125,28.606,,False,False,8541.824,14,Italian Grand Prix
+ALO,42.0,86.403,2.0,HARD,24.0,1,True,Aston Martin,False,9.0,28.072,29.934,28.397,,False,False,8628.227,14,Italian Grand Prix
+ALO,43.0,86.105,2.0,HARD,25.0,1,True,Aston Martin,False,9.0,28.036,29.833,28.236,,False,False,8714.332,14,Italian Grand Prix
+ALO,44.0,86.155,2.0,HARD,26.0,1,True,Aston Martin,False,9.0,28.025,29.868,28.262,,False,False,8800.487,14,Italian Grand Prix
+ALO,45.0,86.277,2.0,HARD,27.0,1,True,Aston Martin,False,9.0,28.023,29.92,28.334,,False,False,8886.764,14,Italian Grand Prix
+ALO,46.0,86.453,2.0,HARD,28.0,1,True,Aston Martin,False,9.0,28.069,30.096,28.288,,False,False,8973.217,14,Italian Grand Prix
+ALO,47.0,86.912,2.0,HARD,29.0,1,True,Aston Martin,False,9.0,27.97,30.321,28.621,,False,False,9060.129,14,Italian Grand Prix
+ALO,48.0,87.183,2.0,HARD,30.0,1,True,Aston Martin,False,9.0,28.074,30.358,28.751,,False,False,9147.312,14,Italian Grand Prix
+ALO,49.0,87.245,2.0,HARD,31.0,1,True,Aston Martin,False,9.0,28.044,30.608,28.593,,False,False,9234.557,14,Italian Grand Prix
+ALO,50.0,87.36,2.0,HARD,32.0,1,True,Aston Martin,False,9.0,28.144,30.732,28.484,,False,False,9321.917,14,Italian Grand Prix
+ALO,51.0,87.395,2.0,HARD,33.0,1,True,Aston Martin,False,9.0,27.812,30.849,28.734,,False,False,9409.312,14,Italian Grand Prix
+LEC,1.0,88.755,1.0,MEDIUM,1.0,1,False,Ferrari,True,3.0,,29.908,28.623,,False,False,5030.63,14,Italian Grand Prix
+LEC,2.0,86.312,1.0,MEDIUM,2.0,1,True,Ferrari,True,3.0,28.155,29.728,28.429,,False,False,5116.942,14,Italian Grand Prix
+LEC,3.0,85.719,1.0,MEDIUM,3.0,1,True,Ferrari,True,3.0,27.933,29.256,28.53,,False,False,5202.661,14,Italian Grand Prix
+LEC,4.0,86.025,1.0,MEDIUM,4.0,1,True,Ferrari,True,3.0,28.073,29.438,28.514,,False,False,5288.686,14,Italian Grand Prix
+LEC,5.0,86.266,1.0,MEDIUM,5.0,1,True,Ferrari,True,3.0,28.042,29.611,28.613,,False,False,5374.952,14,Italian Grand Prix
+LEC,6.0,86.483,1.0,MEDIUM,6.0,1,True,Ferrari,True,3.0,28.204,29.712,28.567,,False,False,5461.435,14,Italian Grand Prix
+LEC,7.0,86.473,1.0,MEDIUM,7.0,1,True,Ferrari,True,3.0,28.13,29.768,28.575,,False,False,5547.908,14,Italian Grand Prix
+LEC,8.0,85.972,1.0,MEDIUM,8.0,1,True,Ferrari,True,3.0,28.002,29.51,28.46,,False,False,5633.88,14,Italian Grand Prix
+LEC,9.0,86.678,1.0,MEDIUM,9.0,1,True,Ferrari,True,3.0,28.037,29.789,28.852,,False,False,5720.558,14,Italian Grand Prix
+LEC,10.0,86.787,1.0,MEDIUM,10.0,1,True,Ferrari,True,3.0,28.308,29.817,28.662,,False,False,5807.345,14,Italian Grand Prix
+LEC,11.0,86.838,1.0,MEDIUM,11.0,1,True,Ferrari,True,3.0,28.279,29.772,28.787,,False,False,5894.183,14,Italian Grand Prix
+LEC,12.0,86.694,1.0,MEDIUM,12.0,1,True,Ferrari,True,3.0,28.237,29.915,28.542,,False,False,5980.877,14,Italian Grand Prix
+LEC,13.0,86.557,1.0,MEDIUM,13.0,1,True,Ferrari,True,3.0,28.136,29.853,28.568,,False,False,6067.434,14,Italian Grand Prix
+LEC,14.0,86.94,1.0,MEDIUM,14.0,1,True,Ferrari,True,3.0,28.276,30.041,28.623,,False,False,6154.374,14,Italian Grand Prix
+LEC,15.0,87.314,1.0,MEDIUM,15.0,1,True,Ferrari,True,3.0,28.401,30.047,28.866,,False,False,6241.688,14,Italian Grand Prix
+LEC,16.0,87.155,1.0,MEDIUM,16.0,1,True,Ferrari,True,3.0,28.242,30.148,28.765,,False,False,6328.843,14,Italian Grand Prix
+LEC,17.0,87.67,1.0,MEDIUM,17.0,1,True,Ferrari,True,3.0,28.308,30.329,29.033,,False,False,6416.513,14,Italian Grand Prix
+LEC,18.0,87.498,1.0,MEDIUM,18.0,1,True,Ferrari,True,3.0,28.199,30.37,28.929,,False,False,6504.011,14,Italian Grand Prix
+LEC,19.0,87.702,1.0,MEDIUM,19.0,1,True,Ferrari,True,2.0,28.304,30.386,29.012,,False,False,6591.713,14,Italian Grand Prix
+LEC,20.0,91.155,1.0,MEDIUM,20.0,1,False,Ferrari,True,3.0,28.176,30.071,32.908,,True,False,6682.868,14,Italian Grand Prix
+LEC,21.0,105.842,2.0,HARD,1.0,1,False,Ferrari,True,8.0,47.538,29.973,28.331,,False,True,6788.71,14,Italian Grand Prix
+LEC,22.0,85.742,2.0,HARD,2.0,1,True,Ferrari,True,6.0,28.116,29.46,28.166,,False,False,6874.452,14,Italian Grand Prix
+LEC,23.0,85.807,2.0,HARD,3.0,1,True,Ferrari,True,5.0,27.984,29.553,28.27,,False,False,6960.259,14,Italian Grand Prix
+LEC,24.0,85.933,2.0,HARD,4.0,1,True,Ferrari,True,4.0,27.945,29.668,28.32,,False,False,7046.192,14,Italian Grand Prix
+LEC,25.0,86.061,2.0,HARD,5.0,1,True,Ferrari,True,4.0,27.93,29.72,28.411,,False,False,7132.253,14,Italian Grand Prix
+LEC,26.0,85.763,2.0,HARD,6.0,1,True,Ferrari,True,4.0,28.034,29.494,28.235,,False,False,7218.016,14,Italian Grand Prix
+LEC,27.0,86.234,2.0,HARD,7.0,1,True,Ferrari,True,3.0,28.016,29.562,28.656,,False,False,7304.25,14,Italian Grand Prix
+LEC,28.0,85.663,2.0,HARD,8.0,1,True,Ferrari,True,3.0,28.012,29.486,28.165,,False,False,7389.913,14,Italian Grand Prix
+LEC,29.0,85.814,2.0,HARD,9.0,1,True,Ferrari,True,3.0,28.146,29.642,28.026,,False,False,7475.727,14,Italian Grand Prix
+LEC,30.0,85.782,2.0,HARD,10.0,1,True,Ferrari,True,3.0,28.142,29.568,28.072,,False,False,7561.509,14,Italian Grand Prix
+LEC,31.0,86.496,2.0,HARD,11.0,1,True,Ferrari,True,3.0,28.063,30.061,28.372,,False,False,7648.005,14,Italian Grand Prix
+LEC,32.0,86.869,2.0,HARD,12.0,1,True,Ferrari,True,4.0,28.786,29.915,28.168,,False,False,7734.874,14,Italian Grand Prix
+LEC,33.0,85.962,2.0,HARD,13.0,1,True,Ferrari,True,4.0,28.143,29.653,28.166,,False,False,7820.836,14,Italian Grand Prix
+LEC,34.0,85.851,2.0,HARD,14.0,1,True,Ferrari,True,4.0,28.13,29.667,28.054,,False,False,7906.687,14,Italian Grand Prix
+LEC,35.0,85.85,2.0,HARD,15.0,1,True,Ferrari,True,4.0,28.17,29.626,28.054,,False,False,7992.537,14,Italian Grand Prix
+LEC,36.0,85.631,2.0,HARD,16.0,1,True,Ferrari,True,4.0,27.916,29.701,28.014,,False,False,8078.168,14,Italian Grand Prix
+LEC,37.0,85.671,2.0,HARD,17.0,1,True,Ferrari,True,4.0,27.902,29.633,28.136,,False,False,8163.839,14,Italian Grand Prix
+LEC,38.0,85.58,2.0,HARD,18.0,1,True,Ferrari,True,4.0,27.994,29.492,28.094,,False,False,8249.419,14,Italian Grand Prix
+LEC,39.0,85.629,2.0,HARD,19.0,1,True,Ferrari,True,4.0,27.997,29.531,28.101,,False,False,8335.048,14,Italian Grand Prix
+LEC,40.0,85.728,2.0,HARD,20.0,1,True,Ferrari,True,4.0,27.941,29.673,28.114,,False,False,8420.776,14,Italian Grand Prix
+LEC,41.0,86.511,2.0,HARD,21.0,1,True,Ferrari,True,4.0,28.014,30.072,28.425,,False,False,8507.287,14,Italian Grand Prix
+LEC,42.0,86.448,2.0,HARD,22.0,1,True,Ferrari,True,4.0,28.005,30.118,28.325,,False,False,8593.735,14,Italian Grand Prix
+LEC,43.0,86.597,2.0,HARD,23.0,1,True,Ferrari,True,4.0,28.224,30.135,28.238,,False,False,8680.332,14,Italian Grand Prix
+LEC,44.0,86.586,2.0,HARD,24.0,1,True,Ferrari,True,4.0,28.282,29.969,28.335,,False,False,8766.918,14,Italian Grand Prix
+LEC,45.0,86.321,2.0,HARD,25.0,1,True,Ferrari,True,4.0,28.007,30.103,28.211,,False,False,8853.239,14,Italian Grand Prix
+LEC,46.0,86.58,2.0,HARD,26.0,1,True,Ferrari,True,4.0,27.912,30.545,28.123,,False,False,8939.819,14,Italian Grand Prix
+LEC,47.0,87.371,2.0,HARD,27.0,1,True,Ferrari,True,4.0,28.486,30.781,28.104,,False,False,9027.19,14,Italian Grand Prix
+LEC,48.0,86.828,2.0,HARD,28.0,1,True,Ferrari,True,4.0,28.441,30.154,28.233,,False,False,9114.018,14,Italian Grand Prix
+LEC,49.0,86.633,2.0,HARD,29.0,1,True,Ferrari,True,4.0,28.284,30.207,28.142,,False,False,9200.651,14,Italian Grand Prix
+LEC,50.0,86.961,2.0,HARD,30.0,1,True,Ferrari,True,4.0,28.367,30.573,28.021,,False,False,9287.612,14,Italian Grand Prix
+LEC,51.0,86.783,2.0,HARD,31.0,1,True,Ferrari,True,4.0,28.122,30.349,28.312,,False,False,9374.395,14,Italian Grand Prix
+STR,1.0,96.787,1.0,MEDIUM,1.0,1,False,Aston Martin,True,19.0,,32.64,30.195,,False,False,5038.662,14,Italian Grand Prix
+STR,2.0,88.953,1.0,MEDIUM,2.0,1,True,Aston Martin,True,19.0,28.81,30.757,29.386,,False,False,5127.615,14,Italian Grand Prix
+STR,3.0,88.614,1.0,MEDIUM,3.0,1,True,Aston Martin,True,19.0,28.49,30.911,29.213,,False,False,5216.229,14,Italian Grand Prix
+STR,4.0,87.725,1.0,MEDIUM,4.0,1,True,Aston Martin,True,18.0,28.152,30.384,29.189,,False,False,5303.954,14,Italian Grand Prix
+STR,5.0,87.574,1.0,MEDIUM,5.0,1,True,Aston Martin,True,18.0,28.256,30.13,29.188,,False,False,5391.528,14,Italian Grand Prix
+STR,6.0,87.656,1.0,MEDIUM,6.0,1,True,Aston Martin,True,18.0,28.333,30.229,29.094,,False,False,5479.184,14,Italian Grand Prix
+STR,7.0,87.1,1.0,MEDIUM,7.0,1,True,Aston Martin,True,18.0,28.016,29.968,29.116,,False,False,5566.284,14,Italian Grand Prix
+STR,8.0,87.362,1.0,MEDIUM,8.0,1,True,Aston Martin,True,18.0,28.218,29.966,29.178,,False,False,5653.646,14,Italian Grand Prix
+STR,9.0,87.312,1.0,MEDIUM,9.0,1,True,Aston Martin,True,18.0,28.012,30.001,29.299,,False,False,5740.958,14,Italian Grand Prix
+STR,10.0,87.539,1.0,MEDIUM,10.0,1,True,Aston Martin,True,17.0,28.062,30.153,29.324,,False,False,5828.497,14,Italian Grand Prix
+STR,11.0,87.369,1.0,MEDIUM,11.0,1,True,Aston Martin,True,16.0,28.139,30.17,29.06,,False,False,5915.866,14,Italian Grand Prix
+STR,12.0,87.81,1.0,MEDIUM,12.0,1,True,Aston Martin,True,16.0,28.188,30.336,29.286,,False,False,6003.676,14,Italian Grand Prix
+STR,13.0,88.222,1.0,MEDIUM,13.0,1,True,Aston Martin,True,16.0,28.177,30.572,29.473,,False,False,6091.898,14,Italian Grand Prix
+STR,14.0,88.057,1.0,MEDIUM,14.0,1,True,Aston Martin,True,14.0,28.293,30.415,29.349,,False,False,6179.955,14,Italian Grand Prix
+STR,15.0,88.179,1.0,MEDIUM,15.0,1,True,Aston Martin,True,13.0,28.321,30.575,29.283,,False,False,6268.134,14,Italian Grand Prix
+STR,16.0,88.08,1.0,MEDIUM,16.0,1,True,Aston Martin,True,12.0,28.251,30.546,29.283,,False,False,6356.214,14,Italian Grand Prix
+STR,17.0,87.909,1.0,MEDIUM,17.0,1,True,Aston Martin,True,12.0,28.149,30.462,29.298,,False,False,6444.123,14,Italian Grand Prix
+STR,18.0,88.401,1.0,MEDIUM,18.0,1,True,Aston Martin,True,12.0,28.279,30.672,29.45,,False,False,6532.524,14,Italian Grand Prix
+STR,19.0,88.05,1.0,MEDIUM,19.0,1,True,Aston Martin,True,12.0,28.245,30.608,29.197,,False,False,6620.574,14,Italian Grand Prix
+STR,20.0,93.026,1.0,MEDIUM,20.0,1,False,Aston Martin,True,13.0,28.335,30.751,33.94,,True,False,6713.6,14,Italian Grand Prix
+STR,21.0,108.851,2.0,HARD,5.0,1,False,Aston Martin,False,18.0,49.687,30.078,29.086,,False,True,6822.451,14,Italian Grand Prix
+STR,22.0,86.742,2.0,HARD,6.0,1,True,Aston Martin,False,18.0,28.099,29.727,28.916,,False,False,6909.193,14,Italian Grand Prix
+STR,23.0,86.968,2.0,HARD,7.0,1,True,Aston Martin,False,18.0,28.004,29.927,29.037,,False,False,6996.161,14,Italian Grand Prix
+STR,24.0,87.34,2.0,HARD,8.0,1,True,Aston Martin,False,18.0,28.054,30.058,29.228,,False,False,7083.501,14,Italian Grand Prix
+STR,25.0,87.176,2.0,HARD,9.0,1,True,Aston Martin,False,17.0,28.201,29.928,29.047,,False,False,7170.677,14,Italian Grand Prix
+STR,26.0,87.259,2.0,HARD,10.0,1,True,Aston Martin,False,17.0,28.225,30.003,29.031,,False,False,7257.936,14,Italian Grand Prix
+STR,27.0,86.675,2.0,HARD,11.0,1,True,Aston Martin,False,17.0,27.971,29.841,28.863,,False,False,7344.611,14,Italian Grand Prix
+STR,28.0,87.085,2.0,HARD,12.0,1,True,Aston Martin,False,17.0,28.05,30.174,28.861,,False,False,7431.696,14,Italian Grand Prix
+STR,29.0,86.809,2.0,HARD,13.0,1,True,Aston Martin,False,17.0,28.134,29.979,28.696,,False,False,7518.505,14,Italian Grand Prix
+STR,30.0,86.924,2.0,HARD,14.0,1,True,Aston Martin,False,17.0,28.197,29.99,28.737,,False,False,7605.429,14,Italian Grand Prix
+STR,31.0,86.617,2.0,HARD,15.0,1,True,Aston Martin,False,16.0,27.983,29.98,28.654,,False,False,7692.046,14,Italian Grand Prix
+STR,32.0,86.832,2.0,HARD,16.0,1,True,Aston Martin,False,16.0,28.103,29.949,28.78,,False,False,7778.878,14,Italian Grand Prix
+STR,33.0,87.121,2.0,HARD,17.0,1,True,Aston Martin,False,16.0,28.056,30.12,28.945,,False,False,7865.999,14,Italian Grand Prix
+STR,34.0,87.298,2.0,HARD,18.0,1,True,Aston Martin,False,14.0,28.16,30.213,28.925,,False,False,7953.297,14,Italian Grand Prix
+STR,35.0,86.97,2.0,HARD,19.0,1,True,Aston Martin,False,14.0,28.074,30.105,28.791,,False,False,8040.267,14,Italian Grand Prix
+STR,36.0,87.096,2.0,HARD,20.0,1,True,Aston Martin,False,14.0,28.004,30.189,28.903,,False,False,8127.363,14,Italian Grand Prix
+STR,37.0,87.373,2.0,HARD,21.0,1,True,Aston Martin,False,14.0,27.963,30.309,29.101,,False,False,8214.736,14,Italian Grand Prix
+STR,38.0,86.902,2.0,HARD,22.0,1,True,Aston Martin,False,13.0,27.996,30.183,28.723,,False,False,8301.638,14,Italian Grand Prix
+STR,39.0,86.904,2.0,HARD,23.0,1,True,Aston Martin,False,13.0,28.027,30.044,28.833,,False,False,8388.542,14,Italian Grand Prix
+STR,40.0,87.072,2.0,HARD,24.0,1,True,Aston Martin,False,13.0,28.03,30.137,28.905,,False,False,8475.614,14,Italian Grand Prix
+STR,41.0,86.916,2.0,HARD,25.0,1,True,Aston Martin,False,13.0,28.105,29.987,28.824,,False,False,8562.53,14,Italian Grand Prix
+STR,42.0,87.067,2.0,HARD,26.0,1,True,Aston Martin,False,12.0,28.139,30.109,28.819,,False,False,8649.597,14,Italian Grand Prix
+STR,43.0,91.134,2.0,HARD,27.0,1,True,Aston Martin,False,12.0,31.63,30.601,28.903,,False,False,8740.731,14,Italian Grand Prix
+STR,44.0,88.214,2.0,HARD,28.0,1,True,Aston Martin,False,13.0,28.234,30.177,29.803,,False,False,8828.945,14,Italian Grand Prix
+STR,45.0,88.336,2.0,HARD,29.0,1,True,Aston Martin,False,14.0,28.405,31.024,28.907,,False,False,8917.281,14,Italian Grand Prix
+STR,46.0,87.153,2.0,HARD,30.0,1,True,Aston Martin,False,14.0,28.138,30.176,28.839,,False,False,9004.434,14,Italian Grand Prix
+STR,47.0,87.267,2.0,HARD,31.0,1,True,Aston Martin,False,14.0,28.201,30.145,28.921,,False,False,9091.701,14,Italian Grand Prix
+STR,48.0,87.59,2.0,HARD,32.0,1,True,Aston Martin,False,14.0,28.229,30.398,28.963,,False,False,9179.291,14,Italian Grand Prix
+STR,49.0,89.467,2.0,HARD,33.0,1,True,Aston Martin,False,14.0,28.428,31.827,29.212,,False,False,9268.758,14,Italian Grand Prix
+STR,50.0,90.865,2.0,HARD,34.0,1,True,Aston Martin,False,16.0,28.705,31.401,30.759,,False,False,9359.623,14,Italian Grand Prix
+STR,51.0,,2.0,HARD,35.0,1,False,Aston Martin,False,,,,,,False,False,9509.623,14,Italian Grand Prix
+SAR,1.0,94.407,1.0,MEDIUM,4.0,1,False,Williams,False,13.0,,32.159,29.492,,False,False,5036.282,14,Italian Grand Prix
+SAR,2.0,88.08,1.0,MEDIUM,5.0,1,True,Williams,False,13.0,28.252,30.443,29.385,,False,False,5124.362,14,Italian Grand Prix
+SAR,3.0,87.647,1.0,MEDIUM,6.0,1,True,Williams,False,13.0,28.124,30.425,29.098,,False,False,5212.009,14,Italian Grand Prix
+SAR,4.0,87.389,1.0,MEDIUM,7.0,1,True,Williams,False,13.0,27.934,30.315,29.14,,False,False,5299.398,14,Italian Grand Prix
+SAR,5.0,87.17,1.0,MEDIUM,8.0,1,True,Williams,False,13.0,28.002,30.133,29.035,,False,False,5386.568,14,Italian Grand Prix
+SAR,6.0,87.135,1.0,MEDIUM,9.0,1,True,Williams,False,13.0,28.01,29.938,29.187,,False,False,5473.703,14,Italian Grand Prix
+SAR,7.0,87.251,1.0,MEDIUM,10.0,1,True,Williams,False,13.0,28.24,30.056,28.955,,False,False,5560.954,14,Italian Grand Prix
+SAR,8.0,87.233,1.0,MEDIUM,11.0,1,True,Williams,False,13.0,28.118,29.957,29.158,,False,False,5648.187,14,Italian Grand Prix
+SAR,9.0,87.459,1.0,MEDIUM,12.0,1,True,Williams,False,13.0,28.149,30.12,29.19,,False,False,5735.646,14,Italian Grand Prix
+SAR,10.0,87.685,1.0,MEDIUM,13.0,1,True,Williams,False,13.0,28.385,30.052,29.248,,False,False,5823.331,14,Italian Grand Prix
+SAR,11.0,87.804,1.0,MEDIUM,14.0,1,True,Williams,False,13.0,28.334,30.151,29.319,,False,False,5911.135,14,Italian Grand Prix
+SAR,12.0,88.694,1.0,MEDIUM,15.0,1,True,Williams,False,13.0,28.212,31.278,29.204,,False,False,5999.829,14,Italian Grand Prix
+SAR,13.0,87.799,1.0,MEDIUM,16.0,1,True,Williams,False,12.0,28.374,30.365,29.06,,False,False,6087.628,14,Italian Grand Prix
+SAR,14.0,93.074,1.0,MEDIUM,17.0,1,False,Williams,False,15.0,28.074,31.33,33.67,,True,False,6180.702,14,Italian Grand Prix
+SAR,15.0,107.389,2.0,HARD,4.0,1,False,Williams,False,16.0,48.951,29.831,28.607,,False,True,6288.091,14,Italian Grand Prix
+SAR,16.0,86.84,2.0,HARD,5.0,1,True,Williams,False,16.0,28.303,29.751,28.786,,False,False,6374.931,14,Italian Grand Prix
+SAR,17.0,87.0,2.0,HARD,6.0,1,True,Williams,False,16.0,28.198,29.88,28.922,,False,False,6461.931,14,Italian Grand Prix
+SAR,18.0,86.906,2.0,HARD,7.0,1,True,Williams,False,16.0,28.16,29.981,28.765,,False,False,6548.837,14,Italian Grand Prix
+SAR,19.0,87.165,2.0,HARD,8.0,1,True,Williams,False,16.0,28.315,29.982,28.868,,False,False,6636.002,14,Italian Grand Prix
+SAR,20.0,87.28,2.0,HARD,9.0,1,True,Williams,False,16.0,28.361,30.032,28.887,,False,False,6723.282,14,Italian Grand Prix
+SAR,21.0,87.363,2.0,HARD,10.0,1,True,Williams,False,15.0,28.375,29.999,28.989,,False,False,6810.645,14,Italian Grand Prix
+SAR,22.0,87.465,2.0,HARD,11.0,1,True,Williams,False,15.0,28.445,30.055,28.965,,False,False,6898.11,14,Italian Grand Prix
+SAR,23.0,87.149,2.0,HARD,12.0,1,True,Williams,False,15.0,28.327,29.9,28.922,,False,False,6985.259,14,Italian Grand Prix
+SAR,24.0,87.104,2.0,HARD,13.0,1,True,Williams,False,15.0,28.242,29.963,28.899,,False,False,7072.363,14,Italian Grand Prix
+SAR,25.0,87.165,2.0,HARD,14.0,1,True,Williams,False,14.0,28.187,30.065,28.913,,False,False,7159.528,14,Italian Grand Prix
+SAR,26.0,87.021,2.0,HARD,15.0,1,True,Williams,False,13.0,28.298,29.83,28.893,,False,False,7246.549,14,Italian Grand Prix
+SAR,27.0,87.253,2.0,HARD,16.0,1,True,Williams,False,13.0,28.261,30.079,28.913,,False,False,7333.802,14,Italian Grand Prix
+SAR,28.0,87.546,2.0,HARD,17.0,1,True,Williams,False,13.0,28.373,30.188,28.985,,False,False,7421.348,14,Italian Grand Prix
+SAR,29.0,87.545,2.0,HARD,18.0,1,True,Williams,False,13.0,28.388,30.221,28.936,,False,False,7508.893,14,Italian Grand Prix
+SAR,30.0,87.121,2.0,HARD,19.0,1,True,Williams,False,13.0,28.336,30.021,28.764,,False,False,7596.014,14,Italian Grand Prix
+SAR,31.0,87.461,2.0,HARD,20.0,1,True,Williams,False,13.0,28.284,30.277,28.9,,False,False,7683.475,14,Italian Grand Prix
+SAR,32.0,87.522,2.0,HARD,21.0,1,True,Williams,False,13.0,28.261,30.315,28.946,,False,False,7770.997,14,Italian Grand Prix
+SAR,33.0,87.293,2.0,HARD,22.0,1,True,Williams,False,11.0,28.247,30.149,28.897,,False,False,7858.29,14,Italian Grand Prix
+SAR,34.0,87.219,2.0,HARD,23.0,1,True,Williams,False,11.0,28.213,30.129,28.877,,False,False,7945.509,14,Italian Grand Prix
+SAR,35.0,87.233,2.0,HARD,24.0,1,True,Williams,False,11.0,28.272,30.197,28.764,,False,False,8032.742,14,Italian Grand Prix
+SAR,36.0,87.142,2.0,HARD,25.0,1,True,Williams,False,11.0,28.312,30.153,28.677,,False,False,8119.884,14,Italian Grand Prix
+SAR,37.0,87.292,2.0,HARD,26.0,1,True,Williams,False,11.0,28.557,30.104,28.631,,False,False,8207.176,14,Italian Grand Prix
+SAR,38.0,87.103,2.0,HARD,27.0,1,True,Williams,False,11.0,28.403,30.155,28.545,,False,False,8294.279,14,Italian Grand Prix
+SAR,39.0,87.137,2.0,HARD,28.0,1,True,Williams,False,11.0,28.367,30.179,28.591,,False,False,8381.416,14,Italian Grand Prix
+SAR,40.0,87.64,2.0,HARD,29.0,1,True,Williams,False,11.0,28.48,30.485,28.675,,False,False,8469.056,14,Italian Grand Prix
+SAR,41.0,87.18,2.0,HARD,30.0,1,True,Williams,False,11.0,28.346,30.289,28.545,,False,False,8556.236,14,Italian Grand Prix
+SAR,42.0,87.176,2.0,HARD,31.0,1,True,Williams,False,10.0,28.509,30.206,28.461,,False,False,8643.412,14,Italian Grand Prix
+SAR,43.0,89.385,2.0,HARD,32.0,1,True,Williams,False,11.0,28.493,31.774,29.118,,False,False,8732.797,14,Italian Grand Prix
+SAR,44.0,87.686,2.0,HARD,33.0,1,True,Williams,False,11.0,28.59,30.403,28.693,,False,False,8820.483,14,Italian Grand Prix
+SAR,45.0,87.502,2.0,HARD,34.0,1,True,Williams,False,11.0,28.487,30.348,28.667,,False,False,8907.985,14,Italian Grand Prix
+SAR,46.0,87.709,2.0,HARD,35.0,1,True,Williams,False,11.0,28.456,30.541,28.712,,False,False,8995.694,14,Italian Grand Prix
+SAR,47.0,87.622,2.0,HARD,36.0,1,True,Williams,False,11.0,28.463,30.392,28.767,,False,False,9083.316,14,Italian Grand Prix
+SAR,48.0,87.44,2.0,HARD,37.0,1,True,Williams,False,11.0,28.202,30.516,28.722,,False,False,9170.756,14,Italian Grand Prix
+SAR,49.0,87.742,2.0,HARD,38.0,1,True,Williams,False,11.0,28.431,30.625,28.686,,False,False,9258.498,14,Italian Grand Prix
+SAR,50.0,89.626,2.0,HARD,39.0,1,True,Williams,False,13.0,28.572,31.644,29.41,,False,False,9348.124,14,Italian Grand Prix
+SAR,51.0,,2.0,HARD,40.0,1,False,Williams,False,,,,,,False,False,9498.124,14,Italian Grand Prix
+MAG,1.0,96.466,1.0,HARD,5.0,1,False,Haas F1 Team,False,18.0,,32.419,30.247,,False,False,5038.341,14,Italian Grand Prix
+MAG,2.0,88.923,1.0,HARD,6.0,1,True,Haas F1 Team,False,18.0,28.604,30.826,29.493,,False,False,5127.264,14,Italian Grand Prix
+MAG,3.0,88.538,1.0,HARD,7.0,1,True,Haas F1 Team,False,18.0,28.77,30.58,29.188,,False,False,5215.802,14,Italian Grand Prix
+MAG,4.0,89.252,1.0,HARD,8.0,1,True,Haas F1 Team,False,19.0,29.2,30.783,29.269,,False,False,5305.054,14,Italian Grand Prix
+MAG,5.0,88.276,1.0,HARD,9.0,1,True,Haas F1 Team,False,19.0,28.669,30.299,29.308,,False,False,5393.33,14,Italian Grand Prix
+MAG,6.0,87.949,1.0,HARD,10.0,1,True,Haas F1 Team,False,19.0,28.51,30.238,29.201,,False,False,5481.279,14,Italian Grand Prix
+MAG,7.0,87.691,1.0,HARD,11.0,1,True,Haas F1 Team,False,19.0,28.537,30.0,29.154,,False,False,5568.97,14,Italian Grand Prix
+MAG,8.0,87.935,1.0,HARD,12.0,1,True,Haas F1 Team,False,19.0,28.448,30.059,29.428,,False,False,5656.905,14,Italian Grand Prix
+MAG,9.0,88.218,1.0,HARD,13.0,1,True,Haas F1 Team,False,19.0,28.659,30.166,29.393,,False,False,5745.123,14,Italian Grand Prix
+MAG,10.0,88.511,1.0,HARD,14.0,1,True,Haas F1 Team,False,19.0,28.608,30.291,29.612,,False,False,5833.634,14,Italian Grand Prix
+MAG,11.0,88.792,1.0,HARD,15.0,1,True,Haas F1 Team,False,18.0,28.764,30.474,29.554,,False,False,5922.426,14,Italian Grand Prix
+MAG,12.0,93.273,1.0,HARD,16.0,1,False,Haas F1 Team,False,17.0,28.736,30.371,34.166,,True,False,6015.699,14,Italian Grand Prix
+MAG,13.0,108.424,2.0,MEDIUM,1.0,1,False,Haas F1 Team,True,19.0,49.14,29.985,29.299,,False,True,6124.123,14,Italian Grand Prix
+MAG,14.0,88.08,2.0,MEDIUM,2.0,1,True,Haas F1 Team,True,19.0,28.551,30.069,29.46,,False,False,6212.203,14,Italian Grand Prix
+MAG,15.0,87.848,2.0,MEDIUM,3.0,1,True,Haas F1 Team,True,19.0,28.526,30.121,29.201,,False,False,6300.051,14,Italian Grand Prix
+MAG,16.0,87.649,2.0,MEDIUM,4.0,1,True,Haas F1 Team,True,19.0,28.491,29.955,29.203,,False,False,6387.7,14,Italian Grand Prix
+MAG,17.0,87.589,2.0,MEDIUM,5.0,1,True,Haas F1 Team,True,19.0,28.591,29.881,29.117,,False,False,6475.289,14,Italian Grand Prix
+MAG,18.0,87.898,2.0,MEDIUM,6.0,1,True,Haas F1 Team,True,19.0,28.639,30.033,29.226,,False,False,6563.187,14,Italian Grand Prix
+MAG,19.0,87.159,2.0,MEDIUM,7.0,1,True,Haas F1 Team,True,19.0,28.481,29.765,28.913,,False,False,6650.346,14,Italian Grand Prix
+MAG,20.0,87.011,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,19.0,28.444,29.712,28.855,,False,False,6737.357,14,Italian Grand Prix
+MAG,21.0,87.128,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,19.0,28.511,29.794,28.823,,False,False,6824.485,14,Italian Grand Prix
+MAG,22.0,87.244,2.0,MEDIUM,10.0,1,True,Haas F1 Team,True,19.0,28.549,29.853,28.842,,False,False,6911.729,14,Italian Grand Prix
+MAG,23.0,87.492,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,19.0,28.449,29.994,29.049,,False,False,6999.221,14,Italian Grand Prix
+MAG,24.0,87.536,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,19.0,28.445,30.082,29.009,,False,False,7086.757,14,Italian Grand Prix
+MAG,25.0,87.502,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,18.0,28.508,29.965,29.029,,False,False,7174.259,14,Italian Grand Prix
+MAG,26.0,87.418,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,18.0,28.528,29.9,28.99,,False,False,7261.677,14,Italian Grand Prix
+MAG,27.0,87.22,2.0,MEDIUM,15.0,1,True,Haas F1 Team,True,18.0,28.433,29.916,28.871,,False,False,7348.897,14,Italian Grand Prix
+MAG,28.0,87.154,2.0,MEDIUM,16.0,1,True,Haas F1 Team,True,18.0,28.416,29.896,28.842,,False,False,7436.051,14,Italian Grand Prix
+MAG,29.0,87.344,2.0,MEDIUM,17.0,1,True,Haas F1 Team,True,18.0,28.451,30.035,28.858,,False,False,7523.395,14,Italian Grand Prix
+MAG,30.0,87.384,2.0,MEDIUM,18.0,1,True,Haas F1 Team,True,18.0,28.644,29.98,28.76,,False,False,7610.779,14,Italian Grand Prix
+MAG,31.0,87.486,2.0,MEDIUM,19.0,1,True,Haas F1 Team,True,18.0,28.622,30.072,28.792,,False,False,7698.265,14,Italian Grand Prix
+MAG,32.0,87.556,2.0,MEDIUM,20.0,1,True,Haas F1 Team,True,17.0,28.572,30.012,28.972,,False,False,7785.821,14,Italian Grand Prix
+MAG,33.0,93.158,2.0,MEDIUM,21.0,1,False,Haas F1 Team,True,18.0,29.24,30.402,33.516,,True,False,7878.979,14,Italian Grand Prix
+MAG,34.0,107.333,3.0,MEDIUM,1.0,1,False,Haas F1 Team,True,19.0,48.986,29.7,28.647,,False,True,7986.312,14,Italian Grand Prix
+MAG,35.0,86.3,3.0,MEDIUM,2.0,1,True,Haas F1 Team,True,19.0,28.268,29.624,28.408,,False,False,8072.612,14,Italian Grand Prix
+MAG,36.0,86.385,3.0,MEDIUM,3.0,1,True,Haas F1 Team,True,19.0,28.249,29.562,28.574,,False,False,8158.997,14,Italian Grand Prix
+MAG,37.0,86.454,3.0,MEDIUM,4.0,1,True,Haas F1 Team,True,19.0,28.246,29.622,28.586,,False,False,8245.451,14,Italian Grand Prix
+MAG,38.0,86.394,3.0,MEDIUM,5.0,1,True,Haas F1 Team,True,19.0,28.31,29.553,28.531,,False,False,8331.845,14,Italian Grand Prix
+MAG,39.0,90.343,3.0,MEDIUM,6.0,1,True,Haas F1 Team,True,19.0,29.52,32.259,28.564,,False,False,8422.188,14,Italian Grand Prix
+MAG,40.0,86.696,3.0,MEDIUM,7.0,1,True,Haas F1 Team,True,18.0,28.356,29.608,28.732,,False,False,8508.884,14,Italian Grand Prix
+MAG,41.0,86.328,3.0,MEDIUM,8.0,1,True,Haas F1 Team,True,18.0,28.205,29.63,28.493,,False,False,8595.212,14,Italian Grand Prix
+MAG,42.0,86.278,3.0,MEDIUM,9.0,1,True,Haas F1 Team,True,18.0,28.185,29.475,28.618,,False,False,8681.49,14,Italian Grand Prix
+MAG,43.0,86.511,3.0,MEDIUM,10.0,1,True,Haas F1 Team,True,18.0,28.315,29.607,28.589,,False,False,8768.001,14,Italian Grand Prix
+MAG,44.0,86.514,3.0,MEDIUM,11.0,1,True,Haas F1 Team,True,18.0,28.262,29.531,28.721,,False,False,8854.515,14,Italian Grand Prix
+MAG,45.0,86.787,3.0,MEDIUM,12.0,1,True,Haas F1 Team,True,18.0,28.339,29.92,28.528,,False,False,8941.302,14,Italian Grand Prix
+MAG,46.0,86.983,3.0,MEDIUM,13.0,1,True,Haas F1 Team,True,18.0,28.337,29.813,28.833,,False,False,9028.285,14,Italian Grand Prix
+MAG,47.0,86.66,3.0,MEDIUM,14.0,1,True,Haas F1 Team,True,18.0,28.36,29.534,28.766,,False,False,9114.945,14,Italian Grand Prix
+MAG,48.0,86.739,3.0,MEDIUM,15.0,1,True,Haas F1 Team,True,18.0,28.156,29.66,28.923,,False,False,9201.684,14,Italian Grand Prix
+MAG,49.0,87.054,3.0,MEDIUM,16.0,1,True,Haas F1 Team,True,18.0,28.211,29.897,28.946,,False,False,9288.738,14,Italian Grand Prix
+MAG,50.0,86.904,3.0,MEDIUM,17.0,1,True,Haas F1 Team,True,18.0,28.345,29.456,29.103,,False,False,9375.642,14,Italian Grand Prix
+MAG,51.0,,3.0,MEDIUM,18.0,1,False,Haas F1 Team,True,,,,,,False,False,9525.642,14,Italian Grand Prix
+ALB,1.0,90.785,1.0,MEDIUM,4.0,1,False,Williams,False,7.0,,30.961,28.839,,False,False,5032.66,14,Italian Grand Prix
+ALB,2.0,87.067,1.0,MEDIUM,5.0,1,True,Williams,False,6.0,28.248,30.336,28.483,,False,False,5119.727,14,Italian Grand Prix
+ALB,3.0,86.578,1.0,MEDIUM,6.0,1,True,Williams,False,6.0,28.241,29.807,28.53,,False,False,5206.305,14,Italian Grand Prix
+ALB,4.0,86.684,1.0,MEDIUM,7.0,1,True,Williams,False,6.0,28.184,29.904,28.596,,False,False,5292.989,14,Italian Grand Prix
+ALB,5.0,86.868,1.0,MEDIUM,8.0,1,True,Williams,False,6.0,28.009,29.945,28.914,,False,False,5379.857,14,Italian Grand Prix
+ALB,6.0,86.661,1.0,MEDIUM,9.0,1,True,Williams,False,6.0,28.084,29.831,28.746,,False,False,5466.518,14,Italian Grand Prix
+ALB,7.0,86.773,1.0,MEDIUM,10.0,1,True,Williams,False,6.0,28.14,29.88,28.753,,False,False,5553.291,14,Italian Grand Prix
+ALB,8.0,86.676,1.0,MEDIUM,11.0,1,True,Williams,False,6.0,28.164,29.789,28.723,,False,False,5639.967,14,Italian Grand Prix
+ALB,9.0,86.838,1.0,MEDIUM,12.0,1,True,Williams,False,6.0,28.13,29.905,28.803,,False,False,5726.805,14,Italian Grand Prix
+ALB,10.0,87.305,1.0,MEDIUM,13.0,1,True,Williams,False,6.0,28.217,30.202,28.886,,False,False,5814.11,14,Italian Grand Prix
+ALB,11.0,87.389,1.0,MEDIUM,14.0,1,True,Williams,False,6.0,28.21,30.253,28.926,,False,False,5901.499,14,Italian Grand Prix
+ALB,12.0,87.533,1.0,MEDIUM,15.0,1,True,Williams,False,6.0,28.244,30.301,28.988,,False,False,5989.032,14,Italian Grand Prix
+ALB,13.0,87.676,1.0,MEDIUM,16.0,1,True,Williams,False,6.0,28.382,30.287,29.007,,False,False,6076.708,14,Italian Grand Prix
+ALB,14.0,87.723,1.0,MEDIUM,17.0,1,True,Williams,False,6.0,28.419,30.381,28.923,,False,False,6164.431,14,Italian Grand Prix
+ALB,15.0,92.301,1.0,MEDIUM,18.0,1,False,Williams,False,9.0,28.471,30.42,33.41,,True,False,6256.732,14,Italian Grand Prix
+ALB,16.0,107.605,2.0,HARD,4.0,1,False,Williams,False,13.0,48.509,30.09,29.006,,False,True,6364.337,14,Italian Grand Prix
+ALB,17.0,87.087,2.0,HARD,5.0,1,True,Williams,False,13.0,28.112,29.907,29.068,,False,False,6451.424,14,Italian Grand Prix
+ALB,18.0,86.893,2.0,HARD,6.0,1,True,Williams,False,13.0,28.215,29.832,28.846,,False,False,6538.317,14,Italian Grand Prix
+ALB,19.0,87.308,2.0,HARD,7.0,1,True,Williams,False,13.0,28.421,30.061,28.826,,False,False,6625.625,14,Italian Grand Prix
+ALB,20.0,86.853,2.0,HARD,8.0,1,True,Williams,False,12.0,28.207,29.964,28.682,,False,False,6712.478,14,Italian Grand Prix
+ALB,21.0,86.601,2.0,HARD,9.0,1,True,Williams,False,12.0,28.063,29.888,28.65,,False,False,6799.079,14,Italian Grand Prix
+ALB,22.0,86.833,2.0,HARD,10.0,1,True,Williams,False,11.0,28.065,30.017,28.751,,False,False,6885.912,14,Italian Grand Prix
+ALB,23.0,86.913,2.0,HARD,11.0,1,True,Williams,False,9.0,28.072,30.021,28.82,,False,False,6972.825,14,Italian Grand Prix
+ALB,24.0,86.748,2.0,HARD,12.0,1,True,Williams,False,8.0,28.141,29.93,28.677,,False,False,7059.573,14,Italian Grand Prix
+ALB,25.0,86.898,2.0,HARD,13.0,1,True,Williams,False,7.0,28.176,29.914,28.808,,False,False,7146.471,14,Italian Grand Prix
+ALB,26.0,87.049,2.0,HARD,14.0,1,True,Williams,False,7.0,28.19,29.944,28.915,,False,False,7233.52,14,Italian Grand Prix
+ALB,27.0,86.735,2.0,HARD,15.0,1,True,Williams,False,7.0,28.082,29.815,28.838,,False,False,7320.255,14,Italian Grand Prix
+ALB,28.0,87.024,2.0,HARD,16.0,1,True,Williams,False,6.0,28.288,29.896,28.84,,False,False,7407.279,14,Italian Grand Prix
+ALB,29.0,86.977,2.0,HARD,17.0,1,True,Williams,False,6.0,28.186,29.957,28.834,,False,False,7494.256,14,Italian Grand Prix
+ALB,30.0,86.94,2.0,HARD,18.0,1,True,Williams,False,6.0,28.382,29.892,28.666,,False,False,7581.196,14,Italian Grand Prix
+ALB,31.0,86.735,2.0,HARD,19.0,1,True,Williams,False,6.0,28.29,29.916,28.529,,False,False,7667.931,14,Italian Grand Prix
+ALB,32.0,86.432,2.0,HARD,20.0,1,True,Williams,False,6.0,28.117,29.915,28.4,,False,False,7754.363,14,Italian Grand Prix
+ALB,33.0,86.389,2.0,HARD,21.0,1,True,Williams,False,6.0,28.232,29.706,28.451,,False,False,7840.752,14,Italian Grand Prix
+ALB,34.0,86.579,2.0,HARD,22.0,1,True,Williams,False,6.0,28.181,29.9,28.498,,False,False,7927.331,14,Italian Grand Prix
+ALB,35.0,86.545,2.0,HARD,23.0,1,True,Williams,False,6.0,28.217,29.901,28.427,,False,False,8013.876,14,Italian Grand Prix
+ALB,36.0,86.981,2.0,HARD,24.0,1,True,Williams,False,6.0,28.478,30.039,28.464,,False,False,8100.857,14,Italian Grand Prix
+ALB,37.0,86.831,2.0,HARD,25.0,1,True,Williams,False,6.0,28.361,29.997,28.473,,False,False,8187.688,14,Italian Grand Prix
+ALB,38.0,87.37,2.0,HARD,26.0,1,True,Williams,False,6.0,28.615,30.113,28.642,,False,False,8275.058,14,Italian Grand Prix
+ALB,39.0,86.802,2.0,HARD,27.0,1,True,Williams,False,6.0,28.267,30.116,28.419,,False,False,8361.86,14,Italian Grand Prix
+ALB,40.0,86.572,2.0,HARD,28.0,1,True,Williams,False,6.0,28.148,30.04,28.384,,False,False,8448.432,14,Italian Grand Prix
+ALB,41.0,86.675,2.0,HARD,29.0,1,True,Williams,False,6.0,28.205,30.008,28.462,,False,False,8535.107,14,Italian Grand Prix
+ALB,42.0,86.708,2.0,HARD,30.0,1,True,Williams,False,6.0,28.164,30.191,28.353,,False,False,8621.815,14,Italian Grand Prix
+ALB,43.0,86.913,2.0,HARD,31.0,1,True,Williams,False,6.0,28.435,30.083,28.395,,False,False,8708.728,14,Italian Grand Prix
+ALB,44.0,87.725,2.0,HARD,32.0,1,True,Williams,False,6.0,28.419,30.879,28.427,,False,False,8796.453,14,Italian Grand Prix
+ALB,45.0,86.907,2.0,HARD,33.0,1,True,Williams,False,6.0,28.291,30.171,28.445,,False,False,8883.36,14,Italian Grand Prix
+ALB,46.0,87.252,2.0,HARD,34.0,1,True,Williams,False,6.0,28.431,30.313,28.508,,False,False,8970.612,14,Italian Grand Prix
+ALB,47.0,88.491,2.0,HARD,35.0,1,True,Williams,False,7.0,28.978,31.009,28.504,,False,False,9059.103,14,Italian Grand Prix
+ALB,48.0,86.822,2.0,HARD,36.0,1,True,Williams,False,7.0,28.118,30.185,28.519,,False,False,9145.925,14,Italian Grand Prix
+ALB,49.0,87.569,2.0,HARD,37.0,1,True,Williams,False,7.0,28.348,30.647,28.574,,False,False,9233.494,14,Italian Grand Prix
+ALB,50.0,87.197,2.0,HARD,38.0,1,True,Williams,False,7.0,28.281,30.432,28.484,,False,False,9320.691,14,Italian Grand Prix
+ALB,51.0,87.433,2.0,HARD,39.0,1,True,Williams,False,7.0,28.523,30.28,28.63,,False,False,9408.124,14,Italian Grand Prix
+ZHO,1.0,95.194,1.0,MEDIUM,1.0,1,False,Alfa Romeo,True,15.0,,32.414,29.962,,False,False,5037.069,14,Italian Grand Prix
+ZHO,2.0,88.167,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,15.0,28.482,30.515,29.17,,False,False,5125.236,14,Italian Grand Prix
+ZHO,3.0,87.871,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,15.0,28.482,30.136,29.253,,False,False,5213.107,14,Italian Grand Prix
+ZHO,4.0,87.615,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,15.0,28.252,30.256,29.107,,False,False,5300.722,14,Italian Grand Prix
+ZHO,5.0,87.535,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,15.0,28.265,30.158,29.112,,False,False,5388.257,14,Italian Grand Prix
+ZHO,6.0,87.066,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,15.0,28.146,29.921,28.999,,False,False,5475.323,14,Italian Grand Prix
+ZHO,7.0,87.185,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,15.0,28.067,30.07,29.048,,False,False,5562.508,14,Italian Grand Prix
+ZHO,8.0,87.253,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,15.0,27.989,30.129,29.135,,False,False,5649.761,14,Italian Grand Prix
+ZHO,9.0,87.416,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,15.0,28.063,30.105,29.248,,False,False,5737.177,14,Italian Grand Prix
+ZHO,10.0,87.544,1.0,MEDIUM,10.0,1,True,Alfa Romeo,True,15.0,28.204,30.149,29.191,,False,False,5824.721,14,Italian Grand Prix
+ZHO,11.0,92.187,1.0,MEDIUM,11.0,1,False,Alfa Romeo,True,17.0,28.088,30.366,33.733,,True,False,5916.908,14,Italian Grand Prix
+ZHO,12.0,107.237,2.0,HARD,4.0,1,False,Alfa Romeo,False,18.0,48.832,29.749,28.656,,False,True,6024.145,14,Italian Grand Prix
+ZHO,13.0,86.253,2.0,HARD,5.0,1,True,Alfa Romeo,False,17.0,28.148,29.593,28.512,,False,False,6110.398,14,Italian Grand Prix
+ZHO,14.0,87.775,2.0,HARD,6.0,1,True,Alfa Romeo,False,17.0,28.46,30.365,28.95,,False,False,6198.173,14,Italian Grand Prix
+ZHO,15.0,87.645,2.0,HARD,7.0,1,True,Alfa Romeo,False,15.0,28.406,30.302,28.937,,False,False,6285.818,14,Italian Grand Prix
+ZHO,16.0,87.153,2.0,HARD,8.0,1,True,Alfa Romeo,False,15.0,28.446,30.051,28.656,,False,False,6372.971,14,Italian Grand Prix
+ZHO,17.0,86.866,2.0,HARD,9.0,1,True,Alfa Romeo,False,15.0,28.172,29.873,28.821,,False,False,6459.837,14,Italian Grand Prix
+ZHO,18.0,87.055,2.0,HARD,10.0,1,True,Alfa Romeo,False,15.0,28.16,30.123,28.772,,False,False,6546.892,14,Italian Grand Prix
+ZHO,19.0,87.347,2.0,HARD,11.0,1,True,Alfa Romeo,False,15.0,28.441,30.125,28.781,,False,False,6634.239,14,Italian Grand Prix
+ZHO,20.0,87.075,2.0,HARD,12.0,1,True,Alfa Romeo,False,15.0,28.351,29.988,28.736,,False,False,6721.314,14,Italian Grand Prix
+ZHO,21.0,87.17,2.0,HARD,13.0,1,True,Alfa Romeo,False,14.0,28.288,30.072,28.81,,False,False,6808.484,14,Italian Grand Prix
+ZHO,22.0,87.333,2.0,HARD,14.0,1,True,Alfa Romeo,False,14.0,28.194,30.055,29.084,,False,False,6895.817,14,Italian Grand Prix
+ZHO,23.0,87.285,2.0,HARD,15.0,1,True,Alfa Romeo,False,14.0,28.295,30.1,28.89,,False,False,6983.102,14,Italian Grand Prix
+ZHO,24.0,87.153,2.0,HARD,16.0,1,True,Alfa Romeo,False,14.0,28.236,30.034,28.883,,False,False,7070.255,14,Italian Grand Prix
+ZHO,25.0,87.028,2.0,HARD,17.0,1,True,Alfa Romeo,False,13.0,28.099,29.997,28.932,,False,False,7157.283,14,Italian Grand Prix
+ZHO,26.0,87.164,2.0,HARD,18.0,1,True,Alfa Romeo,False,12.0,28.167,30.017,28.98,,False,False,7244.447,14,Italian Grand Prix
+ZHO,27.0,87.348,2.0,HARD,19.0,1,True,Alfa Romeo,False,12.0,28.22,30.206,28.922,,False,False,7331.795,14,Italian Grand Prix
+ZHO,28.0,87.858,2.0,HARD,20.0,1,True,Alfa Romeo,False,12.0,28.358,30.492,29.008,,False,False,7419.653,14,Italian Grand Prix
+ZHO,29.0,87.356,2.0,HARD,21.0,1,True,Alfa Romeo,False,12.0,28.267,30.155,28.934,,False,False,7507.009,14,Italian Grand Prix
+ZHO,30.0,87.442,2.0,HARD,22.0,1,True,Alfa Romeo,False,12.0,28.302,30.279,28.861,,False,False,7594.451,14,Italian Grand Prix
+ZHO,31.0,87.683,2.0,HARD,23.0,1,True,Alfa Romeo,False,12.0,28.211,30.48,28.992,,False,False,7682.134,14,Italian Grand Prix
+ZHO,32.0,87.82,2.0,HARD,24.0,1,True,Alfa Romeo,False,12.0,28.341,30.496,28.983,,False,False,7769.954,14,Italian Grand Prix
+ZHO,33.0,92.052,2.0,HARD,25.0,1,False,Alfa Romeo,False,14.0,28.279,30.442,33.331,,True,False,7862.006,14,Italian Grand Prix
+ZHO,34.0,107.962,3.0,MEDIUM,1.0,1,False,Alfa Romeo,True,17.0,50.008,29.617,28.337,,False,True,7969.968,14,Italian Grand Prix
+ZHO,35.0,85.983,3.0,MEDIUM,2.0,1,True,Alfa Romeo,True,17.0,27.928,29.6,28.455,,False,False,8055.951,14,Italian Grand Prix
+ZHO,36.0,86.935,3.0,MEDIUM,3.0,1,True,Alfa Romeo,True,17.0,28.198,30.01,28.727,,False,False,8142.886,14,Italian Grand Prix
+ZHO,37.0,86.7,3.0,MEDIUM,4.0,1,True,Alfa Romeo,True,17.0,28.234,29.862,28.604,,False,False,8229.586,14,Italian Grand Prix
+ZHO,38.0,86.503,3.0,MEDIUM,5.0,1,True,Alfa Romeo,True,17.0,28.223,29.783,28.497,,False,False,8316.089,14,Italian Grand Prix
+ZHO,39.0,86.473,3.0,MEDIUM,6.0,1,True,Alfa Romeo,True,16.0,28.152,29.831,28.49,,False,False,8402.562,14,Italian Grand Prix
+ZHO,40.0,86.406,3.0,MEDIUM,7.0,1,True,Alfa Romeo,True,15.0,28.171,29.731,28.504,,False,False,8488.968,14,Italian Grand Prix
+ZHO,41.0,86.6,3.0,MEDIUM,8.0,1,True,Alfa Romeo,True,15.0,28.255,29.765,28.58,,False,False,8575.568,14,Italian Grand Prix
+ZHO,42.0,86.671,3.0,MEDIUM,9.0,1,True,Alfa Romeo,True,15.0,28.22,29.943,28.508,,False,False,8662.239,14,Italian Grand Prix
+ZHO,43.0,86.288,3.0,MEDIUM,10.0,1,True,Alfa Romeo,True,15.0,28.075,29.782,28.431,,False,False,8748.527,14,Italian Grand Prix
+ZHO,44.0,86.313,3.0,MEDIUM,11.0,1,True,Alfa Romeo,True,15.0,28.194,29.769,28.35,,False,False,8834.84,14,Italian Grand Prix
+ZHO,45.0,86.461,3.0,MEDIUM,12.0,1,True,Alfa Romeo,True,15.0,28.195,29.845,28.421,,False,False,8921.301,14,Italian Grand Prix
+ZHO,46.0,86.134,3.0,MEDIUM,13.0,1,True,Alfa Romeo,True,15.0,28.096,29.697,28.341,,False,False,9007.435,14,Italian Grand Prix
+ZHO,47.0,86.305,3.0,MEDIUM,14.0,1,True,Alfa Romeo,True,15.0,28.082,29.76,28.463,,False,False,9093.74,14,Italian Grand Prix
+ZHO,48.0,86.448,3.0,MEDIUM,15.0,1,True,Alfa Romeo,True,15.0,28.102,29.781,28.565,,False,False,9180.188,14,Italian Grand Prix
+ZHO,49.0,88.825,3.0,MEDIUM,16.0,1,True,Alfa Romeo,True,15.0,27.755,31.747,29.323,,False,False,9269.013,14,Italian Grand Prix
+ZHO,50.0,86.768,3.0,MEDIUM,17.0,1,True,Alfa Romeo,True,14.0,28.313,29.952,28.503,,False,False,9355.781,14,Italian Grand Prix
+ZHO,51.0,,3.0,MEDIUM,18.0,1,False,Alfa Romeo,True,,,,,,False,False,9505.781,14,Italian Grand Prix
+HUL,1.0,92.72,1.0,MEDIUM,4.0,1,False,Haas F1 Team,False,10.0,,31.435,29.179,,False,False,5034.595,14,Italian Grand Prix
+HUL,2.0,87.92,1.0,MEDIUM,5.0,1,True,Haas F1 Team,False,10.0,28.659,30.195,29.066,,False,False,5122.515,14,Italian Grand Prix
+HUL,3.0,87.36,1.0,MEDIUM,6.0,1,True,Haas F1 Team,False,10.0,28.522,30.018,28.82,,False,False,5209.875,14,Italian Grand Prix
+HUL,4.0,87.2,1.0,MEDIUM,7.0,1,True,Haas F1 Team,False,10.0,28.353,30.179,28.668,,False,False,5297.075,14,Italian Grand Prix
+HUL,5.0,87.035,1.0,MEDIUM,8.0,1,True,Haas F1 Team,False,10.0,28.304,29.951,28.78,,False,False,5384.11,14,Italian Grand Prix
+HUL,6.0,87.169,1.0,MEDIUM,9.0,1,True,Haas F1 Team,False,10.0,28.369,29.99,28.81,,False,False,5471.279,14,Italian Grand Prix
+HUL,7.0,87.465,1.0,MEDIUM,10.0,1,True,Haas F1 Team,False,10.0,28.474,30.088,28.903,,False,False,5558.744,14,Italian Grand Prix
+HUL,8.0,88.059,1.0,MEDIUM,11.0,1,True,Haas F1 Team,False,11.0,28.665,30.421,28.973,,False,False,5646.803,14,Italian Grand Prix
+HUL,9.0,87.481,1.0,MEDIUM,12.0,1,True,Haas F1 Team,False,11.0,28.412,30.067,29.002,,False,False,5734.284,14,Italian Grand Prix
+HUL,10.0,87.563,1.0,MEDIUM,13.0,1,True,Haas F1 Team,False,11.0,28.453,30.17,28.94,,False,False,5821.847,14,Italian Grand Prix
+HUL,11.0,88.055,1.0,MEDIUM,14.0,1,True,Haas F1 Team,False,11.0,28.668,30.428,28.959,,False,False,5909.902,14,Italian Grand Prix
+HUL,12.0,89.091,1.0,MEDIUM,15.0,1,True,Haas F1 Team,False,12.0,29.194,30.785,29.112,,False,False,5998.993,14,Italian Grand Prix
+HUL,13.0,88.009,1.0,MEDIUM,16.0,1,True,Haas F1 Team,False,11.0,28.418,30.638,28.953,,False,False,6087.002,14,Italian Grand Prix
+HUL,14.0,92.658,1.0,MEDIUM,17.0,1,False,Haas F1 Team,False,13.0,28.583,31.022,33.053,,True,False,6179.66,14,Italian Grand Prix
+HUL,15.0,109.615,2.0,HARD,6.0,1,False,Haas F1 Team,False,17.0,50.388,30.303,28.924,,False,True,6289.275,14,Italian Grand Prix
+HUL,16.0,86.99,2.0,HARD,7.0,1,True,Haas F1 Team,False,17.0,28.381,29.965,28.644,,False,False,6376.265,14,Italian Grand Prix
+HUL,17.0,86.988,2.0,HARD,8.0,1,True,Haas F1 Team,False,17.0,28.315,29.968,28.705,,False,False,6463.253,14,Italian Grand Prix
+HUL,18.0,87.294,2.0,HARD,9.0,1,True,Haas F1 Team,False,17.0,28.432,30.085,28.777,,False,False,6550.547,14,Italian Grand Prix
+HUL,19.0,87.312,2.0,HARD,10.0,1,True,Haas F1 Team,False,17.0,28.491,30.078,28.743,,False,False,6637.859,14,Italian Grand Prix
+HUL,20.0,87.078,2.0,HARD,11.0,1,True,Haas F1 Team,False,17.0,28.437,29.93,28.711,,False,False,6724.937,14,Italian Grand Prix
+HUL,21.0,87.161,2.0,HARD,12.0,1,True,Haas F1 Team,False,16.0,28.445,29.983,28.733,,False,False,6812.098,14,Italian Grand Prix
+HUL,22.0,87.074,2.0,HARD,13.0,1,True,Haas F1 Team,False,16.0,28.383,30.088,28.603,,False,False,6899.172,14,Italian Grand Prix
+HUL,23.0,87.29,2.0,HARD,14.0,1,True,Haas F1 Team,False,16.0,28.497,30.184,28.609,,False,False,6986.462,14,Italian Grand Prix
+HUL,24.0,87.143,2.0,HARD,15.0,1,True,Haas F1 Team,False,16.0,28.32,30.111,28.712,,False,False,7073.605,14,Italian Grand Prix
+HUL,25.0,87.229,2.0,HARD,16.0,1,True,Haas F1 Team,False,15.0,28.362,30.216,28.651,,False,False,7160.834,14,Italian Grand Prix
+HUL,26.0,87.344,2.0,HARD,17.0,1,True,Haas F1 Team,False,14.0,28.518,30.161,28.665,,False,False,7248.178,14,Italian Grand Prix
+HUL,27.0,87.08,2.0,HARD,18.0,1,True,Haas F1 Team,False,14.0,28.425,29.874,28.781,,False,False,7335.258,14,Italian Grand Prix
+HUL,28.0,87.6,2.0,HARD,19.0,1,True,Haas F1 Team,False,14.0,28.478,30.261,28.861,,False,False,7422.858,14,Italian Grand Prix
+HUL,29.0,87.466,2.0,HARD,20.0,1,True,Haas F1 Team,False,14.0,28.456,30.06,28.95,,False,False,7510.324,14,Italian Grand Prix
+HUL,30.0,87.775,2.0,HARD,21.0,1,True,Haas F1 Team,False,14.0,28.736,30.201,28.838,,False,False,7598.099,14,Italian Grand Prix
+HUL,31.0,87.547,2.0,HARD,22.0,1,True,Haas F1 Team,False,14.0,28.462,30.232,28.853,,False,False,7685.646,14,Italian Grand Prix
+HUL,32.0,87.976,2.0,HARD,23.0,1,True,Haas F1 Team,False,14.0,28.523,30.448,29.005,,False,False,7773.622,14,Italian Grand Prix
+HUL,33.0,88.575,2.0,HARD,24.0,1,True,Haas F1 Team,False,15.0,28.554,30.436,29.585,,False,False,7862.197,14,Italian Grand Prix
+HUL,34.0,87.991,2.0,HARD,25.0,1,True,Haas F1 Team,False,13.0,28.409,30.641,28.941,,False,False,7950.188,14,Italian Grand Prix
+HUL,35.0,87.945,2.0,HARD,26.0,1,True,Haas F1 Team,False,13.0,28.476,30.448,29.021,,False,False,8038.133,14,Italian Grand Prix
+HUL,36.0,88.084,2.0,HARD,27.0,1,True,Haas F1 Team,False,13.0,28.527,30.275,29.282,,False,False,8126.217,14,Italian Grand Prix
+HUL,37.0,88.006,2.0,HARD,28.0,1,True,Haas F1 Team,False,13.0,28.515,30.466,29.025,,False,False,8214.223,14,Italian Grand Prix
+HUL,38.0,88.969,2.0,HARD,29.0,1,True,Haas F1 Team,False,14.0,29.096,30.844,29.029,,False,False,8303.192,14,Italian Grand Prix
+HUL,39.0,92.506,2.0,HARD,30.0,1,False,Haas F1 Team,False,14.0,28.556,30.527,33.423,,True,False,8395.698,14,Italian Grand Prix
+HUL,40.0,106.37,3.0,MEDIUM,4.0,1,False,Haas F1 Team,False,17.0,48.194,29.719,28.457,,False,True,8502.068,14,Italian Grand Prix
+HUL,41.0,86.395,3.0,MEDIUM,5.0,1,True,Haas F1 Team,False,17.0,28.215,29.637,28.543,,False,False,8588.463,14,Italian Grand Prix
+HUL,42.0,86.102,3.0,MEDIUM,6.0,1,True,Haas F1 Team,False,17.0,28.299,29.405,28.398,,False,False,8674.565,14,Italian Grand Prix
+HUL,43.0,86.234,3.0,MEDIUM,7.0,1,True,Haas F1 Team,False,17.0,28.341,29.487,28.406,,False,False,8760.799,14,Italian Grand Prix
+HUL,44.0,86.459,3.0,MEDIUM,8.0,1,True,Haas F1 Team,False,17.0,28.307,29.626,28.526,,False,False,8847.258,14,Italian Grand Prix
+HUL,45.0,86.723,3.0,MEDIUM,9.0,1,True,Haas F1 Team,False,17.0,28.329,29.675,28.719,,False,False,8933.981,14,Italian Grand Prix
+HUL,46.0,86.645,3.0,MEDIUM,10.0,1,True,Haas F1 Team,False,17.0,28.345,29.762,28.538,,False,False,9020.626,14,Italian Grand Prix
+HUL,47.0,86.251,3.0,MEDIUM,11.0,1,True,Haas F1 Team,False,17.0,28.251,29.531,28.469,,False,False,9106.877,14,Italian Grand Prix
+HUL,48.0,86.359,3.0,MEDIUM,12.0,1,True,Haas F1 Team,False,17.0,28.286,29.718,28.355,,False,False,9193.236,14,Italian Grand Prix
+HUL,49.0,85.981,3.0,MEDIUM,13.0,1,True,Haas F1 Team,False,17.0,28.367,29.43,28.184,,False,False,9279.217,14,Italian Grand Prix
+HUL,50.0,85.894,3.0,MEDIUM,14.0,1,True,Haas F1 Team,False,17.0,28.274,29.497,28.123,,False,False,9365.111,14,Italian Grand Prix
+HUL,51.0,,3.0,MEDIUM,15.0,1,False,Haas F1 Team,False,,,,,,False,False,9515.111,14,Italian Grand Prix
+OCO,1.0,95.655,1.0,MEDIUM,1.0,1,False,Alpine,True,16.0,,32.271,29.923,,False,False,5037.53,14,Italian Grand Prix
+OCO,2.0,88.667,1.0,MEDIUM,2.0,1,True,Alpine,True,16.0,28.747,30.479,29.441,,False,False,5126.197,14,Italian Grand Prix
+OCO,3.0,87.822,1.0,MEDIUM,3.0,1,True,Alpine,True,16.0,28.679,29.905,29.238,,False,False,5214.019,14,Italian Grand Prix
+OCO,4.0,87.582,1.0,MEDIUM,4.0,1,True,Alpine,True,16.0,28.339,30.071,29.172,,False,False,5301.601,14,Italian Grand Prix
+OCO,5.0,87.385,1.0,MEDIUM,5.0,1,True,Alpine,True,16.0,28.234,30.001,29.15,,False,False,5388.986,14,Italian Grand Prix
+OCO,6.0,87.306,1.0,MEDIUM,6.0,1,True,Alpine,True,16.0,28.228,30.062,29.016,,False,False,5476.292,14,Italian Grand Prix
+OCO,7.0,87.117,1.0,MEDIUM,7.0,1,True,Alpine,True,16.0,28.258,29.794,29.065,,False,False,5563.409,14,Italian Grand Prix
+OCO,8.0,87.309,1.0,MEDIUM,8.0,1,True,Alpine,True,16.0,28.19,29.948,29.171,,False,False,5650.718,14,Italian Grand Prix
+OCO,9.0,87.396,1.0,MEDIUM,9.0,1,True,Alpine,True,16.0,28.202,30.053,29.141,,False,False,5738.114,14,Italian Grand Prix
+OCO,10.0,87.607,1.0,MEDIUM,10.0,1,True,Alpine,True,16.0,28.372,30.045,29.19,,False,False,5825.721,14,Italian Grand Prix
+OCO,11.0,87.738,1.0,MEDIUM,11.0,1,True,Alpine,True,15.0,28.301,30.405,29.032,,False,False,5913.459,14,Italian Grand Prix
+OCO,12.0,88.232,1.0,MEDIUM,12.0,1,True,Alpine,True,15.0,28.571,30.347,29.314,,False,False,6001.691,14,Italian Grand Prix
+OCO,13.0,87.855,1.0,MEDIUM,13.0,1,True,Alpine,True,14.0,28.362,30.343,29.15,,False,False,6089.546,14,Italian Grand Prix
+OCO,14.0,88.091,1.0,MEDIUM,14.0,1,True,Alpine,True,12.0,28.417,30.356,29.318,,False,False,6177.637,14,Italian Grand Prix
+OCO,15.0,88.197,1.0,MEDIUM,15.0,1,True,Alpine,True,12.0,28.46,30.513,29.224,,False,False,6265.834,14,Italian Grand Prix
+OCO,16.0,88.249,1.0,MEDIUM,16.0,1,True,Alpine,True,11.0,28.678,30.517,29.054,,False,False,6354.083,14,Italian Grand Prix
+OCO,17.0,88.111,1.0,MEDIUM,17.0,1,True,Alpine,True,11.0,28.605,30.381,29.125,,False,False,6442.194,14,Italian Grand Prix
+OCO,18.0,88.261,1.0,MEDIUM,18.0,1,True,Alpine,True,11.0,28.629,30.459,29.173,,False,False,6530.455,14,Italian Grand Prix
+OCO,19.0,88.216,1.0,MEDIUM,19.0,1,True,Alpine,True,11.0,28.699,30.382,29.135,,False,False,6618.671,14,Italian Grand Prix
+OCO,20.0,89.387,1.0,MEDIUM,20.0,1,True,Alpine,True,11.0,29.677,30.625,29.085,,False,False,6708.058,14,Italian Grand Prix
+OCO,21.0,88.489,1.0,MEDIUM,21.0,1,True,Alpine,True,11.0,28.711,30.436,29.342,,False,False,6796.547,14,Italian Grand Prix
+OCO,22.0,88.884,1.0,MEDIUM,22.0,1,True,Alpine,True,10.0,28.762,30.7,29.422,,False,False,6885.431,14,Italian Grand Prix
+OCO,23.0,89.474,1.0,MEDIUM,23.0,1,True,Alpine,True,10.0,29.428,30.719,29.327,,False,False,6974.905,14,Italian Grand Prix
+OCO,24.0,93.499,1.0,MEDIUM,24.0,1,False,Alpine,True,12.0,28.594,30.657,34.248,,True,False,7068.404,14,Italian Grand Prix
+OCO,25.0,107.378,2.0,HARD,4.0,1,False,Alpine,False,19.0,48.424,30.07,28.884,,False,True,7175.782,14,Italian Grand Prix
+OCO,26.0,87.158,2.0,HARD,5.0,1,True,Alpine,False,19.0,28.335,29.913,28.91,,False,False,7262.94,14,Italian Grand Prix
+OCO,27.0,87.119,2.0,HARD,6.0,1,True,Alpine,False,19.0,28.322,29.933,28.864,,False,False,7350.059,14,Italian Grand Prix
+OCO,28.0,87.19,2.0,HARD,7.0,1,True,Alpine,False,19.0,28.381,30.046,28.763,,False,False,7437.249,14,Italian Grand Prix
+OCO,29.0,87.35,2.0,HARD,8.0,1,True,Alpine,False,19.0,28.439,30.125,28.786,,False,False,7524.599,14,Italian Grand Prix
+OCO,30.0,87.308,2.0,HARD,9.0,1,True,Alpine,False,19.0,28.472,30.064,28.772,,False,False,7611.907,14,Italian Grand Prix
+OCO,31.0,87.208,2.0,HARD,10.0,1,True,Alpine,False,19.0,28.424,29.972,28.812,,False,False,7699.115,14,Italian Grand Prix
+OCO,32.0,87.119,2.0,HARD,11.0,1,True,Alpine,False,18.0,28.426,29.892,28.801,,False,False,7786.234,14,Italian Grand Prix
+OCO,33.0,86.963,2.0,HARD,12.0,1,True,Alpine,False,17.0,28.305,29.946,28.712,,False,False,7873.197,14,Italian Grand Prix
+OCO,34.0,87.626,2.0,HARD,13.0,1,True,Alpine,False,15.0,28.494,30.238,28.894,,False,False,7960.823,14,Italian Grand Prix
+OCO,35.0,87.441,2.0,HARD,14.0,1,True,Alpine,False,15.0,28.604,30.054,28.783,,False,False,8048.264,14,Italian Grand Prix
+OCO,36.0,87.476,2.0,HARD,15.0,1,True,Alpine,False,15.0,28.527,30.087,28.862,,False,False,8135.74,14,Italian Grand Prix
+OCO,37.0,87.429,2.0,HARD,16.0,1,True,Alpine,False,15.0,28.474,30.165,28.79,,False,False,8223.169,14,Italian Grand Prix
+OCO,38.0,87.079,2.0,HARD,17.0,1,True,Alpine,False,15.0,28.461,29.89,28.728,,False,False,8310.248,14,Italian Grand Prix
+OCO,39.0,106.604,2.0,HARD,18.0,1,False,Alpine,False,18.0,28.452,30.315,47.837,,True,False,8416.852,14,Italian Grand Prix
+NOR,1.0,91.513,1.0,MEDIUM,1.0,1,False,McLaren,True,8.0,,31.119,28.885,,False,False,5033.388,14,Italian Grand Prix
+NOR,2.0,87.575,1.0,MEDIUM,2.0,1,True,McLaren,True,8.0,28.537,30.36,28.678,,False,False,5120.963,14,Italian Grand Prix
+NOR,3.0,87.105,1.0,MEDIUM,3.0,1,True,McLaren,True,8.0,28.693,29.848,28.564,,False,False,5208.068,14,Italian Grand Prix
+NOR,4.0,87.069,1.0,MEDIUM,4.0,1,True,McLaren,True,8.0,28.445,29.988,28.636,,False,False,5295.137,14,Italian Grand Prix
+NOR,5.0,87.142,1.0,MEDIUM,5.0,1,True,McLaren,True,8.0,28.562,29.982,28.598,,False,False,5382.279,14,Italian Grand Prix
+NOR,6.0,86.796,1.0,MEDIUM,6.0,1,True,McLaren,True,8.0,28.38,29.732,28.684,,False,False,5469.075,14,Italian Grand Prix
+NOR,7.0,86.864,1.0,MEDIUM,7.0,1,True,McLaren,True,8.0,28.36,29.946,28.558,,False,False,5555.939,14,Italian Grand Prix
+NOR,8.0,86.628,1.0,MEDIUM,8.0,1,True,McLaren,True,8.0,28.271,29.746,28.611,,False,False,5642.567,14,Italian Grand Prix
+NOR,9.0,86.893,1.0,MEDIUM,9.0,1,True,McLaren,True,8.0,28.208,29.983,28.702,,False,False,5729.46,14,Italian Grand Prix
+NOR,10.0,86.965,1.0,MEDIUM,10.0,1,True,McLaren,True,8.0,28.292,29.893,28.78,,False,False,5816.425,14,Italian Grand Prix
+NOR,11.0,87.066,1.0,MEDIUM,11.0,1,True,McLaren,True,8.0,28.224,30.155,28.687,,False,False,5903.491,14,Italian Grand Prix
+NOR,12.0,87.438,1.0,MEDIUM,12.0,1,True,McLaren,True,8.0,28.308,30.281,28.849,,False,False,5990.929,14,Italian Grand Prix
+NOR,13.0,87.359,1.0,MEDIUM,13.0,1,True,McLaren,True,8.0,28.176,30.425,28.758,,False,False,6078.288,14,Italian Grand Prix
+NOR,14.0,87.478,1.0,MEDIUM,14.0,1,True,McLaren,True,8.0,28.138,30.447,28.893,,False,False,6165.766,14,Italian Grand Prix
+NOR,15.0,87.796,1.0,MEDIUM,15.0,1,True,McLaren,True,7.0,28.418,30.509,28.869,,False,False,6253.562,14,Italian Grand Prix
+NOR,16.0,87.199,1.0,MEDIUM,16.0,1,True,McLaren,True,7.0,28.356,30.068,28.775,,False,False,6340.761,14,Italian Grand Prix
+NOR,17.0,87.597,1.0,MEDIUM,17.0,1,True,McLaren,True,7.0,28.582,30.325,28.69,,False,False,6428.358,14,Italian Grand Prix
+NOR,18.0,87.272,1.0,MEDIUM,18.0,1,True,McLaren,True,7.0,28.43,30.043,28.799,,False,False,6515.63,14,Italian Grand Prix
+NOR,19.0,87.28,1.0,MEDIUM,19.0,1,True,McLaren,True,7.0,28.451,30.143,28.686,,False,False,6602.91,14,Italian Grand Prix
+NOR,20.0,87.716,1.0,MEDIUM,20.0,1,True,McLaren,True,5.0,28.365,30.534,28.817,,False,False,6690.626,14,Italian Grand Prix
+NOR,21.0,87.718,1.0,MEDIUM,21.0,1,True,McLaren,True,3.0,28.489,30.385,28.844,,False,False,6778.344,14,Italian Grand Prix
+NOR,22.0,91.647,1.0,MEDIUM,22.0,1,False,McLaren,True,4.0,28.426,30.073,33.148,,True,False,6869.991,14,Italian Grand Prix
+NOR,23.0,106.282,2.0,HARD,5.0,1,False,McLaren,False,11.0,47.855,29.928,28.499,,False,True,6976.273,14,Italian Grand Prix
+NOR,24.0,86.144,2.0,HARD,6.0,1,True,McLaren,False,9.0,28.37,29.458,28.316,,False,False,7062.417,14,Italian Grand Prix
+NOR,25.0,86.424,2.0,HARD,7.0,1,True,McLaren,False,8.0,28.304,29.752,28.368,,False,False,7148.841,14,Italian Grand Prix
+NOR,26.0,86.402,2.0,HARD,8.0,1,True,McLaren,False,8.0,28.289,29.728,28.385,,False,False,7235.243,14,Italian Grand Prix
+NOR,27.0,86.485,2.0,HARD,9.0,1,True,McLaren,False,8.0,28.346,29.745,28.394,,False,False,7321.728,14,Italian Grand Prix
+NOR,28.0,86.396,2.0,HARD,10.0,1,True,McLaren,False,7.0,28.273,29.743,28.38,,False,False,7408.124,14,Italian Grand Prix
+NOR,29.0,86.472,2.0,HARD,11.0,1,True,McLaren,False,7.0,28.197,29.731,28.544,,False,False,7494.596,14,Italian Grand Prix
+NOR,30.0,86.968,2.0,HARD,12.0,1,True,McLaren,False,7.0,28.657,29.952,28.359,,False,False,7581.564,14,Italian Grand Prix
+NOR,31.0,86.909,2.0,HARD,13.0,1,True,McLaren,False,7.0,28.548,30.01,28.351,,False,False,7668.473,14,Italian Grand Prix
+NOR,32.0,86.586,2.0,HARD,14.0,1,True,McLaren,False,7.0,28.175,29.858,28.553,,False,False,7755.059,14,Italian Grand Prix
+NOR,33.0,86.455,2.0,HARD,15.0,1,True,McLaren,False,7.0,28.159,29.844,28.452,,False,False,7841.514,14,Italian Grand Prix
+NOR,34.0,86.366,2.0,HARD,16.0,1,True,McLaren,False,7.0,28.262,29.737,28.367,,False,False,7927.88,14,Italian Grand Prix
+NOR,35.0,86.464,2.0,HARD,17.0,1,True,McLaren,False,7.0,28.2,29.851,28.413,,False,False,8014.344,14,Italian Grand Prix
+NOR,36.0,87.06,2.0,HARD,18.0,1,True,McLaren,False,7.0,28.365,30.238,28.457,,False,False,8101.404,14,Italian Grand Prix
+NOR,37.0,86.595,2.0,HARD,19.0,1,True,McLaren,False,7.0,28.348,29.924,28.323,,False,False,8187.999,14,Italian Grand Prix
+NOR,38.0,87.567,2.0,HARD,20.0,1,True,McLaren,False,7.0,28.683,30.384,28.5,,False,False,8275.566,14,Italian Grand Prix
+NOR,39.0,86.792,2.0,HARD,21.0,1,True,McLaren,False,7.0,28.202,30.031,28.559,,False,False,8362.358,14,Italian Grand Prix
+NOR,40.0,86.761,2.0,HARD,22.0,1,True,McLaren,False,7.0,28.184,30.016,28.561,,False,False,8449.119,14,Italian Grand Prix
+NOR,41.0,86.562,2.0,HARD,23.0,1,True,McLaren,False,7.0,28.269,29.96,28.333,,False,False,8535.681,14,Italian Grand Prix
+NOR,42.0,86.623,2.0,HARD,24.0,1,True,McLaren,False,7.0,28.311,29.995,28.317,,False,False,8622.304,14,Italian Grand Prix
+NOR,43.0,86.81,2.0,HARD,25.0,1,True,McLaren,False,7.0,28.312,30.079,28.419,,False,False,8709.114,14,Italian Grand Prix
+NOR,44.0,87.991,2.0,HARD,26.0,1,True,McLaren,False,7.0,28.037,31.196,28.758,,False,False,8797.105,14,Italian Grand Prix
+NOR,45.0,87.466,2.0,HARD,27.0,1,True,McLaren,False,8.0,28.726,30.34,28.4,,False,False,8884.571,14,Italian Grand Prix
+NOR,46.0,87.017,2.0,HARD,28.0,1,True,McLaren,False,8.0,28.325,30.218,28.474,,False,False,8971.588,14,Italian Grand Prix
+NOR,47.0,87.886,2.0,HARD,29.0,1,True,McLaren,False,8.0,28.079,31.244,28.563,,False,False,9059.474,14,Italian Grand Prix
+NOR,48.0,86.733,2.0,HARD,30.0,1,True,McLaren,False,8.0,28.415,30.09,28.228,,False,False,9146.207,14,Italian Grand Prix
+NOR,49.0,87.661,2.0,HARD,31.0,1,True,McLaren,False,8.0,28.211,30.897,28.553,,False,False,9233.868,14,Italian Grand Prix
+NOR,50.0,87.174,2.0,HARD,32.0,1,True,McLaren,False,8.0,28.328,30.461,28.385,,False,False,9321.042,14,Italian Grand Prix
+NOR,51.0,87.425,2.0,HARD,33.0,1,True,McLaren,False,8.0,28.597,30.414,28.414,,False,False,9408.467,14,Italian Grand Prix
+LAW,1.0,93.893,1.0,MEDIUM,4.0,1,False,AlphaTauri,False,12.0,,32.335,29.41,,False,False,5035.768,14,Italian Grand Prix
+LAW,2.0,88.018,1.0,MEDIUM,5.0,1,True,AlphaTauri,False,12.0,28.272,30.618,29.128,,False,False,5123.786,14,Italian Grand Prix
+LAW,3.0,87.657,1.0,MEDIUM,6.0,1,True,AlphaTauri,False,12.0,28.456,30.165,29.036,,False,False,5211.443,14,Italian Grand Prix
+LAW,4.0,87.13,1.0,MEDIUM,7.0,1,True,AlphaTauri,False,12.0,28.037,30.226,28.867,,False,False,5298.573,14,Italian Grand Prix
+LAW,5.0,87.205,1.0,MEDIUM,8.0,1,True,AlphaTauri,False,12.0,28.039,30.113,29.053,,False,False,5385.778,14,Italian Grand Prix
+LAW,6.0,87.263,1.0,MEDIUM,9.0,1,True,AlphaTauri,False,12.0,28.028,30.065,29.17,,False,False,5473.041,14,Italian Grand Prix
+LAW,7.0,87.154,1.0,MEDIUM,10.0,1,True,AlphaTauri,False,12.0,28.085,30.053,29.016,,False,False,5560.195,14,Italian Grand Prix
+LAW,8.0,87.331,1.0,MEDIUM,11.0,1,True,AlphaTauri,False,12.0,28.178,29.982,29.171,,False,False,5647.526,14,Italian Grand Prix
+LAW,9.0,87.506,1.0,MEDIUM,12.0,1,True,AlphaTauri,False,12.0,28.063,30.134,29.309,,False,False,5735.032,14,Italian Grand Prix
+LAW,10.0,87.648,1.0,MEDIUM,13.0,1,True,AlphaTauri,False,12.0,28.176,30.205,29.267,,False,False,5822.68,14,Italian Grand Prix
+LAW,11.0,87.892,1.0,MEDIUM,14.0,1,True,AlphaTauri,False,12.0,28.114,30.496,29.282,,False,False,5910.572,14,Italian Grand Prix
+LAW,12.0,87.631,1.0,MEDIUM,15.0,1,True,AlphaTauri,False,11.0,28.18,30.397,29.054,,False,False,5998.203,14,Italian Grand Prix
+LAW,13.0,92.053,1.0,MEDIUM,16.0,1,False,AlphaTauri,False,15.0,28.295,30.367,33.391,,True,False,6090.256,14,Italian Grand Prix
+LAW,14.0,107.344,2.0,HARD,4.0,1,False,AlphaTauri,False,16.0,48.307,30.152,28.885,,False,True,6197.6,14,Italian Grand Prix
+LAW,15.0,87.03,2.0,HARD,5.0,1,True,AlphaTauri,False,14.0,28.278,29.812,28.94,,False,False,6284.63,14,Italian Grand Prix
+LAW,16.0,87.412,2.0,HARD,6.0,1,True,AlphaTauri,False,14.0,28.441,30.034,28.937,,False,False,6372.042,14,Italian Grand Prix
+LAW,17.0,87.045,2.0,HARD,7.0,1,True,AlphaTauri,False,14.0,28.399,29.851,28.795,,False,False,6459.087,14,Italian Grand Prix
+LAW,18.0,86.815,2.0,HARD,8.0,1,True,AlphaTauri,False,14.0,28.197,29.801,28.817,,False,False,6545.902,14,Italian Grand Prix
+LAW,19.0,87.047,2.0,HARD,9.0,1,True,AlphaTauri,False,14.0,28.377,29.912,28.758,,False,False,6632.949,14,Italian Grand Prix
+LAW,20.0,86.89,2.0,HARD,10.0,1,True,AlphaTauri,False,14.0,28.28,29.809,28.801,,False,False,6719.839,14,Italian Grand Prix
+LAW,21.0,87.171,2.0,HARD,11.0,1,True,AlphaTauri,False,13.0,28.353,29.969,28.849,,False,False,6807.01,14,Italian Grand Prix
+LAW,22.0,88.059,2.0,HARD,12.0,1,True,AlphaTauri,False,13.0,28.367,30.596,29.096,,False,False,6895.069,14,Italian Grand Prix
+LAW,23.0,87.215,2.0,HARD,13.0,1,True,AlphaTauri,False,13.0,28.321,30.091,28.803,,False,False,6982.284,14,Italian Grand Prix
+LAW,24.0,87.049,2.0,HARD,14.0,1,True,AlphaTauri,False,13.0,28.28,30.021,28.748,,False,False,7069.333,14,Italian Grand Prix
+LAW,25.0,87.204,2.0,HARD,15.0,1,True,AlphaTauri,False,12.0,28.168,30.125,28.911,,False,False,7156.537,14,Italian Grand Prix
+LAW,26.0,87.089,2.0,HARD,16.0,1,True,AlphaTauri,False,11.0,28.242,30.054,28.793,,False,False,7243.626,14,Italian Grand Prix
+LAW,27.0,87.025,2.0,HARD,17.0,1,True,AlphaTauri,False,11.0,28.165,30.03,28.83,,False,False,7330.651,14,Italian Grand Prix
+LAW,28.0,87.376,2.0,HARD,18.0,1,True,AlphaTauri,False,11.0,28.176,30.315,28.885,,False,False,7418.027,14,Italian Grand Prix
+LAW,29.0,87.108,2.0,HARD,19.0,1,True,AlphaTauri,False,11.0,28.09,30.24,28.778,,False,False,7505.135,14,Italian Grand Prix
+LAW,30.0,87.487,2.0,HARD,20.0,1,True,AlphaTauri,False,11.0,28.267,30.304,28.916,,False,False,7592.622,14,Italian Grand Prix
+LAW,31.0,87.515,2.0,HARD,21.0,1,True,AlphaTauri,False,11.0,28.187,30.406,28.922,,False,False,7680.137,14,Italian Grand Prix
+LAW,32.0,87.496,2.0,HARD,22.0,1,True,AlphaTauri,False,11.0,28.219,30.364,28.913,,False,False,7767.633,14,Italian Grand Prix
+LAW,33.0,91.843,2.0,HARD,23.0,1,False,AlphaTauri,False,12.0,28.343,30.228,33.272,,True,False,7859.476,14,Italian Grand Prix
+LAW,34.0,106.71,3.0,MEDIUM,4.0,1,False,AlphaTauri,False,16.0,48.275,29.741,28.694,,False,True,7966.186,14,Italian Grand Prix
+LAW,35.0,86.26,3.0,MEDIUM,5.0,1,True,AlphaTauri,False,16.0,28.105,29.568,28.587,,False,False,8052.446,14,Italian Grand Prix
+LAW,36.0,86.384,3.0,MEDIUM,6.0,1,True,AlphaTauri,False,16.0,28.046,29.721,28.617,,False,False,8138.83,14,Italian Grand Prix
+LAW,37.0,86.253,3.0,MEDIUM,7.0,1,True,AlphaTauri,False,16.0,28.028,29.648,28.577,,False,False,8225.083,14,Italian Grand Prix
+LAW,38.0,86.103,3.0,MEDIUM,8.0,1,True,AlphaTauri,False,16.0,28.0,29.541,28.562,,False,False,8311.186,14,Italian Grand Prix
+LAW,39.0,86.245,3.0,MEDIUM,9.0,1,True,AlphaTauri,False,15.0,27.782,29.912,28.551,,False,False,8397.431,14,Italian Grand Prix
+LAW,40.0,86.273,3.0,MEDIUM,10.0,1,True,AlphaTauri,False,14.0,28.062,29.588,28.623,,False,False,8483.704,14,Italian Grand Prix
+LAW,41.0,86.417,3.0,MEDIUM,11.0,1,True,AlphaTauri,False,14.0,28.202,29.637,28.578,,False,False,8570.121,14,Italian Grand Prix
+LAW,42.0,86.121,3.0,MEDIUM,12.0,1,True,AlphaTauri,False,13.0,28.088,29.519,28.514,,False,False,8656.242,14,Italian Grand Prix
+LAW,43.0,86.143,3.0,MEDIUM,13.0,1,True,AlphaTauri,False,13.0,28.053,29.632,28.458,,False,False,8742.385,14,Italian Grand Prix
+LAW,44.0,85.842,3.0,MEDIUM,14.0,1,True,AlphaTauri,False,12.0,27.952,29.416,28.474,,False,False,8828.227,14,Italian Grand Prix
+LAW,45.0,86.134,3.0,MEDIUM,15.0,1,True,AlphaTauri,False,12.0,28.056,29.694,28.384,,False,False,8914.361,14,Italian Grand Prix
+LAW,46.0,86.018,3.0,MEDIUM,16.0,1,True,AlphaTauri,False,12.0,27.968,29.598,28.452,,False,False,9000.379,14,Italian Grand Prix
+LAW,47.0,86.656,3.0,MEDIUM,17.0,1,True,AlphaTauri,False,12.0,28.444,29.78,28.432,,False,False,9087.035,14,Italian Grand Prix
+LAW,48.0,86.098,3.0,MEDIUM,18.0,1,True,AlphaTauri,False,12.0,28.004,29.678,28.416,,False,False,9173.133,14,Italian Grand Prix
+LAW,49.0,87.235,3.0,MEDIUM,19.0,1,True,AlphaTauri,False,13.0,28.069,30.529,28.637,,False,False,9260.368,14,Italian Grand Prix
+LAW,50.0,86.436,3.0,MEDIUM,20.0,1,True,AlphaTauri,False,12.0,27.879,29.876,28.681,,False,False,9346.804,14,Italian Grand Prix
+LAW,51.0,,3.0,MEDIUM,21.0,1,False,AlphaTauri,False,,,,,,False,False,9496.804,14,Italian Grand Prix
+HAM,1.0,92.011,1.0,HARD,4.0,1,False,Mercedes,False,9.0,,31.059,29.053,,False,False,5033.886,14,Italian Grand Prix
+HAM,2.0,87.837,1.0,HARD,5.0,1,True,Mercedes,False,9.0,28.509,30.313,29.015,,False,False,5121.723,14,Italian Grand Prix
+HAM,3.0,87.289,1.0,HARD,6.0,1,True,Mercedes,False,9.0,28.474,30.067,28.748,,False,False,5209.012,14,Italian Grand Prix
+HAM,4.0,87.233,1.0,HARD,7.0,1,True,Mercedes,False,9.0,28.233,30.219,28.781,,False,False,5296.245,14,Italian Grand Prix
+HAM,5.0,87.015,1.0,HARD,8.0,1,True,Mercedes,False,9.0,28.213,29.93,28.872,,False,False,5383.26,14,Italian Grand Prix
+HAM,6.0,86.711,1.0,HARD,9.0,1,True,Mercedes,False,9.0,28.083,29.977,28.651,,False,False,5469.971,14,Italian Grand Prix
+HAM,7.0,86.7,1.0,HARD,10.0,1,True,Mercedes,False,9.0,28.219,29.869,28.612,,False,False,5556.671,14,Italian Grand Prix
+HAM,8.0,86.643,1.0,HARD,11.0,1,True,Mercedes,False,9.0,28.054,29.813,28.776,,False,False,5643.314,14,Italian Grand Prix
+HAM,9.0,86.756,1.0,HARD,12.0,1,True,Mercedes,False,9.0,28.167,29.727,28.862,,False,False,5730.07,14,Italian Grand Prix
+HAM,10.0,86.995,1.0,HARD,13.0,1,True,Mercedes,False,9.0,28.143,29.905,28.947,,False,False,5817.065,14,Italian Grand Prix
+HAM,11.0,87.119,1.0,HARD,14.0,1,True,Mercedes,False,9.0,28.214,30.146,28.759,,False,False,5904.184,14,Italian Grand Prix
+HAM,12.0,87.194,1.0,HARD,15.0,1,True,Mercedes,False,9.0,28.227,30.281,28.686,,False,False,5991.378,14,Italian Grand Prix
+HAM,13.0,87.292,1.0,HARD,16.0,1,True,Mercedes,False,9.0,28.176,30.296,28.82,,False,False,6078.67,14,Italian Grand Prix
+HAM,14.0,87.526,1.0,HARD,17.0,1,True,Mercedes,False,9.0,28.36,30.268,28.898,,False,False,6166.196,14,Italian Grand Prix
+HAM,15.0,88.085,1.0,HARD,18.0,1,True,Mercedes,False,8.0,28.254,30.62,29.211,,False,False,6254.281,14,Italian Grand Prix
+HAM,16.0,87.24,1.0,HARD,19.0,1,True,Mercedes,False,8.0,28.283,29.987,28.97,,False,False,6341.521,14,Italian Grand Prix
+HAM,17.0,87.585,1.0,HARD,20.0,1,True,Mercedes,False,8.0,28.335,30.308,28.942,,False,False,6429.106,14,Italian Grand Prix
+HAM,18.0,87.279,1.0,HARD,21.0,1,True,Mercedes,False,8.0,28.332,30.182,28.765,,False,False,6516.385,14,Italian Grand Prix
+HAM,19.0,87.449,1.0,HARD,22.0,1,True,Mercedes,False,8.0,28.21,30.319,28.92,,False,False,6603.834,14,Italian Grand Prix
+HAM,20.0,87.83,1.0,HARD,23.0,1,True,Mercedes,False,6.0,28.466,30.411,28.953,,False,False,6691.664,14,Italian Grand Prix
+HAM,21.0,87.399,1.0,HARD,24.0,1,True,Mercedes,False,4.0,28.291,30.39,28.718,,False,False,6779.063,14,Italian Grand Prix
+HAM,22.0,87.154,1.0,HARD,25.0,1,True,Mercedes,False,2.0,28.241,30.338,28.575,,False,False,6866.217,14,Italian Grand Prix
+HAM,23.0,87.267,1.0,HARD,26.0,1,True,Mercedes,False,1.0,28.414,30.195,28.658,,False,False,6953.484,14,Italian Grand Prix
+HAM,24.0,87.311,1.0,HARD,27.0,1,True,Mercedes,False,1.0,28.338,30.116,28.857,,False,False,7040.795,14,Italian Grand Prix
+HAM,25.0,87.791,1.0,HARD,28.0,1,True,Mercedes,False,2.0,28.762,30.462,28.567,,False,False,7128.586,14,Italian Grand Prix
+HAM,26.0,87.407,1.0,HARD,29.0,1,True,Mercedes,False,2.0,28.411,30.213,28.783,,False,False,7215.993,14,Italian Grand Prix
+HAM,27.0,93.228,1.0,HARD,30.0,1,False,Mercedes,False,5.0,28.503,30.278,34.447,,True,False,7309.221,14,Italian Grand Prix
+HAM,28.0,105.978,2.0,MEDIUM,1.0,1,False,Mercedes,True,10.0,47.886,29.634,28.458,,False,True,7415.199,14,Italian Grand Prix
+HAM,29.0,85.582,2.0,MEDIUM,2.0,1,True,Mercedes,True,9.0,27.731,29.45,28.401,,False,False,7500.781,14,Italian Grand Prix
+HAM,30.0,86.34,2.0,MEDIUM,3.0,1,True,Mercedes,True,9.0,28.242,29.728,28.37,,False,False,7587.121,14,Italian Grand Prix
+HAM,31.0,86.404,2.0,MEDIUM,4.0,1,True,Mercedes,True,9.0,28.28,29.678,28.446,,False,False,7673.525,14,Italian Grand Prix
+HAM,32.0,86.62,2.0,MEDIUM,5.0,1,True,Mercedes,True,9.0,28.268,29.827,28.525,,False,False,7760.145,14,Italian Grand Prix
+HAM,33.0,86.584,2.0,MEDIUM,6.0,1,True,Mercedes,True,9.0,28.317,29.769,28.498,,False,False,7846.729,14,Italian Grand Prix
+HAM,34.0,86.236,2.0,MEDIUM,7.0,1,True,Mercedes,True,9.0,28.231,29.565,28.44,,False,False,7932.965,14,Italian Grand Prix
+HAM,35.0,86.016,2.0,MEDIUM,8.0,1,True,Mercedes,True,9.0,28.2,29.528,28.288,,False,False,8018.981,14,Italian Grand Prix
+HAM,36.0,86.205,2.0,MEDIUM,9.0,1,True,Mercedes,True,9.0,28.237,29.691,28.277,,False,False,8105.186,14,Italian Grand Prix
+HAM,37.0,85.999,2.0,MEDIUM,10.0,1,True,Mercedes,True,9.0,28.165,29.626,28.208,,False,False,8191.185,14,Italian Grand Prix
+HAM,38.0,86.274,2.0,MEDIUM,11.0,1,True,Mercedes,True,9.0,28.191,29.81,28.273,,False,False,8277.459,14,Italian Grand Prix
+HAM,39.0,86.249,2.0,MEDIUM,12.0,1,True,Mercedes,True,9.0,28.2,29.837,28.212,,False,False,8363.708,14,Italian Grand Prix
+HAM,40.0,86.658,2.0,MEDIUM,13.0,1,True,Mercedes,True,9.0,27.835,30.525,28.298,,False,False,8450.366,14,Italian Grand Prix
+HAM,41.0,87.501,2.0,MEDIUM,14.0,1,True,Mercedes,True,8.0,28.084,31.028,28.389,,False,False,8537.867,14,Italian Grand Prix
+HAM,42.0,86.216,2.0,MEDIUM,15.0,1,True,Mercedes,True,8.0,28.303,29.7,28.213,,False,False,8624.083,14,Italian Grand Prix
+HAM,43.0,86.093,2.0,MEDIUM,16.0,1,True,Mercedes,True,8.0,28.191,29.702,28.2,,False,False,8710.176,14,Italian Grand Prix
+HAM,44.0,87.152,2.0,MEDIUM,17.0,1,True,Mercedes,True,8.0,28.286,29.995,28.871,,False,False,8797.328,14,Italian Grand Prix
+HAM,45.0,86.333,2.0,MEDIUM,18.0,1,True,Mercedes,True,7.0,28.007,29.815,28.511,,False,False,8883.661,14,Italian Grand Prix
+HAM,46.0,87.193,2.0,MEDIUM,19.0,1,True,Mercedes,True,7.0,28.313,30.328,28.552,,False,False,8970.854,14,Italian Grand Prix
+HAM,47.0,86.12,2.0,MEDIUM,20.0,1,True,Mercedes,True,6.0,28.422,29.673,28.025,,False,False,9056.974,14,Italian Grand Prix
+HAM,48.0,85.815,2.0,MEDIUM,21.0,1,True,Mercedes,True,6.0,28.115,29.489,28.211,,False,False,9142.789,14,Italian Grand Prix
+HAM,49.0,85.888,2.0,MEDIUM,22.0,1,True,Mercedes,True,6.0,28.298,29.417,28.173,,False,False,9228.677,14,Italian Grand Prix
+HAM,50.0,85.927,2.0,MEDIUM,23.0,1,True,Mercedes,True,6.0,28.164,29.526,28.237,,False,False,9314.604,14,Italian Grand Prix
+HAM,51.0,86.093,2.0,MEDIUM,24.0,1,True,Mercedes,True,6.0,28.147,29.595,28.351,,False,False,9400.697,14,Italian Grand Prix
+SAI,1.0,87.117,1.0,MEDIUM,1.0,1,False,Ferrari,True,1.0,,29.288,28.47,,False,False,5028.992,14,Italian Grand Prix
+SAI,2.0,86.006,1.0,MEDIUM,2.0,1,True,Ferrari,True,1.0,28.266,29.312,28.428,,False,False,5114.998,14,Italian Grand Prix
+SAI,3.0,85.976,1.0,MEDIUM,3.0,1,True,Ferrari,True,1.0,28.262,29.365,28.349,,False,False,5200.974,14,Italian Grand Prix
+SAI,4.0,86.067,1.0,MEDIUM,4.0,1,True,Ferrari,True,1.0,28.388,29.335,28.344,,False,False,5287.041,14,Italian Grand Prix
+SAI,5.0,86.423,1.0,MEDIUM,5.0,1,True,Ferrari,True,1.0,28.308,29.622,28.493,,False,False,5373.464,14,Italian Grand Prix
+SAI,6.0,86.615,1.0,MEDIUM,6.0,1,True,Ferrari,True,1.0,28.554,29.662,28.399,,False,False,5460.079,14,Italian Grand Prix
+SAI,7.0,86.358,1.0,MEDIUM,7.0,1,True,Ferrari,True,1.0,28.328,29.672,28.358,,False,False,5546.437,14,Italian Grand Prix
+SAI,8.0,86.224,1.0,MEDIUM,8.0,1,True,Ferrari,True,1.0,28.208,29.541,28.475,,False,False,5632.661,14,Italian Grand Prix
+SAI,9.0,86.476,1.0,MEDIUM,9.0,1,True,Ferrari,True,1.0,28.244,29.82,28.412,,False,False,5719.137,14,Italian Grand Prix
+SAI,10.0,86.511,1.0,MEDIUM,10.0,1,True,Ferrari,True,1.0,28.397,29.672,28.442,,False,False,5805.648,14,Italian Grand Prix
+SAI,11.0,86.691,1.0,MEDIUM,11.0,1,True,Ferrari,True,1.0,28.401,29.892,28.398,,False,False,5892.339,14,Italian Grand Prix
+SAI,12.0,86.408,1.0,MEDIUM,12.0,1,True,Ferrari,True,1.0,28.24,29.744,28.424,,False,False,5978.747,14,Italian Grand Prix
+SAI,13.0,86.887,1.0,MEDIUM,13.0,1,True,Ferrari,True,1.0,28.437,29.961,28.489,,False,False,6065.634,14,Italian Grand Prix
+SAI,14.0,86.972,1.0,MEDIUM,14.0,1,True,Ferrari,True,1.0,28.356,30.156,28.46,,False,False,6152.606,14,Italian Grand Prix
+SAI,15.0,88.219,1.0,MEDIUM,15.0,1,True,Ferrari,True,2.0,28.562,31.139,28.518,,False,False,6240.825,14,Italian Grand Prix
+SAI,16.0,87.323,1.0,MEDIUM,16.0,1,True,Ferrari,True,2.0,28.387,30.36,28.576,,False,False,6328.148,14,Italian Grand Prix
+SAI,17.0,87.721,1.0,MEDIUM,17.0,1,True,Ferrari,True,2.0,28.46,30.585,28.676,,False,False,6415.869,14,Italian Grand Prix
+SAI,18.0,87.512,1.0,MEDIUM,18.0,1,True,Ferrari,True,2.0,28.306,30.501,28.705,,False,False,6503.381,14,Italian Grand Prix
+SAI,19.0,91.912,1.0,MEDIUM,19.0,1,False,Ferrari,True,4.0,28.301,30.548,33.063,,True,False,6595.293,14,Italian Grand Prix
+SAI,20.0,106.762,2.0,HARD,1.0,1,False,Ferrari,True,8.0,49.012,29.37,28.38,,False,True,6702.055,14,Italian Grand Prix
+SAI,21.0,86.146,2.0,HARD,2.0,1,True,Ferrari,True,7.0,28.249,29.705,28.192,,False,False,6788.201,14,Italian Grand Prix
+SAI,22.0,85.558,2.0,HARD,3.0,1,True,Ferrari,True,5.0,28.19,29.222,28.146,,False,False,6873.759,14,Italian Grand Prix
+SAI,23.0,85.793,2.0,HARD,4.0,1,True,Ferrari,True,4.0,28.14,29.449,28.204,,False,False,6959.552,14,Italian Grand Prix
+SAI,24.0,85.902,2.0,HARD,5.0,1,True,Ferrari,True,3.0,28.144,29.514,28.244,,False,False,7045.454,14,Italian Grand Prix
+SAI,25.0,86.005,2.0,HARD,6.0,1,True,Ferrari,True,3.0,28.139,29.643,28.223,,False,False,7131.459,14,Italian Grand Prix
+SAI,26.0,85.836,2.0,HARD,7.0,1,True,Ferrari,True,3.0,28.117,29.485,28.234,,False,False,7217.295,14,Italian Grand Prix
+SAI,27.0,86.165,2.0,HARD,8.0,1,True,Ferrari,True,2.0,28.108,29.483,28.574,,False,False,7303.46,14,Italian Grand Prix
+SAI,28.0,85.77,2.0,HARD,9.0,1,True,Ferrari,True,2.0,28.081,29.476,28.213,,False,False,7389.23,14,Italian Grand Prix
+SAI,29.0,85.72,2.0,HARD,10.0,1,True,Ferrari,True,2.0,28.136,29.455,28.129,,False,False,7474.95,14,Italian Grand Prix
+SAI,30.0,85.501,2.0,HARD,11.0,1,True,Ferrari,True,2.0,28.096,29.328,28.077,,False,False,7560.451,14,Italian Grand Prix
+SAI,31.0,85.718,2.0,HARD,12.0,1,True,Ferrari,True,2.0,28.057,29.589,28.072,,False,False,7646.169,14,Italian Grand Prix
+SAI,32.0,85.896,2.0,HARD,13.0,1,True,Ferrari,True,2.0,28.076,29.523,28.297,,False,False,7732.065,14,Italian Grand Prix
+SAI,33.0,85.926,2.0,HARD,14.0,1,True,Ferrari,True,2.0,28.054,29.676,28.196,,False,False,7817.991,14,Italian Grand Prix
+SAI,34.0,86.126,2.0,HARD,15.0,1,True,Ferrari,True,2.0,28.149,29.656,28.321,,False,False,7904.117,14,Italian Grand Prix
+SAI,35.0,85.789,2.0,HARD,16.0,1,True,Ferrari,True,2.0,28.037,29.62,28.132,,False,False,7989.906,14,Italian Grand Prix
+SAI,36.0,86.011,2.0,HARD,17.0,1,True,Ferrari,True,2.0,28.106,29.731,28.174,,False,False,8075.917,14,Italian Grand Prix
+SAI,37.0,85.886,2.0,HARD,18.0,1,True,Ferrari,True,2.0,27.998,29.719,28.169,,False,False,8161.803,14,Italian Grand Prix
+SAI,38.0,85.705,2.0,HARD,19.0,1,True,Ferrari,True,2.0,27.936,29.713,28.056,,False,False,8247.508,14,Italian Grand Prix
+SAI,39.0,85.924,2.0,HARD,20.0,1,True,Ferrari,True,2.0,28.052,29.689,28.183,,False,False,8333.432,14,Italian Grand Prix
+SAI,40.0,86.122,2.0,HARD,21.0,1,True,Ferrari,True,2.0,28.028,29.753,28.341,,False,False,8419.554,14,Italian Grand Prix
+SAI,41.0,86.738,2.0,HARD,22.0,1,True,Ferrari,True,2.0,28.166,30.232,28.34,,False,False,8506.292,14,Italian Grand Prix
+SAI,42.0,86.479,2.0,HARD,23.0,1,True,Ferrari,True,2.0,28.098,30.098,28.283,,False,False,8592.771,14,Italian Grand Prix
+SAI,43.0,86.589,2.0,HARD,24.0,1,True,Ferrari,True,2.0,28.243,30.069,28.277,,False,False,8679.36,14,Italian Grand Prix
+SAI,44.0,86.43,2.0,HARD,25.0,1,True,Ferrari,True,2.0,28.333,29.839,28.258,,False,False,8765.79,14,Italian Grand Prix
+SAI,45.0,86.632,2.0,HARD,26.0,1,True,Ferrari,True,2.0,28.283,30.144,28.205,,False,False,8852.422,14,Italian Grand Prix
+SAI,46.0,87.303,2.0,HARD,27.0,1,True,Ferrari,True,3.0,28.538,30.435,28.33,,False,False,8939.725,14,Italian Grand Prix
+SAI,47.0,87.096,2.0,HARD,28.0,1,True,Ferrari,True,3.0,28.583,30.233,28.28,,False,False,9026.821,14,Italian Grand Prix
+SAI,48.0,86.8,2.0,HARD,29.0,1,True,Ferrari,True,3.0,28.366,30.083,28.351,,False,False,9113.621,14,Italian Grand Prix
+SAI,49.0,86.77,2.0,HARD,30.0,1,True,Ferrari,True,3.0,28.303,30.127,28.34,,False,False,9200.391,14,Italian Grand Prix
+SAI,50.0,86.776,2.0,HARD,31.0,1,True,Ferrari,True,3.0,28.355,30.212,28.209,,False,False,9287.167,14,Italian Grand Prix
+SAI,51.0,87.044,2.0,HARD,32.0,1,True,Ferrari,True,3.0,28.18,30.383,28.481,,False,False,9374.211,14,Italian Grand Prix
+RUS,1.0,89.339,1.0,MEDIUM,1.0,1,False,Mercedes,True,4.0,,30.358,28.7,,False,False,5031.214,14,Italian Grand Prix
+RUS,2.0,86.686,1.0,MEDIUM,2.0,1,True,Mercedes,True,4.0,28.274,29.786,28.626,,False,False,5117.9,14,Italian Grand Prix
+RUS,3.0,86.176,1.0,MEDIUM,3.0,1,True,Mercedes,True,4.0,28.187,29.427,28.562,,False,False,5204.076,14,Italian Grand Prix
+RUS,4.0,86.178,1.0,MEDIUM,4.0,1,True,Mercedes,True,4.0,28.205,29.617,28.356,,False,False,5290.254,14,Italian Grand Prix
+RUS,5.0,86.249,1.0,MEDIUM,5.0,1,True,Mercedes,True,4.0,28.172,29.656,28.421,,False,False,5376.503,14,Italian Grand Prix
+RUS,6.0,86.515,1.0,MEDIUM,6.0,1,True,Mercedes,True,4.0,28.302,29.707,28.506,,False,False,5463.018,14,Italian Grand Prix
+RUS,7.0,86.515,1.0,MEDIUM,7.0,1,True,Mercedes,True,4.0,28.234,29.826,28.455,,False,False,5549.533,14,Italian Grand Prix
+RUS,8.0,86.594,1.0,MEDIUM,8.0,1,True,Mercedes,True,4.0,28.119,29.915,28.56,,False,False,5636.127,14,Italian Grand Prix
+RUS,9.0,86.71,1.0,MEDIUM,9.0,1,True,Mercedes,True,4.0,28.433,29.741,28.536,,False,False,5722.837,14,Italian Grand Prix
+RUS,10.0,86.655,1.0,MEDIUM,10.0,1,True,Mercedes,True,4.0,28.267,29.753,28.635,,False,False,5809.492,14,Italian Grand Prix
+RUS,11.0,87.186,1.0,MEDIUM,11.0,1,True,Mercedes,True,4.0,28.33,30.182,28.674,,False,False,5896.678,14,Italian Grand Prix
+RUS,12.0,87.044,1.0,MEDIUM,12.0,1,True,Mercedes,True,4.0,28.31,30.143,28.591,,False,False,5983.722,14,Italian Grand Prix
+RUS,13.0,86.962,1.0,MEDIUM,13.0,1,True,Mercedes,True,4.0,28.313,30.16,28.489,,False,False,6070.684,14,Italian Grand Prix
+RUS,14.0,87.285,1.0,MEDIUM,14.0,1,True,Mercedes,True,4.0,28.618,30.244,28.423,,False,False,6157.969,14,Italian Grand Prix
+RUS,15.0,87.005,1.0,MEDIUM,15.0,1,True,Mercedes,True,4.0,28.352,30.155,28.498,,False,False,6244.974,14,Italian Grand Prix
+RUS,16.0,87.976,1.0,MEDIUM,16.0,1,True,Mercedes,True,5.0,28.483,30.822,28.671,,False,False,6332.95,14,Italian Grand Prix
+RUS,17.0,87.055,1.0,MEDIUM,17.0,1,True,Mercedes,True,5.0,28.502,30.069,28.484,,False,False,6420.005,14,Italian Grand Prix
+RUS,18.0,87.383,1.0,MEDIUM,18.0,1,True,Mercedes,True,5.0,28.386,30.34,28.657,,False,False,6507.388,14,Italian Grand Prix
+RUS,19.0,91.885,1.0,MEDIUM,19.0,1,False,Mercedes,True,5.0,28.583,30.368,32.934,,True,False,6599.273,14,Italian Grand Prix
+RUS,20.0,105.31,2.0,HARD,4.0,1,False,Mercedes,False,10.0,47.578,29.332,28.4,,False,True,6704.583,14,Italian Grand Prix
+RUS,21.0,86.456,2.0,HARD,5.0,1,True,Mercedes,False,9.0,28.308,29.601,28.547,,False,False,6791.039,14,Italian Grand Prix
+RUS,22.0,86.715,2.0,HARD,6.0,1,True,Mercedes,False,8.0,28.253,29.891,28.571,,False,False,6877.754,14,Italian Grand Prix
+RUS,23.0,86.605,2.0,HARD,7.0,1,True,Mercedes,False,7.0,28.145,29.888,28.572,,False,False,6964.359,14,Italian Grand Prix
+RUS,24.0,86.671,2.0,HARD,8.0,1,True,Mercedes,False,6.0,28.215,29.873,28.583,,False,False,7051.03,14,Italian Grand Prix
+RUS,25.0,86.32,2.0,HARD,9.0,1,True,Mercedes,False,6.0,28.213,29.64,28.467,,False,False,7137.35,14,Italian Grand Prix
+RUS,26.0,86.41,2.0,HARD,10.0,1,True,Mercedes,False,6.0,28.264,29.755,28.391,,False,False,7223.76,14,Italian Grand Prix
+RUS,27.0,86.184,2.0,HARD,11.0,1,True,Mercedes,False,6.0,28.172,29.571,28.441,,False,False,7309.944,14,Italian Grand Prix
+RUS,28.0,86.284,2.0,HARD,12.0,1,True,Mercedes,False,5.0,28.272,29.674,28.338,,False,False,7396.228,14,Italian Grand Prix
+RUS,29.0,86.14,2.0,HARD,13.0,1,True,Mercedes,False,5.0,28.321,29.54,28.279,,False,False,7482.368,14,Italian Grand Prix
+RUS,30.0,85.966,2.0,HARD,14.0,1,True,Mercedes,False,5.0,28.299,29.436,28.231,,False,False,7568.334,14,Italian Grand Prix
+RUS,31.0,86.148,2.0,HARD,15.0,1,True,Mercedes,False,5.0,28.212,29.697,28.239,,False,False,7654.482,14,Italian Grand Prix
+RUS,32.0,86.059,2.0,HARD,16.0,1,True,Mercedes,False,5.0,28.168,29.632,28.259,,False,False,7740.541,14,Italian Grand Prix
+RUS,33.0,86.161,2.0,HARD,17.0,1,True,Mercedes,False,5.0,28.213,29.716,28.232,,False,False,7826.702,14,Italian Grand Prix
+RUS,34.0,86.119,2.0,HARD,18.0,1,True,Mercedes,False,5.0,28.165,29.718,28.236,,False,False,7912.821,14,Italian Grand Prix
+RUS,35.0,86.189,2.0,HARD,19.0,1,True,Mercedes,False,5.0,28.084,29.754,28.351,,False,False,7999.01,14,Italian Grand Prix
+RUS,36.0,86.371,2.0,HARD,20.0,1,True,Mercedes,False,5.0,28.235,29.902,28.234,,False,False,8085.381,14,Italian Grand Prix
+RUS,37.0,85.997,2.0,HARD,21.0,1,True,Mercedes,False,5.0,28.056,29.721,28.22,,False,False,8171.378,14,Italian Grand Prix
+RUS,38.0,85.847,2.0,HARD,22.0,1,True,Mercedes,False,5.0,28.065,29.545,28.237,,False,False,8257.225,14,Italian Grand Prix
+RUS,39.0,86.21,2.0,HARD,23.0,1,True,Mercedes,False,5.0,28.155,29.808,28.247,,False,False,8343.435,14,Italian Grand Prix
+RUS,40.0,86.244,2.0,HARD,24.0,1,True,Mercedes,False,5.0,28.212,29.804,28.228,,False,False,8429.679,14,Italian Grand Prix
+RUS,41.0,86.614,2.0,HARD,25.0,1,True,Mercedes,False,5.0,28.244,29.955,28.415,,False,False,8516.293,14,Italian Grand Prix
+RUS,42.0,86.335,2.0,HARD,26.0,1,True,Mercedes,False,5.0,28.23,29.751,28.354,,False,False,8602.628,14,Italian Grand Prix
+RUS,43.0,86.426,2.0,HARD,27.0,1,True,Mercedes,False,5.0,28.248,29.841,28.337,,False,False,8689.054,14,Italian Grand Prix
+RUS,44.0,86.336,2.0,HARD,28.0,1,True,Mercedes,False,5.0,28.274,29.817,28.245,,False,False,8775.39,14,Italian Grand Prix
+RUS,45.0,86.394,2.0,HARD,29.0,1,True,Mercedes,False,5.0,28.146,29.972,28.276,,False,False,8861.784,14,Italian Grand Prix
+RUS,46.0,86.458,2.0,HARD,30.0,1,True,Mercedes,False,5.0,28.181,29.94,28.337,,False,False,8948.242,14,Italian Grand Prix
+RUS,47.0,86.64,2.0,HARD,31.0,1,True,Mercedes,False,5.0,28.178,30.067,28.395,,False,False,9034.882,14,Italian Grand Prix
+RUS,48.0,86.287,2.0,HARD,32.0,1,True,Mercedes,False,5.0,28.13,29.77,28.387,,False,False,9121.169,14,Italian Grand Prix
+RUS,49.0,86.375,2.0,HARD,33.0,1,True,Mercedes,False,5.0,28.077,29.921,28.377,,False,False,9207.544,14,Italian Grand Prix
+RUS,50.0,86.874,2.0,HARD,34.0,1,True,Mercedes,False,5.0,28.24,30.159,28.475,,False,False,9294.418,14,Italian Grand Prix
+RUS,51.0,86.628,2.0,HARD,35.0,1,True,Mercedes,False,5.0,28.119,29.918,28.591,,False,False,9381.046,14,Italian Grand Prix
+BOT,1.0,94.811,1.0,HARD,4.0,1,False,Alfa Romeo,False,14.0,,32.732,29.685,,False,False,5036.686,14,Italian Grand Prix
+BOT,2.0,88.032,1.0,HARD,5.0,1,True,Alfa Romeo,False,14.0,28.453,30.353,29.226,,False,False,5124.718,14,Italian Grand Prix
+BOT,3.0,87.95,1.0,HARD,6.0,1,True,Alfa Romeo,False,14.0,28.475,30.099,29.376,,False,False,5212.668,14,Italian Grand Prix
+BOT,4.0,87.119,1.0,HARD,7.0,1,True,Alfa Romeo,False,14.0,28.114,30.047,28.958,,False,False,5299.787,14,Italian Grand Prix
+BOT,5.0,87.575,1.0,HARD,8.0,1,True,Alfa Romeo,False,14.0,28.257,30.336,28.982,,False,False,5387.362,14,Italian Grand Prix
+BOT,6.0,87.15,1.0,HARD,9.0,1,True,Alfa Romeo,False,14.0,28.133,30.012,29.005,,False,False,5474.512,14,Italian Grand Prix
+BOT,7.0,87.36,1.0,HARD,10.0,1,True,Alfa Romeo,False,14.0,28.142,30.162,29.056,,False,False,5561.872,14,Italian Grand Prix
+BOT,8.0,87.227,1.0,HARD,11.0,1,True,Alfa Romeo,False,14.0,28.135,30.326,28.766,,False,False,5649.099,14,Italian Grand Prix
+BOT,9.0,87.265,1.0,HARD,12.0,1,True,Alfa Romeo,False,14.0,28.082,30.005,29.178,,False,False,5736.364,14,Italian Grand Prix
+BOT,10.0,87.863,1.0,HARD,13.0,1,True,Alfa Romeo,False,14.0,28.393,30.325,29.145,,False,False,5824.227,14,Italian Grand Prix
+BOT,11.0,87.693,1.0,HARD,14.0,1,True,Alfa Romeo,False,14.0,28.155,30.255,29.283,,False,False,5911.92,14,Italian Grand Prix
+BOT,12.0,88.716,1.0,HARD,15.0,1,True,Alfa Romeo,False,14.0,28.237,31.261,29.218,,False,False,6000.636,14,Italian Grand Prix
+BOT,13.0,88.007,1.0,HARD,16.0,1,True,Alfa Romeo,False,13.0,28.151,30.69,29.166,,False,False,6088.643,14,Italian Grand Prix
+BOT,14.0,87.991,1.0,HARD,17.0,1,True,Alfa Romeo,False,11.0,28.208,30.592,29.191,,False,False,6176.634,14,Italian Grand Prix
+BOT,15.0,87.427,1.0,HARD,18.0,1,True,Alfa Romeo,False,11.0,28.316,30.294,28.817,,False,False,6264.061,14,Italian Grand Prix
+BOT,16.0,87.824,1.0,HARD,19.0,1,True,Alfa Romeo,False,10.0,28.558,30.38,28.886,,False,False,6351.885,14,Italian Grand Prix
+BOT,17.0,87.47,1.0,HARD,20.0,1,True,Alfa Romeo,False,10.0,28.419,30.267,28.784,,False,False,6439.355,14,Italian Grand Prix
+BOT,18.0,87.634,1.0,HARD,21.0,1,True,Alfa Romeo,False,10.0,28.44,30.291,28.903,,False,False,6526.989,14,Italian Grand Prix
+BOT,19.0,87.725,1.0,HARD,22.0,1,True,Alfa Romeo,False,10.0,28.6,30.253,28.872,,False,False,6614.714,14,Italian Grand Prix
+BOT,20.0,88.438,1.0,HARD,23.0,1,True,Alfa Romeo,False,9.0,28.426,30.55,29.462,,False,False,6703.152,14,Italian Grand Prix
+BOT,21.0,89.044,1.0,HARD,24.0,1,True,Alfa Romeo,False,10.0,28.534,30.814,29.696,,False,False,6792.196,14,Italian Grand Prix
+BOT,22.0,88.116,1.0,HARD,25.0,1,True,Alfa Romeo,False,9.0,28.579,30.455,29.082,,False,False,6880.312,14,Italian Grand Prix
+BOT,23.0,88.123,1.0,HARD,26.0,1,True,Alfa Romeo,False,8.0,28.491,30.642,28.99,,False,False,6968.435,14,Italian Grand Prix
+BOT,24.0,88.022,1.0,HARD,27.0,1,True,Alfa Romeo,False,7.0,28.438,30.518,29.066,,False,False,7056.457,14,Italian Grand Prix
+BOT,25.0,92.814,1.0,HARD,28.0,1,False,Alfa Romeo,False,9.0,28.458,30.67,33.686,,True,False,7149.271,14,Italian Grand Prix
+BOT,26.0,106.575,2.0,MEDIUM,4.0,1,False,Alfa Romeo,False,16.0,48.222,29.699,28.654,,False,True,7255.846,14,Italian Grand Prix
+BOT,27.0,85.988,2.0,MEDIUM,5.0,1,True,Alfa Romeo,False,16.0,28.023,29.536,28.429,,False,False,7341.834,14,Italian Grand Prix
+BOT,28.0,86.486,2.0,MEDIUM,6.0,1,True,Alfa Romeo,False,16.0,28.215,29.742,28.529,,False,False,7428.32,14,Italian Grand Prix
+BOT,29.0,86.201,2.0,MEDIUM,7.0,1,True,Alfa Romeo,False,16.0,28.081,29.576,28.544,,False,False,7514.521,14,Italian Grand Prix
+BOT,30.0,86.643,2.0,MEDIUM,8.0,1,True,Alfa Romeo,False,16.0,28.119,29.908,28.616,,False,False,7601.164,14,Italian Grand Prix
+BOT,31.0,86.648,2.0,MEDIUM,9.0,1,True,Alfa Romeo,False,15.0,28.039,29.891,28.718,,False,False,7687.812,14,Italian Grand Prix
+BOT,32.0,86.606,2.0,MEDIUM,10.0,1,True,Alfa Romeo,False,15.0,28.088,30.033,28.485,,False,False,7774.418,14,Italian Grand Prix
+BOT,33.0,86.873,2.0,MEDIUM,11.0,1,True,Alfa Romeo,False,13.0,28.047,30.118,28.708,,False,False,7861.291,14,Italian Grand Prix
+BOT,34.0,86.621,2.0,MEDIUM,12.0,1,True,Alfa Romeo,False,12.0,28.11,29.945,28.566,,False,False,7947.912,14,Italian Grand Prix
+BOT,35.0,86.523,2.0,MEDIUM,13.0,1,True,Alfa Romeo,False,12.0,28.193,29.831,28.499,,False,False,8034.435,14,Italian Grand Prix
+BOT,36.0,86.782,2.0,MEDIUM,14.0,1,True,Alfa Romeo,False,12.0,28.073,29.992,28.717,,False,False,8121.217,14,Italian Grand Prix
+BOT,37.0,86.545,2.0,MEDIUM,15.0,1,True,Alfa Romeo,False,12.0,28.162,29.802,28.581,,False,False,8207.762,14,Italian Grand Prix
+BOT,38.0,87.093,2.0,MEDIUM,16.0,1,True,Alfa Romeo,False,12.0,28.157,30.219,28.717,,False,False,8294.855,14,Italian Grand Prix
+BOT,39.0,86.981,2.0,MEDIUM,17.0,1,True,Alfa Romeo,False,12.0,28.377,29.982,28.622,,False,False,8381.836,14,Italian Grand Prix
+BOT,40.0,87.862,2.0,MEDIUM,18.0,1,True,Alfa Romeo,False,12.0,28.208,30.572,29.082,,False,False,8469.698,14,Italian Grand Prix
+BOT,41.0,87.203,2.0,MEDIUM,19.0,1,True,Alfa Romeo,False,12.0,28.364,30.082,28.757,,False,False,8556.901,14,Italian Grand Prix
+BOT,42.0,86.864,2.0,MEDIUM,20.0,1,True,Alfa Romeo,False,11.0,28.094,30.159,28.611,,False,False,8643.765,14,Italian Grand Prix
+BOT,43.0,87.753,2.0,MEDIUM,21.0,1,True,Alfa Romeo,False,10.0,28.092,31.189,28.472,,False,False,8731.518,14,Italian Grand Prix
+BOT,44.0,86.962,2.0,MEDIUM,22.0,1,True,Alfa Romeo,False,10.0,28.245,30.007,28.71,,False,False,8818.48,14,Italian Grand Prix
+BOT,45.0,86.889,2.0,MEDIUM,23.0,1,True,Alfa Romeo,False,10.0,28.447,29.949,28.493,,False,False,8905.369,14,Italian Grand Prix
+BOT,46.0,86.806,2.0,MEDIUM,24.0,1,True,Alfa Romeo,False,10.0,28.351,29.887,28.568,,False,False,8992.175,14,Italian Grand Prix
+BOT,47.0,86.736,2.0,MEDIUM,25.0,1,True,Alfa Romeo,False,10.0,28.211,29.981,28.544,,False,False,9078.911,14,Italian Grand Prix
+BOT,48.0,87.005,2.0,MEDIUM,26.0,1,True,Alfa Romeo,False,10.0,28.241,30.015,28.749,,False,False,9165.916,14,Italian Grand Prix
+BOT,49.0,87.134,2.0,MEDIUM,27.0,1,True,Alfa Romeo,False,10.0,28.218,30.128,28.788,,False,False,9253.05,14,Italian Grand Prix
+BOT,50.0,86.95,2.0,MEDIUM,28.0,1,True,Alfa Romeo,False,10.0,28.21,30.034,28.706,,False,False,9340.0,14,Italian Grand Prix
+BOT,51.0,,2.0,MEDIUM,29.0,1,False,Alfa Romeo,False,,,,,,False,False,9490.0,14,Italian Grand Prix
+PIA,1.0,90.315,1.0,MEDIUM,1.0,1,False,McLaren,True,6.0,,30.703,28.748,,False,False,5032.19,14,Italian Grand Prix
+PIA,2.0,88.053,1.0,MEDIUM,2.0,1,True,McLaren,True,7.0,28.711,30.778,28.564,,False,False,5120.243,14,Italian Grand Prix
+PIA,3.0,86.982,1.0,MEDIUM,3.0,1,True,McLaren,True,7.0,28.568,29.883,28.531,,False,False,5207.225,14,Italian Grand Prix
+PIA,4.0,87.004,1.0,MEDIUM,4.0,1,True,McLaren,True,7.0,28.438,29.981,28.585,,False,False,5294.229,14,Italian Grand Prix
+PIA,5.0,86.909,1.0,MEDIUM,5.0,1,True,McLaren,True,7.0,28.354,29.846,28.709,,False,False,5381.138,14,Italian Grand Prix
+PIA,6.0,86.878,1.0,MEDIUM,6.0,1,True,McLaren,True,7.0,28.525,29.832,28.521,,False,False,5468.016,14,Italian Grand Prix
+PIA,7.0,86.94,1.0,MEDIUM,7.0,1,True,McLaren,True,7.0,28.419,29.823,28.698,,False,False,5554.956,14,Italian Grand Prix
+PIA,8.0,86.85,1.0,MEDIUM,8.0,1,True,McLaren,True,7.0,28.308,29.845,28.697,,False,False,5641.806,14,Italian Grand Prix
+PIA,9.0,86.864,1.0,MEDIUM,9.0,1,True,McLaren,True,7.0,28.35,29.742,28.772,,False,False,5728.67,14,Italian Grand Prix
+PIA,10.0,86.823,1.0,MEDIUM,10.0,1,True,McLaren,True,7.0,28.343,29.853,28.627,,False,False,5815.493,14,Italian Grand Prix
+PIA,11.0,87.217,1.0,MEDIUM,11.0,1,True,McLaren,True,7.0,28.342,30.116,28.759,,False,False,5902.71,14,Italian Grand Prix
+PIA,12.0,87.454,1.0,MEDIUM,12.0,1,True,McLaren,True,7.0,28.376,30.184,28.894,,False,False,5990.164,14,Italian Grand Prix
+PIA,13.0,87.518,1.0,MEDIUM,13.0,1,True,McLaren,True,7.0,28.468,30.156,28.894,,False,False,6077.682,14,Italian Grand Prix
+PIA,14.0,87.371,1.0,MEDIUM,14.0,1,True,McLaren,True,7.0,28.431,29.99,28.95,,False,False,6165.053,14,Italian Grand Prix
+PIA,15.0,87.738,1.0,MEDIUM,15.0,1,True,McLaren,True,6.0,28.471,30.157,29.11,,False,False,6252.791,14,Italian Grand Prix
+PIA,16.0,87.201,1.0,MEDIUM,16.0,1,True,McLaren,True,6.0,28.376,29.995,28.83,,False,False,6339.992,14,Italian Grand Prix
+PIA,17.0,87.44,1.0,MEDIUM,17.0,1,True,McLaren,True,6.0,28.578,30.037,28.825,,False,False,6427.432,14,Italian Grand Prix
+PIA,18.0,87.398,1.0,MEDIUM,18.0,1,True,McLaren,True,6.0,28.507,30.094,28.797,,False,False,6514.83,14,Italian Grand Prix
+PIA,19.0,87.352,1.0,MEDIUM,19.0,1,True,McLaren,True,6.0,28.545,30.104,28.703,,False,False,6602.182,14,Italian Grand Prix
+PIA,20.0,87.746,1.0,MEDIUM,20.0,1,True,McLaren,True,4.0,28.59,30.255,28.901,,False,False,6689.928,14,Italian Grand Prix
+PIA,21.0,87.587,1.0,MEDIUM,21.0,1,True,McLaren,True,2.0,28.664,30.251,28.672,,False,False,6777.515,14,Italian Grand Prix
+PIA,22.0,87.419,1.0,MEDIUM,22.0,1,True,McLaren,True,1.0,28.512,30.088,28.819,,False,False,6864.934,14,Italian Grand Prix
+PIA,23.0,91.866,1.0,MEDIUM,23.0,1,False,McLaren,True,3.0,28.658,30.224,32.984,,True,False,6956.8,14,Italian Grand Prix
+PIA,24.0,106.854,2.0,HARD,6.0,1,False,McLaren,False,10.0,48.308,29.993,28.553,,False,True,7063.654,14,Italian Grand Prix
+PIA,25.0,86.411,2.0,HARD,7.0,1,True,McLaren,False,10.0,28.241,29.759,28.411,,False,False,7150.065,14,Italian Grand Prix
+PIA,26.0,86.287,2.0,HARD,8.0,1,True,McLaren,False,9.0,28.284,29.601,28.402,,False,False,7236.352,14,Italian Grand Prix
+PIA,27.0,86.248,2.0,HARD,9.0,1,True,McLaren,False,9.0,28.187,29.582,28.479,,False,False,7322.6,14,Italian Grand Prix
+PIA,28.0,86.611,2.0,HARD,10.0,1,True,McLaren,False,8.0,28.193,30.034,28.384,,False,False,7409.211,14,Italian Grand Prix
+PIA,29.0,86.132,2.0,HARD,11.0,1,True,McLaren,False,8.0,28.109,29.736,28.287,,False,False,7495.343,14,Italian Grand Prix
+PIA,30.0,87.074,2.0,HARD,12.0,1,True,McLaren,False,8.0,28.311,30.133,28.63,,False,False,7582.417,14,Italian Grand Prix
+PIA,31.0,86.86,2.0,HARD,13.0,1,True,McLaren,False,8.0,28.271,30.047,28.542,,False,False,7669.277,14,Italian Grand Prix
+PIA,32.0,86.746,2.0,HARD,14.0,1,True,McLaren,False,8.0,28.188,29.943,28.615,,False,False,7756.023,14,Italian Grand Prix
+PIA,33.0,86.445,2.0,HARD,15.0,1,True,McLaren,False,8.0,28.189,29.772,28.484,,False,False,7842.468,14,Italian Grand Prix
+PIA,34.0,86.717,2.0,HARD,16.0,1,True,McLaren,False,8.0,28.214,30.026,28.477,,False,False,7929.185,14,Italian Grand Prix
+PIA,35.0,86.277,2.0,HARD,17.0,1,True,McLaren,False,8.0,28.203,29.717,28.357,,False,False,8015.462,14,Italian Grand Prix
+PIA,36.0,86.639,2.0,HARD,18.0,1,True,McLaren,False,8.0,28.242,29.899,28.498,,False,False,8102.101,14,Italian Grand Prix
+PIA,37.0,86.806,2.0,HARD,19.0,1,True,McLaren,False,8.0,28.265,30.111,28.43,,False,False,8188.907,14,Italian Grand Prix
+PIA,38.0,87.146,2.0,HARD,20.0,1,True,McLaren,False,8.0,28.206,30.212,28.728,,False,False,8276.053,14,Italian Grand Prix
+PIA,39.0,87.166,2.0,HARD,21.0,1,True,McLaren,False,8.0,28.568,29.927,28.671,,False,False,8363.219,14,Italian Grand Prix
+PIA,40.0,86.853,2.0,HARD,22.0,1,True,McLaren,False,8.0,28.312,30.216,28.325,,False,False,8450.072,14,Italian Grand Prix
+PIA,41.0,94.52,2.0,HARD,23.0,1,False,McLaren,False,10.0,28.371,32.446,33.703,,True,False,8544.592,14,Italian Grand Prix
+PIA,42.0,113.593,3.0,MEDIUM,4.0,1,False,McLaren,False,14.0,56.224,29.325,28.044,,False,True,8658.185,14,Italian Grand Prix
+PIA,43.0,85.072,3.0,MEDIUM,5.0,1,True,McLaren,False,14.0,28.06,29.174,27.838,,False,False,8743.257,14,Italian Grand Prix
+PIA,44.0,85.69,3.0,MEDIUM,6.0,1,True,McLaren,False,14.0,27.968,29.13,28.592,,False,False,8828.947,14,Italian Grand Prix
+PIA,45.0,86.139,3.0,MEDIUM,7.0,1,True,McLaren,False,13.0,28.568,29.596,27.975,,False,False,8915.086,14,Italian Grand Prix
+PIA,46.0,85.732,3.0,MEDIUM,8.0,1,True,McLaren,False,13.0,28.103,29.596,28.033,,False,False,9000.818,14,Italian Grand Prix
+PIA,47.0,86.614,3.0,MEDIUM,9.0,1,True,McLaren,False,13.0,28.276,29.795,28.543,,False,False,9087.432,14,Italian Grand Prix
+PIA,48.0,86.067,3.0,MEDIUM,10.0,1,True,McLaren,False,13.0,28.089,29.668,28.31,,False,False,9173.499,14,Italian Grand Prix
+PIA,49.0,85.841,3.0,MEDIUM,11.0,1,True,McLaren,False,12.0,27.763,29.762,28.316,,False,False,9259.34,14,Italian Grand Prix
+PIA,50.0,85.593,3.0,MEDIUM,12.0,1,True,McLaren,False,11.0,28.181,29.335,28.077,,False,False,9344.933,14,Italian Grand Prix
+PIA,51.0,,3.0,MEDIUM,13.0,1,False,McLaren,False,,,,,,False,False,9494.933,14,Italian Grand Prix

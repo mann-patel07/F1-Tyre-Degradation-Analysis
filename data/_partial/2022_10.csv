@@ -1,0 +1,816 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,141.969,1.0,SOFT,1.0,125,False,Red Bull Racing,True,1.0,,63.78,35.284,,True,False,3878.35,10,British Grand Prix
+VER,2.0,,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,2.0,,69.957,48.658,,False,True,7073.798,10,British Grand Prix
+VER,3.0,150.36,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,2.0,85.942,38.543,25.875,,False,False,7224.158,10,British Grand Prix
+VER,4.0,93.807,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,2.0,30.031,38.047,25.729,,False,False,7317.965,10,British Grand Prix
+VER,5.0,93.489,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,2.0,29.805,38.045,25.639,,False,False,7411.454,10,British Grand Prix
+VER,6.0,93.539,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,2.0,29.831,38.096,25.612,,False,False,7504.993,10,British Grand Prix
+VER,7.0,93.762,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,2.0,29.889,38.15,25.723,,False,False,7598.755,10,British Grand Prix
+VER,8.0,93.451,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,2.0,29.619,38.302,25.53,,False,False,7692.206,10,British Grand Prix
+VER,9.0,93.606,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,2.0,29.714,38.352,25.54,,False,False,7785.812,10,British Grand Prix
+VER,10.0,93.486,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,1.0,29.765,38.324,25.397,,False,False,7879.298,10,British Grand Prix
+VER,11.0,93.632,2.0,MEDIUM,10.0,12,True,Red Bull Racing,True,1.0,29.987,38.014,25.631,,False,False,7972.93,10,British Grand Prix
+VER,12.0,94.701,2.0,MEDIUM,11.0,1,False,Red Bull Racing,True,1.0,30.001,39.496,25.204,,True,False,8067.631,10,British Grand Prix
+VER,13.0,116.214,3.0,MEDIUM,1.0,1,False,Red Bull Racing,True,6.0,51.174,38.961,26.079,,False,True,8183.845,10,British Grand Prix
+VER,14.0,94.388,3.0,MEDIUM,2.0,1,True,Red Bull Racing,True,6.0,29.895,38.656,25.837,,False,False,8278.233,10,British Grand Prix
+VER,15.0,94.806,3.0,MEDIUM,3.0,1,True,Red Bull Racing,True,6.0,29.914,38.877,26.015,,False,False,8373.039,10,British Grand Prix
+VER,16.0,95.015,3.0,MEDIUM,4.0,1,True,Red Bull Racing,True,6.0,30.031,38.939,26.045,,False,False,8468.054,10,British Grand Prix
+VER,17.0,94.994,3.0,MEDIUM,5.0,1,True,Red Bull Racing,True,6.0,29.995,38.998,26.001,,False,False,8563.048,10,British Grand Prix
+VER,18.0,94.973,3.0,MEDIUM,6.0,1,True,Red Bull Racing,True,6.0,30.067,38.923,25.983,,False,False,8658.021,10,British Grand Prix
+VER,19.0,94.996,3.0,MEDIUM,7.0,1,True,Red Bull Racing,True,6.0,30.121,38.844,26.031,,False,False,8753.017,10,British Grand Prix
+VER,20.0,94.87,3.0,MEDIUM,8.0,1,True,Red Bull Racing,True,6.0,30.206,38.838,25.826,,False,False,8847.887,10,British Grand Prix
+VER,21.0,94.963,3.0,MEDIUM,9.0,1,True,Red Bull Racing,True,6.0,30.118,38.95,25.895,,False,False,8942.85,10,British Grand Prix
+VER,22.0,94.826,3.0,MEDIUM,10.0,1,True,Red Bull Racing,True,6.0,30.003,38.918,25.905,,False,False,9037.676,10,British Grand Prix
+VER,23.0,94.122,3.0,MEDIUM,11.0,1,False,Red Bull Racing,True,6.0,30.019,38.881,25.222,,True,False,9131.798,10,British Grand Prix
+VER,24.0,119.03,4.0,HARD,1.0,1,False,Red Bull Racing,True,8.0,52.024,40.686,26.32,,False,True,9250.828,10,British Grand Prix
+VER,25.0,95.405,4.0,HARD,2.0,1,True,Red Bull Racing,True,8.0,30.052,39.244,26.109,,False,False,9346.233,10,British Grand Prix
+VER,26.0,94.441,4.0,HARD,3.0,1,True,Red Bull Racing,True,8.0,29.841,38.773,25.827,,False,False,9440.674,10,British Grand Prix
+VER,27.0,94.67,4.0,HARD,4.0,1,True,Red Bull Racing,True,8.0,29.828,38.83,26.012,,False,False,9535.344,10,British Grand Prix
+VER,28.0,94.482,4.0,HARD,5.0,1,True,Red Bull Racing,True,8.0,29.841,38.767,25.874,,False,False,9629.826,10,British Grand Prix
+VER,29.0,94.404,4.0,HARD,6.0,1,True,Red Bull Racing,True,8.0,29.958,38.645,25.801,,False,False,9724.23,10,British Grand Prix
+VER,30.0,94.488,4.0,HARD,7.0,1,True,Red Bull Racing,True,8.0,29.969,38.755,25.764,,False,False,9818.718,10,British Grand Prix
+VER,31.0,94.171,4.0,HARD,8.0,1,True,Red Bull Racing,True,8.0,29.773,38.609,25.789,,False,False,9912.889,10,British Grand Prix
+VER,32.0,94.415,4.0,HARD,9.0,1,True,Red Bull Racing,True,8.0,29.917,38.7,25.798,,False,False,10007.304,10,British Grand Prix
+VER,33.0,94.503,4.0,HARD,10.0,1,True,Red Bull Racing,True,8.0,29.786,38.837,25.88,,False,False,10101.807,10,British Grand Prix
+VER,34.0,94.21,4.0,HARD,11.0,1,True,Red Bull Racing,True,8.0,29.86,38.539,25.811,,False,False,10196.017,10,British Grand Prix
+VER,35.0,94.068,4.0,HARD,12.0,1,True,Red Bull Racing,True,8.0,29.685,38.292,26.091,,False,False,10290.085,10,British Grand Prix
+VER,36.0,94.924,4.0,HARD,13.0,1,True,Red Bull Racing,True,9.0,29.924,38.549,26.451,,False,False,10385.009,10,British Grand Prix
+VER,37.0,94.023,4.0,HARD,14.0,1,True,Red Bull Racing,True,9.0,29.807,38.611,25.605,,False,False,10479.032,10,British Grand Prix
+VER,38.0,93.527,4.0,HARD,15.0,124,False,Red Bull Racing,True,8.0,29.658,38.186,25.683,,False,False,10572.559,10,British Grand Prix
+VER,39.0,123.868,4.0,HARD,16.0,4,False,Red Bull Racing,True,8.0,41.756,53.129,28.983,,True,False,10696.427,10,British Grand Prix
+VER,40.0,143.569,5.0,SOFT,1.0,4,False,Red Bull Racing,True,10.0,58.746,51.589,33.234,,False,True,10839.996,10,British Grand Prix
+VER,41.0,103.866,5.0,SOFT,2.0,4,False,Red Bull Racing,True,9.0,30.157,38.178,35.531,,False,False,10943.862,10,British Grand Prix
+VER,42.0,153.579,5.0,SOFT,3.0,41,False,Red Bull Racing,True,9.0,51.586,59.997,41.996,,False,False,11097.441,10,British Grand Prix
+VER,43.0,93.322,5.0,SOFT,4.0,1,True,Red Bull Racing,True,8.0,29.539,38.156,25.627,,False,False,11190.763,10,British Grand Prix
+VER,44.0,92.354,5.0,SOFT,5.0,1,True,Red Bull Racing,True,7.0,29.466,37.558,25.33,,False,False,11283.117,10,British Grand Prix
+VER,45.0,92.135,5.0,SOFT,6.0,1,True,Red Bull Racing,True,7.0,29.255,37.612,25.268,,False,False,11375.252,10,British Grand Prix
+VER,46.0,92.516,5.0,SOFT,7.0,1,True,Red Bull Racing,True,7.0,29.354,37.791,25.371,,False,False,11467.768,10,British Grand Prix
+VER,47.0,92.584,5.0,SOFT,8.0,1,True,Red Bull Racing,True,7.0,29.388,37.935,25.261,,False,False,11560.352,10,British Grand Prix
+VER,48.0,92.566,5.0,SOFT,9.0,1,True,Red Bull Racing,True,7.0,29.45,37.754,25.362,,False,False,11652.918,10,British Grand Prix
+VER,49.0,92.964,5.0,SOFT,10.0,1,True,Red Bull Racing,True,7.0,29.473,37.766,25.725,,False,False,11745.882,10,British Grand Prix
+VER,50.0,93.051,5.0,SOFT,11.0,1,True,Red Bull Racing,True,7.0,29.62,37.97,25.461,,False,False,11838.933,10,British Grand Prix
+VER,51.0,92.858,5.0,SOFT,12.0,1,True,Red Bull Racing,True,7.0,29.547,37.68,25.631,,False,False,11931.791,10,British Grand Prix
+VER,52.0,93.581,5.0,SOFT,13.0,1,True,Red Bull Racing,True,7.0,29.67,38.0,25.911,,False,False,12025.372,10,British Grand Prix
+GAS,1.0,169.321,1.0,MEDIUM,1.0,125,False,AlphaTauri,True,11.0,,60.199,44.383,,True,False,3905.726,10,British Grand Prix
+GAS,2.0,,2.0,SOFT,1.0,1,False,AlphaTauri,True,9.0,,63.866,55.631,,False,True,7097.315,10,British Grand Prix
+GAS,3.0,131.047,2.0,SOFT,2.0,1,True,AlphaTauri,True,7.0,63.42,40.642,26.985,,False,False,7228.362,10,British Grand Prix
+GAS,4.0,95.854,2.0,SOFT,3.0,1,True,AlphaTauri,True,7.0,30.332,39.276,26.246,,False,False,7324.216,10,British Grand Prix
+GAS,5.0,96.576,2.0,SOFT,4.0,1,True,AlphaTauri,True,8.0,30.19,39.219,27.167,,False,False,7420.792,10,British Grand Prix
+GAS,6.0,95.333,2.0,SOFT,5.0,1,True,AlphaTauri,True,7.0,30.129,39.079,26.125,,False,False,7516.125,10,British Grand Prix
+GAS,7.0,95.642,2.0,SOFT,6.0,1,True,AlphaTauri,True,7.0,30.44,38.967,26.235,,False,False,7611.767,10,British Grand Prix
+GAS,8.0,95.512,2.0,SOFT,7.0,1,True,AlphaTauri,True,7.0,30.42,38.858,26.234,,False,False,7707.279,10,British Grand Prix
+GAS,9.0,95.527,2.0,SOFT,8.0,1,True,AlphaTauri,True,7.0,30.495,38.801,26.231,,False,False,7802.806,10,British Grand Prix
+GAS,10.0,96.25,2.0,SOFT,9.0,1,True,AlphaTauri,True,7.0,30.538,38.716,26.996,,False,False,7899.056,10,British Grand Prix
+GAS,11.0,102.236,2.0,SOFT,10.0,12,True,AlphaTauri,True,13.0,35.637,40.089,26.51,,False,False,8001.292,10,British Grand Prix
+GAS,12.0,95.807,2.0,SOFT,11.0,1,True,AlphaTauri,True,13.0,30.429,39.226,26.152,,False,False,8097.099,10,British Grand Prix
+GAS,13.0,95.543,2.0,SOFT,12.0,1,True,AlphaTauri,True,13.0,30.358,39.038,26.147,,False,False,8192.642,10,British Grand Prix
+GAS,14.0,95.419,2.0,SOFT,13.0,1,True,AlphaTauri,True,13.0,30.464,38.916,26.039,,False,False,8288.061,10,British Grand Prix
+GAS,15.0,95.671,2.0,SOFT,14.0,1,True,AlphaTauri,True,13.0,30.443,39.082,26.146,,False,False,8383.732,10,British Grand Prix
+GAS,16.0,95.528,2.0,SOFT,15.0,1,False,AlphaTauri,True,13.0,30.53,39.267,25.731,,True,False,8479.26,10,British Grand Prix
+GAS,17.0,118.199,3.0,HARD,2.0,1,False,AlphaTauri,False,16.0,52.519,39.532,26.148,,False,True,8597.459,10,British Grand Prix
+GAS,18.0,94.614,3.0,HARD,3.0,1,True,AlphaTauri,False,16.0,30.022,38.717,25.875,,False,False,8692.073,10,British Grand Prix
+GAS,19.0,94.738,3.0,HARD,4.0,1,True,AlphaTauri,False,15.0,30.052,38.719,25.967,,False,False,8786.811,10,British Grand Prix
+GAS,20.0,95.141,3.0,HARD,5.0,1,True,AlphaTauri,False,15.0,30.463,38.75,25.928,,False,False,8881.952,10,British Grand Prix
+GAS,21.0,95.265,3.0,HARD,6.0,1,True,AlphaTauri,False,14.0,30.224,38.965,26.076,,False,False,8977.217,10,British Grand Prix
+GAS,22.0,94.722,3.0,HARD,7.0,1,True,AlphaTauri,False,14.0,30.12,38.73,25.872,,False,False,9071.939,10,British Grand Prix
+GAS,23.0,94.636,3.0,HARD,8.0,1,True,AlphaTauri,False,14.0,30.14,38.633,25.863,,False,False,9166.575,10,British Grand Prix
+GAS,24.0,94.763,3.0,HARD,9.0,1,True,AlphaTauri,False,14.0,30.154,38.701,25.908,,False,False,9261.338,10,British Grand Prix
+GAS,25.0,95.118,3.0,HARD,10.0,1,True,AlphaTauri,False,14.0,30.268,38.854,25.996,,False,False,9356.456,10,British Grand Prix
+GAS,26.0,94.275,3.0,HARD,11.0,1,False,AlphaTauri,False,14.0,30.093,38.813,25.369,,True,False,9450.731,10,British Grand Prix
+PER,1.0,154.001,1.0,MEDIUM,1.0,125,False,Red Bull Racing,True,6.0,,60.476,39.677,,True,False,3890.365,10,British Grand Prix
+PER,2.0,,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,4.0,,,,,False,True,7077.154,10,British Grand Prix
+PER,3.0,149.321,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,4.0,82.94,40.06,26.321,,False,False,7226.475,10,British Grand Prix
+PER,4.0,95.479,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,4.0,30.225,38.925,26.329,,False,False,7321.954,10,British Grand Prix
+PER,5.0,95.398,2.0,MEDIUM,4.0,1,False,Red Bull Racing,True,4.0,30.219,38.966,26.213,,True,False,7417.352,10,British Grand Prix
+PER,6.0,123.44,3.0,MEDIUM,2.0,1,False,Red Bull Racing,False,17.0,59.302,38.329,25.809,,False,True,7540.792,10,British Grand Prix
+PER,7.0,93.455,3.0,MEDIUM,3.0,1,True,Red Bull Racing,False,16.0,29.754,37.912,25.789,,False,False,7634.247,10,British Grand Prix
+PER,8.0,93.435,3.0,MEDIUM,4.0,1,True,Red Bull Racing,False,16.0,29.881,37.971,25.583,,False,False,7727.682,10,British Grand Prix
+PER,9.0,93.362,3.0,MEDIUM,5.0,1,True,Red Bull Racing,False,16.0,29.755,37.948,25.659,,False,False,7821.044,10,British Grand Prix
+PER,10.0,93.395,3.0,MEDIUM,6.0,12,True,Red Bull Racing,False,16.0,29.805,37.918,25.672,,False,False,7914.439,10,British Grand Prix
+PER,11.0,93.678,3.0,MEDIUM,7.0,21,True,Red Bull Racing,False,16.0,29.975,38.075,25.628,,False,False,8008.117,10,British Grand Prix
+PER,12.0,93.845,3.0,MEDIUM,8.0,1,True,Red Bull Racing,False,16.0,29.949,38.109,25.787,,False,False,8101.962,10,British Grand Prix
+PER,13.0,94.869,3.0,MEDIUM,9.0,1,True,Red Bull Racing,False,15.0,29.807,39.33,25.732,,False,False,8196.831,10,British Grand Prix
+PER,14.0,93.838,3.0,MEDIUM,10.0,1,True,Red Bull Racing,False,15.0,30.015,38.124,25.699,,False,False,8290.669,10,British Grand Prix
+PER,15.0,94.293,3.0,MEDIUM,11.0,1,True,Red Bull Racing,False,15.0,30.009,38.494,25.79,,False,False,8384.962,10,British Grand Prix
+PER,16.0,94.301,3.0,MEDIUM,12.0,1,True,Red Bull Racing,False,14.0,30.072,38.902,25.327,,False,False,8479.263,10,British Grand Prix
+PER,17.0,93.657,3.0,MEDIUM,13.0,1,True,Red Bull Racing,False,13.0,29.918,38.109,25.63,,False,False,8572.92,10,British Grand Prix
+PER,18.0,93.816,3.0,MEDIUM,14.0,1,True,Red Bull Racing,False,12.0,29.843,38.417,25.556,,False,False,8666.736,10,British Grand Prix
+PER,19.0,94.38,3.0,MEDIUM,15.0,1,True,Red Bull Racing,False,12.0,30.038,38.746,25.596,,False,False,8761.116,10,British Grand Prix
+PER,20.0,94.059,3.0,MEDIUM,16.0,1,True,Red Bull Racing,False,8.0,29.907,38.886,25.266,,False,False,8855.175,10,British Grand Prix
+PER,21.0,93.291,3.0,MEDIUM,17.0,1,True,Red Bull Racing,False,8.0,29.939,37.894,25.458,,False,False,8948.466,10,British Grand Prix
+PER,22.0,93.104,3.0,MEDIUM,18.0,1,True,Red Bull Racing,False,8.0,29.872,37.862,25.37,,False,False,9041.57,10,British Grand Prix
+PER,23.0,93.02,3.0,MEDIUM,19.0,1,True,Red Bull Racing,False,7.0,29.689,37.947,25.384,,False,False,9134.59,10,British Grand Prix
+PER,24.0,93.137,3.0,MEDIUM,20.0,1,True,Red Bull Racing,False,6.0,29.696,37.956,25.485,,False,False,9227.727,10,British Grand Prix
+PER,25.0,93.101,3.0,MEDIUM,21.0,1,True,Red Bull Racing,False,6.0,29.883,37.803,25.415,,False,False,9320.828,10,British Grand Prix
+PER,26.0,92.666,3.0,MEDIUM,22.0,1,True,Red Bull Racing,False,6.0,29.706,37.594,25.366,,False,False,9413.494,10,British Grand Prix
+PER,27.0,92.948,3.0,MEDIUM,23.0,1,True,Red Bull Racing,False,6.0,29.632,37.823,25.493,,False,False,9506.442,10,British Grand Prix
+PER,28.0,92.847,3.0,MEDIUM,24.0,1,True,Red Bull Racing,False,6.0,29.693,37.676,25.478,,False,False,9599.289,10,British Grand Prix
+PER,29.0,93.014,3.0,MEDIUM,25.0,1,True,Red Bull Racing,False,6.0,29.894,37.665,25.455,,False,False,9692.303,10,British Grand Prix
+PER,30.0,92.925,3.0,MEDIUM,26.0,1,True,Red Bull Racing,False,6.0,29.763,37.819,25.343,,False,False,9785.228,10,British Grand Prix
+PER,31.0,92.655,3.0,MEDIUM,27.0,1,True,Red Bull Racing,False,6.0,29.696,37.584,25.375,,False,False,9877.883,10,British Grand Prix
+PER,32.0,92.886,3.0,MEDIUM,28.0,1,True,Red Bull Racing,False,6.0,29.7,37.762,25.424,,False,False,9970.769,10,British Grand Prix
+PER,33.0,92.926,3.0,MEDIUM,29.0,1,True,Red Bull Racing,False,6.0,29.881,37.719,25.326,,False,False,10063.695,10,British Grand Prix
+PER,34.0,92.727,3.0,MEDIUM,30.0,1,True,Red Bull Racing,False,5.0,29.657,37.697,25.373,,False,False,10156.422,10,British Grand Prix
+PER,35.0,92.305,3.0,MEDIUM,31.0,1,True,Red Bull Racing,False,4.0,29.617,37.422,25.266,,False,False,10248.727,10,British Grand Prix
+PER,36.0,92.323,3.0,MEDIUM,32.0,1,True,Red Bull Racing,False,4.0,29.582,37.412,25.329,,False,False,10341.05,10,British Grand Prix
+PER,37.0,92.401,3.0,MEDIUM,33.0,1,True,Red Bull Racing,False,4.0,29.652,37.376,25.373,,False,False,10433.451,10,British Grand Prix
+PER,38.0,92.759,3.0,MEDIUM,34.0,1,True,Red Bull Racing,False,4.0,29.699,37.649,25.411,,False,False,10526.21,10,British Grand Prix
+PER,39.0,108.331,3.0,MEDIUM,35.0,124,False,Red Bull Racing,False,4.0,29.739,49.831,28.761,,True,False,10634.541,10,British Grand Prix
+PER,40.0,141.424,4.0,SOFT,1.0,4,False,Red Bull Racing,True,4.0,53.892,58.338,29.194,,False,True,10775.965,10,British Grand Prix
+PER,41.0,160.706,4.0,SOFT,2.0,4,False,Red Bull Racing,True,4.0,47.519,70.654,42.533,,False,False,10936.671,10,British Grand Prix
+PER,42.0,158.348,4.0,SOFT,3.0,41,False,Red Bull Racing,True,4.0,49.269,63.337,45.742,,False,False,11095.019,10,British Grand Prix
+PER,43.0,91.892,4.0,SOFT,4.0,1,True,Red Bull Racing,True,3.0,29.371,37.055,25.466,,False,False,11186.911,10,British Grand Prix
+PER,44.0,92.091,4.0,SOFT,5.0,1,True,Red Bull Racing,True,3.0,29.257,37.547,25.287,,False,False,11279.002,10,British Grand Prix
+PER,45.0,92.207,4.0,SOFT,6.0,1,True,Red Bull Racing,True,3.0,29.004,37.302,25.901,,False,False,11371.209,10,British Grand Prix
+PER,46.0,91.466,4.0,SOFT,7.0,1,True,Red Bull Racing,True,2.0,29.569,36.916,24.981,,False,False,11462.675,10,British Grand Prix
+PER,47.0,90.937,4.0,SOFT,8.0,1,True,Red Bull Racing,True,2.0,29.211,36.795,24.931,,False,False,11553.612,10,British Grand Prix
+PER,48.0,91.296,4.0,SOFT,9.0,1,True,Red Bull Racing,True,2.0,29.285,36.919,25.092,,False,False,11644.908,10,British Grand Prix
+PER,49.0,90.997,4.0,SOFT,10.0,1,True,Red Bull Racing,True,2.0,29.229,36.848,24.92,,False,False,11735.905,10,British Grand Prix
+PER,50.0,91.102,4.0,SOFT,11.0,1,True,Red Bull Racing,True,2.0,29.312,36.747,25.043,,False,False,11827.007,10,British Grand Prix
+PER,51.0,91.976,4.0,SOFT,12.0,1,True,Red Bull Racing,True,2.0,29.474,37.056,25.446,,False,False,11918.983,10,British Grand Prix
+PER,52.0,91.391,4.0,SOFT,13.0,1,True,Red Bull Racing,True,2.0,29.43,36.861,25.1,,False,False,12010.374,10,British Grand Prix
+ALO,1.0,150.972,1.0,MEDIUM,1.0,125,False,Alpine,True,5.0,,61.539,38.19,,True,False,3887.321,10,British Grand Prix
+ALO,2.0,,2.0,MEDIUM,1.0,1,False,Alpine,True,7.0,,65.677,54.502,,False,True,7091.411,10,British Grand Prix
+ALO,3.0,137.237,2.0,MEDIUM,2.0,1,True,Alpine,True,8.0,69.298,40.92,27.019,,False,False,7228.648,10,British Grand Prix
+ALO,4.0,96.426,2.0,MEDIUM,3.0,1,True,Alpine,True,8.0,30.515,39.468,26.443,,False,False,7325.074,10,British Grand Prix
+ALO,5.0,95.064,2.0,MEDIUM,4.0,1,True,Alpine,True,7.0,29.904,39.093,26.067,,False,False,7420.138,10,British Grand Prix
+ALO,6.0,94.947,2.0,MEDIUM,5.0,1,True,Alpine,True,6.0,30.213,38.633,26.101,,False,False,7515.085,10,British Grand Prix
+ALO,7.0,94.985,2.0,MEDIUM,6.0,1,True,Alpine,True,6.0,30.208,38.625,26.152,,False,False,7610.07,10,British Grand Prix
+ALO,8.0,94.976,2.0,MEDIUM,7.0,1,True,Alpine,True,6.0,30.225,38.622,26.129,,False,False,7705.046,10,British Grand Prix
+ALO,9.0,94.799,2.0,MEDIUM,8.0,1,True,Alpine,True,6.0,30.163,38.534,26.102,,False,False,7799.845,10,British Grand Prix
+ALO,10.0,94.721,2.0,MEDIUM,9.0,1,True,Alpine,True,6.0,30.245,38.463,26.013,,False,False,7894.566,10,British Grand Prix
+ALO,11.0,94.709,2.0,MEDIUM,10.0,12,True,Alpine,True,6.0,30.228,38.567,25.914,,False,False,7989.275,10,British Grand Prix
+ALO,12.0,94.439,2.0,MEDIUM,11.0,1,True,Alpine,True,6.0,30.091,38.451,25.897,,False,False,8083.714,10,British Grand Prix
+ALO,13.0,94.276,2.0,MEDIUM,12.0,1,True,Alpine,True,5.0,30.046,38.37,25.86,,False,False,8177.99,10,British Grand Prix
+ALO,14.0,94.062,2.0,MEDIUM,13.0,1,True,Alpine,True,5.0,30.032,38.206,25.824,,False,False,8272.052,10,British Grand Prix
+ALO,15.0,94.363,2.0,MEDIUM,14.0,1,True,Alpine,True,5.0,30.034,38.402,25.927,,False,False,8366.415,10,British Grand Prix
+ALO,16.0,94.295,2.0,MEDIUM,15.0,1,True,Alpine,True,5.0,29.972,38.365,25.958,,False,False,8460.71,10,British Grand Prix
+ALO,17.0,94.251,2.0,MEDIUM,16.0,1,True,Alpine,True,5.0,30.022,38.344,25.885,,False,False,8554.961,10,British Grand Prix
+ALO,18.0,93.855,2.0,MEDIUM,17.0,1,True,Alpine,True,5.0,29.875,38.227,25.753,,False,False,8648.816,10,British Grand Prix
+ALO,19.0,94.087,2.0,MEDIUM,18.0,1,True,Alpine,True,5.0,30.024,38.188,25.875,,False,False,8742.903,10,British Grand Prix
+ALO,20.0,94.107,2.0,MEDIUM,19.0,1,True,Alpine,True,5.0,30.057,38.277,25.773,,False,False,8837.01,10,British Grand Prix
+ALO,21.0,94.056,2.0,MEDIUM,20.0,1,True,Alpine,True,5.0,30.024,38.221,25.811,,False,False,8931.066,10,British Grand Prix
+ALO,22.0,93.847,2.0,MEDIUM,21.0,1,True,Alpine,True,5.0,29.936,38.169,25.742,,False,False,9024.913,10,British Grand Prix
+ALO,23.0,93.983,2.0,MEDIUM,22.0,1,True,Alpine,True,5.0,29.968,38.227,25.788,,False,False,9118.896,10,British Grand Prix
+ALO,24.0,94.283,2.0,MEDIUM,23.0,1,True,Alpine,True,5.0,29.942,38.381,25.96,,False,False,9213.179,10,British Grand Prix
+ALO,25.0,94.075,2.0,MEDIUM,24.0,1,True,Alpine,True,5.0,30.053,38.249,25.773,,False,False,9307.254,10,British Grand Prix
+ALO,26.0,94.013,2.0,MEDIUM,25.0,1,True,Alpine,True,5.0,30.04,38.184,25.789,,False,False,9401.267,10,British Grand Prix
+ALO,27.0,93.836,2.0,MEDIUM,26.0,1,True,Alpine,True,5.0,29.937,38.054,25.845,,False,False,9495.103,10,British Grand Prix
+ALO,28.0,93.681,2.0,MEDIUM,27.0,1,True,Alpine,True,5.0,29.937,37.996,25.748,,False,False,9588.784,10,British Grand Prix
+ALO,29.0,93.991,2.0,MEDIUM,28.0,1,True,Alpine,True,5.0,30.143,38.043,25.805,,False,False,9682.775,10,British Grand Prix
+ALO,30.0,93.848,2.0,MEDIUM,29.0,1,True,Alpine,True,5.0,29.993,38.163,25.692,,False,False,9776.623,10,British Grand Prix
+ALO,31.0,93.826,2.0,MEDIUM,30.0,1,True,Alpine,True,5.0,30.067,38.079,25.68,,False,False,9870.449,10,British Grand Prix
+ALO,32.0,93.863,2.0,MEDIUM,31.0,1,True,Alpine,True,5.0,29.851,38.27,25.742,,False,False,9964.312,10,British Grand Prix
+ALO,33.0,93.751,2.0,MEDIUM,32.0,1,False,Alpine,True,5.0,30.016,38.088,25.647,,True,False,10058.063,10,British Grand Prix
+ALO,34.0,114.833,3.0,HARD,1.0,1,False,Alpine,True,6.0,50.885,38.297,25.651,,False,True,10172.896,10,British Grand Prix
+ALO,35.0,92.744,3.0,HARD,2.0,1,True,Alpine,True,6.0,29.68,37.578,25.486,,False,False,10265.64,10,British Grand Prix
+ALO,36.0,92.529,3.0,HARD,3.0,1,True,Alpine,True,6.0,29.705,37.434,25.39,,False,False,10358.169,10,British Grand Prix
+ALO,37.0,92.233,3.0,HARD,4.0,1,True,Alpine,True,6.0,29.586,37.262,25.385,,False,False,10450.402,10,British Grand Prix
+ALO,38.0,92.707,3.0,HARD,5.0,1,True,Alpine,True,6.0,29.709,37.259,25.739,,False,False,10543.109,10,British Grand Prix
+ALO,39.0,115.176,3.0,HARD,6.0,124,False,Alpine,True,5.0,29.718,55.44,30.018,,True,False,10658.285,10,British Grand Prix
+ALO,40.0,143.212,4.0,SOFT,1.0,4,False,Alpine,True,6.0,60.187,51.615,31.41,,False,True,10801.497,10,British Grand Prix
+ALO,41.0,137.172,4.0,SOFT,2.0,4,False,Alpine,True,5.0,31.746,62.096,43.33,,False,False,10938.669,10,British Grand Prix
+ALO,42.0,156.822,4.0,SOFT,3.0,41,False,Alpine,True,5.0,49.282,62.559,44.981,,False,False,11095.491,10,British Grand Prix
+ALO,43.0,92.306,4.0,SOFT,4.0,1,True,Alpine,True,5.0,29.406,37.527,25.373,,False,False,11187.797,10,British Grand Prix
+ALO,44.0,92.142,4.0,SOFT,5.0,1,True,Alpine,True,5.0,29.451,37.507,25.184,,False,False,11279.939,10,British Grand Prix
+ALO,45.0,91.808,4.0,SOFT,6.0,1,True,Alpine,True,5.0,29.175,37.44,25.193,,False,False,11371.747,10,British Grand Prix
+ALO,46.0,92.84,4.0,SOFT,7.0,1,True,Alpine,True,5.0,29.538,38.374,24.928,,False,False,11464.587,10,British Grand Prix
+ALO,47.0,91.609,4.0,SOFT,8.0,1,True,Alpine,True,5.0,29.204,37.247,25.158,,False,False,11556.196,10,British Grand Prix
+ALO,48.0,92.838,4.0,SOFT,9.0,1,True,Alpine,True,5.0,29.5,37.742,25.596,,False,False,11649.034,10,British Grand Prix
+ALO,49.0,91.973,4.0,SOFT,10.0,1,True,Alpine,True,5.0,29.426,37.284,25.263,,False,False,11741.007,10,British Grand Prix
+ALO,50.0,91.707,4.0,SOFT,11.0,1,True,Alpine,True,5.0,29.338,37.187,25.182,,False,False,11832.714,10,British Grand Prix
+ALO,51.0,91.758,4.0,SOFT,12.0,1,True,Alpine,True,5.0,29.428,37.13,25.2,,False,False,11924.472,10,British Grand Prix
+ALO,52.0,91.694,4.0,SOFT,13.0,1,True,Alpine,True,5.0,29.327,37.164,25.203,,False,False,12016.166,10,British Grand Prix
+LEC,1.0,147.771,1.0,MEDIUM,1.0,125,False,Ferrari,True,4.0,,61.215,37.785,,True,False,3884.147,10,British Grand Prix
+LEC,2.0,,2.0,MEDIUM,1.0,1,False,Ferrari,True,3.0,,71.073,48.468,,False,True,7075.732,10,British Grand Prix
+LEC,3.0,149.193,2.0,MEDIUM,2.0,1,True,Ferrari,True,3.0,84.124,39.137,25.932,,False,False,7224.925,10,British Grand Prix
+LEC,4.0,94.65,2.0,MEDIUM,3.0,1,True,Ferrari,True,3.0,30.1,38.427,26.123,,False,False,7319.575,10,British Grand Prix
+LEC,5.0,93.657,2.0,MEDIUM,4.0,1,True,Ferrari,True,3.0,29.917,38.117,25.623,,False,False,7413.232,10,British Grand Prix
+LEC,6.0,93.483,2.0,MEDIUM,5.0,1,True,Ferrari,True,3.0,29.873,37.946,25.664,,False,False,7506.715,10,British Grand Prix
+LEC,7.0,93.704,2.0,MEDIUM,6.0,1,True,Ferrari,True,3.0,29.947,38.079,25.678,,False,False,7600.419,10,British Grand Prix
+LEC,8.0,93.648,2.0,MEDIUM,7.0,1,True,Ferrari,True,3.0,29.866,37.993,25.789,,False,False,7694.067,10,British Grand Prix
+LEC,9.0,93.509,2.0,MEDIUM,8.0,1,True,Ferrari,True,3.0,29.727,38.078,25.704,,False,False,7787.576,10,British Grand Prix
+LEC,10.0,93.821,2.0,MEDIUM,9.0,1,True,Ferrari,True,3.0,29.989,38.049,25.783,,False,False,7881.397,10,British Grand Prix
+LEC,11.0,93.683,2.0,MEDIUM,10.0,12,True,Ferrari,True,3.0,29.871,38.25,25.562,,False,False,7975.08,10,British Grand Prix
+LEC,12.0,93.793,2.0,MEDIUM,11.0,1,True,Ferrari,True,3.0,29.664,38.467,25.662,,False,False,8068.873,10,British Grand Prix
+LEC,13.0,93.204,2.0,MEDIUM,12.0,1,True,Ferrari,True,2.0,29.701,37.988,25.515,,False,False,8162.077,10,British Grand Prix
+LEC,14.0,93.451,2.0,MEDIUM,13.0,1,True,Ferrari,True,2.0,29.819,38.088,25.544,,False,False,8255.528,10,British Grand Prix
+LEC,15.0,93.222,2.0,MEDIUM,14.0,1,True,Ferrari,True,2.0,29.652,37.988,25.582,,False,False,8348.75,10,British Grand Prix
+LEC,16.0,93.61,2.0,MEDIUM,15.0,1,True,Ferrari,True,2.0,29.886,38.156,25.568,,False,False,8442.36,10,British Grand Prix
+LEC,17.0,93.459,2.0,MEDIUM,16.0,1,True,Ferrari,True,2.0,29.726,38.194,25.539,,False,False,8535.819,10,British Grand Prix
+LEC,18.0,93.363,2.0,MEDIUM,17.0,1,True,Ferrari,True,2.0,29.518,38.212,25.633,,False,False,8629.182,10,British Grand Prix
+LEC,19.0,92.757,2.0,MEDIUM,18.0,1,True,Ferrari,True,2.0,29.569,37.75,25.438,,False,False,8721.939,10,British Grand Prix
+LEC,20.0,93.046,2.0,MEDIUM,19.0,1,True,Ferrari,True,2.0,29.64,38.013,25.393,,False,False,8814.985,10,British Grand Prix
+LEC,21.0,93.323,2.0,MEDIUM,20.0,1,True,Ferrari,True,1.0,29.908,37.809,25.606,,False,False,8908.308,10,British Grand Prix
+LEC,22.0,92.796,2.0,MEDIUM,21.0,1,True,Ferrari,True,1.0,29.747,37.606,25.443,,False,False,9001.104,10,British Grand Prix
+LEC,23.0,93.119,2.0,MEDIUM,22.0,1,True,Ferrari,True,1.0,29.693,37.988,25.438,,False,False,9094.223,10,British Grand Prix
+LEC,24.0,93.055,2.0,MEDIUM,23.0,1,True,Ferrari,True,1.0,29.699,37.752,25.604,,False,False,9187.278,10,British Grand Prix
+LEC,25.0,92.501,2.0,MEDIUM,24.0,1,False,Ferrari,True,1.0,29.668,38.003,24.83,,True,False,9279.779,10,British Grand Prix
+LEC,26.0,114.148,3.0,HARD,1.0,1,False,Ferrari,True,3.0,50.724,37.845,25.579,,False,True,9393.927,10,British Grand Prix
+LEC,27.0,92.06,3.0,HARD,2.0,1,True,Ferrari,True,3.0,29.305,37.394,25.361,,False,False,9485.987,10,British Grand Prix
+LEC,28.0,92.021,3.0,HARD,3.0,1,True,Ferrari,True,3.0,29.415,37.361,25.245,,False,False,9578.008,10,British Grand Prix
+LEC,29.0,92.302,3.0,HARD,4.0,1,True,Ferrari,True,3.0,29.395,37.838,25.069,,False,False,9670.31,10,British Grand Prix
+LEC,30.0,92.403,3.0,HARD,5.0,1,True,Ferrari,True,3.0,29.242,37.845,25.316,,False,False,9762.713,10,British Grand Prix
+LEC,31.0,92.325,3.0,HARD,6.0,1,True,Ferrari,True,2.0,29.542,37.568,25.215,,False,False,9855.038,10,British Grand Prix
+LEC,32.0,91.837,3.0,HARD,7.0,1,True,Ferrari,True,2.0,29.45,37.216,25.171,,False,False,9946.875,10,British Grand Prix
+LEC,33.0,91.976,3.0,HARD,8.0,1,True,Ferrari,True,2.0,29.467,37.288,25.221,,False,False,10038.851,10,British Grand Prix
+LEC,34.0,92.124,3.0,HARD,9.0,1,True,Ferrari,True,1.0,29.454,37.419,25.251,,False,False,10130.975,10,British Grand Prix
+LEC,35.0,91.774,3.0,HARD,10.0,1,True,Ferrari,True,1.0,29.403,37.176,25.195,,False,False,10222.749,10,British Grand Prix
+LEC,36.0,91.692,3.0,HARD,11.0,1,True,Ferrari,True,1.0,29.411,37.129,25.152,,False,False,10314.441,10,British Grand Prix
+LEC,37.0,91.613,3.0,HARD,12.0,1,True,Ferrari,True,1.0,29.47,37.029,25.114,,False,False,10406.054,10,British Grand Prix
+LEC,38.0,91.347,3.0,HARD,13.0,1,True,Ferrari,True,1.0,29.375,36.876,25.096,,False,False,10497.401,10,British Grand Prix
+LEC,39.0,102.891,3.0,HARD,14.0,124,False,Ferrari,True,2.0,29.574,37.048,36.269,,False,False,10600.292,10,British Grand Prix
+LEC,40.0,165.241,3.0,HARD,15.0,4,False,Ferrari,True,1.0,47.521,74.524,43.196,,False,False,10765.533,10,British Grand Prix
+LEC,41.0,167.221,3.0,HARD,16.0,4,False,Ferrari,True,1.0,52.132,70.534,44.555,,False,False,10932.754,10,British Grand Prix
+LEC,42.0,161.053,3.0,HARD,17.0,41,False,Ferrari,True,1.0,48.697,64.116,48.24,,False,False,11093.807,10,British Grand Prix
+LEC,43.0,92.617,3.0,HARD,18.0,1,True,Ferrari,True,2.0,29.597,37.727,25.293,,False,False,11186.424,10,British Grand Prix
+LEC,44.0,91.893,3.0,HARD,19.0,1,True,Ferrari,True,2.0,29.444,37.122,25.327,,False,False,11278.317,10,British Grand Prix
+LEC,45.0,93.088,3.0,HARD,20.0,1,True,Ferrari,True,4.0,29.409,37.127,26.552,,False,False,11371.405,10,British Grand Prix
+LEC,46.0,92.022,3.0,HARD,21.0,1,True,Ferrari,True,3.0,29.617,37.476,24.929,,False,False,11463.427,10,British Grand Prix
+LEC,47.0,92.048,3.0,HARD,22.0,1,True,Ferrari,True,3.0,29.191,37.29,25.567,,False,False,11555.475,10,British Grand Prix
+LEC,48.0,93.143,3.0,HARD,23.0,1,True,Ferrari,True,4.0,29.419,37.731,25.993,,False,False,11648.618,10,British Grand Prix
+LEC,49.0,91.724,3.0,HARD,24.0,1,True,Ferrari,True,4.0,29.427,37.159,25.138,,False,False,11740.342,10,British Grand Prix
+LEC,50.0,91.747,3.0,HARD,25.0,1,True,Ferrari,True,4.0,29.511,37.062,25.174,,False,False,11832.089,10,British Grand Prix
+LEC,51.0,91.77,3.0,HARD,26.0,1,True,Ferrari,True,4.0,29.485,37.019,25.266,,False,False,11923.859,10,British Grand Prix
+LEC,52.0,91.282,3.0,HARD,27.0,1,True,Ferrari,True,4.0,29.292,36.963,25.027,,False,False,12015.141,10,British Grand Prix
+STR,1.0,176.549,1.0,MEDIUM,3.0,125,False,Aston Martin,False,14.0,,58.763,48.936,,True,False,3912.923,10,British Grand Prix
+STR,2.0,,2.0,MEDIUM,3.0,1,False,Aston Martin,False,17.0,,,,,False,True,7115.934,10,British Grand Prix
+STR,3.0,115.88,2.0,MEDIUM,4.0,1,True,Aston Martin,False,16.0,46.834,42.015,27.031,,False,False,7231.814,10,British Grand Prix
+STR,4.0,98.189,2.0,MEDIUM,5.0,1,True,Aston Martin,False,17.0,30.555,41.082,26.552,,False,False,7330.003,10,British Grand Prix
+STR,5.0,96.284,2.0,MEDIUM,6.0,1,True,Aston Martin,False,17.0,30.197,39.819,26.268,,False,False,7426.287,10,British Grand Prix
+STR,6.0,95.761,2.0,MEDIUM,7.0,1,True,Aston Martin,False,16.0,29.979,39.534,26.248,,False,False,7522.048,10,British Grand Prix
+STR,7.0,95.666,2.0,MEDIUM,8.0,1,True,Aston Martin,False,15.0,30.175,39.276,26.215,,False,False,7617.714,10,British Grand Prix
+STR,8.0,95.64,2.0,MEDIUM,9.0,1,True,Aston Martin,False,15.0,30.111,39.324,26.205,,False,False,7713.354,10,British Grand Prix
+STR,9.0,96.032,2.0,MEDIUM,10.0,1,True,Aston Martin,False,15.0,30.222,39.471,26.339,,False,False,7809.386,10,British Grand Prix
+STR,10.0,95.766,2.0,MEDIUM,11.0,1,True,Aston Martin,False,15.0,30.289,39.436,26.041,,False,False,7905.152,10,British Grand Prix
+STR,11.0,96.768,2.0,MEDIUM,12.0,12,True,Aston Martin,False,14.0,30.293,39.974,26.501,,False,False,8001.92,10,British Grand Prix
+STR,12.0,96.001,2.0,MEDIUM,13.0,1,True,Aston Martin,False,14.0,30.148,39.688,26.165,,False,False,8097.921,10,British Grand Prix
+STR,13.0,95.464,2.0,MEDIUM,14.0,1,True,Aston Martin,False,14.0,29.994,39.381,26.089,,False,False,8193.385,10,British Grand Prix
+STR,14.0,95.466,2.0,MEDIUM,15.0,1,True,Aston Martin,False,14.0,30.126,39.446,25.894,,False,False,8288.851,10,British Grand Prix
+STR,15.0,95.004,2.0,MEDIUM,16.0,1,False,Aston Martin,False,14.0,29.986,39.371,25.647,,True,False,8383.855,10,British Grand Prix
+STR,16.0,118.262,3.0,HARD,2.0,1,False,Aston Martin,False,17.0,52.095,39.969,26.198,,False,True,8502.117,10,British Grand Prix
+STR,17.0,95.948,3.0,HARD,3.0,1,True,Aston Martin,False,17.0,30.09,39.686,26.172,,False,False,8598.065,10,British Grand Prix
+STR,18.0,94.833,3.0,HARD,4.0,1,True,Aston Martin,False,17.0,29.796,39.069,25.968,,False,False,8692.898,10,British Grand Prix
+STR,19.0,94.695,3.0,HARD,5.0,1,True,Aston Martin,False,16.0,29.875,38.898,25.922,,False,False,8787.593,10,British Grand Prix
+STR,20.0,95.203,3.0,HARD,6.0,1,True,Aston Martin,False,16.0,29.993,39.197,26.013,,False,False,8882.796,10,British Grand Prix
+STR,21.0,94.946,3.0,HARD,7.0,1,True,Aston Martin,False,15.0,29.912,39.006,26.028,,False,False,8977.742,10,British Grand Prix
+STR,22.0,94.844,3.0,HARD,8.0,1,True,Aston Martin,False,15.0,29.755,39.146,25.943,,False,False,9072.586,10,British Grand Prix
+STR,23.0,94.707,3.0,HARD,9.0,1,True,Aston Martin,False,15.0,29.76,38.918,26.029,,False,False,9167.293,10,British Grand Prix
+STR,24.0,94.718,3.0,HARD,10.0,1,True,Aston Martin,False,15.0,29.777,38.913,26.028,,False,False,9262.011,10,British Grand Prix
+STR,25.0,95.143,3.0,HARD,11.0,1,True,Aston Martin,False,15.0,29.733,39.334,26.076,,False,False,9357.154,10,British Grand Prix
+STR,26.0,94.844,3.0,HARD,12.0,1,True,Aston Martin,False,15.0,29.785,39.07,25.989,,False,False,9451.998,10,British Grand Prix
+STR,27.0,94.572,3.0,HARD,13.0,1,True,Aston Martin,False,14.0,30.239,38.499,25.834,,False,False,9546.57,10,British Grand Prix
+STR,28.0,94.526,3.0,HARD,14.0,1,True,Aston Martin,False,14.0,30.067,38.6,25.859,,False,False,9641.096,10,British Grand Prix
+STR,29.0,94.133,3.0,HARD,15.0,1,True,Aston Martin,False,14.0,29.844,38.465,25.824,,False,False,9735.229,10,British Grand Prix
+STR,30.0,94.373,3.0,HARD,16.0,1,True,Aston Martin,False,14.0,29.973,38.507,25.893,,False,False,9829.602,10,British Grand Prix
+STR,31.0,94.016,3.0,HARD,17.0,1,True,Aston Martin,False,14.0,29.852,38.434,25.73,,False,False,9923.618,10,British Grand Prix
+STR,32.0,95.116,3.0,HARD,18.0,1,True,Aston Martin,False,14.0,29.936,38.665,26.515,,False,False,10018.734,10,British Grand Prix
+STR,33.0,94.252,3.0,HARD,19.0,1,True,Aston Martin,False,13.0,29.853,38.525,25.874,,False,False,10112.986,10,British Grand Prix
+STR,34.0,93.781,3.0,HARD,20.0,1,True,Aston Martin,False,13.0,29.773,38.311,25.697,,False,False,10206.767,10,British Grand Prix
+STR,35.0,93.748,3.0,HARD,21.0,1,True,Aston Martin,False,13.0,29.802,38.175,25.771,,False,False,10300.515,10,British Grand Prix
+STR,36.0,93.788,3.0,HARD,22.0,1,True,Aston Martin,False,13.0,29.708,38.363,25.717,,False,False,10394.303,10,British Grand Prix
+STR,37.0,93.722,3.0,HARD,23.0,1,True,Aston Martin,False,13.0,29.686,38.262,25.774,,False,False,10488.025,10,British Grand Prix
+STR,38.0,99.54,3.0,HARD,24.0,124,False,Aston Martin,False,12.0,29.648,38.551,31.341,,False,False,10587.565,10,British Grand Prix
+STR,39.0,126.48,3.0,HARD,25.0,4,False,Aston Martin,False,12.0,41.977,54.188,30.315,,False,False,10714.045,10,British Grand Prix
+STR,40.0,125.554,3.0,HARD,26.0,4,False,Aston Martin,False,9.0,42.648,51.583,31.323,,True,False,10839.599,10,British Grand Prix
+STR,41.0,123.087,4.0,MEDIUM,4.0,4,False,Aston Martin,False,12.0,52.681,42.388,28.018,,False,True,10962.686,10,British Grand Prix
+STR,42.0,136.621,4.0,MEDIUM,5.0,41,False,Aston Martin,False,12.0,36.523,59.624,40.474,,False,False,11099.307,10,British Grand Prix
+STR,43.0,94.564,4.0,MEDIUM,6.0,1,True,Aston Martin,False,12.0,30.021,38.671,25.872,,False,False,11193.871,10,British Grand Prix
+STR,44.0,93.775,4.0,MEDIUM,7.0,1,True,Aston Martin,False,12.0,29.602,38.414,25.759,,False,False,11287.646,10,British Grand Prix
+STR,45.0,93.213,4.0,MEDIUM,8.0,1,True,Aston Martin,False,12.0,29.354,38.34,25.519,,False,False,11380.859,10,British Grand Prix
+STR,46.0,93.461,4.0,MEDIUM,9.0,1,True,Aston Martin,False,12.0,29.427,38.41,25.624,,False,False,11474.32,10,British Grand Prix
+STR,47.0,93.495,4.0,MEDIUM,10.0,1,True,Aston Martin,False,12.0,29.553,38.229,25.713,,False,False,11567.815,10,British Grand Prix
+STR,48.0,93.196,4.0,MEDIUM,11.0,1,True,Aston Martin,False,12.0,29.669,38.115,25.412,,False,False,11661.011,10,British Grand Prix
+STR,49.0,94.124,4.0,MEDIUM,12.0,1,True,Aston Martin,False,11.0,30.411,38.052,25.661,,False,False,11755.135,10,British Grand Prix
+STR,50.0,92.812,4.0,MEDIUM,13.0,1,True,Aston Martin,False,11.0,29.705,37.498,25.609,,False,False,11847.947,10,British Grand Prix
+STR,51.0,92.416,4.0,MEDIUM,14.0,1,True,Aston Martin,False,11.0,29.599,37.498,25.319,,False,False,11940.363,10,British Grand Prix
+STR,52.0,92.379,4.0,MEDIUM,15.0,1,True,Aston Martin,False,11.0,29.506,37.569,25.304,,False,False,12032.742,10,British Grand Prix
+MAG,1.0,171.32,1.0,SOFT,1.0,125,False,Haas F1 Team,True,12.0,,60.1,45.525,,True,False,3907.702,10,British Grand Prix
+MAG,2.0,,2.0,MEDIUM,3.0,1,False,Haas F1 Team,False,14.0,,57.633,53.826,,False,True,7105.527,10,British Grand Prix
+MAG,3.0,125.703,2.0,MEDIUM,4.0,1,True,Haas F1 Team,False,15.0,56.971,41.841,26.891,,False,False,7231.23,10,British Grand Prix
+MAG,4.0,97.784,2.0,MEDIUM,5.0,1,True,Haas F1 Team,False,15.0,30.835,40.208,26.741,,False,False,7329.014,10,British Grand Prix
+MAG,5.0,95.935,2.0,MEDIUM,6.0,1,True,Haas F1 Team,False,15.0,30.308,39.551,26.076,,False,False,7424.949,10,British Grand Prix
+MAG,6.0,95.549,2.0,MEDIUM,7.0,1,True,Haas F1 Team,False,14.0,30.207,39.395,25.947,,False,False,7520.498,10,British Grand Prix
+MAG,7.0,95.242,2.0,MEDIUM,8.0,1,True,Haas F1 Team,False,13.0,30.378,38.872,25.992,,False,False,7615.74,10,British Grand Prix
+MAG,8.0,95.611,2.0,MEDIUM,9.0,1,True,Haas F1 Team,False,13.0,30.133,39.449,26.029,,False,False,7711.351,10,British Grand Prix
+MAG,9.0,95.443,2.0,MEDIUM,10.0,1,True,Haas F1 Team,False,13.0,30.181,39.35,25.912,,False,False,7806.794,10,British Grand Prix
+MAG,10.0,95.541,2.0,MEDIUM,11.0,1,True,Haas F1 Team,False,13.0,30.178,39.38,25.983,,False,False,7902.335,10,British Grand Prix
+MAG,11.0,95.521,2.0,MEDIUM,12.0,12,True,Haas F1 Team,False,11.0,30.198,39.243,26.08,,False,False,7997.856,10,British Grand Prix
+MAG,12.0,95.422,2.0,MEDIUM,13.0,1,True,Haas F1 Team,False,11.0,30.13,39.278,26.014,,False,False,8093.278,10,British Grand Prix
+MAG,13.0,95.403,2.0,MEDIUM,14.0,1,True,Haas F1 Team,False,11.0,30.132,39.445,25.826,,False,False,8188.681,10,British Grand Prix
+MAG,14.0,95.258,2.0,MEDIUM,15.0,1,True,Haas F1 Team,False,11.0,30.18,39.281,25.797,,False,False,8283.939,10,British Grand Prix
+MAG,15.0,96.592,2.0,MEDIUM,16.0,1,True,Haas F1 Team,False,12.0,30.154,40.387,26.051,,False,False,8380.531,10,British Grand Prix
+MAG,16.0,95.065,2.0,MEDIUM,17.0,1,True,Haas F1 Team,False,12.0,30.162,39.062,25.841,,False,False,8475.596,10,British Grand Prix
+MAG,17.0,95.848,2.0,MEDIUM,18.0,1,True,Haas F1 Team,False,12.0,30.361,39.172,26.315,,False,False,8571.444,10,British Grand Prix
+MAG,18.0,95.869,2.0,MEDIUM,19.0,1,True,Haas F1 Team,False,13.0,30.259,38.946,26.664,,False,False,8667.313,10,British Grand Prix
+MAG,19.0,94.995,2.0,MEDIUM,20.0,1,True,Haas F1 Team,False,13.0,30.137,39.025,25.833,,False,False,8762.308,10,British Grand Prix
+MAG,20.0,95.311,2.0,MEDIUM,21.0,1,True,Haas F1 Team,False,10.0,30.417,39.215,25.679,,False,False,8857.619,10,British Grand Prix
+MAG,21.0,94.946,2.0,MEDIUM,22.0,1,True,Haas F1 Team,False,9.0,30.273,38.749,25.924,,False,False,8952.565,10,British Grand Prix
+MAG,22.0,94.249,2.0,MEDIUM,23.0,1,False,Haas F1 Team,False,9.0,30.175,38.607,25.467,,True,False,9046.814,10,British Grand Prix
+MAG,23.0,115.203,3.0,MEDIUM,1.0,1,False,Haas F1 Team,True,12.0,51.071,38.394,25.738,,False,True,9162.017,10,British Grand Prix
+MAG,24.0,94.578,3.0,MEDIUM,2.0,1,True,Haas F1 Team,True,12.0,30.125,38.509,25.944,,False,False,9256.595,10,British Grand Prix
+MAG,25.0,94.198,3.0,MEDIUM,3.0,1,True,Haas F1 Team,True,12.0,30.081,38.347,25.77,,False,False,9350.793,10,British Grand Prix
+MAG,26.0,93.675,3.0,MEDIUM,4.0,1,True,Haas F1 Team,True,12.0,29.77,38.353,25.552,,False,False,9444.468,10,British Grand Prix
+MAG,27.0,94.128,3.0,MEDIUM,5.0,1,True,Haas F1 Team,True,12.0,29.877,38.483,25.768,,False,False,9538.596,10,British Grand Prix
+MAG,28.0,94.36,3.0,MEDIUM,6.0,1,True,Haas F1 Team,True,12.0,29.914,38.747,25.699,,False,False,9632.956,10,British Grand Prix
+MAG,29.0,95.138,3.0,MEDIUM,7.0,1,True,Haas F1 Team,True,12.0,29.898,39.455,25.785,,False,False,9728.094,10,British Grand Prix
+MAG,30.0,95.006,3.0,MEDIUM,8.0,1,True,Haas F1 Team,True,12.0,30.059,39.175,25.772,,False,False,9823.1,10,British Grand Prix
+MAG,31.0,94.362,3.0,MEDIUM,9.0,1,True,Haas F1 Team,True,12.0,29.774,38.942,25.646,,False,False,9917.462,10,British Grand Prix
+MAG,32.0,95.215,3.0,MEDIUM,10.0,1,True,Haas F1 Team,True,12.0,29.847,39.34,26.028,,False,False,10012.677,10,British Grand Prix
+MAG,33.0,94.159,3.0,MEDIUM,11.0,1,True,Haas F1 Team,True,11.0,29.794,38.434,25.931,,False,False,10106.836,10,British Grand Prix
+MAG,34.0,94.438,3.0,MEDIUM,12.0,1,True,Haas F1 Team,True,11.0,30.133,38.425,25.88,,False,False,10201.274,10,British Grand Prix
+MAG,35.0,94.241,3.0,MEDIUM,13.0,1,True,Haas F1 Team,True,11.0,30.038,38.35,25.853,,False,False,10295.515,10,British Grand Prix
+MAG,36.0,93.934,3.0,MEDIUM,14.0,1,True,Haas F1 Team,True,11.0,29.935,38.267,25.732,,False,False,10389.449,10,British Grand Prix
+MAG,37.0,93.525,3.0,MEDIUM,15.0,1,True,Haas F1 Team,True,11.0,29.901,38.005,25.619,,False,False,10482.974,10,British Grand Prix
+MAG,38.0,96.941,3.0,MEDIUM,16.0,124,False,Haas F1 Team,True,10.0,30.001,37.998,28.942,,False,False,10579.915,10,British Grand Prix
+MAG,39.0,128.698,3.0,MEDIUM,17.0,4,False,Haas F1 Team,True,10.0,40.38,52.452,35.866,,False,False,10708.613,10,British Grand Prix
+MAG,40.0,125.3,3.0,MEDIUM,18.0,4,False,Haas F1 Team,True,8.0,40.81,52.796,31.694,,False,False,10833.913,10,British Grand Prix
+MAG,41.0,108.83,3.0,MEDIUM,19.0,4,False,Haas F1 Team,True,8.0,31.747,40.222,36.861,,False,False,10942.743,10,British Grand Prix
+MAG,42.0,154.356,3.0,MEDIUM,20.0,41,False,Haas F1 Team,True,8.0,51.817,59.262,43.277,,False,False,11097.099,10,British Grand Prix
+MAG,43.0,95.475,3.0,MEDIUM,21.0,1,True,Haas F1 Team,True,10.0,29.873,39.647,25.955,,False,False,11192.574,10,British Grand Prix
+MAG,44.0,93.692,3.0,MEDIUM,22.0,1,True,Haas F1 Team,True,10.0,29.932,38.094,25.666,,False,False,11286.266,10,British Grand Prix
+MAG,45.0,93.407,3.0,MEDIUM,23.0,1,True,Haas F1 Team,True,10.0,29.879,38.008,25.52,,False,False,11379.673,10,British Grand Prix
+MAG,46.0,93.301,3.0,MEDIUM,24.0,1,True,Haas F1 Team,True,10.0,29.812,38.057,25.432,,False,False,11472.974,10,British Grand Prix
+MAG,47.0,93.478,3.0,MEDIUM,25.0,1,True,Haas F1 Team,True,10.0,29.899,38.178,25.401,,False,False,11566.452,10,British Grand Prix
+MAG,48.0,93.309,3.0,MEDIUM,26.0,1,True,Haas F1 Team,True,10.0,29.875,37.91,25.524,,False,False,11659.761,10,British Grand Prix
+MAG,49.0,92.813,3.0,MEDIUM,27.0,1,True,Haas F1 Team,True,10.0,29.749,37.6,25.464,,False,False,11752.574,10,British Grand Prix
+MAG,50.0,93.123,3.0,MEDIUM,28.0,1,True,Haas F1 Team,True,10.0,29.822,37.777,25.524,,False,False,11845.697,10,British Grand Prix
+MAG,51.0,92.827,3.0,MEDIUM,29.0,1,True,Haas F1 Team,True,10.0,29.799,37.673,25.355,,False,False,11938.524,10,British Grand Prix
+MAG,52.0,92.661,3.0,MEDIUM,30.0,1,True,Haas F1 Team,True,10.0,29.697,37.691,25.273,,False,False,12031.185,10,British Grand Prix
+TSU,1.0,215.85,1.0,MEDIUM,1.0,125,False,AlphaTauri,True,16.0,,77.267,53.671,,True,False,3952.289,10,British Grand Prix
+TSU,2.0,,2.0,SOFT,1.0,1,False,AlphaTauri,True,11.0,,61.453,53.792,,False,True,7100.543,10,British Grand Prix
+TSU,3.0,128.425,2.0,SOFT,2.0,1,True,AlphaTauri,True,9.0,60.519,41.133,26.773,,False,False,7228.968,10,British Grand Prix
+TSU,4.0,96.822,2.0,SOFT,3.0,1,True,AlphaTauri,True,9.0,30.413,39.853,26.556,,False,False,7325.79,10,British Grand Prix
+TSU,5.0,95.745,2.0,SOFT,4.0,1,True,AlphaTauri,True,9.0,29.962,39.316,26.467,,False,False,7421.535,10,British Grand Prix
+TSU,6.0,95.483,2.0,SOFT,5.0,1,True,AlphaTauri,True,8.0,30.058,39.275,26.15,,False,False,7517.018,10,British Grand Prix
+TSU,7.0,95.573,2.0,SOFT,6.0,1,True,AlphaTauri,True,8.0,30.106,39.277,26.19,,False,False,7612.591,10,British Grand Prix
+TSU,8.0,95.409,2.0,SOFT,7.0,1,True,AlphaTauri,True,8.0,29.959,39.065,26.385,,False,False,7708.0,10,British Grand Prix
+TSU,9.0,95.766,2.0,SOFT,8.0,1,True,AlphaTauri,True,8.0,30.291,39.165,26.31,,False,False,7803.766,10,British Grand Prix
+TSU,10.0,95.616,2.0,SOFT,9.0,1,True,AlphaTauri,True,8.0,29.99,38.843,26.783,,False,False,7899.382,10,British Grand Prix
+TSU,11.0,105.425,2.0,SOFT,10.0,12,True,AlphaTauri,True,15.0,38.303,40.257,26.865,,False,False,8004.807,10,British Grand Prix
+TSU,12.0,96.194,2.0,SOFT,11.0,1,True,AlphaTauri,True,15.0,30.345,39.3,26.549,,False,False,8101.001,10,British Grand Prix
+TSU,13.0,96.659,2.0,SOFT,12.0,1,True,AlphaTauri,True,16.0,30.46,39.241,26.958,,False,False,8197.66,10,British Grand Prix
+TSU,14.0,96.235,2.0,SOFT,13.0,1,True,AlphaTauri,True,16.0,30.328,39.406,26.501,,False,False,8293.895,10,British Grand Prix
+TSU,15.0,96.207,2.0,SOFT,14.0,1,True,AlphaTauri,True,16.0,30.319,39.445,26.443,,False,False,8390.102,10,British Grand Prix
+TSU,16.0,96.092,2.0,SOFT,15.0,1,True,AlphaTauri,True,15.0,30.325,39.319,26.448,,False,False,8486.194,10,British Grand Prix
+TSU,17.0,96.0,2.0,SOFT,16.0,1,True,AlphaTauri,True,14.0,30.303,39.248,26.449,,False,False,8582.194,10,British Grand Prix
+TSU,18.0,95.184,2.0,SOFT,17.0,1,False,AlphaTauri,True,14.0,30.322,39.296,25.566,,True,False,8677.378,10,British Grand Prix
+TSU,19.0,124.461,3.0,HARD,2.0,1,False,AlphaTauri,False,17.0,57.57,40.179,26.712,,False,True,8801.839,10,British Grand Prix
+TSU,20.0,96.232,3.0,HARD,3.0,1,True,AlphaTauri,False,17.0,30.379,39.426,26.427,,False,False,8898.071,10,British Grand Prix
+TSU,21.0,95.537,3.0,HARD,4.0,1,True,AlphaTauri,False,16.0,30.145,39.129,26.263,,False,False,8993.608,10,British Grand Prix
+TSU,22.0,95.713,3.0,HARD,5.0,1,True,AlphaTauri,False,16.0,30.187,39.322,26.204,,False,False,9089.321,10,British Grand Prix
+TSU,23.0,95.438,3.0,HARD,6.0,1,True,AlphaTauri,False,16.0,29.981,39.202,26.255,,False,False,9184.759,10,British Grand Prix
+TSU,24.0,97.998,3.0,HARD,7.0,1,True,AlphaTauri,False,16.0,30.189,39.216,28.593,,False,False,9282.757,10,British Grand Prix
+TSU,25.0,95.841,3.0,HARD,8.0,1,True,AlphaTauri,False,16.0,30.338,39.146,26.357,,False,False,9378.598,10,British Grand Prix
+TSU,26.0,95.442,3.0,HARD,9.0,1,True,AlphaTauri,False,16.0,30.262,39.031,26.149,,False,False,9474.04,10,British Grand Prix
+TSU,27.0,95.505,3.0,HARD,10.0,1,True,AlphaTauri,False,15.0,30.388,39.005,26.112,,False,False,9569.545,10,British Grand Prix
+TSU,28.0,95.545,3.0,HARD,11.0,1,True,AlphaTauri,False,15.0,30.2,39.182,26.163,,False,False,9665.09,10,British Grand Prix
+TSU,29.0,95.62,3.0,HARD,12.0,1,True,AlphaTauri,False,15.0,30.214,39.144,26.262,,False,False,9760.71,10,British Grand Prix
+TSU,30.0,98.388,3.0,HARD,13.0,1,True,AlphaTauri,False,15.0,30.241,41.737,26.41,,False,False,9859.098,10,British Grand Prix
+TSU,31.0,95.505,3.0,HARD,14.0,1,True,AlphaTauri,False,15.0,30.309,39.128,26.068,,False,False,9954.603,10,British Grand Prix
+TSU,32.0,95.705,3.0,HARD,15.0,1,True,AlphaTauri,False,15.0,30.289,39.19,26.226,,False,False,10050.308,10,British Grand Prix
+TSU,33.0,95.196,3.0,HARD,16.0,1,True,AlphaTauri,False,15.0,30.078,38.984,26.134,,False,False,10145.504,10,British Grand Prix
+TSU,34.0,95.12,3.0,HARD,17.0,1,True,AlphaTauri,False,15.0,30.016,38.979,26.125,,False,False,10240.624,10,British Grand Prix
+TSU,35.0,94.797,3.0,HARD,18.0,1,True,AlphaTauri,False,15.0,30.057,38.7,26.04,,False,False,10335.421,10,British Grand Prix
+TSU,36.0,94.607,3.0,HARD,19.0,1,True,AlphaTauri,False,15.0,29.983,38.677,25.947,,False,False,10430.028,10,British Grand Prix
+TSU,37.0,94.75,3.0,HARD,20.0,1,True,AlphaTauri,False,15.0,30.033,38.699,26.018,,False,False,10524.778,10,British Grand Prix
+TSU,38.0,110.542,3.0,HARD,21.0,124,False,AlphaTauri,False,14.0,30.743,51.979,27.82,,True,False,10635.32,10,British Grand Prix
+TSU,39.0,143.56,4.0,SOFT,1.0,4,False,AlphaTauri,True,14.0,58.695,54.732,30.133,,False,True,10778.88,10,British Grand Prix
+TSU,40.0,138.882,4.0,SOFT,2.0,4,False,AlphaTauri,True,14.0,45.476,65.348,28.058,,False,False,10917.762,10,British Grand Prix
+TSU,41.0,93.981,4.0,SOFT,3.0,4,False,AlphaTauri,True,14.0,29.756,38.383,25.842,,False,False,11011.743,10,British Grand Prix
+TSU,42.0,93.965,4.0,SOFT,4.0,41,False,AlphaTauri,True,14.0,29.631,38.418,25.916,,False,False,11105.708,10,British Grand Prix
+TSU,43.0,93.912,4.0,SOFT,5.0,1,True,AlphaTauri,True,14.0,29.596,38.36,25.956,,False,False,11199.62,10,British Grand Prix
+TSU,44.0,94.99,4.0,SOFT,6.0,1,True,AlphaTauri,True,14.0,30.086,38.836,26.068,,False,False,11294.61,10,British Grand Prix
+TSU,45.0,94.488,4.0,SOFT,7.0,1,True,AlphaTauri,True,14.0,29.931,38.649,25.908,,False,False,11389.098,10,British Grand Prix
+TSU,46.0,94.144,4.0,SOFT,8.0,1,True,AlphaTauri,True,14.0,29.791,38.518,25.835,,False,False,11483.242,10,British Grand Prix
+TSU,47.0,94.132,4.0,SOFT,9.0,1,True,AlphaTauri,True,14.0,29.755,38.534,25.843,,False,False,11577.374,10,British Grand Prix
+TSU,48.0,93.947,4.0,SOFT,10.0,1,True,AlphaTauri,True,14.0,29.801,38.33,25.816,,False,False,11671.321,10,British Grand Prix
+TSU,49.0,94.072,4.0,SOFT,11.0,1,True,AlphaTauri,True,14.0,29.778,38.504,25.79,,False,False,11765.393,10,British Grand Prix
+TSU,50.0,94.191,4.0,SOFT,12.0,1,True,AlphaTauri,True,14.0,29.886,38.418,25.887,,False,False,11859.584,10,British Grand Prix
+TSU,51.0,93.832,4.0,SOFT,13.0,1,True,AlphaTauri,True,14.0,29.719,38.378,25.735,,False,False,11953.416,10,British Grand Prix
+TSU,52.0,94.089,4.0,SOFT,14.0,1,True,AlphaTauri,True,14.0,29.836,38.355,25.898,,False,False,12047.505,10,British Grand Prix
+ALB,1.0,,1.0,SOFT,1.0,125,False,Williams,True,,,,,,False,False,3878.35,10,British Grand Prix
+ZHO,1.0,,1.0,MEDIUM,1.0,125,False,Alfa Romeo,True,,,,,,False,False,3878.35,10,British Grand Prix
+RIC,1.0,166.878,1.0,MEDIUM,1.0,125,False,McLaren,True,10.0,,60.73,42.804,,True,False,3903.28,10,British Grand Prix
+RIC,2.0,,2.0,MEDIUM,2.0,1,False,McLaren,False,12.0,,59.683,52.989,,False,True,7101.162,10,British Grand Prix
+RIC,3.0,128.846,2.0,MEDIUM,3.0,1,True,McLaren,False,12.0,60.761,41.039,27.046,,False,False,7230.008,10,British Grand Prix
+RIC,4.0,97.878,2.0,MEDIUM,4.0,1,True,McLaren,False,13.0,31.174,40.139,26.565,,False,False,7327.886,10,British Grand Prix
+RIC,5.0,95.865,2.0,MEDIUM,5.0,1,True,McLaren,False,13.0,30.238,39.464,26.163,,False,False,7423.751,10,British Grand Prix
+RIC,6.0,95.642,2.0,MEDIUM,6.0,1,True,McLaren,False,13.0,30.164,39.32,26.158,,False,False,7519.393,10,British Grand Prix
+RIC,7.0,95.66,2.0,MEDIUM,7.0,1,True,McLaren,False,12.0,30.318,39.391,25.951,,False,False,7615.053,10,British Grand Prix
+RIC,8.0,95.802,2.0,MEDIUM,8.0,1,True,McLaren,False,12.0,30.265,39.41,26.127,,False,False,7710.855,10,British Grand Prix
+RIC,9.0,95.37,2.0,MEDIUM,9.0,1,True,McLaren,False,12.0,30.143,39.336,25.891,,False,False,7806.225,10,British Grand Prix
+RIC,10.0,95.509,2.0,MEDIUM,10.0,1,True,McLaren,False,12.0,30.231,39.295,25.983,,False,False,7901.734,10,British Grand Prix
+RIC,11.0,95.713,2.0,MEDIUM,11.0,12,True,McLaren,False,10.0,30.261,39.404,26.048,,False,False,7997.447,10,British Grand Prix
+RIC,12.0,95.367,2.0,MEDIUM,12.0,1,True,McLaren,False,10.0,30.077,39.332,25.958,,False,False,8092.814,10,British Grand Prix
+RIC,13.0,95.247,2.0,MEDIUM,13.0,1,True,McLaren,False,10.0,30.203,39.164,25.88,,False,False,8188.061,10,British Grand Prix
+RIC,14.0,95.289,2.0,MEDIUM,14.0,1,True,McLaren,False,10.0,30.148,39.266,25.875,,False,False,8283.35,10,British Grand Prix
+RIC,15.0,95.303,2.0,MEDIUM,15.0,1,True,McLaren,False,10.0,30.135,39.212,25.956,,False,False,8378.653,10,British Grand Prix
+RIC,16.0,95.571,2.0,MEDIUM,16.0,1,True,McLaren,False,10.0,30.145,39.249,26.177,,False,False,8474.224,10,British Grand Prix
+RIC,17.0,95.289,2.0,MEDIUM,17.0,1,True,McLaren,False,10.0,30.015,39.273,26.001,,False,False,8569.513,10,British Grand Prix
+RIC,18.0,95.56,2.0,MEDIUM,18.0,1,True,McLaren,False,10.0,30.022,39.359,26.179,,False,False,8665.073,10,British Grand Prix
+RIC,19.0,95.239,2.0,MEDIUM,19.0,1,True,McLaren,False,11.0,30.165,39.143,25.931,,False,False,8760.312,10,British Grand Prix
+RIC,20.0,95.067,2.0,MEDIUM,20.0,1,False,McLaren,False,9.0,30.227,38.9,25.94,,True,False,8855.379,10,British Grand Prix
+RIC,21.0,118.339,3.0,HARD,1.0,1,False,McLaren,True,13.0,52.77,39.47,26.099,,False,True,8973.718,10,British Grand Prix
+RIC,22.0,94.393,3.0,HARD,2.0,1,True,McLaren,True,13.0,30.094,38.484,25.815,,False,False,9068.111,10,British Grand Prix
+RIC,23.0,94.648,3.0,HARD,3.0,1,True,McLaren,True,13.0,29.854,38.881,25.913,,False,False,9162.759,10,British Grand Prix
+RIC,24.0,94.581,3.0,HARD,4.0,1,True,McLaren,True,13.0,30.019,38.532,26.03,,False,False,9257.34,10,British Grand Prix
+RIC,25.0,94.365,3.0,HARD,5.0,1,True,McLaren,True,13.0,30.019,38.581,25.765,,False,False,9351.705,10,British Grand Prix
+RIC,26.0,94.178,3.0,HARD,6.0,1,True,McLaren,True,13.0,29.819,38.517,25.842,,False,False,9445.883,10,British Grand Prix
+RIC,27.0,94.64,3.0,HARD,7.0,1,True,McLaren,True,13.0,30.117,38.693,25.83,,False,False,9540.523,10,British Grand Prix
+RIC,28.0,94.446,3.0,HARD,8.0,1,True,McLaren,True,13.0,30.082,38.431,25.933,,False,False,9634.969,10,British Grand Prix
+RIC,29.0,94.418,3.0,HARD,9.0,1,True,McLaren,True,13.0,30.107,38.537,25.774,,False,False,9729.387,10,British Grand Prix
+RIC,30.0,94.656,3.0,HARD,10.0,1,True,McLaren,True,13.0,30.194,38.608,25.854,,False,False,9824.043,10,British Grand Prix
+RIC,31.0,94.205,3.0,HARD,11.0,1,True,McLaren,True,13.0,29.991,38.472,25.742,,False,False,9918.248,10,British Grand Prix
+RIC,32.0,99.926,3.0,HARD,12.0,1,False,McLaren,True,13.0,29.956,43.299,26.671,,True,False,10018.174,10,British Grand Prix
+RIC,33.0,116.336,4.0,SOFT,1.0,1,False,McLaren,True,14.0,52.628,38.168,25.54,,False,True,10134.51,10,British Grand Prix
+RIC,34.0,92.644,4.0,SOFT,2.0,1,True,McLaren,True,14.0,29.57,37.633,25.441,,False,False,10227.154,10,British Grand Prix
+RIC,35.0,94.517,4.0,SOFT,3.0,1,True,McLaren,True,14.0,29.82,37.848,26.849,,False,False,10321.671,10,British Grand Prix
+RIC,36.0,92.978,4.0,SOFT,4.0,1,True,McLaren,True,14.0,29.661,37.846,25.471,,False,False,10414.649,10,British Grand Prix
+RIC,37.0,93.122,4.0,SOFT,5.0,1,True,McLaren,True,14.0,29.804,37.815,25.503,,False,False,10507.771,10,British Grand Prix
+RIC,38.0,102.605,4.0,SOFT,6.0,124,False,McLaren,True,13.0,29.952,41.281,31.372,,True,False,10610.376,10,British Grand Prix
+RIC,39.0,159.054,5.0,SOFT,1.0,4,False,McLaren,True,13.0,57.355,59.284,42.415,,False,True,10769.43,10,British Grand Prix
+RIC,40.0,142.255,5.0,SOFT,2.0,4,False,McLaren,True,13.0,52.513,63.832,25.91,,False,False,10911.685,10,British Grand Prix
+RIC,41.0,93.058,5.0,SOFT,3.0,4,False,McLaren,True,13.0,29.653,37.909,25.496,,False,False,11004.743,10,British Grand Prix
+RIC,42.0,94.75,5.0,SOFT,4.0,41,False,McLaren,True,13.0,29.777,37.86,27.113,,False,False,11099.493,10,British Grand Prix
+RIC,43.0,94.706,5.0,SOFT,5.0,1,True,McLaren,True,13.0,30.132,38.763,25.811,,False,False,11194.199,10,British Grand Prix
+RIC,44.0,93.967,5.0,SOFT,6.0,1,True,McLaren,True,13.0,29.964,38.239,25.764,,False,False,11288.166,10,British Grand Prix
+RIC,45.0,93.398,5.0,SOFT,7.0,1,True,McLaren,True,13.0,29.839,38.088,25.471,,False,False,11381.564,10,British Grand Prix
+RIC,46.0,93.419,5.0,SOFT,8.0,1,True,McLaren,True,13.0,29.838,38.034,25.547,,False,False,11474.983,10,British Grand Prix
+RIC,47.0,93.438,5.0,SOFT,9.0,1,True,McLaren,True,13.0,29.729,38.257,25.452,,False,False,11568.421,10,British Grand Prix
+RIC,48.0,93.445,5.0,SOFT,10.0,1,True,McLaren,True,13.0,29.611,38.308,25.526,,False,False,11661.866,10,British Grand Prix
+RIC,49.0,94.159,5.0,SOFT,11.0,1,True,McLaren,True,13.0,29.868,38.505,25.786,,False,False,11756.025,10,British Grand Prix
+RIC,50.0,93.798,5.0,SOFT,12.0,1,True,McLaren,True,13.0,29.787,38.212,25.799,,False,False,11849.823,10,British Grand Prix
+RIC,51.0,94.981,5.0,SOFT,13.0,1,True,McLaren,True,13.0,30.076,38.892,26.013,,False,False,11944.804,10,British Grand Prix
+RIC,52.0,94.608,5.0,SOFT,14.0,1,True,McLaren,True,13.0,29.918,38.823,25.867,,False,False,12039.412,10,British Grand Prix
+OCO,1.0,282.084,1.0,MEDIUM,1.0,125,False,Alpine,True,17.0,,,66.179,,True,False,4018.536,10,British Grand Prix
+OCO,2.0,,2.0,SOFT,1.0,1,False,Alpine,True,13.0,,57.318,54.965,,False,True,7104.313,10,British Grand Prix
+OCO,3.0,125.385,2.0,SOFT,2.0,1,True,Alpine,True,11.0,57.24,41.136,27.009,,False,False,7229.698,10,British Grand Prix
+OCO,4.0,96.513,2.0,SOFT,3.0,1,True,Alpine,True,10.0,30.639,39.349,26.525,,False,False,7326.211,10,British Grand Prix
+OCO,5.0,95.717,2.0,SOFT,4.0,1,True,Alpine,True,10.0,30.152,39.233,26.332,,False,False,7421.928,10,British Grand Prix
+OCO,6.0,95.589,2.0,SOFT,5.0,1,True,Alpine,True,9.0,30.166,39.34,26.083,,False,False,7517.517,10,British Grand Prix
+OCO,7.0,95.631,2.0,SOFT,6.0,1,True,Alpine,True,9.0,30.22,39.268,26.143,,False,False,7613.148,10,British Grand Prix
+OCO,8.0,95.485,2.0,SOFT,7.0,1,True,Alpine,True,9.0,30.155,39.122,26.208,,False,False,7708.633,10,British Grand Prix
+OCO,9.0,95.807,2.0,SOFT,8.0,1,True,Alpine,True,9.0,30.184,39.303,26.32,,False,False,7804.44,10,British Grand Prix
+OCO,10.0,95.291,2.0,SOFT,9.0,1,True,Alpine,True,9.0,30.137,39.016,26.138,,False,False,7899.731,10,British Grand Prix
+OCO,11.0,95.57,2.0,SOFT,10.0,12,True,Alpine,True,7.0,30.444,38.893,26.233,,False,False,7995.301,10,British Grand Prix
+OCO,12.0,95.494,2.0,SOFT,11.0,1,True,Alpine,True,7.0,30.396,38.919,26.179,,False,False,8090.795,10,British Grand Prix
+OCO,13.0,95.426,2.0,SOFT,12.0,1,True,Alpine,True,7.0,30.425,38.856,26.145,,False,False,8186.221,10,British Grand Prix
+OCO,14.0,95.256,2.0,SOFT,13.0,1,True,Alpine,True,7.0,30.369,38.711,26.176,,False,False,8281.477,10,British Grand Prix
+OCO,15.0,95.101,2.0,SOFT,14.0,1,True,Alpine,True,7.0,30.305,38.631,26.165,,False,False,8376.578,10,British Grand Prix
+OCO,16.0,94.995,2.0,SOFT,15.0,1,True,Alpine,True,7.0,30.357,38.584,26.054,,False,False,8471.573,10,British Grand Prix
+OCO,17.0,94.999,2.0,SOFT,16.0,1,True,Alpine,True,7.0,30.326,38.62,26.053,,False,False,8566.572,10,British Grand Prix
+OCO,18.0,94.849,2.0,SOFT,17.0,1,True,Alpine,True,7.0,30.21,38.556,26.083,,False,False,8661.421,10,British Grand Prix
+OCO,19.0,94.996,2.0,SOFT,18.0,1,True,Alpine,True,7.0,30.296,38.584,26.116,,False,False,8756.417,10,British Grand Prix
+OCO,20.0,95.046,2.0,SOFT,19.0,1,True,Alpine,True,7.0,30.396,38.629,26.021,,False,False,8851.463,10,British Grand Prix
+OCO,21.0,95.036,2.0,SOFT,20.0,1,True,Alpine,True,7.0,30.257,38.721,26.058,,False,False,8946.499,10,British Grand Prix
+OCO,22.0,94.779,2.0,SOFT,21.0,1,False,Alpine,True,7.0,30.239,38.633,25.907,,True,False,9041.278,10,British Grand Prix
+OCO,23.0,117.971,3.0,HARD,1.0,1,False,Alpine,True,10.0,52.963,39.113,25.895,,False,True,9159.249,10,British Grand Prix
+OCO,24.0,94.287,3.0,HARD,2.0,1,True,Alpine,True,10.0,29.88,38.414,25.993,,False,False,9253.536,10,British Grand Prix
+OCO,25.0,94.65,3.0,HARD,3.0,1,True,Alpine,True,10.0,30.094,38.549,26.007,,False,False,9348.186,10,British Grand Prix
+OCO,26.0,94.24,3.0,HARD,4.0,1,True,Alpine,True,10.0,29.761,38.62,25.859,,False,False,9442.426,10,British Grand Prix
+OCO,27.0,94.843,3.0,HARD,5.0,1,True,Alpine,True,10.0,29.802,39.008,26.033,,False,False,9537.269,10,British Grand Prix
+OCO,28.0,94.631,3.0,HARD,6.0,1,True,Alpine,True,10.0,29.91,38.842,25.879,,False,False,9631.9,10,British Grand Prix
+OCO,29.0,94.149,3.0,HARD,7.0,1,True,Alpine,True,9.0,29.82,38.449,25.88,,False,False,9726.049,10,British Grand Prix
+OCO,30.0,94.367,3.0,HARD,8.0,1,True,Alpine,True,9.0,30.153,38.318,25.896,,False,False,9820.416,10,British Grand Prix
+OCO,31.0,93.915,3.0,HARD,9.0,1,True,Alpine,True,9.0,29.944,38.111,25.86,,False,False,9914.331,10,British Grand Prix
+OCO,32.0,94.139,3.0,HARD,10.0,1,True,Alpine,True,9.0,30.025,38.204,25.91,,False,False,10008.47,10,British Grand Prix
+OCO,33.0,94.115,3.0,HARD,11.0,1,True,Alpine,True,9.0,29.871,38.374,25.87,,False,False,10102.585,10,British Grand Prix
+OCO,34.0,93.962,3.0,HARD,12.0,1,True,Alpine,True,9.0,29.707,38.472,25.783,,False,False,10196.547,10,British Grand Prix
+OCO,35.0,93.726,3.0,HARD,13.0,1,True,Alpine,True,9.0,29.802,38.133,25.791,,False,False,10290.273,10,British Grand Prix
+OCO,36.0,94.258,3.0,HARD,14.0,1,True,Alpine,True,8.0,29.988,38.649,25.621,,False,False,10384.531,10,British Grand Prix
+OCO,37.0,93.537,3.0,HARD,15.0,1,True,Alpine,True,8.0,29.96,37.876,25.701,,False,False,10478.068,10,British Grand Prix
+OCO,38.0,,3.0,HARD,16.0,124,False,Alpine,True,,,,,,False,False,10628.068,10,British Grand Prix
+NOR,1.0,156.287,1.0,MEDIUM,1.0,125,False,McLaren,True,7.0,,60.473,37.941,,True,False,3892.731,10,British Grand Prix
+NOR,2.0,,2.0,MEDIUM,2.0,1,False,McLaren,False,6.0,,71.727,51.717,,False,True,7087.425,10,British Grand Prix
+NOR,3.0,139.606,2.0,MEDIUM,3.0,1,True,McLaren,False,5.0,72.96,40.255,26.391,,False,False,7227.031,10,British Grand Prix
+NOR,4.0,95.426,2.0,MEDIUM,4.0,1,True,McLaren,False,5.0,30.303,38.848,26.275,,False,False,7322.457,10,British Grand Prix
+NOR,5.0,95.243,2.0,MEDIUM,5.0,1,True,McLaren,False,5.0,30.045,39.141,26.057,,False,False,7417.7,10,British Grand Prix
+NOR,6.0,95.119,2.0,MEDIUM,6.0,1,True,McLaren,False,5.0,30.168,39.169,25.782,,False,False,7512.819,10,British Grand Prix
+NOR,7.0,95.45,2.0,MEDIUM,7.0,1,True,McLaren,False,5.0,30.352,38.904,26.194,,False,False,7608.269,10,British Grand Prix
+NOR,8.0,94.778,2.0,MEDIUM,8.0,1,True,McLaren,False,5.0,30.195,38.64,25.943,,False,False,7703.047,10,British Grand Prix
+NOR,9.0,95.058,2.0,MEDIUM,9.0,1,True,McLaren,False,5.0,30.33,38.597,26.131,,False,False,7798.105,10,British Grand Prix
+NOR,10.0,94.567,2.0,MEDIUM,10.0,1,True,McLaren,False,5.0,30.324,38.419,25.824,,False,False,7892.672,10,British Grand Prix
+NOR,11.0,94.688,2.0,MEDIUM,11.0,12,True,McLaren,False,5.0,30.317,38.493,25.878,,False,False,7987.36,10,British Grand Prix
+NOR,12.0,94.801,2.0,MEDIUM,12.0,1,True,McLaren,False,5.0,30.281,38.649,25.871,,False,False,8082.161,10,British Grand Prix
+NOR,13.0,94.383,2.0,MEDIUM,13.0,1,True,McLaren,False,4.0,30.268,38.346,25.769,,False,False,8176.544,10,British Grand Prix
+NOR,14.0,94.191,2.0,MEDIUM,14.0,1,True,McLaren,False,4.0,30.253,38.225,25.713,,False,False,8270.735,10,British Grand Prix
+NOR,15.0,94.143,2.0,MEDIUM,15.0,1,True,McLaren,False,4.0,30.219,38.197,25.727,,False,False,8364.878,10,British Grand Prix
+NOR,16.0,93.958,2.0,MEDIUM,16.0,1,True,McLaren,False,4.0,30.106,38.18,25.672,,False,False,8458.836,10,British Grand Prix
+NOR,17.0,94.454,2.0,MEDIUM,17.0,1,True,McLaren,False,4.0,30.326,38.356,25.772,,False,False,8553.29,10,British Grand Prix
+NOR,18.0,93.88,2.0,MEDIUM,18.0,1,True,McLaren,False,4.0,30.044,38.173,25.663,,False,False,8647.17,10,British Grand Prix
+NOR,19.0,93.824,2.0,MEDIUM,19.0,1,True,McLaren,False,4.0,30.093,38.099,25.632,,False,False,8740.994,10,British Grand Prix
+NOR,20.0,93.945,2.0,MEDIUM,20.0,1,True,McLaren,False,4.0,30.24,38.115,25.59,,False,False,8834.939,10,British Grand Prix
+NOR,21.0,94.036,2.0,MEDIUM,21.0,1,True,McLaren,False,4.0,30.088,38.42,25.528,,False,False,8928.975,10,British Grand Prix
+NOR,22.0,94.086,2.0,MEDIUM,22.0,1,True,McLaren,False,4.0,30.105,38.252,25.729,,False,False,9023.061,10,British Grand Prix
+NOR,23.0,93.879,2.0,MEDIUM,23.0,1,True,McLaren,False,4.0,30.074,38.192,25.613,,False,False,9116.94,10,British Grand Prix
+NOR,24.0,93.987,2.0,MEDIUM,24.0,1,True,McLaren,False,4.0,30.043,38.303,25.641,,False,False,9210.927,10,British Grand Prix
+NOR,25.0,93.983,2.0,MEDIUM,25.0,1,True,McLaren,False,4.0,30.057,38.316,25.61,,False,False,9304.91,10,British Grand Prix
+NOR,26.0,94.108,2.0,MEDIUM,26.0,1,True,McLaren,False,4.0,30.143,38.257,25.708,,False,False,9399.018,10,British Grand Prix
+NOR,27.0,93.957,2.0,MEDIUM,27.0,1,True,McLaren,False,4.0,30.05,38.176,25.731,,False,False,9492.975,10,British Grand Prix
+NOR,28.0,93.714,2.0,MEDIUM,28.0,1,True,McLaren,False,4.0,30.053,38.086,25.575,,False,False,9586.689,10,British Grand Prix
+NOR,29.0,93.933,2.0,MEDIUM,29.0,1,True,McLaren,False,4.0,30.168,38.06,25.705,,False,False,9680.622,10,British Grand Prix
+NOR,30.0,94.0,2.0,MEDIUM,30.0,1,True,McLaren,False,4.0,30.044,38.321,25.635,,False,False,9774.622,10,British Grand Prix
+NOR,31.0,93.813,2.0,MEDIUM,31.0,1,True,McLaren,False,4.0,30.096,38.113,25.604,,False,False,9868.435,10,British Grand Prix
+NOR,32.0,93.788,2.0,MEDIUM,32.0,1,True,McLaren,False,4.0,30.076,38.102,25.61,,False,False,9962.223,10,British Grand Prix
+NOR,33.0,93.686,2.0,MEDIUM,33.0,1,True,McLaren,False,4.0,30.079,38.056,25.551,,False,False,10055.909,10,British Grand Prix
+NOR,34.0,93.055,2.0,MEDIUM,34.0,1,False,McLaren,False,4.0,29.97,37.958,25.127,,True,False,10148.964,10,British Grand Prix
+NOR,35.0,114.367,3.0,HARD,1.0,1,False,McLaren,True,5.0,50.859,38.099,25.409,,False,True,10263.331,10,British Grand Prix
+NOR,36.0,92.702,3.0,HARD,2.0,1,True,McLaren,True,5.0,29.845,37.526,25.331,,False,False,10356.033,10,British Grand Prix
+NOR,37.0,92.425,3.0,HARD,3.0,1,True,McLaren,True,5.0,29.634,37.502,25.289,,False,False,10448.458,10,British Grand Prix
+NOR,38.0,92.271,3.0,HARD,4.0,1,True,McLaren,True,5.0,29.702,37.353,25.216,,False,False,10540.729,10,British Grand Prix
+NOR,39.0,118.803,3.0,HARD,5.0,124,False,McLaren,True,6.0,29.757,56.34,32.706,,False,False,10659.532,10,British Grand Prix
+NOR,40.0,123.07,3.0,HARD,6.0,4,False,McLaren,True,5.0,41.127,52.021,29.922,,True,False,10782.602,10,British Grand Prix
+NOR,41.0,157.178,4.0,SOFT,1.0,4,False,McLaren,True,6.0,52.991,63.545,40.642,,False,True,10939.78,10,British Grand Prix
+NOR,42.0,156.364,4.0,SOFT,2.0,41,False,McLaren,True,6.0,50.364,61.142,44.858,,False,False,11096.144,10,British Grand Prix
+NOR,43.0,92.168,4.0,SOFT,3.0,1,True,McLaren,True,6.0,29.376,37.473,25.319,,False,False,11188.312,10,British Grand Prix
+NOR,44.0,92.211,4.0,SOFT,4.0,1,True,McLaren,True,6.0,29.459,37.546,25.206,,False,False,11280.523,10,British Grand Prix
+NOR,45.0,91.774,4.0,SOFT,5.0,1,True,McLaren,True,6.0,29.219,37.623,24.932,,False,False,11372.297,10,British Grand Prix
+NOR,46.0,92.831,4.0,SOFT,6.0,1,True,McLaren,True,6.0,29.511,38.391,24.929,,False,False,11465.128,10,British Grand Prix
+NOR,47.0,91.645,4.0,SOFT,7.0,1,True,McLaren,True,6.0,29.294,37.515,24.836,,False,False,11556.773,10,British Grand Prix
+NOR,48.0,92.664,4.0,SOFT,8.0,1,True,McLaren,True,6.0,29.612,37.652,25.4,,False,False,11649.437,10,British Grand Prix
+NOR,49.0,92.121,4.0,SOFT,9.0,1,True,McLaren,True,6.0,29.441,37.571,25.109,,False,False,11741.558,10,British Grand Prix
+NOR,50.0,92.07,4.0,SOFT,10.0,1,True,McLaren,True,6.0,29.63,37.46,24.98,,False,False,11833.628,10,British Grand Prix
+NOR,51.0,92.585,4.0,SOFT,11.0,1,True,McLaren,True,6.0,29.642,37.504,25.439,,False,False,11926.213,10,British Grand Prix
+NOR,52.0,92.325,4.0,SOFT,12.0,1,True,McLaren,True,6.0,29.601,37.438,25.286,,False,False,12018.538,10,British Grand Prix
+HAM,1.0,146.223,1.0,MEDIUM,1.0,125,False,Mercedes,True,3.0,,61.547,37.12,,True,False,3882.614,10,British Grand Prix
+HAM,2.0,,2.0,MEDIUM,1.0,1,False,Mercedes,True,5.0,,74.523,48.485,,False,True,7082.064,10,British Grand Prix
+HAM,3.0,145.614,2.0,MEDIUM,2.0,1,True,Mercedes,True,6.0,78.34,40.658,26.616,,False,False,7227.678,10,British Grand Prix
+HAM,4.0,95.27,2.0,MEDIUM,3.0,1,True,Mercedes,True,6.0,30.162,38.918,26.19,,False,False,7322.948,10,British Grand Prix
+HAM,5.0,95.12,2.0,MEDIUM,4.0,1,True,Mercedes,True,6.0,29.789,39.18,26.151,,False,False,7418.068,10,British Grand Prix
+HAM,6.0,93.731,2.0,MEDIUM,5.0,1,True,Mercedes,True,4.0,29.773,38.094,25.864,,False,False,7511.799,10,British Grand Prix
+HAM,7.0,93.955,2.0,MEDIUM,6.0,1,True,Mercedes,True,4.0,30.117,38.144,25.694,,False,False,7605.754,10,British Grand Prix
+HAM,8.0,93.679,2.0,MEDIUM,7.0,1,True,Mercedes,True,4.0,29.943,38.175,25.561,,False,False,7699.433,10,British Grand Prix
+HAM,9.0,93.704,2.0,MEDIUM,8.0,1,True,Mercedes,True,4.0,29.923,38.114,25.667,,False,False,7793.137,10,British Grand Prix
+HAM,10.0,93.338,2.0,MEDIUM,9.0,1,True,Mercedes,True,4.0,29.975,37.891,25.472,,False,False,7886.475,10,British Grand Prix
+HAM,11.0,93.335,2.0,MEDIUM,10.0,12,True,Mercedes,True,4.0,29.911,37.935,25.489,,False,False,7979.81,10,British Grand Prix
+HAM,12.0,94.09,2.0,MEDIUM,11.0,1,True,Mercedes,True,4.0,29.879,38.461,25.75,,False,False,8073.9,10,British Grand Prix
+HAM,13.0,93.212,2.0,MEDIUM,12.0,1,True,Mercedes,True,3.0,29.861,37.854,25.497,,False,False,8167.112,10,British Grand Prix
+HAM,14.0,93.226,2.0,MEDIUM,13.0,1,True,Mercedes,True,3.0,29.971,37.788,25.467,,False,False,8260.338,10,British Grand Prix
+HAM,15.0,93.042,2.0,MEDIUM,14.0,1,True,Mercedes,True,3.0,29.817,37.811,25.414,,False,False,8353.38,10,British Grand Prix
+HAM,16.0,92.973,2.0,MEDIUM,15.0,1,True,Mercedes,True,3.0,29.851,37.724,25.398,,False,False,8446.353,10,British Grand Prix
+HAM,17.0,93.168,2.0,MEDIUM,16.0,1,True,Mercedes,True,3.0,29.732,38.028,25.408,,False,False,8539.521,10,British Grand Prix
+HAM,18.0,92.92,2.0,MEDIUM,17.0,1,True,Mercedes,True,3.0,29.702,37.851,25.367,,False,False,8632.441,10,British Grand Prix
+HAM,19.0,92.592,2.0,MEDIUM,18.0,1,True,Mercedes,True,3.0,29.744,37.614,25.234,,False,False,8725.033,10,British Grand Prix
+HAM,20.0,92.85,2.0,MEDIUM,19.0,1,True,Mercedes,True,3.0,29.882,37.647,25.321,,False,False,8817.883,10,British Grand Prix
+HAM,21.0,92.833,2.0,MEDIUM,20.0,1,True,Mercedes,True,2.0,29.837,37.69,25.306,,False,False,8910.716,10,British Grand Prix
+HAM,22.0,92.435,2.0,MEDIUM,21.0,1,True,Mercedes,True,2.0,29.656,37.557,25.222,,False,False,9003.151,10,British Grand Prix
+HAM,23.0,92.65,2.0,MEDIUM,22.0,1,True,Mercedes,True,2.0,29.58,37.804,25.266,,False,False,9095.801,10,British Grand Prix
+HAM,24.0,92.782,2.0,MEDIUM,23.0,1,True,Mercedes,True,2.0,29.608,37.705,25.469,,False,False,9188.583,10,British Grand Prix
+HAM,25.0,92.723,2.0,MEDIUM,24.0,1,True,Mercedes,True,2.0,29.617,37.689,25.417,,False,False,9281.306,10,British Grand Prix
+HAM,26.0,92.655,2.0,MEDIUM,25.0,1,True,Mercedes,True,1.0,29.661,37.673,25.321,,False,False,9373.961,10,British Grand Prix
+HAM,27.0,92.445,2.0,MEDIUM,26.0,1,True,Mercedes,True,1.0,29.645,37.601,25.199,,False,False,9466.406,10,British Grand Prix
+HAM,28.0,92.265,2.0,MEDIUM,27.0,1,True,Mercedes,True,1.0,29.759,37.466,25.04,,False,False,9558.671,10,British Grand Prix
+HAM,29.0,92.442,2.0,MEDIUM,28.0,1,True,Mercedes,True,1.0,29.827,37.502,25.113,,False,False,9651.113,10,British Grand Prix
+HAM,30.0,92.541,2.0,MEDIUM,29.0,1,True,Mercedes,True,1.0,29.6,37.617,25.324,,False,False,9743.654,10,British Grand Prix
+HAM,31.0,92.676,2.0,MEDIUM,30.0,1,True,Mercedes,True,1.0,29.694,37.717,25.265,,False,False,9836.33,10,British Grand Prix
+HAM,32.0,92.079,2.0,MEDIUM,31.0,1,True,Mercedes,True,1.0,29.555,37.44,25.084,,False,False,9928.409,10,British Grand Prix
+HAM,33.0,92.256,2.0,MEDIUM,32.0,1,False,Mercedes,True,1.0,29.573,37.779,24.904,,True,False,10020.665,10,British Grand Prix
+HAM,34.0,116.216,3.0,HARD,1.0,1,False,Mercedes,True,3.0,52.292,38.388,25.536,,False,True,10136.881,10,British Grand Prix
+HAM,35.0,92.111,3.0,HARD,2.0,1,True,Mercedes,True,3.0,29.532,37.489,25.09,,False,False,10228.992,10,British Grand Prix
+HAM,36.0,91.711,3.0,HARD,3.0,1,True,Mercedes,True,3.0,29.402,37.365,24.944,,False,False,10320.703,10,British Grand Prix
+HAM,37.0,91.521,3.0,HARD,4.0,1,True,Mercedes,True,3.0,29.298,37.123,25.1,,False,False,10412.224,10,British Grand Prix
+HAM,38.0,91.302,3.0,HARD,5.0,1,True,Mercedes,True,3.0,29.288,36.971,25.043,,False,False,10503.526,10,British Grand Prix
+HAM,39.0,97.878,3.0,HARD,6.0,124,False,Mercedes,True,3.0,29.564,37.122,31.192,,True,False,10601.404,10,British Grand Prix
+HAM,40.0,167.07,4.0,SOFT,1.0,4,False,Mercedes,True,3.0,59.091,64.695,43.284,,False,True,10768.474,10,British Grand Prix
+HAM,41.0,166.248,4.0,SOFT,2.0,4,False,Mercedes,True,3.0,52.645,70.245,43.358,,False,False,10934.722,10,British Grand Prix
+HAM,42.0,160.039,4.0,SOFT,3.0,41,False,Mercedes,True,3.0,49.343,63.209,47.487,,False,False,11094.761,10,British Grand Prix
+HAM,43.0,92.498,4.0,SOFT,4.0,1,True,Mercedes,True,4.0,29.772,37.396,25.33,,False,False,11187.259,10,British Grand Prix
+HAM,44.0,92.062,4.0,SOFT,5.0,1,True,Mercedes,True,4.0,29.094,37.791,25.177,,False,False,11279.321,10,British Grand Prix
+HAM,45.0,91.659,4.0,SOFT,6.0,1,True,Mercedes,True,2.0,29.003,37.534,25.122,,False,False,11370.98,10,British Grand Prix
+HAM,46.0,92.894,4.0,SOFT,7.0,1,True,Mercedes,True,4.0,30.244,37.749,24.901,,False,False,11463.874,10,British Grand Prix
+HAM,47.0,91.933,4.0,SOFT,8.0,1,True,Mercedes,True,4.0,29.067,37.338,25.528,,False,False,11555.807,10,British Grand Prix
+HAM,48.0,91.628,4.0,SOFT,9.0,1,True,Mercedes,True,3.0,29.144,37.977,24.507,,False,False,11647.435,10,British Grand Prix
+HAM,49.0,91.201,4.0,SOFT,10.0,1,True,Mercedes,True,3.0,29.28,36.923,24.998,,False,False,11738.636,10,British Grand Prix
+HAM,50.0,91.397,4.0,SOFT,11.0,1,True,Mercedes,True,3.0,29.303,37.075,25.019,,False,False,11830.033,10,British Grand Prix
+HAM,51.0,92.277,4.0,SOFT,12.0,1,True,Mercedes,True,3.0,29.402,37.278,25.597,,False,False,11922.31,10,British Grand Prix
+HAM,52.0,90.51,4.0,SOFT,13.0,1,True,Mercedes,True,3.0,29.162,36.58,24.768,,False,False,12012.82,10,British Grand Prix
+MSC,1.0,178.096,1.0,MEDIUM,3.0,125,False,Haas F1 Team,False,15.0,,58.611,49.38,,True,False,3914.469,10,British Grand Prix
+MSC,2.0,,2.0,MEDIUM,1.0,1,False,Haas F1 Team,True,16.0,,,,,False,True,7111.79,10,British Grand Prix
+MSC,3.0,120.329,2.0,MEDIUM,2.0,1,True,Haas F1 Team,True,17.0,51.577,41.673,27.079,,False,False,7232.119,10,British Grand Prix
+MSC,4.0,97.298,2.0,MEDIUM,3.0,1,True,Haas F1 Team,True,16.0,30.601,40.12,26.577,,False,False,7329.417,10,British Grand Prix
+MSC,5.0,96.04,2.0,MEDIUM,4.0,1,True,Haas F1 Team,True,16.0,30.154,39.75,26.136,,False,False,7425.457,10,British Grand Prix
+MSC,6.0,95.569,2.0,MEDIUM,5.0,1,True,Haas F1 Team,True,15.0,30.014,39.542,26.013,,False,False,7521.026,10,British Grand Prix
+MSC,7.0,95.083,2.0,MEDIUM,6.0,1,True,Haas F1 Team,True,14.0,30.117,39.207,25.759,,False,False,7616.109,10,British Grand Prix
+MSC,8.0,95.677,2.0,MEDIUM,7.0,1,True,Haas F1 Team,True,14.0,29.992,39.746,25.939,,False,False,7711.786,10,British Grand Prix
+MSC,9.0,96.028,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,14.0,30.016,39.804,26.208,,False,False,7807.814,10,British Grand Prix
+MSC,10.0,95.42,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,14.0,30.316,39.286,25.818,,False,False,7903.234,10,British Grand Prix
+MSC,11.0,94.999,2.0,MEDIUM,10.0,12,True,Haas F1 Team,True,12.0,30.133,38.994,25.872,,False,False,7998.233,10,British Grand Prix
+MSC,12.0,95.408,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,12.0,30.237,39.367,25.804,,False,False,8093.641,10,British Grand Prix
+MSC,13.0,95.452,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,12.0,30.176,39.446,25.83,,False,False,8189.093,10,British Grand Prix
+MSC,14.0,95.222,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,12.0,30.024,39.368,25.83,,False,False,8284.315,10,British Grand Prix
+MSC,15.0,95.327,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,11.0,29.923,39.419,25.985,,False,False,8379.642,10,British Grand Prix
+MSC,16.0,94.892,2.0,MEDIUM,15.0,1,True,Haas F1 Team,True,11.0,30.123,39.056,25.713,,False,False,8474.534,10,British Grand Prix
+MSC,17.0,95.449,2.0,MEDIUM,16.0,1,True,Haas F1 Team,True,11.0,30.013,39.585,25.851,,False,False,8569.983,10,British Grand Prix
+MSC,18.0,95.425,2.0,MEDIUM,17.0,1,True,Haas F1 Team,True,11.0,29.836,39.53,26.059,,False,False,8665.408,10,British Grand Prix
+MSC,19.0,94.418,2.0,MEDIUM,18.0,1,False,Haas F1 Team,True,10.0,30.083,39.431,24.904,,True,False,8759.826,10,British Grand Prix
+MSC,20.0,117.276,3.0,HARD,1.0,1,False,Haas F1 Team,True,14.0,51.596,39.614,26.066,,False,True,8877.102,10,British Grand Prix
+MSC,21.0,94.469,3.0,HARD,2.0,1,True,Haas F1 Team,True,12.0,30.06,38.576,25.833,,False,False,8971.571,10,British Grand Prix
+MSC,22.0,94.127,3.0,HARD,3.0,1,True,Haas F1 Team,True,12.0,29.808,38.512,25.807,,False,False,9065.698,10,British Grand Prix
+MSC,23.0,94.648,3.0,HARD,4.0,1,True,Haas F1 Team,True,11.0,30.085,38.574,25.989,,False,False,9160.346,10,British Grand Prix
+MSC,24.0,94.725,3.0,HARD,5.0,1,True,Haas F1 Team,True,11.0,30.019,38.636,26.07,,False,False,9255.071,10,British Grand Prix
+MSC,25.0,94.793,3.0,HARD,6.0,1,True,Haas F1 Team,True,11.0,30.156,38.7,25.937,,False,False,9349.864,10,British Grand Prix
+MSC,26.0,93.92,3.0,HARD,7.0,1,True,Haas F1 Team,True,11.0,29.909,38.338,25.673,,False,False,9443.784,10,British Grand Prix
+MSC,27.0,94.017,3.0,HARD,8.0,1,True,Haas F1 Team,True,11.0,29.857,38.373,25.787,,False,False,9537.801,10,British Grand Prix
+MSC,28.0,94.612,3.0,HARD,9.0,1,True,Haas F1 Team,True,11.0,29.887,38.942,25.783,,False,False,9632.413,10,British Grand Prix
+MSC,29.0,95.144,3.0,HARD,10.0,1,True,Haas F1 Team,True,11.0,29.918,39.419,25.807,,False,False,9727.557,10,British Grand Prix
+MSC,30.0,95.006,3.0,HARD,11.0,1,True,Haas F1 Team,True,11.0,29.917,39.233,25.856,,False,False,9822.563,10,British Grand Prix
+MSC,31.0,94.247,3.0,HARD,12.0,1,True,Haas F1 Team,True,11.0,29.783,38.689,25.775,,False,False,9916.81,10,British Grand Prix
+MSC,32.0,94.139,3.0,HARD,13.0,1,True,Haas F1 Team,True,10.0,29.786,38.664,25.689,,False,False,10010.949,10,British Grand Prix
+MSC,33.0,93.979,3.0,HARD,14.0,1,True,Haas F1 Team,True,10.0,29.808,38.371,25.8,,False,False,10104.928,10,British Grand Prix
+MSC,34.0,93.794,3.0,HARD,15.0,1,True,Haas F1 Team,True,10.0,29.878,38.146,25.77,,False,False,10198.722,10,British Grand Prix
+MSC,35.0,93.864,3.0,HARD,16.0,1,True,Haas F1 Team,True,10.0,29.808,38.244,25.812,,False,False,10292.586,10,British Grand Prix
+MSC,36.0,93.796,3.0,HARD,17.0,1,True,Haas F1 Team,True,10.0,29.915,38.228,25.653,,False,False,10386.382,10,British Grand Prix
+MSC,37.0,93.275,3.0,HARD,18.0,1,True,Haas F1 Team,True,10.0,29.82,38.11,25.345,,False,False,10479.657,10,British Grand Prix
+MSC,38.0,93.782,3.0,HARD,19.0,124,False,Haas F1 Team,True,9.0,29.795,38.408,25.579,,False,False,10573.439,10,British Grand Prix
+MSC,39.0,125.584,3.0,HARD,20.0,4,False,Haas F1 Team,True,9.0,42.212,52.728,30.644,,True,False,10699.023,10,British Grand Prix
+MSC,40.0,144.596,4.0,SOFT,1.0,4,False,Haas F1 Team,True,11.0,60.011,52.208,32.377,,False,True,10843.619,10,British Grand Prix
+MSC,41.0,101.44,4.0,SOFT,2.0,4,False,Haas F1 Team,True,10.0,31.807,41.053,28.58,,False,False,10945.059,10,British Grand Prix
+MSC,42.0,152.782,4.0,SOFT,3.0,41,False,Haas F1 Team,True,10.0,51.372,59.965,41.445,,False,False,11097.841,10,British Grand Prix
+MSC,43.0,93.351,4.0,SOFT,4.0,1,True,Haas F1 Team,True,9.0,29.608,38.234,25.509,,False,False,11191.192,10,British Grand Prix
+MSC,44.0,93.597,4.0,SOFT,5.0,1,True,Haas F1 Team,True,9.0,29.823,38.278,25.496,,False,False,11284.789,10,British Grand Prix
+MSC,45.0,92.29,4.0,SOFT,6.0,1,True,Haas F1 Team,True,8.0,29.305,37.713,25.272,,False,False,11377.079,10,British Grand Prix
+MSC,46.0,92.35,4.0,SOFT,7.0,1,True,Haas F1 Team,True,8.0,29.476,37.594,25.28,,False,False,11469.429,10,British Grand Prix
+MSC,47.0,92.224,4.0,SOFT,8.0,1,True,Haas F1 Team,True,8.0,29.501,37.519,25.204,,False,False,11561.653,10,British Grand Prix
+MSC,48.0,92.109,4.0,SOFT,9.0,1,True,Haas F1 Team,True,8.0,29.449,37.445,25.215,,False,False,11653.762,10,British Grand Prix
+MSC,49.0,92.339,4.0,SOFT,10.0,1,True,Haas F1 Team,True,8.0,29.312,37.499,25.528,,False,False,11746.101,10,British Grand Prix
+MSC,50.0,93.27,4.0,SOFT,11.0,1,True,Haas F1 Team,True,8.0,29.513,38.29,25.467,,False,False,11839.371,10,British Grand Prix
+MSC,51.0,92.74,4.0,SOFT,12.0,1,True,Haas F1 Team,True,8.0,29.54,37.737,25.463,,False,False,11932.111,10,British Grand Prix
+MSC,52.0,93.479,4.0,SOFT,13.0,1,True,Haas F1 Team,True,8.0,29.361,38.467,25.651,,False,False,12025.59,10,British Grand Prix
+VET,1.0,174.11,1.0,SOFT,1.0,125,False,Aston Martin,True,13.0,,58.727,47.496,,True,False,3910.513,10,British Grand Prix
+VET,2.0,,2.0,SOFT,1.0,1,False,Aston Martin,True,15.0,,,,,False,True,7110.07,10,British Grand Prix
+VET,3.0,120.736,2.0,SOFT,2.0,1,True,Aston Martin,True,14.0,52.466,41.406,26.864,,False,False,7230.806,10,British Grand Prix
+VET,4.0,97.594,2.0,SOFT,3.0,1,True,Aston Martin,True,14.0,30.548,40.442,26.604,,False,False,7328.4,10,British Grand Prix
+VET,5.0,95.814,2.0,SOFT,4.0,1,True,Aston Martin,True,14.0,30.013,39.716,26.085,,False,False,7424.214,10,British Grand Prix
+VET,6.0,94.962,2.0,SOFT,5.0,1,False,Aston Martin,True,12.0,29.949,39.686,25.327,,True,False,7519.176,10,British Grand Prix
+VET,7.0,117.22,3.0,MEDIUM,3.0,1,False,Aston Martin,False,17.0,51.784,39.321,26.115,,False,True,7636.396,10,British Grand Prix
+VET,8.0,95.155,3.0,MEDIUM,4.0,1,True,Aston Martin,False,17.0,30.17,38.864,26.121,,False,False,7731.551,10,British Grand Prix
+VET,9.0,95.178,3.0,MEDIUM,5.0,1,True,Aston Martin,False,17.0,30.237,38.831,26.11,,False,False,7826.729,10,British Grand Prix
+VET,10.0,95.024,3.0,MEDIUM,6.0,12,True,Aston Martin,False,17.0,30.094,38.888,26.042,,False,False,7921.753,10,British Grand Prix
+VET,11.0,95.052,3.0,MEDIUM,7.0,21,True,Aston Martin,False,17.0,30.192,38.796,26.064,,False,False,8016.805,10,British Grand Prix
+VET,12.0,94.911,3.0,MEDIUM,8.0,1,True,Aston Martin,False,17.0,30.189,38.768,25.954,,False,False,8111.716,10,British Grand Prix
+VET,13.0,94.912,3.0,MEDIUM,9.0,1,True,Aston Martin,False,17.0,30.17,38.707,26.035,,False,False,8206.628,10,British Grand Prix
+VET,14.0,94.82,3.0,MEDIUM,10.0,1,True,Aston Martin,False,17.0,30.138,38.687,25.995,,False,False,8301.448,10,British Grand Prix
+VET,15.0,94.816,3.0,MEDIUM,11.0,1,True,Aston Martin,False,17.0,30.215,38.588,26.013,,False,False,8396.264,10,British Grand Prix
+VET,16.0,94.828,3.0,MEDIUM,12.0,1,True,Aston Martin,False,16.0,30.217,38.7,25.911,,False,False,8491.092,10,British Grand Prix
+VET,17.0,94.75,3.0,MEDIUM,13.0,1,True,Aston Martin,False,15.0,30.041,38.733,25.976,,False,False,8585.842,10,British Grand Prix
+VET,18.0,94.712,3.0,MEDIUM,14.0,1,True,Aston Martin,False,15.0,30.0,38.712,26.0,,False,False,8680.554,10,British Grand Prix
+VET,19.0,94.609,3.0,MEDIUM,15.0,1,True,Aston Martin,False,14.0,30.125,38.533,25.951,,False,False,8775.163,10,British Grand Prix
+VET,20.0,94.658,3.0,MEDIUM,16.0,1,True,Aston Martin,False,12.0,30.189,38.578,25.891,,False,False,8869.821,10,British Grand Prix
+VET,21.0,94.652,3.0,MEDIUM,17.0,1,True,Aston Martin,False,10.0,30.163,38.588,25.901,,False,False,8964.473,10,British Grand Prix
+VET,22.0,94.379,3.0,MEDIUM,18.0,1,True,Aston Martin,False,10.0,29.97,38.551,25.858,,False,False,9058.852,10,British Grand Prix
+VET,23.0,94.417,3.0,MEDIUM,19.0,1,True,Aston Martin,False,8.0,30.024,38.486,25.907,,False,False,9153.269,10,British Grand Prix
+VET,24.0,94.706,3.0,MEDIUM,20.0,1,True,Aston Martin,False,7.0,30.015,38.687,26.004,,False,False,9247.975,10,British Grand Prix
+VET,25.0,94.598,3.0,MEDIUM,21.0,1,True,Aston Martin,False,7.0,30.174,38.529,25.895,,False,False,9342.573,10,British Grand Prix
+VET,26.0,94.258,3.0,MEDIUM,22.0,1,True,Aston Martin,False,7.0,29.957,38.443,25.858,,False,False,9436.831,10,British Grand Prix
+VET,27.0,94.293,3.0,MEDIUM,23.0,1,True,Aston Martin,False,7.0,30.036,38.389,25.868,,False,False,9531.124,10,British Grand Prix
+VET,28.0,94.448,3.0,MEDIUM,24.0,1,True,Aston Martin,False,7.0,30.052,38.604,25.792,,False,False,9625.572,10,British Grand Prix
+VET,29.0,94.361,3.0,MEDIUM,25.0,1,True,Aston Martin,False,7.0,30.154,38.445,25.762,,False,False,9719.933,10,British Grand Prix
+VET,30.0,94.238,3.0,MEDIUM,26.0,1,True,Aston Martin,False,7.0,30.092,38.399,25.747,,False,False,9814.171,10,British Grand Prix
+VET,31.0,94.325,3.0,MEDIUM,27.0,1,True,Aston Martin,False,7.0,30.031,38.466,25.828,,False,False,9908.496,10,British Grand Prix
+VET,32.0,94.394,3.0,MEDIUM,28.0,1,True,Aston Martin,False,7.0,30.001,38.56,25.833,,False,False,10002.89,10,British Grand Prix
+VET,33.0,94.272,3.0,MEDIUM,29.0,1,True,Aston Martin,False,7.0,29.901,38.465,25.906,,False,False,10097.162,10,British Grand Prix
+VET,34.0,94.258,3.0,MEDIUM,30.0,1,True,Aston Martin,False,7.0,30.008,38.429,25.821,,False,False,10191.42,10,British Grand Prix
+VET,35.0,93.985,3.0,MEDIUM,31.0,1,True,Aston Martin,False,7.0,29.888,38.393,25.704,,False,False,10285.405,10,British Grand Prix
+VET,36.0,93.997,3.0,MEDIUM,32.0,1,True,Aston Martin,False,7.0,29.897,38.357,25.743,,False,False,10379.402,10,British Grand Prix
+VET,37.0,93.709,3.0,MEDIUM,33.0,1,True,Aston Martin,False,7.0,29.81,38.163,25.736,,False,False,10473.111,10,British Grand Prix
+VET,38.0,93.71,3.0,MEDIUM,34.0,12,True,Aston Martin,False,7.0,29.942,38.051,25.717,,False,False,10566.821,10,British Grand Prix
+VET,39.0,122.98,3.0,MEDIUM,35.0,24,False,Aston Martin,False,7.0,39.798,53.015,30.167,,True,False,10689.801,10,British Grand Prix
+VET,40.0,142.448,4.0,MEDIUM,3.0,4,False,Aston Martin,False,7.0,58.198,52.725,31.525,,False,True,10832.249,10,British Grand Prix
+VET,41.0,109.38,4.0,MEDIUM,4.0,4,False,Aston Martin,False,7.0,31.738,40.994,36.648,,False,False,10941.629,10,British Grand Prix
+VET,42.0,155.154,4.0,MEDIUM,5.0,41,False,Aston Martin,False,7.0,50.111,60.909,44.134,,False,False,11096.783,10,British Grand Prix
+VET,43.0,93.605,4.0,MEDIUM,6.0,1,True,Aston Martin,False,7.0,29.754,38.174,25.677,,False,False,11190.388,10,British Grand Prix
+VET,44.0,94.04,4.0,MEDIUM,7.0,1,True,Aston Martin,False,8.0,30.404,38.184,25.452,,False,False,11284.428,10,British Grand Prix
+VET,45.0,93.679,4.0,MEDIUM,8.0,1,True,Aston Martin,False,9.0,29.678,38.648,25.353,,False,False,11378.107,10,British Grand Prix
+VET,46.0,93.317,4.0,MEDIUM,9.0,1,True,Aston Martin,False,9.0,29.681,37.994,25.642,,False,False,11471.424,10,British Grand Prix
+VET,47.0,92.841,4.0,MEDIUM,10.0,1,True,Aston Martin,False,9.0,29.574,37.808,25.459,,False,False,11564.265,10,British Grand Prix
+VET,48.0,93.053,4.0,MEDIUM,11.0,1,True,Aston Martin,False,9.0,29.628,37.941,25.484,,False,False,11657.318,10,British Grand Prix
+VET,49.0,92.988,4.0,MEDIUM,12.0,1,True,Aston Martin,False,9.0,29.634,37.727,25.627,,False,False,11750.306,10,British Grand Prix
+VET,50.0,93.005,4.0,MEDIUM,13.0,1,True,Aston Martin,False,9.0,29.643,37.784,25.578,,False,False,11843.311,10,British Grand Prix
+VET,51.0,93.169,4.0,MEDIUM,14.0,1,True,Aston Martin,False,9.0,29.776,37.827,25.566,,False,False,11936.48,10,British Grand Prix
+VET,52.0,92.471,4.0,MEDIUM,15.0,1,True,Aston Martin,False,9.0,29.552,37.523,25.396,,False,False,12028.951,10,British Grand Prix
+SAI,1.0,143.979,1.0,MEDIUM,1.0,125,False,Ferrari,True,2.0,,61.841,36.61,,True,False,3880.31,10,British Grand Prix
+SAI,2.0,,2.0,MEDIUM,1.0,1,False,Ferrari,True,1.0,,67.71,49.572,,False,True,7071.235,10,British Grand Prix
+SAI,3.0,151.928,2.0,MEDIUM,2.0,1,True,Ferrari,True,1.0,88.07,38.047,25.811,,False,False,7223.163,10,British Grand Prix
+SAI,4.0,93.437,2.0,MEDIUM,3.0,1,True,Ferrari,True,1.0,29.977,37.808,25.652,,False,False,7316.6,10,British Grand Prix
+SAI,5.0,93.623,2.0,MEDIUM,4.0,1,True,Ferrari,True,1.0,29.872,37.992,25.759,,False,False,7410.223,10,British Grand Prix
+SAI,6.0,93.596,2.0,MEDIUM,5.0,1,True,Ferrari,True,1.0,29.905,37.878,25.813,,False,False,7503.819,10,British Grand Prix
+SAI,7.0,93.918,2.0,MEDIUM,6.0,1,True,Ferrari,True,1.0,30.09,38.117,25.711,,False,False,7597.737,10,British Grand Prix
+SAI,8.0,93.732,2.0,MEDIUM,7.0,1,True,Ferrari,True,1.0,29.913,38.127,25.692,,False,False,7691.469,10,British Grand Prix
+SAI,9.0,93.575,2.0,MEDIUM,8.0,1,True,Ferrari,True,1.0,29.998,37.978,25.599,,False,False,7785.044,10,British Grand Prix
+SAI,10.0,95.415,2.0,MEDIUM,9.0,1,True,Ferrari,True,2.0,30.041,38.719,26.655,,False,False,7880.459,10,British Grand Prix
+SAI,11.0,93.862,2.0,MEDIUM,10.0,12,True,Ferrari,True,2.0,30.163,38.071,25.628,,False,False,7974.321,10,British Grand Prix
+SAI,12.0,93.491,2.0,MEDIUM,11.0,1,True,Ferrari,True,2.0,29.94,38.342,25.209,,False,False,8067.812,10,British Grand Prix
+SAI,13.0,93.31,2.0,MEDIUM,12.0,1,True,Ferrari,True,1.0,29.898,37.893,25.519,,False,False,8161.122,10,British Grand Prix
+SAI,14.0,93.55,2.0,MEDIUM,13.0,1,True,Ferrari,True,1.0,29.944,38.038,25.568,,False,False,8254.672,10,British Grand Prix
+SAI,15.0,93.445,2.0,MEDIUM,14.0,1,True,Ferrari,True,1.0,29.953,37.88,25.612,,False,False,8348.117,10,British Grand Prix
+SAI,16.0,93.55,2.0,MEDIUM,15.0,1,True,Ferrari,True,1.0,30.003,37.931,25.616,,False,False,8441.667,10,British Grand Prix
+SAI,17.0,93.328,2.0,MEDIUM,16.0,1,True,Ferrari,True,1.0,29.961,37.804,25.563,,False,False,8534.995,10,British Grand Prix
+SAI,18.0,93.166,2.0,MEDIUM,17.0,1,True,Ferrari,True,1.0,29.846,37.817,25.503,,False,False,8628.161,10,British Grand Prix
+SAI,19.0,92.974,2.0,MEDIUM,18.0,1,True,Ferrari,True,1.0,29.923,37.64,25.411,,False,False,8721.135,10,British Grand Prix
+SAI,20.0,92.799,2.0,MEDIUM,19.0,1,False,Ferrari,True,1.0,29.943,37.787,25.069,,True,False,8813.934,10,British Grand Prix
+SAI,21.0,113.892,3.0,HARD,1.0,1,False,Ferrari,True,3.0,50.317,38.028,25.547,,False,True,8927.826,10,British Grand Prix
+SAI,22.0,92.771,3.0,HARD,2.0,1,True,Ferrari,True,3.0,29.557,37.695,25.519,,False,False,9020.597,10,British Grand Prix
+SAI,23.0,92.622,3.0,HARD,3.0,1,True,Ferrari,True,3.0,29.587,37.682,25.353,,False,False,9113.219,10,British Grand Prix
+SAI,24.0,92.787,3.0,HARD,4.0,1,True,Ferrari,True,3.0,29.608,37.759,25.42,,False,False,9206.006,10,British Grand Prix
+SAI,25.0,92.696,3.0,HARD,5.0,1,True,Ferrari,True,3.0,29.701,37.593,25.402,,False,False,9298.702,10,British Grand Prix
+SAI,26.0,92.976,3.0,HARD,6.0,1,True,Ferrari,True,2.0,29.81,37.686,25.48,,False,False,9391.678,10,British Grand Prix
+SAI,27.0,92.876,3.0,HARD,7.0,1,True,Ferrari,True,2.0,29.759,37.656,25.461,,False,False,9484.554,10,British Grand Prix
+SAI,28.0,92.403,3.0,HARD,8.0,1,True,Ferrari,True,2.0,29.737,37.433,25.233,,False,False,9576.957,10,British Grand Prix
+SAI,29.0,92.493,3.0,HARD,9.0,1,True,Ferrari,True,2.0,29.789,37.458,25.246,,False,False,9669.45,10,British Grand Prix
+SAI,30.0,92.764,3.0,HARD,10.0,1,True,Ferrari,True,2.0,29.669,37.669,25.426,,False,False,9762.214,10,British Grand Prix
+SAI,31.0,93.584,3.0,HARD,11.0,1,True,Ferrari,True,3.0,30.25,38.211,25.123,,False,False,9855.798,10,British Grand Prix
+SAI,32.0,91.932,3.0,HARD,12.0,1,True,Ferrari,True,3.0,29.412,37.434,25.086,,False,False,9947.73,10,British Grand Prix
+SAI,33.0,92.073,3.0,HARD,13.0,1,True,Ferrari,True,3.0,29.484,37.428,25.161,,False,False,10039.803,10,British Grand Prix
+SAI,34.0,92.72,3.0,HARD,14.0,1,True,Ferrari,True,2.0,29.73,37.571,25.419,,False,False,10132.523,10,British Grand Prix
+SAI,35.0,92.463,3.0,HARD,15.0,1,True,Ferrari,True,2.0,29.704,37.436,25.323,,False,False,10224.986,10,British Grand Prix
+SAI,36.0,92.416,3.0,HARD,16.0,1,True,Ferrari,True,2.0,29.646,37.343,25.427,,False,False,10317.402,10,British Grand Prix
+SAI,37.0,92.169,3.0,HARD,17.0,1,True,Ferrari,True,2.0,29.616,37.326,25.227,,False,False,10409.571,10,British Grand Prix
+SAI,38.0,92.072,3.0,HARD,18.0,1,True,Ferrari,True,2.0,29.654,37.219,25.199,,False,False,10501.643,10,British Grand Prix
+SAI,39.0,98.36,3.0,HARD,19.0,124,False,Ferrari,True,1.0,29.842,37.221,31.297,,True,False,10600.003,10,British Grand Prix
+SAI,40.0,167.237,4.0,SOFT,1.0,4,False,Ferrari,True,2.0,58.19,65.871,43.176,,False,True,10767.24,10,British Grand Prix
+SAI,41.0,167.017,4.0,SOFT,2.0,4,False,Ferrari,True,2.0,51.298,72.109,43.61,,False,False,10934.257,10,British Grand Prix
+SAI,42.0,159.985,4.0,SOFT,3.0,41,False,Ferrari,True,2.0,48.134,64.19,47.661,,False,False,11094.242,10,British Grand Prix
+SAI,43.0,90.886,4.0,SOFT,4.0,1,True,Ferrari,True,1.0,29.125,36.805,24.956,,False,False,11185.128,10,British Grand Prix
+SAI,44.0,90.813,4.0,SOFT,5.0,1,True,Ferrari,True,1.0,29.169,36.623,25.021,,False,False,11275.941,10,British Grand Prix
+SAI,45.0,91.215,4.0,SOFT,6.0,1,True,Ferrari,True,1.0,29.345,36.772,25.098,,False,False,11367.156,10,British Grand Prix
+SAI,46.0,91.416,4.0,SOFT,7.0,1,True,Ferrari,True,1.0,29.452,36.869,25.095,,False,False,11458.572,10,British Grand Prix
+SAI,47.0,91.315,4.0,SOFT,8.0,1,True,Ferrari,True,1.0,29.398,36.95,24.967,,False,False,11549.887,10,British Grand Prix
+SAI,48.0,91.25,4.0,SOFT,9.0,1,True,Ferrari,True,1.0,29.429,36.827,24.994,,False,False,11641.137,10,British Grand Prix
+SAI,49.0,91.317,4.0,SOFT,10.0,1,True,Ferrari,True,1.0,29.468,36.822,25.027,,False,False,11732.454,10,British Grand Prix
+SAI,50.0,91.141,4.0,SOFT,11.0,1,True,Ferrari,True,1.0,29.443,36.743,24.955,,False,False,11823.595,10,British Grand Prix
+SAI,51.0,91.474,4.0,SOFT,12.0,1,True,Ferrari,True,1.0,29.473,36.936,25.065,,False,False,11915.069,10,British Grand Prix
+SAI,52.0,91.526,4.0,SOFT,13.0,1,True,Ferrari,True,1.0,29.332,37.109,25.085,,False,False,12006.595,10,British Grand Prix
+LAT,1.0,159.57,1.0,SOFT,1.0,125,False,Williams,True,8.0,,59.988,39.912,,True,False,3895.999,10,British Grand Prix
+LAT,2.0,,2.0,SOFT,1.0,1,False,Williams,True,8.0,,,,,False,True,7094.1,10,British Grand Prix
+LAT,3.0,135.275,2.0,SOFT,2.0,1,True,Williams,True,10.0,66.854,41.564,26.857,,False,False,7229.375,10,British Grand Prix
+LAT,4.0,97.41,2.0,SOFT,3.0,1,True,Williams,True,11.0,31.228,39.882,26.3,,False,False,7326.785,10,British Grand Prix
+LAT,5.0,95.719,2.0,SOFT,4.0,1,True,Williams,True,11.0,30.176,39.517,26.026,,False,False,7422.504,10,British Grand Prix
+LAT,6.0,95.743,2.0,SOFT,5.0,1,True,Williams,True,10.0,30.478,39.259,26.006,,False,False,7518.247,10,British Grand Prix
+LAT,7.0,95.615,2.0,SOFT,6.0,1,True,Williams,True,10.0,30.31,39.282,26.023,,False,False,7613.862,10,British Grand Prix
+LAT,8.0,95.673,2.0,SOFT,7.0,1,True,Williams,True,10.0,30.346,39.24,26.087,,False,False,7709.535,10,British Grand Prix
+LAT,9.0,95.522,2.0,SOFT,8.0,1,True,Williams,True,10.0,30.248,39.19,26.084,,False,False,7805.057,10,British Grand Prix
+LAT,10.0,95.462,2.0,SOFT,9.0,1,True,Williams,True,10.0,30.304,39.279,25.879,,False,False,7900.519,10,British Grand Prix
+LAT,11.0,95.686,2.0,SOFT,10.0,12,True,Williams,True,8.0,30.434,39.257,25.995,,False,False,7996.205,10,British Grand Prix
+LAT,12.0,95.531,2.0,SOFT,11.0,1,True,Williams,True,8.0,30.276,39.199,26.056,,False,False,8091.736,10,British Grand Prix
+LAT,13.0,95.333,2.0,SOFT,12.0,1,True,Williams,True,8.0,30.146,39.128,26.059,,False,False,8187.069,10,British Grand Prix
+LAT,14.0,95.265,2.0,SOFT,13.0,1,True,Williams,True,8.0,30.239,39.056,25.97,,False,False,8282.334,10,British Grand Prix
+LAT,15.0,95.232,2.0,SOFT,14.0,1,True,Williams,True,8.0,30.143,39.052,26.037,,False,False,8377.566,10,British Grand Prix
+LAT,16.0,95.635,2.0,SOFT,15.0,1,True,Williams,True,8.0,30.334,39.076,26.225,,False,False,8473.201,10,British Grand Prix
+LAT,17.0,95.357,2.0,SOFT,16.0,1,True,Williams,True,8.0,30.305,38.902,26.15,,False,False,8568.558,10,British Grand Prix
+LAT,18.0,95.442,2.0,SOFT,17.0,1,True,Williams,True,8.0,30.303,38.975,26.164,,False,False,8664.0,10,British Grand Prix
+LAT,19.0,94.509,2.0,SOFT,18.0,1,False,Williams,True,8.0,30.25,38.849,25.41,,True,False,8758.509,10,British Grand Prix
+LAT,20.0,116.248,3.0,MEDIUM,1.0,1,False,Williams,True,13.0,51.112,39.286,25.85,,False,True,8874.757,10,British Grand Prix
+LAT,21.0,94.232,3.0,MEDIUM,2.0,1,True,Williams,True,11.0,30.255,38.216,25.761,,False,False,8968.989,10,British Grand Prix
+LAT,22.0,94.01,3.0,MEDIUM,3.0,1,True,Williams,True,11.0,29.855,38.328,25.827,,False,False,9062.999,10,British Grand Prix
+LAT,23.0,94.227,3.0,MEDIUM,4.0,1,True,Williams,True,9.0,29.924,38.541,25.762,,False,False,9157.226,10,British Grand Prix
+LAT,24.0,94.962,3.0,MEDIUM,5.0,1,True,Williams,True,9.0,30.088,38.764,26.11,,False,False,9252.188,10,British Grand Prix
+LAT,25.0,95.075,3.0,MEDIUM,6.0,1,True,Williams,True,9.0,30.189,38.777,26.109,,False,False,9347.263,10,British Grand Prix
+LAT,26.0,94.684,3.0,MEDIUM,7.0,1,True,Williams,True,9.0,30.113,38.637,25.934,,False,False,9441.947,10,British Grand Prix
+LAT,27.0,94.897,3.0,MEDIUM,8.0,1,True,Williams,True,9.0,30.122,38.744,26.031,,False,False,9536.844,10,British Grand Prix
+LAT,28.0,94.664,3.0,MEDIUM,9.0,1,True,Williams,True,9.0,30.099,38.681,25.884,,False,False,9631.508,10,British Grand Prix
+LAT,29.0,95.723,3.0,MEDIUM,10.0,1,True,Williams,True,10.0,30.265,39.645,25.813,,False,False,9727.231,10,British Grand Prix
+LAT,30.0,94.859,3.0,MEDIUM,11.0,1,True,Williams,True,10.0,30.08,38.832,25.947,,False,False,9822.09,10,British Grand Prix
+LAT,31.0,94.309,3.0,MEDIUM,12.0,1,True,Williams,True,10.0,29.956,38.48,25.873,,False,False,9916.399,10,British Grand Prix
+LAT,32.0,95.851,3.0,MEDIUM,13.0,1,True,Williams,True,11.0,30.252,39.708,25.891,,False,False,10012.25,10,British Grand Prix
+LAT,33.0,95.609,3.0,MEDIUM,14.0,1,True,Williams,True,12.0,30.12,39.526,25.963,,False,False,10107.859,10,British Grand Prix
+LAT,34.0,95.085,3.0,MEDIUM,15.0,1,True,Williams,True,12.0,30.168,38.846,26.071,,False,False,10202.944,10,British Grand Prix
+LAT,35.0,94.71,3.0,MEDIUM,16.0,1,True,Williams,True,12.0,30.089,38.525,26.096,,False,False,10297.654,10,British Grand Prix
+LAT,36.0,94.513,3.0,MEDIUM,17.0,1,True,Williams,True,12.0,30.002,38.569,25.942,,False,False,10392.167,10,British Grand Prix
+LAT,37.0,94.878,3.0,MEDIUM,18.0,1,True,Williams,True,12.0,30.296,38.506,26.076,,False,False,10487.045,10,British Grand Prix
+LAT,38.0,99.717,3.0,MEDIUM,19.0,124,False,Williams,True,11.0,30.183,38.458,31.076,,False,False,10586.762,10,British Grand Prix
+LAT,39.0,123.623,3.0,MEDIUM,20.0,4,False,Williams,True,11.0,41.22,54.151,28.252,,True,False,10710.385,10,British Grand Prix
+LAT,40.0,142.826,4.0,SOFT,2.0,4,False,Williams,False,12.0,57.435,53.097,32.294,,False,True,10853.211,10,British Grand Prix
+LAT,41.0,108.361,4.0,SOFT,3.0,4,False,Williams,False,11.0,34.414,45.248,28.699,,False,False,10961.572,10,British Grand Prix
+LAT,42.0,136.906,4.0,SOFT,4.0,41,False,Williams,False,11.0,36.405,59.039,41.462,,False,False,11098.478,10,British Grand Prix
+LAT,43.0,94.694,4.0,SOFT,5.0,1,True,Williams,False,11.0,29.75,38.93,26.014,,False,False,11193.172,10,British Grand Prix
+LAT,44.0,93.79,4.0,SOFT,6.0,1,True,Williams,False,11.0,29.656,38.446,25.688,,False,False,11286.962,10,British Grand Prix
+LAT,45.0,93.365,4.0,SOFT,7.0,1,True,Williams,False,11.0,29.61,38.221,25.534,,False,False,11380.327,10,British Grand Prix
+LAT,46.0,93.425,4.0,SOFT,8.0,1,True,Williams,False,11.0,29.534,38.34,25.551,,False,False,11473.752,10,British Grand Prix
+LAT,47.0,93.558,4.0,SOFT,9.0,1,True,Williams,False,11.0,29.716,38.226,25.616,,False,False,11567.31,10,British Grand Prix
+LAT,48.0,93.286,4.0,SOFT,10.0,1,True,Williams,False,11.0,29.77,38.173,25.343,,False,False,11660.596,10,British Grand Prix
+LAT,49.0,95.043,4.0,SOFT,11.0,1,True,Williams,False,12.0,30.455,38.07,26.518,,False,False,11755.639,10,British Grand Prix
+LAT,50.0,93.937,4.0,SOFT,12.0,1,True,Williams,False,12.0,29.953,38.075,25.909,,False,False,11849.576,10,British Grand Prix
+LAT,51.0,94.867,4.0,SOFT,13.0,1,True,Williams,False,12.0,30.058,38.846,25.963,,False,False,11944.443,10,British Grand Prix
+LAT,52.0,94.663,4.0,SOFT,14.0,1,True,Williams,False,12.0,30.112,38.736,25.815,,False,False,12039.106,10,British Grand Prix
+RUS,1.0,,1.0,HARD,1.0,125,False,Mercedes,True,,,,,,False,False,3878.35,10,British Grand Prix
+BOT,1.0,162.397,1.0,MEDIUM,1.0,125,False,Alfa Romeo,True,9.0,,58.943,41.864,,True,False,3898.745,10,British Grand Prix
+BOT,2.0,,2.0,MEDIUM,1.0,1,False,Alfa Romeo,True,10.0,,,,,False,True,7098.992,10,British Grand Prix
+BOT,3.0,131.434,2.0,MEDIUM,2.0,1,True,Alfa Romeo,True,13.0,63.162,41.329,26.943,,False,False,7230.426,10,British Grand Prix
+BOT,4.0,97.106,2.0,MEDIUM,3.0,1,True,Alfa Romeo,True,12.0,30.797,39.637,26.672,,False,False,7327.532,10,British Grand Prix
+BOT,5.0,95.571,2.0,MEDIUM,4.0,1,True,Alfa Romeo,True,12.0,30.025,39.357,26.189,,False,False,7423.103,10,British Grand Prix
+BOT,6.0,95.694,2.0,MEDIUM,5.0,1,True,Alfa Romeo,True,11.0,29.948,39.552,26.194,,False,False,7518.797,10,British Grand Prix
+BOT,7.0,95.579,2.0,MEDIUM,6.0,1,True,Alfa Romeo,True,11.0,30.054,39.286,26.239,,False,False,7614.376,10,British Grand Prix
+BOT,8.0,95.857,2.0,MEDIUM,7.0,1,True,Alfa Romeo,True,11.0,30.083,39.575,26.199,,False,False,7710.233,10,British Grand Prix
+BOT,9.0,95.527,2.0,MEDIUM,8.0,1,True,Alfa Romeo,True,11.0,30.021,39.32,26.186,,False,False,7805.76,10,British Grand Prix
+BOT,10.0,95.433,2.0,MEDIUM,9.0,1,True,Alfa Romeo,True,11.0,29.982,39.452,25.999,,False,False,7901.193,10,British Grand Prix
+BOT,11.0,95.768,2.0,MEDIUM,10.0,12,True,Alfa Romeo,True,9.0,30.007,39.549,26.212,,False,False,7996.961,10,British Grand Prix
+BOT,12.0,95.274,2.0,MEDIUM,11.0,1,True,Alfa Romeo,True,9.0,29.944,39.206,26.124,,False,False,8092.235,10,British Grand Prix
+BOT,13.0,95.387,2.0,MEDIUM,12.0,1,True,Alfa Romeo,True,9.0,30.076,39.211,26.1,,False,False,8187.622,10,British Grand Prix
+BOT,14.0,95.117,2.0,MEDIUM,13.0,1,True,Alfa Romeo,True,9.0,30.056,39.061,26.0,,False,False,8282.739,10,British Grand Prix
+BOT,15.0,95.279,2.0,MEDIUM,14.0,1,True,Alfa Romeo,True,9.0,30.038,39.177,26.064,,False,False,8378.018,10,British Grand Prix
+BOT,16.0,95.702,2.0,MEDIUM,15.0,1,True,Alfa Romeo,True,9.0,29.92,39.429,26.353,,False,False,8473.72,10,British Grand Prix
+BOT,17.0,95.364,2.0,MEDIUM,16.0,1,True,Alfa Romeo,True,9.0,30.081,39.091,26.192,,False,False,8569.084,10,British Grand Prix
+BOT,18.0,95.507,2.0,MEDIUM,17.0,1,True,Alfa Romeo,True,9.0,29.867,39.266,26.374,,False,False,8664.591,10,British Grand Prix
+BOT,19.0,95.103,2.0,MEDIUM,18.0,1,True,Alfa Romeo,True,9.0,29.982,38.925,26.196,,False,False,8759.694,10,British Grand Prix
+BOT,20.0,102.975,2.0,MEDIUM,19.0,1,False,Alfa Romeo,True,11.0,30.363,42.924,29.688,,True,False,8862.669,10,British Grand Prix

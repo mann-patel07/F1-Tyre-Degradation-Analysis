@@ -1,0 +1,1516 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,84.238,1.0,MEDIUM,1.0,12,False,Red Bull Racing,True,1.0,,37.42,21.053,,False,False,3807.435,6,Monaco Grand Prix
+VER,2.0,79.367,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,1.0,20.954,37.366,21.047,,False,False,3886.802,6,Monaco Grand Prix
+VER,3.0,79.074,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,1.0,20.854,37.288,20.932,,False,False,3965.876,6,Monaco Grand Prix
+VER,4.0,78.129,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,1.0,20.835,36.637,20.657,,False,False,4044.005,6,Monaco Grand Prix
+VER,5.0,78.019,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,1.0,20.745,36.734,20.54,,False,False,4122.024,6,Monaco Grand Prix
+VER,6.0,77.64,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,1.0,20.488,36.55,20.602,,False,False,4199.664,6,Monaco Grand Prix
+VER,7.0,77.633,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,1.0,20.483,36.479,20.671,,False,False,4277.297,6,Monaco Grand Prix
+VER,8.0,77.397,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,1.0,20.432,36.457,20.508,,False,False,4354.694,6,Monaco Grand Prix
+VER,9.0,77.031,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,1.0,20.438,36.224,20.369,,False,False,4431.725,6,Monaco Grand Prix
+VER,10.0,77.084,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,1.0,20.452,36.232,20.4,,False,False,4508.809,6,Monaco Grand Prix
+VER,11.0,76.858,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,20.311,36.15,20.397,,False,False,4585.667,6,Monaco Grand Prix
+VER,12.0,76.993,1.0,MEDIUM,12.0,12,True,Red Bull Racing,True,1.0,20.386,36.053,20.554,,False,False,4662.66,6,Monaco Grand Prix
+VER,13.0,77.434,1.0,MEDIUM,13.0,21,True,Red Bull Racing,True,1.0,20.811,36.267,20.356,,False,False,4740.094,6,Monaco Grand Prix
+VER,14.0,77.065,1.0,MEDIUM,14.0,12,True,Red Bull Racing,True,1.0,20.338,36.223,20.504,,False,False,4817.159,6,Monaco Grand Prix
+VER,15.0,77.079,1.0,MEDIUM,15.0,21,True,Red Bull Racing,True,1.0,20.271,36.248,20.56,,False,False,4894.238,6,Monaco Grand Prix
+VER,16.0,76.824,1.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,20.269,36.135,20.42,,False,False,4971.062,6,Monaco Grand Prix
+VER,17.0,76.86,1.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,20.186,36.21,20.464,,False,False,5047.922,6,Monaco Grand Prix
+VER,18.0,76.712,1.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,20.148,36.094,20.47,,False,False,5124.634,6,Monaco Grand Prix
+VER,19.0,76.823,1.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,20.223,36.163,20.437,,False,False,5201.457,6,Monaco Grand Prix
+VER,20.0,77.214,1.0,MEDIUM,20.0,1,True,Red Bull Racing,True,1.0,20.207,36.333,20.674,,False,False,5278.671,6,Monaco Grand Prix
+VER,21.0,76.803,1.0,MEDIUM,21.0,1,True,Red Bull Racing,True,1.0,20.157,36.186,20.46,,False,False,5355.474,6,Monaco Grand Prix
+VER,22.0,76.659,1.0,MEDIUM,22.0,1,True,Red Bull Racing,True,1.0,20.084,36.154,20.421,,False,False,5432.133,6,Monaco Grand Prix
+VER,23.0,76.604,1.0,MEDIUM,23.0,1,True,Red Bull Racing,True,1.0,20.208,36.076,20.32,,False,False,5508.737,6,Monaco Grand Prix
+VER,24.0,76.798,1.0,MEDIUM,24.0,1,True,Red Bull Racing,True,1.0,20.16,36.094,20.544,,False,False,5585.535,6,Monaco Grand Prix
+VER,25.0,77.183,1.0,MEDIUM,25.0,1,True,Red Bull Racing,True,1.0,20.245,36.397,20.541,,False,False,5662.718,6,Monaco Grand Prix
+VER,26.0,77.212,1.0,MEDIUM,26.0,1,True,Red Bull Racing,True,1.0,20.318,36.387,20.507,,False,False,5739.93,6,Monaco Grand Prix
+VER,27.0,77.259,1.0,MEDIUM,27.0,1,True,Red Bull Racing,True,1.0,20.263,36.37,20.626,,False,False,5817.189,6,Monaco Grand Prix
+VER,28.0,77.77,1.0,MEDIUM,28.0,1,True,Red Bull Racing,True,1.0,20.336,36.715,20.719,,False,False,5894.959,6,Monaco Grand Prix
+VER,29.0,78.001,1.0,MEDIUM,29.0,1,True,Red Bull Racing,True,1.0,20.358,36.723,20.92,,False,False,5972.96,6,Monaco Grand Prix
+VER,30.0,78.16,1.0,MEDIUM,30.0,1,True,Red Bull Racing,True,1.0,20.292,36.888,20.98,,False,False,6051.12,6,Monaco Grand Prix
+VER,31.0,78.741,1.0,MEDIUM,31.0,1,True,Red Bull Racing,True,1.0,20.522,37.201,21.018,,False,False,6129.861,6,Monaco Grand Prix
+VER,32.0,78.816,1.0,MEDIUM,32.0,1,True,Red Bull Racing,True,1.0,20.514,37.616,20.686,,False,False,6208.677,6,Monaco Grand Prix
+VER,33.0,78.946,1.0,MEDIUM,33.0,1,True,Red Bull Racing,True,1.0,20.388,37.184,21.374,,False,False,6287.623,6,Monaco Grand Prix
+VER,34.0,78.044,1.0,MEDIUM,34.0,1,True,Red Bull Racing,True,1.0,20.33,36.922,20.792,,False,False,6365.667,6,Monaco Grand Prix
+VER,35.0,78.024,1.0,MEDIUM,35.0,1,True,Red Bull Racing,True,1.0,20.355,36.913,20.756,,False,False,6443.691,6,Monaco Grand Prix
+VER,36.0,77.974,1.0,MEDIUM,36.0,1,True,Red Bull Racing,True,1.0,20.616,36.766,20.592,,False,False,6521.665,6,Monaco Grand Prix
+VER,37.0,77.273,1.0,MEDIUM,37.0,1,True,Red Bull Racing,True,1.0,20.145,36.631,20.497,,False,False,6598.938,6,Monaco Grand Prix
+VER,38.0,77.122,1.0,MEDIUM,38.0,1,True,Red Bull Racing,True,1.0,20.055,36.492,20.575,,False,False,6676.06,6,Monaco Grand Prix
+VER,39.0,76.966,1.0,MEDIUM,39.0,1,True,Red Bull Racing,True,1.0,20.026,36.407,20.533,,False,False,6753.026,6,Monaco Grand Prix
+VER,40.0,77.161,1.0,MEDIUM,40.0,1,True,Red Bull Racing,True,1.0,20.11,36.515,20.536,,False,False,6830.187,6,Monaco Grand Prix
+VER,41.0,76.944,1.0,MEDIUM,41.0,1,True,Red Bull Racing,True,1.0,20.092,36.394,20.458,,False,False,6907.131,6,Monaco Grand Prix
+VER,42.0,76.8,1.0,MEDIUM,42.0,1,True,Red Bull Racing,True,1.0,19.937,36.446,20.417,,False,False,6983.931,6,Monaco Grand Prix
+VER,43.0,76.963,1.0,MEDIUM,43.0,1,True,Red Bull Racing,True,1.0,19.979,36.577,20.407,,False,False,7060.894,6,Monaco Grand Prix
+VER,44.0,76.722,1.0,MEDIUM,44.0,1,True,Red Bull Racing,True,1.0,19.943,36.347,20.432,,False,False,7137.616,6,Monaco Grand Prix
+VER,45.0,76.701,1.0,MEDIUM,45.0,1,True,Red Bull Racing,True,1.0,19.913,36.379,20.409,,False,False,7214.317,6,Monaco Grand Prix
+VER,46.0,77.075,1.0,MEDIUM,46.0,1,True,Red Bull Racing,True,1.0,19.99,36.632,20.453,,False,False,7291.392,6,Monaco Grand Prix
+VER,47.0,77.16,1.0,MEDIUM,47.0,1,True,Red Bull Racing,True,1.0,20.018,36.619,20.523,,False,False,7368.552,6,Monaco Grand Prix
+VER,48.0,77.065,1.0,MEDIUM,48.0,1,True,Red Bull Racing,True,1.0,19.972,36.606,20.487,,False,False,7445.617,6,Monaco Grand Prix
+VER,49.0,77.428,1.0,MEDIUM,49.0,1,True,Red Bull Racing,True,1.0,20.073,36.7,20.655,,False,False,7523.045,6,Monaco Grand Prix
+VER,50.0,77.314,1.0,MEDIUM,50.0,1,True,Red Bull Racing,True,1.0,20.095,36.655,20.564,,False,False,7600.359,6,Monaco Grand Prix
+VER,51.0,77.427,1.0,MEDIUM,51.0,1,True,Red Bull Racing,True,1.0,20.073,36.836,20.518,,False,False,7677.786,6,Monaco Grand Prix
+VER,52.0,84.046,1.0,MEDIUM,52.0,1,True,Red Bull Racing,True,1.0,20.561,41.201,22.284,,False,False,7761.832,6,Monaco Grand Prix
+VER,53.0,89.919,1.0,MEDIUM,53.0,1,True,Red Bull Racing,True,1.0,23.457,44.072,22.39,,False,False,7851.751,6,Monaco Grand Prix
+VER,54.0,98.946,1.0,MEDIUM,54.0,1,True,Red Bull Racing,True,1.0,24.995,49.817,24.134,,False,False,7950.697,6,Monaco Grand Prix
+VER,55.0,130.567,1.0,MEDIUM,55.0,12,False,Red Bull Racing,True,1.0,28.61,55.513,46.444,,True,False,8081.264,6,Monaco Grand Prix
+VER,56.0,106.131,2.0,INTERMEDIATE,1.0,21,False,Red Bull Racing,True,1.0,30.769,48.885,26.477,,False,True,8187.395,6,Monaco Grand Prix
+VER,57.0,103.464,2.0,INTERMEDIATE,2.0,1,True,Red Bull Racing,True,1.0,28.427,48.738,26.299,,False,False,8290.859,6,Monaco Grand Prix
+VER,58.0,102.808,2.0,INTERMEDIATE,3.0,12,True,Red Bull Racing,True,1.0,28.298,47.828,26.682,,False,False,8393.667,6,Monaco Grand Prix
+VER,59.0,103.791,2.0,INTERMEDIATE,4.0,12,True,Red Bull Racing,True,1.0,28.509,48.45,26.832,,False,False,8497.458,6,Monaco Grand Prix
+VER,60.0,101.54,2.0,INTERMEDIATE,5.0,12,True,Red Bull Racing,True,1.0,28.156,47.156,26.228,,False,False,8598.998,6,Monaco Grand Prix
+VER,61.0,100.797,2.0,INTERMEDIATE,6.0,12,True,Red Bull Racing,True,1.0,26.984,47.662,26.151,,False,False,8699.795,6,Monaco Grand Prix
+VER,62.0,99.272,2.0,INTERMEDIATE,7.0,1,True,Red Bull Racing,True,1.0,26.805,46.575,25.892,,False,False,8799.067,6,Monaco Grand Prix
+VER,63.0,99.61,2.0,INTERMEDIATE,8.0,1,True,Red Bull Racing,True,1.0,26.537,47.112,25.961,,False,False,8898.677,6,Monaco Grand Prix
+VER,64.0,98.364,2.0,INTERMEDIATE,9.0,1,True,Red Bull Racing,True,1.0,26.081,46.953,25.33,,False,False,8997.041,6,Monaco Grand Prix
+VER,65.0,97.16,2.0,INTERMEDIATE,10.0,1,True,Red Bull Racing,True,1.0,25.762,46.617,24.781,,False,False,9094.201,6,Monaco Grand Prix
+VER,66.0,94.035,2.0,INTERMEDIATE,11.0,1,True,Red Bull Racing,True,1.0,25.164,45.389,23.482,,False,False,9188.236,6,Monaco Grand Prix
+VER,67.0,92.921,2.0,INTERMEDIATE,12.0,1,True,Red Bull Racing,True,1.0,24.664,45.275,22.982,,False,False,9281.157,6,Monaco Grand Prix
+VER,68.0,93.659,2.0,INTERMEDIATE,13.0,1,True,Red Bull Racing,True,1.0,24.462,45.428,23.769,,False,False,9374.816,6,Monaco Grand Prix
+VER,69.0,91.607,2.0,INTERMEDIATE,14.0,12,True,Red Bull Racing,True,1.0,24.291,44.421,22.895,,False,False,9466.423,6,Monaco Grand Prix
+VER,70.0,91.244,2.0,INTERMEDIATE,15.0,1,True,Red Bull Racing,True,1.0,24.246,43.908,23.09,,False,False,9557.667,6,Monaco Grand Prix
+VER,71.0,90.363,2.0,INTERMEDIATE,16.0,1,True,Red Bull Racing,True,1.0,24.39,43.707,22.266,,False,False,9648.03,6,Monaco Grand Prix
+VER,72.0,90.402,2.0,INTERMEDIATE,17.0,1,True,Red Bull Racing,True,1.0,23.566,44.437,22.399,,False,False,9738.432,6,Monaco Grand Prix
+VER,73.0,88.386,2.0,INTERMEDIATE,18.0,1,True,Red Bull Racing,True,1.0,23.253,42.926,22.207,,False,False,9826.818,6,Monaco Grand Prix
+VER,74.0,86.864,2.0,INTERMEDIATE,19.0,1,True,Red Bull Racing,True,1.0,23.03,42.003,21.831,,False,False,9913.682,6,Monaco Grand Prix
+VER,75.0,85.518,2.0,INTERMEDIATE,20.0,1,True,Red Bull Racing,True,1.0,22.254,41.506,21.758,,False,False,9999.2,6,Monaco Grand Prix
+VER,76.0,85.316,2.0,INTERMEDIATE,21.0,1,True,Red Bull Racing,True,1.0,22.131,41.454,21.731,,False,False,10084.516,6,Monaco Grand Prix
+VER,77.0,85.46,2.0,INTERMEDIATE,22.0,1,True,Red Bull Racing,True,1.0,22.004,41.347,22.109,,False,False,10169.976,6,Monaco Grand Prix
+VER,78.0,85.201,2.0,INTERMEDIATE,23.0,1,True,Red Bull Racing,True,1.0,22.353,40.652,22.196,,False,False,10255.177,6,Monaco Grand Prix
+GAS,1.0,89.701,1.0,HARD,1.0,12,False,Alpine,True,7.0,,39.087,21.849,,False,False,3812.898,6,Monaco Grand Prix
+GAS,2.0,80.636,1.0,HARD,2.0,1,True,Alpine,True,7.0,21.35,37.855,21.431,,False,False,3893.534,6,Monaco Grand Prix
+GAS,3.0,80.282,1.0,HARD,3.0,1,True,Alpine,True,7.0,21.121,37.704,21.457,,False,False,3973.816,6,Monaco Grand Prix
+GAS,4.0,79.577,1.0,HARD,4.0,1,True,Alpine,True,7.0,20.966,37.533,21.078,,False,False,4053.393,6,Monaco Grand Prix
+GAS,5.0,78.893,1.0,HARD,5.0,1,True,Alpine,True,7.0,20.723,37.119,21.051,,False,False,4132.286,6,Monaco Grand Prix
+GAS,6.0,78.842,1.0,HARD,6.0,1,True,Alpine,True,7.0,20.676,37.099,21.067,,False,False,4211.128,6,Monaco Grand Prix
+GAS,7.0,78.604,1.0,HARD,7.0,1,True,Alpine,True,7.0,20.648,36.798,21.158,,False,False,4289.732,6,Monaco Grand Prix
+GAS,8.0,79.317,1.0,HARD,8.0,1,True,Alpine,True,7.0,20.688,37.19,21.439,,False,False,4369.049,6,Monaco Grand Prix
+GAS,9.0,78.788,1.0,HARD,9.0,1,True,Alpine,True,7.0,20.685,37.02,21.083,,False,False,4447.837,6,Monaco Grand Prix
+GAS,10.0,78.31,1.0,HARD,10.0,1,True,Alpine,True,7.0,20.726,36.677,20.907,,False,False,4526.147,6,Monaco Grand Prix
+GAS,11.0,78.367,1.0,HARD,11.0,1,True,Alpine,True,7.0,20.701,36.865,20.801,,False,False,4604.514,6,Monaco Grand Prix
+GAS,12.0,78.582,1.0,HARD,12.0,12,True,Alpine,True,7.0,21.082,36.748,20.752,,False,False,4683.096,6,Monaco Grand Prix
+GAS,13.0,77.713,1.0,HARD,13.0,1,True,Alpine,True,7.0,20.396,36.581,20.736,,False,False,4760.809,6,Monaco Grand Prix
+GAS,14.0,78.564,1.0,HARD,14.0,12,True,Alpine,True,7.0,20.586,36.827,21.151,,False,False,4839.373,6,Monaco Grand Prix
+GAS,15.0,78.284,1.0,HARD,15.0,1,True,Alpine,True,7.0,20.527,36.719,21.038,,False,False,4917.657,6,Monaco Grand Prix
+GAS,16.0,78.298,1.0,HARD,16.0,1,True,Alpine,True,7.0,20.492,36.99,20.816,,False,False,4995.955,6,Monaco Grand Prix
+GAS,17.0,77.99,1.0,HARD,17.0,1,True,Alpine,True,7.0,20.54,36.697,20.753,,False,False,5073.945,6,Monaco Grand Prix
+GAS,18.0,78.453,1.0,HARD,18.0,1,True,Alpine,True,7.0,20.445,36.986,21.022,,False,False,5152.398,6,Monaco Grand Prix
+GAS,19.0,78.109,1.0,HARD,19.0,1,True,Alpine,True,7.0,20.476,36.707,20.926,,False,False,5230.507,6,Monaco Grand Prix
+GAS,20.0,78.587,1.0,HARD,20.0,1,True,Alpine,True,7.0,20.564,36.984,21.039,,False,False,5309.094,6,Monaco Grand Prix
+GAS,21.0,77.81,1.0,HARD,21.0,1,True,Alpine,True,7.0,20.453,36.637,20.72,,False,False,5386.904,6,Monaco Grand Prix
+GAS,22.0,78.213,1.0,HARD,22.0,1,True,Alpine,True,7.0,20.473,36.948,20.792,,False,False,5465.117,6,Monaco Grand Prix
+GAS,23.0,77.942,1.0,HARD,23.0,1,True,Alpine,True,7.0,20.514,36.707,20.721,,False,False,5543.059,6,Monaco Grand Prix
+GAS,24.0,77.577,1.0,HARD,24.0,1,True,Alpine,True,7.0,20.258,36.65,20.669,,False,False,5620.636,6,Monaco Grand Prix
+GAS,25.0,77.54,1.0,HARD,25.0,1,True,Alpine,True,7.0,20.314,36.597,20.629,,False,False,5698.176,6,Monaco Grand Prix
+GAS,26.0,77.912,1.0,HARD,26.0,1,True,Alpine,True,7.0,20.321,36.768,20.823,,False,False,5776.088,6,Monaco Grand Prix
+GAS,27.0,78.012,1.0,HARD,27.0,1,True,Alpine,True,7.0,20.343,36.879,20.79,,False,False,5854.1,6,Monaco Grand Prix
+GAS,28.0,77.285,1.0,HARD,28.0,1,True,Alpine,True,7.0,20.232,36.519,20.534,,False,False,5931.385,6,Monaco Grand Prix
+GAS,29.0,77.373,1.0,HARD,29.0,1,True,Alpine,True,7.0,20.21,36.593,20.57,,False,False,6008.758,6,Monaco Grand Prix
+GAS,30.0,77.083,1.0,HARD,30.0,1,True,Alpine,True,7.0,20.158,36.385,20.54,,False,False,6085.841,6,Monaco Grand Prix
+GAS,31.0,78.015,1.0,HARD,31.0,1,True,Alpine,True,6.0,20.233,36.772,21.01,,False,False,6163.856,6,Monaco Grand Prix
+GAS,32.0,77.384,1.0,HARD,32.0,1,True,Alpine,True,5.0,20.253,36.464,20.667,,False,False,6241.24,6,Monaco Grand Prix
+GAS,33.0,77.45,1.0,HARD,33.0,1,True,Alpine,True,4.0,20.235,36.569,20.646,,False,False,6318.69,6,Monaco Grand Prix
+GAS,34.0,77.207,1.0,HARD,34.0,1,True,Alpine,True,4.0,20.214,36.406,20.587,,False,False,6395.897,6,Monaco Grand Prix
+GAS,35.0,77.421,1.0,HARD,35.0,1,True,Alpine,True,4.0,20.158,36.569,20.694,,False,False,6473.318,6,Monaco Grand Prix
+GAS,36.0,77.668,1.0,HARD,36.0,1,True,Alpine,True,4.0,20.13,36.765,20.773,,False,False,6550.986,6,Monaco Grand Prix
+GAS,37.0,77.212,1.0,HARD,37.0,1,True,Alpine,True,4.0,20.143,36.422,20.647,,False,False,6628.198,6,Monaco Grand Prix
+GAS,38.0,77.556,1.0,HARD,38.0,1,True,Alpine,True,4.0,20.106,36.644,20.806,,False,False,6705.754,6,Monaco Grand Prix
+GAS,39.0,77.102,1.0,HARD,39.0,1,True,Alpine,True,4.0,20.107,36.421,20.574,,False,False,6782.856,6,Monaco Grand Prix
+GAS,40.0,77.221,1.0,HARD,40.0,1,True,Alpine,True,4.0,20.143,36.43,20.648,,False,False,6860.077,6,Monaco Grand Prix
+GAS,41.0,77.654,1.0,HARD,41.0,1,True,Alpine,True,4.0,20.164,36.595,20.895,,False,False,6937.731,6,Monaco Grand Prix
+GAS,42.0,78.559,1.0,HARD,42.0,1,True,Alpine,True,4.0,20.837,36.871,20.851,,False,False,7016.29,6,Monaco Grand Prix
+GAS,43.0,77.699,1.0,HARD,43.0,1,True,Alpine,True,4.0,20.244,36.631,20.824,,False,False,7093.989,6,Monaco Grand Prix
+GAS,44.0,78.042,1.0,HARD,44.0,1,True,Alpine,True,3.0,20.224,36.84,20.978,,False,False,7172.031,6,Monaco Grand Prix
+GAS,45.0,76.839,1.0,HARD,45.0,1,True,Alpine,True,3.0,19.995,36.326,20.518,,False,False,7248.87,6,Monaco Grand Prix
+GAS,46.0,76.997,1.0,HARD,46.0,1,True,Alpine,True,3.0,19.978,36.456,20.563,,False,False,7325.867,6,Monaco Grand Prix
+GAS,47.0,93.267,1.0,HARD,47.0,1,False,Alpine,True,7.0,19.997,36.277,36.993,,True,False,7419.134,6,Monaco Grand Prix
+GAS,48.0,79.884,2.0,MEDIUM,1.0,1,False,Alpine,True,8.0,22.937,36.318,20.629,,False,True,7499.018,6,Monaco Grand Prix
+GAS,49.0,75.831,2.0,MEDIUM,2.0,1,True,Alpine,True,8.0,19.843,35.692,20.296,,False,False,7574.849,6,Monaco Grand Prix
+GAS,50.0,75.955,2.0,MEDIUM,3.0,1,True,Alpine,True,8.0,20.045,35.628,20.282,,False,False,7650.804,6,Monaco Grand Prix
+GAS,51.0,76.711,2.0,MEDIUM,4.0,1,True,Alpine,True,8.0,19.878,36.405,20.428,,False,False,7727.515,6,Monaco Grand Prix
+GAS,52.0,82.349,2.0,MEDIUM,5.0,1,True,Alpine,True,8.0,20.396,39.774,22.179,,False,False,7809.864,6,Monaco Grand Prix
+GAS,53.0,95.781,2.0,MEDIUM,6.0,1,True,Alpine,True,8.0,23.903,49.02,22.858,,False,False,7905.645,6,Monaco Grand Prix
+GAS,54.0,121.097,2.0,MEDIUM,7.0,12,False,Alpine,True,8.0,24.039,49.579,47.479,,True,False,8026.742,6,Monaco Grand Prix
+GAS,55.0,103.22,3.0,INTERMEDIATE,1.0,21,False,Alpine,True,7.0,28.683,48.89,25.647,,False,True,8129.962,6,Monaco Grand Prix
+GAS,56.0,101.478,3.0,INTERMEDIATE,2.0,21,True,Alpine,True,7.0,26.919,47.986,26.573,,False,False,8231.44,6,Monaco Grand Prix
+GAS,57.0,103.496,3.0,INTERMEDIATE,3.0,1,True,Alpine,True,7.0,28.285,48.387,26.824,,False,False,8334.936,6,Monaco Grand Prix
+GAS,58.0,103.238,3.0,INTERMEDIATE,4.0,12,True,Alpine,True,7.0,27.158,47.974,28.106,,False,False,8438.174,6,Monaco Grand Prix
+GAS,59.0,103.477,3.0,INTERMEDIATE,5.0,12,True,Alpine,True,7.0,27.735,47.978,27.764,,False,False,8541.651,6,Monaco Grand Prix
+GAS,60.0,102.923,3.0,INTERMEDIATE,6.0,21,True,Alpine,True,7.0,28.013,47.844,27.066,,False,False,8644.574,6,Monaco Grand Prix
+GAS,61.0,102.263,3.0,INTERMEDIATE,7.0,12,True,Alpine,True,7.0,26.985,48.25,27.028,,False,False,8746.837,6,Monaco Grand Prix
+GAS,62.0,100.864,3.0,INTERMEDIATE,8.0,1,True,Alpine,True,7.0,27.16,47.125,26.579,,False,False,8847.701,6,Monaco Grand Prix
+GAS,63.0,100.28,3.0,INTERMEDIATE,9.0,1,True,Alpine,True,7.0,26.424,47.258,26.598,,False,False,8947.981,6,Monaco Grand Prix
+GAS,64.0,99.374,3.0,INTERMEDIATE,10.0,1,True,Alpine,True,7.0,26.357,46.889,26.128,,False,False,9047.355,6,Monaco Grand Prix
+GAS,65.0,98.169,3.0,INTERMEDIATE,11.0,1,True,Alpine,True,7.0,26.058,46.315,25.796,,False,False,9145.524,6,Monaco Grand Prix
+GAS,66.0,96.252,3.0,INTERMEDIATE,12.0,1,True,Alpine,True,7.0,25.578,45.986,24.688,,False,False,9241.776,6,Monaco Grand Prix
+GAS,67.0,94.612,3.0,INTERMEDIATE,13.0,1,True,Alpine,True,7.0,25.054,45.543,24.015,,False,False,9336.388,6,Monaco Grand Prix
+GAS,68.0,93.318,3.0,INTERMEDIATE,14.0,12,True,Alpine,True,7.0,24.985,45.029,23.304,,False,False,9429.706,6,Monaco Grand Prix
+GAS,69.0,96.097,3.0,INTERMEDIATE,15.0,21,True,Alpine,True,7.0,25.821,45.249,25.027,,False,False,9525.803,6,Monaco Grand Prix
+GAS,70.0,91.098,3.0,INTERMEDIATE,16.0,1,True,Alpine,True,7.0,24.417,44.096,22.585,,False,False,9616.901,6,Monaco Grand Prix
+GAS,71.0,90.098,3.0,INTERMEDIATE,17.0,1,True,Alpine,True,7.0,24.043,44.017,22.038,,False,False,9706.999,6,Monaco Grand Prix
+GAS,72.0,89.916,3.0,INTERMEDIATE,18.0,1,True,Alpine,True,7.0,23.812,44.146,21.958,,False,False,9796.915,6,Monaco Grand Prix
+GAS,73.0,88.128,3.0,INTERMEDIATE,19.0,1,True,Alpine,True,7.0,23.58,42.637,21.911,,False,False,9885.043,6,Monaco Grand Prix
+GAS,74.0,87.856,3.0,INTERMEDIATE,20.0,1,True,Alpine,True,7.0,23.793,42.395,21.668,,False,False,9972.899,6,Monaco Grand Prix
+GAS,75.0,86.378,3.0,INTERMEDIATE,21.0,1,True,Alpine,True,7.0,22.771,41.949,21.658,,False,False,10059.277,6,Monaco Grand Prix
+GAS,76.0,86.077,3.0,INTERMEDIATE,22.0,1,True,Alpine,True,7.0,22.815,41.513,21.749,,False,False,10145.354,6,Monaco Grand Prix
+GAS,77.0,85.607,3.0,INTERMEDIATE,23.0,1,True,Alpine,True,7.0,22.318,41.293,21.996,,False,False,10230.961,6,Monaco Grand Prix
+GAS,78.0,86.578,3.0,INTERMEDIATE,24.0,1,True,Alpine,True,7.0,22.61,41.552,22.416,,False,False,10317.539,6,Monaco Grand Prix
+PER,1.0,118.19,1.0,MEDIUM,1.0,12,False,Red Bull Racing,True,18.0,,45.39,39.598,,True,False,3841.387,6,Monaco Grand Prix
+PER,2.0,79.704,2.0,HARD,1.0,1,False,Red Bull Racing,True,18.0,22.935,36.337,20.432,,False,True,3921.091,6,Monaco Grand Prix
+PER,3.0,76.387,2.0,HARD,2.0,1,True,Red Bull Racing,True,18.0,20.282,35.738,20.367,,False,False,3997.478,6,Monaco Grand Prix
+PER,4.0,76.535,2.0,HARD,3.0,1,True,Red Bull Racing,True,18.0,20.292,35.774,20.469,,False,False,4074.013,6,Monaco Grand Prix
+PER,5.0,76.269,2.0,HARD,4.0,1,True,Red Bull Racing,True,18.0,20.267,35.734,20.268,,False,False,4150.282,6,Monaco Grand Prix
+PER,6.0,76.458,2.0,HARD,5.0,1,True,Red Bull Racing,True,18.0,20.16,35.801,20.497,,False,False,4226.74,6,Monaco Grand Prix
+PER,7.0,77.399,2.0,HARD,6.0,1,True,Red Bull Racing,True,18.0,20.511,36.114,20.774,,False,False,4304.139,6,Monaco Grand Prix
+PER,8.0,77.937,2.0,HARD,7.0,1,True,Red Bull Racing,True,18.0,20.513,36.628,20.796,,False,False,4382.076,6,Monaco Grand Prix
+PER,9.0,78.254,2.0,HARD,8.0,1,True,Red Bull Racing,True,18.0,20.758,36.55,20.946,,False,False,4460.33,6,Monaco Grand Prix
+PER,10.0,79.787,2.0,HARD,9.0,1,True,Red Bull Racing,True,18.0,21.116,37.49,21.181,,False,False,4540.117,6,Monaco Grand Prix
+PER,11.0,79.848,2.0,HARD,10.0,12,True,Red Bull Racing,True,18.0,21.206,37.371,21.271,,False,False,4619.965,6,Monaco Grand Prix
+PER,12.0,80.433,2.0,HARD,11.0,21,True,Red Bull Racing,True,18.0,21.687,37.445,21.301,,False,False,4700.398,6,Monaco Grand Prix
+PER,13.0,80.797,2.0,HARD,12.0,1,True,Red Bull Racing,True,18.0,21.434,38.023,21.34,,False,False,4781.195,6,Monaco Grand Prix
+PER,14.0,80.283,2.0,HARD,13.0,12,True,Red Bull Racing,True,18.0,21.311,37.875,21.097,,False,False,4861.478,6,Monaco Grand Prix
+PER,15.0,80.418,2.0,HARD,14.0,1,True,Red Bull Racing,True,18.0,21.272,37.911,21.235,,False,False,4941.896,6,Monaco Grand Prix
+PER,16.0,80.487,2.0,HARD,15.0,1,True,Red Bull Racing,True,18.0,21.144,37.921,21.422,,False,False,5022.383,6,Monaco Grand Prix
+PER,17.0,81.315,2.0,HARD,16.0,1,True,Red Bull Racing,True,17.0,21.303,38.271,21.741,,False,False,5103.698,6,Monaco Grand Prix
+PER,18.0,78.092,2.0,HARD,17.0,1,True,Red Bull Racing,True,16.0,20.636,36.662,20.794,,False,False,5181.79,6,Monaco Grand Prix
+PER,19.0,77.867,2.0,HARD,18.0,1,True,Red Bull Racing,True,16.0,20.601,36.623,20.643,,False,False,5259.657,6,Monaco Grand Prix
+PER,20.0,77.979,2.0,HARD,19.0,1,True,Red Bull Racing,True,16.0,20.55,36.622,20.807,,False,False,5337.636,6,Monaco Grand Prix
+PER,21.0,78.523,2.0,HARD,20.0,1,True,Red Bull Racing,True,16.0,20.706,36.755,21.062,,False,False,5416.159,6,Monaco Grand Prix
+PER,22.0,78.803,2.0,HARD,21.0,1,True,Red Bull Racing,True,16.0,20.812,37.101,20.89,,False,False,5494.962,6,Monaco Grand Prix
+PER,23.0,78.604,2.0,HARD,22.0,1,True,Red Bull Racing,True,16.0,20.663,36.867,21.074,,False,False,5573.566,6,Monaco Grand Prix
+PER,24.0,78.624,2.0,HARD,23.0,1,True,Red Bull Racing,True,16.0,20.773,37.019,20.832,,False,False,5652.19,6,Monaco Grand Prix
+PER,25.0,78.541,2.0,HARD,24.0,1,True,Red Bull Racing,True,16.0,20.766,37.022,20.753,,False,False,5730.731,6,Monaco Grand Prix
+PER,26.0,79.877,2.0,HARD,25.0,1,True,Red Bull Racing,True,16.0,21.045,37.661,21.171,,False,False,5810.608,6,Monaco Grand Prix
+PER,27.0,79.319,2.0,HARD,26.0,1,True,Red Bull Racing,True,16.0,20.679,37.368,21.272,,False,False,5889.927,6,Monaco Grand Prix
+PER,28.0,79.611,2.0,HARD,27.0,1,True,Red Bull Racing,True,16.0,20.867,37.649,21.095,,False,False,5969.538,6,Monaco Grand Prix
+PER,29.0,79.986,2.0,HARD,28.0,1,True,Red Bull Racing,True,16.0,20.802,38.012,21.172,,False,False,6049.524,6,Monaco Grand Prix
+PER,30.0,80.771,2.0,HARD,29.0,1,True,Red Bull Racing,True,16.0,20.99,38.914,20.867,,False,False,6130.295,6,Monaco Grand Prix
+PER,31.0,79.292,2.0,HARD,30.0,1,True,Red Bull Racing,True,15.0,20.676,37.685,20.931,,False,False,6209.587,6,Monaco Grand Prix
+PER,32.0,79.607,2.0,HARD,31.0,1,True,Red Bull Racing,True,15.0,20.311,38.121,21.175,,False,False,6289.194,6,Monaco Grand Prix
+PER,33.0,82.083,2.0,HARD,32.0,1,True,Red Bull Racing,True,16.0,20.747,39.559,21.777,,False,False,6371.277,6,Monaco Grand Prix
+PER,34.0,106.451,2.0,HARD,33.0,1,False,Red Bull Racing,True,19.0,21.041,38.77,46.64,,True,False,6477.728,6,Monaco Grand Prix
+PER,35.0,79.581,3.0,MEDIUM,2.0,1,False,Red Bull Racing,False,19.0,22.615,36.538,20.428,,False,True,6557.309,6,Monaco Grand Prix
+PER,36.0,76.882,3.0,MEDIUM,3.0,1,True,Red Bull Racing,False,19.0,20.285,36.09,20.507,,False,False,6634.191,6,Monaco Grand Prix
+PER,37.0,76.706,3.0,MEDIUM,4.0,1,True,Red Bull Racing,False,19.0,20.132,36.231,20.343,,False,False,6710.897,6,Monaco Grand Prix
+PER,38.0,76.353,3.0,MEDIUM,5.0,1,True,Red Bull Racing,False,19.0,20.058,36.054,20.241,,False,False,6787.25,6,Monaco Grand Prix
+PER,39.0,76.445,3.0,MEDIUM,6.0,1,True,Red Bull Racing,False,19.0,20.114,36.082,20.249,,False,False,6863.695,6,Monaco Grand Prix
+PER,40.0,76.755,3.0,MEDIUM,7.0,1,True,Red Bull Racing,False,19.0,19.979,36.34,20.436,,False,False,6940.45,6,Monaco Grand Prix
+PER,41.0,77.959,3.0,MEDIUM,8.0,1,True,Red Bull Racing,False,19.0,20.3,36.784,20.875,,False,False,7018.409,6,Monaco Grand Prix
+PER,42.0,77.46,3.0,MEDIUM,9.0,1,True,Red Bull Racing,False,19.0,20.269,36.496,20.695,,False,False,7095.869,6,Monaco Grand Prix
+PER,43.0,77.847,3.0,MEDIUM,10.0,1,True,Red Bull Racing,False,19.0,20.328,36.787,20.732,,False,False,7173.716,6,Monaco Grand Prix
+PER,44.0,77.616,3.0,MEDIUM,11.0,1,True,Red Bull Racing,False,19.0,20.365,36.641,20.61,,False,False,7251.332,6,Monaco Grand Prix
+PER,45.0,77.128,3.0,MEDIUM,12.0,1,True,Red Bull Racing,False,19.0,20.104,36.446,20.578,,False,False,7328.46,6,Monaco Grand Prix
+PER,46.0,77.047,3.0,MEDIUM,13.0,1,True,Red Bull Racing,False,19.0,20.165,36.405,20.477,,False,False,7405.507,6,Monaco Grand Prix
+PER,47.0,76.859,3.0,MEDIUM,14.0,1,True,Red Bull Racing,False,19.0,20.214,36.171,20.474,,False,False,7482.366,6,Monaco Grand Prix
+PER,48.0,76.98,3.0,MEDIUM,15.0,1,True,Red Bull Racing,False,19.0,20.086,36.499,20.395,,False,False,7559.346,6,Monaco Grand Prix
+PER,49.0,78.524,3.0,MEDIUM,16.0,1,True,Red Bull Racing,False,19.0,20.226,37.083,21.215,,False,False,7637.87,6,Monaco Grand Prix
+PER,50.0,84.856,3.0,MEDIUM,17.0,1,True,Red Bull Racing,False,19.0,20.634,39.819,24.403,,False,False,7722.726,6,Monaco Grand Prix
+PER,51.0,85.645,3.0,MEDIUM,18.0,1,True,Red Bull Racing,False,17.0,21.454,41.735,22.456,,False,False,7808.371,6,Monaco Grand Prix
+PER,52.0,98.2,3.0,MEDIUM,19.0,1,True,Red Bull Racing,False,15.0,24.84,50.001,23.359,,False,False,7906.571,6,Monaco Grand Prix
+PER,53.0,115.544,3.0,MEDIUM,20.0,1,False,Red Bull Racing,False,19.0,23.928,50.178,41.438,,True,False,8022.115,6,Monaco Grand Prix
+PER,54.0,102.332,4.0,INTERMEDIATE,1.0,12,False,Red Bull Racing,True,17.0,27.307,49.163,25.862,,False,True,8124.447,6,Monaco Grand Prix
+PER,55.0,100.446,4.0,INTERMEDIATE,2.0,21,True,Red Bull Racing,True,17.0,26.321,47.575,26.55,,False,False,8224.893,6,Monaco Grand Prix
+PER,56.0,105.055,4.0,INTERMEDIATE,3.0,1,True,Red Bull Racing,True,16.0,29.044,48.988,27.023,,False,False,8329.948,6,Monaco Grand Prix
+PER,57.0,125.839,4.0,INTERMEDIATE,4.0,12,False,Red Bull Racing,True,17.0,27.613,47.84,50.386,,True,False,8455.787,6,Monaco Grand Prix
+PER,58.0,105.989,5.0,WET,1.0,12,False,Red Bull Racing,True,17.0,29.661,49.225,27.103,,False,True,8561.776,6,Monaco Grand Prix
+PER,59.0,100.595,5.0,WET,2.0,21,True,Red Bull Racing,True,16.0,27.084,46.715,26.796,,False,False,8662.371,6,Monaco Grand Prix
+PER,60.0,101.082,5.0,WET,3.0,12,True,Red Bull Racing,True,16.0,26.829,47.719,26.534,,False,False,8763.453,6,Monaco Grand Prix
+PER,61.0,101.22,5.0,WET,4.0,1,True,Red Bull Racing,True,16.0,26.414,48.483,26.323,,False,False,8864.673,6,Monaco Grand Prix
+PER,62.0,99.631,5.0,WET,5.0,1,True,Red Bull Racing,True,16.0,26.075,47.019,26.537,,False,False,8964.304,6,Monaco Grand Prix
+PER,63.0,99.405,5.0,WET,6.0,1,True,Red Bull Racing,True,16.0,26.459,47.105,25.841,,False,False,9063.709,6,Monaco Grand Prix
+PER,64.0,97.112,5.0,WET,7.0,1,True,Red Bull Racing,True,16.0,25.634,46.525,24.953,,False,False,9160.821,6,Monaco Grand Prix
+PER,65.0,97.675,5.0,WET,8.0,1,True,Red Bull Racing,True,16.0,26.152,47.094,24.429,,False,False,9258.496,6,Monaco Grand Prix
+PER,66.0,96.451,5.0,WET,9.0,1,True,Red Bull Racing,True,16.0,25.048,46.628,24.775,,False,False,9354.947,6,Monaco Grand Prix
+PER,67.0,95.957,5.0,WET,10.0,12,True,Red Bull Racing,True,16.0,24.856,46.372,24.729,,False,False,9450.904,6,Monaco Grand Prix
+PER,68.0,96.297,5.0,WET,11.0,21,True,Red Bull Racing,True,16.0,25.957,46.149,24.191,,False,False,9547.201,6,Monaco Grand Prix
+PER,69.0,95.708,5.0,WET,12.0,1,True,Red Bull Racing,True,16.0,25.159,46.111,24.438,,False,False,9642.909,6,Monaco Grand Prix
+PER,70.0,118.066,5.0,WET,13.0,1,False,Red Bull Racing,True,17.0,26.043,49.873,42.15,,True,False,9760.975,6,Monaco Grand Prix
+PER,71.0,96.744,6.0,INTERMEDIATE,1.0,1,False,Red Bull Racing,True,17.0,27.39,46.278,23.076,,False,True,9857.719,6,Monaco Grand Prix
+PER,72.0,89.537,6.0,INTERMEDIATE,2.0,1,True,Red Bull Racing,True,17.0,23.628,43.487,22.422,,False,False,9947.256,6,Monaco Grand Prix
+PER,73.0,86.82,6.0,INTERMEDIATE,3.0,1,True,Red Bull Racing,True,17.0,22.267,42.197,22.356,,False,False,10034.076,6,Monaco Grand Prix
+PER,74.0,85.704,6.0,INTERMEDIATE,4.0,1,True,Red Bull Racing,True,17.0,22.036,41.152,22.516,,False,False,10119.78,6,Monaco Grand Prix
+PER,75.0,94.148,6.0,INTERMEDIATE,5.0,1,True,Red Bull Racing,True,17.0,23.99,46.718,23.44,,False,False,10213.928,6,Monaco Grand Prix
+PER,76.0,90.273,6.0,INTERMEDIATE,6.0,1,True,Red Bull Racing,True,17.0,23.899,43.256,23.118,,False,False,10304.201,6,Monaco Grand Prix
+ALO,1.0,85.527,1.0,HARD,2.0,12,False,Aston Martin,False,2.0,,37.981,21.254,,False,False,3808.724,6,Monaco Grand Prix
+ALO,2.0,79.646,1.0,HARD,3.0,1,True,Aston Martin,False,2.0,20.871,37.656,21.119,,False,False,3888.37,6,Monaco Grand Prix
+ALO,3.0,79.113,1.0,HARD,4.0,1,True,Aston Martin,False,2.0,20.649,37.348,21.116,,False,False,3967.483,6,Monaco Grand Prix
+ALO,4.0,78.776,1.0,HARD,5.0,1,True,Aston Martin,False,2.0,20.584,37.221,20.971,,False,False,4046.259,6,Monaco Grand Prix
+ALO,5.0,77.939,1.0,HARD,6.0,1,True,Aston Martin,False,2.0,20.37,36.729,20.84,,False,False,4124.198,6,Monaco Grand Prix
+ALO,6.0,77.952,1.0,HARD,7.0,1,True,Aston Martin,False,2.0,20.424,36.669,20.859,,False,False,4202.15,6,Monaco Grand Prix
+ALO,7.0,77.505,1.0,HARD,8.0,1,True,Aston Martin,False,2.0,20.33,36.535,20.64,,False,False,4279.655,6,Monaco Grand Prix
+ALO,8.0,77.391,1.0,HARD,9.0,1,True,Aston Martin,False,2.0,20.266,36.514,20.611,,False,False,4357.046,6,Monaco Grand Prix
+ALO,9.0,77.783,1.0,HARD,10.0,1,True,Aston Martin,False,2.0,20.229,36.675,20.879,,False,False,4434.829,6,Monaco Grand Prix
+ALO,10.0,77.324,1.0,HARD,11.0,1,True,Aston Martin,False,2.0,20.143,36.488,20.693,,False,False,4512.153,6,Monaco Grand Prix
+ALO,11.0,77.249,1.0,HARD,12.0,1,True,Aston Martin,False,2.0,20.216,36.375,20.658,,False,False,4589.402,6,Monaco Grand Prix
+ALO,12.0,77.588,1.0,HARD,13.0,12,True,Aston Martin,False,2.0,20.251,36.35,20.987,,False,False,4666.99,6,Monaco Grand Prix
+ALO,13.0,78.443,1.0,HARD,14.0,21,True,Aston Martin,False,2.0,20.525,36.585,21.333,,False,False,4745.433,6,Monaco Grand Prix
+ALO,14.0,77.508,1.0,HARD,15.0,12,True,Aston Martin,False,2.0,20.194,36.591,20.723,,False,False,4822.941,6,Monaco Grand Prix
+ALO,15.0,77.444,1.0,HARD,16.0,1,True,Aston Martin,False,2.0,20.171,36.502,20.771,,False,False,4900.385,6,Monaco Grand Prix
+ALO,16.0,77.17,1.0,HARD,17.0,1,True,Aston Martin,False,2.0,20.23,36.363,20.577,,False,False,4977.555,6,Monaco Grand Prix
+ALO,17.0,77.699,1.0,HARD,18.0,1,True,Aston Martin,False,2.0,20.34,36.596,20.763,,False,False,5055.254,6,Monaco Grand Prix
+ALO,18.0,77.528,1.0,HARD,19.0,1,True,Aston Martin,False,2.0,20.206,36.547,20.775,,False,False,5132.782,6,Monaco Grand Prix
+ALO,19.0,77.258,1.0,HARD,20.0,1,True,Aston Martin,False,2.0,20.174,36.447,20.637,,False,False,5210.04,6,Monaco Grand Prix
+ALO,20.0,77.13,1.0,HARD,21.0,1,True,Aston Martin,False,2.0,20.139,36.403,20.588,,False,False,5287.17,6,Monaco Grand Prix
+ALO,21.0,77.664,1.0,HARD,22.0,1,True,Aston Martin,False,2.0,20.223,36.546,20.895,,False,False,5364.834,6,Monaco Grand Prix
+ALO,22.0,77.947,1.0,HARD,23.0,1,True,Aston Martin,False,2.0,20.394,36.673,20.88,,False,False,5442.781,6,Monaco Grand Prix
+ALO,23.0,77.272,1.0,HARD,24.0,1,True,Aston Martin,False,2.0,20.109,36.449,20.714,,False,False,5520.053,6,Monaco Grand Prix
+ALO,24.0,77.285,1.0,HARD,25.0,1,True,Aston Martin,False,2.0,20.122,36.464,20.699,,False,False,5597.338,6,Monaco Grand Prix
+ALO,25.0,77.182,1.0,HARD,26.0,1,True,Aston Martin,False,2.0,20.018,36.428,20.736,,False,False,5674.52,6,Monaco Grand Prix
+ALO,26.0,77.141,1.0,HARD,27.0,1,True,Aston Martin,False,2.0,20.057,36.346,20.738,,False,False,5751.661,6,Monaco Grand Prix
+ALO,27.0,77.228,1.0,HARD,28.0,1,True,Aston Martin,False,2.0,20.018,36.47,20.74,,False,False,5828.889,6,Monaco Grand Prix
+ALO,28.0,77.562,1.0,HARD,29.0,1,True,Aston Martin,False,2.0,20.224,36.581,20.757,,False,False,5906.451,6,Monaco Grand Prix
+ALO,29.0,77.111,1.0,HARD,30.0,1,True,Aston Martin,False,2.0,20.075,36.445,20.591,,False,False,5983.562,6,Monaco Grand Prix
+ALO,30.0,76.965,1.0,HARD,31.0,1,True,Aston Martin,False,2.0,20.035,36.332,20.598,,False,False,6060.527,6,Monaco Grand Prix
+ALO,31.0,77.259,1.0,HARD,32.0,1,True,Aston Martin,False,2.0,20.008,36.459,20.792,,False,False,6137.786,6,Monaco Grand Prix
+ALO,32.0,77.637,1.0,HARD,33.0,1,True,Aston Martin,False,2.0,20.096,36.618,20.923,,False,False,6215.423,6,Monaco Grand Prix
+ALO,33.0,77.816,1.0,HARD,34.0,1,True,Aston Martin,False,2.0,20.289,36.672,20.855,,False,False,6293.239,6,Monaco Grand Prix
+ALO,34.0,79.297,1.0,HARD,35.0,1,True,Aston Martin,False,2.0,20.377,37.388,21.532,,False,False,6372.536,6,Monaco Grand Prix
+ALO,35.0,78.634,1.0,HARD,36.0,1,True,Aston Martin,False,2.0,20.651,37.116,20.867,,False,False,6451.17,6,Monaco Grand Prix
+ALO,36.0,77.876,1.0,HARD,37.0,1,True,Aston Martin,False,2.0,20.203,36.792,20.881,,False,False,6529.046,6,Monaco Grand Prix
+ALO,37.0,77.974,1.0,HARD,38.0,1,True,Aston Martin,False,2.0,20.265,37.02,20.689,,False,False,6607.02,6,Monaco Grand Prix
+ALO,38.0,77.141,1.0,HARD,39.0,1,True,Aston Martin,False,2.0,20.056,36.463,20.622,,False,False,6684.161,6,Monaco Grand Prix
+ALO,39.0,77.705,1.0,HARD,40.0,1,True,Aston Martin,False,2.0,20.213,36.826,20.666,,False,False,6761.866,6,Monaco Grand Prix
+ALO,40.0,77.63,1.0,HARD,41.0,1,True,Aston Martin,False,2.0,20.249,36.856,20.525,,False,False,6839.496,6,Monaco Grand Prix
+ALO,41.0,77.016,1.0,HARD,42.0,1,True,Aston Martin,False,2.0,20.069,36.395,20.552,,False,False,6916.512,6,Monaco Grand Prix
+ALO,42.0,76.719,1.0,HARD,43.0,1,True,Aston Martin,False,2.0,19.94,36.431,20.348,,False,False,6993.231,6,Monaco Grand Prix
+ALO,43.0,76.674,1.0,HARD,44.0,1,True,Aston Martin,False,2.0,19.813,36.396,20.465,,False,False,7069.905,6,Monaco Grand Prix
+ALO,44.0,76.919,1.0,HARD,45.0,1,True,Aston Martin,False,2.0,19.801,36.498,20.62,,False,False,7146.824,6,Monaco Grand Prix
+ALO,45.0,76.862,1.0,HARD,46.0,1,True,Aston Martin,False,2.0,19.904,36.379,20.579,,False,False,7223.686,6,Monaco Grand Prix
+ALO,46.0,77.114,1.0,HARD,47.0,1,True,Aston Martin,False,2.0,19.866,36.563,20.685,,False,False,7300.8,6,Monaco Grand Prix
+ALO,47.0,77.108,1.0,HARD,48.0,1,True,Aston Martin,False,2.0,19.867,36.608,20.633,,False,False,7377.908,6,Monaco Grand Prix
+ALO,48.0,76.931,1.0,HARD,49.0,1,True,Aston Martin,False,2.0,19.939,36.441,20.551,,False,False,7454.839,6,Monaco Grand Prix
+ALO,49.0,76.992,1.0,HARD,50.0,1,True,Aston Martin,False,2.0,19.967,36.487,20.538,,False,False,7531.831,6,Monaco Grand Prix
+ALO,50.0,77.408,1.0,HARD,51.0,1,True,Aston Martin,False,2.0,20.235,36.595,20.578,,False,False,7609.239,6,Monaco Grand Prix
+ALO,51.0,79.991,1.0,HARD,52.0,1,True,Aston Martin,False,2.0,20.122,38.591,21.278,,False,False,7689.23,6,Monaco Grand Prix
+ALO,52.0,84.967,1.0,HARD,53.0,1,True,Aston Martin,False,2.0,21.314,41.811,21.842,,False,False,7774.197,6,Monaco Grand Prix
+ALO,53.0,90.862,1.0,HARD,54.0,1,True,Aston Martin,False,2.0,24.002,44.284,22.576,,False,False,7865.059,6,Monaco Grand Prix
+ALO,54.0,110.311,1.0,HARD,55.0,1,False,Aston Martin,False,2.0,23.855,46.657,39.799,,True,False,7975.37,6,Monaco Grand Prix
+ALO,55.0,126.635,2.0,MEDIUM,2.0,12,False,Aston Martin,False,2.0,28.66,51.697,46.278,,True,True,8102.005,6,Monaco Grand Prix
+ALO,56.0,108.531,3.0,INTERMEDIATE,1.0,21,False,Aston Martin,True,2.0,28.632,52.761,27.138,,False,True,8210.536,6,Monaco Grand Prix
+ALO,57.0,102.581,3.0,INTERMEDIATE,2.0,1,True,Aston Martin,True,2.0,27.468,48.109,27.004,,False,False,8313.117,6,Monaco Grand Prix
+ALO,58.0,101.267,3.0,INTERMEDIATE,3.0,12,True,Aston Martin,True,2.0,27.014,48.02,26.233,,False,False,8414.384,6,Monaco Grand Prix
+ALO,59.0,100.897,3.0,INTERMEDIATE,4.0,21,True,Aston Martin,True,2.0,27.06,47.367,26.47,,False,False,8515.281,6,Monaco Grand Prix
+ALO,60.0,100.638,3.0,INTERMEDIATE,5.0,12,True,Aston Martin,True,2.0,26.776,47.743,26.119,,False,False,8615.919,6,Monaco Grand Prix
+ALO,61.0,102.727,3.0,INTERMEDIATE,6.0,12,True,Aston Martin,True,2.0,26.367,48.926,27.434,,False,False,8718.646,6,Monaco Grand Prix
+ALO,62.0,100.467,3.0,INTERMEDIATE,7.0,1,True,Aston Martin,True,2.0,26.363,48.029,26.075,,False,False,8819.113,6,Monaco Grand Prix
+ALO,63.0,99.671,3.0,INTERMEDIATE,8.0,1,True,Aston Martin,True,2.0,26.319,47.663,25.689,,False,False,8918.784,6,Monaco Grand Prix
+ALO,64.0,98.135,3.0,INTERMEDIATE,9.0,1,True,Aston Martin,True,2.0,26.027,46.527,25.581,,False,False,9016.919,6,Monaco Grand Prix
+ALO,65.0,97.64,3.0,INTERMEDIATE,10.0,1,True,Aston Martin,True,2.0,25.477,47.158,25.005,,False,False,9114.559,6,Monaco Grand Prix
+ALO,66.0,96.332,3.0,INTERMEDIATE,11.0,1,True,Aston Martin,True,2.0,25.34,46.386,24.606,,False,False,9210.891,6,Monaco Grand Prix
+ALO,67.0,93.205,3.0,INTERMEDIATE,12.0,1,True,Aston Martin,True,2.0,24.615,45.444,23.146,,False,False,9304.096,6,Monaco Grand Prix
+ALO,68.0,92.841,3.0,INTERMEDIATE,13.0,1,True,Aston Martin,True,2.0,24.387,45.525,22.929,,False,False,9396.937,6,Monaco Grand Prix
+ALO,69.0,93.864,3.0,INTERMEDIATE,14.0,12,True,Aston Martin,True,2.0,24.955,45.556,23.353,,False,False,9490.801,6,Monaco Grand Prix
+ALO,70.0,91.23,3.0,INTERMEDIATE,15.0,1,True,Aston Martin,True,2.0,24.359,44.422,22.449,,False,False,9582.031,6,Monaco Grand Prix
+ALO,71.0,91.057,3.0,INTERMEDIATE,16.0,1,True,Aston Martin,True,2.0,23.765,44.952,22.34,,False,False,9673.088,6,Monaco Grand Prix
+ALO,72.0,89.419,3.0,INTERMEDIATE,17.0,1,True,Aston Martin,True,2.0,23.604,43.53,22.285,,False,False,9762.507,6,Monaco Grand Prix
+ALO,73.0,90.346,3.0,INTERMEDIATE,18.0,1,True,Aston Martin,True,2.0,24.253,43.531,22.562,,False,False,9852.853,6,Monaco Grand Prix
+ALO,74.0,87.245,3.0,INTERMEDIATE,19.0,1,True,Aston Martin,True,2.0,23.068,42.166,22.011,,False,False,9940.098,6,Monaco Grand Prix
+ALO,75.0,85.7,3.0,INTERMEDIATE,20.0,1,True,Aston Martin,True,2.0,22.592,41.209,21.899,,False,False,10025.798,6,Monaco Grand Prix
+ALO,76.0,86.931,3.0,INTERMEDIATE,21.0,1,True,Aston Martin,True,2.0,23.072,41.645,22.214,,False,False,10112.729,6,Monaco Grand Prix
+ALO,77.0,84.701,3.0,INTERMEDIATE,22.0,1,True,Aston Martin,True,2.0,22.164,40.949,21.588,,False,False,10197.43,6,Monaco Grand Prix
+ALO,78.0,85.668,3.0,INTERMEDIATE,23.0,1,True,Aston Martin,True,2.0,22.513,40.91,22.245,,False,False,10283.098,6,Monaco Grand Prix
+LEC,1.0,89.108,1.0,HARD,1.0,12,False,Ferrari,True,6.0,,38.983,21.868,,False,False,3812.305,6,Monaco Grand Prix
+LEC,2.0,80.549,1.0,HARD,2.0,1,True,Ferrari,True,6.0,21.352,37.692,21.505,,False,False,3892.854,6,Monaco Grand Prix
+LEC,3.0,80.021,1.0,HARD,3.0,1,True,Ferrari,True,6.0,21.051,37.547,21.423,,False,False,3972.875,6,Monaco Grand Prix
+LEC,4.0,79.468,1.0,HARD,4.0,1,True,Ferrari,True,6.0,21.023,37.375,21.07,,False,False,4052.343,6,Monaco Grand Prix
+LEC,5.0,78.837,1.0,HARD,5.0,1,True,Ferrari,True,6.0,20.803,37.198,20.836,,False,False,4131.18,6,Monaco Grand Prix
+LEC,6.0,78.829,1.0,HARD,6.0,1,True,Ferrari,True,6.0,20.697,37.19,20.942,,False,False,4210.009,6,Monaco Grand Prix
+LEC,7.0,78.645,1.0,HARD,7.0,1,True,Ferrari,True,6.0,20.79,36.76,21.095,,False,False,4288.654,6,Monaco Grand Prix
+LEC,8.0,79.165,1.0,HARD,8.0,1,True,Ferrari,True,6.0,20.826,37.057,21.282,,False,False,4367.819,6,Monaco Grand Prix
+LEC,9.0,78.809,1.0,HARD,9.0,1,True,Ferrari,True,6.0,20.864,37.097,20.848,,False,False,4446.628,6,Monaco Grand Prix
+LEC,10.0,78.219,1.0,HARD,10.0,1,True,Ferrari,True,6.0,20.645,36.61,20.964,,False,False,4524.847,6,Monaco Grand Prix
+LEC,11.0,78.162,1.0,HARD,11.0,1,True,Ferrari,True,6.0,20.648,36.793,20.721,,False,False,4603.009,6,Monaco Grand Prix
+LEC,12.0,78.15,1.0,HARD,12.0,12,True,Ferrari,True,6.0,20.704,36.657,20.789,,False,False,4681.159,6,Monaco Grand Prix
+LEC,13.0,78.018,1.0,HARD,13.0,1,True,Ferrari,True,6.0,20.509,36.724,20.785,,False,False,4759.177,6,Monaco Grand Prix
+LEC,14.0,78.394,1.0,HARD,14.0,12,True,Ferrari,True,6.0,20.523,36.988,20.883,,False,False,4837.571,6,Monaco Grand Prix
+LEC,15.0,78.312,1.0,HARD,15.0,1,True,Ferrari,True,6.0,20.414,36.991,20.907,,False,False,4915.883,6,Monaco Grand Prix
+LEC,16.0,78.316,1.0,HARD,16.0,1,True,Ferrari,True,6.0,20.527,37.0,20.789,,False,False,4994.199,6,Monaco Grand Prix
+LEC,17.0,78.234,1.0,HARD,17.0,1,True,Ferrari,True,6.0,20.379,36.936,20.919,,False,False,5072.433,6,Monaco Grand Prix
+LEC,18.0,78.361,1.0,HARD,18.0,1,True,Ferrari,True,6.0,20.446,37.09,20.825,,False,False,5150.794,6,Monaco Grand Prix
+LEC,19.0,78.19,1.0,HARD,19.0,1,True,Ferrari,True,6.0,20.465,36.953,20.772,,False,False,5228.984,6,Monaco Grand Prix
+LEC,20.0,78.365,1.0,HARD,20.0,1,True,Ferrari,True,6.0,20.385,37.097,20.883,,False,False,5307.349,6,Monaco Grand Prix
+LEC,21.0,78.127,1.0,HARD,21.0,1,True,Ferrari,True,6.0,20.279,36.815,21.033,,False,False,5385.476,6,Monaco Grand Prix
+LEC,22.0,77.886,1.0,HARD,22.0,1,True,Ferrari,True,6.0,20.386,36.791,20.709,,False,False,5463.362,6,Monaco Grand Prix
+LEC,23.0,77.922,1.0,HARD,23.0,1,True,Ferrari,True,6.0,20.291,36.848,20.783,,False,False,5541.284,6,Monaco Grand Prix
+LEC,24.0,77.586,1.0,HARD,24.0,1,True,Ferrari,True,6.0,20.22,36.631,20.735,,False,False,5618.87,6,Monaco Grand Prix
+LEC,25.0,77.619,1.0,HARD,25.0,1,True,Ferrari,True,6.0,20.203,36.65,20.766,,False,False,5696.489,6,Monaco Grand Prix
+LEC,26.0,77.879,1.0,HARD,26.0,1,True,Ferrari,True,6.0,20.255,36.647,20.977,,False,False,5774.368,6,Monaco Grand Prix
+LEC,27.0,77.602,1.0,HARD,27.0,1,True,Ferrari,True,6.0,20.25,36.616,20.736,,False,False,5851.97,6,Monaco Grand Prix
+LEC,28.0,77.48,1.0,HARD,28.0,1,True,Ferrari,True,6.0,20.11,36.671,20.699,,False,False,5929.45,6,Monaco Grand Prix
+LEC,29.0,77.065,1.0,HARD,29.0,1,True,Ferrari,True,6.0,20.112,36.372,20.581,,False,False,6006.515,6,Monaco Grand Prix
+LEC,30.0,77.559,1.0,HARD,30.0,1,True,Ferrari,True,6.0,20.209,36.701,20.649,,False,False,6084.074,6,Monaco Grand Prix
+LEC,31.0,77.876,1.0,HARD,31.0,1,True,Ferrari,True,5.0,20.191,36.768,20.917,,False,False,6161.95,6,Monaco Grand Prix
+LEC,32.0,77.282,1.0,HARD,32.0,1,True,Ferrari,True,4.0,20.01,36.608,20.664,,False,False,6239.232,6,Monaco Grand Prix
+LEC,33.0,77.163,1.0,HARD,33.0,1,True,Ferrari,True,3.0,20.029,36.436,20.698,,False,False,6316.395,6,Monaco Grand Prix
+LEC,34.0,77.461,1.0,HARD,34.0,1,True,Ferrari,True,3.0,20.144,36.637,20.68,,False,False,6393.856,6,Monaco Grand Prix
+LEC,35.0,77.467,1.0,HARD,35.0,1,True,Ferrari,True,3.0,20.164,36.632,20.671,,False,False,6471.323,6,Monaco Grand Prix
+LEC,36.0,77.491,1.0,HARD,36.0,1,True,Ferrari,True,3.0,20.148,36.768,20.575,,False,False,6548.814,6,Monaco Grand Prix
+LEC,37.0,77.361,1.0,HARD,37.0,1,True,Ferrari,True,3.0,20.098,36.616,20.647,,False,False,6626.175,6,Monaco Grand Prix
+LEC,38.0,77.483,1.0,HARD,38.0,1,True,Ferrari,True,3.0,20.139,36.694,20.65,,False,False,6703.658,6,Monaco Grand Prix
+LEC,39.0,77.213,1.0,HARD,39.0,1,True,Ferrari,True,3.0,19.959,36.609,20.645,,False,False,6780.871,6,Monaco Grand Prix
+LEC,40.0,77.237,1.0,HARD,40.0,1,True,Ferrari,True,3.0,20.014,36.58,20.643,,False,False,6858.108,6,Monaco Grand Prix
+LEC,41.0,78.328,1.0,HARD,41.0,1,True,Ferrari,True,3.0,20.091,37.45,20.787,,False,False,6936.436,6,Monaco Grand Prix
+LEC,42.0,77.801,1.0,HARD,42.0,1,True,Ferrari,True,3.0,20.132,36.958,20.711,,False,False,7014.237,6,Monaco Grand Prix
+LEC,43.0,78.451,1.0,HARD,43.0,1,True,Ferrari,True,3.0,20.364,37.083,21.004,,False,False,7092.688,6,Monaco Grand Prix
+LEC,44.0,95.442,1.0,HARD,44.0,1,False,Ferrari,True,8.0,20.431,37.23,37.781,,True,False,7188.13,6,Monaco Grand Prix
+LEC,45.0,79.563,2.0,MEDIUM,1.0,1,False,Ferrari,True,8.0,23.019,36.229,20.315,,False,True,7267.693,6,Monaco Grand Prix
+LEC,46.0,75.773,2.0,MEDIUM,2.0,1,True,Ferrari,True,8.0,19.996,35.718,20.059,,False,False,7343.466,6,Monaco Grand Prix
+LEC,47.0,76.358,2.0,MEDIUM,3.0,1,True,Ferrari,True,8.0,19.764,36.023,20.571,,False,False,7419.824,6,Monaco Grand Prix
+LEC,48.0,76.971,2.0,MEDIUM,4.0,1,True,Ferrari,True,7.0,20.258,36.215,20.498,,False,False,7496.795,6,Monaco Grand Prix
+LEC,49.0,76.283,2.0,MEDIUM,5.0,1,True,Ferrari,True,7.0,19.849,36.039,20.395,,False,False,7573.078,6,Monaco Grand Prix
+LEC,50.0,75.956,2.0,MEDIUM,6.0,1,True,Ferrari,True,7.0,19.73,35.934,20.292,,False,False,7649.034,6,Monaco Grand Prix
+LEC,51.0,77.017,2.0,MEDIUM,7.0,1,True,Ferrari,True,7.0,19.743,36.789,20.485,,False,False,7726.051,6,Monaco Grand Prix
+LEC,52.0,83.243,2.0,MEDIUM,8.0,1,True,Ferrari,True,7.0,20.416,40.527,22.3,,False,False,7809.294,6,Monaco Grand Prix
+LEC,53.0,93.259,2.0,MEDIUM,9.0,1,True,Ferrari,True,7.0,23.978,46.954,22.327,,False,False,7902.553,6,Monaco Grand Prix
+LEC,54.0,95.725,2.0,MEDIUM,10.0,1,True,Ferrari,True,4.0,24.155,48.21,23.36,,False,False,7998.278,6,Monaco Grand Prix
+LEC,55.0,129.246,2.0,MEDIUM,11.0,12,False,Ferrari,True,6.0,26.046,57.053,46.147,,True,False,8127.524,6,Monaco Grand Prix
+LEC,56.0,103.008,3.0,INTERMEDIATE,1.0,21,False,Ferrari,True,6.0,28.371,48.266,26.371,,False,True,8230.532,6,Monaco Grand Prix
+LEC,57.0,103.373,3.0,INTERMEDIATE,2.0,1,True,Ferrari,True,6.0,27.887,48.976,26.51,,False,False,8333.905,6,Monaco Grand Prix
+LEC,58.0,103.473,3.0,INTERMEDIATE,3.0,12,True,Ferrari,True,6.0,27.016,48.235,28.222,,False,False,8437.378,6,Monaco Grand Prix
+LEC,59.0,102.305,3.0,INTERMEDIATE,4.0,12,True,Ferrari,True,6.0,26.895,48.94,26.47,,False,False,8539.683,6,Monaco Grand Prix
+LEC,60.0,102.852,3.0,INTERMEDIATE,5.0,21,True,Ferrari,True,6.0,27.831,48.554,26.467,,False,False,8642.535,6,Monaco Grand Prix
+LEC,61.0,102.262,3.0,INTERMEDIATE,6.0,12,True,Ferrari,True,6.0,26.763,48.957,26.542,,False,False,8744.797,6,Monaco Grand Prix
+LEC,62.0,101.144,3.0,INTERMEDIATE,7.0,1,True,Ferrari,True,6.0,26.479,48.276,26.389,,False,False,8845.941,6,Monaco Grand Prix
+LEC,63.0,100.396,3.0,INTERMEDIATE,8.0,1,True,Ferrari,True,6.0,26.59,47.692,26.114,,False,False,8946.337,6,Monaco Grand Prix
+LEC,64.0,99.223,3.0,INTERMEDIATE,9.0,1,True,Ferrari,True,6.0,26.207,47.418,25.598,,False,False,9045.56,6,Monaco Grand Prix
+LEC,65.0,98.481,3.0,INTERMEDIATE,10.0,1,True,Ferrari,True,6.0,25.992,46.864,25.625,,False,False,9144.041,6,Monaco Grand Prix
+LEC,66.0,95.05,3.0,INTERMEDIATE,11.0,1,True,Ferrari,True,6.0,25.127,45.723,24.2,,False,False,9239.091,6,Monaco Grand Prix
+LEC,67.0,94.515,3.0,INTERMEDIATE,12.0,1,True,Ferrari,True,6.0,24.831,45.536,24.148,,False,False,9333.606,6,Monaco Grand Prix
+LEC,68.0,93.903,3.0,INTERMEDIATE,13.0,12,True,Ferrari,True,6.0,24.763,45.594,23.546,,False,False,9427.509,6,Monaco Grand Prix
+LEC,69.0,95.087,3.0,INTERMEDIATE,14.0,21,True,Ferrari,True,6.0,25.475,45.972,23.64,,False,False,9522.596,6,Monaco Grand Prix
+LEC,70.0,92.309,3.0,INTERMEDIATE,15.0,1,True,Ferrari,True,6.0,24.969,44.243,23.097,,False,False,9614.905,6,Monaco Grand Prix
+LEC,71.0,90.198,3.0,INTERMEDIATE,16.0,1,True,Ferrari,True,6.0,24.104,43.646,22.448,,False,False,9705.103,6,Monaco Grand Prix
+LEC,72.0,88.677,3.0,INTERMEDIATE,17.0,1,True,Ferrari,True,6.0,23.586,43.156,21.935,,False,False,9793.78,6,Monaco Grand Prix
+LEC,73.0,89.177,3.0,INTERMEDIATE,18.0,1,True,Ferrari,True,6.0,23.577,43.252,22.348,,False,False,9882.957,6,Monaco Grand Prix
+LEC,74.0,87.848,3.0,INTERMEDIATE,19.0,1,True,Ferrari,True,6.0,23.443,42.475,21.93,,False,False,9970.805,6,Monaco Grand Prix
+LEC,75.0,86.923,3.0,INTERMEDIATE,20.0,1,True,Ferrari,True,6.0,22.925,42.079,21.919,,False,False,10057.728,6,Monaco Grand Prix
+LEC,76.0,86.435,3.0,INTERMEDIATE,21.0,1,True,Ferrari,True,6.0,22.557,41.756,22.122,,False,False,10144.163,6,Monaco Grand Prix
+LEC,77.0,85.965,3.0,INTERMEDIATE,22.0,1,True,Ferrari,True,6.0,22.517,41.361,22.087,,False,False,10230.128,6,Monaco Grand Prix
+LEC,78.0,86.939,3.0,INTERMEDIATE,23.0,1,True,Ferrari,True,6.0,22.719,41.606,22.614,,False,False,10317.067,6,Monaco Grand Prix
+STR,1.0,99.562,1.0,HARD,2.0,12,False,Aston Martin,False,17.0,,46.215,21.708,,False,False,3822.759,6,Monaco Grand Prix
+STR,2.0,79.989,1.0,HARD,3.0,1,True,Aston Martin,False,17.0,21.136,37.566,21.287,,False,False,3902.748,6,Monaco Grand Prix
+STR,3.0,79.928,1.0,HARD,4.0,1,True,Aston Martin,False,17.0,21.084,37.647,21.197,,False,False,3982.676,6,Monaco Grand Prix
+STR,4.0,79.998,1.0,HARD,5.0,1,True,Aston Martin,False,17.0,20.912,37.597,21.489,,False,False,4062.674,6,Monaco Grand Prix
+STR,5.0,80.438,1.0,HARD,6.0,1,True,Aston Martin,False,17.0,21.031,37.678,21.729,,False,False,4143.112,6,Monaco Grand Prix
+STR,6.0,79.785,1.0,HARD,7.0,1,True,Aston Martin,False,17.0,21.001,37.529,21.255,,False,False,4222.897,6,Monaco Grand Prix
+STR,7.0,79.417,1.0,HARD,8.0,1,True,Aston Martin,False,17.0,20.94,37.318,21.159,,False,False,4302.314,6,Monaco Grand Prix
+STR,8.0,78.733,1.0,HARD,9.0,1,True,Aston Martin,False,17.0,20.768,36.987,20.978,,False,False,4381.047,6,Monaco Grand Prix
+STR,9.0,78.659,1.0,HARD,10.0,1,True,Aston Martin,False,17.0,20.832,36.826,21.001,,False,False,4459.706,6,Monaco Grand Prix
+STR,10.0,79.893,1.0,HARD,11.0,1,True,Aston Martin,False,17.0,21.109,37.363,21.421,,False,False,4539.599,6,Monaco Grand Prix
+STR,11.0,79.758,1.0,HARD,12.0,12,True,Aston Martin,False,17.0,21.188,37.322,21.248,,False,False,4619.357,6,Monaco Grand Prix
+STR,12.0,80.639,1.0,HARD,13.0,21,True,Aston Martin,False,17.0,21.77,37.351,21.518,,False,False,4699.996,6,Monaco Grand Prix
+STR,13.0,80.847,1.0,HARD,14.0,1,True,Aston Martin,False,17.0,21.42,37.852,21.575,,False,False,4780.843,6,Monaco Grand Prix
+STR,14.0,80.295,1.0,HARD,15.0,12,True,Aston Martin,False,17.0,21.112,37.838,21.345,,False,False,4861.138,6,Monaco Grand Prix
+STR,15.0,80.203,1.0,HARD,16.0,1,True,Aston Martin,False,17.0,21.08,37.817,21.306,,False,False,4941.341,6,Monaco Grand Prix
+STR,16.0,80.545,1.0,HARD,17.0,1,True,Aston Martin,False,17.0,21.116,38.006,21.423,,False,False,5021.886,6,Monaco Grand Prix
+STR,17.0,81.17,1.0,HARD,18.0,1,True,Aston Martin,False,16.0,21.142,38.489,21.539,,False,False,5103.056,6,Monaco Grand Prix
+STR,18.0,77.769,1.0,HARD,19.0,1,True,Aston Martin,False,15.0,20.371,36.547,20.851,,False,False,5180.825,6,Monaco Grand Prix
+STR,19.0,77.915,1.0,HARD,20.0,1,True,Aston Martin,False,15.0,20.413,36.609,20.893,,False,False,5258.74,6,Monaco Grand Prix
+STR,20.0,78.061,1.0,HARD,21.0,1,True,Aston Martin,False,15.0,20.497,36.827,20.737,,False,False,5336.801,6,Monaco Grand Prix
+STR,21.0,78.594,1.0,HARD,22.0,1,True,Aston Martin,False,15.0,20.819,36.798,20.977,,False,False,5415.395,6,Monaco Grand Prix
+STR,22.0,78.548,1.0,HARD,23.0,1,True,Aston Martin,False,15.0,20.793,36.863,20.892,,False,False,5493.943,6,Monaco Grand Prix
+STR,23.0,78.927,1.0,HARD,24.0,1,True,Aston Martin,False,15.0,20.606,37.288,21.033,,False,False,5572.87,6,Monaco Grand Prix
+STR,24.0,78.439,1.0,HARD,25.0,1,True,Aston Martin,False,15.0,20.755,36.855,20.829,,False,False,5651.309,6,Monaco Grand Prix
+STR,25.0,79.058,1.0,HARD,26.0,1,True,Aston Martin,False,15.0,20.918,37.074,21.066,,False,False,5730.367,6,Monaco Grand Prix
+STR,26.0,78.926,1.0,HARD,27.0,1,True,Aston Martin,False,15.0,20.714,37.247,20.965,,False,False,5809.293,6,Monaco Grand Prix
+STR,27.0,79.772,1.0,HARD,28.0,1,True,Aston Martin,False,15.0,20.951,37.527,21.294,,False,False,5889.065,6,Monaco Grand Prix
+STR,28.0,79.86,1.0,HARD,29.0,1,True,Aston Martin,False,15.0,20.954,37.653,21.253,,False,False,5968.925,6,Monaco Grand Prix
+STR,29.0,79.831,1.0,HARD,30.0,1,True,Aston Martin,False,15.0,20.757,37.956,21.118,,False,False,6048.756,6,Monaco Grand Prix
+STR,30.0,79.86,1.0,HARD,31.0,1,True,Aston Martin,False,15.0,20.828,37.788,21.244,,False,False,6128.616,6,Monaco Grand Prix
+STR,31.0,81.753,1.0,HARD,32.0,1,True,Aston Martin,False,16.0,20.793,39.621,21.339,,False,False,6210.369,6,Monaco Grand Prix
+STR,32.0,79.387,1.0,HARD,33.0,1,True,Aston Martin,False,16.0,20.498,37.655,21.234,,False,False,6289.756,6,Monaco Grand Prix
+STR,33.0,80.446,1.0,HARD,34.0,1,True,Aston Martin,False,15.0,20.789,38.412,21.245,,False,False,6370.202,6,Monaco Grand Prix
+STR,34.0,78.583,1.0,HARD,35.0,1,True,Aston Martin,False,15.0,20.659,37.046,20.878,,False,False,6448.785,6,Monaco Grand Prix
+STR,35.0,81.072,1.0,HARD,36.0,1,True,Aston Martin,False,15.0,20.946,37.446,22.68,,False,False,6529.857,6,Monaco Grand Prix
+STR,36.0,79.544,1.0,HARD,37.0,1,True,Aston Martin,False,15.0,20.358,37.032,22.154,,False,False,6609.401,6,Monaco Grand Prix
+STR,37.0,78.76,1.0,HARD,38.0,1,True,Aston Martin,False,15.0,20.814,36.935,21.011,,False,False,6688.161,6,Monaco Grand Prix
+STR,38.0,78.424,1.0,HARD,39.0,1,True,Aston Martin,False,15.0,20.444,37.095,20.885,,False,False,6766.585,6,Monaco Grand Prix
+STR,39.0,78.498,1.0,HARD,40.0,1,True,Aston Martin,False,15.0,20.304,37.181,21.013,,False,False,6845.083,6,Monaco Grand Prix
+STR,40.0,78.498,1.0,HARD,41.0,1,True,Aston Martin,False,15.0,20.484,37.151,20.863,,False,False,6923.581,6,Monaco Grand Prix
+STR,41.0,78.574,1.0,HARD,42.0,1,True,Aston Martin,False,15.0,20.505,37.054,21.015,,False,False,7002.155,6,Monaco Grand Prix
+STR,42.0,78.732,1.0,HARD,43.0,1,True,Aston Martin,False,15.0,20.497,37.16,21.075,,False,False,7080.887,6,Monaco Grand Prix
+STR,43.0,78.898,1.0,HARD,44.0,1,True,Aston Martin,False,15.0,20.694,37.276,20.928,,False,False,7159.785,6,Monaco Grand Prix
+STR,44.0,78.533,1.0,HARD,45.0,1,True,Aston Martin,False,15.0,20.277,37.15,21.106,,False,False,7238.318,6,Monaco Grand Prix
+STR,45.0,78.374,1.0,HARD,46.0,1,True,Aston Martin,False,15.0,20.145,36.972,21.257,,False,False,7316.692,6,Monaco Grand Prix
+STR,46.0,78.723,1.0,HARD,47.0,1,True,Aston Martin,False,15.0,20.422,37.13,21.171,,False,False,7395.415,6,Monaco Grand Prix
+STR,47.0,79.033,1.0,HARD,48.0,1,True,Aston Martin,False,15.0,20.311,37.482,21.24,,False,False,7474.448,6,Monaco Grand Prix
+STR,48.0,78.573,1.0,HARD,49.0,1,True,Aston Martin,False,15.0,20.278,37.269,21.026,,False,False,7553.021,6,Monaco Grand Prix
+STR,49.0,78.418,1.0,HARD,50.0,1,True,Aston Martin,False,15.0,20.232,37.133,21.053,,False,False,7631.439,6,Monaco Grand Prix
+STR,50.0,80.218,1.0,HARD,51.0,1,True,Aston Martin,False,15.0,20.449,38.377,21.392,,False,False,7711.657,6,Monaco Grand Prix
+STR,51.0,104.501,1.0,HARD,52.0,1,False,Aston Martin,False,19.0,21.097,43.922,39.482,,True,False,7816.158,6,Monaco Grand Prix
+STR,52.0,92.189,2.0,INTERMEDIATE,1.0,1,False,Aston Martin,True,17.0,26.112,42.828,23.249,,False,True,7908.347,6,Monaco Grand Prix
+STR,53.0,96.321,2.0,INTERMEDIATE,2.0,1,True,Aston Martin,True,16.0,24.089,47.082,25.15,,False,False,8004.668,6,Monaco Grand Prix
+STR,54.0,,2.0,INTERMEDIATE,3.0,12,False,Aston Martin,True,,,,,,False,False,8154.668,6,Monaco Grand Prix
+SAR,1.0,97.689,1.0,MEDIUM,1.0,12,False,Williams,True,15.0,,44.183,21.567,,False,False,3820.886,6,Monaco Grand Prix
+SAR,2.0,79.658,1.0,MEDIUM,2.0,1,True,Williams,True,15.0,21.209,37.307,21.142,,False,False,3900.544,6,Monaco Grand Prix
+SAR,3.0,80.219,1.0,MEDIUM,3.0,1,True,Williams,True,15.0,21.279,37.588,21.352,,False,False,3980.763,6,Monaco Grand Prix
+SAR,4.0,80.246,1.0,MEDIUM,4.0,1,True,Williams,True,15.0,21.243,37.688,21.315,,False,False,4061.009,6,Monaco Grand Prix
+SAR,5.0,80.214,1.0,MEDIUM,5.0,1,True,Williams,True,15.0,21.315,37.65,21.249,,False,False,4141.223,6,Monaco Grand Prix
+SAR,6.0,79.312,1.0,MEDIUM,6.0,1,True,Williams,True,15.0,20.965,37.272,21.075,,False,False,4220.535,6,Monaco Grand Prix
+SAR,7.0,79.239,1.0,MEDIUM,7.0,1,True,Williams,True,15.0,20.906,37.228,21.105,,False,False,4299.774,6,Monaco Grand Prix
+SAR,8.0,78.947,1.0,MEDIUM,8.0,1,True,Williams,True,15.0,20.916,37.061,20.97,,False,False,4378.721,6,Monaco Grand Prix
+SAR,9.0,79.529,1.0,MEDIUM,9.0,1,True,Williams,True,15.0,20.967,37.227,21.335,,False,False,4458.25,6,Monaco Grand Prix
+SAR,10.0,80.334,1.0,MEDIUM,10.0,1,True,Williams,True,15.0,21.155,37.753,21.426,,False,False,4538.584,6,Monaco Grand Prix
+SAR,11.0,80.089,1.0,MEDIUM,11.0,12,True,Williams,True,15.0,21.219,37.432,21.438,,False,False,4618.673,6,Monaco Grand Prix
+SAR,12.0,80.638,1.0,MEDIUM,12.0,21,True,Williams,True,15.0,21.454,37.515,21.669,,False,False,4699.311,6,Monaco Grand Prix
+SAR,13.0,80.702,1.0,MEDIUM,13.0,1,True,Williams,True,15.0,21.407,37.698,21.597,,False,False,4780.013,6,Monaco Grand Prix
+SAR,14.0,80.318,1.0,MEDIUM,14.0,12,True,Williams,True,15.0,21.096,37.875,21.347,,False,False,4860.331,6,Monaco Grand Prix
+SAR,15.0,80.28,1.0,MEDIUM,15.0,1,True,Williams,True,15.0,21.129,37.797,21.354,,False,False,4940.611,6,Monaco Grand Prix
+SAR,16.0,80.471,1.0,MEDIUM,16.0,1,True,Williams,True,15.0,21.118,37.911,21.442,,False,False,5021.082,6,Monaco Grand Prix
+SAR,17.0,83.236,1.0,MEDIUM,17.0,1,True,Williams,True,18.0,21.151,39.053,23.032,,False,False,5104.318,6,Monaco Grand Prix
+SAR,18.0,81.41,1.0,MEDIUM,18.0,1,True,Williams,True,17.0,21.806,38.146,21.458,,False,False,5185.728,6,Monaco Grand Prix
+SAR,19.0,82.328,1.0,MEDIUM,19.0,1,True,Williams,True,18.0,21.801,39.024,21.503,,False,False,5268.056,6,Monaco Grand Prix
+SAR,20.0,97.211,1.0,MEDIUM,20.0,1,False,Williams,True,20.0,21.255,37.766,38.19,,True,False,5365.267,6,Monaco Grand Prix
+SAR,21.0,81.646,2.0,HARD,1.0,1,False,Williams,True,20.0,23.847,37.029,20.77,,False,True,5446.913,6,Monaco Grand Prix
+SAR,22.0,77.483,2.0,HARD,2.0,1,True,Williams,True,20.0,20.384,36.655,20.444,,False,False,5524.396,6,Monaco Grand Prix
+SAR,23.0,98.195,2.0,HARD,3.0,1,False,Williams,True,20.0,20.425,36.517,41.253,,True,False,5622.591,6,Monaco Grand Prix
+SAR,24.0,80.682,3.0,SOFT,1.0,1,False,Williams,True,20.0,23.238,36.623,20.821,,False,True,5703.273,6,Monaco Grand Prix
+SAR,25.0,77.894,3.0,SOFT,2.0,1,True,Williams,True,20.0,20.358,36.709,20.827,,False,False,5781.167,6,Monaco Grand Prix
+SAR,26.0,78.033,3.0,SOFT,3.0,1,True,Williams,True,20.0,20.251,36.851,20.931,,False,False,5859.2,6,Monaco Grand Prix
+SAR,27.0,77.875,3.0,SOFT,4.0,1,True,Williams,True,20.0,20.495,36.586,20.794,,False,False,5937.075,6,Monaco Grand Prix
+SAR,28.0,77.74,3.0,SOFT,5.0,1,True,Williams,True,20.0,20.302,36.526,20.912,,False,False,6014.815,6,Monaco Grand Prix
+SAR,29.0,77.753,3.0,SOFT,6.0,1,True,Williams,True,20.0,20.337,36.57,20.846,,False,False,6092.568,6,Monaco Grand Prix
+SAR,30.0,77.535,3.0,SOFT,7.0,1,True,Williams,True,20.0,20.336,36.511,20.688,,False,False,6170.103,6,Monaco Grand Prix
+SAR,31.0,77.493,3.0,SOFT,8.0,1,True,Williams,True,20.0,20.29,36.693,20.51,,False,False,6247.596,6,Monaco Grand Prix
+SAR,32.0,77.302,3.0,SOFT,9.0,1,True,Williams,True,20.0,20.245,36.458,20.599,,False,False,6324.898,6,Monaco Grand Prix
+SAR,33.0,77.344,3.0,SOFT,10.0,1,True,Williams,True,20.0,20.076,36.682,20.586,,False,False,6402.242,6,Monaco Grand Prix
+SAR,34.0,77.666,3.0,SOFT,11.0,1,True,Williams,True,20.0,20.124,36.719,20.823,,False,False,6479.908,6,Monaco Grand Prix
+SAR,35.0,78.638,3.0,SOFT,12.0,1,True,Williams,True,20.0,20.996,36.973,20.669,,False,False,6558.546,6,Monaco Grand Prix
+SAR,36.0,77.372,3.0,SOFT,13.0,1,True,Williams,True,20.0,20.077,36.605,20.69,,False,False,6635.918,6,Monaco Grand Prix
+SAR,37.0,77.383,3.0,SOFT,14.0,1,True,Williams,True,20.0,20.092,36.701,20.59,,False,False,6713.301,6,Monaco Grand Prix
+SAR,38.0,80.017,3.0,SOFT,15.0,1,True,Williams,True,20.0,20.174,38.912,20.931,,False,False,6793.318,6,Monaco Grand Prix
+SAR,39.0,81.035,3.0,SOFT,16.0,1,True,Williams,True,20.0,20.252,38.683,22.1,,False,False,6874.353,6,Monaco Grand Prix
+SAR,40.0,79.469,3.0,SOFT,17.0,1,True,Williams,True,20.0,21.16,37.267,21.042,,False,False,6953.822,6,Monaco Grand Prix
+SAR,41.0,78.519,3.0,SOFT,18.0,1,True,Williams,True,20.0,20.303,37.322,20.894,,False,False,7032.341,6,Monaco Grand Prix
+SAR,42.0,78.625,3.0,SOFT,19.0,1,True,Williams,True,20.0,20.348,37.218,21.059,,False,False,7110.966,6,Monaco Grand Prix
+SAR,43.0,78.773,3.0,SOFT,20.0,1,True,Williams,True,20.0,20.334,37.236,21.203,,False,False,7189.739,6,Monaco Grand Prix
+SAR,44.0,82.125,3.0,SOFT,21.0,1,True,Williams,True,20.0,22.996,37.774,21.355,,False,False,7271.864,6,Monaco Grand Prix
+SAR,45.0,79.618,3.0,SOFT,22.0,1,True,Williams,True,20.0,20.607,37.746,21.265,,False,False,7351.482,6,Monaco Grand Prix
+SAR,46.0,79.028,3.0,SOFT,23.0,1,True,Williams,True,20.0,20.584,37.387,21.057,,False,False,7430.51,6,Monaco Grand Prix
+SAR,47.0,78.91,3.0,SOFT,24.0,1,True,Williams,True,20.0,20.471,37.464,20.975,,False,False,7509.42,6,Monaco Grand Prix
+SAR,48.0,79.212,3.0,SOFT,25.0,1,True,Williams,True,20.0,20.532,37.578,21.102,,False,False,7588.632,6,Monaco Grand Prix
+SAR,49.0,82.128,3.0,SOFT,26.0,1,True,Williams,True,20.0,20.443,40.373,21.312,,False,False,7670.76,6,Monaco Grand Prix
+SAR,50.0,83.12,3.0,SOFT,27.0,1,True,Williams,True,20.0,21.066,40.215,21.839,,False,False,7753.88,6,Monaco Grand Prix
+SAR,51.0,92.385,3.0,SOFT,28.0,1,True,Williams,True,20.0,23.751,45.035,23.599,,False,False,7846.265,6,Monaco Grand Prix
+SAR,52.0,117.918,3.0,SOFT,29.0,1,False,Williams,True,20.0,24.629,49.957,43.332,,True,False,7964.183,6,Monaco Grand Prix
+SAR,53.0,102.041,4.0,INTERMEDIATE,1.0,12,False,Williams,True,20.0,26.987,48.44,26.614,,False,True,8066.224,6,Monaco Grand Prix
+SAR,54.0,98.806,4.0,INTERMEDIATE,2.0,21,True,Williams,True,19.0,25.097,47.26,26.449,,False,False,8165.03,6,Monaco Grand Prix
+SAR,55.0,101.078,4.0,INTERMEDIATE,3.0,1,True,Williams,True,19.0,26.434,47.954,26.69,,False,False,8266.108,6,Monaco Grand Prix
+SAR,56.0,102.285,4.0,INTERMEDIATE,4.0,12,True,Williams,True,18.0,26.664,48.358,27.263,,False,False,8368.393,6,Monaco Grand Prix
+SAR,57.0,118.063,4.0,INTERMEDIATE,5.0,12,True,Williams,True,18.0,26.645,63.902,27.516,,False,False,8486.456,6,Monaco Grand Prix
+SAR,58.0,102.599,4.0,INTERMEDIATE,6.0,12,True,Williams,True,18.0,26.951,48.845,26.803,,False,False,8589.055,6,Monaco Grand Prix
+SAR,59.0,103.687,4.0,INTERMEDIATE,7.0,12,True,Williams,True,18.0,27.647,49.12,26.92,,False,False,8692.742,6,Monaco Grand Prix
+SAR,60.0,102.558,4.0,INTERMEDIATE,8.0,1,True,Williams,True,18.0,26.998,48.379,27.181,,False,False,8795.3,6,Monaco Grand Prix
+SAR,61.0,100.969,4.0,INTERMEDIATE,9.0,1,True,Williams,True,18.0,26.666,47.765,26.538,,False,False,8896.269,6,Monaco Grand Prix
+SAR,62.0,99.586,4.0,INTERMEDIATE,10.0,1,True,Williams,True,18.0,25.689,47.809,26.088,,False,False,8995.855,6,Monaco Grand Prix
+SAR,63.0,103.289,4.0,INTERMEDIATE,11.0,1,True,Williams,True,18.0,29.612,47.842,25.835,,False,False,9099.144,6,Monaco Grand Prix
+SAR,64.0,98.302,4.0,INTERMEDIATE,12.0,1,True,Williams,True,18.0,26.273,47.616,24.413,,False,False,9197.446,6,Monaco Grand Prix
+SAR,65.0,98.073,4.0,INTERMEDIATE,13.0,1,True,Williams,True,18.0,25.554,49.036,23.483,,False,False,9295.519,6,Monaco Grand Prix
+SAR,66.0,96.293,4.0,INTERMEDIATE,14.0,1,True,Williams,True,18.0,25.468,46.976,23.849,,False,False,9391.812,6,Monaco Grand Prix
+SAR,67.0,99.467,4.0,INTERMEDIATE,15.0,12,True,Williams,True,18.0,28.737,47.879,22.851,,False,False,9491.279,6,Monaco Grand Prix
+SAR,68.0,91.921,4.0,INTERMEDIATE,16.0,1,True,Williams,True,18.0,24.77,45.116,22.035,,False,False,9583.2,6,Monaco Grand Prix
+SAR,69.0,93.193,4.0,INTERMEDIATE,17.0,1,True,Williams,True,18.0,23.89,45.861,23.442,,False,False,9676.393,6,Monaco Grand Prix
+SAR,70.0,118.263,4.0,INTERMEDIATE,18.0,1,True,Williams,True,18.0,50.434,45.955,21.874,,False,False,9794.656,6,Monaco Grand Prix
+SAR,71.0,89.015,4.0,INTERMEDIATE,19.0,1,True,Williams,True,18.0,23.704,43.372,21.939,,False,False,9883.671,6,Monaco Grand Prix
+SAR,72.0,92.354,4.0,INTERMEDIATE,20.0,1,True,Williams,True,18.0,26.671,44.166,21.517,,False,False,9976.025,6,Monaco Grand Prix
+SAR,73.0,87.137,4.0,INTERMEDIATE,21.0,1,True,Williams,True,18.0,22.512,42.573,22.052,,False,False,10063.162,6,Monaco Grand Prix
+SAR,74.0,87.954,4.0,INTERMEDIATE,22.0,1,True,Williams,True,18.0,23.755,42.097,22.102,,False,False,10151.116,6,Monaco Grand Prix
+SAR,75.0,87.968,4.0,INTERMEDIATE,23.0,1,True,Williams,True,18.0,22.797,41.457,23.714,,False,False,10239.084,6,Monaco Grand Prix
+SAR,76.0,89.076,4.0,INTERMEDIATE,24.0,1,True,Williams,True,18.0,24.523,41.98,22.573,,False,False,10328.16,6,Monaco Grand Prix
+MAG,1.0,98.425,1.0,HARD,1.0,12,False,Haas F1 Team,True,16.0,,43.991,21.57,,False,False,3821.622,6,Monaco Grand Prix
+MAG,2.0,80.175,1.0,HARD,2.0,1,True,Haas F1 Team,True,16.0,20.988,37.573,21.614,,False,False,3901.797,6,Monaco Grand Prix
+MAG,3.0,79.929,1.0,HARD,3.0,1,True,Haas F1 Team,True,16.0,21.004,37.512,21.413,,False,False,3981.726,6,Monaco Grand Prix
+MAG,4.0,80.407,1.0,HARD,4.0,1,True,Haas F1 Team,True,16.0,20.917,37.854,21.636,,False,False,4062.133,6,Monaco Grand Prix
+MAG,5.0,80.224,1.0,HARD,5.0,1,True,Haas F1 Team,True,16.0,20.976,37.563,21.685,,False,False,4142.357,6,Monaco Grand Prix
+MAG,6.0,79.352,1.0,HARD,6.0,1,True,Haas F1 Team,True,16.0,20.787,37.273,21.292,,False,False,4221.709,6,Monaco Grand Prix
+MAG,7.0,79.512,1.0,HARD,7.0,1,True,Haas F1 Team,True,16.0,20.846,37.528,21.138,,False,False,4301.221,6,Monaco Grand Prix
+MAG,8.0,79.052,1.0,HARD,8.0,1,True,Haas F1 Team,True,16.0,20.787,37.196,21.069,,False,False,4380.273,6,Monaco Grand Prix
+MAG,9.0,78.914,1.0,HARD,9.0,1,True,Haas F1 Team,True,16.0,20.646,36.976,21.292,,False,False,4459.187,6,Monaco Grand Prix
+MAG,10.0,79.929,1.0,HARD,10.0,1,True,Haas F1 Team,True,16.0,20.981,37.531,21.417,,False,False,4539.116,6,Monaco Grand Prix
+MAG,11.0,79.824,1.0,HARD,11.0,12,True,Haas F1 Team,True,16.0,21.091,37.448,21.285,,False,False,4618.94,6,Monaco Grand Prix
+MAG,12.0,80.487,1.0,HARD,12.0,21,True,Haas F1 Team,True,16.0,21.748,37.352,21.387,,False,False,4699.427,6,Monaco Grand Prix
+MAG,13.0,80.886,1.0,HARD,13.0,1,True,Haas F1 Team,True,16.0,21.67,37.612,21.604,,False,False,4780.313,6,Monaco Grand Prix
+MAG,14.0,80.328,1.0,HARD,14.0,12,True,Haas F1 Team,True,16.0,21.102,37.963,21.263,,False,False,4860.641,6,Monaco Grand Prix
+MAG,15.0,80.287,1.0,HARD,15.0,1,True,Haas F1 Team,True,16.0,21.104,37.77,21.413,,False,False,4940.928,6,Monaco Grand Prix
+MAG,16.0,80.464,1.0,HARD,16.0,1,True,Haas F1 Team,True,16.0,21.161,37.958,21.345,,False,False,5021.392,6,Monaco Grand Prix
+MAG,17.0,79.206,1.0,HARD,17.0,1,True,Haas F1 Team,True,15.0,21.096,37.114,20.996,,False,False,5100.598,6,Monaco Grand Prix
+MAG,18.0,78.727,1.0,HARD,18.0,1,True,Haas F1 Team,True,14.0,20.554,37.128,21.045,,False,False,5179.325,6,Monaco Grand Prix
+MAG,19.0,78.445,1.0,HARD,19.0,1,True,Haas F1 Team,True,14.0,20.553,36.962,20.93,,False,False,5257.77,6,Monaco Grand Prix
+MAG,20.0,78.354,1.0,HARD,20.0,1,True,Haas F1 Team,True,14.0,20.531,37.025,20.798,,False,False,5336.124,6,Monaco Grand Prix
+MAG,21.0,78.8,1.0,HARD,21.0,1,True,Haas F1 Team,True,14.0,20.658,37.013,21.129,,False,False,5414.924,6,Monaco Grand Prix
+MAG,22.0,78.767,1.0,HARD,22.0,1,True,Haas F1 Team,True,14.0,20.617,37.076,21.074,,False,False,5493.691,6,Monaco Grand Prix
+MAG,23.0,78.926,1.0,HARD,23.0,1,True,Haas F1 Team,True,14.0,20.502,37.326,21.098,,False,False,5572.617,6,Monaco Grand Prix
+MAG,24.0,78.497,1.0,HARD,24.0,1,True,Haas F1 Team,True,14.0,20.494,36.993,21.01,,False,False,5651.114,6,Monaco Grand Prix
+MAG,25.0,78.694,1.0,HARD,25.0,1,True,Haas F1 Team,True,14.0,20.615,37.106,20.973,,False,False,5729.808,6,Monaco Grand Prix
+MAG,26.0,79.023,1.0,HARD,26.0,1,True,Haas F1 Team,True,14.0,20.677,37.174,21.172,,False,False,5808.831,6,Monaco Grand Prix
+MAG,27.0,79.849,1.0,HARD,27.0,1,True,Haas F1 Team,True,14.0,20.838,37.66,21.351,,False,False,5888.68,6,Monaco Grand Prix
+MAG,28.0,79.768,1.0,HARD,28.0,1,True,Haas F1 Team,True,14.0,20.744,37.694,21.33,,False,False,5968.448,6,Monaco Grand Prix
+MAG,29.0,79.91,1.0,HARD,29.0,1,True,Haas F1 Team,True,14.0,20.721,38.002,21.187,,False,False,6048.358,6,Monaco Grand Prix
+MAG,30.0,79.753,1.0,HARD,30.0,1,True,Haas F1 Team,True,14.0,20.91,37.778,21.065,,False,False,6128.111,6,Monaco Grand Prix
+MAG,31.0,79.276,1.0,HARD,31.0,1,True,Haas F1 Team,True,14.0,20.732,37.455,21.089,,False,False,6207.387,6,Monaco Grand Prix
+MAG,32.0,81.543,1.0,HARD,32.0,1,True,Haas F1 Team,True,14.0,20.904,39.314,21.325,,False,False,6288.93,6,Monaco Grand Prix
+MAG,33.0,80.882,1.0,HARD,33.0,1,True,Haas F1 Team,True,14.0,20.683,38.923,21.276,,False,False,6369.812,6,Monaco Grand Prix
+MAG,34.0,78.747,1.0,HARD,34.0,1,True,Haas F1 Team,True,14.0,20.526,37.293,20.928,,False,False,6448.559,6,Monaco Grand Prix
+MAG,35.0,79.274,1.0,HARD,35.0,1,True,Haas F1 Team,True,14.0,20.644,37.552,21.078,,False,False,6527.833,6,Monaco Grand Prix
+MAG,36.0,80.942,1.0,HARD,36.0,1,True,Haas F1 Team,True,14.0,20.469,38.717,21.756,,False,False,6608.775,6,Monaco Grand Prix
+MAG,37.0,78.849,1.0,HARD,37.0,1,True,Haas F1 Team,True,14.0,20.59,37.317,20.942,,False,False,6687.624,6,Monaco Grand Prix
+MAG,38.0,78.498,1.0,HARD,38.0,1,True,Haas F1 Team,True,14.0,20.373,37.266,20.859,,False,False,6766.122,6,Monaco Grand Prix
+MAG,39.0,78.634,1.0,HARD,39.0,1,True,Haas F1 Team,True,14.0,20.339,37.267,21.028,,False,False,6844.756,6,Monaco Grand Prix
+MAG,40.0,78.508,1.0,HARD,40.0,1,True,Haas F1 Team,True,14.0,20.318,37.255,20.935,,False,False,6923.264,6,Monaco Grand Prix
+MAG,41.0,78.351,1.0,HARD,41.0,1,True,Haas F1 Team,True,14.0,20.323,37.194,20.834,,False,False,7001.615,6,Monaco Grand Prix
+MAG,42.0,78.63,1.0,HARD,42.0,1,True,Haas F1 Team,True,14.0,20.338,37.314,20.978,,False,False,7080.245,6,Monaco Grand Prix
+MAG,43.0,78.522,1.0,HARD,43.0,1,True,Haas F1 Team,True,14.0,20.382,37.333,20.807,,False,False,7158.767,6,Monaco Grand Prix
+MAG,44.0,78.447,1.0,HARD,44.0,1,True,Haas F1 Team,True,14.0,20.385,37.145,20.917,,False,False,7237.214,6,Monaco Grand Prix
+MAG,45.0,78.92,1.0,HARD,45.0,1,True,Haas F1 Team,True,14.0,20.311,37.63,20.979,,False,False,7316.134,6,Monaco Grand Prix
+MAG,46.0,78.384,1.0,HARD,46.0,1,True,Haas F1 Team,True,14.0,20.231,37.263,20.89,,False,False,7394.518,6,Monaco Grand Prix
+MAG,47.0,78.685,1.0,HARD,47.0,1,True,Haas F1 Team,True,14.0,20.317,37.429,20.939,,False,False,7473.203,6,Monaco Grand Prix
+MAG,48.0,78.745,1.0,HARD,48.0,1,True,Haas F1 Team,True,14.0,20.409,37.303,21.033,,False,False,7551.948,6,Monaco Grand Prix
+MAG,49.0,78.854,1.0,HARD,49.0,1,True,Haas F1 Team,True,14.0,20.391,37.42,21.043,,False,False,7630.802,6,Monaco Grand Prix
+MAG,50.0,80.301,1.0,HARD,50.0,1,True,Haas F1 Team,True,14.0,20.462,38.336,21.503,,False,False,7711.103,6,Monaco Grand Prix
+MAG,51.0,85.595,1.0,HARD,51.0,1,True,Haas F1 Team,True,13.0,21.068,43.105,21.422,,False,False,7796.698,6,Monaco Grand Prix
+MAG,52.0,90.696,1.0,HARD,52.0,1,True,Haas F1 Team,True,13.0,23.525,45.518,21.653,,False,False,7887.394,6,Monaco Grand Prix
+MAG,53.0,98.955,1.0,HARD,53.0,1,True,Haas F1 Team,True,12.0,24.051,49.509,25.395,,False,False,7986.349,6,Monaco Grand Prix
+MAG,54.0,110.776,1.0,HARD,54.0,12,True,Haas F1 Team,True,12.0,26.615,54.054,30.107,,False,False,8097.125,6,Monaco Grand Prix
+MAG,55.0,127.055,1.0,HARD,55.0,21,True,Haas F1 Team,True,16.0,32.321,61.361,33.373,,False,False,8224.18,6,Monaco Grand Prix
+MAG,56.0,192.063,1.0,HARD,56.0,12,False,Haas F1 Team,True,19.0,38.677,63.774,89.612,,True,False,8416.243,6,Monaco Grand Prix
+MAG,57.0,108.018,2.0,WET,1.0,21,False,Haas F1 Team,True,19.0,31.422,49.12,27.476,,False,True,8524.261,6,Monaco Grand Prix
+MAG,58.0,146.648,2.0,WET,2.0,12,True,Haas F1 Team,True,19.0,68.435,50.544,27.669,,False,False,8670.909,6,Monaco Grand Prix
+MAG,59.0,103.755,2.0,WET,3.0,12,True,Haas F1 Team,True,19.0,27.968,48.824,26.963,,False,False,8774.664,6,Monaco Grand Prix
+MAG,60.0,100.559,2.0,WET,4.0,1,True,Haas F1 Team,True,19.0,26.731,47.546,26.282,,False,False,8875.223,6,Monaco Grand Prix
+MAG,61.0,101.219,2.0,WET,5.0,1,True,Haas F1 Team,True,19.0,25.968,48.705,26.546,,False,False,8976.442,6,Monaco Grand Prix
+MAG,62.0,99.789,2.0,WET,6.0,1,True,Haas F1 Team,True,19.0,26.047,47.798,25.944,,False,False,9076.231,6,Monaco Grand Prix
+MAG,63.0,100.016,2.0,WET,7.0,1,True,Haas F1 Team,True,19.0,26.258,47.838,25.92,,False,False,9176.247,6,Monaco Grand Prix
+MAG,64.0,99.995,2.0,WET,8.0,1,True,Haas F1 Team,True,19.0,26.324,47.874,25.797,,False,False,9276.242,6,Monaco Grand Prix
+MAG,65.0,100.703,2.0,WET,9.0,1,True,Haas F1 Team,True,19.0,26.331,47.626,26.746,,False,False,9376.945,6,Monaco Grand Prix
+MAG,66.0,97.778,2.0,WET,10.0,12,True,Haas F1 Team,True,19.0,26.097,46.915,24.766,,False,False,9474.723,6,Monaco Grand Prix
+MAG,67.0,100.088,2.0,WET,11.0,1,True,Haas F1 Team,True,19.0,25.665,48.799,25.624,,False,False,9574.811,6,Monaco Grand Prix
+MAG,68.0,103.925,2.0,WET,12.0,1,True,Haas F1 Team,True,19.0,26.774,50.418,26.733,,False,False,9678.736,6,Monaco Grand Prix
+MAG,69.0,99.407,2.0,WET,13.0,1,True,Haas F1 Team,True,19.0,26.51,47.158,25.739,,False,False,9778.143,6,Monaco Grand Prix
+MAG,70.0,101.853,2.0,WET,14.0,1,True,Haas F1 Team,True,19.0,27.477,48.181,26.195,,False,False,9879.996,6,Monaco Grand Prix
+MAG,71.0,,2.0,WET,15.0,1,False,Haas F1 Team,True,19.0,25.289,53.453,,,True,False,9977.043,6,Monaco Grand Prix
+DEV,1.0,93.449,1.0,MEDIUM,1.0,12,False,AlphaTauri,True,12.0,,40.159,22.267,,False,False,3816.646,6,Monaco Grand Prix
+DEV,2.0,81.764,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,12.0,21.649,38.019,22.096,,False,False,3898.41,6,Monaco Grand Prix
+DEV,3.0,80.58,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,12.0,21.456,37.754,21.37,,False,False,3978.99,6,Monaco Grand Prix
+DEV,4.0,80.376,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,12.0,21.328,37.583,21.465,,False,False,4059.366,6,Monaco Grand Prix
+DEV,5.0,79.79,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,12.0,21.181,37.482,21.127,,False,False,4139.156,6,Monaco Grand Prix
+DEV,6.0,79.224,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,12.0,20.916,37.242,21.066,,False,False,4218.38,6,Monaco Grand Prix
+DEV,7.0,79.038,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,12.0,21.023,37.059,20.956,,False,False,4297.418,6,Monaco Grand Prix
+DEV,8.0,78.743,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,12.0,20.786,36.902,21.055,,False,False,4376.161,6,Monaco Grand Prix
+DEV,9.0,79.454,1.0,MEDIUM,9.0,1,True,AlphaTauri,True,12.0,21.067,37.188,21.199,,False,False,4455.615,6,Monaco Grand Prix
+DEV,10.0,78.957,1.0,MEDIUM,10.0,1,True,AlphaTauri,True,12.0,20.932,36.939,21.086,,False,False,4534.572,6,Monaco Grand Prix
+DEV,11.0,79.07,1.0,MEDIUM,11.0,12,True,AlphaTauri,True,12.0,20.991,37.122,20.957,,False,False,4613.642,6,Monaco Grand Prix
+DEV,12.0,80.182,1.0,MEDIUM,12.0,21,True,AlphaTauri,True,12.0,21.589,37.434,21.159,,False,False,4693.824,6,Monaco Grand Prix
+DEV,13.0,79.419,1.0,MEDIUM,13.0,1,True,AlphaTauri,True,12.0,21.068,37.213,21.138,,False,False,4773.243,6,Monaco Grand Prix
+DEV,14.0,79.479,1.0,MEDIUM,14.0,12,True,AlphaTauri,True,12.0,20.844,37.513,21.122,,False,False,4852.722,6,Monaco Grand Prix
+DEV,15.0,79.081,1.0,MEDIUM,15.0,1,True,AlphaTauri,True,12.0,20.872,37.1,21.109,,False,False,4931.803,6,Monaco Grand Prix
+DEV,16.0,79.004,1.0,MEDIUM,16.0,1,True,AlphaTauri,True,12.0,20.703,37.239,21.062,,False,False,5010.807,6,Monaco Grand Prix
+DEV,17.0,79.182,1.0,MEDIUM,17.0,1,True,AlphaTauri,True,12.0,20.855,37.199,21.128,,False,False,5089.989,6,Monaco Grand Prix
+DEV,18.0,79.281,1.0,MEDIUM,18.0,1,True,AlphaTauri,True,12.0,20.879,37.261,21.141,,False,False,5169.27,6,Monaco Grand Prix
+DEV,19.0,79.234,1.0,MEDIUM,19.0,1,True,AlphaTauri,True,12.0,20.874,37.283,21.077,,False,False,5248.504,6,Monaco Grand Prix
+DEV,20.0,79.188,1.0,MEDIUM,20.0,1,True,AlphaTauri,True,12.0,20.862,37.228,21.098,,False,False,5327.692,6,Monaco Grand Prix
+DEV,21.0,79.398,1.0,MEDIUM,21.0,1,True,AlphaTauri,True,12.0,20.923,37.19,21.285,,False,False,5407.09,6,Monaco Grand Prix
+DEV,22.0,79.578,1.0,MEDIUM,22.0,1,True,AlphaTauri,True,12.0,20.955,37.391,21.232,,False,False,5486.668,6,Monaco Grand Prix
+DEV,23.0,79.699,1.0,MEDIUM,23.0,1,True,AlphaTauri,True,12.0,20.958,37.494,21.247,,False,False,5566.367,6,Monaco Grand Prix
+DEV,24.0,80.198,1.0,MEDIUM,24.0,1,True,AlphaTauri,True,12.0,21.111,37.774,21.313,,False,False,5646.565,6,Monaco Grand Prix
+DEV,25.0,80.132,1.0,MEDIUM,25.0,1,True,AlphaTauri,True,12.0,21.079,37.745,21.308,,False,False,5726.697,6,Monaco Grand Prix
+DEV,26.0,80.163,1.0,MEDIUM,26.0,1,True,AlphaTauri,True,12.0,21.224,37.61,21.329,,False,False,5806.86,6,Monaco Grand Prix
+DEV,27.0,80.154,1.0,MEDIUM,27.0,1,True,AlphaTauri,True,12.0,21.181,37.739,21.234,,False,False,5887.014,6,Monaco Grand Prix
+DEV,28.0,79.973,1.0,MEDIUM,28.0,1,True,AlphaTauri,True,12.0,21.091,37.593,21.289,,False,False,5966.987,6,Monaco Grand Prix
+DEV,29.0,80.009,1.0,MEDIUM,29.0,1,True,AlphaTauri,True,12.0,21.034,37.677,21.298,,False,False,6046.996,6,Monaco Grand Prix
+DEV,30.0,79.267,1.0,MEDIUM,30.0,1,True,AlphaTauri,True,12.0,20.913,37.254,21.1,,False,False,6126.263,6,Monaco Grand Prix
+DEV,31.0,79.067,1.0,MEDIUM,31.0,1,True,AlphaTauri,True,12.0,20.935,37.101,21.031,,False,False,6205.33,6,Monaco Grand Prix
+DEV,32.0,78.941,1.0,MEDIUM,32.0,1,True,AlphaTauri,True,12.0,20.85,37.158,20.933,,False,False,6284.271,6,Monaco Grand Prix
+DEV,33.0,79.071,1.0,MEDIUM,33.0,1,True,AlphaTauri,True,12.0,20.915,37.157,20.999,,False,False,6363.342,6,Monaco Grand Prix
+DEV,34.0,79.328,1.0,MEDIUM,34.0,1,True,AlphaTauri,True,12.0,20.862,37.251,21.215,,False,False,6442.67,6,Monaco Grand Prix
+DEV,35.0,80.911,1.0,MEDIUM,35.0,1,True,AlphaTauri,True,12.0,21.979,37.926,21.006,,False,False,6523.581,6,Monaco Grand Prix
+DEV,36.0,79.072,1.0,MEDIUM,36.0,1,True,AlphaTauri,True,12.0,20.786,37.252,21.034,,False,False,6602.653,6,Monaco Grand Prix
+DEV,37.0,79.096,1.0,MEDIUM,37.0,1,True,AlphaTauri,True,12.0,20.84,37.251,21.005,,False,False,6681.749,6,Monaco Grand Prix
+DEV,38.0,78.75,1.0,MEDIUM,38.0,1,True,AlphaTauri,True,12.0,20.667,37.103,20.98,,False,False,6760.499,6,Monaco Grand Prix
+DEV,39.0,80.38,1.0,MEDIUM,39.0,1,True,AlphaTauri,True,12.0,20.874,38.383,21.123,,False,False,6840.879,6,Monaco Grand Prix
+DEV,40.0,78.413,1.0,MEDIUM,40.0,1,True,AlphaTauri,True,12.0,20.502,36.981,20.93,,False,False,6919.292,6,Monaco Grand Prix
+DEV,41.0,78.207,1.0,MEDIUM,41.0,1,True,AlphaTauri,True,12.0,20.583,36.953,20.671,,False,False,6997.499,6,Monaco Grand Prix
+DEV,42.0,77.814,1.0,MEDIUM,42.0,1,True,AlphaTauri,True,12.0,20.428,36.728,20.658,,False,False,7075.313,6,Monaco Grand Prix
+DEV,43.0,77.561,1.0,MEDIUM,43.0,1,True,AlphaTauri,True,12.0,20.345,36.591,20.625,,False,False,7152.874,6,Monaco Grand Prix
+DEV,44.0,77.646,1.0,MEDIUM,44.0,1,True,AlphaTauri,True,12.0,20.211,36.765,20.67,,False,False,7230.52,6,Monaco Grand Prix
+DEV,45.0,77.746,1.0,MEDIUM,45.0,1,True,AlphaTauri,True,12.0,20.374,36.637,20.735,,False,False,7308.266,6,Monaco Grand Prix
+DEV,46.0,77.785,1.0,MEDIUM,46.0,1,True,AlphaTauri,True,12.0,20.405,36.695,20.685,,False,False,7386.051,6,Monaco Grand Prix
+DEV,47.0,77.579,1.0,MEDIUM,47.0,1,True,AlphaTauri,True,12.0,20.369,36.57,20.64,,False,False,7463.63,6,Monaco Grand Prix
+DEV,48.0,77.608,1.0,MEDIUM,48.0,1,True,AlphaTauri,True,12.0,20.314,36.721,20.573,,False,False,7541.238,6,Monaco Grand Prix
+DEV,49.0,78.016,1.0,MEDIUM,49.0,1,True,AlphaTauri,True,12.0,20.31,36.853,20.853,,False,False,7619.254,6,Monaco Grand Prix
+DEV,50.0,78.497,1.0,MEDIUM,50.0,1,True,AlphaTauri,True,12.0,20.43,37.12,20.947,,False,False,7697.751,6,Monaco Grand Prix
+DEV,51.0,84.546,1.0,MEDIUM,51.0,1,True,AlphaTauri,True,12.0,20.459,42.878,21.209,,False,False,7782.297,6,Monaco Grand Prix
+DEV,52.0,89.326,1.0,MEDIUM,52.0,1,True,AlphaTauri,True,12.0,23.353,44.543,21.43,,False,False,7871.623,6,Monaco Grand Prix
+DEV,53.0,118.795,1.0,MEDIUM,53.0,1,False,AlphaTauri,True,13.0,24.074,52.005,42.716,,True,False,7990.418,6,Monaco Grand Prix
+DEV,54.0,107.858,2.0,INTERMEDIATE,1.0,12,False,AlphaTauri,True,13.0,28.977,51.667,27.214,,False,True,8098.276,6,Monaco Grand Prix
+DEV,55.0,108.77,2.0,INTERMEDIATE,2.0,21,True,AlphaTauri,True,13.0,30.756,50.459,27.555,,False,False,8207.046,6,Monaco Grand Prix
+DEV,56.0,104.129,2.0,INTERMEDIATE,3.0,1,True,AlphaTauri,True,13.0,27.735,49.103,27.291,,False,False,8311.175,6,Monaco Grand Prix
+DEV,57.0,106.026,2.0,INTERMEDIATE,4.0,12,True,AlphaTauri,True,13.0,27.682,50.964,27.38,,False,False,8417.201,6,Monaco Grand Prix
+DEV,58.0,103.778,2.0,INTERMEDIATE,5.0,21,True,AlphaTauri,True,13.0,27.813,48.025,27.94,,False,False,8520.979,6,Monaco Grand Prix
+DEV,59.0,104.385,2.0,INTERMEDIATE,6.0,12,True,AlphaTauri,True,13.0,28.164,49.132,27.089,,False,False,8625.364,6,Monaco Grand Prix
+DEV,60.0,102.056,2.0,INTERMEDIATE,7.0,12,True,AlphaTauri,True,13.0,27.097,48.009,26.95,,False,False,8727.42,6,Monaco Grand Prix
+DEV,61.0,101.415,2.0,INTERMEDIATE,8.0,1,True,AlphaTauri,True,13.0,26.586,48.067,26.762,,False,False,8828.835,6,Monaco Grand Prix
+DEV,62.0,100.276,2.0,INTERMEDIATE,9.0,1,True,AlphaTauri,True,13.0,26.418,47.215,26.643,,False,False,8929.111,6,Monaco Grand Prix
+DEV,63.0,100.486,2.0,INTERMEDIATE,10.0,1,True,AlphaTauri,True,13.0,26.617,47.345,26.524,,False,False,9029.597,6,Monaco Grand Prix
+DEV,64.0,98.636,2.0,INTERMEDIATE,11.0,1,True,AlphaTauri,True,13.0,26.257,46.679,25.7,,False,False,9128.233,6,Monaco Grand Prix
+DEV,65.0,96.475,2.0,INTERMEDIATE,12.0,1,True,AlphaTauri,True,13.0,25.475,45.736,25.264,,False,False,9224.708,6,Monaco Grand Prix
+DEV,66.0,95.654,2.0,INTERMEDIATE,13.0,1,True,AlphaTauri,True,13.0,25.231,46.2,24.223,,False,False,9320.362,6,Monaco Grand Prix
+DEV,67.0,94.011,2.0,INTERMEDIATE,14.0,1,True,AlphaTauri,True,13.0,24.544,45.37,24.097,,False,False,9414.373,6,Monaco Grand Prix
+DEV,68.0,99.526,2.0,INTERMEDIATE,15.0,12,True,AlphaTauri,True,12.0,26.74,49.101,23.685,,False,False,9513.899,6,Monaco Grand Prix
+DEV,69.0,91.939,2.0,INTERMEDIATE,16.0,1,True,AlphaTauri,True,12.0,24.323,45.17,22.446,,False,False,9605.838,6,Monaco Grand Prix
+DEV,70.0,91.636,2.0,INTERMEDIATE,17.0,1,True,AlphaTauri,True,12.0,23.783,45.154,22.699,,False,False,9697.474,6,Monaco Grand Prix
+DEV,71.0,90.107,2.0,INTERMEDIATE,18.0,1,True,AlphaTauri,True,12.0,23.656,44.207,22.244,,False,False,9787.581,6,Monaco Grand Prix
+DEV,72.0,90.085,2.0,INTERMEDIATE,19.0,1,True,AlphaTauri,True,12.0,23.037,43.711,23.337,,False,False,9877.666,6,Monaco Grand Prix
+DEV,73.0,87.595,2.0,INTERMEDIATE,20.0,1,True,AlphaTauri,True,12.0,22.85,42.778,21.967,,False,False,9965.261,6,Monaco Grand Prix
+DEV,74.0,86.478,2.0,INTERMEDIATE,21.0,1,True,AlphaTauri,True,12.0,22.034,42.525,21.919,,False,False,10051.739,6,Monaco Grand Prix
+DEV,75.0,86.435,2.0,INTERMEDIATE,22.0,1,True,AlphaTauri,True,12.0,22.249,42.04,22.146,,False,False,10138.174,6,Monaco Grand Prix
+DEV,76.0,86.282,2.0,INTERMEDIATE,23.0,1,True,AlphaTauri,True,12.0,22.249,41.889,22.144,,False,False,10224.456,6,Monaco Grand Prix
+DEV,77.0,88.038,2.0,INTERMEDIATE,24.0,1,True,AlphaTauri,True,12.0,22.572,42.348,23.118,,False,False,10312.494,6,Monaco Grand Prix
+TSU,1.0,91.317,1.0,MEDIUM,1.0,12,False,AlphaTauri,True,9.0,,39.573,21.994,,False,False,3814.514,6,Monaco Grand Prix
+TSU,2.0,81.288,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,9.0,21.766,37.771,21.751,,False,False,3895.802,6,Monaco Grand Prix
+TSU,3.0,80.281,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,9.0,21.235,37.449,21.597,,False,False,3976.083,6,Monaco Grand Prix
+TSU,4.0,80.032,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,9.0,21.229,37.393,21.41,,False,False,4056.115,6,Monaco Grand Prix
+TSU,5.0,79.296,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,9.0,20.962,37.139,21.195,,False,False,4135.411,6,Monaco Grand Prix
+TSU,6.0,78.73,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,9.0,20.855,36.8,21.075,,False,False,4214.141,6,Monaco Grand Prix
+TSU,7.0,78.712,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,9.0,20.957,36.627,21.128,,False,False,4292.853,6,Monaco Grand Prix
+TSU,8.0,78.951,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,9.0,20.824,36.892,21.235,,False,False,4371.804,6,Monaco Grand Prix
+TSU,9.0,78.859,1.0,MEDIUM,9.0,1,True,AlphaTauri,True,9.0,20.818,36.842,21.199,,False,False,4450.663,6,Monaco Grand Prix
+TSU,10.0,78.697,1.0,MEDIUM,10.0,1,True,AlphaTauri,True,9.0,20.912,36.782,21.003,,False,False,4529.36,6,Monaco Grand Prix
+TSU,11.0,79.297,1.0,MEDIUM,11.0,1,True,AlphaTauri,True,9.0,21.131,36.96,21.206,,False,False,4608.657,6,Monaco Grand Prix
+TSU,12.0,79.627,1.0,MEDIUM,12.0,12,True,AlphaTauri,True,9.0,21.563,36.906,21.158,,False,False,4688.284,6,Monaco Grand Prix
+TSU,13.0,78.8,1.0,MEDIUM,13.0,1,True,AlphaTauri,True,9.0,20.818,36.987,20.995,,False,False,4767.084,6,Monaco Grand Prix
+TSU,14.0,78.481,1.0,MEDIUM,14.0,12,True,AlphaTauri,True,9.0,20.859,36.644,20.978,,False,False,4845.565,6,Monaco Grand Prix
+TSU,15.0,78.439,1.0,MEDIUM,15.0,1,True,AlphaTauri,True,9.0,20.739,36.668,21.032,,False,False,4924.004,6,Monaco Grand Prix
+TSU,16.0,78.246,1.0,MEDIUM,16.0,1,True,AlphaTauri,True,9.0,20.643,36.642,20.961,,False,False,5002.25,6,Monaco Grand Prix
+TSU,17.0,78.368,1.0,MEDIUM,17.0,1,True,AlphaTauri,True,9.0,20.736,36.709,20.923,,False,False,5080.618,6,Monaco Grand Prix
+TSU,18.0,79.026,1.0,MEDIUM,18.0,1,True,AlphaTauri,True,9.0,20.79,37.015,21.221,,False,False,5159.644,6,Monaco Grand Prix
+TSU,19.0,78.567,1.0,MEDIUM,19.0,1,True,AlphaTauri,True,9.0,20.761,36.712,21.094,,False,False,5238.211,6,Monaco Grand Prix
+TSU,20.0,79.131,1.0,MEDIUM,20.0,1,True,AlphaTauri,True,9.0,20.774,37.032,21.325,,False,False,5317.342,6,Monaco Grand Prix
+TSU,21.0,79.26,1.0,MEDIUM,21.0,1,True,AlphaTauri,True,9.0,20.932,37.02,21.308,,False,False,5396.602,6,Monaco Grand Prix
+TSU,22.0,79.152,1.0,MEDIUM,22.0,1,True,AlphaTauri,True,9.0,20.903,37.022,21.227,,False,False,5475.754,6,Monaco Grand Prix
+TSU,23.0,79.239,1.0,MEDIUM,23.0,1,True,AlphaTauri,True,9.0,21.053,36.962,21.224,,False,False,5554.993,6,Monaco Grand Prix
+TSU,24.0,79.314,1.0,MEDIUM,24.0,1,True,AlphaTauri,True,9.0,21.016,37.125,21.173,,False,False,5634.307,6,Monaco Grand Prix
+TSU,25.0,79.335,1.0,MEDIUM,25.0,1,True,AlphaTauri,True,9.0,20.837,37.172,21.326,,False,False,5713.642,6,Monaco Grand Prix
+TSU,26.0,79.272,1.0,MEDIUM,26.0,1,True,AlphaTauri,True,9.0,20.96,37.177,21.135,,False,False,5792.914,6,Monaco Grand Prix
+TSU,27.0,78.465,1.0,MEDIUM,27.0,1,True,AlphaTauri,True,9.0,20.666,36.743,21.056,,False,False,5871.379,6,Monaco Grand Prix
+TSU,28.0,78.369,1.0,MEDIUM,28.0,1,True,AlphaTauri,True,9.0,20.657,36.73,20.982,,False,False,5949.748,6,Monaco Grand Prix
+TSU,29.0,78.2,1.0,MEDIUM,29.0,1,True,AlphaTauri,True,9.0,20.631,36.661,20.908,,False,False,6027.948,6,Monaco Grand Prix
+TSU,30.0,78.335,1.0,MEDIUM,30.0,1,True,AlphaTauri,True,9.0,20.636,36.835,20.864,,False,False,6106.283,6,Monaco Grand Prix
+TSU,31.0,78.463,1.0,MEDIUM,31.0,1,True,AlphaTauri,True,9.0,20.685,36.805,20.973,,False,False,6184.746,6,Monaco Grand Prix
+TSU,32.0,78.519,1.0,MEDIUM,32.0,1,True,AlphaTauri,True,9.0,20.753,36.795,20.971,,False,False,6263.265,6,Monaco Grand Prix
+TSU,33.0,78.457,1.0,MEDIUM,33.0,1,True,AlphaTauri,True,9.0,20.68,36.83,20.947,,False,False,6341.722,6,Monaco Grand Prix
+TSU,34.0,78.039,1.0,MEDIUM,34.0,1,True,AlphaTauri,True,9.0,20.628,36.593,20.818,,False,False,6419.761,6,Monaco Grand Prix
+TSU,35.0,77.75,1.0,MEDIUM,35.0,1,True,AlphaTauri,True,9.0,20.398,36.608,20.744,,False,False,6497.511,6,Monaco Grand Prix
+TSU,36.0,77.68,1.0,MEDIUM,36.0,1,True,AlphaTauri,True,9.0,20.371,36.522,20.787,,False,False,6575.191,6,Monaco Grand Prix
+TSU,37.0,77.992,1.0,MEDIUM,37.0,1,True,AlphaTauri,True,9.0,20.529,36.647,20.816,,False,False,6653.183,6,Monaco Grand Prix
+TSU,38.0,78.195,1.0,MEDIUM,38.0,1,True,AlphaTauri,True,9.0,20.408,36.902,20.885,,False,False,6731.378,6,Monaco Grand Prix
+TSU,39.0,78.338,1.0,MEDIUM,39.0,1,True,AlphaTauri,True,9.0,20.606,36.909,20.823,,False,False,6809.716,6,Monaco Grand Prix
+TSU,40.0,78.328,1.0,MEDIUM,40.0,1,True,AlphaTauri,True,9.0,20.612,36.773,20.943,,False,False,6888.044,6,Monaco Grand Prix
+TSU,41.0,78.074,1.0,MEDIUM,41.0,1,True,AlphaTauri,True,9.0,20.498,36.725,20.851,,False,False,6966.118,6,Monaco Grand Prix
+TSU,42.0,78.189,1.0,MEDIUM,42.0,1,True,AlphaTauri,True,9.0,20.497,36.745,20.947,,False,False,7044.307,6,Monaco Grand Prix
+TSU,43.0,78.046,1.0,MEDIUM,43.0,1,True,AlphaTauri,True,9.0,20.566,36.622,20.858,,False,False,7122.353,6,Monaco Grand Prix
+TSU,44.0,78.0,1.0,MEDIUM,44.0,1,True,AlphaTauri,True,9.0,20.294,36.844,20.862,,False,False,7200.353,6,Monaco Grand Prix
+TSU,45.0,77.879,1.0,MEDIUM,45.0,1,True,AlphaTauri,True,9.0,20.443,36.733,20.703,,False,False,7278.232,6,Monaco Grand Prix
+TSU,46.0,77.956,1.0,MEDIUM,46.0,1,True,AlphaTauri,True,9.0,20.437,36.761,20.758,,False,False,7356.188,6,Monaco Grand Prix
+TSU,47.0,78.169,1.0,MEDIUM,47.0,1,True,AlphaTauri,True,9.0,20.522,36.854,20.793,,False,False,7434.357,6,Monaco Grand Prix
+TSU,48.0,78.098,1.0,MEDIUM,48.0,1,True,AlphaTauri,True,9.0,20.508,36.801,20.789,,False,False,7512.455,6,Monaco Grand Prix
+TSU,49.0,78.32,1.0,MEDIUM,49.0,1,True,AlphaTauri,True,9.0,20.472,36.888,20.96,,False,False,7590.775,6,Monaco Grand Prix
+TSU,50.0,78.64,1.0,MEDIUM,50.0,1,True,AlphaTauri,True,9.0,20.535,37.218,20.887,,False,False,7669.415,6,Monaco Grand Prix
+TSU,51.0,83.804,1.0,MEDIUM,51.0,1,True,AlphaTauri,True,9.0,20.595,40.811,22.398,,False,False,7753.219,6,Monaco Grand Prix
+TSU,52.0,92.268,1.0,MEDIUM,52.0,1,True,AlphaTauri,True,9.0,23.535,45.528,23.205,,False,False,7845.487,6,Monaco Grand Prix
+TSU,53.0,125.687,1.0,MEDIUM,53.0,1,False,AlphaTauri,True,11.0,24.88,50.118,50.689,,True,False,7971.174,6,Monaco Grand Prix
+TSU,54.0,101.01,2.0,INTERMEDIATE,1.0,12,False,AlphaTauri,True,9.0,27.933,47.66,25.417,,False,True,8072.184,6,Monaco Grand Prix
+TSU,55.0,101.834,2.0,INTERMEDIATE,2.0,12,True,AlphaTauri,True,9.0,26.097,49.795,25.942,,False,False,8174.018,6,Monaco Grand Prix
+TSU,56.0,102.479,2.0,INTERMEDIATE,3.0,1,True,AlphaTauri,True,9.0,26.704,49.481,26.294,,False,False,8276.497,6,Monaco Grand Prix
+TSU,57.0,102.945,2.0,INTERMEDIATE,4.0,12,True,AlphaTauri,True,9.0,27.062,49.217,26.666,,False,False,8379.442,6,Monaco Grand Prix
+TSU,58.0,105.898,2.0,INTERMEDIATE,5.0,12,True,AlphaTauri,True,9.0,27.08,51.698,27.12,,False,False,8485.34,6,Monaco Grand Prix
+TSU,59.0,102.608,2.0,INTERMEDIATE,6.0,12,True,AlphaTauri,True,9.0,27.124,48.912,26.572,,False,False,8587.948,6,Monaco Grand Prix
+TSU,60.0,103.593,2.0,INTERMEDIATE,7.0,12,True,AlphaTauri,True,9.0,28.018,48.857,26.718,,False,False,8691.541,6,Monaco Grand Prix
+TSU,61.0,102.234,2.0,INTERMEDIATE,8.0,1,True,AlphaTauri,True,9.0,26.91,48.798,26.526,,False,False,8793.775,6,Monaco Grand Prix
+TSU,62.0,100.84,2.0,INTERMEDIATE,9.0,1,True,AlphaTauri,True,9.0,26.742,47.794,26.304,,False,False,8894.615,6,Monaco Grand Prix
+TSU,63.0,99.932,2.0,INTERMEDIATE,10.0,1,True,AlphaTauri,True,9.0,25.992,47.562,26.378,,False,False,8994.547,6,Monaco Grand Prix
+TSU,64.0,103.104,2.0,INTERMEDIATE,11.0,1,True,AlphaTauri,True,9.0,26.151,50.075,26.878,,False,False,9097.651,6,Monaco Grand Prix
+TSU,65.0,98.497,2.0,INTERMEDIATE,12.0,1,True,AlphaTauri,True,9.0,26.386,47.489,24.622,,False,False,9196.148,6,Monaco Grand Prix
+TSU,66.0,97.427,2.0,INTERMEDIATE,13.0,1,True,AlphaTauri,True,9.0,25.347,46.642,25.438,,False,False,9293.575,6,Monaco Grand Prix
+TSU,67.0,97.623,2.0,INTERMEDIATE,14.0,1,True,AlphaTauri,True,10.0,26.02,46.872,24.731,,False,False,9391.198,6,Monaco Grand Prix
+TSU,68.0,137.012,2.0,INTERMEDIATE,15.0,12,True,AlphaTauri,True,13.0,25.629,81.925,29.458,,False,False,9528.21,6,Monaco Grand Prix
+TSU,69.0,100.44,2.0,INTERMEDIATE,16.0,1,True,AlphaTauri,True,15.0,28.389,47.289,24.762,,False,False,9628.65,6,Monaco Grand Prix
+TSU,70.0,93.923,2.0,INTERMEDIATE,17.0,1,True,AlphaTauri,True,15.0,24.613,45.466,23.844,,False,False,9722.573,6,Monaco Grand Prix
+TSU,71.0,91.757,2.0,INTERMEDIATE,18.0,1,True,AlphaTauri,True,15.0,23.847,44.516,23.394,,False,False,9814.33,6,Monaco Grand Prix
+TSU,72.0,89.958,2.0,INTERMEDIATE,19.0,1,True,AlphaTauri,True,15.0,23.487,43.626,22.845,,False,False,9904.288,6,Monaco Grand Prix
+TSU,73.0,88.138,2.0,INTERMEDIATE,20.0,1,True,AlphaTauri,True,15.0,23.083,42.328,22.727,,False,False,9992.426,6,Monaco Grand Prix
+TSU,74.0,88.759,2.0,INTERMEDIATE,21.0,1,True,AlphaTauri,True,15.0,23.108,42.789,22.862,,False,False,10081.185,6,Monaco Grand Prix
+TSU,75.0,87.332,2.0,INTERMEDIATE,22.0,1,True,AlphaTauri,True,15.0,22.803,41.91,22.619,,False,False,10168.517,6,Monaco Grand Prix
+TSU,76.0,94.205,2.0,INTERMEDIATE,23.0,1,True,AlphaTauri,True,15.0,24.311,46.653,23.241,,False,False,10262.722,6,Monaco Grand Prix
+ALB,1.0,94.616,1.0,MEDIUM,1.0,12,False,Williams,True,13.0,,41.843,21.357,,False,False,3817.813,6,Monaco Grand Prix
+ALB,2.0,80.977,1.0,MEDIUM,2.0,1,True,Williams,True,13.0,21.337,37.926,21.714,,False,False,3898.79,6,Monaco Grand Prix
+ALB,3.0,80.703,1.0,MEDIUM,3.0,1,True,Williams,True,13.0,21.613,37.666,21.424,,False,False,3979.493,6,Monaco Grand Prix
+ALB,4.0,80.276,1.0,MEDIUM,4.0,1,True,Williams,True,13.0,21.365,37.635,21.276,,False,False,4059.769,6,Monaco Grand Prix
+ALB,5.0,79.967,1.0,MEDIUM,5.0,1,True,Williams,True,13.0,21.211,37.654,21.102,,False,False,4139.736,6,Monaco Grand Prix
+ALB,6.0,79.165,1.0,MEDIUM,6.0,1,True,Williams,True,13.0,20.985,37.175,21.005,,False,False,4218.901,6,Monaco Grand Prix
+ALB,7.0,79.055,1.0,MEDIUM,7.0,1,True,Williams,True,13.0,20.964,37.216,20.875,,False,False,4297.956,6,Monaco Grand Prix
+ALB,8.0,78.796,1.0,MEDIUM,8.0,1,True,Williams,True,13.0,20.842,37.104,20.85,,False,False,4376.752,6,Monaco Grand Prix
+ALB,9.0,79.293,1.0,MEDIUM,9.0,1,True,Williams,True,13.0,20.98,37.238,21.075,,False,False,4456.045,6,Monaco Grand Prix
+ALB,10.0,79.338,1.0,MEDIUM,10.0,1,True,Williams,True,13.0,21.079,37.236,21.023,,False,False,4535.383,6,Monaco Grand Prix
+ALB,11.0,79.278,1.0,MEDIUM,11.0,12,True,Williams,True,13.0,21.107,37.19,20.981,,False,False,4614.661,6,Monaco Grand Prix
+ALB,12.0,80.31,1.0,MEDIUM,12.0,21,True,Williams,True,13.0,21.359,37.71,21.241,,False,False,4694.971,6,Monaco Grand Prix
+ALB,13.0,79.885,1.0,MEDIUM,13.0,1,True,Williams,True,13.0,21.015,37.578,21.292,,False,False,4774.856,6,Monaco Grand Prix
+ALB,14.0,80.259,1.0,MEDIUM,14.0,12,True,Williams,True,13.0,21.1,37.723,21.436,,False,False,4855.115,6,Monaco Grand Prix
+ALB,15.0,80.892,1.0,MEDIUM,15.0,1,True,Williams,True,13.0,21.091,38.177,21.624,,False,False,4936.007,6,Monaco Grand Prix
+ALB,16.0,80.443,1.0,MEDIUM,16.0,1,True,Williams,True,13.0,21.138,37.761,21.544,,False,False,5016.45,6,Monaco Grand Prix
+ALB,17.0,80.624,1.0,MEDIUM,17.0,1,True,Williams,True,13.0,21.111,37.878,21.635,,False,False,5097.074,6,Monaco Grand Prix
+ALB,18.0,98.414,1.0,MEDIUM,18.0,1,False,Williams,True,20.0,21.136,38.899,38.379,,True,False,5195.488,6,Monaco Grand Prix
+ALB,19.0,83.193,2.0,HARD,1.0,1,False,Williams,True,20.0,24.061,37.316,21.816,,False,True,5278.681,6,Monaco Grand Prix
+ALB,20.0,78.47,2.0,HARD,2.0,1,True,Williams,True,19.0,21.216,36.78,20.474,,False,False,5357.151,6,Monaco Grand Prix
+ALB,21.0,77.131,2.0,HARD,3.0,1,True,Williams,True,19.0,20.333,36.329,20.469,,False,False,5434.282,6,Monaco Grand Prix
+ALB,22.0,77.105,2.0,HARD,4.0,1,True,Williams,True,19.0,20.244,36.232,20.629,,False,False,5511.387,6,Monaco Grand Prix
+ALB,23.0,77.064,2.0,HARD,5.0,1,True,Williams,True,19.0,20.311,36.259,20.494,,False,False,5588.451,6,Monaco Grand Prix
+ALB,24.0,76.672,2.0,HARD,6.0,1,True,Williams,True,19.0,20.231,36.015,20.426,,False,False,5665.123,6,Monaco Grand Prix
+ALB,25.0,76.793,2.0,HARD,7.0,1,True,Williams,True,19.0,20.194,36.215,20.384,,False,False,5741.916,6,Monaco Grand Prix
+ALB,26.0,76.962,2.0,HARD,8.0,1,True,Williams,True,19.0,20.219,36.265,20.478,,False,False,5818.878,6,Monaco Grand Prix
+ALB,27.0,77.36,2.0,HARD,9.0,1,True,Williams,True,19.0,20.411,36.395,20.554,,False,False,5896.238,6,Monaco Grand Prix
+ALB,28.0,78.528,2.0,HARD,10.0,1,True,Williams,True,19.0,20.492,36.88,21.156,,False,False,5974.766,6,Monaco Grand Prix
+ALB,29.0,78.952,2.0,HARD,11.0,1,True,Williams,True,19.0,20.784,37.127,21.041,,False,False,6053.718,6,Monaco Grand Prix
+ALB,30.0,79.457,2.0,HARD,12.0,1,True,Williams,True,19.0,20.803,37.528,21.126,,False,False,6133.175,6,Monaco Grand Prix
+ALB,31.0,79.152,2.0,HARD,13.0,1,True,Williams,True,19.0,20.811,37.328,21.013,,False,False,6212.327,6,Monaco Grand Prix
+ALB,32.0,79.589,2.0,HARD,14.0,1,True,Williams,True,19.0,20.863,37.552,21.174,,False,False,6291.916,6,Monaco Grand Prix
+ALB,33.0,81.559,2.0,HARD,15.0,1,True,Williams,True,19.0,22.683,36.812,22.064,,False,False,6373.475,6,Monaco Grand Prix
+ALB,34.0,80.731,2.0,HARD,16.0,1,True,Williams,True,18.0,21.48,37.806,21.445,,False,False,6454.206,6,Monaco Grand Prix
+ALB,35.0,78.619,2.0,HARD,17.0,1,True,Williams,True,18.0,20.716,37.07,20.833,,False,False,6532.825,6,Monaco Grand Prix
+ALB,36.0,78.804,2.0,HARD,18.0,1,True,Williams,True,18.0,20.689,36.943,21.172,,False,False,6611.629,6,Monaco Grand Prix
+ALB,37.0,79.143,2.0,HARD,19.0,1,True,Williams,True,18.0,20.877,37.322,20.944,,False,False,6690.772,6,Monaco Grand Prix
+ALB,38.0,78.633,2.0,HARD,20.0,1,True,Williams,True,18.0,20.652,37.17,20.811,,False,False,6769.405,6,Monaco Grand Prix
+ALB,39.0,78.774,2.0,HARD,21.0,1,True,Williams,True,18.0,20.669,37.118,20.987,,False,False,6848.179,6,Monaco Grand Prix
+ALB,40.0,78.476,2.0,HARD,22.0,1,True,Williams,True,18.0,20.563,37.003,20.91,,False,False,6926.655,6,Monaco Grand Prix
+ALB,41.0,78.825,2.0,HARD,23.0,1,True,Williams,True,18.0,20.726,37.279,20.82,,False,False,7005.48,6,Monaco Grand Prix
+ALB,42.0,78.93,2.0,HARD,24.0,1,True,Williams,True,18.0,20.754,36.986,21.19,,False,False,7084.41,6,Monaco Grand Prix
+ALB,43.0,78.486,2.0,HARD,25.0,1,True,Williams,True,18.0,20.719,36.907,20.86,,False,False,7162.896,6,Monaco Grand Prix
+ALB,44.0,78.767,2.0,HARD,26.0,1,True,Williams,True,18.0,20.67,37.212,20.885,,False,False,7241.663,6,Monaco Grand Prix
+ALB,45.0,78.829,2.0,HARD,27.0,1,True,Williams,True,18.0,20.629,37.174,21.026,,False,False,7320.492,6,Monaco Grand Prix
+ALB,46.0,78.9,2.0,HARD,28.0,1,True,Williams,True,18.0,20.758,37.035,21.107,,False,False,7399.392,6,Monaco Grand Prix
+ALB,47.0,78.528,2.0,HARD,29.0,1,True,Williams,True,18.0,20.492,37.095,20.941,,False,False,7477.92,6,Monaco Grand Prix
+ALB,48.0,78.882,2.0,HARD,30.0,1,True,Williams,True,18.0,20.561,37.374,20.947,,False,False,7556.802,6,Monaco Grand Prix
+ALB,49.0,80.597,2.0,HARD,31.0,1,True,Williams,True,18.0,20.61,38.987,21.0,,False,False,7637.399,6,Monaco Grand Prix
+ALB,50.0,80.166,2.0,HARD,32.0,1,True,Williams,True,18.0,20.49,38.081,21.595,,False,False,7717.565,6,Monaco Grand Prix
+ALB,51.0,89.941,2.0,HARD,33.0,1,True,Williams,True,16.0,21.073,45.508,23.36,,False,False,7807.506,6,Monaco Grand Prix
+ALB,52.0,115.852,2.0,HARD,34.0,1,False,Williams,True,19.0,25.159,48.205,42.488,,True,False,7923.358,6,Monaco Grand Prix
+ALB,53.0,96.281,3.0,INTERMEDIATE,1.0,1,False,Williams,True,18.0,26.715,46.265,23.301,,False,True,8019.639,6,Monaco Grand Prix
+ALB,54.0,98.297,3.0,INTERMEDIATE,2.0,12,True,Williams,True,16.0,25.792,47.123,25.382,,False,False,8117.936,6,Monaco Grand Prix
+ALB,55.0,105.721,3.0,INTERMEDIATE,3.0,21,True,Williams,True,15.0,27.162,48.47,30.089,,False,False,8223.657,6,Monaco Grand Prix
+ALB,56.0,104.909,3.0,INTERMEDIATE,4.0,1,True,Williams,True,15.0,27.607,50.357,26.945,,False,False,8328.566,6,Monaco Grand Prix
+ALB,57.0,102.2,3.0,INTERMEDIATE,5.0,12,True,Williams,True,15.0,27.42,48.044,26.736,,False,False,8430.766,6,Monaco Grand Prix
+ALB,58.0,106.101,3.0,INTERMEDIATE,6.0,12,True,Williams,True,15.0,28.29,50.797,27.014,,False,False,8536.867,6,Monaco Grand Prix
+ALB,59.0,103.133,3.0,INTERMEDIATE,7.0,21,True,Williams,True,15.0,27.907,48.838,26.388,,False,False,8640.0,6,Monaco Grand Prix
+ALB,60.0,115.401,3.0,INTERMEDIATE,8.0,12,True,Williams,True,15.0,27.057,62.03,26.314,,False,False,8755.401,6,Monaco Grand Prix
+ALB,61.0,101.209,3.0,INTERMEDIATE,9.0,1,True,Williams,True,15.0,27.146,48.072,25.991,,False,False,8856.61,6,Monaco Grand Prix
+ALB,62.0,99.897,3.0,INTERMEDIATE,10.0,1,True,Williams,True,15.0,26.443,47.241,26.213,,False,False,8956.507,6,Monaco Grand Prix
+ALB,63.0,98.649,3.0,INTERMEDIATE,11.0,1,True,Williams,True,15.0,26.044,47.214,25.391,,False,False,9055.156,6,Monaco Grand Prix
+ALB,64.0,97.428,3.0,INTERMEDIATE,12.0,1,True,Williams,True,15.0,26.313,46.601,24.514,,False,False,9152.584,6,Monaco Grand Prix
+ALB,65.0,95.42,3.0,INTERMEDIATE,13.0,1,True,Williams,True,15.0,25.308,46.549,23.563,,False,False,9248.004,6,Monaco Grand Prix
+ALB,66.0,94.016,3.0,INTERMEDIATE,14.0,1,True,Williams,True,15.0,24.897,45.799,23.32,,False,False,9342.02,6,Monaco Grand Prix
+ALB,67.0,93.223,3.0,INTERMEDIATE,15.0,12,True,Williams,True,15.0,24.721,45.247,23.255,,False,False,9435.243,6,Monaco Grand Prix
+ALB,68.0,93.322,3.0,INTERMEDIATE,16.0,21,True,Williams,True,15.0,24.928,45.008,23.386,,False,False,9528.565,6,Monaco Grand Prix
+ALB,69.0,94.087,3.0,INTERMEDIATE,17.0,1,True,Williams,True,14.0,26.707,44.975,22.405,,False,False,9622.652,6,Monaco Grand Prix
+ALB,70.0,90.63,3.0,INTERMEDIATE,18.0,1,True,Williams,True,14.0,24.243,44.189,22.198,,False,False,9713.282,6,Monaco Grand Prix
+ALB,71.0,89.729,3.0,INTERMEDIATE,19.0,1,True,Williams,True,14.0,23.878,43.609,22.242,,False,False,9803.011,6,Monaco Grand Prix
+ALB,72.0,89.217,3.0,INTERMEDIATE,20.0,1,True,Williams,True,14.0,23.691,43.198,22.328,,False,False,9892.228,6,Monaco Grand Prix
+ALB,73.0,92.141,3.0,INTERMEDIATE,21.0,1,True,Williams,True,14.0,23.412,45.44,23.289,,False,False,9984.369,6,Monaco Grand Prix
+ALB,74.0,88.241,3.0,INTERMEDIATE,22.0,1,True,Williams,True,14.0,23.169,42.779,22.293,,False,False,10072.61,6,Monaco Grand Prix
+ALB,75.0,87.197,3.0,INTERMEDIATE,23.0,1,True,Williams,True,14.0,22.695,42.068,22.434,,False,False,10159.807,6,Monaco Grand Prix
+ALB,76.0,86.764,3.0,INTERMEDIATE,24.0,1,True,Williams,True,14.0,22.76,41.567,22.437,,False,False,10246.571,6,Monaco Grand Prix
+ALB,77.0,87.816,3.0,INTERMEDIATE,25.0,1,True,Williams,True,14.0,23.207,41.296,23.313,,False,False,10334.387,6,Monaco Grand Prix
+ZHO,1.0,118.785,1.0,SOFT,1.0,12,False,Alfa Romeo,True,19.0,,44.973,40.522,,True,False,3841.982,6,Monaco Grand Prix
+ZHO,2.0,80.757,2.0,HARD,1.0,1,False,Alfa Romeo,True,19.0,23.917,36.293,20.547,,False,True,3922.739,6,Monaco Grand Prix
+ZHO,3.0,77.003,2.0,HARD,2.0,1,True,Alfa Romeo,True,19.0,20.325,36.051,20.627,,False,False,3999.742,6,Monaco Grand Prix
+ZHO,4.0,76.946,2.0,HARD,3.0,1,True,Alfa Romeo,True,19.0,20.273,36.051,20.622,,False,False,4076.688,6,Monaco Grand Prix
+ZHO,5.0,76.926,2.0,HARD,4.0,1,True,Alfa Romeo,True,19.0,20.3,36.13,20.496,,False,False,4153.614,6,Monaco Grand Prix
+ZHO,6.0,77.205,2.0,HARD,5.0,1,True,Alfa Romeo,True,19.0,20.397,36.174,20.634,,False,False,4230.819,6,Monaco Grand Prix
+ZHO,7.0,77.408,2.0,HARD,6.0,1,True,Alfa Romeo,True,19.0,20.451,36.403,20.554,,False,False,4308.227,6,Monaco Grand Prix
+ZHO,8.0,77.254,2.0,HARD,7.0,1,True,Alfa Romeo,True,19.0,20.473,36.181,20.6,,False,False,4385.481,6,Monaco Grand Prix
+ZHO,9.0,77.523,2.0,HARD,8.0,1,True,Alfa Romeo,True,19.0,20.371,36.45,20.702,,False,False,4463.004,6,Monaco Grand Prix
+ZHO,10.0,78.449,2.0,HARD,9.0,1,True,Alfa Romeo,True,19.0,20.432,37.0,21.017,,False,False,4541.453,6,Monaco Grand Prix
+ZHO,11.0,79.602,2.0,HARD,10.0,12,True,Alfa Romeo,True,19.0,20.82,37.48,21.302,,False,False,4621.055,6,Monaco Grand Prix
+ZHO,12.0,80.319,2.0,HARD,11.0,21,True,Alfa Romeo,True,19.0,21.331,37.638,21.35,,False,False,4701.374,6,Monaco Grand Prix
+ZHO,13.0,80.561,2.0,HARD,12.0,1,True,Alfa Romeo,True,19.0,21.05,38.268,21.243,,False,False,4781.935,6,Monaco Grand Prix
+ZHO,14.0,80.653,2.0,HARD,13.0,12,True,Alfa Romeo,True,19.0,21.212,38.053,21.388,,False,False,4862.588,6,Monaco Grand Prix
+ZHO,15.0,80.398,2.0,HARD,14.0,1,True,Alfa Romeo,True,19.0,20.966,37.985,21.447,,False,False,4942.986,6,Monaco Grand Prix
+ZHO,16.0,80.727,2.0,HARD,15.0,1,True,Alfa Romeo,True,19.0,20.912,38.097,21.718,,False,False,5023.713,6,Monaco Grand Prix
+ZHO,17.0,80.669,2.0,HARD,16.0,1,True,Alfa Romeo,True,19.0,21.065,38.174,21.43,,False,False,5104.382,6,Monaco Grand Prix
+ZHO,18.0,81.524,2.0,HARD,17.0,1,True,Alfa Romeo,True,18.0,22.067,38.224,21.233,,False,False,5185.906,6,Monaco Grand Prix
+ZHO,19.0,82.387,2.0,HARD,18.0,1,True,Alfa Romeo,True,19.0,22.36,38.556,21.471,,False,False,5268.293,6,Monaco Grand Prix
+ZHO,20.0,80.574,2.0,HARD,19.0,1,True,Alfa Romeo,True,18.0,21.352,37.794,21.428,,False,False,5348.867,6,Monaco Grand Prix
+ZHO,21.0,78.245,2.0,HARD,20.0,1,True,Alfa Romeo,True,18.0,20.68,36.601,20.964,,False,False,5427.112,6,Monaco Grand Prix
+ZHO,22.0,77.588,2.0,HARD,21.0,1,True,Alfa Romeo,True,18.0,20.342,36.505,20.741,,False,False,5504.7,6,Monaco Grand Prix
+ZHO,23.0,77.45,2.0,HARD,22.0,1,True,Alfa Romeo,True,18.0,20.26,36.339,20.851,,False,False,5582.15,6,Monaco Grand Prix
+ZHO,24.0,77.465,2.0,HARD,23.0,1,True,Alfa Romeo,True,18.0,20.373,36.323,20.769,,False,False,5659.615,6,Monaco Grand Prix
+ZHO,25.0,77.771,2.0,HARD,24.0,1,True,Alfa Romeo,True,18.0,20.394,36.505,20.872,,False,False,5737.386,6,Monaco Grand Prix
+ZHO,26.0,78.161,2.0,HARD,25.0,1,True,Alfa Romeo,True,18.0,20.532,36.565,21.064,,False,False,5815.547,6,Monaco Grand Prix
+ZHO,27.0,78.097,2.0,HARD,26.0,1,True,Alfa Romeo,True,18.0,20.502,36.549,21.046,,False,False,5893.644,6,Monaco Grand Prix
+ZHO,28.0,80.78,2.0,HARD,27.0,1,True,Alfa Romeo,True,18.0,20.509,38.959,21.312,,False,False,5974.424,6,Monaco Grand Prix
+ZHO,29.0,78.863,2.0,HARD,28.0,1,True,Alfa Romeo,True,18.0,20.545,37.021,21.297,,False,False,6053.287,6,Monaco Grand Prix
+ZHO,30.0,79.5,2.0,HARD,29.0,1,True,Alfa Romeo,True,18.0,20.793,37.443,21.264,,False,False,6132.787,6,Monaco Grand Prix
+ZHO,31.0,79.192,2.0,HARD,30.0,1,True,Alfa Romeo,True,18.0,20.58,37.434,21.178,,False,False,6211.979,6,Monaco Grand Prix
+ZHO,32.0,79.626,2.0,HARD,31.0,1,True,Alfa Romeo,True,18.0,20.708,37.64,21.278,,False,False,6291.605,6,Monaco Grand Prix
+ZHO,33.0,81.602,2.0,HARD,32.0,1,True,Alfa Romeo,True,18.0,20.852,37.848,22.902,,False,False,6373.207,6,Monaco Grand Prix
+ZHO,34.0,80.587,2.0,HARD,33.0,1,True,Alfa Romeo,True,17.0,21.406,37.745,21.436,,False,False,6453.794,6,Monaco Grand Prix
+ZHO,35.0,78.586,2.0,HARD,34.0,1,True,Alfa Romeo,True,17.0,20.615,37.045,20.926,,False,False,6532.38,6,Monaco Grand Prix
+ZHO,36.0,78.846,2.0,HARD,35.0,1,True,Alfa Romeo,True,17.0,20.567,37.142,21.137,,False,False,6611.226,6,Monaco Grand Prix
+ZHO,37.0,79.099,2.0,HARD,36.0,1,True,Alfa Romeo,True,17.0,20.776,37.326,20.997,,False,False,6690.325,6,Monaco Grand Prix
+ZHO,38.0,78.681,2.0,HARD,37.0,1,True,Alfa Romeo,True,17.0,20.564,37.137,20.98,,False,False,6769.006,6,Monaco Grand Prix
+ZHO,39.0,78.659,2.0,HARD,38.0,1,True,Alfa Romeo,True,17.0,20.579,37.071,21.009,,False,False,6847.665,6,Monaco Grand Prix
+ZHO,40.0,78.607,2.0,HARD,39.0,1,True,Alfa Romeo,True,17.0,20.49,37.128,20.989,,False,False,6926.272,6,Monaco Grand Prix
+ZHO,41.0,78.831,2.0,HARD,40.0,1,True,Alfa Romeo,True,17.0,20.619,37.351,20.861,,False,False,7005.103,6,Monaco Grand Prix
+ZHO,42.0,78.666,2.0,HARD,41.0,1,True,Alfa Romeo,True,17.0,20.48,37.089,21.097,,False,False,7083.769,6,Monaco Grand Prix
+ZHO,43.0,78.701,2.0,HARD,42.0,1,True,Alfa Romeo,True,17.0,20.522,37.032,21.147,,False,False,7162.47,6,Monaco Grand Prix
+ZHO,44.0,78.721,2.0,HARD,43.0,1,True,Alfa Romeo,True,17.0,20.698,37.151,20.872,,False,False,7241.191,6,Monaco Grand Prix
+ZHO,45.0,78.762,2.0,HARD,44.0,1,True,Alfa Romeo,True,17.0,20.63,37.105,21.027,,False,False,7319.953,6,Monaco Grand Prix
+ZHO,46.0,78.66,2.0,HARD,45.0,1,True,Alfa Romeo,True,17.0,20.512,37.171,20.977,,False,False,7398.613,6,Monaco Grand Prix
+ZHO,47.0,78.809,2.0,HARD,46.0,1,True,Alfa Romeo,True,17.0,20.466,37.301,21.042,,False,False,7477.422,6,Monaco Grand Prix
+ZHO,48.0,78.947,2.0,HARD,47.0,1,True,Alfa Romeo,True,17.0,20.561,37.221,21.165,,False,False,7556.369,6,Monaco Grand Prix
+ZHO,49.0,79.065,2.0,HARD,48.0,1,True,Alfa Romeo,True,17.0,20.492,37.411,21.162,,False,False,7635.434,6,Monaco Grand Prix
+ZHO,50.0,81.664,2.0,HARD,49.0,1,True,Alfa Romeo,True,17.0,20.64,39.615,21.409,,False,False,7717.098,6,Monaco Grand Prix
+ZHO,51.0,90.253,2.0,HARD,50.0,1,True,Alfa Romeo,True,15.0,20.987,44.544,24.722,,False,False,7807.351,6,Monaco Grand Prix
+ZHO,52.0,111.997,2.0,HARD,51.0,1,False,Alfa Romeo,True,18.0,24.031,47.07,40.896,,True,False,7919.348,6,Monaco Grand Prix
+ZHO,53.0,96.935,3.0,INTERMEDIATE,1.0,1,False,Alfa Romeo,True,17.0,26.95,46.587,23.398,,False,True,8016.283,6,Monaco Grand Prix
+ZHO,54.0,100.446,3.0,INTERMEDIATE,2.0,12,True,Alfa Romeo,True,15.0,24.778,49.642,26.026,,False,False,8116.729,6,Monaco Grand Prix
+ZHO,55.0,106.545,3.0,INTERMEDIATE,3.0,21,True,Alfa Romeo,True,14.0,26.463,49.345,30.737,,False,False,8223.274,6,Monaco Grand Prix
+ZHO,56.0,101.908,3.0,INTERMEDIATE,4.0,1,True,Alfa Romeo,True,14.0,26.643,48.265,27.0,,False,False,8325.182,6,Monaco Grand Prix
+ZHO,57.0,104.702,3.0,INTERMEDIATE,5.0,12,True,Alfa Romeo,True,14.0,27.221,49.122,28.359,,False,False,8429.884,6,Monaco Grand Prix
+ZHO,58.0,105.564,3.0,INTERMEDIATE,6.0,12,True,Alfa Romeo,True,14.0,28.832,49.317,27.415,,False,False,8535.448,6,Monaco Grand Prix
+ZHO,59.0,103.592,3.0,INTERMEDIATE,7.0,21,True,Alfa Romeo,True,14.0,27.562,48.727,27.303,,False,False,8639.04,6,Monaco Grand Prix
+ZHO,60.0,101.62,3.0,INTERMEDIATE,8.0,12,True,Alfa Romeo,True,14.0,26.708,47.952,26.96,,False,False,8740.66,6,Monaco Grand Prix
+ZHO,61.0,101.501,3.0,INTERMEDIATE,9.0,1,True,Alfa Romeo,True,14.0,26.594,47.925,26.982,,False,False,8842.161,6,Monaco Grand Prix
+ZHO,62.0,100.987,3.0,INTERMEDIATE,10.0,1,True,Alfa Romeo,True,14.0,26.468,47.801,26.718,,False,False,8943.148,6,Monaco Grand Prix
+ZHO,63.0,100.738,3.0,INTERMEDIATE,11.0,1,True,Alfa Romeo,True,14.0,26.265,48.06,26.413,,False,False,9043.886,6,Monaco Grand Prix
+ZHO,64.0,102.573,3.0,INTERMEDIATE,12.0,1,True,Alfa Romeo,True,14.0,26.121,47.347,29.105,,False,False,9146.459,6,Monaco Grand Prix
+ZHO,65.0,99.444,3.0,INTERMEDIATE,13.0,1,True,Alfa Romeo,True,14.0,27.198,47.238,25.008,,False,False,9245.903,6,Monaco Grand Prix
+ZHO,66.0,94.287,3.0,INTERMEDIATE,14.0,1,True,Alfa Romeo,True,14.0,24.573,45.594,24.12,,False,False,9340.19,6,Monaco Grand Prix
+ZHO,67.0,93.464,3.0,INTERMEDIATE,15.0,12,True,Alfa Romeo,True,14.0,24.541,45.319,23.604,,False,False,9433.654,6,Monaco Grand Prix
+ZHO,68.0,94.679,3.0,INTERMEDIATE,16.0,21,True,Alfa Romeo,True,14.0,24.734,45.068,24.877,,False,False,9528.333,6,Monaco Grand Prix
+ZHO,69.0,93.879,3.0,INTERMEDIATE,17.0,1,True,Alfa Romeo,True,13.0,26.454,44.453,22.972,,False,False,9622.212,6,Monaco Grand Prix
+ZHO,70.0,90.405,3.0,INTERMEDIATE,18.0,1,True,Alfa Romeo,True,13.0,23.856,43.793,22.756,,False,False,9712.617,6,Monaco Grand Prix
+ZHO,71.0,89.336,3.0,INTERMEDIATE,19.0,1,True,Alfa Romeo,True,13.0,23.237,43.399,22.7,,False,False,9801.953,6,Monaco Grand Prix
+ZHO,72.0,87.964,3.0,INTERMEDIATE,20.0,1,True,Alfa Romeo,True,13.0,22.869,42.498,22.597,,False,False,9889.917,6,Monaco Grand Prix
+ZHO,73.0,90.119,3.0,INTERMEDIATE,21.0,1,True,Alfa Romeo,True,13.0,22.817,44.378,22.924,,False,False,9980.036,6,Monaco Grand Prix
+ZHO,74.0,88.049,3.0,INTERMEDIATE,22.0,1,True,Alfa Romeo,True,13.0,23.098,42.391,22.56,,False,False,10068.085,6,Monaco Grand Prix
+ZHO,75.0,86.612,3.0,INTERMEDIATE,23.0,1,True,Alfa Romeo,True,13.0,22.563,41.803,22.246,,False,False,10154.697,6,Monaco Grand Prix
+ZHO,76.0,85.717,3.0,INTERMEDIATE,24.0,1,True,Alfa Romeo,True,13.0,22.28,41.047,22.39,,False,False,10240.414,6,Monaco Grand Prix
+ZHO,77.0,86.615,3.0,INTERMEDIATE,25.0,1,True,Alfa Romeo,True,13.0,22.67,41.227,22.718,,False,False,10327.029,6,Monaco Grand Prix
+HUL,1.0,120.092,1.0,MEDIUM,1.0,12,False,Haas F1 Team,True,20.0,,41.349,46.475,,True,False,3843.289,6,Monaco Grand Prix
+HUL,2.0,80.434,2.0,HARD,1.0,1,False,Haas F1 Team,True,20.0,23.288,36.554,20.592,,False,True,3923.723,6,Monaco Grand Prix
+HUL,3.0,77.221,2.0,HARD,2.0,1,True,Haas F1 Team,True,20.0,20.372,35.951,20.898,,False,False,4000.944,6,Monaco Grand Prix
+HUL,4.0,77.148,2.0,HARD,3.0,1,True,Haas F1 Team,True,20.0,20.29,36.341,20.517,,False,False,4078.092,6,Monaco Grand Prix
+HUL,5.0,77.045,2.0,HARD,4.0,1,True,Haas F1 Team,True,20.0,20.316,36.303,20.426,,False,False,4155.137,6,Monaco Grand Prix
+HUL,6.0,76.991,2.0,HARD,5.0,1,True,Haas F1 Team,True,20.0,20.218,36.255,20.518,,False,False,4232.128,6,Monaco Grand Prix
+HUL,7.0,77.333,2.0,HARD,6.0,1,True,Haas F1 Team,True,20.0,20.413,36.425,20.495,,False,False,4309.461,6,Monaco Grand Prix
+HUL,8.0,77.237,2.0,HARD,7.0,1,True,Haas F1 Team,True,20.0,20.379,36.361,20.497,,False,False,4386.698,6,Monaco Grand Prix
+HUL,9.0,77.433,2.0,HARD,8.0,1,True,Haas F1 Team,True,20.0,20.401,36.381,20.651,,False,False,4464.131,6,Monaco Grand Prix
+HUL,10.0,78.028,2.0,HARD,9.0,1,True,Haas F1 Team,True,20.0,20.421,36.649,20.958,,False,False,4542.159,6,Monaco Grand Prix
+HUL,11.0,79.596,2.0,HARD,10.0,12,True,Haas F1 Team,True,20.0,20.887,37.469,21.24,,False,False,4621.755,6,Monaco Grand Prix
+HUL,12.0,80.164,2.0,HARD,11.0,21,True,Haas F1 Team,True,20.0,21.347,37.705,21.112,,False,False,4701.919,6,Monaco Grand Prix
+HUL,13.0,80.824,2.0,HARD,12.0,1,True,Haas F1 Team,True,20.0,21.162,38.393,21.269,,False,False,4782.743,6,Monaco Grand Prix
+HUL,14.0,81.254,2.0,HARD,13.0,12,True,Haas F1 Team,True,20.0,21.209,38.307,21.738,,False,False,4863.997,6,Monaco Grand Prix
+HUL,15.0,80.972,2.0,HARD,14.0,1,True,Haas F1 Team,True,20.0,21.11,38.182,21.68,,False,False,4944.969,6,Monaco Grand Prix
+HUL,16.0,80.281,2.0,HARD,15.0,1,True,Haas F1 Team,True,20.0,21.026,37.742,21.513,,False,False,5025.25,6,Monaco Grand Prix
+HUL,17.0,80.171,2.0,HARD,16.0,1,True,Haas F1 Team,True,20.0,21.099,37.801,21.271,,False,False,5105.421,6,Monaco Grand Prix
+HUL,18.0,81.166,2.0,HARD,17.0,1,True,Haas F1 Team,True,19.0,21.453,38.302,21.411,,False,False,5186.587,6,Monaco Grand Prix
+HUL,19.0,79.836,2.0,HARD,18.0,1,True,Haas F1 Team,True,17.0,21.229,37.898,20.709,,False,False,5266.423,6,Monaco Grand Prix
+HUL,20.0,77.642,2.0,HARD,19.0,1,True,Haas F1 Team,True,17.0,20.317,36.596,20.729,,False,False,5344.065,6,Monaco Grand Prix
+HUL,21.0,77.201,2.0,HARD,20.0,1,True,Haas F1 Team,True,17.0,20.215,36.348,20.638,,False,False,5421.266,6,Monaco Grand Prix
+HUL,22.0,77.845,2.0,HARD,21.0,1,True,Haas F1 Team,True,17.0,20.328,36.739,20.778,,False,False,5499.111,6,Monaco Grand Prix
+HUL,23.0,78.009,2.0,HARD,22.0,1,True,Haas F1 Team,True,17.0,20.39,36.768,20.851,,False,False,5577.12,6,Monaco Grand Prix
+HUL,24.0,78.363,2.0,HARD,23.0,1,True,Haas F1 Team,True,17.0,20.571,36.955,20.837,,False,False,5655.483,6,Monaco Grand Prix
+HUL,25.0,78.23,2.0,HARD,24.0,1,True,Haas F1 Team,True,17.0,20.407,36.936,20.887,,False,False,5733.713,6,Monaco Grand Prix
+HUL,26.0,78.664,2.0,HARD,25.0,1,True,Haas F1 Team,True,17.0,20.5,37.158,21.006,,False,False,5812.377,6,Monaco Grand Prix
+HUL,27.0,78.956,2.0,HARD,26.0,1,True,Haas F1 Team,True,17.0,20.632,37.242,21.082,,False,False,5891.333,6,Monaco Grand Prix
+HUL,28.0,79.589,2.0,HARD,27.0,1,True,Haas F1 Team,True,17.0,20.806,37.456,21.327,,False,False,5970.922,6,Monaco Grand Prix
+HUL,29.0,81.412,2.0,HARD,28.0,1,True,Haas F1 Team,True,17.0,20.703,39.279,21.43,,False,False,6052.334,6,Monaco Grand Prix
+HUL,30.0,78.92,2.0,HARD,29.0,1,True,Haas F1 Team,True,17.0,20.721,37.255,20.944,,False,False,6131.254,6,Monaco Grand Prix
+HUL,31.0,79.756,2.0,HARD,30.0,1,True,Haas F1 Team,True,17.0,20.814,37.49,21.452,,False,False,6211.01,6,Monaco Grand Prix
+HUL,32.0,79.708,2.0,HARD,31.0,1,True,Haas F1 Team,True,17.0,20.922,37.513,21.273,,False,False,6290.718,6,Monaco Grand Prix
+HUL,33.0,81.348,2.0,HARD,32.0,1,True,Haas F1 Team,True,17.0,20.917,38.125,22.306,,False,False,6372.066,6,Monaco Grand Prix
+HUL,34.0,80.956,2.0,HARD,33.0,1,True,Haas F1 Team,True,16.0,22.018,37.601,21.337,,False,False,6453.022,6,Monaco Grand Prix
+HUL,35.0,78.327,2.0,HARD,34.0,1,True,Haas F1 Team,True,16.0,20.55,36.972,20.805,,False,False,6531.349,6,Monaco Grand Prix
+HUL,36.0,79.148,2.0,HARD,35.0,1,True,Haas F1 Team,True,16.0,20.619,37.246,21.283,,False,False,6610.497,6,Monaco Grand Prix
+HUL,37.0,79.009,2.0,HARD,36.0,1,True,Haas F1 Team,True,16.0,20.869,37.195,20.945,,False,False,6689.506,6,Monaco Grand Prix
+HUL,38.0,78.602,2.0,HARD,37.0,1,True,Haas F1 Team,True,16.0,20.52,37.176,20.906,,False,False,6768.108,6,Monaco Grand Prix
+HUL,39.0,78.557,2.0,HARD,38.0,1,True,Haas F1 Team,True,16.0,20.378,37.183,20.996,,False,False,6846.665,6,Monaco Grand Prix
+HUL,40.0,78.692,2.0,HARD,39.0,1,True,Haas F1 Team,True,16.0,20.468,37.256,20.968,,False,False,6925.357,6,Monaco Grand Prix
+HUL,41.0,78.606,2.0,HARD,40.0,1,True,Haas F1 Team,True,16.0,20.39,37.206,21.01,,False,False,7003.963,6,Monaco Grand Prix
+HUL,42.0,78.838,2.0,HARD,41.0,1,True,Haas F1 Team,True,16.0,20.488,37.383,20.967,,False,False,7082.801,6,Monaco Grand Prix
+HUL,43.0,78.991,2.0,HARD,42.0,1,True,Haas F1 Team,True,16.0,20.447,37.278,21.266,,False,False,7161.792,6,Monaco Grand Prix
+HUL,44.0,78.467,2.0,HARD,43.0,1,True,Haas F1 Team,True,16.0,20.469,37.162,20.836,,False,False,7240.259,6,Monaco Grand Prix
+HUL,45.0,78.751,2.0,HARD,44.0,1,True,Haas F1 Team,True,16.0,20.455,37.317,20.979,,False,False,7319.01,6,Monaco Grand Prix
+HUL,46.0,78.608,2.0,HARD,45.0,1,True,Haas F1 Team,True,16.0,20.361,37.255,20.992,,False,False,7397.618,6,Monaco Grand Prix
+HUL,47.0,78.857,2.0,HARD,46.0,1,True,Haas F1 Team,True,16.0,20.427,37.454,20.976,,False,False,7476.475,6,Monaco Grand Prix
+HUL,48.0,78.789,2.0,HARD,47.0,1,True,Haas F1 Team,True,16.0,20.449,37.377,20.963,,False,False,7555.264,6,Monaco Grand Prix
+HUL,49.0,79.036,2.0,HARD,48.0,1,True,Haas F1 Team,True,16.0,20.523,37.452,21.061,,False,False,7634.3,6,Monaco Grand Prix
+HUL,50.0,80.238,2.0,HARD,49.0,1,True,Haas F1 Team,True,16.0,20.718,38.467,21.053,,False,False,7714.538,6,Monaco Grand Prix
+HUL,51.0,88.292,2.0,HARD,50.0,1,True,Haas F1 Team,True,14.0,21.267,44.663,22.362,,False,False,7802.83,6,Monaco Grand Prix
+HUL,52.0,91.149,2.0,HARD,51.0,1,True,Haas F1 Team,True,14.0,23.713,45.218,22.218,,False,False,7893.979,6,Monaco Grand Prix
+HUL,53.0,100.881,2.0,HARD,52.0,1,True,Haas F1 Team,True,14.0,23.884,49.411,27.586,,False,False,7994.86,6,Monaco Grand Prix
+HUL,54.0,139.643,2.0,HARD,53.0,12,False,Haas F1 Team,True,18.0,27.923,56.02,55.7,,True,False,8134.503,6,Monaco Grand Prix
+HUL,55.0,104.22,3.0,INTERMEDIATE,1.0,21,False,Haas F1 Team,True,18.0,29.795,48.438,25.987,,False,True,8238.723,6,Monaco Grand Prix
+HUL,56.0,103.79,3.0,INTERMEDIATE,2.0,1,True,Haas F1 Team,True,17.0,28.938,48.183,26.669,,False,False,8342.513,6,Monaco Grand Prix
+HUL,57.0,102.598,3.0,INTERMEDIATE,3.0,12,True,Haas F1 Team,True,16.0,27.321,48.783,26.494,,False,False,8445.111,6,Monaco Grand Prix
+HUL,58.0,102.188,3.0,INTERMEDIATE,4.0,12,True,Haas F1 Team,True,16.0,26.753,48.638,26.797,,False,False,8547.299,6,Monaco Grand Prix
+HUL,59.0,119.463,3.0,INTERMEDIATE,5.0,21,False,Haas F1 Team,True,17.0,28.367,47.69,43.406,,True,False,8666.762,6,Monaco Grand Prix
+HUL,60.0,102.782,4.0,WET,1.0,12,False,Haas F1 Team,True,17.0,28.841,47.087,26.854,,False,True,8769.544,6,Monaco Grand Prix
+HUL,61.0,99.565,4.0,WET,2.0,1,True,Haas F1 Team,True,17.0,25.988,47.42,26.157,,False,False,8869.109,6,Monaco Grand Prix
+HUL,62.0,98.291,4.0,WET,3.0,1,True,Haas F1 Team,True,17.0,25.621,46.963,25.707,,False,False,8967.4,6,Monaco Grand Prix
+HUL,63.0,97.973,4.0,WET,4.0,1,True,Haas F1 Team,True,17.0,25.993,46.668,25.312,,False,False,9065.373,6,Monaco Grand Prix
+HUL,64.0,97.628,4.0,WET,5.0,1,True,Haas F1 Team,True,17.0,25.926,46.674,25.028,,False,False,9163.001,6,Monaco Grand Prix
+HUL,65.0,96.647,4.0,WET,6.0,1,True,Haas F1 Team,True,17.0,25.242,46.899,24.506,,False,False,9259.648,6,Monaco Grand Prix
+HUL,66.0,96.301,4.0,WET,7.0,1,True,Haas F1 Team,True,17.0,25.32,46.79,24.191,,False,False,9355.949,6,Monaco Grand Prix
+HUL,67.0,95.656,4.0,WET,8.0,12,True,Haas F1 Team,True,17.0,24.971,46.436,24.249,,False,False,9451.605,6,Monaco Grand Prix
+HUL,68.0,96.655,4.0,WET,9.0,21,True,Haas F1 Team,True,17.0,25.788,46.616,24.251,,False,False,9548.26,6,Monaco Grand Prix
+HUL,69.0,95.297,4.0,WET,10.0,1,True,Haas F1 Team,True,17.0,25.479,46.043,23.775,,False,False,9643.557,6,Monaco Grand Prix
+HUL,70.0,100.947,4.0,WET,11.0,1,True,Haas F1 Team,True,16.0,25.62,50.168,25.159,,False,False,9744.504,6,Monaco Grand Prix
+HUL,71.0,93.744,4.0,WET,12.0,1,True,Haas F1 Team,True,16.0,25.068,45.225,23.451,,False,False,9838.248,6,Monaco Grand Prix
+HUL,72.0,92.994,4.0,WET,13.0,1,True,Haas F1 Team,True,16.0,25.437,44.313,23.244,,False,False,9931.242,6,Monaco Grand Prix
+HUL,73.0,93.111,4.0,WET,14.0,1,True,Haas F1 Team,True,16.0,24.429,44.932,23.75,,False,False,10024.353,6,Monaco Grand Prix
+HUL,74.0,94.924,4.0,WET,15.0,1,True,Haas F1 Team,True,16.0,24.823,46.421,23.68,,False,False,10119.277,6,Monaco Grand Prix
+HUL,75.0,94.146,4.0,WET,16.0,1,True,Haas F1 Team,True,16.0,24.147,46.727,23.272,,False,False,10213.423,6,Monaco Grand Prix
+HUL,76.0,90.26,4.0,WET,17.0,1,True,Haas F1 Team,True,16.0,24.06,42.954,23.246,,False,False,10303.683,6,Monaco Grand Prix
+OCO,1.0,86.639,1.0,MEDIUM,1.0,12,False,Alpine,True,3.0,,38.186,21.587,,False,False,3809.836,6,Monaco Grand Prix
+OCO,2.0,80.301,1.0,MEDIUM,2.0,1,True,Alpine,True,3.0,21.245,37.737,21.319,,False,False,3890.137,6,Monaco Grand Prix
+OCO,3.0,79.704,1.0,MEDIUM,3.0,1,True,Alpine,True,3.0,21.039,37.387,21.278,,False,False,3969.841,6,Monaco Grand Prix
+OCO,4.0,79.314,1.0,MEDIUM,4.0,1,True,Alpine,True,3.0,21.005,37.074,21.235,,False,False,4049.155,6,Monaco Grand Prix
+OCO,5.0,79.041,1.0,MEDIUM,5.0,1,True,Alpine,True,3.0,20.976,37.031,21.034,,False,False,4128.196,6,Monaco Grand Prix
+OCO,6.0,78.731,1.0,MEDIUM,6.0,1,True,Alpine,True,3.0,20.863,36.825,21.043,,False,False,4206.927,6,Monaco Grand Prix
+OCO,7.0,78.782,1.0,MEDIUM,7.0,1,True,Alpine,True,3.0,20.897,36.859,21.026,,False,False,4285.709,6,Monaco Grand Prix
+OCO,8.0,78.533,1.0,MEDIUM,8.0,1,True,Alpine,True,3.0,20.786,36.752,20.995,,False,False,4364.242,6,Monaco Grand Prix
+OCO,9.0,78.594,1.0,MEDIUM,9.0,1,True,Alpine,True,3.0,20.67,36.813,21.111,,False,False,4442.836,6,Monaco Grand Prix
+OCO,10.0,78.46,1.0,MEDIUM,10.0,1,True,Alpine,True,3.0,20.863,36.8,20.797,,False,False,4521.296,6,Monaco Grand Prix
+OCO,11.0,78.271,1.0,MEDIUM,11.0,1,True,Alpine,True,3.0,20.676,36.376,21.219,,False,False,4599.567,6,Monaco Grand Prix
+OCO,12.0,78.515,1.0,MEDIUM,12.0,12,True,Alpine,True,3.0,20.771,36.747,20.997,,False,False,4678.082,6,Monaco Grand Prix
+OCO,13.0,78.025,1.0,MEDIUM,13.0,1,True,Alpine,True,3.0,20.578,36.528,20.919,,False,False,4756.107,6,Monaco Grand Prix
+OCO,14.0,78.055,1.0,MEDIUM,14.0,12,True,Alpine,True,3.0,20.559,36.746,20.75,,False,False,4834.162,6,Monaco Grand Prix
+OCO,15.0,78.018,1.0,MEDIUM,15.0,1,True,Alpine,True,3.0,20.555,36.599,20.864,,False,False,4912.18,6,Monaco Grand Prix
+OCO,16.0,77.948,1.0,MEDIUM,16.0,1,True,Alpine,True,3.0,20.511,36.525,20.912,,False,False,4990.128,6,Monaco Grand Prix
+OCO,17.0,78.372,1.0,MEDIUM,17.0,1,True,Alpine,True,3.0,20.713,36.72,20.939,,False,False,5068.5,6,Monaco Grand Prix
+OCO,18.0,78.22,1.0,MEDIUM,18.0,1,True,Alpine,True,3.0,20.604,36.763,20.853,,False,False,5146.72,6,Monaco Grand Prix
+OCO,19.0,78.074,1.0,MEDIUM,19.0,1,True,Alpine,True,3.0,20.494,36.677,20.903,,False,False,5224.794,6,Monaco Grand Prix
+OCO,20.0,78.087,1.0,MEDIUM,20.0,1,True,Alpine,True,3.0,20.625,36.647,20.815,,False,False,5302.881,6,Monaco Grand Prix
+OCO,21.0,78.161,1.0,MEDIUM,21.0,1,True,Alpine,True,3.0,20.634,36.567,20.96,,False,False,5381.042,6,Monaco Grand Prix
+OCO,22.0,78.057,1.0,MEDIUM,22.0,1,True,Alpine,True,3.0,20.636,36.634,20.787,,False,False,5459.099,6,Monaco Grand Prix
+OCO,23.0,77.873,1.0,MEDIUM,23.0,1,True,Alpine,True,3.0,20.401,36.513,20.959,,False,False,5536.972,6,Monaco Grand Prix
+OCO,24.0,77.498,1.0,MEDIUM,24.0,1,True,Alpine,True,3.0,20.459,36.435,20.604,,False,False,5614.47,6,Monaco Grand Prix
+OCO,25.0,77.451,1.0,MEDIUM,25.0,1,True,Alpine,True,3.0,20.327,36.282,20.842,,False,False,5691.921,6,Monaco Grand Prix
+OCO,26.0,77.433,1.0,MEDIUM,26.0,1,True,Alpine,True,3.0,20.243,36.471,20.719,,False,False,5769.354,6,Monaco Grand Prix
+OCO,27.0,77.145,1.0,MEDIUM,27.0,1,True,Alpine,True,3.0,20.243,36.311,20.591,,False,False,5846.499,6,Monaco Grand Prix
+OCO,28.0,76.938,1.0,MEDIUM,28.0,1,True,Alpine,True,3.0,20.036,36.287,20.615,,False,False,5923.437,6,Monaco Grand Prix
+OCO,29.0,77.179,1.0,MEDIUM,29.0,1,True,Alpine,True,3.0,20.1,36.336,20.743,,False,False,6000.616,6,Monaco Grand Prix
+OCO,30.0,77.334,1.0,MEDIUM,30.0,1,True,Alpine,True,3.0,20.196,36.489,20.649,,False,False,6077.95,6,Monaco Grand Prix
+OCO,31.0,77.331,1.0,MEDIUM,31.0,1,True,Alpine,True,3.0,20.23,36.391,20.71,,False,False,6155.281,6,Monaco Grand Prix
+OCO,32.0,94.668,1.0,MEDIUM,32.0,1,False,Alpine,True,7.0,19.996,35.889,38.783,,True,False,6249.949,6,Monaco Grand Prix
+OCO,33.0,79.289,2.0,HARD,1.0,1,False,Alpine,True,7.0,22.988,36.09,20.211,,False,True,6329.238,6,Monaco Grand Prix
+OCO,34.0,76.95,2.0,HARD,2.0,1,True,Alpine,True,6.0,20.202,36.129,20.619,,False,False,6406.188,6,Monaco Grand Prix
+OCO,35.0,77.095,2.0,HARD,3.0,1,True,Alpine,True,6.0,20.23,36.402,20.463,,False,False,6483.283,6,Monaco Grand Prix
+OCO,36.0,77.304,2.0,HARD,4.0,1,True,Alpine,True,6.0,20.222,36.36,20.722,,False,False,6560.587,6,Monaco Grand Prix
+OCO,37.0,77.14,2.0,HARD,5.0,1,True,Alpine,True,6.0,20.192,36.372,20.576,,False,False,6637.727,6,Monaco Grand Prix
+OCO,38.0,77.048,2.0,HARD,6.0,1,True,Alpine,True,6.0,20.014,36.412,20.622,,False,False,6714.775,6,Monaco Grand Prix
+OCO,39.0,77.169,2.0,HARD,7.0,1,True,Alpine,True,6.0,20.027,36.426,20.716,,False,False,6791.944,6,Monaco Grand Prix
+OCO,40.0,77.025,2.0,HARD,8.0,1,True,Alpine,True,6.0,19.932,36.349,20.744,,False,False,6868.969,6,Monaco Grand Prix
+OCO,41.0,76.528,2.0,HARD,9.0,1,True,Alpine,True,6.0,19.97,35.987,20.571,,False,False,6945.497,6,Monaco Grand Prix
+OCO,42.0,77.01,2.0,HARD,10.0,1,True,Alpine,True,6.0,20.06,36.267,20.683,,False,False,7022.507,6,Monaco Grand Prix
+OCO,43.0,77.002,2.0,HARD,11.0,1,True,Alpine,True,6.0,20.005,36.368,20.629,,False,False,7099.509,6,Monaco Grand Prix
+OCO,44.0,77.033,2.0,HARD,12.0,1,True,Alpine,True,5.0,19.95,36.249,20.834,,False,False,7176.542,6,Monaco Grand Prix
+OCO,45.0,77.271,2.0,HARD,13.0,1,True,Alpine,True,5.0,20.057,36.452,20.762,,False,False,7253.813,6,Monaco Grand Prix
+OCO,46.0,76.775,2.0,HARD,14.0,1,True,Alpine,True,5.0,19.946,36.17,20.659,,False,False,7330.588,6,Monaco Grand Prix
+OCO,47.0,76.962,2.0,HARD,15.0,1,True,Alpine,True,4.0,20.042,36.316,20.604,,False,False,7407.55,6,Monaco Grand Prix
+OCO,48.0,76.968,2.0,HARD,16.0,1,True,Alpine,True,4.0,20.096,36.27,20.602,,False,False,7484.518,6,Monaco Grand Prix
+OCO,49.0,77.09,2.0,HARD,17.0,1,True,Alpine,True,4.0,20.129,36.229,20.732,,False,False,7561.608,6,Monaco Grand Prix
+OCO,50.0,77.836,2.0,HARD,18.0,1,True,Alpine,True,4.0,20.276,36.756,20.804,,False,False,7639.444,6,Monaco Grand Prix
+OCO,51.0,79.453,2.0,HARD,19.0,1,True,Alpine,True,4.0,20.478,37.705,21.27,,False,False,7718.897,6,Monaco Grand Prix
+OCO,52.0,86.99,2.0,HARD,20.0,1,True,Alpine,True,4.0,21.48,42.451,23.059,,False,False,7805.887,6,Monaco Grand Prix
+OCO,53.0,89.909,2.0,HARD,21.0,1,True,Alpine,True,4.0,22.997,44.985,21.927,,False,False,7895.796,6,Monaco Grand Prix
+OCO,54.0,114.547,2.0,HARD,22.0,1,False,Alpine,True,6.0,23.739,49.044,41.764,,True,False,8010.343,6,Monaco Grand Prix
+OCO,55.0,102.379,3.0,INTERMEDIATE,1.0,12,False,Alpine,True,3.0,27.678,48.771,25.93,,False,True,8112.722,6,Monaco Grand Prix
+OCO,56.0,101.755,3.0,INTERMEDIATE,2.0,21,True,Alpine,True,3.0,27.052,48.393,26.31,,False,False,8214.477,6,Monaco Grand Prix
+OCO,57.0,102.554,3.0,INTERMEDIATE,3.0,1,True,Alpine,True,3.0,27.398,48.768,26.388,,False,False,8317.031,6,Monaco Grand Prix
+OCO,58.0,103.729,3.0,INTERMEDIATE,4.0,12,True,Alpine,True,3.0,28.006,48.765,26.958,,False,False,8420.76,6,Monaco Grand Prix
+OCO,59.0,105.002,3.0,INTERMEDIATE,5.0,21,True,Alpine,True,3.0,28.519,49.025,27.458,,False,False,8525.762,6,Monaco Grand Prix
+OCO,60.0,102.527,3.0,INTERMEDIATE,6.0,12,True,Alpine,True,3.0,27.474,48.208,26.845,,False,False,8628.289,6,Monaco Grand Prix
+OCO,61.0,102.63,3.0,INTERMEDIATE,7.0,12,True,Alpine,True,3.0,27.675,48.326,26.629,,False,False,8730.919,6,Monaco Grand Prix
+OCO,62.0,102.139,3.0,INTERMEDIATE,8.0,1,True,Alpine,True,3.0,26.974,48.206,26.959,,False,False,8833.058,6,Monaco Grand Prix
+OCO,63.0,101.123,3.0,INTERMEDIATE,9.0,1,True,Alpine,True,3.0,27.172,47.56,26.391,,False,False,8934.181,6,Monaco Grand Prix
+OCO,64.0,100.375,3.0,INTERMEDIATE,10.0,1,True,Alpine,True,3.0,26.7,47.377,26.298,,False,False,9034.556,6,Monaco Grand Prix
+OCO,65.0,97.029,3.0,INTERMEDIATE,11.0,1,True,Alpine,True,3.0,25.727,46.522,24.78,,False,False,9131.585,6,Monaco Grand Prix
+OCO,66.0,95.456,3.0,INTERMEDIATE,12.0,1,True,Alpine,True,3.0,25.53,46.405,23.521,,False,False,9227.041,6,Monaco Grand Prix
+OCO,67.0,94.457,3.0,INTERMEDIATE,13.0,1,True,Alpine,True,3.0,25.149,46.101,23.207,,False,False,9321.498,6,Monaco Grand Prix
+OCO,68.0,93.484,3.0,INTERMEDIATE,14.0,1,True,Alpine,True,3.0,25.296,45.254,22.934,,False,False,9414.982,6,Monaco Grand Prix
+OCO,69.0,92.501,3.0,INTERMEDIATE,15.0,12,True,Alpine,True,3.0,25.211,44.86,22.43,,False,False,9507.483,6,Monaco Grand Prix
+OCO,70.0,90.3,3.0,INTERMEDIATE,16.0,1,True,Alpine,True,3.0,24.509,43.892,21.899,,False,False,9597.783,6,Monaco Grand Prix
+OCO,71.0,90.027,3.0,INTERMEDIATE,17.0,1,True,Alpine,True,3.0,24.271,44.038,21.718,,False,False,9687.81,6,Monaco Grand Prix
+OCO,72.0,89.541,3.0,INTERMEDIATE,18.0,1,True,Alpine,True,3.0,24.138,43.425,21.978,,False,False,9777.351,6,Monaco Grand Prix
+OCO,73.0,87.666,3.0,INTERMEDIATE,19.0,1,True,Alpine,True,3.0,23.161,42.925,21.58,,False,False,9865.017,6,Monaco Grand Prix
+OCO,74.0,86.712,3.0,INTERMEDIATE,20.0,1,True,Alpine,True,3.0,23.073,42.011,21.628,,False,False,9951.729,6,Monaco Grand Prix
+OCO,75.0,85.133,3.0,INTERMEDIATE,21.0,1,True,Alpine,True,3.0,22.446,41.333,21.354,,False,False,10036.862,6,Monaco Grand Prix
+OCO,76.0,84.834,3.0,INTERMEDIATE,22.0,1,True,Alpine,True,3.0,22.199,41.016,21.619,,False,False,10121.696,6,Monaco Grand Prix
+OCO,77.0,86.24,3.0,INTERMEDIATE,23.0,1,True,Alpine,True,3.0,22.726,42.164,21.35,,False,False,10207.936,6,Monaco Grand Prix
+OCO,78.0,84.231,3.0,INTERMEDIATE,24.0,1,True,Alpine,True,3.0,22.298,40.138,21.795,,False,False,10292.167,6,Monaco Grand Prix
+NOR,1.0,92.034,1.0,MEDIUM,1.0,12,False,McLaren,True,10.0,,39.59,22.151,,False,False,3815.231,6,Monaco Grand Prix
+NOR,2.0,81.61,1.0,MEDIUM,2.0,1,True,McLaren,True,10.0,21.769,38.014,21.827,,False,False,3896.841,6,Monaco Grand Prix
+NOR,3.0,80.396,1.0,MEDIUM,3.0,1,True,McLaren,True,10.0,21.368,37.71,21.318,,False,False,3977.237,6,Monaco Grand Prix
+NOR,4.0,80.209,1.0,MEDIUM,4.0,1,True,McLaren,True,10.0,21.263,37.7,21.246,,False,False,4057.446,6,Monaco Grand Prix
+NOR,5.0,79.502,1.0,MEDIUM,5.0,1,True,McLaren,True,10.0,21.144,37.306,21.052,,False,False,4136.948,6,Monaco Grand Prix
+NOR,6.0,79.045,1.0,MEDIUM,6.0,1,True,McLaren,True,10.0,21.042,37.149,20.854,,False,False,4215.993,6,Monaco Grand Prix
+NOR,7.0,78.652,1.0,MEDIUM,7.0,1,True,McLaren,True,10.0,20.918,36.999,20.735,,False,False,4294.645,6,Monaco Grand Prix
+NOR,8.0,78.651,1.0,MEDIUM,8.0,1,True,McLaren,True,10.0,20.925,37.065,20.661,,False,False,4373.296,6,Monaco Grand Prix
+NOR,9.0,79.065,1.0,MEDIUM,9.0,1,True,McLaren,True,10.0,20.961,37.254,20.85,,False,False,4452.361,6,Monaco Grand Prix
+NOR,10.0,79.053,1.0,MEDIUM,10.0,1,True,McLaren,True,10.0,20.946,37.314,20.793,,False,False,4531.414,6,Monaco Grand Prix
+NOR,11.0,79.148,1.0,MEDIUM,11.0,1,True,McLaren,True,10.0,20.862,37.202,21.084,,False,False,4610.562,6,Monaco Grand Prix
+NOR,12.0,80.277,1.0,MEDIUM,12.0,12,True,McLaren,True,10.0,22.187,37.224,20.866,,False,False,4690.839,6,Monaco Grand Prix
+NOR,13.0,78.978,1.0,MEDIUM,13.0,1,True,McLaren,True,10.0,20.901,37.206,20.871,,False,False,4769.817,6,Monaco Grand Prix
+NOR,14.0,78.856,1.0,MEDIUM,14.0,12,True,McLaren,True,10.0,20.859,37.192,20.805,,False,False,4848.673,6,Monaco Grand Prix
+NOR,15.0,78.855,1.0,MEDIUM,15.0,1,True,McLaren,True,10.0,20.765,37.186,20.904,,False,False,4927.528,6,Monaco Grand Prix
+NOR,16.0,78.988,1.0,MEDIUM,16.0,1,True,McLaren,True,10.0,20.849,37.356,20.783,,False,False,5006.516,6,Monaco Grand Prix
+NOR,17.0,78.937,1.0,MEDIUM,17.0,1,True,McLaren,True,10.0,20.744,37.318,20.875,,False,False,5085.453,6,Monaco Grand Prix
+NOR,18.0,79.01,1.0,MEDIUM,18.0,1,True,McLaren,True,10.0,20.75,37.284,20.976,,False,False,5164.463,6,Monaco Grand Prix
+NOR,19.0,79.504,1.0,MEDIUM,19.0,1,True,McLaren,True,10.0,20.897,37.533,21.074,,False,False,5243.967,6,Monaco Grand Prix
+NOR,20.0,78.985,1.0,MEDIUM,20.0,1,True,McLaren,True,10.0,20.884,37.236,20.865,,False,False,5322.952,6,Monaco Grand Prix
+NOR,21.0,79.074,1.0,MEDIUM,21.0,1,True,McLaren,True,10.0,20.73,37.323,21.021,,False,False,5402.026,6,Monaco Grand Prix
+NOR,22.0,78.882,1.0,MEDIUM,22.0,1,True,McLaren,True,10.0,20.704,37.323,20.855,,False,False,5480.908,6,Monaco Grand Prix
+NOR,23.0,78.657,1.0,MEDIUM,23.0,1,True,McLaren,True,10.0,20.603,37.251,20.803,,False,False,5559.565,6,Monaco Grand Prix
+NOR,24.0,78.681,1.0,MEDIUM,24.0,1,True,McLaren,True,10.0,20.644,37.223,20.814,,False,False,5638.246,6,Monaco Grand Prix
+NOR,25.0,78.78,1.0,MEDIUM,25.0,1,True,McLaren,True,10.0,20.713,37.251,20.816,,False,False,5717.026,6,Monaco Grand Prix
+NOR,26.0,79.067,1.0,MEDIUM,26.0,1,True,McLaren,True,10.0,20.858,37.258,20.951,,False,False,5796.093,6,Monaco Grand Prix
+NOR,27.0,79.109,1.0,MEDIUM,27.0,1,True,McLaren,True,10.0,20.801,37.326,20.982,,False,False,5875.202,6,Monaco Grand Prix
+NOR,28.0,78.771,1.0,MEDIUM,28.0,1,True,McLaren,True,10.0,20.742,37.142,20.887,,False,False,5953.973,6,Monaco Grand Prix
+NOR,29.0,78.906,1.0,MEDIUM,29.0,1,True,McLaren,True,10.0,20.608,37.441,20.857,,False,False,6032.879,6,Monaco Grand Prix
+NOR,30.0,78.568,1.0,MEDIUM,30.0,1,True,McLaren,True,10.0,20.676,37.087,20.805,,False,False,6111.447,6,Monaco Grand Prix
+NOR,31.0,78.454,1.0,MEDIUM,31.0,1,True,McLaren,True,10.0,20.57,37.074,20.81,,False,False,6189.901,6,Monaco Grand Prix
+NOR,32.0,77.914,1.0,MEDIUM,32.0,1,True,McLaren,True,10.0,20.448,36.823,20.643,,False,False,6267.815,6,Monaco Grand Prix
+NOR,33.0,78.042,1.0,MEDIUM,33.0,1,True,McLaren,True,10.0,20.372,37.05,20.62,,False,False,6345.857,6,Monaco Grand Prix
+NOR,34.0,78.026,1.0,MEDIUM,34.0,1,True,McLaren,True,10.0,20.391,36.958,20.677,,False,False,6423.883,6,Monaco Grand Prix
+NOR,35.0,78.192,1.0,MEDIUM,35.0,1,True,McLaren,True,10.0,20.403,37.072,20.717,,False,False,6502.075,6,Monaco Grand Prix
+NOR,36.0,78.05,1.0,MEDIUM,36.0,1,True,McLaren,True,10.0,20.338,36.928,20.784,,False,False,6580.125,6,Monaco Grand Prix
+NOR,37.0,78.303,1.0,MEDIUM,37.0,1,True,McLaren,True,10.0,20.441,37.128,20.734,,False,False,6658.428,6,Monaco Grand Prix
+NOR,38.0,78.214,1.0,MEDIUM,38.0,1,True,McLaren,True,10.0,20.48,37.053,20.681,,False,False,6736.642,6,Monaco Grand Prix
+NOR,39.0,78.151,1.0,MEDIUM,39.0,1,True,McLaren,True,10.0,20.351,37.036,20.764,,False,False,6814.793,6,Monaco Grand Prix
+NOR,40.0,78.529,1.0,MEDIUM,40.0,1,True,McLaren,True,10.0,20.472,37.261,20.796,,False,False,6893.322,6,Monaco Grand Prix
+NOR,41.0,78.409,1.0,MEDIUM,41.0,1,True,McLaren,True,10.0,20.399,37.219,20.791,,False,False,6971.731,6,Monaco Grand Prix
+NOR,42.0,78.149,1.0,MEDIUM,42.0,1,True,McLaren,True,10.0,20.378,37.095,20.676,,False,False,7049.88,6,Monaco Grand Prix
+NOR,43.0,78.045,1.0,MEDIUM,43.0,1,True,McLaren,True,10.0,20.386,37.057,20.602,,False,False,7127.925,6,Monaco Grand Prix
+NOR,44.0,77.991,1.0,MEDIUM,44.0,1,True,McLaren,True,10.0,20.258,36.979,20.754,,False,False,7205.916,6,Monaco Grand Prix
+NOR,45.0,77.862,1.0,MEDIUM,45.0,1,True,McLaren,True,10.0,20.451,36.814,20.597,,False,False,7283.778,6,Monaco Grand Prix
+NOR,46.0,77.844,1.0,MEDIUM,46.0,1,True,McLaren,True,10.0,20.26,36.955,20.629,,False,False,7361.622,6,Monaco Grand Prix
+NOR,47.0,78.234,1.0,MEDIUM,47.0,1,True,McLaren,True,10.0,20.342,37.113,20.779,,False,False,7439.856,6,Monaco Grand Prix
+NOR,48.0,78.297,1.0,MEDIUM,48.0,1,True,McLaren,True,10.0,20.446,37.063,20.788,,False,False,7518.153,6,Monaco Grand Prix
+NOR,49.0,78.152,1.0,MEDIUM,49.0,1,True,McLaren,True,10.0,20.358,37.156,20.638,,False,False,7596.305,6,Monaco Grand Prix
+NOR,50.0,95.974,1.0,MEDIUM,50.0,1,False,McLaren,True,11.0,20.653,37.187,38.134,,True,False,7692.279,6,Monaco Grand Prix
+NOR,51.0,87.706,2.0,HARD,1.0,1,False,McLaren,True,11.0,23.921,42.618,21.167,,False,True,7779.985,6,Monaco Grand Prix
+NOR,52.0,88.675,2.0,HARD,2.0,1,True,McLaren,True,11.0,22.806,44.846,21.023,,False,False,7868.66,6,Monaco Grand Prix
+NOR,53.0,92.162,2.0,HARD,3.0,1,True,McLaren,True,10.0,23.055,46.742,22.365,,False,False,7960.822,6,Monaco Grand Prix
+NOR,54.0,132.003,2.0,HARD,4.0,12,False,McLaren,True,11.0,25.114,53.518,53.371,,True,False,8092.825,6,Monaco Grand Prix
+NOR,55.0,103.38,3.0,INTERMEDIATE,1.0,21,False,McLaren,True,11.0,28.634,48.915,25.831,,False,True,8196.205,6,Monaco Grand Prix
+NOR,56.0,100.384,3.0,INTERMEDIATE,2.0,1,True,McLaren,True,11.0,26.154,48.431,25.799,,False,False,8296.589,6,Monaco Grand Prix
+NOR,57.0,100.421,3.0,INTERMEDIATE,3.0,12,True,McLaren,True,11.0,26.301,47.846,26.274,,False,False,8397.01,6,Monaco Grand Prix
+NOR,58.0,102.13,3.0,INTERMEDIATE,4.0,12,True,McLaren,True,10.0,27.346,47.843,26.941,,False,False,8499.14,6,Monaco Grand Prix
+NOR,59.0,101.216,3.0,INTERMEDIATE,5.0,12,True,McLaren,True,10.0,27.011,47.759,26.446,,False,False,8600.356,6,Monaco Grand Prix
+NOR,60.0,101.789,3.0,INTERMEDIATE,6.0,12,True,McLaren,True,10.0,26.406,48.572,26.811,,False,False,8702.145,6,Monaco Grand Prix
+NOR,61.0,99.545,3.0,INTERMEDIATE,7.0,1,True,McLaren,True,10.0,26.155,47.495,25.895,,False,False,8801.69,6,Monaco Grand Prix
+NOR,62.0,98.893,3.0,INTERMEDIATE,8.0,1,True,McLaren,True,10.0,25.885,47.037,25.971,,False,False,8900.583,6,Monaco Grand Prix
+NOR,63.0,98.511,3.0,INTERMEDIATE,9.0,1,True,McLaren,True,10.0,25.719,47.252,25.54,,False,False,8999.094,6,Monaco Grand Prix
+NOR,64.0,98.75,3.0,INTERMEDIATE,10.0,1,True,McLaren,True,10.0,26.002,46.358,26.39,,False,False,9097.844,6,Monaco Grand Prix
+NOR,65.0,98.818,3.0,INTERMEDIATE,11.0,1,True,McLaren,True,10.0,26.868,47.55,24.4,,False,False,9196.662,6,Monaco Grand Prix
+NOR,66.0,96.981,3.0,INTERMEDIATE,12.0,1,True,McLaren,True,10.0,25.53,46.535,24.916,,False,False,9293.643,6,Monaco Grand Prix
+NOR,67.0,92.417,3.0,INTERMEDIATE,13.0,1,True,McLaren,True,9.0,24.807,44.718,22.892,,False,False,9386.06,6,Monaco Grand Prix
+NOR,68.0,91.037,3.0,INTERMEDIATE,14.0,12,True,McLaren,True,9.0,24.101,44.397,22.539,,False,False,9477.097,6,Monaco Grand Prix
+NOR,69.0,90.126,3.0,INTERMEDIATE,15.0,1,True,McLaren,True,9.0,24.351,44.016,21.759,,False,False,9567.223,6,Monaco Grand Prix
+NOR,70.0,88.512,3.0,INTERMEDIATE,16.0,1,True,McLaren,True,9.0,23.708,43.307,21.497,,False,False,9655.735,6,Monaco Grand Prix
+NOR,71.0,88.373,3.0,INTERMEDIATE,17.0,1,True,McLaren,True,9.0,23.166,42.946,22.261,,False,False,9744.108,6,Monaco Grand Prix
+NOR,72.0,85.959,3.0,INTERMEDIATE,18.0,1,True,McLaren,True,9.0,22.833,42.035,21.091,,False,False,9830.067,6,Monaco Grand Prix
+NOR,73.0,85.767,3.0,INTERMEDIATE,19.0,1,True,McLaren,True,9.0,22.428,42.088,21.251,,False,False,9915.834,6,Monaco Grand Prix
+NOR,74.0,85.471,3.0,INTERMEDIATE,20.0,1,True,McLaren,True,9.0,22.57,41.633,21.268,,False,False,10001.305,6,Monaco Grand Prix
+NOR,75.0,85.278,3.0,INTERMEDIATE,21.0,1,True,McLaren,True,9.0,22.486,41.18,21.612,,False,False,10086.583,6,Monaco Grand Prix
+NOR,76.0,85.767,3.0,INTERMEDIATE,22.0,1,True,McLaren,True,9.0,22.527,41.504,21.736,,False,False,10172.35,6,Monaco Grand Prix
+NOR,77.0,86.888,3.0,INTERMEDIATE,23.0,1,True,McLaren,True,9.0,22.773,42.046,22.069,,False,False,10259.238,6,Monaco Grand Prix
+HAM,1.0,88.585,1.0,MEDIUM,1.0,12,False,Mercedes,True,5.0,,38.83,21.942,,False,False,3811.782,6,Monaco Grand Prix
+HAM,2.0,80.527,1.0,MEDIUM,2.0,1,True,Mercedes,True,5.0,21.226,37.769,21.532,,False,False,3892.309,6,Monaco Grand Prix
+HAM,3.0,80.105,1.0,MEDIUM,3.0,1,True,Mercedes,True,5.0,21.081,37.472,21.552,,False,False,3972.414,6,Monaco Grand Prix
+HAM,4.0,79.356,1.0,MEDIUM,4.0,1,True,Mercedes,True,5.0,20.805,37.445,21.106,,False,False,4051.77,6,Monaco Grand Prix
+HAM,5.0,78.736,1.0,MEDIUM,5.0,1,True,Mercedes,True,5.0,20.748,37.01,20.978,,False,False,4130.506,6,Monaco Grand Prix
+HAM,6.0,78.958,1.0,MEDIUM,6.0,1,True,Mercedes,True,5.0,20.718,37.147,21.093,,False,False,4209.464,6,Monaco Grand Prix
+HAM,7.0,78.651,1.0,MEDIUM,7.0,1,True,Mercedes,True,5.0,20.621,36.947,21.083,,False,False,4288.115,6,Monaco Grand Prix
+HAM,8.0,79.051,1.0,MEDIUM,8.0,1,True,Mercedes,True,5.0,20.762,37.135,21.154,,False,False,4367.166,6,Monaco Grand Prix
+HAM,9.0,78.829,1.0,MEDIUM,9.0,1,True,Mercedes,True,5.0,20.649,37.275,20.905,,False,False,4445.995,6,Monaco Grand Prix
+HAM,10.0,78.173,1.0,MEDIUM,10.0,1,True,Mercedes,True,5.0,20.355,36.98,20.838,,False,False,4524.168,6,Monaco Grand Prix
+HAM,11.0,77.926,1.0,MEDIUM,11.0,1,True,Mercedes,True,5.0,20.499,36.779,20.648,,False,False,4602.094,6,Monaco Grand Prix
+HAM,12.0,78.23,1.0,MEDIUM,12.0,12,True,Mercedes,True,5.0,20.749,36.791,20.69,,False,False,4680.324,6,Monaco Grand Prix
+HAM,13.0,78.084,1.0,MEDIUM,13.0,1,True,Mercedes,True,5.0,20.569,36.751,20.764,,False,False,4758.408,6,Monaco Grand Prix
+HAM,14.0,78.422,1.0,MEDIUM,14.0,12,True,Mercedes,True,5.0,20.58,37.099,20.743,,False,False,4836.83,6,Monaco Grand Prix
+HAM,15.0,78.189,1.0,MEDIUM,15.0,1,True,Mercedes,True,5.0,20.612,36.762,20.815,,False,False,4915.019,6,Monaco Grand Prix
+HAM,16.0,78.31,1.0,MEDIUM,16.0,1,True,Mercedes,True,5.0,20.835,36.73,20.745,,False,False,4993.329,6,Monaco Grand Prix
+HAM,17.0,78.254,1.0,MEDIUM,17.0,1,True,Mercedes,True,5.0,20.509,36.917,20.828,,False,False,5071.583,6,Monaco Grand Prix
+HAM,18.0,78.37,1.0,MEDIUM,18.0,1,True,Mercedes,True,5.0,20.607,36.93,20.833,,False,False,5149.953,6,Monaco Grand Prix
+HAM,19.0,78.207,1.0,MEDIUM,19.0,1,True,Mercedes,True,5.0,20.567,36.841,20.799,,False,False,5228.16,6,Monaco Grand Prix
+HAM,20.0,78.121,1.0,MEDIUM,20.0,1,True,Mercedes,True,5.0,20.433,36.922,20.766,,False,False,5306.281,6,Monaco Grand Prix
+HAM,21.0,78.311,1.0,MEDIUM,21.0,1,True,Mercedes,True,5.0,20.457,37.015,20.839,,False,False,5384.592,6,Monaco Grand Prix
+HAM,22.0,77.393,1.0,MEDIUM,22.0,1,True,Mercedes,True,5.0,20.306,36.545,20.542,,False,False,5461.985,6,Monaco Grand Prix
+HAM,23.0,78.053,1.0,MEDIUM,23.0,1,True,Mercedes,True,5.0,20.548,36.87,20.635,,False,False,5540.038,6,Monaco Grand Prix
+HAM,24.0,77.431,1.0,MEDIUM,24.0,1,True,Mercedes,True,5.0,20.274,36.526,20.631,,False,False,5617.469,6,Monaco Grand Prix
+HAM,25.0,77.643,1.0,MEDIUM,25.0,1,True,Mercedes,True,5.0,20.423,36.682,20.538,,False,False,5695.112,6,Monaco Grand Prix
+HAM,26.0,77.716,1.0,MEDIUM,26.0,1,True,Mercedes,True,5.0,20.355,36.69,20.671,,False,False,5772.828,6,Monaco Grand Prix
+HAM,27.0,77.322,1.0,MEDIUM,27.0,1,True,Mercedes,True,5.0,20.194,36.55,20.578,,False,False,5850.15,6,Monaco Grand Prix
+HAM,28.0,77.334,1.0,MEDIUM,28.0,1,True,Mercedes,True,5.0,20.146,36.632,20.556,,False,False,5927.484,6,Monaco Grand Prix
+HAM,29.0,77.372,1.0,MEDIUM,29.0,1,True,Mercedes,True,5.0,20.072,36.712,20.588,,False,False,6004.856,6,Monaco Grand Prix
+HAM,30.0,77.742,1.0,MEDIUM,30.0,1,True,Mercedes,True,5.0,20.187,36.759,20.796,,False,False,6082.598,6,Monaco Grand Prix
+HAM,31.0,95.467,1.0,MEDIUM,31.0,1,False,Mercedes,True,8.0,20.415,37.012,38.04,,True,False,6178.065,6,Monaco Grand Prix
+HAM,32.0,78.165,2.0,HARD,1.0,1,False,Mercedes,True,8.0,22.362,35.711,20.092,,False,True,6256.23,6,Monaco Grand Prix
+HAM,33.0,75.65,2.0,HARD,2.0,1,True,Mercedes,True,8.0,19.76,35.647,20.243,,False,False,6331.88,6,Monaco Grand Prix
+HAM,34.0,78.357,2.0,HARD,3.0,1,True,Mercedes,True,8.0,20.425,37.198,20.734,,False,False,6410.237,6,Monaco Grand Prix
+HAM,35.0,77.159,2.0,HARD,4.0,1,True,Mercedes,True,8.0,20.415,36.085,20.659,,False,False,6487.396,6,Monaco Grand Prix
+HAM,36.0,77.688,2.0,HARD,5.0,1,True,Mercedes,True,8.0,20.449,36.475,20.764,,False,False,6565.084,6,Monaco Grand Prix
+HAM,37.0,77.711,2.0,HARD,6.0,1,True,Mercedes,True,8.0,20.364,36.727,20.62,,False,False,6642.795,6,Monaco Grand Prix
+HAM,38.0,77.167,2.0,HARD,7.0,1,True,Mercedes,True,8.0,20.282,36.239,20.646,,False,False,6719.962,6,Monaco Grand Prix
+HAM,39.0,77.293,2.0,HARD,8.0,1,True,Mercedes,True,8.0,20.276,36.426,20.591,,False,False,6797.255,6,Monaco Grand Prix
+HAM,40.0,76.962,2.0,HARD,9.0,1,True,Mercedes,True,8.0,20.057,36.301,20.604,,False,False,6874.217,6,Monaco Grand Prix
+HAM,41.0,76.588,2.0,HARD,10.0,1,True,Mercedes,True,8.0,20.081,36.125,20.382,,False,False,6950.805,6,Monaco Grand Prix
+HAM,42.0,76.58,2.0,HARD,11.0,1,True,Mercedes,True,8.0,20.056,36.136,20.388,,False,False,7027.385,6,Monaco Grand Prix
+HAM,43.0,76.529,2.0,HARD,12.0,1,True,Mercedes,True,8.0,20.005,36.184,20.34,,False,False,7103.914,6,Monaco Grand Prix
+HAM,44.0,76.88,2.0,HARD,13.0,1,True,Mercedes,True,7.0,20.048,36.302,20.53,,False,False,7180.794,6,Monaco Grand Prix
+HAM,45.0,78.833,2.0,HARD,14.0,1,True,Mercedes,True,7.0,20.486,37.303,21.044,,False,False,7259.627,6,Monaco Grand Prix
+HAM,46.0,76.85,2.0,HARD,15.0,1,True,Mercedes,True,7.0,20.225,36.147,20.478,,False,False,7336.477,6,Monaco Grand Prix
+HAM,47.0,76.257,2.0,HARD,16.0,1,True,Mercedes,True,6.0,19.85,35.974,20.433,,False,False,7412.734,6,Monaco Grand Prix
+HAM,48.0,76.86,2.0,HARD,17.0,1,True,Mercedes,True,6.0,20.205,36.19,20.465,,False,False,7489.594,6,Monaco Grand Prix
+HAM,49.0,76.781,2.0,HARD,18.0,1,True,Mercedes,True,6.0,20.131,36.233,20.417,,False,False,7566.375,6,Monaco Grand Prix
+HAM,50.0,77.11,2.0,HARD,19.0,1,True,Mercedes,True,6.0,20.168,36.443,20.499,,False,False,7643.485,6,Monaco Grand Prix
+HAM,51.0,78.294,2.0,HARD,20.0,1,True,Mercedes,True,6.0,20.058,36.913,21.323,,False,False,7721.779,6,Monaco Grand Prix
+HAM,52.0,86.237,2.0,HARD,21.0,1,True,Mercedes,True,6.0,20.853,42.111,23.273,,False,False,7808.016,6,Monaco Grand Prix
+HAM,53.0,91.341,2.0,HARD,22.0,1,True,Mercedes,True,6.0,24.193,45.397,21.751,,False,False,7899.357,6,Monaco Grand Prix
+HAM,54.0,115.141,2.0,HARD,23.0,1,False,Mercedes,True,7.0,23.451,48.06,43.63,,True,False,8014.498,6,Monaco Grand Prix
+HAM,55.0,99.603,3.0,INTERMEDIATE,1.0,12,False,Mercedes,True,4.0,27.422,47.069,25.112,,False,True,8114.101,6,Monaco Grand Prix
+HAM,56.0,101.277,3.0,INTERMEDIATE,2.0,21,True,Mercedes,True,4.0,26.26,48.592,26.425,,False,False,8215.378,6,Monaco Grand Prix
+HAM,57.0,103.278,3.0,INTERMEDIATE,3.0,1,True,Mercedes,True,4.0,28.374,48.357,26.547,,False,False,8318.656,6,Monaco Grand Prix
+HAM,58.0,103.378,3.0,INTERMEDIATE,4.0,12,True,Mercedes,True,4.0,27.656,48.863,26.859,,False,False,8422.034,6,Monaco Grand Prix
+HAM,59.0,105.199,3.0,INTERMEDIATE,5.0,21,True,Mercedes,True,4.0,28.019,49.285,27.895,,False,False,8527.233,6,Monaco Grand Prix
+HAM,60.0,103.041,3.0,INTERMEDIATE,6.0,12,True,Mercedes,True,4.0,27.6,48.261,27.18,,False,False,8630.274,6,Monaco Grand Prix
+HAM,61.0,102.396,3.0,INTERMEDIATE,7.0,12,True,Mercedes,True,4.0,27.441,48.298,26.657,,False,False,8732.67,6,Monaco Grand Prix
+HAM,62.0,102.287,3.0,INTERMEDIATE,8.0,1,True,Mercedes,True,4.0,27.191,48.45,26.646,,False,False,8834.957,6,Monaco Grand Prix
+HAM,63.0,101.315,3.0,INTERMEDIATE,9.0,1,True,Mercedes,True,4.0,27.24,47.725,26.35,,False,False,8936.272,6,Monaco Grand Prix
+HAM,64.0,98.957,3.0,INTERMEDIATE,10.0,1,True,Mercedes,True,4.0,26.34,46.965,25.652,,False,False,9035.229,6,Monaco Grand Prix
+HAM,65.0,97.636,3.0,INTERMEDIATE,11.0,1,True,Mercedes,True,4.0,26.21,46.748,24.678,,False,False,9132.865,6,Monaco Grand Prix
+HAM,66.0,96.203,3.0,INTERMEDIATE,12.0,1,True,Mercedes,True,4.0,25.65,46.234,24.319,,False,False,9229.068,6,Monaco Grand Prix
+HAM,67.0,94.539,3.0,INTERMEDIATE,13.0,1,True,Mercedes,True,4.0,24.931,45.823,23.785,,False,False,9323.607,6,Monaco Grand Prix
+HAM,68.0,92.866,3.0,INTERMEDIATE,14.0,1,True,Mercedes,True,4.0,25.098,44.929,22.839,,False,False,9416.473,6,Monaco Grand Prix
+HAM,69.0,93.757,3.0,INTERMEDIATE,15.0,12,True,Mercedes,True,4.0,25.503,46.04,22.214,,False,False,9510.23,6,Monaco Grand Prix
+HAM,70.0,89.68,3.0,INTERMEDIATE,16.0,1,True,Mercedes,True,4.0,24.15,43.741,21.789,,False,False,9599.91,6,Monaco Grand Prix
+HAM,71.0,89.667,3.0,INTERMEDIATE,17.0,1,True,Mercedes,True,4.0,23.981,43.91,21.776,,False,False,9689.577,6,Monaco Grand Prix
+HAM,72.0,89.415,3.0,INTERMEDIATE,18.0,1,True,Mercedes,True,4.0,24.343,43.25,21.822,,False,False,9778.992,6,Monaco Grand Prix
+HAM,73.0,87.735,3.0,INTERMEDIATE,19.0,1,True,Mercedes,True,4.0,24.122,42.18,21.433,,False,False,9866.727,6,Monaco Grand Prix
+HAM,74.0,86.304,3.0,INTERMEDIATE,20.0,1,True,Mercedes,True,4.0,22.776,42.149,21.379,,False,False,9953.031,6,Monaco Grand Prix
+HAM,75.0,85.242,3.0,INTERMEDIATE,21.0,1,True,Mercedes,True,4.0,22.534,41.383,21.325,,False,False,10038.273,6,Monaco Grand Prix
+HAM,76.0,84.651,3.0,INTERMEDIATE,22.0,1,True,Mercedes,True,4.0,22.174,41.007,21.47,,False,False,10122.924,6,Monaco Grand Prix
+HAM,77.0,86.21,3.0,INTERMEDIATE,23.0,1,True,Mercedes,True,4.0,22.41,42.33,21.47,,False,False,10209.134,6,Monaco Grand Prix
+HAM,78.0,85.105,3.0,INTERMEDIATE,24.0,1,True,Mercedes,True,4.0,22.304,40.622,22.179,,False,False,10294.239,6,Monaco Grand Prix
+SAI,1.0,87.39,1.0,HARD,1.0,12,False,Ferrari,True,4.0,,38.45,21.607,,False,False,3810.587,6,Monaco Grand Prix
+SAI,2.0,80.593,1.0,HARD,2.0,1,True,Ferrari,True,4.0,21.218,37.827,21.548,,False,False,3891.18,6,Monaco Grand Prix
+SAI,3.0,79.958,1.0,HARD,3.0,1,True,Ferrari,True,4.0,21.064,37.555,21.339,,False,False,3971.138,6,Monaco Grand Prix
+SAI,4.0,79.482,1.0,HARD,4.0,1,True,Ferrari,True,4.0,20.956,37.33,21.196,,False,False,4050.62,6,Monaco Grand Prix
+SAI,5.0,78.723,1.0,HARD,5.0,1,True,Ferrari,True,4.0,20.71,37.12,20.893,,False,False,4129.343,6,Monaco Grand Prix
+SAI,6.0,78.764,1.0,HARD,6.0,1,True,Ferrari,True,4.0,20.816,37.126,20.822,,False,False,4208.107,6,Monaco Grand Prix
+SAI,7.0,78.697,1.0,HARD,7.0,1,True,Ferrari,True,4.0,20.775,37.01,20.912,,False,False,4286.804,6,Monaco Grand Prix
+SAI,8.0,78.637,1.0,HARD,8.0,1,True,Ferrari,True,4.0,20.773,36.906,20.958,,False,False,4365.441,6,Monaco Grand Prix
+SAI,9.0,78.306,1.0,HARD,9.0,1,True,Ferrari,True,4.0,20.663,36.899,20.744,,False,False,4443.747,6,Monaco Grand Prix
+SAI,10.0,78.07,1.0,HARD,10.0,1,True,Ferrari,True,4.0,20.574,36.868,20.628,,False,False,4521.817,6,Monaco Grand Prix
+SAI,11.0,78.265,1.0,HARD,11.0,1,True,Ferrari,True,4.0,20.59,36.442,21.233,,False,False,4600.082,6,Monaco Grand Prix
+SAI,12.0,78.947,1.0,HARD,12.0,12,True,Ferrari,True,4.0,20.805,37.196,20.946,,False,False,4679.029,6,Monaco Grand Prix
+SAI,13.0,78.286,1.0,HARD,13.0,1,True,Ferrari,True,4.0,20.536,36.877,20.873,,False,False,4757.315,6,Monaco Grand Prix
+SAI,14.0,78.107,1.0,HARD,14.0,12,True,Ferrari,True,4.0,20.482,36.785,20.84,,False,False,4835.422,6,Monaco Grand Prix
+SAI,15.0,77.883,1.0,HARD,15.0,1,True,Ferrari,True,4.0,20.449,36.664,20.77,,False,False,4913.305,6,Monaco Grand Prix
+SAI,16.0,78.239,1.0,HARD,16.0,1,True,Ferrari,True,4.0,20.46,36.943,20.836,,False,False,4991.544,6,Monaco Grand Prix
+SAI,17.0,78.36,1.0,HARD,17.0,1,True,Ferrari,True,4.0,20.415,36.946,20.999,,False,False,5069.904,6,Monaco Grand Prix
+SAI,18.0,78.178,1.0,HARD,18.0,1,True,Ferrari,True,4.0,20.502,36.871,20.805,,False,False,5148.082,6,Monaco Grand Prix
+SAI,19.0,77.999,1.0,HARD,19.0,1,True,Ferrari,True,4.0,20.392,36.833,20.774,,False,False,5226.081,6,Monaco Grand Prix
+SAI,20.0,78.032,1.0,HARD,20.0,1,True,Ferrari,True,4.0,20.401,36.775,20.856,,False,False,5304.113,6,Monaco Grand Prix
+SAI,21.0,78.006,1.0,HARD,21.0,1,True,Ferrari,True,4.0,20.39,36.736,20.88,,False,False,5382.119,6,Monaco Grand Prix
+SAI,22.0,78.007,1.0,HARD,22.0,1,True,Ferrari,True,4.0,20.423,36.784,20.8,,False,False,5460.126,6,Monaco Grand Prix
+SAI,23.0,78.006,1.0,HARD,23.0,1,True,Ferrari,True,4.0,20.33,36.88,20.796,,False,False,5538.132,6,Monaco Grand Prix
+SAI,24.0,77.912,1.0,HARD,24.0,1,True,Ferrari,True,4.0,20.413,36.821,20.678,,False,False,5616.044,6,Monaco Grand Prix
+SAI,25.0,77.464,1.0,HARD,25.0,1,True,Ferrari,True,4.0,20.294,36.541,20.629,,False,False,5693.508,6,Monaco Grand Prix
+SAI,26.0,77.366,1.0,HARD,26.0,1,True,Ferrari,True,4.0,20.202,36.551,20.613,,False,False,5770.874,6,Monaco Grand Prix
+SAI,27.0,77.318,1.0,HARD,27.0,1,True,Ferrari,True,4.0,20.213,36.424,20.681,,False,False,5848.192,6,Monaco Grand Prix
+SAI,28.0,77.316,1.0,HARD,28.0,1,True,Ferrari,True,4.0,20.15,36.544,20.622,,False,False,5925.508,6,Monaco Grand Prix
+SAI,29.0,77.171,1.0,HARD,29.0,1,True,Ferrari,True,4.0,20.143,36.494,20.534,,False,False,6002.679,6,Monaco Grand Prix
+SAI,30.0,77.22,1.0,HARD,30.0,1,True,Ferrari,True,4.0,20.161,36.514,20.545,,False,False,6079.899,6,Monaco Grand Prix
+SAI,31.0,77.465,1.0,HARD,31.0,1,True,Ferrari,True,4.0,20.157,36.592,20.716,,False,False,6157.364,6,Monaco Grand Prix
+SAI,32.0,77.18,1.0,HARD,32.0,1,True,Ferrari,True,3.0,20.196,36.534,20.45,,False,False,6234.544,6,Monaco Grand Prix
+SAI,33.0,93.612,1.0,HARD,33.0,1,False,Ferrari,True,6.0,20.097,36.115,37.4,,True,False,6328.156,6,Monaco Grand Prix
+SAI,34.0,80.767,2.0,MEDIUM,1.0,1,False,Ferrari,True,7.0,23.131,36.729,20.907,,False,True,6408.923,6,Monaco Grand Prix
+SAI,35.0,76.628,2.0,MEDIUM,2.0,1,True,Ferrari,True,7.0,20.045,36.092,20.491,,False,False,6485.551,6,Monaco Grand Prix
+SAI,36.0,77.979,2.0,MEDIUM,3.0,1,True,Ferrari,True,7.0,20.577,36.864,20.538,,False,False,6563.53,6,Monaco Grand Prix
+SAI,37.0,77.565,2.0,MEDIUM,4.0,1,True,Ferrari,True,7.0,20.276,36.516,20.773,,False,False,6641.095,6,Monaco Grand Prix
+SAI,38.0,76.786,2.0,MEDIUM,5.0,1,True,Ferrari,True,7.0,20.022,36.221,20.543,,False,False,6717.881,6,Monaco Grand Prix
+SAI,39.0,77.175,2.0,MEDIUM,6.0,1,True,Ferrari,True,7.0,20.233,36.431,20.511,,False,False,6795.056,6,Monaco Grand Prix
+SAI,40.0,77.023,2.0,MEDIUM,7.0,1,True,Ferrari,True,7.0,20.122,36.431,20.47,,False,False,6872.079,6,Monaco Grand Prix
+SAI,41.0,76.651,2.0,MEDIUM,8.0,1,True,Ferrari,True,7.0,20.007,36.156,20.488,,False,False,6948.73,6,Monaco Grand Prix
+SAI,42.0,76.467,2.0,MEDIUM,9.0,1,True,Ferrari,True,7.0,20.085,36.003,20.379,,False,False,7025.197,6,Monaco Grand Prix
+SAI,43.0,76.449,2.0,MEDIUM,10.0,1,True,Ferrari,True,7.0,20.016,36.171,20.262,,False,False,7101.646,6,Monaco Grand Prix
+SAI,44.0,77.76,2.0,MEDIUM,11.0,1,True,Ferrari,True,6.0,20.063,36.889,20.808,,False,False,7179.406,6,Monaco Grand Prix
+SAI,45.0,77.146,2.0,MEDIUM,12.0,1,True,Ferrari,True,6.0,20.158,36.414,20.574,,False,False,7256.552,6,Monaco Grand Prix
+SAI,46.0,77.22,2.0,MEDIUM,13.0,1,True,Ferrari,True,6.0,20.165,36.446,20.609,,False,False,7333.772,6,Monaco Grand Prix
+SAI,47.0,76.732,2.0,MEDIUM,14.0,1,True,Ferrari,True,5.0,19.971,36.344,20.417,,False,False,7410.504,6,Monaco Grand Prix
+SAI,48.0,76.561,2.0,MEDIUM,15.0,1,True,Ferrari,True,5.0,19.911,36.34,20.31,,False,False,7487.065,6,Monaco Grand Prix
+SAI,49.0,77.014,2.0,MEDIUM,16.0,1,True,Ferrari,True,5.0,20.044,36.254,20.716,,False,False,7564.079,6,Monaco Grand Prix
+SAI,50.0,76.917,2.0,MEDIUM,17.0,1,True,Ferrari,True,5.0,19.994,36.438,20.485,,False,False,7640.996,6,Monaco Grand Prix
+SAI,51.0,79.013,2.0,MEDIUM,18.0,1,True,Ferrari,True,5.0,20.198,37.492,21.323,,False,False,7720.009,6,Monaco Grand Prix
+SAI,52.0,86.201,2.0,MEDIUM,19.0,1,True,Ferrari,True,5.0,20.715,42.567,22.919,,False,False,7806.21,6,Monaco Grand Prix
+SAI,53.0,90.068,2.0,MEDIUM,20.0,1,True,Ferrari,True,5.0,23.352,44.89,21.826,,False,False,7896.278,6,Monaco Grand Prix
+SAI,54.0,97.315,2.0,MEDIUM,21.0,1,True,Ferrari,True,3.0,23.705,48.995,24.615,,False,False,7993.593,6,Monaco Grand Prix
+SAI,55.0,139.381,2.0,MEDIUM,22.0,12,False,Ferrari,True,8.0,27.227,61.073,51.081,,True,False,8132.974,6,Monaco Grand Prix
+SAI,56.0,102.32,3.0,INTERMEDIATE,1.0,21,False,Ferrari,True,8.0,28.536,47.711,26.073,,False,True,8235.294,6,Monaco Grand Prix
+SAI,57.0,101.192,3.0,INTERMEDIATE,2.0,1,True,Ferrari,True,8.0,27.406,47.54,26.246,,False,False,8336.486,6,Monaco Grand Prix
+SAI,58.0,103.462,3.0,INTERMEDIATE,3.0,12,True,Ferrari,True,8.0,28.269,47.551,27.642,,False,False,8439.948,6,Monaco Grand Prix
+SAI,59.0,102.82,3.0,INTERMEDIATE,4.0,12,True,Ferrari,True,8.0,27.817,48.032,26.971,,False,False,8542.768,6,Monaco Grand Prix
+SAI,60.0,103.041,3.0,INTERMEDIATE,5.0,21,True,Ferrari,True,8.0,28.314,47.757,26.97,,False,False,8645.809,6,Monaco Grand Prix
+SAI,61.0,102.633,3.0,INTERMEDIATE,6.0,12,True,Ferrari,True,8.0,27.462,48.317,26.854,,False,False,8748.442,6,Monaco Grand Prix
+SAI,62.0,100.78,3.0,INTERMEDIATE,7.0,1,True,Ferrari,True,8.0,27.047,47.352,26.381,,False,False,8849.222,6,Monaco Grand Prix
+SAI,63.0,99.899,3.0,INTERMEDIATE,8.0,1,True,Ferrari,True,8.0,26.585,47.117,26.197,,False,False,8949.121,6,Monaco Grand Prix
+SAI,64.0,99.306,3.0,INTERMEDIATE,9.0,1,True,Ferrari,True,8.0,26.304,46.863,26.139,,False,False,9048.427,6,Monaco Grand Prix
+SAI,65.0,97.838,3.0,INTERMEDIATE,10.0,1,True,Ferrari,True,8.0,26.011,46.533,25.294,,False,False,9146.265,6,Monaco Grand Prix
+SAI,66.0,96.238,3.0,INTERMEDIATE,11.0,1,True,Ferrari,True,8.0,25.843,45.748,24.647,,False,False,9242.503,6,Monaco Grand Prix
+SAI,67.0,94.999,3.0,INTERMEDIATE,12.0,1,True,Ferrari,True,8.0,25.342,45.459,24.198,,False,False,9337.502,6,Monaco Grand Prix
+SAI,68.0,93.322,3.0,INTERMEDIATE,13.0,12,True,Ferrari,True,8.0,24.78,45.051,23.491,,False,False,9430.824,6,Monaco Grand Prix
+SAI,69.0,95.394,3.0,INTERMEDIATE,14.0,21,True,Ferrari,True,8.0,25.113,45.521,24.76,,False,False,9526.218,6,Monaco Grand Prix
+SAI,70.0,92.13,3.0,INTERMEDIATE,15.0,1,True,Ferrari,True,8.0,24.889,44.372,22.869,,False,False,9618.348,6,Monaco Grand Prix
+SAI,71.0,89.92,3.0,INTERMEDIATE,16.0,1,True,Ferrari,True,8.0,23.868,43.533,22.519,,False,False,9708.268,6,Monaco Grand Prix
+SAI,72.0,89.849,3.0,INTERMEDIATE,17.0,1,True,Ferrari,True,8.0,23.449,44.07,22.33,,False,False,9798.117,6,Monaco Grand Prix
+SAI,73.0,87.84,3.0,INTERMEDIATE,18.0,1,True,Ferrari,True,8.0,23.244,42.559,22.037,,False,False,9885.957,6,Monaco Grand Prix
+SAI,74.0,88.585,3.0,INTERMEDIATE,19.0,1,True,Ferrari,True,8.0,24.031,42.481,22.073,,False,False,9974.542,6,Monaco Grand Prix
+SAI,75.0,86.388,3.0,INTERMEDIATE,20.0,1,True,Ferrari,True,8.0,22.468,41.871,22.049,,False,False,10060.93,6,Monaco Grand Prix
+SAI,76.0,85.776,3.0,INTERMEDIATE,21.0,1,True,Ferrari,True,8.0,22.362,41.296,22.118,,False,False,10146.706,6,Monaco Grand Prix
+SAI,77.0,85.579,3.0,INTERMEDIATE,22.0,1,True,Ferrari,True,8.0,22.283,41.078,22.218,,False,False,10232.285,6,Monaco Grand Prix
+SAI,78.0,86.283,3.0,INTERMEDIATE,23.0,1,True,Ferrari,True,8.0,22.537,41.195,22.551,,False,False,10318.568,6,Monaco Grand Prix
+RUS,1.0,90.387,1.0,HARD,1.0,12,False,Mercedes,True,8.0,,39.443,21.744,,False,False,3813.584,6,Monaco Grand Prix
+RUS,2.0,81.155,1.0,HARD,2.0,1,True,Mercedes,True,8.0,21.784,37.682,21.689,,False,False,3894.739,6,Monaco Grand Prix
+RUS,3.0,80.291,1.0,HARD,3.0,1,True,Mercedes,True,8.0,21.169,37.663,21.459,,False,False,3975.03,6,Monaco Grand Prix
+RUS,4.0,80.03,1.0,HARD,4.0,1,True,Mercedes,True,8.0,21.14,37.48,21.41,,False,False,4055.06,6,Monaco Grand Prix
+RUS,5.0,78.84,1.0,HARD,5.0,1,True,Mercedes,True,8.0,20.82,36.963,21.057,,False,False,4133.9,6,Monaco Grand Prix
+RUS,6.0,78.945,1.0,HARD,6.0,1,True,Mercedes,True,8.0,20.735,37.171,21.039,,False,False,4212.845,6,Monaco Grand Prix
+RUS,7.0,78.583,1.0,HARD,7.0,1,True,Mercedes,True,8.0,20.729,36.899,20.955,,False,False,4291.428,6,Monaco Grand Prix
+RUS,8.0,78.99,1.0,HARD,8.0,1,True,Mercedes,True,8.0,20.702,37.206,21.082,,False,False,4370.418,6,Monaco Grand Prix
+RUS,9.0,79.025,1.0,HARD,9.0,1,True,Mercedes,True,8.0,20.939,36.978,21.108,,False,False,4449.443,6,Monaco Grand Prix
+RUS,10.0,78.566,1.0,HARD,10.0,1,True,Mercedes,True,8.0,20.693,37.032,20.841,,False,False,4528.009,6,Monaco Grand Prix
+RUS,11.0,78.483,1.0,HARD,11.0,1,True,Mercedes,True,8.0,20.787,36.81,20.886,,False,False,4606.492,6,Monaco Grand Prix
+RUS,12.0,78.459,1.0,HARD,12.0,12,True,Mercedes,True,8.0,21.157,36.614,20.688,,False,False,4684.951,6,Monaco Grand Prix
+RUS,13.0,77.787,1.0,HARD,13.0,1,True,Mercedes,True,8.0,20.598,36.554,20.635,,False,False,4762.738,6,Monaco Grand Prix
+RUS,14.0,78.286,1.0,HARD,14.0,12,True,Mercedes,True,8.0,20.609,36.794,20.883,,False,False,4841.024,6,Monaco Grand Prix
+RUS,15.0,78.531,1.0,HARD,15.0,1,True,Mercedes,True,8.0,20.706,36.85,20.975,,False,False,4919.555,6,Monaco Grand Prix
+RUS,16.0,78.502,1.0,HARD,16.0,1,True,Mercedes,True,8.0,20.614,36.957,20.931,,False,False,4998.057,6,Monaco Grand Prix
+RUS,17.0,78.244,1.0,HARD,17.0,1,True,Mercedes,True,8.0,20.71,36.722,20.812,,False,False,5076.301,6,Monaco Grand Prix
+RUS,18.0,78.229,1.0,HARD,18.0,1,True,Mercedes,True,8.0,20.493,36.799,20.937,,False,False,5154.53,6,Monaco Grand Prix
+RUS,19.0,78.299,1.0,HARD,19.0,1,True,Mercedes,True,8.0,20.651,36.74,20.908,,False,False,5232.829,6,Monaco Grand Prix
+RUS,20.0,78.32,1.0,HARD,20.0,1,True,Mercedes,True,8.0,20.523,36.906,20.891,,False,False,5311.149,6,Monaco Grand Prix
+RUS,21.0,78.086,1.0,HARD,21.0,1,True,Mercedes,True,8.0,20.536,36.661,20.889,,False,False,5389.235,6,Monaco Grand Prix
+RUS,22.0,77.879,1.0,HARD,22.0,1,True,Mercedes,True,8.0,20.466,36.531,20.882,,False,False,5467.114,6,Monaco Grand Prix
+RUS,23.0,78.111,1.0,HARD,23.0,1,True,Mercedes,True,8.0,20.625,36.726,20.76,,False,False,5545.225,6,Monaco Grand Prix
+RUS,24.0,77.709,1.0,HARD,24.0,1,True,Mercedes,True,8.0,20.563,36.481,20.665,,False,False,5622.934,6,Monaco Grand Prix
+RUS,25.0,77.648,1.0,HARD,25.0,1,True,Mercedes,True,8.0,20.339,36.507,20.802,,False,False,5700.582,6,Monaco Grand Prix
+RUS,26.0,77.9,1.0,HARD,26.0,1,True,Mercedes,True,8.0,20.563,36.529,20.808,,False,False,5778.482,6,Monaco Grand Prix
+RUS,27.0,77.837,1.0,HARD,27.0,1,True,Mercedes,True,8.0,20.41,36.64,20.787,,False,False,5856.319,6,Monaco Grand Prix
+RUS,28.0,77.353,1.0,HARD,28.0,1,True,Mercedes,True,8.0,20.205,36.4,20.748,,False,False,5933.672,6,Monaco Grand Prix
+RUS,29.0,77.332,1.0,HARD,29.0,1,True,Mercedes,True,8.0,20.233,36.437,20.662,,False,False,6011.004,6,Monaco Grand Prix
+RUS,30.0,77.3,1.0,HARD,30.0,1,True,Mercedes,True,8.0,20.196,36.441,20.663,,False,False,6088.304,6,Monaco Grand Prix
+RUS,31.0,77.404,1.0,HARD,31.0,1,True,Mercedes,True,7.0,20.248,36.479,20.677,,False,False,6165.708,6,Monaco Grand Prix
+RUS,32.0,77.474,1.0,HARD,32.0,1,True,Mercedes,True,6.0,20.162,36.558,20.754,,False,False,6243.182,6,Monaco Grand Prix
+RUS,33.0,77.556,1.0,HARD,33.0,1,True,Mercedes,True,5.0,20.373,36.578,20.605,,False,False,6320.738,6,Monaco Grand Prix
+RUS,34.0,77.569,1.0,HARD,34.0,1,True,Mercedes,True,5.0,20.208,36.647,20.714,,False,False,6398.307,6,Monaco Grand Prix
+RUS,35.0,77.568,1.0,HARD,35.0,1,True,Mercedes,True,5.0,20.282,36.608,20.678,,False,False,6475.875,6,Monaco Grand Prix
+RUS,36.0,77.111,1.0,HARD,36.0,1,True,Mercedes,True,5.0,20.027,36.406,20.678,,False,False,6552.986,6,Monaco Grand Prix
+RUS,37.0,77.335,1.0,HARD,37.0,1,True,Mercedes,True,5.0,20.098,36.568,20.669,,False,False,6630.321,6,Monaco Grand Prix
+RUS,38.0,77.195,1.0,HARD,38.0,1,True,Mercedes,True,5.0,20.125,36.386,20.684,,False,False,6707.516,6,Monaco Grand Prix
+RUS,39.0,77.339,1.0,HARD,39.0,1,True,Mercedes,True,5.0,20.122,36.499,20.718,,False,False,6784.855,6,Monaco Grand Prix
+RUS,40.0,77.215,1.0,HARD,40.0,1,True,Mercedes,True,5.0,20.085,36.504,20.626,,False,False,6862.07,6,Monaco Grand Prix
+RUS,41.0,77.323,1.0,HARD,41.0,1,True,Mercedes,True,5.0,20.14,36.468,20.715,,False,False,6939.393,6,Monaco Grand Prix
+RUS,42.0,77.979,1.0,HARD,42.0,1,True,Mercedes,True,5.0,20.327,36.809,20.843,,False,False,7017.372,6,Monaco Grand Prix
+RUS,43.0,77.847,1.0,HARD,43.0,1,True,Mercedes,True,5.0,20.357,36.668,20.822,,False,False,7095.219,6,Monaco Grand Prix
+RUS,44.0,77.967,1.0,HARD,44.0,1,True,Mercedes,True,4.0,20.315,36.776,20.876,,False,False,7173.186,6,Monaco Grand Prix
+RUS,45.0,77.545,1.0,HARD,45.0,1,True,Mercedes,True,4.0,20.228,36.676,20.641,,False,False,7250.731,6,Monaco Grand Prix
+RUS,46.0,77.068,1.0,HARD,46.0,1,True,Mercedes,True,4.0,19.925,36.553,20.59,,False,False,7327.799,6,Monaco Grand Prix
+RUS,47.0,77.06,1.0,HARD,47.0,1,True,Mercedes,True,3.0,19.99,36.503,20.567,,False,False,7404.859,6,Monaco Grand Prix
+RUS,48.0,76.798,1.0,HARD,48.0,1,True,Mercedes,True,3.0,20.07,36.259,20.469,,False,False,7481.657,6,Monaco Grand Prix
+RUS,49.0,77.223,1.0,HARD,49.0,1,True,Mercedes,True,3.0,20.086,36.389,20.748,,False,False,7558.88,6,Monaco Grand Prix
+RUS,50.0,77.635,1.0,HARD,50.0,1,True,Mercedes,True,3.0,20.052,36.854,20.729,,False,False,7636.515,6,Monaco Grand Prix
+RUS,51.0,79.64,1.0,HARD,51.0,1,True,Mercedes,True,3.0,20.543,38.039,21.058,,False,False,7716.155,6,Monaco Grand Prix
+RUS,52.0,84.754,1.0,HARD,52.0,1,True,Mercedes,True,3.0,20.901,41.809,22.044,,False,False,7800.909,6,Monaco Grand Prix
+RUS,53.0,88.625,1.0,HARD,53.0,1,True,Mercedes,True,3.0,23.13,43.786,21.709,,False,False,7889.534,6,Monaco Grand Prix
+RUS,54.0,117.545,1.0,HARD,54.0,1,False,Mercedes,True,5.0,23.347,47.221,46.977,,True,False,8007.079,6,Monaco Grand Prix
+RUS,55.0,115.804,2.0,INTERMEDIATE,1.0,12,False,Mercedes,True,5.0,26.171,64.033,25.6,,False,True,8122.883,6,Monaco Grand Prix
+RUS,56.0,101.302,2.0,INTERMEDIATE,2.0,21,True,Mercedes,True,5.0,26.184,47.927,27.191,,False,False,8224.185,6,Monaco Grand Prix
+RUS,57.0,103.554,2.0,INTERMEDIATE,3.0,1,True,Mercedes,True,5.0,28.703,48.006,26.845,,False,False,8327.739,6,Monaco Grand Prix
+RUS,58.0,102.155,2.0,INTERMEDIATE,4.0,12,True,Mercedes,True,5.0,27.183,48.04,26.932,,False,False,8429.894,6,Monaco Grand Prix
+RUS,59.0,103.463,2.0,INTERMEDIATE,5.0,12,True,Mercedes,True,5.0,27.705,48.212,27.546,,False,False,8533.357,6,Monaco Grand Prix
+RUS,60.0,103.53,2.0,INTERMEDIATE,6.0,21,True,Mercedes,True,5.0,28.062,48.313,27.155,,False,False,8636.887,6,Monaco Grand Prix
+RUS,61.0,101.329,2.0,INTERMEDIATE,7.0,12,True,Mercedes,True,5.0,26.585,47.994,26.75,,False,False,8738.216,6,Monaco Grand Prix
+RUS,62.0,101.104,2.0,INTERMEDIATE,8.0,1,True,Mercedes,True,5.0,27.041,47.506,26.557,,False,False,8839.32,6,Monaco Grand Prix
+RUS,63.0,99.713,2.0,INTERMEDIATE,9.0,1,True,Mercedes,True,5.0,26.484,47.1,26.129,,False,False,8939.033,6,Monaco Grand Prix
+RUS,64.0,98.229,2.0,INTERMEDIATE,10.0,1,True,Mercedes,True,5.0,25.894,46.921,25.414,,False,False,9037.262,6,Monaco Grand Prix
+RUS,65.0,96.696,2.0,INTERMEDIATE,11.0,1,True,Mercedes,True,5.0,25.673,46.473,24.55,,False,False,9133.958,6,Monaco Grand Prix
+RUS,66.0,95.991,2.0,INTERMEDIATE,12.0,1,True,Mercedes,True,5.0,25.553,46.4,24.038,,False,False,9229.949,6,Monaco Grand Prix
+RUS,67.0,94.751,2.0,INTERMEDIATE,13.0,1,True,Mercedes,True,5.0,25.247,45.793,23.711,,False,False,9324.7,6,Monaco Grand Prix
+RUS,68.0,93.647,2.0,INTERMEDIATE,14.0,1,True,Mercedes,True,5.0,24.929,45.486,23.232,,False,False,9418.347,6,Monaco Grand Prix
+RUS,69.0,93.734,2.0,INTERMEDIATE,15.0,12,True,Mercedes,True,5.0,25.139,45.779,22.816,,False,False,9512.081,6,Monaco Grand Prix
+RUS,70.0,90.929,2.0,INTERMEDIATE,16.0,1,True,Mercedes,True,5.0,24.202,44.214,22.513,,False,False,9603.01,6,Monaco Grand Prix
+RUS,71.0,90.709,2.0,INTERMEDIATE,17.0,1,True,Mercedes,True,5.0,24.004,43.968,22.737,,False,False,9693.719,6,Monaco Grand Prix
+RUS,72.0,90.012,2.0,INTERMEDIATE,18.0,1,True,Mercedes,True,5.0,24.336,43.354,22.322,,False,False,9783.731,6,Monaco Grand Prix
+RUS,73.0,88.921,2.0,INTERMEDIATE,19.0,1,True,Mercedes,True,5.0,23.538,43.247,22.136,,False,False,9872.652,6,Monaco Grand Prix
+RUS,74.0,87.787,2.0,INTERMEDIATE,20.0,1,True,Mercedes,True,5.0,23.166,42.157,22.464,,False,False,9960.439,6,Monaco Grand Prix
+RUS,75.0,86.399,2.0,INTERMEDIATE,21.0,1,True,Mercedes,True,5.0,22.823,41.504,22.072,,False,False,10046.838,6,Monaco Grand Prix
+RUS,76.0,85.436,2.0,INTERMEDIATE,22.0,1,True,Mercedes,True,5.0,22.435,41.005,21.996,,False,False,10132.274,6,Monaco Grand Prix
+RUS,77.0,86.978,2.0,INTERMEDIATE,23.0,1,True,Mercedes,True,5.0,22.986,41.513,22.479,,False,False,10219.252,6,Monaco Grand Prix
+RUS,78.0,87.209,2.0,INTERMEDIATE,24.0,1,True,Mercedes,True,5.0,22.898,41.175,23.136,,False,False,10306.461,6,Monaco Grand Prix
+BOT,1.0,96.914,1.0,HARD,1.0,12,False,Alfa Romeo,True,14.0,,43.24,21.162,,False,False,3820.111,6,Monaco Grand Prix
+BOT,2.0,80.021,1.0,HARD,2.0,1,True,Alfa Romeo,True,14.0,21.417,37.271,21.333,,False,False,3900.132,6,Monaco Grand Prix
+BOT,3.0,80.142,1.0,HARD,3.0,1,True,Alfa Romeo,True,14.0,21.17,37.598,21.374,,False,False,3980.274,6,Monaco Grand Prix
+BOT,4.0,80.341,1.0,HARD,4.0,1,True,Alfa Romeo,True,14.0,21.16,37.662,21.519,,False,False,4060.615,6,Monaco Grand Prix
+BOT,5.0,80.022,1.0,HARD,5.0,1,True,Alfa Romeo,True,14.0,21.045,37.895,21.082,,False,False,4140.637,6,Monaco Grand Prix
+BOT,6.0,79.165,1.0,HARD,6.0,1,True,Alfa Romeo,True,14.0,20.838,37.433,20.894,,False,False,4219.802,6,Monaco Grand Prix
+BOT,7.0,79.167,1.0,HARD,7.0,1,True,Alfa Romeo,True,14.0,20.875,37.286,21.006,,False,False,4298.969,6,Monaco Grand Prix
+BOT,8.0,78.774,1.0,HARD,8.0,1,True,Alfa Romeo,True,14.0,20.672,37.254,20.848,,False,False,4377.743,6,Monaco Grand Prix
+BOT,9.0,79.007,1.0,HARD,9.0,1,True,Alfa Romeo,True,14.0,20.773,37.33,20.904,,False,False,4456.75,6,Monaco Grand Prix
+BOT,10.0,79.527,1.0,HARD,10.0,1,True,Alfa Romeo,True,14.0,20.965,37.491,21.071,,False,False,4536.277,6,Monaco Grand Prix
+BOT,11.0,79.38,1.0,HARD,11.0,12,True,Alfa Romeo,True,14.0,20.857,37.552,20.971,,False,False,4615.657,6,Monaco Grand Prix
+BOT,12.0,80.206,1.0,HARD,12.0,21,True,Alfa Romeo,True,14.0,21.899,37.187,21.12,,False,False,4695.863,6,Monaco Grand Prix
+BOT,13.0,79.511,1.0,HARD,13.0,1,True,Alfa Romeo,True,14.0,21.021,37.503,20.987,,False,False,4775.374,6,Monaco Grand Prix
+BOT,14.0,80.067,1.0,HARD,14.0,12,True,Alfa Romeo,True,14.0,20.853,37.906,21.308,,False,False,4855.441,6,Monaco Grand Prix
+BOT,15.0,80.912,1.0,HARD,15.0,1,True,Alfa Romeo,True,14.0,21.126,38.144,21.642,,False,False,4936.353,6,Monaco Grand Prix
+BOT,16.0,80.48,1.0,HARD,16.0,1,True,Alfa Romeo,True,14.0,21.099,37.978,21.403,,False,False,5016.833,6,Monaco Grand Prix
+BOT,17.0,80.577,1.0,HARD,17.0,1,True,Alfa Romeo,True,14.0,21.22,37.865,21.492,,False,False,5097.41,6,Monaco Grand Prix
+BOT,18.0,78.764,1.0,HARD,18.0,1,True,Alfa Romeo,True,13.0,21.155,36.936,20.673,,False,False,5176.174,6,Monaco Grand Prix
+BOT,19.0,77.824,1.0,HARD,19.0,1,True,Alfa Romeo,True,13.0,20.221,36.608,20.995,,False,False,5253.998,6,Monaco Grand Prix
+BOT,20.0,78.024,1.0,HARD,20.0,1,True,Alfa Romeo,True,13.0,20.486,36.769,20.769,,False,False,5332.022,6,Monaco Grand Prix
+BOT,21.0,78.024,1.0,HARD,21.0,1,True,Alfa Romeo,True,13.0,20.389,36.986,20.649,,False,False,5410.046,6,Monaco Grand Prix
+BOT,22.0,78.26,1.0,HARD,22.0,1,True,Alfa Romeo,True,13.0,20.484,37.011,20.765,,False,False,5488.306,6,Monaco Grand Prix
+BOT,23.0,78.737,1.0,HARD,23.0,1,True,Alfa Romeo,True,13.0,20.481,37.336,20.92,,False,False,5567.043,6,Monaco Grand Prix
+BOT,24.0,80.068,1.0,HARD,24.0,1,True,Alfa Romeo,True,13.0,20.778,38.128,21.162,,False,False,5647.111,6,Monaco Grand Prix
+BOT,25.0,80.203,1.0,HARD,25.0,1,True,Alfa Romeo,True,13.0,20.873,38.047,21.283,,False,False,5727.314,6,Monaco Grand Prix
+BOT,26.0,80.222,1.0,HARD,26.0,1,True,Alfa Romeo,True,13.0,21.049,37.859,21.314,,False,False,5807.536,6,Monaco Grand Prix
+BOT,27.0,80.162,1.0,HARD,27.0,1,True,Alfa Romeo,True,13.0,20.969,37.989,21.204,,False,False,5887.698,6,Monaco Grand Prix
+BOT,28.0,79.853,1.0,HARD,28.0,1,True,Alfa Romeo,True,13.0,20.755,38.087,21.011,,False,False,5967.551,6,Monaco Grand Prix
+BOT,29.0,80.208,1.0,HARD,29.0,1,True,Alfa Romeo,True,13.0,20.809,38.28,21.119,,False,False,6047.759,6,Monaco Grand Prix
+BOT,30.0,79.393,1.0,HARD,30.0,1,True,Alfa Romeo,True,13.0,20.914,37.516,20.963,,False,False,6127.152,6,Monaco Grand Prix
+BOT,31.0,79.021,1.0,HARD,31.0,1,True,Alfa Romeo,True,13.0,20.735,37.456,20.83,,False,False,6206.173,6,Monaco Grand Prix
+BOT,32.0,79.47,1.0,HARD,32.0,1,True,Alfa Romeo,True,13.0,20.772,37.696,21.002,,False,False,6285.643,6,Monaco Grand Prix
+BOT,33.0,78.655,1.0,HARD,33.0,1,True,Alfa Romeo,True,13.0,20.474,37.27,20.911,,False,False,6364.298,6,Monaco Grand Prix
+BOT,34.0,80.226,1.0,HARD,34.0,1,True,Alfa Romeo,True,13.0,20.527,39.061,20.638,,False,False,6444.524,6,Monaco Grand Prix
+BOT,35.0,79.889,1.0,HARD,35.0,1,True,Alfa Romeo,True,13.0,20.548,38.47,20.871,,False,False,6524.413,6,Monaco Grand Prix
+BOT,36.0,79.139,1.0,HARD,36.0,1,True,Alfa Romeo,True,13.0,20.543,37.536,21.06,,False,False,6603.552,6,Monaco Grand Prix
+BOT,37.0,79.112,1.0,HARD,37.0,1,True,Alfa Romeo,True,13.0,20.713,37.495,20.904,,False,False,6682.664,6,Monaco Grand Prix
+BOT,38.0,80.07,1.0,HARD,38.0,1,True,Alfa Romeo,True,13.0,20.627,38.695,20.748,,False,False,6762.734,6,Monaco Grand Prix
+BOT,39.0,78.876,1.0,HARD,39.0,1,True,Alfa Romeo,True,13.0,20.393,37.401,21.082,,False,False,6841.61,6,Monaco Grand Prix
+BOT,40.0,78.968,1.0,HARD,40.0,1,True,Alfa Romeo,True,13.0,20.594,37.231,21.143,,False,False,6920.578,6,Monaco Grand Prix
+BOT,41.0,78.706,1.0,HARD,41.0,1,True,Alfa Romeo,True,13.0,20.497,37.348,20.861,,False,False,6999.284,6,Monaco Grand Prix
+BOT,42.0,78.435,1.0,HARD,42.0,1,True,Alfa Romeo,True,13.0,20.333,37.287,20.815,,False,False,7077.719,6,Monaco Grand Prix
+BOT,43.0,78.685,1.0,HARD,43.0,1,True,Alfa Romeo,True,13.0,20.646,37.115,20.924,,False,False,7156.404,6,Monaco Grand Prix
+BOT,44.0,78.606,1.0,HARD,44.0,1,True,Alfa Romeo,True,13.0,20.452,37.319,20.835,,False,False,7235.01,6,Monaco Grand Prix
+BOT,45.0,78.202,1.0,HARD,45.0,1,True,Alfa Romeo,True,13.0,20.381,37.061,20.76,,False,False,7313.212,6,Monaco Grand Prix
+BOT,46.0,78.153,1.0,HARD,46.0,1,True,Alfa Romeo,True,13.0,20.348,37.053,20.752,,False,False,7391.365,6,Monaco Grand Prix
+BOT,47.0,78.343,1.0,HARD,47.0,1,True,Alfa Romeo,True,13.0,20.359,37.171,20.813,,False,False,7469.708,6,Monaco Grand Prix
+BOT,48.0,78.151,1.0,HARD,48.0,1,True,Alfa Romeo,True,13.0,20.322,37.073,20.756,,False,False,7547.859,6,Monaco Grand Prix
+BOT,49.0,78.383,1.0,HARD,49.0,1,True,Alfa Romeo,True,13.0,20.389,37.274,20.72,,False,False,7626.242,6,Monaco Grand Prix
+BOT,50.0,79.704,1.0,HARD,50.0,1,True,Alfa Romeo,True,13.0,20.327,38.203,21.174,,False,False,7705.946,6,Monaco Grand Prix
+BOT,51.0,109.586,1.0,HARD,51.0,1,False,Alfa Romeo,True,18.0,21.104,43.04,45.442,,True,False,7815.532,6,Monaco Grand Prix
+BOT,52.0,92.154,2.0,INTERMEDIATE,1.0,1,False,Alfa Romeo,True,16.0,25.688,43.126,23.34,,False,True,7907.686,6,Monaco Grand Prix
+BOT,53.0,92.72,2.0,INTERMEDIATE,2.0,1,True,Alfa Romeo,True,15.0,23.859,45.543,23.318,,False,False,8000.406,6,Monaco Grand Prix
+BOT,54.0,98.747,2.0,INTERMEDIATE,3.0,12,True,Alfa Romeo,True,14.0,24.529,49.612,24.606,,False,False,8099.153,6,Monaco Grand Prix
+BOT,55.0,103.627,2.0,INTERMEDIATE,4.0,21,True,Alfa Romeo,True,12.0,29.054,48.364,26.209,,False,False,8202.78,6,Monaco Grand Prix
+BOT,56.0,100.028,2.0,INTERMEDIATE,5.0,1,True,Alfa Romeo,True,12.0,26.382,47.751,25.895,,False,False,8302.808,6,Monaco Grand Prix
+BOT,57.0,100.402,2.0,INTERMEDIATE,6.0,12,True,Alfa Romeo,True,12.0,26.608,47.749,26.045,,False,False,8403.21,6,Monaco Grand Prix
+BOT,58.0,102.952,2.0,INTERMEDIATE,7.0,12,True,Alfa Romeo,True,12.0,27.706,48.507,26.739,,False,False,8506.162,6,Monaco Grand Prix
+BOT,59.0,102.622,2.0,INTERMEDIATE,8.0,12,True,Alfa Romeo,True,12.0,27.939,48.458,26.225,,False,False,8608.784,6,Monaco Grand Prix
+BOT,60.0,101.926,2.0,INTERMEDIATE,9.0,12,True,Alfa Romeo,True,12.0,27.527,48.281,26.118,,False,False,8710.71,6,Monaco Grand Prix
+BOT,61.0,100.096,2.0,INTERMEDIATE,10.0,1,True,Alfa Romeo,True,12.0,27.163,47.157,25.776,,False,False,8810.806,6,Monaco Grand Prix
+BOT,62.0,99.577,2.0,INTERMEDIATE,11.0,1,True,Alfa Romeo,True,12.0,26.379,47.244,25.954,,False,False,8910.383,6,Monaco Grand Prix
+BOT,63.0,99.237,2.0,INTERMEDIATE,12.0,1,True,Alfa Romeo,True,12.0,26.147,47.093,25.997,,False,False,9009.62,6,Monaco Grand Prix
+BOT,64.0,97.459,2.0,INTERMEDIATE,13.0,1,True,Alfa Romeo,True,12.0,25.976,46.758,24.725,,False,False,9107.079,6,Monaco Grand Prix
+BOT,65.0,96.44,2.0,INTERMEDIATE,14.0,1,True,Alfa Romeo,True,12.0,25.951,46.566,23.923,,False,False,9203.519,6,Monaco Grand Prix
+BOT,66.0,95.048,2.0,INTERMEDIATE,15.0,1,True,Alfa Romeo,True,12.0,25.389,45.979,23.68,,False,False,9298.567,6,Monaco Grand Prix
+BOT,67.0,95.077,2.0,INTERMEDIATE,16.0,1,True,Alfa Romeo,True,12.0,25.353,46.126,23.598,,False,False,9393.644,6,Monaco Grand Prix
+BOT,68.0,94.038,2.0,INTERMEDIATE,17.0,12,True,Alfa Romeo,True,11.0,25.934,45.436,22.668,,False,False,9487.682,6,Monaco Grand Prix
+BOT,69.0,90.766,2.0,INTERMEDIATE,18.0,1,True,Alfa Romeo,True,11.0,24.5,43.901,22.365,,False,False,9578.448,6,Monaco Grand Prix
+BOT,70.0,92.495,2.0,INTERMEDIATE,19.0,1,True,Alfa Romeo,True,11.0,24.739,44.728,23.028,,False,False,9670.943,6,Monaco Grand Prix
+BOT,71.0,91.967,2.0,INTERMEDIATE,20.0,1,True,Alfa Romeo,True,11.0,23.954,43.861,24.152,,False,False,9762.91,6,Monaco Grand Prix
+BOT,72.0,92.025,2.0,INTERMEDIATE,21.0,1,True,Alfa Romeo,True,11.0,25.944,44.086,21.995,,False,False,9854.935,6,Monaco Grand Prix
+BOT,73.0,87.23,2.0,INTERMEDIATE,22.0,1,True,Alfa Romeo,True,11.0,23.101,42.143,21.986,,False,False,9942.165,6,Monaco Grand Prix
+BOT,74.0,86.646,2.0,INTERMEDIATE,23.0,1,True,Alfa Romeo,True,11.0,22.729,42.112,21.805,,False,False,10028.811,6,Monaco Grand Prix
+BOT,75.0,86.553,2.0,INTERMEDIATE,24.0,1,True,Alfa Romeo,True,11.0,22.233,42.532,21.788,,False,False,10115.364,6,Monaco Grand Prix
+BOT,76.0,84.637,2.0,INTERMEDIATE,25.0,1,True,Alfa Romeo,True,11.0,22.168,40.892,21.577,,False,False,10200.001,6,Monaco Grand Prix
+BOT,77.0,84.139,2.0,INTERMEDIATE,26.0,1,True,Alfa Romeo,True,11.0,21.993,40.374,21.772,,False,False,10284.14,6,Monaco Grand Prix
+PIA,1.0,93.07,1.0,HARD,1.0,12,False,McLaren,True,11.0,,39.733,22.494,,False,False,3816.267,6,Monaco Grand Prix
+PIA,2.0,81.804,1.0,HARD,2.0,1,True,McLaren,True,11.0,21.564,38.007,22.233,,False,False,3898.071,6,Monaco Grand Prix
+PIA,3.0,80.532,1.0,HARD,3.0,1,True,McLaren,True,11.0,21.302,37.796,21.434,,False,False,3978.603,6,Monaco Grand Prix
+PIA,4.0,80.408,1.0,HARD,4.0,1,True,McLaren,True,11.0,21.304,37.608,21.496,,False,False,4059.011,6,Monaco Grand Prix
+PIA,5.0,79.707,1.0,HARD,5.0,1,True,McLaren,True,11.0,21.183,37.468,21.056,,False,False,4138.718,6,Monaco Grand Prix
+PIA,6.0,79.247,1.0,HARD,6.0,1,True,McLaren,True,11.0,20.855,37.333,21.059,,False,False,4217.965,6,Monaco Grand Prix
+PIA,7.0,78.869,1.0,HARD,7.0,1,True,McLaren,True,11.0,20.947,36.956,20.966,,False,False,4296.834,6,Monaco Grand Prix
+PIA,8.0,78.828,1.0,HARD,8.0,1,True,McLaren,True,11.0,20.786,36.845,21.197,,False,False,4375.662,6,Monaco Grand Prix
+PIA,9.0,79.346,1.0,HARD,9.0,1,True,McLaren,True,11.0,20.901,37.075,21.37,,False,False,4455.008,6,Monaco Grand Prix
+PIA,10.0,79.015,1.0,HARD,10.0,1,True,McLaren,True,11.0,20.936,36.939,21.14,,False,False,4534.023,6,Monaco Grand Prix
+PIA,11.0,78.9,1.0,HARD,11.0,1,True,McLaren,True,11.0,20.765,37.202,20.933,,False,False,4612.923,6,Monaco Grand Prix
+PIA,12.0,80.302,1.0,HARD,12.0,12,True,McLaren,True,11.0,21.552,37.594,21.156,,False,False,4693.225,6,Monaco Grand Prix
+PIA,13.0,79.265,1.0,HARD,13.0,1,True,McLaren,True,11.0,20.952,37.195,21.118,,False,False,4772.49,6,Monaco Grand Prix
+PIA,14.0,79.285,1.0,HARD,14.0,12,True,McLaren,True,11.0,20.813,37.234,21.238,,False,False,4851.775,6,Monaco Grand Prix
+PIA,15.0,79.134,1.0,HARD,15.0,1,True,McLaren,True,11.0,20.742,37.26,21.132,,False,False,4930.909,6,Monaco Grand Prix
+PIA,16.0,78.718,1.0,HARD,16.0,1,True,McLaren,True,11.0,20.592,37.141,20.985,,False,False,5009.627,6,Monaco Grand Prix
+PIA,17.0,79.053,1.0,HARD,17.0,1,True,McLaren,True,11.0,20.832,37.231,20.99,,False,False,5088.68,6,Monaco Grand Prix
+PIA,18.0,78.765,1.0,HARD,18.0,1,True,McLaren,True,11.0,20.812,36.966,20.987,,False,False,5167.445,6,Monaco Grand Prix
+PIA,19.0,79.416,1.0,HARD,19.0,1,True,McLaren,True,11.0,20.835,37.428,21.153,,False,False,5246.861,6,Monaco Grand Prix
+PIA,20.0,79.281,1.0,HARD,20.0,1,True,McLaren,True,11.0,20.796,37.476,21.009,,False,False,5326.142,6,Monaco Grand Prix
+PIA,21.0,79.065,1.0,HARD,21.0,1,True,McLaren,True,11.0,20.576,37.371,21.118,,False,False,5405.207,6,Monaco Grand Prix
+PIA,22.0,79.025,1.0,HARD,22.0,1,True,McLaren,True,11.0,20.766,37.253,21.006,,False,False,5484.232,6,Monaco Grand Prix
+PIA,23.0,79.52,1.0,HARD,23.0,1,True,McLaren,True,11.0,20.913,37.491,21.116,,False,False,5563.752,6,Monaco Grand Prix
+PIA,24.0,79.359,1.0,HARD,24.0,1,True,McLaren,True,11.0,20.746,37.442,21.171,,False,False,5643.111,6,Monaco Grand Prix
+PIA,25.0,79.382,1.0,HARD,25.0,1,True,McLaren,True,11.0,20.679,37.257,21.446,,False,False,5722.493,6,Monaco Grand Prix
+PIA,26.0,80.198,1.0,HARD,26.0,1,True,McLaren,True,11.0,21.22,37.599,21.379,,False,False,5802.691,6,Monaco Grand Prix
+PIA,27.0,79.524,1.0,HARD,27.0,1,True,McLaren,True,11.0,20.925,37.419,21.18,,False,False,5882.215,6,Monaco Grand Prix
+PIA,28.0,78.485,1.0,HARD,28.0,1,True,McLaren,True,11.0,20.446,37.152,20.887,,False,False,5960.7,6,Monaco Grand Prix
+PIA,29.0,78.335,1.0,HARD,29.0,1,True,McLaren,True,11.0,20.454,36.799,21.082,,False,False,6039.035,6,Monaco Grand Prix
+PIA,30.0,78.363,1.0,HARD,30.0,1,True,McLaren,True,11.0,20.53,36.971,20.862,,False,False,6117.398,6,Monaco Grand Prix
+PIA,31.0,78.115,1.0,HARD,31.0,1,True,McLaren,True,11.0,20.424,36.643,21.048,,False,False,6195.513,6,Monaco Grand Prix
+PIA,32.0,78.39,1.0,HARD,32.0,1,True,McLaren,True,11.0,20.402,36.929,21.059,,False,False,6273.903,6,Monaco Grand Prix
+PIA,33.0,78.259,1.0,HARD,33.0,1,True,McLaren,True,11.0,20.643,36.927,20.689,,False,False,6352.162,6,Monaco Grand Prix
+PIA,34.0,78.311,1.0,HARD,34.0,1,True,McLaren,True,11.0,20.6,36.996,20.715,,False,False,6430.473,6,Monaco Grand Prix
+PIA,35.0,78.328,1.0,HARD,35.0,1,True,McLaren,True,11.0,20.331,37.297,20.7,,False,False,6508.801,6,Monaco Grand Prix
+PIA,36.0,77.701,1.0,HARD,36.0,1,True,McLaren,True,11.0,20.426,36.696,20.579,,False,False,6586.502,6,Monaco Grand Prix
+PIA,37.0,77.842,1.0,HARD,37.0,1,True,McLaren,True,11.0,20.313,36.785,20.744,,False,False,6664.344,6,Monaco Grand Prix
+PIA,38.0,77.73,1.0,HARD,38.0,1,True,McLaren,True,11.0,20.191,36.823,20.716,,False,False,6742.074,6,Monaco Grand Prix
+PIA,39.0,77.873,1.0,HARD,39.0,1,True,McLaren,True,11.0,20.319,36.839,20.715,,False,False,6819.947,6,Monaco Grand Prix
+PIA,40.0,78.184,1.0,HARD,40.0,1,True,McLaren,True,11.0,20.215,37.096,20.873,,False,False,6898.131,6,Monaco Grand Prix
+PIA,41.0,78.555,1.0,HARD,41.0,1,True,McLaren,True,11.0,20.499,37.256,20.8,,False,False,6976.686,6,Monaco Grand Prix
+PIA,42.0,78.065,1.0,HARD,42.0,1,True,McLaren,True,11.0,20.161,37.094,20.81,,False,False,7054.751,6,Monaco Grand Prix
+PIA,43.0,78.148,1.0,HARD,43.0,1,True,McLaren,True,11.0,20.201,37.275,20.672,,False,False,7132.899,6,Monaco Grand Prix
+PIA,44.0,78.041,1.0,HARD,44.0,1,True,McLaren,True,11.0,20.106,36.87,21.065,,False,False,7210.94,6,Monaco Grand Prix
+PIA,45.0,77.846,1.0,HARD,45.0,1,True,McLaren,True,11.0,20.162,37.047,20.637,,False,False,7288.786,6,Monaco Grand Prix
+PIA,46.0,77.516,1.0,HARD,46.0,1,True,McLaren,True,11.0,20.001,36.857,20.658,,False,False,7366.302,6,Monaco Grand Prix
+PIA,47.0,77.513,1.0,HARD,47.0,1,True,McLaren,True,11.0,20.021,36.724,20.768,,False,False,7443.815,6,Monaco Grand Prix
+PIA,48.0,78.001,1.0,HARD,48.0,1,True,McLaren,True,11.0,20.053,37.002,20.946,,False,False,7521.816,6,Monaco Grand Prix
+PIA,49.0,81.248,1.0,HARD,49.0,1,True,McLaren,True,11.0,22.73,37.716,20.802,,False,False,7603.064,6,Monaco Grand Prix
+PIA,50.0,78.201,1.0,HARD,50.0,1,True,McLaren,True,10.0,20.341,37.038,20.822,,False,False,7681.265,6,Monaco Grand Prix
+PIA,51.0,83.586,1.0,HARD,51.0,1,True,McLaren,True,10.0,20.462,40.814,22.31,,False,False,7764.851,6,Monaco Grand Prix
+PIA,52.0,89.897,1.0,HARD,52.0,1,True,McLaren,True,10.0,23.304,44.221,22.372,,False,False,7854.748,6,Monaco Grand Prix
+PIA,53.0,96.843,1.0,HARD,53.0,1,True,McLaren,True,9.0,24.167,48.236,24.44,,False,False,7951.591,6,Monaco Grand Prix
+PIA,54.0,131.859,1.0,HARD,54.0,12,False,McLaren,True,10.0,28.425,55.684,47.75,,True,False,8083.45,6,Monaco Grand Prix
+PIA,55.0,106.026,2.0,INTERMEDIATE,1.0,21,False,McLaren,True,10.0,29.59,49.407,27.029,,False,True,8189.476,6,Monaco Grand Prix
+PIA,56.0,103.482,2.0,INTERMEDIATE,2.0,1,True,McLaren,True,10.0,27.172,49.378,26.932,,False,False,8292.958,6,Monaco Grand Prix
+PIA,57.0,103.431,2.0,INTERMEDIATE,3.0,12,True,McLaren,True,10.0,27.159,48.563,27.709,,False,False,8396.389,6,Monaco Grand Prix
+PIA,58.0,103.803,2.0,INTERMEDIATE,4.0,12,True,McLaren,True,11.0,27.147,48.023,28.633,,False,False,8500.192,6,Monaco Grand Prix
+PIA,59.0,102.379,2.0,INTERMEDIATE,5.0,12,True,McLaren,True,11.0,26.85,48.366,27.163,,False,False,8602.571,6,Monaco Grand Prix
+PIA,60.0,101.431,2.0,INTERMEDIATE,6.0,12,True,McLaren,True,11.0,26.216,48.143,27.072,,False,False,8704.002,6,Monaco Grand Prix
+PIA,61.0,101.089,2.0,INTERMEDIATE,7.0,1,True,McLaren,True,11.0,26.091,48.119,26.879,,False,False,8805.091,6,Monaco Grand Prix
+PIA,62.0,99.78,2.0,INTERMEDIATE,8.0,1,True,McLaren,True,11.0,25.797,47.729,26.254,,False,False,8904.871,6,Monaco Grand Prix
+PIA,63.0,98.882,2.0,INTERMEDIATE,9.0,1,True,McLaren,True,11.0,25.575,47.277,26.03,,False,False,9003.753,6,Monaco Grand Prix
+PIA,64.0,98.53,2.0,INTERMEDIATE,10.0,1,True,McLaren,True,11.0,25.372,47.37,25.788,,False,False,9102.283,6,Monaco Grand Prix
+PIA,65.0,97.419,2.0,INTERMEDIATE,11.0,1,True,McLaren,True,11.0,25.36,47.364,24.695,,False,False,9199.702,6,Monaco Grand Prix
+PIA,66.0,94.942,2.0,INTERMEDIATE,12.0,1,True,McLaren,True,11.0,24.678,46.605,23.659,,False,False,9294.644,6,Monaco Grand Prix
+PIA,67.0,96.653,2.0,INTERMEDIATE,13.0,1,True,McLaren,True,11.0,25.552,47.126,23.975,,False,False,9391.297,6,Monaco Grand Prix
+PIA,68.0,91.909,2.0,INTERMEDIATE,14.0,12,True,McLaren,True,10.0,24.353,44.942,22.614,,False,False,9483.206,6,Monaco Grand Prix
+PIA,69.0,91.253,2.0,INTERMEDIATE,15.0,1,True,McLaren,True,10.0,23.797,44.301,23.155,,False,False,9574.459,6,Monaco Grand Prix
+PIA,70.0,88.82,2.0,INTERMEDIATE,16.0,1,True,McLaren,True,10.0,23.5,43.678,21.642,,False,False,9663.279,6,Monaco Grand Prix
+PIA,71.0,87.67,2.0,INTERMEDIATE,17.0,1,True,McLaren,True,10.0,23.498,42.792,21.38,,False,False,9750.949,6,Monaco Grand Prix
+PIA,72.0,88.016,2.0,INTERMEDIATE,18.0,1,True,McLaren,True,10.0,22.935,43.02,22.061,,False,False,9838.965,6,Monaco Grand Prix
+PIA,73.0,87.443,2.0,INTERMEDIATE,19.0,1,True,McLaren,True,10.0,23.295,42.212,21.936,,False,False,9926.408,6,Monaco Grand Prix
+PIA,74.0,86.185,2.0,INTERMEDIATE,20.0,1,True,McLaren,True,10.0,22.381,42.112,21.692,,False,False,10012.593,6,Monaco Grand Prix
+PIA,75.0,86.143,2.0,INTERMEDIATE,21.0,1,True,McLaren,True,10.0,22.061,42.272,21.81,,False,False,10098.736,6,Monaco Grand Prix
+PIA,76.0,85.615,2.0,INTERMEDIATE,22.0,1,True,McLaren,True,10.0,21.991,41.496,22.128,,False,False,10184.351,6,Monaco Grand Prix
+PIA,77.0,84.785,2.0,INTERMEDIATE,23.0,1,True,McLaren,True,10.0,21.97,40.944,21.871,,False,False,10269.136,6,Monaco Grand Prix

@@ -1,0 +1,1380 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,85.253,1.0,SOFT,4.0,1,False,Red Bull Racing,False,1.0,,32.168,21.194,,False,False,3812.254,20,Mexico City Grand Prix
+VER,2.0,83.247,1.0,SOFT,5.0,1,True,Red Bull Racing,False,1.0,29.506,32.501,21.24,,False,False,3895.501,20,Mexico City Grand Prix
+VER,3.0,83.079,1.0,SOFT,6.0,1,True,Red Bull Racing,False,1.0,29.441,32.347,21.291,,False,False,3978.58,20,Mexico City Grand Prix
+VER,4.0,83.566,1.0,SOFT,7.0,1,True,Red Bull Racing,False,1.0,29.61,32.502,21.454,,False,False,4062.146,20,Mexico City Grand Prix
+VER,5.0,83.226,1.0,SOFT,8.0,1,True,Red Bull Racing,False,1.0,29.522,32.386,21.318,,False,False,4145.372,20,Mexico City Grand Prix
+VER,6.0,83.294,1.0,SOFT,9.0,1,True,Red Bull Racing,False,1.0,29.673,32.209,21.412,,False,False,4228.666,20,Mexico City Grand Prix
+VER,7.0,83.115,1.0,SOFT,10.0,1,True,Red Bull Racing,False,1.0,29.521,32.183,21.411,,False,False,4311.781,20,Mexico City Grand Prix
+VER,8.0,83.292,1.0,SOFT,11.0,1,True,Red Bull Racing,False,1.0,29.577,32.221,21.494,,False,False,4395.073,20,Mexico City Grand Prix
+VER,9.0,83.246,1.0,SOFT,12.0,1,True,Red Bull Racing,False,1.0,29.558,32.243,21.445,,False,False,4478.319,20,Mexico City Grand Prix
+VER,10.0,83.257,1.0,SOFT,13.0,1,True,Red Bull Racing,False,1.0,29.483,32.321,21.453,,False,False,4561.576,20,Mexico City Grand Prix
+VER,11.0,83.164,1.0,SOFT,14.0,1,True,Red Bull Racing,False,1.0,29.547,32.138,21.479,,False,False,4644.74,20,Mexico City Grand Prix
+VER,12.0,83.076,1.0,SOFT,15.0,1,True,Red Bull Racing,False,1.0,29.488,32.113,21.475,,False,False,4727.816,20,Mexico City Grand Prix
+VER,13.0,83.109,1.0,SOFT,16.0,1,True,Red Bull Racing,False,1.0,29.517,32.163,21.429,,False,False,4810.925,20,Mexico City Grand Prix
+VER,14.0,83.056,1.0,SOFT,17.0,1,True,Red Bull Racing,False,1.0,29.453,32.166,21.437,,False,False,4893.981,20,Mexico City Grand Prix
+VER,15.0,82.971,1.0,SOFT,18.0,1,True,Red Bull Racing,False,1.0,29.447,32.05,21.474,,False,False,4976.952,20,Mexico City Grand Prix
+VER,16.0,83.076,1.0,SOFT,19.0,1,True,Red Bull Racing,False,1.0,29.449,32.115,21.512,,False,False,5060.028,20,Mexico City Grand Prix
+VER,17.0,83.161,1.0,SOFT,20.0,1,True,Red Bull Racing,False,1.0,29.448,32.161,21.552,,False,False,5143.189,20,Mexico City Grand Prix
+VER,18.0,83.288,1.0,SOFT,21.0,1,True,Red Bull Racing,False,1.0,29.496,32.16,21.632,,False,False,5226.477,20,Mexico City Grand Prix
+VER,19.0,83.432,1.0,SOFT,22.0,1,True,Red Bull Racing,False,1.0,29.391,32.36,21.681,,False,False,5309.909,20,Mexico City Grand Prix
+VER,20.0,83.674,1.0,SOFT,23.0,1,True,Red Bull Racing,False,1.0,29.501,32.388,21.785,,False,False,5393.583,20,Mexico City Grand Prix
+VER,21.0,83.295,1.0,SOFT,24.0,1,True,Red Bull Racing,False,1.0,29.364,32.353,21.578,,False,False,5476.878,20,Mexico City Grand Prix
+VER,22.0,83.597,1.0,SOFT,25.0,1,True,Red Bull Racing,False,1.0,29.37,32.488,21.739,,False,False,5560.475,20,Mexico City Grand Prix
+VER,23.0,83.655,1.0,SOFT,26.0,1,True,Red Bull Racing,False,1.0,29.424,32.507,21.724,,False,False,5644.13,20,Mexico City Grand Prix
+VER,24.0,83.861,1.0,SOFT,27.0,1,True,Red Bull Racing,False,1.0,29.435,32.581,21.845,,False,False,5727.991,20,Mexico City Grand Prix
+VER,25.0,86.845,1.0,SOFT,28.0,1,False,Red Bull Racing,False,2.0,29.436,32.641,24.768,,True,False,5814.836,20,Mexico City Grand Prix
+VER,26.0,101.339,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,3.0,48.237,31.908,21.194,,False,True,5916.175,20,Mexico City Grand Prix
+VER,27.0,82.494,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,3.0,29.26,31.947,21.287,,False,False,5998.669,20,Mexico City Grand Prix
+VER,28.0,82.54,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,3.0,29.203,31.971,21.366,,False,False,6081.209,20,Mexico City Grand Prix
+VER,29.0,82.472,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,3.0,29.125,32.212,21.135,,False,False,6163.681,20,Mexico City Grand Prix
+VER,30.0,82.289,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,2.0,29.158,31.918,21.213,,False,False,6245.97,20,Mexico City Grand Prix
+VER,31.0,82.365,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,2.0,29.12,31.93,21.315,,False,False,6328.335,20,Mexico City Grand Prix
+VER,32.0,82.166,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,2.0,29.107,31.822,21.237,,False,False,6410.501,20,Mexico City Grand Prix
+VER,33.0,82.316,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,2.0,29.127,32.045,21.144,,False,False,6492.817,20,Mexico City Grand Prix
+VER,34.0,82.188,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,2.0,29.147,31.806,21.235,,False,False,6575.005,20,Mexico City Grand Prix
+VER,35.0,82.054,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,1.0,29.132,31.757,21.165,,False,False,6657.059,20,Mexico City Grand Prix
+VER,36.0,82.046,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,29.174,31.718,21.154,,False,False,6739.105,20,Mexico City Grand Prix
+VER,37.0,82.329,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,1.0,29.085,32.147,21.097,,False,False,6821.434,20,Mexico City Grand Prix
+VER,38.0,82.685,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,1.0,29.16,31.925,21.6,,False,False,6904.119,20,Mexico City Grand Prix
+VER,39.0,82.382,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,1.0,29.194,31.883,21.305,,False,False,6986.501,20,Mexico City Grand Prix
+VER,40.0,82.466,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,29.194,31.792,21.48,,False,False,7068.967,20,Mexico City Grand Prix
+VER,41.0,82.436,2.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,29.241,31.82,21.375,,False,False,7151.403,20,Mexico City Grand Prix
+VER,42.0,82.465,2.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,29.175,31.935,21.355,,False,False,7233.868,20,Mexico City Grand Prix
+VER,43.0,82.405,2.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,29.222,31.856,21.327,,False,False,7316.273,20,Mexico City Grand Prix
+VER,44.0,82.285,2.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,29.19,31.83,21.265,,False,False,7398.558,20,Mexico City Grand Prix
+VER,45.0,82.426,2.0,MEDIUM,20.0,1,True,Red Bull Racing,True,1.0,29.148,32.071,21.207,,False,False,7480.984,20,Mexico City Grand Prix
+VER,46.0,82.568,2.0,MEDIUM,21.0,1,True,Red Bull Racing,True,1.0,29.026,32.043,21.499,,False,False,7563.552,20,Mexico City Grand Prix
+VER,47.0,82.468,2.0,MEDIUM,22.0,1,True,Red Bull Racing,True,1.0,29.131,31.962,21.375,,False,False,7646.02,20,Mexico City Grand Prix
+VER,48.0,82.733,2.0,MEDIUM,23.0,1,True,Red Bull Racing,True,1.0,29.128,32.25,21.355,,False,False,7728.753,20,Mexico City Grand Prix
+VER,49.0,82.544,2.0,MEDIUM,24.0,1,True,Red Bull Racing,True,1.0,29.099,32.137,21.308,,False,False,7811.297,20,Mexico City Grand Prix
+VER,50.0,82.576,2.0,MEDIUM,25.0,1,True,Red Bull Racing,True,1.0,29.028,32.17,21.378,,False,False,7893.873,20,Mexico City Grand Prix
+VER,51.0,82.308,2.0,MEDIUM,26.0,1,True,Red Bull Racing,True,1.0,29.162,31.831,21.315,,False,False,7976.181,20,Mexico City Grand Prix
+VER,52.0,82.497,2.0,MEDIUM,27.0,1,True,Red Bull Racing,True,1.0,29.2,31.908,21.389,,False,False,8058.678,20,Mexico City Grand Prix
+VER,53.0,82.502,2.0,MEDIUM,28.0,1,True,Red Bull Racing,True,1.0,29.195,31.928,21.379,,False,False,8141.18,20,Mexico City Grand Prix
+VER,54.0,82.515,2.0,MEDIUM,29.0,1,True,Red Bull Racing,True,1.0,29.138,32.01,21.367,,False,False,8223.695,20,Mexico City Grand Prix
+VER,55.0,82.786,2.0,MEDIUM,30.0,1,True,Red Bull Racing,True,1.0,29.298,32.078,21.41,,False,False,8306.481,20,Mexico City Grand Prix
+VER,56.0,82.105,2.0,MEDIUM,31.0,1,True,Red Bull Racing,True,1.0,29.09,31.846,21.169,,False,False,8388.586,20,Mexico City Grand Prix
+VER,57.0,82.425,2.0,MEDIUM,32.0,1,True,Red Bull Racing,True,1.0,29.286,31.83,21.309,,False,False,8471.011,20,Mexico City Grand Prix
+VER,58.0,82.313,2.0,MEDIUM,33.0,1,True,Red Bull Racing,True,1.0,29.149,31.912,21.252,,False,False,8553.324,20,Mexico City Grand Prix
+VER,59.0,82.428,2.0,MEDIUM,34.0,1,True,Red Bull Racing,True,1.0,29.196,31.925,21.307,,False,False,8635.752,20,Mexico City Grand Prix
+VER,60.0,82.698,2.0,MEDIUM,35.0,1,True,Red Bull Racing,True,1.0,29.215,32.068,21.415,,False,False,8718.45,20,Mexico City Grand Prix
+VER,61.0,82.4,2.0,MEDIUM,36.0,1,True,Red Bull Racing,True,1.0,29.152,31.93,21.318,,False,False,8800.85,20,Mexico City Grand Prix
+VER,62.0,82.51,2.0,MEDIUM,37.0,1,True,Red Bull Racing,True,1.0,29.131,31.963,21.416,,False,False,8883.36,20,Mexico City Grand Prix
+VER,63.0,82.72,2.0,MEDIUM,38.0,1,True,Red Bull Racing,True,1.0,29.213,32.102,21.405,,False,False,8966.08,20,Mexico City Grand Prix
+VER,64.0,82.476,2.0,MEDIUM,39.0,1,True,Red Bull Racing,True,1.0,29.135,31.9,21.441,,False,False,9048.556,20,Mexico City Grand Prix
+VER,65.0,89.023,2.0,MEDIUM,40.0,126,False,Red Bull Racing,True,1.0,29.239,31.999,27.785,,False,False,9137.579,20,Mexico City Grand Prix
+VER,66.0,92.908,2.0,MEDIUM,41.0,671,False,Red Bull Racing,True,1.0,38.392,33.05,21.466,,False,False,9230.487,20,Mexico City Grand Prix
+VER,67.0,82.302,2.0,MEDIUM,42.0,1,True,Red Bull Racing,True,1.0,29.13,31.836,21.336,,False,False,9312.789,20,Mexico City Grand Prix
+VER,68.0,82.549,2.0,MEDIUM,43.0,1,True,Red Bull Racing,True,1.0,29.16,32.022,21.367,,False,False,9395.338,20,Mexico City Grand Prix
+VER,69.0,82.794,2.0,MEDIUM,44.0,1,True,Red Bull Racing,True,1.0,29.158,32.226,21.41,,False,False,9478.132,20,Mexico City Grand Prix
+VER,70.0,82.681,2.0,MEDIUM,45.0,1,True,Red Bull Racing,True,1.0,29.141,32.154,21.386,,False,False,9560.813,20,Mexico City Grand Prix
+VER,71.0,82.917,2.0,MEDIUM,46.0,1,True,Red Bull Racing,True,1.0,29.249,32.121,21.547,,False,False,9643.73,20,Mexico City Grand Prix
+GAS,1.0,95.417,1.0,MEDIUM,1.0,1,False,AlphaTauri,True,16.0,,36.364,22.822,,False,False,3822.418,20,Mexico City Grand Prix
+GAS,2.0,86.197,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,16.0,30.043,33.981,22.173,,False,False,3908.615,20,Mexico City Grand Prix
+GAS,3.0,86.285,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,16.0,29.77,34.29,22.225,,False,False,3994.9,20,Mexico City Grand Prix
+GAS,4.0,85.87,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,16.0,29.38,34.268,22.222,,False,False,4080.77,20,Mexico City Grand Prix
+GAS,5.0,85.322,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,16.0,29.374,33.763,22.185,,False,False,4166.092,20,Mexico City Grand Prix
+GAS,6.0,84.622,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,16.0,29.18,33.555,21.887,,False,False,4250.714,20,Mexico City Grand Prix
+GAS,7.0,85.334,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,16.0,29.451,33.903,21.98,,False,False,4336.048,20,Mexico City Grand Prix
+GAS,8.0,85.472,1.0,MEDIUM,8.0,1,True,AlphaTauri,True,16.0,29.515,33.803,22.154,,False,False,4421.52,20,Mexico City Grand Prix
+GAS,9.0,85.934,1.0,MEDIUM,9.0,1,True,AlphaTauri,True,16.0,29.904,33.926,22.104,,False,False,4507.454,20,Mexico City Grand Prix
+GAS,10.0,85.042,1.0,MEDIUM,10.0,1,True,AlphaTauri,True,16.0,29.656,33.358,22.028,,False,False,4592.496,20,Mexico City Grand Prix
+GAS,11.0,85.1,1.0,MEDIUM,11.0,1,True,AlphaTauri,True,16.0,29.271,33.599,22.23,,False,False,4677.596,20,Mexico City Grand Prix
+GAS,12.0,84.951,1.0,MEDIUM,12.0,1,True,AlphaTauri,True,16.0,29.528,33.406,22.017,,False,False,4762.547,20,Mexico City Grand Prix
+GAS,13.0,86.906,1.0,MEDIUM,13.0,1,True,AlphaTauri,True,15.0,29.603,35.243,22.06,,False,False,4849.453,20,Mexico City Grand Prix
+GAS,14.0,84.587,1.0,MEDIUM,14.0,1,True,AlphaTauri,True,15.0,29.718,33.098,21.771,,False,False,4934.04,20,Mexico City Grand Prix
+GAS,15.0,84.446,1.0,MEDIUM,15.0,1,True,AlphaTauri,True,15.0,29.479,33.14,21.827,,False,False,5018.486,20,Mexico City Grand Prix
+GAS,16.0,84.679,1.0,MEDIUM,16.0,1,True,AlphaTauri,True,15.0,29.636,33.072,21.971,,False,False,5103.165,20,Mexico City Grand Prix
+GAS,17.0,84.621,1.0,MEDIUM,17.0,1,True,AlphaTauri,True,15.0,29.605,33.069,21.947,,False,False,5187.786,20,Mexico City Grand Prix
+GAS,18.0,85.048,1.0,MEDIUM,18.0,1,True,AlphaTauri,True,15.0,29.623,33.126,22.299,,False,False,5272.834,20,Mexico City Grand Prix
+GAS,19.0,84.923,1.0,MEDIUM,19.0,1,True,AlphaTauri,True,15.0,29.593,33.254,22.076,,False,False,5357.757,20,Mexico City Grand Prix
+GAS,20.0,84.532,1.0,MEDIUM,20.0,1,True,AlphaTauri,True,15.0,29.466,33.124,21.942,,False,False,5442.289,20,Mexico City Grand Prix
+GAS,21.0,84.756,1.0,MEDIUM,21.0,1,True,AlphaTauri,True,15.0,29.425,33.378,21.953,,False,False,5527.045,20,Mexico City Grand Prix
+GAS,22.0,84.691,1.0,MEDIUM,22.0,1,True,AlphaTauri,True,15.0,29.489,33.22,21.982,,False,False,5611.736,20,Mexico City Grand Prix
+GAS,23.0,84.895,1.0,MEDIUM,23.0,1,True,AlphaTauri,True,15.0,29.547,33.424,21.924,,False,False,5696.631,20,Mexico City Grand Prix
+GAS,24.0,84.896,1.0,MEDIUM,24.0,1,True,AlphaTauri,True,15.0,29.518,33.295,22.083,,False,False,5781.527,20,Mexico City Grand Prix
+GAS,25.0,84.998,1.0,MEDIUM,25.0,1,True,AlphaTauri,True,15.0,29.556,33.403,22.039,,False,False,5866.525,20,Mexico City Grand Prix
+GAS,26.0,85.01,1.0,MEDIUM,26.0,1,True,AlphaTauri,True,15.0,29.489,33.423,22.098,,False,False,5951.535,20,Mexico City Grand Prix
+GAS,27.0,84.913,1.0,MEDIUM,27.0,1,True,AlphaTauri,True,15.0,29.563,33.378,21.972,,False,False,6036.448,20,Mexico City Grand Prix
+GAS,28.0,84.788,1.0,MEDIUM,28.0,1,True,AlphaTauri,True,15.0,29.417,33.362,22.009,,False,False,6121.236,20,Mexico City Grand Prix
+GAS,29.0,84.747,1.0,MEDIUM,29.0,1,True,AlphaTauri,True,15.0,29.473,33.355,21.919,,False,False,6205.983,20,Mexico City Grand Prix
+GAS,30.0,85.024,1.0,MEDIUM,30.0,1,True,AlphaTauri,True,14.0,29.368,33.732,21.924,,False,False,6291.007,20,Mexico City Grand Prix
+GAS,31.0,84.992,1.0,MEDIUM,31.0,1,True,AlphaTauri,True,14.0,29.455,33.557,21.98,,False,False,6375.999,20,Mexico City Grand Prix
+GAS,32.0,84.961,1.0,MEDIUM,32.0,1,True,AlphaTauri,True,13.0,29.48,33.517,21.964,,False,False,6460.96,20,Mexico City Grand Prix
+GAS,33.0,85.061,1.0,MEDIUM,33.0,1,True,AlphaTauri,True,13.0,29.582,33.495,21.984,,False,False,6546.021,20,Mexico City Grand Prix
+GAS,34.0,84.938,1.0,MEDIUM,34.0,1,True,AlphaTauri,True,12.0,29.504,33.483,21.951,,False,False,6630.959,20,Mexico City Grand Prix
+GAS,35.0,84.934,1.0,MEDIUM,35.0,1,True,AlphaTauri,True,12.0,29.528,33.417,21.989,,False,False,6715.893,20,Mexico City Grand Prix
+GAS,36.0,84.857,1.0,MEDIUM,36.0,1,True,AlphaTauri,True,12.0,29.492,33.387,21.978,,False,False,6800.75,20,Mexico City Grand Prix
+GAS,37.0,84.935,1.0,MEDIUM,37.0,1,True,AlphaTauri,True,12.0,29.466,33.366,22.103,,False,False,6885.685,20,Mexico City Grand Prix
+GAS,38.0,85.872,1.0,MEDIUM,38.0,1,True,AlphaTauri,True,12.0,30.031,33.66,22.181,,False,False,6971.557,20,Mexico City Grand Prix
+GAS,39.0,85.351,1.0,MEDIUM,39.0,1,True,AlphaTauri,True,12.0,29.484,33.546,22.321,,False,False,7056.908,20,Mexico City Grand Prix
+GAS,40.0,88.285,1.0,MEDIUM,40.0,1,False,AlphaTauri,True,14.0,29.533,33.344,25.408,,True,False,7145.193,20,Mexico City Grand Prix
+GAS,41.0,109.022,2.0,SOFT,1.0,1,False,AlphaTauri,True,16.0,54.95,32.627,21.445,,False,True,7254.215,20,Mexico City Grand Prix
+GAS,42.0,82.277,2.0,SOFT,2.0,1,True,AlphaTauri,True,16.0,28.946,32.125,21.206,,False,False,7336.492,20,Mexico City Grand Prix
+GAS,43.0,82.568,2.0,SOFT,3.0,1,True,AlphaTauri,True,16.0,28.982,32.302,21.284,,False,False,7419.06,20,Mexico City Grand Prix
+GAS,44.0,82.562,2.0,SOFT,4.0,1,True,AlphaTauri,True,16.0,29.065,32.242,21.255,,False,False,7501.622,20,Mexico City Grand Prix
+GAS,45.0,82.846,2.0,SOFT,5.0,1,True,AlphaTauri,True,16.0,29.02,32.497,21.329,,False,False,7584.468,20,Mexico City Grand Prix
+GAS,46.0,82.674,2.0,SOFT,6.0,1,True,AlphaTauri,True,15.0,28.993,32.322,21.359,,False,False,7667.142,20,Mexico City Grand Prix
+GAS,47.0,83.124,2.0,SOFT,7.0,1,True,AlphaTauri,True,15.0,29.101,32.592,21.431,,False,False,7750.266,20,Mexico City Grand Prix
+GAS,48.0,82.95,2.0,SOFT,8.0,1,True,AlphaTauri,True,15.0,28.71,32.654,21.586,,False,False,7833.216,20,Mexico City Grand Prix
+GAS,49.0,82.975,2.0,SOFT,9.0,1,True,AlphaTauri,True,15.0,28.813,32.627,21.535,,False,False,7916.191,20,Mexico City Grand Prix
+GAS,50.0,84.872,2.0,SOFT,10.0,1,True,AlphaTauri,True,14.0,29.2,33.682,21.99,,False,False,8001.063,20,Mexico City Grand Prix
+GAS,51.0,84.135,2.0,SOFT,11.0,1,True,AlphaTauri,True,14.0,29.379,32.961,21.795,,False,False,8085.198,20,Mexico City Grand Prix
+GAS,52.0,83.623,2.0,SOFT,12.0,1,True,AlphaTauri,True,14.0,29.021,33.072,21.53,,False,False,8168.821,20,Mexico City Grand Prix
+GAS,53.0,84.904,2.0,SOFT,13.0,1,True,AlphaTauri,True,13.0,29.13,34.067,21.707,,False,False,8253.725,20,Mexico City Grand Prix
+GAS,54.0,83.076,2.0,SOFT,14.0,1,True,AlphaTauri,True,13.0,29.287,32.425,21.364,,False,False,8336.801,20,Mexico City Grand Prix
+GAS,55.0,82.875,2.0,SOFT,15.0,1,True,AlphaTauri,True,13.0,29.143,32.22,21.512,,False,False,8419.676,20,Mexico City Grand Prix
+GAS,56.0,82.91,2.0,SOFT,16.0,1,True,AlphaTauri,True,13.0,28.97,32.414,21.526,,False,False,8502.586,20,Mexico City Grand Prix
+GAS,57.0,82.842,2.0,SOFT,17.0,1,True,AlphaTauri,True,13.0,29.098,32.241,21.503,,False,False,8585.428,20,Mexico City Grand Prix
+GAS,58.0,83.061,2.0,SOFT,18.0,1,True,AlphaTauri,True,13.0,29.096,32.455,21.51,,False,False,8668.489,20,Mexico City Grand Prix
+GAS,59.0,83.264,2.0,SOFT,19.0,1,True,AlphaTauri,True,13.0,29.177,32.522,21.565,,False,False,8751.753,20,Mexico City Grand Prix
+GAS,60.0,83.177,2.0,SOFT,20.0,1,True,AlphaTauri,True,13.0,29.073,32.53,21.574,,False,False,8834.93,20,Mexico City Grand Prix
+GAS,61.0,83.479,2.0,SOFT,21.0,1,True,AlphaTauri,True,13.0,29.142,32.675,21.662,,False,False,8918.409,20,Mexico City Grand Prix
+GAS,62.0,83.519,2.0,SOFT,22.0,1,True,AlphaTauri,True,13.0,29.128,32.594,21.797,,False,False,9001.928,20,Mexico City Grand Prix
+GAS,63.0,83.298,2.0,SOFT,23.0,1,True,AlphaTauri,True,13.0,29.08,32.587,21.631,,False,False,9085.226,20,Mexico City Grand Prix
+GAS,64.0,99.969,2.0,SOFT,24.0,1267,False,AlphaTauri,True,12.0,29.099,43.274,27.596,,False,False,9185.195,20,Mexico City Grand Prix
+GAS,65.0,84.154,2.0,SOFT,25.0,1,True,AlphaTauri,True,12.0,30.044,32.474,21.636,,False,False,9269.349,20,Mexico City Grand Prix
+GAS,66.0,83.094,2.0,SOFT,26.0,1,True,AlphaTauri,True,12.0,28.721,32.706,21.667,,False,False,9352.443,20,Mexico City Grand Prix
+GAS,67.0,83.503,2.0,SOFT,27.0,1,True,AlphaTauri,True,12.0,28.776,32.931,21.796,,False,False,9435.946,20,Mexico City Grand Prix
+GAS,68.0,83.487,2.0,SOFT,28.0,1,True,AlphaTauri,True,11.0,29.008,32.829,21.65,,False,False,9519.433,20,Mexico City Grand Prix
+GAS,69.0,83.45,2.0,SOFT,29.0,1,True,AlphaTauri,True,11.0,29.168,32.604,21.678,,False,False,9602.883,20,Mexico City Grand Prix
+GAS,70.0,83.851,2.0,SOFT,30.0,1,True,AlphaTauri,True,11.0,29.277,32.683,21.891,,False,False,9686.734,20,Mexico City Grand Prix
+PER,1.0,87.95,1.0,SOFT,4.0,1,False,Red Bull Racing,False,3.0,,33.583,21.433,,False,False,3814.951,20,Mexico City Grand Prix
+PER,2.0,83.436,1.0,SOFT,5.0,1,True,Red Bull Racing,False,3.0,29.39,32.52,21.526,,False,False,3898.387,20,Mexico City Grand Prix
+PER,3.0,83.343,1.0,SOFT,6.0,1,True,Red Bull Racing,False,3.0,29.507,32.365,21.471,,False,False,3981.73,20,Mexico City Grand Prix
+PER,4.0,83.207,1.0,SOFT,7.0,1,True,Red Bull Racing,False,3.0,29.242,32.448,21.517,,False,False,4064.937,20,Mexico City Grand Prix
+PER,5.0,83.231,1.0,SOFT,8.0,1,True,Red Bull Racing,False,3.0,29.35,32.367,21.514,,False,False,4148.168,20,Mexico City Grand Prix
+PER,6.0,83.285,1.0,SOFT,9.0,1,True,Red Bull Racing,False,3.0,29.339,32.479,21.467,,False,False,4231.453,20,Mexico City Grand Prix
+PER,7.0,83.409,1.0,SOFT,10.0,1,True,Red Bull Racing,False,3.0,29.484,32.386,21.539,,False,False,4314.862,20,Mexico City Grand Prix
+PER,8.0,83.277,1.0,SOFT,11.0,1,True,Red Bull Racing,False,3.0,29.302,32.406,21.569,,False,False,4398.139,20,Mexico City Grand Prix
+PER,9.0,83.538,1.0,SOFT,12.0,1,True,Red Bull Racing,False,3.0,29.269,32.598,21.671,,False,False,4481.677,20,Mexico City Grand Prix
+PER,10.0,83.761,1.0,SOFT,13.0,1,True,Red Bull Racing,False,3.0,29.418,32.655,21.688,,False,False,4565.438,20,Mexico City Grand Prix
+PER,11.0,83.37,1.0,SOFT,14.0,1,True,Red Bull Racing,False,3.0,29.368,32.335,21.667,,False,False,4648.808,20,Mexico City Grand Prix
+PER,12.0,83.918,1.0,SOFT,15.0,1,True,Red Bull Racing,False,3.0,29.333,32.795,21.79,,False,False,4732.726,20,Mexico City Grand Prix
+PER,13.0,83.202,1.0,SOFT,16.0,1,True,Red Bull Racing,False,3.0,29.331,32.293,21.578,,False,False,4815.928,20,Mexico City Grand Prix
+PER,14.0,83.298,1.0,SOFT,17.0,1,True,Red Bull Racing,False,3.0,29.33,32.404,21.564,,False,False,4899.226,20,Mexico City Grand Prix
+PER,15.0,82.991,1.0,SOFT,18.0,1,True,Red Bull Racing,False,3.0,29.19,32.225,21.576,,False,False,4982.217,20,Mexico City Grand Prix
+PER,16.0,83.29,1.0,SOFT,19.0,1,True,Red Bull Racing,False,3.0,29.301,32.387,21.602,,False,False,5065.507,20,Mexico City Grand Prix
+PER,17.0,83.59,1.0,SOFT,20.0,1,True,Red Bull Racing,False,3.0,29.471,32.418,21.701,,False,False,5149.097,20,Mexico City Grand Prix
+PER,18.0,83.498,1.0,SOFT,21.0,1,True,Red Bull Racing,False,3.0,29.387,32.454,21.657,,False,False,5232.595,20,Mexico City Grand Prix
+PER,19.0,83.533,1.0,SOFT,22.0,1,True,Red Bull Racing,False,3.0,29.321,32.421,21.791,,False,False,5316.128,20,Mexico City Grand Prix
+PER,20.0,83.496,1.0,SOFT,23.0,1,True,Red Bull Racing,False,3.0,29.341,32.377,21.778,,False,False,5399.624,20,Mexico City Grand Prix
+PER,21.0,83.461,1.0,SOFT,24.0,1,True,Red Bull Racing,False,3.0,29.232,32.37,21.859,,False,False,5483.085,20,Mexico City Grand Prix
+PER,22.0,83.566,1.0,SOFT,25.0,1,True,Red Bull Racing,False,3.0,29.32,32.462,21.784,,False,False,5566.651,20,Mexico City Grand Prix
+PER,23.0,87.186,1.0,SOFT,26.0,1,False,Red Bull Racing,False,4.0,29.239,32.644,25.303,,True,False,5653.837,20,Mexico City Grand Prix
+PER,24.0,104.038,2.0,MEDIUM,1.0,1,False,Red Bull Racing,True,6.0,50.648,32.077,21.313,,False,True,5757.875,20,Mexico City Grand Prix
+PER,25.0,81.995,2.0,MEDIUM,2.0,1,True,Red Bull Racing,True,6.0,29.038,31.68,21.277,,False,False,5839.87,20,Mexico City Grand Prix
+PER,26.0,84.557,2.0,MEDIUM,3.0,1,True,Red Bull Racing,True,6.0,29.271,32.854,22.432,,False,False,5924.427,20,Mexico City Grand Prix
+PER,27.0,82.251,2.0,MEDIUM,4.0,1,True,Red Bull Racing,True,5.0,28.644,32.218,21.389,,False,False,6006.678,20,Mexico City Grand Prix
+PER,28.0,82.192,2.0,MEDIUM,5.0,1,True,Red Bull Racing,True,5.0,29.011,31.933,21.248,,False,False,6088.87,20,Mexico City Grand Prix
+PER,29.0,83.818,2.0,MEDIUM,6.0,1,True,Red Bull Racing,True,4.0,29.105,32.668,22.045,,False,False,6172.688,20,Mexico City Grand Prix
+PER,30.0,81.775,2.0,MEDIUM,7.0,1,True,Red Bull Racing,True,4.0,28.421,32.001,21.353,,False,False,6254.463,20,Mexico City Grand Prix
+PER,31.0,82.756,2.0,MEDIUM,8.0,1,True,Red Bull Racing,True,4.0,28.953,32.095,21.708,,False,False,6337.219,20,Mexico City Grand Prix
+PER,32.0,81.82,2.0,MEDIUM,9.0,1,True,Red Bull Racing,True,4.0,28.57,31.912,21.338,,False,False,6419.039,20,Mexico City Grand Prix
+PER,33.0,82.437,2.0,MEDIUM,10.0,1,True,Red Bull Racing,True,4.0,29.083,32.045,21.309,,False,False,6501.476,20,Mexico City Grand Prix
+PER,34.0,82.268,2.0,MEDIUM,11.0,1,True,Red Bull Racing,True,4.0,28.958,31.954,21.356,,False,False,6583.744,20,Mexico City Grand Prix
+PER,35.0,82.277,2.0,MEDIUM,12.0,1,True,Red Bull Racing,True,3.0,29.028,31.998,21.251,,False,False,6666.021,20,Mexico City Grand Prix
+PER,36.0,82.169,2.0,MEDIUM,13.0,1,True,Red Bull Racing,True,3.0,29.078,31.877,21.214,,False,False,6748.19,20,Mexico City Grand Prix
+PER,37.0,82.298,2.0,MEDIUM,14.0,1,True,Red Bull Racing,True,3.0,28.939,31.932,21.427,,False,False,6830.488,20,Mexico City Grand Prix
+PER,38.0,83.023,2.0,MEDIUM,15.0,1,True,Red Bull Racing,True,3.0,29.091,32.138,21.794,,False,False,6913.511,20,Mexico City Grand Prix
+PER,39.0,82.683,2.0,MEDIUM,16.0,1,True,Red Bull Racing,True,3.0,29.08,32.053,21.55,,False,False,6996.194,20,Mexico City Grand Prix
+PER,40.0,83.141,2.0,MEDIUM,17.0,1,True,Red Bull Racing,True,3.0,29.093,32.322,21.726,,False,False,7079.335,20,Mexico City Grand Prix
+PER,41.0,83.441,2.0,MEDIUM,18.0,1,True,Red Bull Racing,True,3.0,29.18,32.42,21.841,,False,False,7162.776,20,Mexico City Grand Prix
+PER,42.0,82.57,2.0,MEDIUM,19.0,1,True,Red Bull Racing,True,3.0,28.908,32.046,21.616,,False,False,7245.346,20,Mexico City Grand Prix
+PER,43.0,82.534,2.0,MEDIUM,20.0,1,True,Red Bull Racing,True,3.0,29.053,32.042,21.439,,False,False,7327.88,20,Mexico City Grand Prix
+PER,44.0,82.18,2.0,MEDIUM,21.0,1,True,Red Bull Racing,True,3.0,28.899,31.945,21.336,,False,False,7410.06,20,Mexico City Grand Prix
+PER,45.0,82.609,2.0,MEDIUM,22.0,1,True,Red Bull Racing,True,3.0,28.997,32.139,21.473,,False,False,7492.669,20,Mexico City Grand Prix
+PER,46.0,82.731,2.0,MEDIUM,23.0,1,True,Red Bull Racing,True,3.0,28.981,32.189,21.561,,False,False,7575.4,20,Mexico City Grand Prix
+PER,47.0,82.652,2.0,MEDIUM,24.0,1,True,Red Bull Racing,True,3.0,29.014,32.164,21.474,,False,False,7658.052,20,Mexico City Grand Prix
+PER,48.0,82.299,2.0,MEDIUM,25.0,1,True,Red Bull Racing,True,3.0,28.928,31.915,21.456,,False,False,7740.351,20,Mexico City Grand Prix
+PER,49.0,82.252,2.0,MEDIUM,26.0,1,True,Red Bull Racing,True,3.0,28.965,31.92,21.367,,False,False,7822.603,20,Mexico City Grand Prix
+PER,50.0,82.554,2.0,MEDIUM,27.0,1,True,Red Bull Racing,True,3.0,28.914,32.109,21.531,,False,False,7905.157,20,Mexico City Grand Prix
+PER,51.0,83.187,2.0,MEDIUM,28.0,1,True,Red Bull Racing,True,3.0,28.971,32.429,21.787,,False,False,7988.344,20,Mexico City Grand Prix
+PER,52.0,82.725,2.0,MEDIUM,29.0,1,True,Red Bull Racing,True,3.0,28.977,32.177,21.571,,False,False,8071.069,20,Mexico City Grand Prix
+PER,53.0,82.558,2.0,MEDIUM,30.0,1,True,Red Bull Racing,True,3.0,28.91,32.107,21.541,,False,False,8153.627,20,Mexico City Grand Prix
+PER,54.0,82.801,2.0,MEDIUM,31.0,1,True,Red Bull Racing,True,3.0,28.898,32.256,21.647,,False,False,8236.428,20,Mexico City Grand Prix
+PER,55.0,83.202,2.0,MEDIUM,32.0,1,True,Red Bull Racing,True,3.0,29.074,32.371,21.757,,False,False,8319.63,20,Mexico City Grand Prix
+PER,56.0,82.526,2.0,MEDIUM,33.0,1,True,Red Bull Racing,True,3.0,28.403,32.345,21.778,,False,False,8402.156,20,Mexico City Grand Prix
+PER,57.0,82.662,2.0,MEDIUM,34.0,1,True,Red Bull Racing,True,3.0,28.94,32.235,21.487,,False,False,8484.818,20,Mexico City Grand Prix
+PER,58.0,82.792,2.0,MEDIUM,35.0,1,True,Red Bull Racing,True,3.0,28.963,32.205,21.624,,False,False,8567.61,20,Mexico City Grand Prix
+PER,59.0,83.125,2.0,MEDIUM,36.0,1,True,Red Bull Racing,True,3.0,29.019,32.33,21.776,,False,False,8650.735,20,Mexico City Grand Prix
+PER,60.0,83.701,2.0,MEDIUM,37.0,1,True,Red Bull Racing,True,3.0,28.956,32.64,22.105,,False,False,8734.436,20,Mexico City Grand Prix
+PER,61.0,82.954,2.0,MEDIUM,38.0,1,True,Red Bull Racing,True,3.0,29.027,32.224,21.703,,False,False,8817.39,20,Mexico City Grand Prix
+PER,62.0,83.328,2.0,MEDIUM,39.0,1,True,Red Bull Racing,True,3.0,28.899,32.689,21.74,,False,False,8900.718,20,Mexico City Grand Prix
+PER,63.0,83.045,2.0,MEDIUM,40.0,1,True,Red Bull Racing,True,3.0,29.062,32.205,21.778,,False,False,8983.763,20,Mexico City Grand Prix
+PER,64.0,82.848,2.0,MEDIUM,41.0,1,True,Red Bull Racing,True,3.0,28.955,32.237,21.656,,False,False,9066.611,20,Mexico City Grand Prix
+PER,65.0,95.91,2.0,MEDIUM,42.0,126,False,Red Bull Racing,True,3.0,28.99,37.2,29.72,,False,False,9162.521,20,Mexico City Grand Prix
+PER,66.0,86.403,2.0,MEDIUM,43.0,671,False,Red Bull Racing,True,3.0,32.937,31.959,21.507,,False,False,9248.924,20,Mexico City Grand Prix
+PER,67.0,82.666,2.0,MEDIUM,44.0,1,True,Red Bull Racing,True,3.0,29.105,32.099,21.462,,False,False,9331.59,20,Mexico City Grand Prix
+PER,68.0,82.321,2.0,MEDIUM,45.0,1,True,Red Bull Racing,True,3.0,28.881,31.98,21.46,,False,False,9413.911,20,Mexico City Grand Prix
+PER,69.0,82.718,2.0,MEDIUM,46.0,1,True,Red Bull Racing,True,3.0,29.034,32.053,21.631,,False,False,9496.629,20,Mexico City Grand Prix
+PER,70.0,82.491,2.0,MEDIUM,47.0,1,True,Red Bull Racing,True,3.0,28.919,32.023,21.549,,False,False,9579.12,20,Mexico City Grand Prix
+PER,71.0,82.707,2.0,MEDIUM,48.0,1,True,Red Bull Racing,True,3.0,28.948,32.144,21.615,,False,False,9661.827,20,Mexico City Grand Prix
+ALO,1.0,91.059,1.0,MEDIUM,1.0,1,False,Alpine,True,7.0,,35.152,22.077,,False,False,3818.06,20,Mexico City Grand Prix
+ALO,2.0,85.187,1.0,MEDIUM,2.0,1,True,Alpine,True,7.0,30.079,33.33,21.778,,False,False,3903.247,20,Mexico City Grand Prix
+ALO,3.0,84.778,1.0,MEDIUM,3.0,1,True,Alpine,True,7.0,30.02,33.112,21.646,,False,False,3988.025,20,Mexico City Grand Prix
+ALO,4.0,84.854,1.0,MEDIUM,4.0,1,True,Alpine,True,7.0,29.889,33.225,21.74,,False,False,4072.879,20,Mexico City Grand Prix
+ALO,5.0,84.856,1.0,MEDIUM,5.0,1,True,Alpine,True,7.0,30.103,33.022,21.731,,False,False,4157.735,20,Mexico City Grand Prix
+ALO,6.0,84.426,1.0,MEDIUM,6.0,1,True,Alpine,True,7.0,29.901,32.808,21.717,,False,False,4242.161,20,Mexico City Grand Prix
+ALO,7.0,84.53,1.0,MEDIUM,7.0,1,True,Alpine,True,7.0,29.819,32.857,21.854,,False,False,4326.691,20,Mexico City Grand Prix
+ALO,8.0,84.461,1.0,MEDIUM,8.0,1,True,Alpine,True,7.0,29.8,32.834,21.827,,False,False,4411.152,20,Mexico City Grand Prix
+ALO,9.0,84.397,1.0,MEDIUM,9.0,1,True,Alpine,True,7.0,29.788,32.842,21.767,,False,False,4495.549,20,Mexico City Grand Prix
+ALO,10.0,84.486,1.0,MEDIUM,10.0,1,True,Alpine,True,7.0,29.903,32.74,21.843,,False,False,4580.035,20,Mexico City Grand Prix
+ALO,11.0,84.396,1.0,MEDIUM,11.0,1,True,Alpine,True,7.0,29.786,32.791,21.819,,False,False,4664.431,20,Mexico City Grand Prix
+ALO,12.0,84.717,1.0,MEDIUM,12.0,1,True,Alpine,True,7.0,29.906,32.862,21.949,,False,False,4749.148,20,Mexico City Grand Prix
+ALO,13.0,84.474,1.0,MEDIUM,13.0,1,True,Alpine,True,7.0,29.745,32.793,21.936,,False,False,4833.622,20,Mexico City Grand Prix
+ALO,14.0,84.266,1.0,MEDIUM,14.0,1,True,Alpine,True,7.0,29.76,32.72,21.786,,False,False,4917.888,20,Mexico City Grand Prix
+ALO,15.0,84.48,1.0,MEDIUM,15.0,1,True,Alpine,True,7.0,29.713,32.898,21.869,,False,False,5002.368,20,Mexico City Grand Prix
+ALO,16.0,84.472,1.0,MEDIUM,16.0,1,True,Alpine,True,7.0,29.809,32.689,21.974,,False,False,5086.84,20,Mexico City Grand Prix
+ALO,17.0,84.271,1.0,MEDIUM,17.0,1,True,Alpine,True,7.0,29.797,32.638,21.836,,False,False,5171.111,20,Mexico City Grand Prix
+ALO,18.0,84.209,1.0,MEDIUM,18.0,1,True,Alpine,True,7.0,29.751,32.602,21.856,,False,False,5255.32,20,Mexico City Grand Prix
+ALO,19.0,84.179,1.0,MEDIUM,19.0,1,True,Alpine,True,7.0,29.681,32.639,21.859,,False,False,5339.499,20,Mexico City Grand Prix
+ALO,20.0,84.196,1.0,MEDIUM,20.0,1,True,Alpine,True,7.0,29.746,32.655,21.795,,False,False,5423.695,20,Mexico City Grand Prix
+ALO,21.0,84.387,1.0,MEDIUM,21.0,1,True,Alpine,True,7.0,29.651,32.76,21.976,,False,False,5508.082,20,Mexico City Grand Prix
+ALO,22.0,84.222,1.0,MEDIUM,22.0,1,True,Alpine,True,7.0,29.67,32.686,21.866,,False,False,5592.304,20,Mexico City Grand Prix
+ALO,23.0,84.555,1.0,MEDIUM,23.0,1,True,Alpine,True,7.0,29.622,32.987,21.946,,False,False,5676.859,20,Mexico City Grand Prix
+ALO,24.0,84.526,1.0,MEDIUM,24.0,1,True,Alpine,True,7.0,29.813,32.824,21.889,,False,False,5761.385,20,Mexico City Grand Prix
+ALO,25.0,84.44,1.0,MEDIUM,25.0,1,True,Alpine,True,7.0,29.65,32.921,21.869,,False,False,5845.825,20,Mexico City Grand Prix
+ALO,26.0,84.506,1.0,MEDIUM,26.0,1,True,Alpine,True,7.0,29.686,32.857,21.963,,False,False,5930.331,20,Mexico City Grand Prix
+ALO,27.0,84.208,1.0,MEDIUM,27.0,1,True,Alpine,True,7.0,29.708,32.67,21.83,,False,False,6014.539,20,Mexico City Grand Prix
+ALO,28.0,84.268,1.0,MEDIUM,28.0,1,True,Alpine,True,7.0,29.693,32.768,21.807,,False,False,6098.807,20,Mexico City Grand Prix
+ALO,29.0,84.026,1.0,MEDIUM,29.0,1,True,Alpine,True,6.0,29.658,32.644,21.724,,False,False,6182.833,20,Mexico City Grand Prix
+ALO,30.0,84.074,1.0,MEDIUM,30.0,1,True,Alpine,True,5.0,29.589,32.706,21.779,,False,False,6266.907,20,Mexico City Grand Prix
+ALO,31.0,84.099,1.0,MEDIUM,31.0,1,True,Alpine,True,5.0,29.576,32.654,21.869,,False,False,6351.006,20,Mexico City Grand Prix
+ALO,32.0,83.876,1.0,MEDIUM,32.0,1,True,Alpine,True,5.0,29.644,32.542,21.69,,False,False,6434.882,20,Mexico City Grand Prix
+ALO,33.0,84.285,1.0,MEDIUM,33.0,1,True,Alpine,True,5.0,29.72,32.712,21.853,,False,False,6519.167,20,Mexico City Grand Prix
+ALO,34.0,84.297,1.0,MEDIUM,34.0,1,True,Alpine,True,5.0,29.609,32.778,21.91,,False,False,6603.464,20,Mexico City Grand Prix
+ALO,35.0,84.051,1.0,MEDIUM,35.0,1,True,Alpine,True,5.0,29.673,32.569,21.809,,False,False,6687.515,20,Mexico City Grand Prix
+ALO,36.0,84.001,1.0,MEDIUM,36.0,1,True,Alpine,True,5.0,29.691,32.578,21.732,,False,False,6771.516,20,Mexico City Grand Prix
+ALO,37.0,84.342,1.0,MEDIUM,37.0,1,True,Alpine,True,5.0,29.722,32.757,21.863,,False,False,6855.858,20,Mexico City Grand Prix
+ALO,38.0,84.276,1.0,MEDIUM,38.0,1,True,Alpine,True,5.0,29.675,32.647,21.954,,False,False,6940.134,20,Mexico City Grand Prix
+ALO,39.0,84.391,1.0,MEDIUM,39.0,1,True,Alpine,True,5.0,29.74,32.683,21.968,,False,False,7024.525,20,Mexico City Grand Prix
+ALO,40.0,89.42,1.0,MEDIUM,40.0,1,False,Alpine,True,7.0,29.969,33.987,25.464,,True,False,7113.945,20,Mexico City Grand Prix
+ALO,41.0,104.059,2.0,HARD,1.0,1,False,Alpine,True,8.0,49.385,32.99,21.684,,False,True,7218.004,20,Mexico City Grand Prix
+ALO,42.0,83.79,2.0,HARD,2.0,1,True,Alpine,True,8.0,29.55,32.625,21.615,,False,False,7301.794,20,Mexico City Grand Prix
+ALO,43.0,83.56,2.0,HARD,3.0,1,True,Alpine,True,8.0,29.472,32.432,21.656,,False,False,7385.354,20,Mexico City Grand Prix
+ALO,44.0,83.527,2.0,HARD,4.0,1,True,Alpine,True,7.0,29.49,32.418,21.619,,False,False,7468.881,20,Mexico City Grand Prix
+ALO,45.0,83.568,2.0,HARD,5.0,1,True,Alpine,True,7.0,29.459,32.363,21.746,,False,False,7552.449,20,Mexico City Grand Prix
+ALO,46.0,83.87,2.0,HARD,6.0,1,True,Alpine,True,7.0,29.536,32.569,21.765,,False,False,7636.319,20,Mexico City Grand Prix
+ALO,47.0,83.515,2.0,HARD,7.0,1,True,Alpine,True,7.0,29.533,32.473,21.509,,False,False,7719.834,20,Mexico City Grand Prix
+ALO,48.0,82.866,2.0,HARD,8.0,1,True,Alpine,True,7.0,29.399,32.128,21.339,,False,False,7802.7,20,Mexico City Grand Prix
+ALO,49.0,82.893,2.0,HARD,9.0,1,True,Alpine,True,7.0,29.399,32.132,21.362,,False,False,7885.593,20,Mexico City Grand Prix
+ALO,50.0,82.933,2.0,HARD,10.0,1,True,Alpine,True,7.0,29.348,32.134,21.451,,False,False,7968.526,20,Mexico City Grand Prix
+ALO,51.0,83.213,2.0,HARD,11.0,1,True,Alpine,True,7.0,29.357,32.304,21.552,,False,False,8051.739,20,Mexico City Grand Prix
+ALO,52.0,83.393,2.0,HARD,12.0,1,True,Alpine,True,7.0,29.423,32.468,21.502,,False,False,8135.132,20,Mexico City Grand Prix
+ALO,53.0,85.177,2.0,HARD,13.0,1,True,Alpine,True,7.0,30.334,32.952,21.891,,False,False,8220.309,20,Mexico City Grand Prix
+ALO,54.0,85.278,2.0,HARD,14.0,1,True,Alpine,True,7.0,30.776,32.64,21.862,,False,False,8305.587,20,Mexico City Grand Prix
+ALO,55.0,86.008,2.0,HARD,15.0,1,True,Alpine,True,7.0,31.295,32.866,21.847,,False,False,8391.595,20,Mexico City Grand Prix
+ALO,56.0,85.661,2.0,HARD,16.0,1,True,Alpine,True,7.0,30.977,32.673,22.011,,False,False,8477.256,20,Mexico City Grand Prix
+ALO,57.0,84.974,2.0,HARD,17.0,1,True,Alpine,True,7.0,30.498,32.618,21.858,,False,False,8562.23,20,Mexico City Grand Prix
+ALO,58.0,85.028,2.0,HARD,18.0,1,True,Alpine,True,7.0,30.658,32.539,21.831,,False,False,8647.258,20,Mexico City Grand Prix
+ALO,59.0,87.928,2.0,HARD,19.0,1,True,Alpine,True,7.0,31.235,33.532,23.161,,False,False,8735.186,20,Mexico City Grand Prix
+ALO,60.0,86.416,2.0,HARD,20.0,1,True,Alpine,True,9.0,30.762,33.542,22.112,,False,False,8821.602,20,Mexico City Grand Prix
+ALO,61.0,85.66,2.0,HARD,21.0,1,True,Alpine,True,9.0,30.52,33.055,22.085,,False,False,8907.262,20,Mexico City Grand Prix
+ALO,62.0,84.927,2.0,HARD,22.0,1,True,Alpine,True,9.0,30.175,32.753,21.999,,False,False,8992.189,20,Mexico City Grand Prix
+ALO,63.0,84.876,2.0,HARD,23.0,1,True,Alpine,True,9.0,30.39,32.74,21.746,,False,False,9077.065,20,Mexico City Grand Prix
+ALO,64.0,,2.0,HARD,24.0,1267,False,Alpine,True,,,,,,False,False,9227.065,20,Mexico City Grand Prix
+LEC,1.0,90.438,1.0,SOFT,3.0,1,False,Ferrari,False,6.0,,35.175,21.959,,False,False,3817.439,20,Mexico City Grand Prix
+LEC,2.0,84.71,1.0,SOFT,4.0,1,True,Ferrari,False,6.0,29.722,33.225,21.763,,False,False,3902.149,20,Mexico City Grand Prix
+LEC,3.0,83.814,1.0,SOFT,5.0,1,True,Ferrari,False,6.0,29.53,32.685,21.599,,False,False,3985.963,20,Mexico City Grand Prix
+LEC,4.0,83.858,1.0,SOFT,6.0,1,True,Ferrari,False,6.0,29.504,32.728,21.626,,False,False,4069.821,20,Mexico City Grand Prix
+LEC,5.0,84.039,1.0,SOFT,7.0,1,True,Ferrari,False,6.0,29.495,32.84,21.704,,False,False,4153.86,20,Mexico City Grand Prix
+LEC,6.0,83.934,1.0,SOFT,8.0,1,True,Ferrari,False,6.0,29.495,32.785,21.654,,False,False,4237.794,20,Mexico City Grand Prix
+LEC,7.0,84.002,1.0,SOFT,9.0,1,True,Ferrari,False,6.0,29.583,32.769,21.65,,False,False,4321.796,20,Mexico City Grand Prix
+LEC,8.0,84.299,1.0,SOFT,10.0,1,True,Ferrari,False,6.0,29.613,32.897,21.789,,False,False,4406.095,20,Mexico City Grand Prix
+LEC,9.0,84.157,1.0,SOFT,11.0,1,True,Ferrari,False,6.0,29.535,32.876,21.746,,False,False,4490.252,20,Mexico City Grand Prix
+LEC,10.0,83.822,1.0,SOFT,12.0,1,True,Ferrari,False,6.0,29.449,32.659,21.714,,False,False,4574.074,20,Mexico City Grand Prix
+LEC,11.0,84.238,1.0,SOFT,13.0,1,True,Ferrari,False,6.0,29.828,32.609,21.801,,False,False,4658.312,20,Mexico City Grand Prix
+LEC,12.0,84.151,1.0,SOFT,14.0,1,True,Ferrari,False,6.0,29.63,32.763,21.758,,False,False,4742.463,20,Mexico City Grand Prix
+LEC,13.0,83.818,1.0,SOFT,15.0,1,True,Ferrari,False,6.0,29.58,32.517,21.721,,False,False,4826.281,20,Mexico City Grand Prix
+LEC,14.0,83.971,1.0,SOFT,16.0,1,True,Ferrari,False,6.0,29.519,32.67,21.782,,False,False,4910.252,20,Mexico City Grand Prix
+LEC,15.0,84.107,1.0,SOFT,17.0,1,True,Ferrari,False,6.0,29.677,32.609,21.821,,False,False,4994.359,20,Mexico City Grand Prix
+LEC,16.0,84.578,1.0,SOFT,18.0,1,True,Ferrari,False,6.0,29.882,32.794,21.902,,False,False,5078.937,20,Mexico City Grand Prix
+LEC,17.0,84.204,1.0,SOFT,19.0,1,True,Ferrari,False,6.0,29.665,32.658,21.881,,False,False,5163.141,20,Mexico City Grand Prix
+LEC,18.0,84.227,1.0,SOFT,20.0,1,True,Ferrari,False,6.0,29.606,32.701,21.92,,False,False,5247.368,20,Mexico City Grand Prix
+LEC,19.0,84.215,1.0,SOFT,21.0,1,True,Ferrari,False,6.0,29.663,32.64,21.912,,False,False,5331.583,20,Mexico City Grand Prix
+LEC,20.0,84.263,1.0,SOFT,22.0,1,True,Ferrari,False,6.0,29.553,32.679,22.031,,False,False,5415.846,20,Mexico City Grand Prix
+LEC,21.0,84.598,1.0,SOFT,23.0,1,True,Ferrari,False,6.0,29.789,32.779,22.03,,False,False,5500.444,20,Mexico City Grand Prix
+LEC,22.0,84.358,1.0,SOFT,24.0,1,True,Ferrari,False,6.0,29.484,32.879,21.995,,False,False,5584.802,20,Mexico City Grand Prix
+LEC,23.0,84.491,1.0,SOFT,25.0,1,True,Ferrari,False,6.0,29.549,32.988,21.954,,False,False,5669.293,20,Mexico City Grand Prix
+LEC,24.0,84.775,1.0,SOFT,26.0,1,True,Ferrari,False,5.0,29.859,32.862,22.054,,False,False,5754.068,20,Mexico City Grand Prix
+LEC,25.0,84.875,1.0,SOFT,27.0,1,True,Ferrari,False,5.0,29.756,33.039,22.08,,False,False,5838.943,20,Mexico City Grand Prix
+LEC,26.0,84.998,1.0,SOFT,28.0,1,True,Ferrari,False,5.0,29.706,33.121,22.171,,False,False,5923.941,20,Mexico City Grand Prix
+LEC,27.0,85.165,1.0,SOFT,29.0,1,True,Ferrari,False,6.0,29.986,33.136,22.043,,False,False,6009.106,20,Mexico City Grand Prix
+LEC,28.0,87.759,1.0,SOFT,30.0,1,False,Ferrari,False,6.0,29.697,33.028,25.034,,True,False,6096.865,20,Mexico City Grand Prix
+LEC,29.0,101.971,2.0,MEDIUM,1.0,1,False,Ferrari,True,11.0,47.956,32.565,21.45,,False,True,6198.836,20,Mexico City Grand Prix
+LEC,30.0,83.469,2.0,MEDIUM,2.0,1,True,Ferrari,True,11.0,29.169,32.475,21.825,,False,False,6282.305,20,Mexico City Grand Prix
+LEC,31.0,82.699,2.0,MEDIUM,3.0,1,True,Ferrari,True,9.0,28.66,32.52,21.519,,False,False,6365.004,20,Mexico City Grand Prix
+LEC,32.0,83.058,2.0,MEDIUM,4.0,1,True,Ferrari,True,9.0,29.385,32.309,21.364,,False,False,6448.062,20,Mexico City Grand Prix
+LEC,33.0,83.106,2.0,MEDIUM,5.0,1,True,Ferrari,True,9.0,29.212,32.475,21.419,,False,False,6531.168,20,Mexico City Grand Prix
+LEC,34.0,82.878,2.0,MEDIUM,6.0,1,True,Ferrari,True,8.0,29.27,32.233,21.375,,False,False,6614.046,20,Mexico City Grand Prix
+LEC,35.0,83.149,2.0,MEDIUM,7.0,1,True,Ferrari,True,8.0,29.386,32.34,21.423,,False,False,6697.195,20,Mexico City Grand Prix
+LEC,36.0,82.92,2.0,MEDIUM,8.0,1,True,Ferrari,True,8.0,29.168,32.314,21.438,,False,False,6780.115,20,Mexico City Grand Prix
+LEC,37.0,83.348,2.0,MEDIUM,9.0,1,True,Ferrari,True,8.0,29.503,32.339,21.506,,False,False,6863.463,20,Mexico City Grand Prix
+LEC,38.0,83.258,2.0,MEDIUM,10.0,1,True,Ferrari,True,8.0,29.373,32.273,21.612,,False,False,6946.721,20,Mexico City Grand Prix
+LEC,39.0,83.417,2.0,MEDIUM,11.0,1,True,Ferrari,True,7.0,29.261,32.441,21.715,,False,False,7030.138,20,Mexico City Grand Prix
+LEC,40.0,82.958,2.0,MEDIUM,12.0,1,True,Ferrari,True,6.0,28.848,32.431,21.679,,False,False,7113.096,20,Mexico City Grand Prix
+LEC,41.0,83.087,2.0,MEDIUM,13.0,1,True,Ferrari,True,6.0,29.336,32.233,21.518,,False,False,7196.183,20,Mexico City Grand Prix
+LEC,42.0,83.189,2.0,MEDIUM,14.0,1,True,Ferrari,True,6.0,29.345,32.308,21.536,,False,False,7279.372,20,Mexico City Grand Prix
+LEC,43.0,82.966,2.0,MEDIUM,15.0,1,True,Ferrari,True,6.0,29.342,32.157,21.467,,False,False,7362.338,20,Mexico City Grand Prix
+LEC,44.0,82.688,2.0,MEDIUM,16.0,1,True,Ferrari,True,6.0,29.244,32.12,21.324,,False,False,7445.026,20,Mexico City Grand Prix
+LEC,45.0,82.748,2.0,MEDIUM,17.0,1,True,Ferrari,True,6.0,29.275,32.072,21.401,,False,False,7527.774,20,Mexico City Grand Prix
+LEC,46.0,82.905,2.0,MEDIUM,18.0,1,True,Ferrari,True,6.0,29.109,32.241,21.555,,False,False,7610.679,20,Mexico City Grand Prix
+LEC,47.0,82.631,2.0,MEDIUM,19.0,1,True,Ferrari,True,6.0,29.318,31.996,21.317,,False,False,7693.31,20,Mexico City Grand Prix
+LEC,48.0,82.603,2.0,MEDIUM,20.0,1,True,Ferrari,True,6.0,29.145,32.094,21.364,,False,False,7775.913,20,Mexico City Grand Prix
+LEC,49.0,82.76,2.0,MEDIUM,21.0,1,True,Ferrari,True,6.0,29.235,32.125,21.4,,False,False,7858.673,20,Mexico City Grand Prix
+LEC,50.0,82.968,2.0,MEDIUM,22.0,1,True,Ferrari,True,6.0,29.225,32.218,21.525,,False,False,7941.641,20,Mexico City Grand Prix
+LEC,51.0,82.913,2.0,MEDIUM,23.0,1,True,Ferrari,True,6.0,29.18,32.183,21.55,,False,False,8024.554,20,Mexico City Grand Prix
+LEC,52.0,83.187,2.0,MEDIUM,24.0,1,True,Ferrari,True,6.0,29.243,32.242,21.702,,False,False,8107.741,20,Mexico City Grand Prix
+LEC,53.0,83.086,2.0,MEDIUM,25.0,1,True,Ferrari,True,6.0,29.234,32.254,21.598,,False,False,8190.827,20,Mexico City Grand Prix
+LEC,54.0,83.099,2.0,MEDIUM,26.0,1,True,Ferrari,True,6.0,29.256,32.275,21.568,,False,False,8273.926,20,Mexico City Grand Prix
+LEC,55.0,82.97,2.0,MEDIUM,27.0,1,True,Ferrari,True,6.0,29.186,32.263,21.521,,False,False,8356.896,20,Mexico City Grand Prix
+LEC,56.0,83.172,2.0,MEDIUM,28.0,1,True,Ferrari,True,6.0,29.234,32.375,21.563,,False,False,8440.068,20,Mexico City Grand Prix
+LEC,57.0,82.987,2.0,MEDIUM,29.0,1,True,Ferrari,True,6.0,29.254,32.222,21.511,,False,False,8523.055,20,Mexico City Grand Prix
+LEC,58.0,83.738,2.0,MEDIUM,30.0,1,True,Ferrari,True,6.0,29.203,32.772,21.763,,False,False,8606.793,20,Mexico City Grand Prix
+LEC,59.0,83.488,2.0,MEDIUM,31.0,1,True,Ferrari,True,6.0,29.378,32.408,21.702,,False,False,8690.281,20,Mexico City Grand Prix
+LEC,60.0,83.332,2.0,MEDIUM,32.0,1,True,Ferrari,True,6.0,29.3,32.381,21.651,,False,False,8773.613,20,Mexico City Grand Prix
+LEC,61.0,83.289,2.0,MEDIUM,33.0,1,True,Ferrari,True,6.0,29.196,32.388,21.705,,False,False,8856.902,20,Mexico City Grand Prix
+LEC,62.0,83.341,2.0,MEDIUM,34.0,1,True,Ferrari,True,6.0,29.28,32.329,21.732,,False,False,8940.243,20,Mexico City Grand Prix
+LEC,63.0,83.835,2.0,MEDIUM,35.0,1,True,Ferrari,True,6.0,29.29,32.643,21.902,,False,False,9024.078,20,Mexico City Grand Prix
+LEC,64.0,83.743,2.0,MEDIUM,36.0,12,True,Ferrari,True,6.0,29.361,32.58,21.802,,False,False,9107.821,20,Mexico City Grand Prix
+LEC,65.0,100.442,2.0,MEDIUM,37.0,2671,False,Ferrari,True,6.0,37.407,40.882,22.153,,False,False,9208.263,20,Mexico City Grand Prix
+LEC,66.0,83.342,2.0,MEDIUM,38.0,1,True,Ferrari,True,6.0,29.213,32.393,21.736,,False,False,9291.605,20,Mexico City Grand Prix
+LEC,67.0,83.86,2.0,MEDIUM,39.0,1,True,Ferrari,True,6.0,29.493,32.564,21.803,,False,False,9375.465,20,Mexico City Grand Prix
+LEC,68.0,83.511,2.0,MEDIUM,40.0,1,True,Ferrari,True,6.0,29.378,32.433,21.7,,False,False,9458.976,20,Mexico City Grand Prix
+LEC,69.0,83.869,2.0,MEDIUM,41.0,1,True,Ferrari,True,6.0,29.376,32.458,22.035,,False,False,9542.845,20,Mexico City Grand Prix
+LEC,70.0,83.799,2.0,MEDIUM,42.0,1,True,Ferrari,True,6.0,29.302,32.681,21.816,,False,False,9626.644,20,Mexico City Grand Prix
+LEC,71.0,85.86,2.0,MEDIUM,43.0,1,True,Ferrari,True,6.0,29.984,33.232,22.644,,False,False,9712.504,20,Mexico City Grand Prix
+STR,1.0,94.964,1.0,MEDIUM,2.0,1,False,Aston Martin,False,15.0,,36.229,22.87,,False,False,3821.965,20,Mexico City Grand Prix
+STR,2.0,86.209,1.0,MEDIUM,3.0,1,True,Aston Martin,False,15.0,30.097,33.915,22.197,,False,False,3908.174,20,Mexico City Grand Prix
+STR,3.0,86.244,1.0,MEDIUM,4.0,1,True,Aston Martin,False,15.0,29.867,34.119,22.258,,False,False,3994.418,20,Mexico City Grand Prix
+STR,4.0,85.688,1.0,MEDIUM,5.0,1,True,Aston Martin,False,15.0,29.525,33.924,22.239,,False,False,4080.106,20,Mexico City Grand Prix
+STR,5.0,85.089,1.0,MEDIUM,6.0,1,True,Aston Martin,False,15.0,29.393,33.725,21.971,,False,False,4165.195,20,Mexico City Grand Prix
+STR,6.0,84.711,1.0,MEDIUM,7.0,1,True,Aston Martin,False,15.0,29.344,33.323,22.044,,False,False,4249.906,20,Mexico City Grand Prix
+STR,7.0,85.471,1.0,MEDIUM,8.0,1,True,Aston Martin,False,15.0,29.868,33.486,22.117,,False,False,4335.377,20,Mexico City Grand Prix
+STR,8.0,85.51,1.0,MEDIUM,9.0,1,True,Aston Martin,False,15.0,29.903,33.432,22.175,,False,False,4420.887,20,Mexico City Grand Prix
+STR,9.0,85.458,1.0,MEDIUM,10.0,1,True,Aston Martin,False,15.0,29.905,33.517,22.036,,False,False,4506.345,20,Mexico City Grand Prix
+STR,10.0,85.155,1.0,MEDIUM,11.0,1,True,Aston Martin,False,15.0,29.813,33.238,22.104,,False,False,4591.5,20,Mexico City Grand Prix
+STR,11.0,85.035,1.0,MEDIUM,12.0,1,True,Aston Martin,False,15.0,29.812,33.174,22.049,,False,False,4676.535,20,Mexico City Grand Prix
+STR,12.0,85.397,1.0,MEDIUM,13.0,1,True,Aston Martin,False,15.0,29.926,33.389,22.082,,False,False,4761.932,20,Mexico City Grand Prix
+STR,13.0,88.394,1.0,MEDIUM,14.0,1,True,Aston Martin,False,16.0,30.111,35.952,22.331,,False,False,4850.326,20,Mexico City Grand Prix
+STR,14.0,85.144,1.0,MEDIUM,15.0,1,True,Aston Martin,False,16.0,29.566,33.562,22.016,,False,False,4935.47,20,Mexico City Grand Prix
+STR,15.0,84.965,1.0,MEDIUM,16.0,1,True,Aston Martin,False,16.0,29.9,33.241,21.824,,False,False,5020.435,20,Mexico City Grand Prix
+STR,16.0,85.322,1.0,MEDIUM,17.0,1,True,Aston Martin,False,16.0,29.825,33.52,21.977,,False,False,5105.757,20,Mexico City Grand Prix
+STR,17.0,88.797,1.0,MEDIUM,18.0,1,False,Aston Martin,False,17.0,29.889,34.103,24.805,,True,False,5194.554,20,Mexico City Grand Prix
+STR,18.0,104.546,2.0,SOFT,1.0,1,False,Aston Martin,False,20.0,49.606,33.169,21.771,,False,True,5299.1,20,Mexico City Grand Prix
+STR,19.0,84.433,2.0,SOFT,2.0,1,True,Aston Martin,False,20.0,29.795,32.94,21.698,,False,False,5383.533,20,Mexico City Grand Prix
+STR,20.0,84.454,2.0,SOFT,3.0,1,True,Aston Martin,False,20.0,29.818,32.969,21.667,,False,False,5467.987,20,Mexico City Grand Prix
+STR,21.0,84.505,2.0,SOFT,4.0,1,True,Aston Martin,False,20.0,29.71,32.982,21.813,,False,False,5552.492,20,Mexico City Grand Prix
+STR,22.0,84.494,2.0,SOFT,5.0,1,True,Aston Martin,False,20.0,29.687,32.982,21.825,,False,False,5636.986,20,Mexico City Grand Prix
+STR,23.0,84.8,2.0,SOFT,6.0,1,True,Aston Martin,False,20.0,29.862,33.026,21.912,,False,False,5721.786,20,Mexico City Grand Prix
+STR,24.0,84.629,2.0,SOFT,7.0,1,True,Aston Martin,False,19.0,29.859,33.011,21.759,,False,False,5806.415,20,Mexico City Grand Prix
+STR,25.0,84.391,2.0,SOFT,8.0,1,True,Aston Martin,False,18.0,29.728,32.902,21.761,,False,False,5890.806,20,Mexico City Grand Prix
+STR,26.0,84.39,2.0,SOFT,9.0,1,True,Aston Martin,False,18.0,29.694,32.957,21.739,,False,False,5975.196,20,Mexico City Grand Prix
+STR,27.0,84.277,2.0,SOFT,10.0,1,True,Aston Martin,False,18.0,29.773,32.735,21.769,,False,False,6059.473,20,Mexico City Grand Prix
+STR,28.0,84.421,2.0,SOFT,11.0,1,True,Aston Martin,False,18.0,29.723,32.99,21.708,,False,False,6143.894,20,Mexico City Grand Prix
+STR,29.0,84.218,2.0,SOFT,12.0,1,True,Aston Martin,False,18.0,29.649,32.847,21.722,,False,False,6228.112,20,Mexico City Grand Prix
+STR,30.0,84.116,2.0,SOFT,13.0,1,True,Aston Martin,False,18.0,29.655,32.806,21.655,,False,False,6312.228,20,Mexico City Grand Prix
+STR,31.0,84.269,2.0,SOFT,14.0,1,True,Aston Martin,False,18.0,29.701,32.838,21.73,,False,False,6396.497,20,Mexico City Grand Prix
+STR,32.0,84.457,2.0,SOFT,15.0,1,True,Aston Martin,False,18.0,29.754,32.909,21.794,,False,False,6480.954,20,Mexico City Grand Prix
+STR,33.0,84.069,2.0,SOFT,16.0,1,True,Aston Martin,False,17.0,29.294,32.952,21.823,,False,False,6565.023,20,Mexico City Grand Prix
+STR,34.0,84.51,2.0,SOFT,17.0,1,True,Aston Martin,False,17.0,29.795,32.9,21.815,,False,False,6649.533,20,Mexico City Grand Prix
+STR,35.0,84.396,2.0,SOFT,18.0,1,True,Aston Martin,False,17.0,29.805,32.91,21.681,,False,False,6733.929,20,Mexico City Grand Prix
+STR,36.0,84.679,2.0,SOFT,19.0,1,True,Aston Martin,False,17.0,29.749,32.995,21.935,,False,False,6818.608,20,Mexico City Grand Prix
+STR,37.0,86.687,2.0,SOFT,20.0,1,True,Aston Martin,False,17.0,29.961,33.226,23.5,,False,False,6905.295,20,Mexico City Grand Prix
+STR,38.0,84.858,2.0,SOFT,21.0,1,True,Aston Martin,False,17.0,29.51,33.311,22.037,,False,False,6990.153,20,Mexico City Grand Prix
+STR,39.0,85.299,2.0,SOFT,22.0,1,True,Aston Martin,False,15.0,29.938,33.192,22.169,,False,False,7075.452,20,Mexico City Grand Prix
+STR,40.0,88.255,2.0,SOFT,23.0,1,False,Aston Martin,False,16.0,30.021,33.003,25.231,,True,False,7163.707,20,Mexico City Grand Prix
+STR,41.0,102.768,3.0,SOFT,1.0,1,False,Aston Martin,True,18.0,49.015,32.361,21.392,,False,True,7266.475,20,Mexico City Grand Prix
+STR,42.0,82.463,3.0,SOFT,2.0,1,True,Aston Martin,True,18.0,29.352,32.005,21.106,,False,False,7348.938,20,Mexico City Grand Prix
+STR,43.0,82.805,3.0,SOFT,3.0,1,True,Aston Martin,True,18.0,29.346,32.127,21.332,,False,False,7431.743,20,Mexico City Grand Prix
+STR,44.0,82.994,3.0,SOFT,4.0,1,True,Aston Martin,True,18.0,29.344,32.193,21.457,,False,False,7514.737,20,Mexico City Grand Prix
+STR,45.0,83.338,3.0,SOFT,5.0,1,True,Aston Martin,True,18.0,29.338,32.381,21.619,,False,False,7598.075,20,Mexico City Grand Prix
+STR,46.0,83.518,3.0,SOFT,6.0,1,True,Aston Martin,True,18.0,29.492,32.658,21.368,,False,False,7681.593,20,Mexico City Grand Prix
+STR,47.0,83.775,3.0,SOFT,7.0,1,True,Aston Martin,True,18.0,29.47,32.708,21.597,,False,False,7765.368,20,Mexico City Grand Prix
+STR,48.0,83.652,3.0,SOFT,8.0,1,True,Aston Martin,True,18.0,29.484,32.648,21.52,,False,False,7849.02,20,Mexico City Grand Prix
+STR,49.0,83.587,3.0,SOFT,9.0,1,True,Aston Martin,True,18.0,29.444,32.601,21.542,,False,False,7932.607,20,Mexico City Grand Prix
+STR,50.0,84.106,3.0,SOFT,10.0,1,True,Aston Martin,True,18.0,29.131,33.026,21.949,,False,False,8016.713,20,Mexico City Grand Prix
+STR,51.0,83.287,3.0,SOFT,11.0,1,True,Aston Martin,True,16.0,29.028,32.642,21.617,,False,False,8100.0,20,Mexico City Grand Prix
+STR,52.0,83.341,3.0,SOFT,12.0,1,True,Aston Martin,True,16.0,29.505,32.343,21.493,,False,False,8183.341,20,Mexico City Grand Prix
+STR,53.0,83.593,3.0,SOFT,13.0,1,True,Aston Martin,True,16.0,29.526,32.532,21.535,,False,False,8266.934,20,Mexico City Grand Prix
+STR,54.0,83.526,3.0,SOFT,14.0,1,True,Aston Martin,True,16.0,29.535,32.447,21.544,,False,False,8350.46,20,Mexico City Grand Prix
+STR,55.0,83.458,3.0,SOFT,15.0,1,True,Aston Martin,True,16.0,29.512,32.413,21.533,,False,False,8433.918,20,Mexico City Grand Prix
+STR,56.0,83.341,3.0,SOFT,16.0,1,True,Aston Martin,True,16.0,29.447,32.386,21.508,,False,False,8517.259,20,Mexico City Grand Prix
+STR,57.0,83.526,3.0,SOFT,17.0,1,True,Aston Martin,True,16.0,29.487,32.446,21.593,,False,False,8600.785,20,Mexico City Grand Prix
+STR,58.0,83.553,3.0,SOFT,18.0,1,True,Aston Martin,True,16.0,29.554,32.497,21.502,,False,False,8684.338,20,Mexico City Grand Prix
+STR,59.0,83.645,3.0,SOFT,19.0,1,True,Aston Martin,True,16.0,29.498,32.523,21.624,,False,False,8767.983,20,Mexico City Grand Prix
+STR,60.0,83.605,3.0,SOFT,20.0,1,True,Aston Martin,True,16.0,29.363,32.504,21.738,,False,False,8851.588,20,Mexico City Grand Prix
+STR,61.0,86.058,3.0,SOFT,21.0,1,True,Aston Martin,True,16.0,31.132,33.032,21.894,,False,False,8937.646,20,Mexico City Grand Prix
+STR,62.0,84.045,3.0,SOFT,22.0,1,True,Aston Martin,True,16.0,29.468,32.697,21.88,,False,False,9021.691,20,Mexico City Grand Prix
+STR,63.0,83.946,3.0,SOFT,23.0,12,True,Aston Martin,True,16.0,29.463,32.738,21.745,,False,False,9105.637,20,Mexico City Grand Prix
+STR,64.0,100.359,3.0,SOFT,24.0,2671,False,Aston Martin,True,15.0,35.238,42.805,22.316,,False,False,9205.996,20,Mexico City Grand Prix
+STR,65.0,83.984,3.0,SOFT,25.0,1,True,Aston Martin,True,15.0,29.491,32.637,21.856,,False,False,9289.98,20,Mexico City Grand Prix
+STR,66.0,83.659,3.0,SOFT,26.0,1,True,Aston Martin,True,15.0,29.469,32.572,21.618,,False,False,9373.639,20,Mexico City Grand Prix
+STR,67.0,83.766,3.0,SOFT,27.0,1,True,Aston Martin,True,15.0,29.455,32.582,21.729,,False,False,9457.405,20,Mexico City Grand Prix
+STR,68.0,83.751,3.0,SOFT,28.0,1,True,Aston Martin,True,15.0,29.517,32.499,21.735,,False,False,9541.156,20,Mexico City Grand Prix
+STR,69.0,84.086,3.0,SOFT,29.0,1,True,Aston Martin,True,15.0,29.59,32.668,21.828,,False,False,9625.242,20,Mexico City Grand Prix
+STR,70.0,88.441,3.0,SOFT,30.0,1,True,Aston Martin,True,15.0,31.115,34.779,22.547,,False,False,9713.683,20,Mexico City Grand Prix
+MAG,1.0,96.469,1.0,MEDIUM,1.0,1,False,Haas F1 Team,True,18.0,,36.631,23.203,,False,False,3823.47,20,Mexico City Grand Prix
+MAG,2.0,86.763,1.0,MEDIUM,2.0,1,True,Haas F1 Team,True,18.0,30.098,34.348,22.317,,False,False,3910.233,20,Mexico City Grand Prix
+MAG,3.0,86.414,1.0,MEDIUM,3.0,1,True,Haas F1 Team,True,18.0,30.065,34.19,22.159,,False,False,3996.647,20,Mexico City Grand Prix
+MAG,4.0,85.794,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,18.0,29.7,33.956,22.138,,False,False,4082.441,20,Mexico City Grand Prix
+MAG,5.0,87.429,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,19.0,30.077,34.967,22.385,,False,False,4169.87,20,Mexico City Grand Prix
+MAG,6.0,85.904,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,19.0,29.65,34.049,22.205,,False,False,4255.774,20,Mexico City Grand Prix
+MAG,7.0,87.503,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,20.0,30.421,34.571,22.511,,False,False,4343.277,20,Mexico City Grand Prix
+MAG,8.0,86.109,1.0,MEDIUM,8.0,1,True,Haas F1 Team,True,20.0,29.869,33.81,22.43,,False,False,4429.386,20,Mexico City Grand Prix
+MAG,9.0,86.207,1.0,MEDIUM,9.0,1,True,Haas F1 Team,True,20.0,29.991,33.857,22.359,,False,False,4515.593,20,Mexico City Grand Prix
+MAG,10.0,85.689,1.0,MEDIUM,10.0,1,True,Haas F1 Team,True,20.0,29.885,33.649,22.155,,False,False,4601.282,20,Mexico City Grand Prix
+MAG,11.0,85.874,1.0,MEDIUM,11.0,1,True,Haas F1 Team,True,20.0,29.869,33.73,22.275,,False,False,4687.156,20,Mexico City Grand Prix
+MAG,12.0,85.63,1.0,MEDIUM,12.0,1,True,Haas F1 Team,True,20.0,29.883,33.596,22.151,,False,False,4772.786,20,Mexico City Grand Prix
+MAG,13.0,85.357,1.0,MEDIUM,13.0,1,True,Haas F1 Team,True,20.0,29.785,33.398,22.174,,False,False,4858.143,20,Mexico City Grand Prix
+MAG,14.0,85.438,1.0,MEDIUM,14.0,1,True,Haas F1 Team,True,20.0,29.871,33.402,22.165,,False,False,4943.581,20,Mexico City Grand Prix
+MAG,15.0,85.305,1.0,MEDIUM,15.0,1,True,Haas F1 Team,True,20.0,29.851,33.348,22.106,,False,False,5028.886,20,Mexico City Grand Prix
+MAG,16.0,85.147,1.0,MEDIUM,16.0,1,True,Haas F1 Team,True,20.0,29.763,33.223,22.161,,False,False,5114.033,20,Mexico City Grand Prix
+MAG,17.0,85.403,1.0,MEDIUM,17.0,1,True,Haas F1 Team,True,20.0,29.777,33.415,22.211,,False,False,5199.436,20,Mexico City Grand Prix
+MAG,18.0,85.744,1.0,MEDIUM,18.0,1,True,Haas F1 Team,True,19.0,29.913,33.417,22.414,,False,False,5285.18,20,Mexico City Grand Prix
+MAG,19.0,85.579,1.0,MEDIUM,19.0,1,True,Haas F1 Team,True,19.0,29.677,33.467,22.435,,False,False,5370.759,20,Mexico City Grand Prix
+MAG,20.0,85.447,1.0,MEDIUM,20.0,1,True,Haas F1 Team,True,19.0,29.668,33.514,22.265,,False,False,5456.206,20,Mexico City Grand Prix
+MAG,21.0,85.88,1.0,MEDIUM,21.0,1,True,Haas F1 Team,True,19.0,29.749,33.513,22.618,,False,False,5542.086,20,Mexico City Grand Prix
+MAG,22.0,86.266,1.0,MEDIUM,22.0,1,True,Haas F1 Team,True,19.0,29.4,34.339,22.527,,False,False,5628.352,20,Mexico City Grand Prix
+MAG,23.0,86.512,1.0,MEDIUM,23.0,1,True,Haas F1 Team,True,18.0,29.572,34.303,22.637,,False,False,5714.864,20,Mexico City Grand Prix
+MAG,24.0,85.092,1.0,MEDIUM,24.0,1,True,Haas F1 Team,True,17.0,29.244,33.56,22.288,,False,False,5799.956,20,Mexico City Grand Prix
+MAG,25.0,85.169,1.0,MEDIUM,25.0,1,True,Haas F1 Team,True,17.0,29.769,33.181,22.219,,False,False,5885.125,20,Mexico City Grand Prix
+MAG,26.0,85.166,1.0,MEDIUM,26.0,1,True,Haas F1 Team,True,17.0,29.754,33.317,22.095,,False,False,5970.291,20,Mexico City Grand Prix
+MAG,27.0,85.017,1.0,MEDIUM,27.0,1,True,Haas F1 Team,True,17.0,29.756,33.15,22.111,,False,False,6055.308,20,Mexico City Grand Prix
+MAG,28.0,84.991,1.0,MEDIUM,28.0,1,True,Haas F1 Team,True,17.0,29.655,33.155,22.181,,False,False,6140.299,20,Mexico City Grand Prix
+MAG,29.0,84.958,1.0,MEDIUM,29.0,1,True,Haas F1 Team,True,17.0,29.621,33.17,22.167,,False,False,6225.257,20,Mexico City Grand Prix
+MAG,30.0,85.105,1.0,MEDIUM,30.0,1,True,Haas F1 Team,True,17.0,29.682,33.364,22.059,,False,False,6310.362,20,Mexico City Grand Prix
+MAG,31.0,84.862,1.0,MEDIUM,31.0,1,True,Haas F1 Team,True,17.0,29.581,33.152,22.129,,False,False,6395.224,20,Mexico City Grand Prix
+MAG,32.0,85.048,1.0,MEDIUM,32.0,1,True,Haas F1 Team,True,17.0,29.633,33.279,22.136,,False,False,6480.272,20,Mexico City Grand Prix
+MAG,33.0,86.579,1.0,MEDIUM,33.0,1,True,Haas F1 Team,True,18.0,30.6,33.557,22.422,,False,False,6566.851,20,Mexico City Grand Prix
+MAG,34.0,85.39,1.0,MEDIUM,34.0,1,True,Haas F1 Team,True,18.0,29.772,33.437,22.181,,False,False,6652.241,20,Mexico City Grand Prix
+MAG,35.0,84.924,1.0,MEDIUM,35.0,1,True,Haas F1 Team,True,18.0,29.704,33.109,22.111,,False,False,6737.165,20,Mexico City Grand Prix
+MAG,36.0,85.933,1.0,MEDIUM,36.0,1,True,Haas F1 Team,True,18.0,29.654,33.262,23.017,,False,False,6823.098,20,Mexico City Grand Prix
+MAG,37.0,85.584,1.0,MEDIUM,37.0,1,True,Haas F1 Team,True,18.0,29.876,33.28,22.428,,False,False,6908.682,20,Mexico City Grand Prix
+MAG,38.0,88.642,1.0,MEDIUM,38.0,1,False,Haas F1 Team,True,18.0,29.651,33.312,25.679,,True,False,6997.324,20,Mexico City Grand Prix
+MAG,39.0,105.105,2.0,SOFT,4.0,1,False,Haas F1 Team,False,19.0,49.647,33.486,21.972,,False,True,7102.429,20,Mexico City Grand Prix
+MAG,40.0,85.009,2.0,SOFT,5.0,1,True,Haas F1 Team,False,19.0,29.947,33.248,21.814,,False,False,7187.438,20,Mexico City Grand Prix
+MAG,41.0,85.221,2.0,SOFT,6.0,1,True,Haas F1 Team,False,19.0,29.874,33.292,22.055,,False,False,7272.659,20,Mexico City Grand Prix
+MAG,42.0,84.638,2.0,SOFT,7.0,1,True,Haas F1 Team,False,19.0,29.77,33.077,21.791,,False,False,7357.297,20,Mexico City Grand Prix
+MAG,43.0,83.817,2.0,SOFT,8.0,1,True,Haas F1 Team,False,19.0,29.424,32.606,21.787,,False,False,7441.114,20,Mexico City Grand Prix
+MAG,44.0,84.919,2.0,SOFT,9.0,1,True,Haas F1 Team,False,19.0,30.09,33.02,21.809,,False,False,7526.033,20,Mexico City Grand Prix
+MAG,45.0,83.683,2.0,SOFT,10.0,1,True,Haas F1 Team,False,19.0,29.252,32.609,21.822,,False,False,7609.716,20,Mexico City Grand Prix
+MAG,46.0,85.445,2.0,SOFT,11.0,1,True,Haas F1 Team,False,19.0,30.386,33.328,21.731,,False,False,7695.161,20,Mexico City Grand Prix
+MAG,47.0,83.793,2.0,SOFT,12.0,1,True,Haas F1 Team,False,19.0,29.335,32.635,21.823,,False,False,7778.954,20,Mexico City Grand Prix
+MAG,48.0,83.611,2.0,SOFT,13.0,1,True,Haas F1 Team,False,19.0,29.355,32.602,21.654,,False,False,7862.565,20,Mexico City Grand Prix
+MAG,49.0,83.3,2.0,SOFT,14.0,1,True,Haas F1 Team,False,19.0,29.22,32.382,21.698,,False,False,7945.865,20,Mexico City Grand Prix
+MAG,50.0,83.658,2.0,SOFT,15.0,1,True,Haas F1 Team,False,19.0,29.327,32.624,21.707,,False,False,8029.523,20,Mexico City Grand Prix
+MAG,51.0,83.672,2.0,SOFT,16.0,1,True,Haas F1 Team,False,18.0,29.242,32.697,21.733,,False,False,8113.195,20,Mexico City Grand Prix
+MAG,52.0,83.736,2.0,SOFT,17.0,1,True,Haas F1 Team,False,18.0,29.389,32.663,21.684,,False,False,8196.931,20,Mexico City Grand Prix
+MAG,53.0,83.728,2.0,SOFT,18.0,1,True,Haas F1 Team,False,18.0,29.343,32.655,21.73,,False,False,8280.659,20,Mexico City Grand Prix
+MAG,54.0,83.721,2.0,SOFT,19.0,1,True,Haas F1 Team,False,18.0,29.368,32.623,21.73,,False,False,8364.38,20,Mexico City Grand Prix
+MAG,55.0,83.828,2.0,SOFT,20.0,1,True,Haas F1 Team,False,18.0,29.294,32.782,21.752,,False,False,8448.208,20,Mexico City Grand Prix
+MAG,56.0,83.598,2.0,SOFT,21.0,1,True,Haas F1 Team,False,18.0,29.338,32.566,21.694,,False,False,8531.806,20,Mexico City Grand Prix
+MAG,57.0,83.623,2.0,SOFT,22.0,1,True,Haas F1 Team,False,18.0,29.277,32.608,21.738,,False,False,8615.429,20,Mexico City Grand Prix
+MAG,58.0,83.92,2.0,SOFT,23.0,1,True,Haas F1 Team,False,18.0,29.484,32.656,21.78,,False,False,8699.349,20,Mexico City Grand Prix
+MAG,59.0,83.96,2.0,SOFT,24.0,1,True,Haas F1 Team,False,18.0,29.454,32.714,21.792,,False,False,8783.309,20,Mexico City Grand Prix
+MAG,60.0,83.845,2.0,SOFT,25.0,1,True,Haas F1 Team,False,18.0,29.286,32.71,21.849,,False,False,8867.154,20,Mexico City Grand Prix
+MAG,61.0,83.888,2.0,SOFT,26.0,1,True,Haas F1 Team,False,18.0,29.391,32.579,21.918,,False,False,8951.042,20,Mexico City Grand Prix
+MAG,62.0,83.902,2.0,SOFT,27.0,1,True,Haas F1 Team,False,18.0,29.375,32.597,21.93,,False,False,9034.944,20,Mexico City Grand Prix
+MAG,63.0,84.169,2.0,SOFT,28.0,126,False,Haas F1 Team,False,18.0,29.394,32.722,22.053,,False,False,9119.113,20,Mexico City Grand Prix
+MAG,64.0,101.125,2.0,SOFT,29.0,671,False,Haas F1 Team,False,17.0,41.607,37.627,21.891,,False,False,9220.238,20,Mexico City Grand Prix
+MAG,65.0,83.387,2.0,SOFT,30.0,1,True,Haas F1 Team,False,17.0,29.187,32.459,21.741,,False,False,9303.625,20,Mexico City Grand Prix
+MAG,66.0,84.066,2.0,SOFT,31.0,1,True,Haas F1 Team,False,17.0,29.364,32.659,22.043,,False,False,9387.691,20,Mexico City Grand Prix
+MAG,67.0,84.001,2.0,SOFT,32.0,1,True,Haas F1 Team,False,17.0,29.222,32.884,21.895,,False,False,9471.692,20,Mexico City Grand Prix
+MAG,68.0,83.823,2.0,SOFT,33.0,1,True,Haas F1 Team,False,17.0,29.244,32.603,21.976,,False,False,9555.515,20,Mexico City Grand Prix
+MAG,69.0,84.307,2.0,SOFT,34.0,1,True,Haas F1 Team,False,17.0,29.248,33.019,22.04,,False,False,9639.822,20,Mexico City Grand Prix
+MAG,70.0,84.324,2.0,SOFT,35.0,1,True,Haas F1 Team,False,17.0,29.435,32.851,22.038,,False,False,9724.146,20,Mexico City Grand Prix
+TSU,1.0,92.981,1.0,SOFT,1.0,1,False,AlphaTauri,True,11.0,,35.475,22.648,,False,False,3819.982,20,Mexico City Grand Prix
+TSU,2.0,85.857,1.0,SOFT,2.0,1,True,AlphaTauri,True,11.0,29.694,33.912,22.251,,False,False,3905.839,20,Mexico City Grand Prix
+TSU,3.0,85.315,1.0,SOFT,3.0,1,True,AlphaTauri,True,11.0,29.644,33.755,21.916,,False,False,3991.154,20,Mexico City Grand Prix
+TSU,4.0,84.8,1.0,SOFT,4.0,1,True,AlphaTauri,True,11.0,29.076,33.718,22.006,,False,False,4075.954,20,Mexico City Grand Prix
+TSU,5.0,84.943,1.0,SOFT,5.0,1,True,AlphaTauri,True,11.0,29.196,33.639,22.108,,False,False,4160.897,20,Mexico City Grand Prix
+TSU,6.0,85.123,1.0,SOFT,6.0,1,True,AlphaTauri,True,11.0,29.555,33.601,21.967,,False,False,4246.02,20,Mexico City Grand Prix
+TSU,7.0,85.002,1.0,SOFT,7.0,1,True,AlphaTauri,True,11.0,29.451,33.542,22.009,,False,False,4331.022,20,Mexico City Grand Prix
+TSU,8.0,84.857,1.0,SOFT,8.0,1,True,AlphaTauri,True,11.0,29.498,33.407,21.952,,False,False,4415.879,20,Mexico City Grand Prix
+TSU,9.0,84.902,1.0,SOFT,9.0,1,True,AlphaTauri,True,11.0,29.462,33.516,21.924,,False,False,4500.781,20,Mexico City Grand Prix
+TSU,10.0,84.909,1.0,SOFT,10.0,1,True,AlphaTauri,True,11.0,29.518,33.506,21.885,,False,False,4585.69,20,Mexico City Grand Prix
+TSU,11.0,84.597,1.0,SOFT,11.0,1,True,AlphaTauri,True,11.0,29.449,33.204,21.944,,False,False,4670.287,20,Mexico City Grand Prix
+TSU,12.0,84.922,1.0,SOFT,12.0,1,True,AlphaTauri,True,11.0,29.531,33.373,22.018,,False,False,4755.209,20,Mexico City Grand Prix
+TSU,13.0,84.728,1.0,SOFT,13.0,1,True,AlphaTauri,True,11.0,29.412,33.295,22.021,,False,False,4839.937,20,Mexico City Grand Prix
+TSU,14.0,84.754,1.0,SOFT,14.0,1,True,AlphaTauri,True,11.0,29.574,33.182,21.998,,False,False,4924.691,20,Mexico City Grand Prix
+TSU,15.0,84.691,1.0,SOFT,15.0,1,True,AlphaTauri,True,11.0,29.456,33.238,21.997,,False,False,5009.382,20,Mexico City Grand Prix
+TSU,16.0,84.58,1.0,SOFT,16.0,1,True,AlphaTauri,True,11.0,29.406,33.216,21.958,,False,False,5093.962,20,Mexico City Grand Prix
+TSU,17.0,84.679,1.0,SOFT,17.0,1,True,AlphaTauri,True,11.0,29.541,33.175,21.963,,False,False,5178.641,20,Mexico City Grand Prix
+TSU,18.0,84.775,1.0,SOFT,18.0,1,True,AlphaTauri,True,11.0,29.526,33.146,22.103,,False,False,5263.416,20,Mexico City Grand Prix
+TSU,19.0,84.626,1.0,SOFT,19.0,1,True,AlphaTauri,True,11.0,29.538,33.118,21.97,,False,False,5348.042,20,Mexico City Grand Prix
+TSU,20.0,84.659,1.0,SOFT,20.0,1,True,AlphaTauri,True,11.0,29.504,33.181,21.974,,False,False,5432.701,20,Mexico City Grand Prix
+TSU,21.0,84.973,1.0,SOFT,21.0,1,True,AlphaTauri,True,11.0,29.568,33.334,22.071,,False,False,5517.674,20,Mexico City Grand Prix
+TSU,22.0,84.731,1.0,SOFT,22.0,1,True,AlphaTauri,True,11.0,29.452,33.173,22.106,,False,False,5602.405,20,Mexico City Grand Prix
+TSU,23.0,84.686,1.0,SOFT,23.0,1,True,AlphaTauri,True,11.0,29.477,33.131,22.078,,False,False,5687.091,20,Mexico City Grand Prix
+TSU,24.0,84.986,1.0,SOFT,24.0,1,True,AlphaTauri,True,11.0,29.509,33.375,22.102,,False,False,5772.077,20,Mexico City Grand Prix
+TSU,25.0,85.023,1.0,SOFT,25.0,1,True,AlphaTauri,True,11.0,29.563,33.336,22.124,,False,False,5857.1,20,Mexico City Grand Prix
+TSU,26.0,84.789,1.0,SOFT,26.0,1,True,AlphaTauri,True,11.0,29.505,33.208,22.076,,False,False,5941.889,20,Mexico City Grand Prix
+TSU,27.0,84.748,1.0,SOFT,27.0,1,True,AlphaTauri,True,11.0,29.434,33.328,21.986,,False,False,6026.637,20,Mexico City Grand Prix
+TSU,28.0,84.954,1.0,SOFT,28.0,1,True,AlphaTauri,True,11.0,29.548,33.485,21.921,,False,False,6111.591,20,Mexico City Grand Prix
+TSU,29.0,88.031,1.0,SOFT,29.0,1,False,AlphaTauri,True,12.0,29.513,33.336,25.182,,True,False,6199.622,20,Mexico City Grand Prix
+TSU,30.0,103.104,2.0,MEDIUM,1.0,1,False,AlphaTauri,True,16.0,48.383,32.985,21.736,,False,True,6302.726,20,Mexico City Grand Prix
+TSU,31.0,83.617,2.0,MEDIUM,2.0,1,True,AlphaTauri,True,16.0,29.194,32.822,21.601,,False,False,6386.343,20,Mexico City Grand Prix
+TSU,32.0,84.123,2.0,MEDIUM,3.0,1,True,AlphaTauri,True,16.0,29.326,32.956,21.841,,False,False,6470.466,20,Mexico City Grand Prix
+TSU,33.0,84.598,2.0,MEDIUM,4.0,1,True,AlphaTauri,True,16.0,29.41,33.369,21.819,,False,False,6555.064,20,Mexico City Grand Prix
+TSU,34.0,84.209,2.0,MEDIUM,5.0,1,True,AlphaTauri,True,16.0,29.338,33.119,21.752,,False,False,6639.273,20,Mexico City Grand Prix
+TSU,35.0,84.188,2.0,MEDIUM,6.0,1,True,AlphaTauri,True,16.0,29.276,33.063,21.849,,False,False,6723.461,20,Mexico City Grand Prix
+TSU,36.0,83.976,2.0,MEDIUM,7.0,1,True,AlphaTauri,True,16.0,29.22,32.933,21.823,,False,False,6807.437,20,Mexico City Grand Prix
+TSU,37.0,84.047,2.0,MEDIUM,8.0,1,True,AlphaTauri,True,16.0,29.219,32.986,21.842,,False,False,6891.484,20,Mexico City Grand Prix
+TSU,38.0,84.96,2.0,MEDIUM,9.0,1,True,AlphaTauri,True,15.0,29.251,33.297,22.412,,False,False,6976.444,20,Mexico City Grand Prix
+TSU,39.0,83.794,2.0,MEDIUM,10.0,1,True,AlphaTauri,True,14.0,28.866,33.102,21.826,,False,False,7060.238,20,Mexico City Grand Prix
+TSU,40.0,84.279,2.0,MEDIUM,11.0,1,True,AlphaTauri,True,13.0,29.33,32.987,21.962,,False,False,7144.517,20,Mexico City Grand Prix
+TSU,41.0,83.914,2.0,MEDIUM,12.0,1,True,AlphaTauri,True,13.0,29.161,32.909,21.844,,False,False,7228.431,20,Mexico City Grand Prix
+TSU,42.0,84.149,2.0,MEDIUM,13.0,1,True,AlphaTauri,True,13.0,29.314,33.074,21.761,,False,False,7312.58,20,Mexico City Grand Prix
+TSU,43.0,84.165,2.0,MEDIUM,14.0,1,True,AlphaTauri,True,13.0,29.258,33.034,21.873,,False,False,7396.745,20,Mexico City Grand Prix
+TSU,44.0,85.308,2.0,MEDIUM,15.0,1,True,AlphaTauri,True,13.0,29.279,33.289,22.74,,False,False,7482.053,20,Mexico City Grand Prix
+TSU,45.0,83.673,2.0,MEDIUM,16.0,1,True,AlphaTauri,True,12.0,28.869,33.064,21.74,,False,False,7565.726,20,Mexico City Grand Prix
+TSU,46.0,84.129,2.0,MEDIUM,17.0,1,True,AlphaTauri,True,11.0,29.262,33.002,21.865,,False,False,7649.855,20,Mexico City Grand Prix
+TSU,47.0,83.72,2.0,MEDIUM,18.0,1,True,AlphaTauri,True,11.0,29.116,32.863,21.741,,False,False,7733.575,20,Mexico City Grand Prix
+TSU,48.0,83.403,2.0,MEDIUM,19.0,1,True,AlphaTauri,True,11.0,29.098,32.684,21.621,,False,False,7816.978,20,Mexico City Grand Prix
+TSU,49.0,83.589,2.0,MEDIUM,20.0,1,True,AlphaTauri,True,11.0,29.129,32.833,21.627,,False,False,7900.567,20,Mexico City Grand Prix
+TSU,50.0,107.784,2.0,MEDIUM,21.0,1,False,AlphaTauri,True,16.0,29.52,50.76,27.504,,True,False,8008.351,20,Mexico City Grand Prix
+ALB,1.0,96.903,1.0,MEDIUM,1.0,1,False,Williams,True,19.0,,36.822,23.322,,False,False,3823.904,20,Mexico City Grand Prix
+ALB,2.0,86.789,1.0,MEDIUM,2.0,1,True,Williams,True,19.0,30.108,34.294,22.387,,False,False,3910.693,20,Mexico City Grand Prix
+ALB,3.0,86.695,1.0,MEDIUM,3.0,1,True,Williams,True,19.0,29.794,34.342,22.559,,False,False,3997.388,20,Mexico City Grand Prix
+ALB,4.0,85.629,1.0,MEDIUM,4.0,1,True,Williams,True,19.0,29.115,34.272,22.242,,False,False,4083.017,20,Mexico City Grand Prix
+ALB,5.0,85.875,1.0,MEDIUM,5.0,1,True,Williams,True,18.0,29.458,34.381,22.036,,False,False,4168.892,20,Mexico City Grand Prix
+ALB,6.0,85.108,1.0,MEDIUM,6.0,1,True,Williams,True,18.0,29.657,33.414,22.037,,False,False,4254.0,20,Mexico City Grand Prix
+ALB,7.0,85.05,1.0,MEDIUM,7.0,1,True,Williams,True,18.0,29.637,33.368,22.045,,False,False,4339.05,20,Mexico City Grand Prix
+ALB,8.0,85.265,1.0,MEDIUM,8.0,1,True,Williams,True,18.0,29.592,33.456,22.217,,False,False,4424.315,20,Mexico City Grand Prix
+ALB,9.0,84.996,1.0,MEDIUM,9.0,1,True,Williams,True,17.0,29.264,33.5,22.232,,False,False,4509.311,20,Mexico City Grand Prix
+ALB,10.0,84.96,1.0,MEDIUM,10.0,1,True,Williams,True,17.0,29.575,33.319,22.066,,False,False,4594.271,20,Mexico City Grand Prix
+ALB,11.0,85.159,1.0,MEDIUM,11.0,1,True,Williams,True,17.0,29.56,33.442,22.157,,False,False,4679.43,20,Mexico City Grand Prix
+ALB,12.0,85.312,1.0,MEDIUM,12.0,1,True,Williams,True,17.0,29.655,33.462,22.195,,False,False,4764.742,20,Mexico City Grand Prix
+ALB,13.0,86.206,1.0,MEDIUM,13.0,1,True,Williams,True,17.0,29.534,34.037,22.635,,False,False,4850.948,20,Mexico City Grand Prix
+ALB,14.0,85.301,1.0,MEDIUM,14.0,1,True,Williams,True,17.0,29.287,33.894,22.12,,False,False,4936.249,20,Mexico City Grand Prix
+ALB,15.0,85.141,1.0,MEDIUM,15.0,1,True,Williams,True,17.0,29.282,33.739,22.12,,False,False,5021.39,20,Mexico City Grand Prix
+ALB,16.0,85.269,1.0,MEDIUM,16.0,1,True,Williams,True,17.0,29.094,33.93,22.245,,False,False,5106.659,20,Mexico City Grand Prix
+ALB,17.0,85.978,1.0,MEDIUM,17.0,1,True,Williams,True,16.0,29.281,34.293,22.404,,False,False,5192.637,20,Mexico City Grand Prix
+ALB,18.0,84.55,1.0,MEDIUM,18.0,1,True,Williams,True,16.0,29.086,33.215,22.249,,False,False,5277.187,20,Mexico City Grand Prix
+ALB,19.0,84.92,1.0,MEDIUM,19.0,1,True,Williams,True,16.0,29.596,33.268,22.056,,False,False,5362.107,20,Mexico City Grand Prix
+ALB,20.0,84.983,1.0,MEDIUM,20.0,1,True,Williams,True,16.0,29.541,33.263,22.179,,False,False,5447.09,20,Mexico City Grand Prix
+ALB,21.0,85.024,1.0,MEDIUM,21.0,1,True,Williams,True,16.0,29.503,33.324,22.197,,False,False,5532.114,20,Mexico City Grand Prix
+ALB,22.0,84.896,1.0,MEDIUM,22.0,1,True,Williams,True,16.0,29.459,33.245,22.192,,False,False,5617.01,20,Mexico City Grand Prix
+ALB,23.0,84.857,1.0,MEDIUM,23.0,1,True,Williams,True,16.0,29.514,33.23,22.113,,False,False,5701.867,20,Mexico City Grand Prix
+ALB,24.0,84.898,1.0,MEDIUM,24.0,1,True,Williams,True,16.0,29.589,33.162,22.147,,False,False,5786.765,20,Mexico City Grand Prix
+ALB,25.0,85.111,1.0,MEDIUM,25.0,1,True,Williams,True,16.0,29.442,33.262,22.407,,False,False,5871.876,20,Mexico City Grand Prix
+ALB,26.0,84.804,1.0,MEDIUM,26.0,1,True,Williams,True,16.0,29.474,33.252,22.078,,False,False,5956.68,20,Mexico City Grand Prix
+ALB,27.0,84.654,1.0,MEDIUM,27.0,1,True,Williams,True,16.0,29.383,33.186,22.085,,False,False,6041.334,20,Mexico City Grand Prix
+ALB,28.0,85.128,1.0,MEDIUM,28.0,1,True,Williams,True,16.0,29.524,33.425,22.179,,False,False,6126.462,20,Mexico City Grand Prix
+ALB,29.0,84.824,1.0,MEDIUM,29.0,1,True,Williams,True,16.0,29.442,33.277,22.105,,False,False,6211.286,20,Mexico City Grand Prix
+ALB,30.0,84.76,1.0,MEDIUM,30.0,1,True,Williams,True,15.0,29.442,33.193,22.125,,False,False,6296.046,20,Mexico City Grand Prix
+ALB,31.0,84.979,1.0,MEDIUM,31.0,1,True,Williams,True,15.0,29.521,33.265,22.193,,False,False,6381.025,20,Mexico City Grand Prix
+ALB,32.0,84.629,1.0,MEDIUM,32.0,1,True,Williams,True,14.0,29.494,33.096,22.039,,False,False,6465.654,20,Mexico City Grand Prix
+ALB,33.0,84.815,1.0,MEDIUM,33.0,1,True,Williams,True,14.0,29.428,33.323,22.064,,False,False,6550.469,20,Mexico City Grand Prix
+ALB,34.0,85.114,1.0,MEDIUM,34.0,1,True,Williams,True,14.0,29.526,33.475,22.113,,False,False,6635.583,20,Mexico City Grand Prix
+ALB,35.0,84.79,1.0,MEDIUM,35.0,1,True,Williams,True,14.0,29.435,33.3,22.055,,False,False,6720.373,20,Mexico City Grand Prix
+ALB,36.0,84.678,1.0,MEDIUM,36.0,1,True,Williams,True,14.0,29.543,33.194,21.941,,False,False,6805.051,20,Mexico City Grand Prix
+ALB,37.0,84.765,1.0,MEDIUM,37.0,1,True,Williams,True,14.0,29.396,33.191,22.178,,False,False,6889.816,20,Mexico City Grand Prix
+ALB,38.0,89.558,1.0,MEDIUM,38.0,1,False,Williams,True,16.0,30.003,33.823,25.732,,True,False,6979.374,20,Mexico City Grand Prix
+ALB,39.0,102.895,2.0,SOFT,1.0,1,False,Williams,True,17.0,49.024,32.488,21.383,,False,True,7082.269,20,Mexico City Grand Prix
+ALB,40.0,83.297,2.0,SOFT,2.0,1,True,Williams,True,17.0,29.249,32.446,21.602,,False,False,7165.566,20,Mexico City Grand Prix
+ALB,41.0,82.995,2.0,SOFT,3.0,1,True,Williams,True,15.0,28.895,32.522,21.578,,False,False,7248.561,20,Mexico City Grand Prix
+ALB,42.0,83.361,2.0,SOFT,4.0,1,True,Williams,True,15.0,29.173,32.649,21.539,,False,False,7331.922,20,Mexico City Grand Prix
+ALB,43.0,83.134,2.0,SOFT,5.0,1,True,Williams,True,15.0,29.119,32.456,21.559,,False,False,7415.056,20,Mexico City Grand Prix
+ALB,44.0,83.119,2.0,SOFT,6.0,1,True,Williams,True,15.0,28.972,32.591,21.556,,False,False,7498.175,20,Mexico City Grand Prix
+ALB,45.0,85.318,2.0,SOFT,7.0,1,True,Williams,True,15.0,30.578,33.208,21.532,,False,False,7583.493,20,Mexico City Grand Prix
+ALB,46.0,82.987,2.0,SOFT,8.0,1,True,Williams,True,14.0,29.055,32.45,21.482,,False,False,7666.48,20,Mexico City Grand Prix
+ALB,47.0,83.046,2.0,SOFT,9.0,1,True,Williams,True,14.0,28.974,32.522,21.55,,False,False,7749.526,20,Mexico City Grand Prix
+ALB,48.0,82.914,2.0,SOFT,10.0,1,True,Williams,True,14.0,29.016,32.415,21.483,,False,False,7832.44,20,Mexico City Grand Prix
+ALB,49.0,83.071,2.0,SOFT,11.0,1,True,Williams,True,14.0,28.952,32.421,21.698,,False,False,7915.511,20,Mexico City Grand Prix
+ALB,50.0,84.411,2.0,SOFT,12.0,1,True,Williams,True,13.0,29.037,33.468,21.906,,False,False,7999.922,20,Mexico City Grand Prix
+ALB,51.0,83.726,2.0,SOFT,13.0,1,True,Williams,True,12.0,29.216,32.824,21.686,,False,False,8083.648,20,Mexico City Grand Prix
+ALB,52.0,83.141,2.0,SOFT,14.0,1,True,Williams,True,12.0,29.1,32.432,21.609,,False,False,8166.789,20,Mexico City Grand Prix
+ALB,53.0,83.254,2.0,SOFT,15.0,1,True,Williams,True,12.0,29.215,32.499,21.54,,False,False,8250.043,20,Mexico City Grand Prix
+ALB,54.0,83.04,2.0,SOFT,16.0,1,True,Williams,True,12.0,29.083,32.436,21.521,,False,False,8333.083,20,Mexico City Grand Prix
+ALB,55.0,83.186,2.0,SOFT,17.0,1,True,Williams,True,12.0,29.102,32.501,21.583,,False,False,8416.269,20,Mexico City Grand Prix
+ALB,56.0,83.45,2.0,SOFT,18.0,1,True,Williams,True,12.0,29.156,32.685,21.609,,False,False,8499.719,20,Mexico City Grand Prix
+ALB,57.0,83.345,2.0,SOFT,19.0,1,True,Williams,True,12.0,29.133,32.6,21.612,,False,False,8583.064,20,Mexico City Grand Prix
+ALB,58.0,83.557,2.0,SOFT,20.0,1,True,Williams,True,12.0,29.147,32.683,21.727,,False,False,8666.621,20,Mexico City Grand Prix
+ALB,59.0,83.519,2.0,SOFT,21.0,1,True,Williams,True,12.0,29.106,32.66,21.753,,False,False,8750.14,20,Mexico City Grand Prix
+ALB,60.0,83.4,2.0,SOFT,22.0,1,True,Williams,True,12.0,29.051,32.607,21.742,,False,False,8833.54,20,Mexico City Grand Prix
+ALB,61.0,83.697,2.0,SOFT,23.0,1,True,Williams,True,12.0,29.067,32.756,21.874,,False,False,8917.237,20,Mexico City Grand Prix
+ALB,62.0,83.631,2.0,SOFT,24.0,1,True,Williams,True,12.0,29.004,32.734,21.893,,False,False,9000.868,20,Mexico City Grand Prix
+ALB,63.0,83.344,2.0,SOFT,25.0,1,True,Williams,True,12.0,29.086,32.582,21.676,,False,False,9084.212,20,Mexico City Grand Prix
+ALB,64.0,99.438,2.0,SOFT,26.0,1267,False,Williams,True,11.0,29.225,43.216,26.997,,False,False,9183.65,20,Mexico City Grand Prix
+ALB,65.0,84.868,2.0,SOFT,27.0,1,True,Williams,True,11.0,30.321,32.811,21.736,,False,False,9268.518,20,Mexico City Grand Prix
+ALB,66.0,83.205,2.0,SOFT,28.0,1,True,Williams,True,11.0,29.01,32.493,21.702,,False,False,9351.723,20,Mexico City Grand Prix
+ALB,67.0,83.891,2.0,SOFT,29.0,1,True,Williams,True,11.0,28.965,32.74,22.186,,False,False,9435.614,20,Mexico City Grand Prix
+ALB,68.0,85.115,2.0,SOFT,30.0,1,True,Williams,True,12.0,29.656,33.326,22.133,,False,False,9520.729,20,Mexico City Grand Prix
+ALB,69.0,83.907,2.0,SOFT,31.0,1,True,Williams,True,12.0,29.12,32.81,21.977,,False,False,9604.636,20,Mexico City Grand Prix
+ALB,70.0,83.997,2.0,SOFT,32.0,1,True,Williams,True,12.0,29.13,32.771,22.096,,False,False,9688.633,20,Mexico City Grand Prix
+ZHO,1.0,93.553,1.0,MEDIUM,1.0,1,False,Alfa Romeo,True,12.0,,35.914,22.669,,False,False,3820.554,20,Mexico City Grand Prix
+ZHO,2.0,85.89,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,12.0,29.893,33.86,22.137,,False,False,3906.444,20,Mexico City Grand Prix
+ZHO,3.0,85.938,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,12.0,30.142,33.891,21.905,,False,False,3992.382,20,Mexico City Grand Prix
+ZHO,4.0,85.401,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,12.0,30.084,33.496,21.821,,False,False,4077.783,20,Mexico City Grand Prix
+ZHO,5.0,84.652,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,12.0,29.96,33.04,21.652,,False,False,4162.435,20,Mexico City Grand Prix
+ZHO,6.0,84.795,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,12.0,29.777,33.236,21.782,,False,False,4247.23,20,Mexico City Grand Prix
+ZHO,7.0,85.524,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,12.0,29.923,33.752,21.849,,False,False,4332.754,20,Mexico City Grand Prix
+ZHO,8.0,85.166,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,12.0,30.015,33.222,21.929,,False,False,4417.92,20,Mexico City Grand Prix
+ZHO,9.0,86.05,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,13.0,30.397,33.53,22.123,,False,False,4503.97,20,Mexico City Grand Prix
+ZHO,10.0,84.82,1.0,MEDIUM,10.0,1,True,Alfa Romeo,True,13.0,29.551,33.36,21.909,,False,False,4588.79,20,Mexico City Grand Prix
+ZHO,11.0,84.805,1.0,MEDIUM,11.0,1,True,Alfa Romeo,True,13.0,29.415,33.26,22.13,,False,False,4673.595,20,Mexico City Grand Prix
+ZHO,12.0,84.675,1.0,MEDIUM,12.0,1,True,Alfa Romeo,True,13.0,29.39,33.262,22.023,,False,False,4758.27,20,Mexico City Grand Prix
+ZHO,13.0,84.471,1.0,MEDIUM,13.0,1,True,Alfa Romeo,True,13.0,29.372,33.176,21.923,,False,False,4842.741,20,Mexico City Grand Prix
+ZHO,14.0,84.737,1.0,MEDIUM,14.0,1,True,Alfa Romeo,True,13.0,29.824,32.958,21.955,,False,False,4927.478,20,Mexico City Grand Prix
+ZHO,15.0,84.705,1.0,MEDIUM,15.0,1,True,Alfa Romeo,True,13.0,29.766,32.99,21.949,,False,False,5012.183,20,Mexico City Grand Prix
+ZHO,16.0,84.632,1.0,MEDIUM,16.0,1,True,Alfa Romeo,True,13.0,29.784,32.911,21.937,,False,False,5096.815,20,Mexico City Grand Prix
+ZHO,17.0,85.071,1.0,MEDIUM,17.0,1,True,Alfa Romeo,True,13.0,29.88,33.094,22.097,,False,False,5181.886,20,Mexico City Grand Prix
+ZHO,18.0,85.112,1.0,MEDIUM,18.0,1,True,Alfa Romeo,True,13.0,29.776,33.105,22.231,,False,False,5266.998,20,Mexico City Grand Prix
+ZHO,19.0,85.035,1.0,MEDIUM,19.0,1,True,Alfa Romeo,True,13.0,29.67,33.187,22.178,,False,False,5352.033,20,Mexico City Grand Prix
+ZHO,20.0,84.965,1.0,MEDIUM,20.0,1,True,Alfa Romeo,True,13.0,29.815,33.109,22.041,,False,False,5436.998,20,Mexico City Grand Prix
+ZHO,21.0,85.018,1.0,MEDIUM,21.0,1,True,Alfa Romeo,True,13.0,29.645,33.321,22.052,,False,False,5522.016,20,Mexico City Grand Prix
+ZHO,22.0,85.054,1.0,MEDIUM,22.0,1,True,Alfa Romeo,True,13.0,29.651,33.173,22.23,,False,False,5607.07,20,Mexico City Grand Prix
+ZHO,23.0,85.493,1.0,MEDIUM,23.0,1,True,Alfa Romeo,True,13.0,29.921,33.458,22.114,,False,False,5692.563,20,Mexico City Grand Prix
+ZHO,24.0,85.671,1.0,MEDIUM,24.0,1,True,Alfa Romeo,True,13.0,30.013,33.468,22.19,,False,False,5778.234,20,Mexico City Grand Prix
+ZHO,25.0,85.069,1.0,MEDIUM,25.0,1,True,Alfa Romeo,True,13.0,29.824,33.193,22.052,,False,False,5863.303,20,Mexico City Grand Prix
+ZHO,26.0,85.13,1.0,MEDIUM,26.0,1,True,Alfa Romeo,True,13.0,29.883,33.221,22.026,,False,False,5948.433,20,Mexico City Grand Prix
+ZHO,27.0,84.687,1.0,MEDIUM,27.0,1,True,Alfa Romeo,True,13.0,29.683,33.062,21.942,,False,False,6033.12,20,Mexico City Grand Prix
+ZHO,28.0,84.54,1.0,MEDIUM,28.0,1,True,Alfa Romeo,True,13.0,29.746,32.986,21.808,,False,False,6117.66,20,Mexico City Grand Prix
+ZHO,29.0,84.875,1.0,MEDIUM,29.0,1,True,Alfa Romeo,True,13.0,29.758,33.069,22.048,,False,False,6202.535,20,Mexico City Grand Prix
+ZHO,30.0,84.712,1.0,MEDIUM,30.0,1,True,Alfa Romeo,True,12.0,29.731,32.953,22.028,,False,False,6287.247,20,Mexico City Grand Prix
+ZHO,31.0,84.919,1.0,MEDIUM,31.0,1,True,Alfa Romeo,True,12.0,29.782,33.103,22.034,,False,False,6372.166,20,Mexico City Grand Prix
+ZHO,32.0,84.677,1.0,MEDIUM,32.0,1,True,Alfa Romeo,True,11.0,29.763,32.974,21.94,,False,False,6456.843,20,Mexico City Grand Prix
+ZHO,33.0,84.639,1.0,MEDIUM,33.0,1,True,Alfa Romeo,True,11.0,29.734,32.985,21.92,,False,False,6541.482,20,Mexico City Grand Prix
+ZHO,34.0,84.617,1.0,MEDIUM,34.0,1,True,Alfa Romeo,True,10.0,29.698,32.928,21.991,,False,False,6626.099,20,Mexico City Grand Prix
+ZHO,35.0,84.791,1.0,MEDIUM,35.0,1,True,Alfa Romeo,True,10.0,29.777,33.052,21.962,,False,False,6710.89,20,Mexico City Grand Prix
+ZHO,36.0,84.547,1.0,MEDIUM,36.0,1,True,Alfa Romeo,True,10.0,29.751,32.893,21.903,,False,False,6795.437,20,Mexico City Grand Prix
+ZHO,37.0,84.735,1.0,MEDIUM,37.0,1,True,Alfa Romeo,True,10.0,29.709,32.982,22.044,,False,False,6880.172,20,Mexico City Grand Prix
+ZHO,38.0,84.87,1.0,MEDIUM,38.0,1,True,Alfa Romeo,True,10.0,29.782,32.978,22.11,,False,False,6965.042,20,Mexico City Grand Prix
+ZHO,39.0,84.989,1.0,MEDIUM,39.0,1,True,Alfa Romeo,True,10.0,29.873,33.041,22.075,,False,False,7050.031,20,Mexico City Grand Prix
+ZHO,40.0,84.787,1.0,MEDIUM,40.0,1,True,Alfa Romeo,True,9.0,29.825,32.969,21.993,,False,False,7134.818,20,Mexico City Grand Prix
+ZHO,41.0,85.234,1.0,MEDIUM,41.0,1,True,Alfa Romeo,True,9.0,29.855,33.303,22.076,,False,False,7220.052,20,Mexico City Grand Prix
+ZHO,42.0,85.051,1.0,MEDIUM,42.0,1,True,Alfa Romeo,True,9.0,29.598,33.354,22.099,,False,False,7305.103,20,Mexico City Grand Prix
+ZHO,43.0,85.102,1.0,MEDIUM,43.0,1,True,Alfa Romeo,True,9.0,29.794,33.165,22.143,,False,False,7390.205,20,Mexico City Grand Prix
+ZHO,44.0,85.248,1.0,MEDIUM,44.0,1,True,Alfa Romeo,True,9.0,29.706,33.199,22.343,,False,False,7475.453,20,Mexico City Grand Prix
+ZHO,45.0,89.926,1.0,MEDIUM,45.0,1,False,Alfa Romeo,True,11.0,30.519,33.909,25.498,,True,False,7565.379,20,Mexico City Grand Prix
+ZHO,46.0,103.748,2.0,SOFT,1.0,1,False,Alfa Romeo,True,16.0,50.426,32.28,21.042,,False,True,7669.127,20,Mexico City Grand Prix
+ZHO,47.0,82.26,2.0,SOFT,2.0,1,True,Alfa Romeo,True,16.0,29.12,31.904,21.236,,False,False,7751.387,20,Mexico City Grand Prix
+ZHO,48.0,82.665,2.0,SOFT,3.0,1,True,Alfa Romeo,True,16.0,29.153,32.096,21.416,,False,False,7834.052,20,Mexico City Grand Prix
+ZHO,49.0,82.878,2.0,SOFT,4.0,1,True,Alfa Romeo,True,16.0,28.639,32.727,21.512,,False,False,7916.93,20,Mexico City Grand Prix
+ZHO,50.0,84.733,2.0,SOFT,5.0,1,True,Alfa Romeo,True,15.0,28.717,34.064,21.952,,False,False,8001.663,20,Mexico City Grand Prix
+ZHO,51.0,84.111,2.0,SOFT,6.0,1,True,Alfa Romeo,True,15.0,29.138,33.095,21.878,,False,False,8085.774,20,Mexico City Grand Prix
+ZHO,52.0,83.781,2.0,SOFT,7.0,1,True,Alfa Romeo,True,15.0,28.991,33.028,21.762,,False,False,8169.555,20,Mexico City Grand Prix
+ZHO,53.0,85.729,2.0,SOFT,8.0,1,True,Alfa Romeo,True,15.0,28.904,34.794,22.031,,False,False,8255.284,20,Mexico City Grand Prix
+ZHO,54.0,84.966,2.0,SOFT,9.0,1,True,Alfa Romeo,True,15.0,29.495,33.751,21.72,,False,False,8340.25,20,Mexico City Grand Prix
+ZHO,55.0,83.699,2.0,SOFT,10.0,1,True,Alfa Romeo,True,15.0,29.122,32.952,21.625,,False,False,8423.949,20,Mexico City Grand Prix
+ZHO,56.0,83.536,2.0,SOFT,11.0,1,True,Alfa Romeo,True,15.0,29.218,32.729,21.589,,False,False,8507.485,20,Mexico City Grand Prix
+ZHO,57.0,85.147,2.0,SOFT,12.0,1,True,Alfa Romeo,True,14.0,29.579,33.795,21.773,,False,False,8592.632,20,Mexico City Grand Prix
+ZHO,58.0,84.022,2.0,SOFT,13.0,1,True,Alfa Romeo,True,14.0,29.641,32.749,21.632,,False,False,8676.654,20,Mexico City Grand Prix
+ZHO,59.0,83.709,2.0,SOFT,14.0,1,True,Alfa Romeo,True,14.0,29.416,32.739,21.554,,False,False,8760.363,20,Mexico City Grand Prix
+ZHO,60.0,83.358,2.0,SOFT,15.0,1,True,Alfa Romeo,True,14.0,29.226,32.514,21.618,,False,False,8843.721,20,Mexico City Grand Prix
+ZHO,61.0,83.544,2.0,SOFT,16.0,1,True,Alfa Romeo,True,14.0,29.391,32.508,21.645,,False,False,8927.265,20,Mexico City Grand Prix
+ZHO,62.0,83.842,2.0,SOFT,17.0,1,True,Alfa Romeo,True,14.0,29.445,32.649,21.748,,False,False,9011.107,20,Mexico City Grand Prix
+ZHO,63.0,83.998,2.0,SOFT,18.0,12,True,Alfa Romeo,True,14.0,29.496,32.707,21.795,,False,False,9095.105,20,Mexico City Grand Prix
+ZHO,64.0,100.114,2.0,SOFT,19.0,2671,False,Alfa Romeo,True,13.0,34.378,41.628,24.108,,False,False,9195.219,20,Mexico City Grand Prix
+ZHO,65.0,84.022,2.0,SOFT,20.0,1,True,Alfa Romeo,True,13.0,29.725,32.691,21.606,,False,False,9279.241,20,Mexico City Grand Prix
+ZHO,66.0,83.864,2.0,SOFT,21.0,1,True,Alfa Romeo,True,13.0,29.454,32.64,21.77,,False,False,9363.105,20,Mexico City Grand Prix
+ZHO,67.0,83.467,2.0,SOFT,22.0,1,True,Alfa Romeo,True,13.0,29.391,32.494,21.582,,False,False,9446.572,20,Mexico City Grand Prix
+ZHO,68.0,83.571,2.0,SOFT,23.0,1,True,Alfa Romeo,True,13.0,29.415,32.554,21.602,,False,False,9530.143,20,Mexico City Grand Prix
+ZHO,69.0,84.65,2.0,SOFT,24.0,1,True,Alfa Romeo,True,13.0,29.498,32.894,22.258,,False,False,9614.793,20,Mexico City Grand Prix
+ZHO,70.0,84.969,2.0,SOFT,25.0,1,True,Alfa Romeo,True,13.0,29.8,33.051,22.118,,False,False,9699.762,20,Mexico City Grand Prix
+RIC,1.0,93.983,1.0,MEDIUM,1.0,1,False,McLaren,True,13.0,,36.04,22.75,,False,False,3820.984,20,Mexico City Grand Prix
+RIC,2.0,85.959,1.0,MEDIUM,2.0,1,True,McLaren,True,13.0,29.947,33.918,22.094,,False,False,3906.943,20,Mexico City Grand Prix
+RIC,3.0,86.17,1.0,MEDIUM,3.0,1,True,McLaren,True,13.0,29.737,34.481,21.952,,False,False,3993.113,20,Mexico City Grand Prix
+RIC,4.0,85.498,1.0,MEDIUM,4.0,1,True,McLaren,True,13.0,29.434,34.032,22.032,,False,False,4078.611,20,Mexico City Grand Prix
+RIC,5.0,84.721,1.0,MEDIUM,5.0,1,True,McLaren,True,13.0,29.41,33.659,21.652,,False,False,4163.332,20,Mexico City Grand Prix
+RIC,6.0,84.629,1.0,MEDIUM,6.0,1,True,McLaren,True,13.0,29.45,33.397,21.782,,False,False,4247.961,20,Mexico City Grand Prix
+RIC,7.0,85.571,1.0,MEDIUM,7.0,1,True,McLaren,True,13.0,29.272,34.414,21.885,,False,False,4333.532,20,Mexico City Grand Prix
+RIC,8.0,85.076,1.0,MEDIUM,8.0,1,True,McLaren,True,13.0,29.475,33.64,21.961,,False,False,4418.608,20,Mexico City Grand Prix
+RIC,9.0,84.528,1.0,MEDIUM,9.0,1,True,McLaren,True,12.0,29.228,33.307,21.993,,False,False,4503.136,20,Mexico City Grand Prix
+RIC,10.0,84.666,1.0,MEDIUM,10.0,1,True,McLaren,True,12.0,29.784,33.0,21.882,,False,False,4587.802,20,Mexico City Grand Prix
+RIC,11.0,84.77,1.0,MEDIUM,11.0,1,True,McLaren,True,12.0,29.784,33.137,21.849,,False,False,4672.572,20,Mexico City Grand Prix
+RIC,12.0,84.745,1.0,MEDIUM,12.0,1,True,McLaren,True,12.0,29.687,33.15,21.908,,False,False,4757.317,20,Mexico City Grand Prix
+RIC,13.0,84.321,1.0,MEDIUM,13.0,1,True,McLaren,True,12.0,29.504,33.007,21.81,,False,False,4841.638,20,Mexico City Grand Prix
+RIC,14.0,84.495,1.0,MEDIUM,14.0,1,True,McLaren,True,12.0,29.544,32.976,21.975,,False,False,4926.133,20,Mexico City Grand Prix
+RIC,15.0,84.664,1.0,MEDIUM,15.0,1,True,McLaren,True,12.0,29.549,33.202,21.913,,False,False,5010.797,20,Mexico City Grand Prix
+RIC,16.0,84.713,1.0,MEDIUM,16.0,1,True,McLaren,True,12.0,29.53,33.106,22.077,,False,False,5095.51,20,Mexico City Grand Prix
+RIC,17.0,84.675,1.0,MEDIUM,17.0,1,True,McLaren,True,12.0,29.653,33.013,22.009,,False,False,5180.185,20,Mexico City Grand Prix
+RIC,18.0,84.886,1.0,MEDIUM,18.0,1,True,McLaren,True,12.0,29.628,33.093,22.165,,False,False,5265.071,20,Mexico City Grand Prix
+RIC,19.0,84.787,1.0,MEDIUM,19.0,1,True,McLaren,True,12.0,29.677,33.08,22.03,,False,False,5349.858,20,Mexico City Grand Prix
+RIC,20.0,84.687,1.0,MEDIUM,20.0,1,True,McLaren,True,12.0,29.527,33.138,22.022,,False,False,5434.545,20,Mexico City Grand Prix
+RIC,21.0,84.649,1.0,MEDIUM,21.0,1,True,McLaren,True,12.0,29.393,33.208,22.048,,False,False,5519.194,20,Mexico City Grand Prix
+RIC,22.0,84.73,1.0,MEDIUM,22.0,1,True,McLaren,True,12.0,29.402,33.072,22.256,,False,False,5603.924,20,Mexico City Grand Prix
+RIC,23.0,84.559,1.0,MEDIUM,23.0,1,True,McLaren,True,12.0,29.416,33.087,22.056,,False,False,5688.483,20,Mexico City Grand Prix
+RIC,24.0,84.922,1.0,MEDIUM,24.0,1,True,McLaren,True,12.0,29.613,33.293,22.016,,False,False,5773.405,20,Mexico City Grand Prix
+RIC,25.0,84.823,1.0,MEDIUM,25.0,1,True,McLaren,True,12.0,29.543,33.271,22.009,,False,False,5858.228,20,Mexico City Grand Prix
+RIC,26.0,84.789,1.0,MEDIUM,26.0,1,True,McLaren,True,12.0,29.555,33.187,22.047,,False,False,5943.017,20,Mexico City Grand Prix
+RIC,27.0,84.53,1.0,MEDIUM,27.0,1,True,McLaren,True,12.0,29.544,33.081,21.905,,False,False,6027.547,20,Mexico City Grand Prix
+RIC,28.0,84.886,1.0,MEDIUM,28.0,1,True,McLaren,True,12.0,29.276,33.498,22.112,,False,False,6112.433,20,Mexico City Grand Prix
+RIC,29.0,84.919,1.0,MEDIUM,29.0,1,True,McLaren,True,10.0,29.213,33.641,22.065,,False,False,6197.352,20,Mexico City Grand Prix
+RIC,30.0,84.744,1.0,MEDIUM,30.0,1,True,McLaren,True,10.0,29.169,33.327,22.248,,False,False,6282.096,20,Mexico City Grand Prix
+RIC,31.0,85.432,1.0,MEDIUM,31.0,1,True,McLaren,True,11.0,30.046,33.369,22.017,,False,False,6367.528,20,Mexico City Grand Prix
+RIC,32.0,84.527,1.0,MEDIUM,32.0,1,True,McLaren,True,10.0,29.54,33.101,21.886,,False,False,6452.055,20,Mexico City Grand Prix
+RIC,33.0,84.526,1.0,MEDIUM,33.0,1,True,McLaren,True,10.0,29.604,33.005,21.917,,False,False,6536.581,20,Mexico City Grand Prix
+RIC,34.0,84.473,1.0,MEDIUM,34.0,1,True,McLaren,True,9.0,29.548,32.963,21.962,,False,False,6621.054,20,Mexico City Grand Prix
+RIC,35.0,84.297,1.0,MEDIUM,35.0,1,True,McLaren,True,9.0,29.499,32.941,21.857,,False,False,6705.351,20,Mexico City Grand Prix
+RIC,36.0,84.408,1.0,MEDIUM,36.0,1,True,McLaren,True,9.0,29.639,32.872,21.897,,False,False,6789.759,20,Mexico City Grand Prix
+RIC,37.0,84.328,1.0,MEDIUM,37.0,1,True,McLaren,True,9.0,29.531,32.879,21.918,,False,False,6874.087,20,Mexico City Grand Prix
+RIC,38.0,84.435,1.0,MEDIUM,38.0,1,True,McLaren,True,9.0,29.65,32.816,21.969,,False,False,6958.522,20,Mexico City Grand Prix
+RIC,39.0,84.631,1.0,MEDIUM,39.0,1,True,McLaren,True,9.0,29.701,32.897,22.033,,False,False,7043.153,20,Mexico City Grand Prix
+RIC,40.0,84.537,1.0,MEDIUM,40.0,1,True,McLaren,True,8.0,29.59,32.864,22.083,,False,False,7127.69,20,Mexico City Grand Prix
+RIC,41.0,84.508,1.0,MEDIUM,41.0,1,True,McLaren,True,7.0,29.58,32.93,21.998,,False,False,7212.198,20,Mexico City Grand Prix
+RIC,42.0,84.986,1.0,MEDIUM,42.0,1,True,McLaren,True,7.0,29.625,33.211,22.15,,False,False,7297.184,20,Mexico City Grand Prix
+RIC,43.0,84.601,1.0,MEDIUM,43.0,1,True,McLaren,True,7.0,29.671,32.96,21.97,,False,False,7381.785,20,Mexico City Grand Prix
+RIC,44.0,87.285,1.0,MEDIUM,44.0,1,False,McLaren,True,8.0,29.392,32.832,25.061,,True,False,7469.07,20,Mexico City Grand Prix
+RIC,45.0,102.369,2.0,SOFT,1.0,1,False,McLaren,True,13.0,48.251,32.749,21.369,,False,True,7571.439,20,Mexico City Grand Prix
+RIC,46.0,82.232,2.0,SOFT,2.0,1,True,McLaren,True,12.0,28.962,32.035,21.235,,False,False,7653.671,20,Mexico City Grand Prix
+RIC,47.0,82.22,2.0,SOFT,3.0,1,True,McLaren,True,12.0,28.884,32.058,21.278,,False,False,7735.891,20,Mexico City Grand Prix
+RIC,48.0,82.022,2.0,SOFT,4.0,1,True,McLaren,True,12.0,28.899,31.894,21.229,,False,False,7817.913,20,Mexico City Grand Prix
+RIC,49.0,83.189,2.0,SOFT,5.0,1,True,McLaren,True,12.0,28.941,32.686,21.562,,False,False,7901.102,20,Mexico City Grand Prix
+RIC,50.0,86.383,2.0,SOFT,6.0,1,True,McLaren,True,11.0,29.108,34.044,23.231,,False,False,7987.485,20,Mexico City Grand Prix
+RIC,51.0,84.887,2.0,SOFT,7.0,1,True,McLaren,True,11.0,30.78,32.573,21.534,,False,False,8072.372,20,Mexico City Grand Prix
+RIC,52.0,82.817,2.0,SOFT,8.0,1,True,McLaren,True,11.0,28.991,32.257,21.569,,False,False,8155.189,20,Mexico City Grand Prix
+RIC,53.0,82.722,2.0,SOFT,9.0,1,True,McLaren,True,11.0,29.035,32.192,21.495,,False,False,8237.911,20,Mexico City Grand Prix
+RIC,54.0,82.836,2.0,SOFT,10.0,1,True,McLaren,True,11.0,29.121,32.165,21.55,,False,False,8320.747,20,Mexico City Grand Prix
+RIC,55.0,82.859,2.0,SOFT,11.0,1,True,McLaren,True,10.0,28.961,32.451,21.447,,False,False,8403.606,20,Mexico City Grand Prix
+RIC,56.0,83.428,2.0,SOFT,12.0,1,True,McLaren,True,10.0,29.102,32.724,21.602,,False,False,8487.034,20,Mexico City Grand Prix
+RIC,57.0,82.616,2.0,SOFT,13.0,1,True,McLaren,True,9.0,28.67,32.422,21.524,,False,False,8569.65,20,Mexico City Grand Prix
+RIC,58.0,83.016,2.0,SOFT,14.0,1,True,McLaren,True,9.0,29.047,32.395,21.574,,False,False,8652.666,20,Mexico City Grand Prix
+RIC,59.0,83.458,2.0,SOFT,15.0,1,True,McLaren,True,9.0,29.093,32.474,21.891,,False,False,8736.124,20,Mexico City Grand Prix
+RIC,60.0,84.437,2.0,SOFT,16.0,1,True,McLaren,True,8.0,28.599,33.884,21.954,,False,False,8820.561,20,Mexico City Grand Prix
+RIC,61.0,82.804,2.0,SOFT,17.0,1,True,McLaren,True,7.0,28.736,32.471,21.597,,False,False,8903.365,20,Mexico City Grand Prix
+RIC,62.0,82.74,2.0,SOFT,18.0,1,True,McLaren,True,7.0,29.021,32.188,21.531,,False,False,8986.105,20,Mexico City Grand Prix
+RIC,63.0,82.735,2.0,SOFT,19.0,1,True,McLaren,True,7.0,29.027,32.228,21.48,,False,False,9068.84,20,Mexico City Grand Prix
+RIC,64.0,96.245,2.0,SOFT,20.0,126,False,McLaren,True,7.0,28.865,37.593,29.787,,False,False,9165.085,20,Mexico City Grand Prix
+RIC,65.0,86.779,2.0,SOFT,21.0,671,False,McLaren,True,7.0,32.988,32.337,21.454,,False,False,9251.864,20,Mexico City Grand Prix
+RIC,66.0,82.662,2.0,SOFT,22.0,1,True,McLaren,True,7.0,28.944,32.144,21.574,,False,False,9334.526,20,Mexico City Grand Prix
+RIC,67.0,82.667,2.0,SOFT,23.0,1,True,McLaren,True,7.0,28.991,32.152,21.524,,False,False,9417.193,20,Mexico City Grand Prix
+RIC,68.0,82.801,2.0,SOFT,24.0,1,True,McLaren,True,7.0,29.017,32.217,21.567,,False,False,9499.994,20,Mexico City Grand Prix
+RIC,69.0,82.955,2.0,SOFT,25.0,1,True,McLaren,True,7.0,29.233,32.236,21.486,,False,False,9582.949,20,Mexico City Grand Prix
+RIC,70.0,83.318,2.0,SOFT,26.0,1,True,McLaren,True,7.0,29.236,32.443,21.639,,False,False,9666.267,20,Mexico City Grand Prix
+OCO,1.0,92.046,1.0,MEDIUM,1.0,1,False,Alpine,True,9.0,,35.363,22.315,,False,False,3819.047,20,Mexico City Grand Prix
+OCO,2.0,85.677,1.0,MEDIUM,2.0,1,True,Alpine,True,9.0,29.834,33.72,22.123,,False,False,3904.724,20,Mexico City Grand Prix
+OCO,3.0,84.898,1.0,MEDIUM,3.0,1,True,Alpine,True,9.0,29.784,33.239,21.875,,False,False,3989.622,20,Mexico City Grand Prix
+OCO,4.0,84.861,1.0,MEDIUM,4.0,1,True,Alpine,True,9.0,29.512,33.38,21.969,,False,False,4074.483,20,Mexico City Grand Prix
+OCO,5.0,85.03,1.0,MEDIUM,5.0,1,True,Alpine,True,9.0,29.329,33.641,22.06,,False,False,4159.513,20,Mexico City Grand Prix
+OCO,6.0,84.604,1.0,MEDIUM,6.0,1,True,Alpine,True,9.0,29.301,33.274,22.029,,False,False,4244.117,20,Mexico City Grand Prix
+OCO,7.0,84.597,1.0,MEDIUM,7.0,1,True,Alpine,True,9.0,29.273,33.266,22.058,,False,False,4328.714,20,Mexico City Grand Prix
+OCO,8.0,84.559,1.0,MEDIUM,8.0,1,True,Alpine,True,9.0,29.367,33.137,22.055,,False,False,4413.273,20,Mexico City Grand Prix
+OCO,9.0,84.714,1.0,MEDIUM,9.0,1,True,Alpine,True,9.0,29.685,32.993,22.036,,False,False,4497.987,20,Mexico City Grand Prix
+OCO,10.0,84.622,1.0,MEDIUM,10.0,1,True,Alpine,True,9.0,29.674,32.966,21.982,,False,False,4582.609,20,Mexico City Grand Prix
+OCO,11.0,84.714,1.0,MEDIUM,11.0,1,True,Alpine,True,9.0,29.733,32.92,22.061,,False,False,4667.323,20,Mexico City Grand Prix
+OCO,12.0,84.77,1.0,MEDIUM,12.0,1,True,Alpine,True,9.0,29.724,33.033,22.013,,False,False,4752.093,20,Mexico City Grand Prix
+OCO,13.0,84.547,1.0,MEDIUM,13.0,1,True,Alpine,True,9.0,29.628,32.916,22.003,,False,False,4836.64,20,Mexico City Grand Prix
+OCO,14.0,84.555,1.0,MEDIUM,14.0,1,True,Alpine,True,9.0,29.656,32.978,21.921,,False,False,4921.195,20,Mexico City Grand Prix
+OCO,15.0,84.514,1.0,MEDIUM,15.0,1,True,Alpine,True,9.0,29.634,32.946,21.934,,False,False,5005.709,20,Mexico City Grand Prix
+OCO,16.0,84.455,1.0,MEDIUM,16.0,1,True,Alpine,True,9.0,29.608,32.912,21.935,,False,False,5090.164,20,Mexico City Grand Prix
+OCO,17.0,84.728,1.0,MEDIUM,17.0,1,True,Alpine,True,9.0,29.712,32.993,22.023,,False,False,5174.892,20,Mexico City Grand Prix
+OCO,18.0,84.519,1.0,MEDIUM,18.0,1,True,Alpine,True,9.0,29.664,32.925,21.93,,False,False,5259.411,20,Mexico City Grand Prix
+OCO,19.0,84.398,1.0,MEDIUM,19.0,1,True,Alpine,True,9.0,29.667,32.81,21.921,,False,False,5343.809,20,Mexico City Grand Prix
+OCO,20.0,84.724,1.0,MEDIUM,20.0,1,True,Alpine,True,9.0,29.666,33.099,21.959,,False,False,5428.533,20,Mexico City Grand Prix
+OCO,21.0,84.627,1.0,MEDIUM,21.0,1,True,Alpine,True,9.0,29.64,32.94,22.047,,False,False,5513.16,20,Mexico City Grand Prix
+OCO,22.0,84.55,1.0,MEDIUM,22.0,1,True,Alpine,True,9.0,29.487,33.102,21.961,,False,False,5597.71,20,Mexico City Grand Prix
+OCO,23.0,84.693,1.0,MEDIUM,23.0,1,True,Alpine,True,9.0,29.583,33.09,22.02,,False,False,5682.403,20,Mexico City Grand Prix
+OCO,24.0,84.531,1.0,MEDIUM,24.0,1,True,Alpine,True,9.0,29.539,32.962,22.03,,False,False,5766.934,20,Mexico City Grand Prix
+OCO,25.0,84.6,1.0,MEDIUM,25.0,1,True,Alpine,True,9.0,29.606,33.068,21.926,,False,False,5851.534,20,Mexico City Grand Prix
+OCO,26.0,84.636,1.0,MEDIUM,26.0,1,True,Alpine,True,9.0,29.63,33.05,21.956,,False,False,5936.17,20,Mexico City Grand Prix
+OCO,27.0,84.398,1.0,MEDIUM,27.0,1,True,Alpine,True,9.0,29.518,32.935,21.945,,False,False,6020.568,20,Mexico City Grand Prix
+OCO,28.0,84.528,1.0,MEDIUM,28.0,1,True,Alpine,True,9.0,29.583,32.976,21.969,,False,False,6105.096,20,Mexico City Grand Prix
+OCO,29.0,84.444,1.0,MEDIUM,29.0,1,True,Alpine,True,8.0,29.581,32.962,21.901,,False,False,6189.54,20,Mexico City Grand Prix
+OCO,30.0,84.442,1.0,MEDIUM,30.0,1,True,Alpine,True,7.0,29.596,32.882,21.964,,False,False,6273.982,20,Mexico City Grand Prix
+OCO,31.0,84.391,1.0,MEDIUM,31.0,1,True,Alpine,True,7.0,29.589,32.897,21.905,,False,False,6358.373,20,Mexico City Grand Prix
+OCO,32.0,84.299,1.0,MEDIUM,32.0,1,True,Alpine,True,7.0,29.652,32.793,21.854,,False,False,6442.672,20,Mexico City Grand Prix
+OCO,33.0,87.662,1.0,MEDIUM,33.0,1,False,Alpine,True,8.0,29.62,32.898,25.144,,True,False,6530.334,20,Mexico City Grand Prix
+OCO,34.0,103.678,2.0,HARD,1.0,1,False,Alpine,True,13.0,48.698,33.256,21.724,,False,True,6634.012,20,Mexico City Grand Prix
+OCO,35.0,83.737,2.0,HARD,2.0,1,True,Alpine,True,13.0,29.471,32.632,21.634,,False,False,6717.749,20,Mexico City Grand Prix
+OCO,36.0,84.007,2.0,HARD,3.0,1,True,Alpine,True,13.0,29.421,32.817,21.769,,False,False,6801.756,20,Mexico City Grand Prix
+OCO,37.0,84.439,2.0,HARD,4.0,1,True,Alpine,True,13.0,29.452,32.848,22.139,,False,False,6886.195,20,Mexico City Grand Prix
+OCO,38.0,84.245,2.0,HARD,5.0,1,True,Alpine,True,11.0,29.022,33.133,22.09,,False,False,6970.44,20,Mexico City Grand Prix
+OCO,39.0,83.324,2.0,HARD,6.0,1,True,Alpine,True,11.0,29.027,32.565,21.732,,False,False,7053.764,20,Mexico City Grand Prix
+OCO,40.0,84.562,2.0,HARD,7.0,1,True,Alpine,True,11.0,29.515,33.052,21.995,,False,False,7138.326,20,Mexico City Grand Prix
+OCO,41.0,85.219,2.0,HARD,8.0,1,True,Alpine,True,10.0,29.534,33.886,21.799,,False,False,7223.545,20,Mexico City Grand Prix
+OCO,42.0,83.915,2.0,HARD,9.0,1,True,Alpine,True,10.0,29.491,32.691,21.733,,False,False,7307.46,20,Mexico City Grand Prix
+OCO,43.0,83.696,2.0,HARD,10.0,1,True,Alpine,True,10.0,29.451,32.6,21.645,,False,False,7391.156,20,Mexico City Grand Prix
+OCO,44.0,84.697,2.0,HARD,11.0,1,True,Alpine,True,10.0,29.407,33.03,22.26,,False,False,7475.853,20,Mexico City Grand Prix
+OCO,45.0,83.384,2.0,HARD,12.0,1,True,Alpine,True,8.0,29.026,32.827,21.531,,False,False,7559.237,20,Mexico City Grand Prix
+OCO,46.0,83.548,2.0,HARD,13.0,1,True,Alpine,True,8.0,29.358,32.652,21.538,,False,False,7642.785,20,Mexico City Grand Prix
+OCO,47.0,83.448,2.0,HARD,14.0,1,True,Alpine,True,8.0,29.395,32.533,21.52,,False,False,7726.233,20,Mexico City Grand Prix
+OCO,48.0,83.279,2.0,HARD,15.0,1,True,Alpine,True,8.0,29.295,32.446,21.538,,False,False,7809.512,20,Mexico City Grand Prix
+OCO,49.0,85.271,2.0,HARD,16.0,1,True,Alpine,True,8.0,29.38,32.689,23.202,,False,False,7894.783,20,Mexico City Grand Prix
+OCO,50.0,83.589,2.0,HARD,17.0,1,True,Alpine,True,8.0,28.949,32.909,21.731,,False,False,7978.372,20,Mexico City Grand Prix
+OCO,51.0,83.584,2.0,HARD,18.0,1,True,Alpine,True,8.0,29.339,32.526,21.719,,False,False,8061.956,20,Mexico City Grand Prix
+OCO,52.0,83.519,2.0,HARD,19.0,1,True,Alpine,True,8.0,29.323,32.612,21.584,,False,False,8145.475,20,Mexico City Grand Prix
+OCO,53.0,83.652,2.0,HARD,20.0,1,True,Alpine,True,8.0,29.317,32.631,21.704,,False,False,8229.127,20,Mexico City Grand Prix
+OCO,54.0,83.777,2.0,HARD,21.0,1,True,Alpine,True,8.0,29.357,32.606,21.814,,False,False,8312.904,20,Mexico City Grand Prix
+OCO,55.0,83.7,2.0,HARD,22.0,1,True,Alpine,True,8.0,29.44,32.606,21.654,,False,False,8396.604,20,Mexico City Grand Prix
+OCO,56.0,83.977,2.0,HARD,23.0,1,True,Alpine,True,8.0,29.474,32.743,21.76,,False,False,8480.581,20,Mexico City Grand Prix
+OCO,57.0,83.801,2.0,HARD,24.0,1,True,Alpine,True,8.0,29.385,32.655,21.761,,False,False,8564.382,20,Mexico City Grand Prix
+OCO,58.0,87.14,2.0,HARD,25.0,1,True,Alpine,True,8.0,29.364,34.556,23.22,,False,False,8651.522,20,Mexico City Grand Prix
+OCO,59.0,84.139,2.0,HARD,26.0,1,True,Alpine,True,8.0,28.875,32.953,22.311,,False,False,8735.661,20,Mexico City Grand Prix
+OCO,60.0,84.399,2.0,HARD,27.0,1,True,Alpine,True,7.0,29.001,33.459,21.939,,False,False,8820.06,20,Mexico City Grand Prix
+OCO,61.0,86.165,2.0,HARD,28.0,1,True,Alpine,True,8.0,30.014,33.634,22.517,,False,False,8906.225,20,Mexico City Grand Prix
+OCO,62.0,84.05,2.0,HARD,29.0,1,True,Alpine,True,8.0,29.043,33.027,21.98,,False,False,8990.275,20,Mexico City Grand Prix
+OCO,63.0,84.122,2.0,HARD,30.0,1,True,Alpine,True,8.0,29.447,32.792,21.883,,False,False,9074.397,20,Mexico City Grand Prix
+OCO,64.0,97.709,2.0,HARD,31.0,1267,False,Alpine,True,8.0,29.336,42.712,25.661,,False,False,9172.106,20,Mexico City Grand Prix
+OCO,65.0,87.328,2.0,HARD,32.0,71,False,Alpine,True,8.0,32.636,32.777,21.915,,False,False,9259.434,20,Mexico City Grand Prix
+OCO,66.0,83.827,2.0,HARD,33.0,1,True,Alpine,True,8.0,29.524,32.622,21.681,,False,False,9343.261,20,Mexico City Grand Prix
+OCO,67.0,83.541,2.0,HARD,34.0,1,True,Alpine,True,8.0,29.296,32.542,21.703,,False,False,9426.802,20,Mexico City Grand Prix
+OCO,68.0,83.766,2.0,HARD,35.0,1,True,Alpine,True,8.0,29.305,32.667,21.794,,False,False,9510.568,20,Mexico City Grand Prix
+OCO,69.0,83.86,2.0,HARD,36.0,1,True,Alpine,True,8.0,29.4,32.686,21.774,,False,False,9594.428,20,Mexico City Grand Prix
+OCO,70.0,84.031,2.0,HARD,37.0,1,True,Alpine,True,8.0,29.46,32.707,21.864,,False,False,9678.459,20,Mexico City Grand Prix
+NOR,1.0,92.431,1.0,MEDIUM,1.0,1,False,McLaren,True,10.0,,35.522,22.388,,False,False,3819.432,20,Mexico City Grand Prix
+NOR,2.0,85.709,1.0,MEDIUM,2.0,1,True,McLaren,True,10.0,29.834,33.903,21.972,,False,False,3905.141,20,Mexico City Grand Prix
+NOR,3.0,85.201,1.0,MEDIUM,3.0,1,True,McLaren,True,10.0,29.827,33.45,21.924,,False,False,3990.342,20,Mexico City Grand Prix
+NOR,4.0,84.748,1.0,MEDIUM,4.0,1,True,McLaren,True,10.0,29.339,33.4,22.009,,False,False,4075.09,20,Mexico City Grand Prix
+NOR,5.0,84.904,1.0,MEDIUM,5.0,1,True,McLaren,True,10.0,29.454,33.453,21.997,,False,False,4159.994,20,Mexico City Grand Prix
+NOR,6.0,84.702,1.0,MEDIUM,6.0,1,True,McLaren,True,10.0,29.224,33.617,21.861,,False,False,4244.696,20,Mexico City Grand Prix
+NOR,7.0,85.211,1.0,MEDIUM,7.0,1,True,McLaren,True,10.0,29.604,33.494,22.113,,False,False,4329.907,20,Mexico City Grand Prix
+NOR,8.0,84.816,1.0,MEDIUM,8.0,1,True,McLaren,True,10.0,29.774,33.131,21.911,,False,False,4414.723,20,Mexico City Grand Prix
+NOR,9.0,84.942,1.0,MEDIUM,9.0,1,True,McLaren,True,10.0,29.901,33.194,21.847,,False,False,4499.665,20,Mexico City Grand Prix
+NOR,10.0,84.584,1.0,MEDIUM,10.0,1,True,McLaren,True,10.0,29.663,33.006,21.915,,False,False,4584.249,20,Mexico City Grand Prix
+NOR,11.0,84.503,1.0,MEDIUM,11.0,1,True,McLaren,True,10.0,29.764,32.914,21.825,,False,False,4668.752,20,Mexico City Grand Prix
+NOR,12.0,85.093,1.0,MEDIUM,12.0,1,True,McLaren,True,10.0,29.813,33.15,22.13,,False,False,4753.845,20,Mexico City Grand Prix
+NOR,13.0,84.664,1.0,MEDIUM,13.0,1,True,McLaren,True,10.0,29.72,33.043,21.901,,False,False,4838.509,20,Mexico City Grand Prix
+NOR,14.0,84.698,1.0,MEDIUM,14.0,1,True,McLaren,True,10.0,29.865,32.887,21.946,,False,False,4923.207,20,Mexico City Grand Prix
+NOR,15.0,84.75,1.0,MEDIUM,15.0,1,True,McLaren,True,10.0,29.867,32.94,21.943,,False,False,5007.957,20,Mexico City Grand Prix
+NOR,16.0,84.463,1.0,MEDIUM,16.0,1,True,McLaren,True,10.0,29.621,32.958,21.884,,False,False,5092.42,20,Mexico City Grand Prix
+NOR,17.0,84.357,1.0,MEDIUM,17.0,1,True,McLaren,True,10.0,29.678,32.868,21.811,,False,False,5176.777,20,Mexico City Grand Prix
+NOR,18.0,84.446,1.0,MEDIUM,18.0,1,True,McLaren,True,10.0,29.672,32.803,21.971,,False,False,5261.223,20,Mexico City Grand Prix
+NOR,19.0,84.544,1.0,MEDIUM,19.0,1,True,McLaren,True,10.0,29.811,32.787,21.946,,False,False,5345.767,20,Mexico City Grand Prix
+NOR,20.0,84.659,1.0,MEDIUM,20.0,1,True,McLaren,True,10.0,29.68,33.06,21.919,,False,False,5430.426,20,Mexico City Grand Prix
+NOR,21.0,84.496,1.0,MEDIUM,21.0,1,True,McLaren,True,10.0,29.712,32.947,21.837,,False,False,5514.922,20,Mexico City Grand Prix
+NOR,22.0,84.64,1.0,MEDIUM,22.0,1,True,McLaren,True,10.0,29.571,33.065,22.004,,False,False,5599.562,20,Mexico City Grand Prix
+NOR,23.0,84.535,1.0,MEDIUM,23.0,1,True,McLaren,True,10.0,29.544,33.001,21.99,,False,False,5684.097,20,Mexico City Grand Prix
+NOR,24.0,85.077,1.0,MEDIUM,24.0,1,True,McLaren,True,10.0,29.707,33.237,22.133,,False,False,5769.174,20,Mexico City Grand Prix
+NOR,25.0,84.894,1.0,MEDIUM,25.0,1,True,McLaren,True,10.0,29.747,33.047,22.1,,False,False,5854.068,20,Mexico City Grand Prix
+NOR,26.0,85.066,1.0,MEDIUM,26.0,1,True,McLaren,True,10.0,29.899,33.154,22.013,,False,False,5939.134,20,Mexico City Grand Prix
+NOR,27.0,84.807,1.0,MEDIUM,27.0,1,True,McLaren,True,10.0,29.753,33.049,22.005,,False,False,6023.941,20,Mexico City Grand Prix
+NOR,28.0,84.746,1.0,MEDIUM,28.0,1,True,McLaren,True,10.0,29.697,33.023,22.026,,False,False,6108.687,20,Mexico City Grand Prix
+NOR,29.0,84.57,1.0,MEDIUM,29.0,1,True,McLaren,True,9.0,29.766,32.992,21.812,,False,False,6193.257,20,Mexico City Grand Prix
+NOR,30.0,84.282,1.0,MEDIUM,30.0,1,True,McLaren,True,8.0,29.634,32.881,21.767,,False,False,6277.539,20,Mexico City Grand Prix
+NOR,31.0,87.562,1.0,MEDIUM,31.0,1,False,McLaren,True,10.0,29.522,32.96,25.08,,True,False,6365.101,20,Mexico City Grand Prix
+NOR,32.0,104.158,2.0,HARD,1.0,1,False,McLaren,True,15.0,49.234,33.165,21.759,,False,True,6469.259,20,Mexico City Grand Prix
+NOR,33.0,84.075,2.0,HARD,2.0,1,True,McLaren,True,15.0,29.563,32.853,21.659,,False,False,6553.334,20,Mexico City Grand Prix
+NOR,34.0,84.285,2.0,HARD,3.0,1,True,McLaren,True,15.0,29.564,32.788,21.933,,False,False,6637.619,20,Mexico City Grand Prix
+NOR,35.0,84.012,2.0,HARD,4.0,1,True,McLaren,True,15.0,29.489,32.785,21.738,,False,False,6721.631,20,Mexico City Grand Prix
+NOR,36.0,84.315,2.0,HARD,5.0,1,True,McLaren,True,15.0,29.531,32.836,21.948,,False,False,6805.946,20,Mexico City Grand Prix
+NOR,37.0,84.212,2.0,HARD,6.0,1,True,McLaren,True,15.0,29.068,33.015,22.129,,False,False,6890.158,20,Mexico City Grand Prix
+NOR,38.0,83.85,2.0,HARD,7.0,1,True,McLaren,True,14.0,29.051,32.862,21.937,,False,False,6974.008,20,Mexico City Grand Prix
+NOR,39.0,84.433,2.0,HARD,8.0,1,True,McLaren,True,13.0,29.693,32.869,21.871,,False,False,7058.441,20,Mexico City Grand Prix
+NOR,40.0,84.187,2.0,HARD,9.0,1,True,McLaren,True,12.0,29.327,32.901,21.959,,False,False,7142.628,20,Mexico City Grand Prix
+NOR,41.0,83.675,2.0,HARD,10.0,1,True,McLaren,True,12.0,28.856,32.896,21.923,,False,False,7226.303,20,Mexico City Grand Prix
+NOR,42.0,84.24,2.0,HARD,11.0,1,True,McLaren,True,12.0,29.431,32.921,21.888,,False,False,7310.543,20,Mexico City Grand Prix
+NOR,43.0,83.767,2.0,HARD,12.0,1,True,McLaren,True,12.0,29.401,32.727,21.639,,False,False,7394.31,20,Mexico City Grand Prix
+NOR,44.0,83.684,2.0,HARD,13.0,1,True,McLaren,True,12.0,29.338,32.559,21.787,,False,False,7477.994,20,Mexico City Grand Prix
+NOR,45.0,84.546,2.0,HARD,14.0,1,True,McLaren,True,10.0,29.366,32.972,22.208,,False,False,7562.54,20,Mexico City Grand Prix
+NOR,46.0,85.375,2.0,HARD,15.0,1,True,McLaren,True,10.0,30.245,33.347,21.783,,False,False,7647.915,20,Mexico City Grand Prix
+NOR,47.0,83.614,2.0,HARD,16.0,1,True,McLaren,True,10.0,29.261,32.785,21.568,,False,False,7731.529,20,Mexico City Grand Prix
+NOR,48.0,83.402,2.0,HARD,17.0,1,True,McLaren,True,10.0,29.146,32.518,21.738,,False,False,7814.931,20,Mexico City Grand Prix
+NOR,49.0,83.645,2.0,HARD,18.0,1,True,McLaren,True,10.0,29.321,32.576,21.748,,False,False,7898.576,20,Mexico City Grand Prix
+NOR,50.0,83.592,2.0,HARD,19.0,1,True,McLaren,True,10.0,29.198,32.593,21.801,,False,False,7982.168,20,Mexico City Grand Prix
+NOR,51.0,83.556,2.0,HARD,20.0,1,True,McLaren,True,10.0,29.186,32.671,21.699,,False,False,8065.724,20,Mexico City Grand Prix
+NOR,52.0,83.705,2.0,HARD,21.0,1,True,McLaren,True,10.0,29.109,32.751,21.845,,False,False,8149.429,20,Mexico City Grand Prix
+NOR,53.0,83.989,2.0,HARD,22.0,1,True,McLaren,True,10.0,29.411,32.849,21.729,,False,False,8233.418,20,Mexico City Grand Prix
+NOR,54.0,85.432,2.0,HARD,23.0,1,True,McLaren,True,10.0,29.216,33.867,22.349,,False,False,8318.85,20,Mexico City Grand Prix
+NOR,55.0,87.196,2.0,HARD,24.0,1,True,McLaren,True,11.0,32.257,33.184,21.755,,False,False,8406.046,20,Mexico City Grand Prix
+NOR,56.0,85.474,2.0,HARD,25.0,1,True,McLaren,True,11.0,29.299,34.43,21.745,,False,False,8491.52,20,Mexico City Grand Prix
+NOR,57.0,83.573,2.0,HARD,26.0,1,True,McLaren,True,11.0,29.296,32.672,21.605,,False,False,8575.093,20,Mexico City Grand Prix
+NOR,58.0,83.897,2.0,HARD,27.0,1,True,McLaren,True,11.0,29.241,32.859,21.797,,False,False,8658.99,20,Mexico City Grand Prix
+NOR,59.0,83.956,2.0,HARD,28.0,1,True,McLaren,True,11.0,29.33,32.794,21.832,,False,False,8742.946,20,Mexico City Grand Prix
+NOR,60.0,83.812,2.0,HARD,29.0,1,True,McLaren,True,11.0,29.098,32.86,21.854,,False,False,8826.758,20,Mexico City Grand Prix
+NOR,61.0,84.113,2.0,HARD,30.0,1,True,McLaren,True,11.0,29.194,32.967,21.952,,False,False,8910.871,20,Mexico City Grand Prix
+NOR,62.0,84.053,2.0,HARD,31.0,1,True,McLaren,True,11.0,29.255,32.817,21.981,,False,False,8994.924,20,Mexico City Grand Prix
+NOR,63.0,84.136,2.0,HARD,32.0,1,True,McLaren,True,11.0,29.21,32.917,22.009,,False,False,9079.06,20,Mexico City Grand Prix
+NOR,64.0,98.511,2.0,HARD,33.0,1267,False,McLaren,True,9.0,28.838,42.256,27.417,,False,False,9177.571,20,Mexico City Grand Prix
+NOR,65.0,86.426,2.0,HARD,34.0,71,False,McLaren,True,9.0,31.962,32.724,21.74,,False,False,9263.997,20,Mexico City Grand Prix
+NOR,66.0,83.462,2.0,HARD,35.0,1,True,McLaren,True,9.0,29.322,32.378,21.762,,False,False,9347.459,20,Mexico City Grand Prix
+NOR,67.0,83.495,2.0,HARD,36.0,1,True,McLaren,True,9.0,29.131,32.595,21.769,,False,False,9430.954,20,Mexico City Grand Prix
+NOR,68.0,83.582,2.0,HARD,37.0,1,True,McLaren,True,9.0,29.189,32.618,21.775,,False,False,9514.536,20,Mexico City Grand Prix
+NOR,69.0,83.875,2.0,HARD,38.0,1,True,McLaren,True,9.0,29.404,32.606,21.865,,False,False,9598.411,20,Mexico City Grand Prix
+NOR,70.0,84.313,2.0,HARD,39.0,1,True,McLaren,True,9.0,29.538,32.838,21.937,,False,False,9682.724,20,Mexico City Grand Prix
+HAM,1.0,86.652,1.0,MEDIUM,1.0,1,False,Mercedes,True,2.0,,32.713,21.374,,False,False,3813.653,20,Mexico City Grand Prix
+HAM,2.0,83.313,1.0,MEDIUM,2.0,1,True,Mercedes,True,2.0,29.47,32.43,21.413,,False,False,3896.966,20,Mexico City Grand Prix
+HAM,3.0,83.263,1.0,MEDIUM,3.0,1,True,Mercedes,True,2.0,29.491,32.416,21.356,,False,False,3980.229,20,Mexico City Grand Prix
+HAM,4.0,83.407,1.0,MEDIUM,4.0,1,True,Mercedes,True,2.0,29.421,32.472,21.514,,False,False,4063.636,20,Mexico City Grand Prix
+HAM,5.0,83.063,1.0,MEDIUM,5.0,1,True,Mercedes,True,2.0,29.345,32.318,21.4,,False,False,4146.699,20,Mexico City Grand Prix
+HAM,6.0,83.218,1.0,MEDIUM,6.0,1,True,Mercedes,True,2.0,29.484,32.268,21.466,,False,False,4229.917,20,Mexico City Grand Prix
+HAM,7.0,83.301,1.0,MEDIUM,7.0,1,True,Mercedes,True,2.0,29.445,32.357,21.499,,False,False,4313.218,20,Mexico City Grand Prix
+HAM,8.0,83.539,1.0,MEDIUM,8.0,1,True,Mercedes,True,2.0,29.447,32.6,21.492,,False,False,4396.757,20,Mexico City Grand Prix
+HAM,9.0,83.16,1.0,MEDIUM,9.0,1,True,Mercedes,True,2.0,29.395,32.275,21.49,,False,False,4479.917,20,Mexico City Grand Prix
+HAM,10.0,83.256,1.0,MEDIUM,10.0,1,True,Mercedes,True,2.0,29.42,32.309,21.527,,False,False,4563.173,20,Mexico City Grand Prix
+HAM,11.0,83.321,1.0,MEDIUM,11.0,1,True,Mercedes,True,2.0,29.471,32.321,21.529,,False,False,4646.494,20,Mexico City Grand Prix
+HAM,12.0,83.047,1.0,MEDIUM,12.0,1,True,Mercedes,True,2.0,29.393,32.188,21.466,,False,False,4729.541,20,Mexico City Grand Prix
+HAM,13.0,83.04,1.0,MEDIUM,13.0,1,True,Mercedes,True,2.0,29.327,32.259,21.454,,False,False,4812.581,20,Mexico City Grand Prix
+HAM,14.0,83.08,1.0,MEDIUM,14.0,1,True,Mercedes,True,2.0,29.328,32.26,21.492,,False,False,4895.661,20,Mexico City Grand Prix
+HAM,15.0,83.13,1.0,MEDIUM,15.0,1,True,Mercedes,True,2.0,29.35,32.319,21.461,,False,False,4978.791,20,Mexico City Grand Prix
+HAM,16.0,83.282,1.0,MEDIUM,16.0,1,True,Mercedes,True,2.0,29.35,32.437,21.495,,False,False,5062.073,20,Mexico City Grand Prix
+HAM,17.0,83.41,1.0,MEDIUM,17.0,1,True,Mercedes,True,2.0,29.482,32.301,21.627,,False,False,5145.483,20,Mexico City Grand Prix
+HAM,18.0,83.434,1.0,MEDIUM,18.0,1,True,Mercedes,True,2.0,29.374,32.441,21.619,,False,False,5228.917,20,Mexico City Grand Prix
+HAM,19.0,83.329,1.0,MEDIUM,19.0,1,True,Mercedes,True,2.0,29.287,32.385,21.657,,False,False,5312.246,20,Mexico City Grand Prix
+HAM,20.0,83.498,1.0,MEDIUM,20.0,1,True,Mercedes,True,2.0,29.361,32.397,21.74,,False,False,5395.744,20,Mexico City Grand Prix
+HAM,21.0,83.331,1.0,MEDIUM,21.0,1,True,Mercedes,True,2.0,29.266,32.333,21.732,,False,False,5479.075,20,Mexico City Grand Prix
+HAM,22.0,83.496,1.0,MEDIUM,22.0,1,True,Mercedes,True,2.0,29.219,32.538,21.739,,False,False,5562.571,20,Mexico City Grand Prix
+HAM,23.0,83.479,1.0,MEDIUM,23.0,1,True,Mercedes,True,2.0,29.196,32.563,21.72,,False,False,5646.05,20,Mexico City Grand Prix
+HAM,24.0,83.64,1.0,MEDIUM,24.0,1,True,Mercedes,True,2.0,29.285,32.488,21.867,,False,False,5729.69,20,Mexico City Grand Prix
+HAM,25.0,83.626,1.0,MEDIUM,25.0,1,True,Mercedes,True,1.0,29.387,32.618,21.621,,False,False,5813.316,20,Mexico City Grand Prix
+HAM,26.0,83.307,1.0,MEDIUM,26.0,1,True,Mercedes,True,1.0,29.311,32.33,21.666,,False,False,5896.623,20,Mexico City Grand Prix
+HAM,27.0,83.346,1.0,MEDIUM,27.0,1,True,Mercedes,True,1.0,29.345,32.363,21.638,,False,False,5979.969,20,Mexico City Grand Prix
+HAM,28.0,83.261,1.0,MEDIUM,28.0,1,True,Mercedes,True,1.0,29.334,32.393,21.534,,False,False,6063.23,20,Mexico City Grand Prix
+HAM,29.0,86.247,1.0,MEDIUM,29.0,1,False,Mercedes,True,1.0,29.312,32.359,24.576,,True,False,6149.477,20,Mexico City Grand Prix
+HAM,30.0,103.03,2.0,HARD,1.0,1,False,Mercedes,True,3.0,49.142,32.551,21.337,,False,True,6252.507,20,Mexico City Grand Prix
+HAM,31.0,82.495,2.0,HARD,2.0,1,True,Mercedes,True,3.0,29.172,32.104,21.219,,False,False,6335.002,20,Mexico City Grand Prix
+HAM,32.0,82.062,2.0,HARD,3.0,1,True,Mercedes,True,3.0,29.14,31.798,21.124,,False,False,6417.064,20,Mexico City Grand Prix
+HAM,33.0,82.419,2.0,HARD,4.0,1,True,Mercedes,True,3.0,29.254,31.875,21.29,,False,False,6499.483,20,Mexico City Grand Prix
+HAM,34.0,82.428,2.0,HARD,5.0,1,True,Mercedes,True,3.0,29.121,31.911,21.396,,False,False,6581.911,20,Mexico City Grand Prix
+HAM,35.0,82.545,2.0,HARD,6.0,1,True,Mercedes,True,2.0,29.143,32.053,21.349,,False,False,6664.456,20,Mexico City Grand Prix
+HAM,36.0,82.486,2.0,HARD,7.0,1,True,Mercedes,True,2.0,29.206,31.94,21.34,,False,False,6746.942,20,Mexico City Grand Prix
+HAM,37.0,82.404,2.0,HARD,8.0,1,True,Mercedes,True,2.0,29.204,31.96,21.24,,False,False,6829.346,20,Mexico City Grand Prix
+HAM,38.0,82.71,2.0,HARD,9.0,1,True,Mercedes,True,2.0,29.166,32.037,21.507,,False,False,6912.056,20,Mexico City Grand Prix
+HAM,39.0,82.976,2.0,HARD,10.0,1,True,Mercedes,True,2.0,29.212,32.202,21.562,,False,False,6995.032,20,Mexico City Grand Prix
+HAM,40.0,83.085,2.0,HARD,11.0,1,True,Mercedes,True,2.0,29.197,32.318,21.57,,False,False,7078.117,20,Mexico City Grand Prix
+HAM,41.0,83.04,2.0,HARD,12.0,1,True,Mercedes,True,2.0,29.184,32.206,21.65,,False,False,7161.157,20,Mexico City Grand Prix
+HAM,42.0,82.114,2.0,HARD,13.0,1,True,Mercedes,True,2.0,28.593,32.062,21.459,,False,False,7243.271,20,Mexico City Grand Prix
+HAM,43.0,82.566,2.0,HARD,14.0,1,True,Mercedes,True,2.0,29.176,32.055,21.335,,False,False,7325.837,20,Mexico City Grand Prix
+HAM,44.0,82.567,2.0,HARD,15.0,1,True,Mercedes,True,2.0,29.262,31.963,21.342,,False,False,7408.404,20,Mexico City Grand Prix
+HAM,45.0,82.6,2.0,HARD,16.0,1,True,Mercedes,True,2.0,29.071,32.137,21.392,,False,False,7491.004,20,Mexico City Grand Prix
+HAM,46.0,82.759,2.0,HARD,17.0,1,True,Mercedes,True,2.0,29.185,32.148,21.426,,False,False,7573.763,20,Mexico City Grand Prix
+HAM,47.0,82.41,2.0,HARD,18.0,1,True,Mercedes,True,2.0,29.022,32.042,21.346,,False,False,7656.173,20,Mexico City Grand Prix
+HAM,48.0,82.479,2.0,HARD,19.0,1,True,Mercedes,True,2.0,29.045,32.1,21.334,,False,False,7738.652,20,Mexico City Grand Prix
+HAM,49.0,82.256,2.0,HARD,20.0,1,True,Mercedes,True,2.0,28.943,31.975,21.338,,False,False,7820.908,20,Mexico City Grand Prix
+HAM,50.0,82.608,2.0,HARD,21.0,1,True,Mercedes,True,2.0,29.075,32.115,21.418,,False,False,7903.516,20,Mexico City Grand Prix
+HAM,51.0,83.082,2.0,HARD,22.0,1,True,Mercedes,True,2.0,29.011,32.464,21.607,,False,False,7986.598,20,Mexico City Grand Prix
+HAM,52.0,82.667,2.0,HARD,23.0,1,True,Mercedes,True,2.0,29.134,32.094,21.439,,False,False,8069.265,20,Mexico City Grand Prix
+HAM,53.0,82.646,2.0,HARD,24.0,1,True,Mercedes,True,2.0,29.015,32.108,21.523,,False,False,8151.911,20,Mexico City Grand Prix
+HAM,54.0,82.906,2.0,HARD,25.0,1,True,Mercedes,True,2.0,29.05,32.359,21.497,,False,False,8234.817,20,Mexico City Grand Prix
+HAM,55.0,82.964,2.0,HARD,26.0,1,True,Mercedes,True,2.0,29.107,32.367,21.49,,False,False,8317.781,20,Mexico City Grand Prix
+HAM,56.0,82.974,2.0,HARD,27.0,1,True,Mercedes,True,2.0,29.128,32.346,21.5,,False,False,8400.755,20,Mexico City Grand Prix
+HAM,57.0,82.468,2.0,HARD,28.0,1,True,Mercedes,True,2.0,28.911,32.05,21.507,,False,False,8483.223,20,Mexico City Grand Prix
+HAM,58.0,82.58,2.0,HARD,29.0,1,True,Mercedes,True,2.0,28.968,32.122,21.49,,False,False,8565.803,20,Mexico City Grand Prix
+HAM,59.0,82.894,2.0,HARD,30.0,1,True,Mercedes,True,2.0,29.097,32.291,21.506,,False,False,8648.697,20,Mexico City Grand Prix
+HAM,60.0,83.13,2.0,HARD,31.0,1,True,Mercedes,True,2.0,29.551,32.121,21.458,,False,False,8731.827,20,Mexico City Grand Prix
+HAM,61.0,82.478,2.0,HARD,32.0,1,True,Mercedes,True,2.0,29.1,32.038,21.34,,False,False,8814.305,20,Mexico City Grand Prix
+HAM,62.0,82.391,2.0,HARD,33.0,1,True,Mercedes,True,2.0,29.022,31.795,21.574,,False,False,8896.696,20,Mexico City Grand Prix
+HAM,63.0,82.374,2.0,HARD,34.0,1,True,Mercedes,True,2.0,29.014,31.928,21.432,,False,False,8979.07,20,Mexico City Grand Prix
+HAM,64.0,82.338,2.0,HARD,35.0,1,True,Mercedes,True,2.0,29.036,31.918,21.384,,False,False,9061.408,20,Mexico City Grand Prix
+HAM,65.0,92.324,2.0,HARD,36.0,126,False,Mercedes,True,2.0,29.124,35.686,27.514,,False,False,9153.732,20,Mexico City Grand Prix
+HAM,66.0,90.863,2.0,HARD,37.0,671,False,Mercedes,True,2.0,37.287,32.068,21.508,,False,False,9244.595,20,Mexico City Grand Prix
+HAM,67.0,82.45,2.0,HARD,38.0,1,True,Mercedes,True,2.0,29.236,31.903,21.311,,False,False,9327.045,20,Mexico City Grand Prix
+HAM,68.0,82.513,2.0,HARD,39.0,1,True,Mercedes,True,2.0,29.094,31.927,21.492,,False,False,9409.558,20,Mexico City Grand Prix
+HAM,69.0,83.147,2.0,HARD,40.0,1,True,Mercedes,True,2.0,29.351,32.207,21.589,,False,False,9492.705,20,Mexico City Grand Prix
+HAM,70.0,82.829,2.0,HARD,41.0,1,True,Mercedes,True,2.0,29.222,32.134,21.473,,False,False,9575.534,20,Mexico City Grand Prix
+HAM,71.0,83.382,2.0,HARD,42.0,1,True,Mercedes,True,2.0,29.215,32.338,21.829,,False,False,9658.916,20,Mexico City Grand Prix
+MSC,1.0,95.788,1.0,SOFT,6.0,1,False,Haas F1 Team,False,17.0,,37.07,22.713,,False,False,3822.789,20,Mexico City Grand Prix
+MSC,2.0,86.402,1.0,SOFT,7.0,1,True,Haas F1 Team,False,17.0,30.115,33.959,22.328,,False,False,3909.191,20,Mexico City Grand Prix
+MSC,3.0,86.319,1.0,SOFT,8.0,1,True,Haas F1 Team,False,17.0,29.681,34.296,22.342,,False,False,3995.51,20,Mexico City Grand Prix
+MSC,4.0,85.828,1.0,SOFT,9.0,1,True,Haas F1 Team,False,17.0,29.542,33.956,22.33,,False,False,4081.338,20,Mexico City Grand Prix
+MSC,5.0,85.562,1.0,SOFT,10.0,1,True,Haas F1 Team,False,17.0,29.233,33.992,22.337,,False,False,4166.9,20,Mexico City Grand Prix
+MSC,6.0,85.155,1.0,SOFT,11.0,1,True,Haas F1 Team,False,17.0,29.223,33.703,22.229,,False,False,4252.055,20,Mexico City Grand Prix
+MSC,7.0,85.689,1.0,SOFT,12.0,1,True,Haas F1 Team,False,17.0,29.921,33.553,22.215,,False,False,4337.744,20,Mexico City Grand Prix
+MSC,8.0,86.104,1.0,SOFT,13.0,1,True,Haas F1 Team,False,17.0,29.709,33.546,22.849,,False,False,4423.848,20,Mexico City Grand Prix
+MSC,9.0,86.649,1.0,SOFT,14.0,1,True,Haas F1 Team,False,18.0,30.353,34.015,22.281,,False,False,4510.497,20,Mexico City Grand Prix
+MSC,10.0,85.821,1.0,SOFT,15.0,1,True,Haas F1 Team,False,18.0,29.898,33.826,22.097,,False,False,4596.318,20,Mexico City Grand Prix
+MSC,11.0,85.833,1.0,SOFT,16.0,1,True,Haas F1 Team,False,18.0,29.998,33.67,22.165,,False,False,4682.151,20,Mexico City Grand Prix
+MSC,12.0,85.683,1.0,SOFT,17.0,1,True,Haas F1 Team,False,18.0,29.864,33.612,22.207,,False,False,4767.834,20,Mexico City Grand Prix
+MSC,13.0,85.669,1.0,SOFT,18.0,1,True,Haas F1 Team,False,18.0,29.825,33.734,22.11,,False,False,4853.503,20,Mexico City Grand Prix
+MSC,14.0,85.674,1.0,SOFT,19.0,1,True,Haas F1 Team,False,18.0,29.684,33.83,22.16,,False,False,4939.177,20,Mexico City Grand Prix
+MSC,15.0,85.284,1.0,SOFT,20.0,1,True,Haas F1 Team,False,18.0,29.605,33.577,22.102,,False,False,5024.461,20,Mexico City Grand Prix
+MSC,16.0,85.801,1.0,SOFT,21.0,1,True,Haas F1 Team,False,18.0,29.85,33.546,22.405,,False,False,5110.262,20,Mexico City Grand Prix
+MSC,17.0,86.108,1.0,SOFT,22.0,1,True,Haas F1 Team,False,18.0,30.034,33.645,22.429,,False,False,5196.37,20,Mexico City Grand Prix
+MSC,18.0,85.548,1.0,SOFT,23.0,1,True,Haas F1 Team,False,17.0,29.806,33.379,22.363,,False,False,5281.918,20,Mexico City Grand Prix
+MSC,19.0,85.809,1.0,SOFT,24.0,1,True,Haas F1 Team,False,17.0,29.791,33.564,22.454,,False,False,5367.727,20,Mexico City Grand Prix
+MSC,20.0,85.773,1.0,SOFT,25.0,1,True,Haas F1 Team,False,17.0,29.786,33.605,22.382,,False,False,5453.5,20,Mexico City Grand Prix
+MSC,21.0,86.45,1.0,SOFT,26.0,1,True,Haas F1 Team,False,17.0,30.268,33.807,22.375,,False,False,5539.95,20,Mexico City Grand Prix
+MSC,22.0,85.947,1.0,SOFT,27.0,1,True,Haas F1 Team,False,17.0,29.833,33.726,22.388,,False,False,5625.897,20,Mexico City Grand Prix
+MSC,23.0,86.017,1.0,SOFT,28.0,1,True,Haas F1 Team,False,17.0,29.794,33.683,22.54,,False,False,5711.914,20,Mexico City Grand Prix
+MSC,24.0,88.911,1.0,SOFT,29.0,1,False,Haas F1 Team,False,18.0,29.888,33.57,25.453,,True,False,5800.825,20,Mexico City Grand Prix
+MSC,25.0,104.201,2.0,MEDIUM,1.0,1,False,Haas F1 Team,True,19.0,49.804,32.861,21.536,,False,True,5905.026,20,Mexico City Grand Prix
+MSC,26.0,83.897,2.0,MEDIUM,2.0,1,True,Haas F1 Team,True,19.0,29.42,32.682,21.795,,False,False,5988.923,20,Mexico City Grand Prix
+MSC,27.0,83.938,2.0,MEDIUM,3.0,1,True,Haas F1 Team,True,19.0,29.502,32.777,21.659,,False,False,6072.861,20,Mexico City Grand Prix
+MSC,28.0,83.782,2.0,MEDIUM,4.0,1,True,Haas F1 Team,True,19.0,29.35,32.79,21.642,,False,False,6156.643,20,Mexico City Grand Prix
+MSC,29.0,83.917,2.0,MEDIUM,5.0,1,True,Haas F1 Team,True,19.0,29.416,32.816,21.685,,False,False,6240.56,20,Mexico City Grand Prix
+MSC,30.0,83.641,2.0,MEDIUM,6.0,1,True,Haas F1 Team,True,19.0,29.219,32.732,21.69,,False,False,6324.201,20,Mexico City Grand Prix
+MSC,31.0,83.967,2.0,MEDIUM,7.0,1,True,Haas F1 Team,True,19.0,29.479,32.715,21.773,,False,False,6408.168,20,Mexico City Grand Prix
+MSC,32.0,86.121,2.0,MEDIUM,8.0,1,True,Haas F1 Team,True,19.0,29.703,33.634,22.784,,False,False,6494.289,20,Mexico City Grand Prix
+MSC,33.0,84.609,2.0,MEDIUM,9.0,1,True,Haas F1 Team,True,19.0,29.541,33.014,22.054,,False,False,6578.898,20,Mexico City Grand Prix
+MSC,34.0,84.424,2.0,MEDIUM,10.0,1,True,Haas F1 Team,True,19.0,29.467,32.88,22.077,,False,False,6663.322,20,Mexico City Grand Prix
+MSC,35.0,87.676,2.0,MEDIUM,11.0,1,True,Haas F1 Team,True,19.0,32.651,33.158,21.867,,False,False,6750.998,20,Mexico City Grand Prix
+MSC,36.0,83.668,2.0,MEDIUM,12.0,1,True,Haas F1 Team,True,19.0,29.183,32.764,21.721,,False,False,6834.666,20,Mexico City Grand Prix
+MSC,37.0,84.283,2.0,MEDIUM,13.0,1,True,Haas F1 Team,True,19.0,29.283,32.962,22.038,,False,False,6918.949,20,Mexico City Grand Prix
+MSC,38.0,86.623,2.0,MEDIUM,14.0,1,True,Haas F1 Team,True,19.0,31.056,33.515,22.052,,False,False,7005.572,20,Mexico City Grand Prix
+MSC,39.0,84.424,2.0,MEDIUM,15.0,1,True,Haas F1 Team,True,18.0,29.395,33.053,21.976,,False,False,7089.996,20,Mexico City Grand Prix
+MSC,40.0,84.161,2.0,MEDIUM,16.0,1,True,Haas F1 Team,True,18.0,29.226,33.05,21.885,,False,False,7174.157,20,Mexico City Grand Prix
+MSC,41.0,84.527,2.0,MEDIUM,17.0,1,True,Haas F1 Team,True,17.0,29.398,33.241,21.888,,False,False,7258.684,20,Mexico City Grand Prix
+MSC,42.0,84.346,2.0,MEDIUM,18.0,1,True,Haas F1 Team,True,17.0,29.382,32.997,21.967,,False,False,7343.03,20,Mexico City Grand Prix
+MSC,43.0,84.165,2.0,MEDIUM,19.0,1,True,Haas F1 Team,True,17.0,29.377,32.89,21.898,,False,False,7427.195,20,Mexico City Grand Prix
+MSC,44.0,83.695,2.0,MEDIUM,20.0,1,True,Haas F1 Team,True,17.0,29.195,32.706,21.794,,False,False,7510.89,20,Mexico City Grand Prix
+MSC,45.0,84.014,2.0,MEDIUM,21.0,1,True,Haas F1 Team,True,17.0,29.24,32.927,21.847,,False,False,7594.904,20,Mexico City Grand Prix
+MSC,46.0,84.282,2.0,MEDIUM,22.0,1,True,Haas F1 Team,True,17.0,29.471,32.907,21.904,,False,False,7679.186,20,Mexico City Grand Prix
+MSC,47.0,84.254,2.0,MEDIUM,23.0,1,True,Haas F1 Team,True,17.0,29.366,32.974,21.914,,False,False,7763.44,20,Mexico City Grand Prix
+MSC,48.0,84.095,2.0,MEDIUM,24.0,1,True,Haas F1 Team,True,17.0,29.187,33.15,21.758,,False,False,7847.535,20,Mexico City Grand Prix
+MSC,49.0,84.308,2.0,MEDIUM,25.0,1,True,Haas F1 Team,True,17.0,29.447,32.901,21.96,,False,False,7931.843,20,Mexico City Grand Prix
+MSC,50.0,84.47,2.0,MEDIUM,26.0,1,True,Haas F1 Team,True,17.0,29.473,32.962,22.035,,False,False,8016.313,20,Mexico City Grand Prix
+MSC,51.0,85.943,2.0,MEDIUM,27.0,1,True,Haas F1 Team,True,17.0,29.899,33.841,22.203,,False,False,8102.256,20,Mexico City Grand Prix
+MSC,52.0,85.923,2.0,MEDIUM,28.0,1,True,Haas F1 Team,True,17.0,29.352,33.328,23.243,,False,False,8188.179,20,Mexico City Grand Prix
+MSC,53.0,84.362,2.0,MEDIUM,29.0,1,True,Haas F1 Team,True,17.0,29.07,33.406,21.886,,False,False,8272.541,20,Mexico City Grand Prix
+MSC,54.0,86.282,2.0,MEDIUM,30.0,1,True,Haas F1 Team,True,17.0,30.58,33.81,21.892,,False,False,8358.823,20,Mexico City Grand Prix
+MSC,55.0,84.129,2.0,MEDIUM,31.0,1,True,Haas F1 Team,True,17.0,29.262,33.125,21.742,,False,False,8442.952,20,Mexico City Grand Prix
+MSC,56.0,83.945,2.0,MEDIUM,32.0,1,True,Haas F1 Team,True,17.0,29.098,33.062,21.785,,False,False,8526.897,20,Mexico City Grand Prix
+MSC,57.0,84.106,2.0,MEDIUM,33.0,1,True,Haas F1 Team,True,17.0,29.175,33.012,21.919,,False,False,8611.003,20,Mexico City Grand Prix
+MSC,58.0,84.114,2.0,MEDIUM,34.0,1,True,Haas F1 Team,True,17.0,29.317,32.969,21.828,,False,False,8695.117,20,Mexico City Grand Prix
+MSC,59.0,84.261,2.0,MEDIUM,35.0,1,True,Haas F1 Team,True,17.0,29.395,33.05,21.816,,False,False,8779.378,20,Mexico City Grand Prix
+MSC,60.0,84.292,2.0,MEDIUM,36.0,1,True,Haas F1 Team,True,17.0,29.407,33.033,21.852,,False,False,8863.67,20,Mexico City Grand Prix
+MSC,61.0,84.406,2.0,MEDIUM,37.0,1,True,Haas F1 Team,True,17.0,29.485,32.814,22.107,,False,False,8948.076,20,Mexico City Grand Prix
+MSC,62.0,84.102,2.0,MEDIUM,38.0,1,True,Haas F1 Team,True,17.0,29.285,32.806,22.011,,False,False,9032.178,20,Mexico City Grand Prix
+MSC,63.0,84.212,2.0,MEDIUM,39.0,12,True,Haas F1 Team,True,17.0,29.336,32.946,21.93,,False,False,9116.39,20,Mexico City Grand Prix
+MSC,64.0,100.864,2.0,MEDIUM,40.0,2671,False,Haas F1 Team,True,16.0,39.983,38.913,21.968,,False,False,9217.254,20,Mexico City Grand Prix
+MSC,65.0,83.717,2.0,MEDIUM,41.0,1,True,Haas F1 Team,True,16.0,29.179,32.688,21.85,,False,False,9300.971,20,Mexico City Grand Prix
+MSC,66.0,84.005,2.0,MEDIUM,42.0,1,True,Haas F1 Team,True,16.0,29.294,32.71,22.001,,False,False,9384.976,20,Mexico City Grand Prix
+MSC,67.0,84.157,2.0,MEDIUM,43.0,1,True,Haas F1 Team,True,16.0,29.321,32.929,21.907,,False,False,9469.133,20,Mexico City Grand Prix
+MSC,68.0,84.168,2.0,MEDIUM,44.0,1,True,Haas F1 Team,True,16.0,29.309,32.796,22.063,,False,False,9553.301,20,Mexico City Grand Prix
+MSC,69.0,84.558,2.0,MEDIUM,45.0,1,True,Haas F1 Team,True,16.0,29.626,32.912,22.02,,False,False,9637.859,20,Mexico City Grand Prix
+MSC,70.0,84.755,2.0,MEDIUM,46.0,1,True,Haas F1 Team,True,16.0,29.324,33.123,22.308,,False,False,9722.614,20,Mexico City Grand Prix
+VET,1.0,94.42,1.0,SOFT,1.0,1,False,Aston Martin,True,14.0,,36.03,22.886,,False,False,3821.421,20,Mexico City Grand Prix
+VET,2.0,85.968,1.0,SOFT,2.0,1,True,Aston Martin,True,14.0,30.065,33.856,22.047,,False,False,3907.389,20,Mexico City Grand Prix
+VET,3.0,86.302,1.0,SOFT,3.0,1,True,Aston Martin,True,14.0,29.957,34.295,22.05,,False,False,3993.691,20,Mexico City Grand Prix
+VET,4.0,85.418,1.0,SOFT,4.0,1,True,Aston Martin,True,14.0,29.48,33.685,22.253,,False,False,4079.109,20,Mexico City Grand Prix
+VET,5.0,85.106,1.0,SOFT,5.0,1,True,Aston Martin,True,14.0,29.582,33.602,21.922,,False,False,4164.215,20,Mexico City Grand Prix
+VET,6.0,84.607,1.0,SOFT,6.0,1,True,Aston Martin,True,14.0,29.413,33.286,21.908,,False,False,4248.822,20,Mexico City Grand Prix
+VET,7.0,85.403,1.0,SOFT,7.0,1,True,Aston Martin,True,14.0,29.596,33.671,22.136,,False,False,4334.225,20,Mexico City Grand Prix
+VET,8.0,85.273,1.0,SOFT,8.0,1,True,Aston Martin,True,14.0,29.594,33.551,22.128,,False,False,4419.498,20,Mexico City Grand Prix
+VET,9.0,85.228,1.0,SOFT,9.0,1,True,Aston Martin,True,14.0,29.61,33.496,22.122,,False,False,4504.726,20,Mexico City Grand Prix
+VET,10.0,84.965,1.0,SOFT,10.0,1,True,Aston Martin,True,14.0,29.613,33.226,22.126,,False,False,4589.691,20,Mexico City Grand Prix
+VET,11.0,84.877,1.0,SOFT,11.0,1,True,Aston Martin,True,14.0,29.466,33.392,22.019,,False,False,4674.568,20,Mexico City Grand Prix
+VET,12.0,84.829,1.0,SOFT,12.0,1,True,Aston Martin,True,14.0,29.408,33.388,22.033,,False,False,4759.397,20,Mexico City Grand Prix
+VET,13.0,84.763,1.0,SOFT,13.0,1,True,Aston Martin,True,14.0,29.759,33.103,21.901,,False,False,4844.16,20,Mexico City Grand Prix
+VET,14.0,84.661,1.0,SOFT,14.0,1,True,Aston Martin,True,14.0,29.834,32.968,21.859,,False,False,4928.821,20,Mexico City Grand Prix
+VET,15.0,84.665,1.0,SOFT,15.0,1,True,Aston Martin,True,14.0,29.707,33.059,21.899,,False,False,5013.486,20,Mexico City Grand Prix
+VET,16.0,84.615,1.0,SOFT,16.0,1,True,Aston Martin,True,14.0,29.724,33.02,21.871,,False,False,5098.101,20,Mexico City Grand Prix
+VET,17.0,84.822,1.0,SOFT,17.0,1,True,Aston Martin,True,14.0,29.727,33.085,22.01,,False,False,5182.923,20,Mexico City Grand Prix
+VET,18.0,84.962,1.0,SOFT,18.0,1,True,Aston Martin,True,14.0,29.498,33.316,22.148,,False,False,5267.885,20,Mexico City Grand Prix
+VET,19.0,85.03,1.0,SOFT,19.0,1,True,Aston Martin,True,14.0,29.49,33.39,22.15,,False,False,5352.915,20,Mexico City Grand Prix
+VET,20.0,84.898,1.0,SOFT,20.0,1,True,Aston Martin,True,14.0,29.534,33.29,22.074,,False,False,5437.813,20,Mexico City Grand Prix
+VET,21.0,84.997,1.0,SOFT,21.0,1,True,Aston Martin,True,14.0,29.47,33.399,22.128,,False,False,5522.81,20,Mexico City Grand Prix
+VET,22.0,84.933,1.0,SOFT,22.0,1,True,Aston Martin,True,14.0,29.441,33.358,22.134,,False,False,5607.743,20,Mexico City Grand Prix
+VET,23.0,85.47,1.0,SOFT,23.0,1,True,Aston Martin,True,14.0,29.649,33.636,22.185,,False,False,5693.213,20,Mexico City Grand Prix
+VET,24.0,85.966,1.0,SOFT,24.0,1,True,Aston Martin,True,14.0,29.803,33.775,22.388,,False,False,5779.179,20,Mexico City Grand Prix
+VET,25.0,85.271,1.0,SOFT,25.0,1,True,Aston Martin,True,14.0,29.734,33.45,22.087,,False,False,5864.45,20,Mexico City Grand Prix
+VET,26.0,85.303,1.0,SOFT,26.0,1,True,Aston Martin,True,14.0,29.738,33.464,22.101,,False,False,5949.753,20,Mexico City Grand Prix
+VET,27.0,85.197,1.0,SOFT,27.0,1,True,Aston Martin,True,14.0,29.937,33.294,21.966,,False,False,6034.95,20,Mexico City Grand Prix
+VET,28.0,84.863,1.0,SOFT,28.0,1,True,Aston Martin,True,14.0,29.864,33.17,21.829,,False,False,6119.813,20,Mexico City Grand Prix
+VET,29.0,84.889,1.0,SOFT,29.0,1,True,Aston Martin,True,14.0,29.889,33.067,21.933,,False,False,6204.702,20,Mexico City Grand Prix
+VET,30.0,84.912,1.0,SOFT,30.0,1,True,Aston Martin,True,13.0,29.922,33.044,21.946,,False,False,6289.614,20,Mexico City Grand Prix
+VET,31.0,84.979,1.0,SOFT,31.0,1,True,Aston Martin,True,13.0,29.755,33.171,22.053,,False,False,6374.593,20,Mexico City Grand Prix
+VET,32.0,84.904,1.0,SOFT,32.0,1,True,Aston Martin,True,12.0,29.931,33.066,21.907,,False,False,6459.497,20,Mexico City Grand Prix
+VET,33.0,84.918,1.0,SOFT,33.0,1,True,Aston Martin,True,12.0,29.85,33.127,21.941,,False,False,6544.415,20,Mexico City Grand Prix
+VET,34.0,84.83,1.0,SOFT,34.0,1,True,Aston Martin,True,11.0,29.902,33.025,21.903,,False,False,6629.245,20,Mexico City Grand Prix
+VET,35.0,84.852,1.0,SOFT,35.0,1,True,Aston Martin,True,11.0,29.943,33.011,21.898,,False,False,6714.097,20,Mexico City Grand Prix
+VET,36.0,84.971,1.0,SOFT,36.0,1,True,Aston Martin,True,11.0,29.92,33.125,21.926,,False,False,6799.068,20,Mexico City Grand Prix
+VET,37.0,85.14,1.0,SOFT,37.0,1,True,Aston Martin,True,11.0,29.795,33.057,22.288,,False,False,6884.208,20,Mexico City Grand Prix
+VET,38.0,88.89,1.0,SOFT,38.0,1,False,Aston Martin,True,13.0,30.075,33.356,25.459,,True,False,6973.098,20,Mexico City Grand Prix
+VET,39.0,103.717,2.0,MEDIUM,2.0,1,False,Aston Martin,False,16.0,48.995,33.06,21.662,,False,True,7076.815,20,Mexico City Grand Prix
+VET,40.0,86.757,2.0,MEDIUM,3.0,1,True,Aston Martin,False,15.0,29.671,35.391,21.695,,False,False,7163.572,20,Mexico City Grand Prix
+VET,41.0,83.111,2.0,MEDIUM,4.0,1,True,Aston Martin,False,14.0,29.032,32.551,21.528,,False,False,7246.683,20,Mexico City Grand Prix
+VET,42.0,83.129,2.0,MEDIUM,5.0,1,True,Aston Martin,False,14.0,29.372,32.266,21.491,,False,False,7329.812,20,Mexico City Grand Prix
+VET,43.0,83.097,2.0,MEDIUM,6.0,1,True,Aston Martin,False,14.0,29.336,32.324,21.437,,False,False,7412.909,20,Mexico City Grand Prix
+VET,44.0,83.17,2.0,MEDIUM,7.0,1,True,Aston Martin,False,14.0,29.474,32.325,21.371,,False,False,7496.079,20,Mexico City Grand Prix
+VET,45.0,83.086,2.0,MEDIUM,8.0,1,True,Aston Martin,False,14.0,29.307,32.345,21.434,,False,False,7579.165,20,Mexico City Grand Prix
+VET,46.0,83.285,2.0,MEDIUM,9.0,1,True,Aston Martin,False,13.0,29.423,32.401,21.461,,False,False,7662.45,20,Mexico City Grand Prix
+VET,47.0,83.235,2.0,MEDIUM,10.0,1,True,Aston Martin,False,13.0,29.401,32.357,21.477,,False,False,7745.685,20,Mexico City Grand Prix
+VET,48.0,85.227,2.0,MEDIUM,11.0,1,True,Aston Martin,False,13.0,29.932,33.779,21.516,,False,False,7830.912,20,Mexico City Grand Prix
+VET,49.0,83.311,2.0,MEDIUM,12.0,1,True,Aston Martin,False,13.0,29.343,32.42,21.548,,False,False,7914.223,20,Mexico City Grand Prix
+VET,50.0,84.908,2.0,MEDIUM,13.0,1,True,Aston Martin,False,12.0,29.569,33.772,21.567,,False,False,7999.131,20,Mexico City Grand Prix
+VET,51.0,85.484,2.0,MEDIUM,14.0,1,True,Aston Martin,False,13.0,30.522,33.145,21.817,,False,False,8084.615,20,Mexico City Grand Prix
+VET,52.0,83.401,2.0,MEDIUM,15.0,1,True,Aston Martin,False,13.0,29.141,32.694,21.566,,False,False,8168.016,20,Mexico City Grand Prix
+VET,53.0,86.824,2.0,MEDIUM,16.0,1,True,Aston Martin,False,14.0,29.894,35.152,21.778,,False,False,8254.84,20,Mexico City Grand Prix
+VET,54.0,84.626,2.0,MEDIUM,17.0,1,True,Aston Martin,False,14.0,29.905,33.097,21.624,,False,False,8339.466,20,Mexico City Grand Prix
+VET,55.0,83.804,2.0,MEDIUM,18.0,1,True,Aston Martin,False,14.0,29.608,32.639,21.557,,False,False,8423.27,20,Mexico City Grand Prix
+VET,56.0,83.693,2.0,MEDIUM,19.0,1,True,Aston Martin,False,14.0,29.543,32.492,21.658,,False,False,8506.963,20,Mexico City Grand Prix
+VET,57.0,86.472,2.0,MEDIUM,20.0,1,True,Aston Martin,False,15.0,30.174,34.361,21.937,,False,False,8593.435,20,Mexico City Grand Prix
+VET,58.0,84.262,2.0,MEDIUM,21.0,1,True,Aston Martin,False,15.0,29.459,33.063,21.74,,False,False,8677.697,20,Mexico City Grand Prix
+VET,59.0,83.752,2.0,MEDIUM,22.0,1,True,Aston Martin,False,15.0,29.263,32.748,21.741,,False,False,8761.449,20,Mexico City Grand Prix
+VET,60.0,83.815,2.0,MEDIUM,23.0,1,True,Aston Martin,False,15.0,29.212,32.872,21.731,,False,False,8845.264,20,Mexico City Grand Prix
+VET,61.0,84.545,2.0,MEDIUM,24.0,1,True,Aston Martin,False,15.0,29.547,33.145,21.853,,False,False,8929.809,20,Mexico City Grand Prix
+VET,62.0,84.463,2.0,MEDIUM,25.0,1,True,Aston Martin,False,15.0,29.541,32.644,22.278,,False,False,9014.272,20,Mexico City Grand Prix
+VET,63.0,83.859,2.0,MEDIUM,26.0,12,True,Aston Martin,False,15.0,29.544,32.532,21.783,,False,False,9098.131,20,Mexico City Grand Prix
+VET,64.0,100.014,2.0,MEDIUM,27.0,2671,False,Aston Martin,False,14.0,35.868,40.766,23.38,,False,False,9198.145,20,Mexico City Grand Prix
+VET,65.0,83.702,2.0,MEDIUM,28.0,1,True,Aston Martin,False,14.0,29.647,32.399,21.656,,False,False,9281.847,20,Mexico City Grand Prix
+VET,66.0,83.512,2.0,MEDIUM,29.0,1,True,Aston Martin,False,14.0,29.485,32.432,21.595,,False,False,9365.359,20,Mexico City Grand Prix
+VET,67.0,83.546,2.0,MEDIUM,30.0,1,True,Aston Martin,False,14.0,29.439,32.586,21.521,,False,False,9448.905,20,Mexico City Grand Prix
+VET,68.0,83.713,2.0,MEDIUM,31.0,1,True,Aston Martin,False,14.0,29.488,32.512,21.713,,False,False,9532.618,20,Mexico City Grand Prix
+VET,69.0,86.578,2.0,MEDIUM,32.0,1,True,Aston Martin,False,14.0,29.825,32.789,23.964,,False,False,9619.196,20,Mexico City Grand Prix
+VET,70.0,84.032,2.0,MEDIUM,33.0,1,True,Aston Martin,False,14.0,29.231,32.987,21.814,,False,False,9703.228,20,Mexico City Grand Prix
+SAI,1.0,89.763,1.0,SOFT,4.0,1,False,Ferrari,False,5.0,,34.638,21.942,,False,False,3816.764,20,Mexico City Grand Prix
+SAI,2.0,84.093,1.0,SOFT,5.0,1,True,Ferrari,False,5.0,29.71,32.633,21.75,,False,False,3900.857,20,Mexico City Grand Prix
+SAI,3.0,83.868,1.0,SOFT,6.0,1,True,Ferrari,False,5.0,29.577,32.661,21.63,,False,False,3984.725,20,Mexico City Grand Prix
+SAI,4.0,83.881,1.0,SOFT,7.0,1,True,Ferrari,False,5.0,29.683,32.585,21.613,,False,False,4068.606,20,Mexico City Grand Prix
+SAI,5.0,83.797,1.0,SOFT,8.0,1,True,Ferrari,False,5.0,29.579,32.533,21.685,,False,False,4152.403,20,Mexico City Grand Prix
+SAI,6.0,83.899,1.0,SOFT,9.0,1,True,Ferrari,False,5.0,29.626,32.526,21.747,,False,False,4236.302,20,Mexico City Grand Prix
+SAI,7.0,83.787,1.0,SOFT,10.0,1,True,Ferrari,False,5.0,29.564,32.555,21.668,,False,False,4320.089,20,Mexico City Grand Prix
+SAI,8.0,84.159,1.0,SOFT,11.0,1,True,Ferrari,False,5.0,29.728,32.644,21.787,,False,False,4404.248,20,Mexico City Grand Prix
+SAI,9.0,84.067,1.0,SOFT,12.0,1,True,Ferrari,False,5.0,29.624,32.694,21.749,,False,False,4488.315,20,Mexico City Grand Prix
+SAI,10.0,83.736,1.0,SOFT,13.0,1,True,Ferrari,False,5.0,29.534,32.444,21.758,,False,False,4572.051,20,Mexico City Grand Prix
+SAI,11.0,83.825,1.0,SOFT,14.0,1,True,Ferrari,False,5.0,29.6,32.514,21.711,,False,False,4655.876,20,Mexico City Grand Prix
+SAI,12.0,84.265,1.0,SOFT,15.0,1,True,Ferrari,False,5.0,29.661,32.725,21.879,,False,False,4740.141,20,Mexico City Grand Prix
+SAI,13.0,84.221,1.0,SOFT,16.0,1,True,Ferrari,False,5.0,29.44,32.943,21.838,,False,False,4824.362,20,Mexico City Grand Prix
+SAI,14.0,83.761,1.0,SOFT,17.0,1,True,Ferrari,False,5.0,29.506,32.572,21.683,,False,False,4908.123,20,Mexico City Grand Prix
+SAI,15.0,83.695,1.0,SOFT,18.0,1,True,Ferrari,False,5.0,29.498,32.495,21.702,,False,False,4991.818,20,Mexico City Grand Prix
+SAI,16.0,83.773,1.0,SOFT,19.0,1,True,Ferrari,False,5.0,29.399,32.592,21.782,,False,False,5075.591,20,Mexico City Grand Prix
+SAI,17.0,84.043,1.0,SOFT,20.0,1,True,Ferrari,False,5.0,29.647,32.581,21.815,,False,False,5159.634,20,Mexico City Grand Prix
+SAI,18.0,83.932,1.0,SOFT,21.0,1,True,Ferrari,False,5.0,29.565,32.61,21.757,,False,False,5243.566,20,Mexico City Grand Prix
+SAI,19.0,84.009,1.0,SOFT,22.0,1,True,Ferrari,False,5.0,29.508,32.579,21.922,,False,False,5327.575,20,Mexico City Grand Prix
+SAI,20.0,84.089,1.0,SOFT,23.0,1,True,Ferrari,False,5.0,29.576,32.638,21.875,,False,False,5411.664,20,Mexico City Grand Prix
+SAI,21.0,84.338,1.0,SOFT,24.0,1,True,Ferrari,False,5.0,29.696,32.805,21.837,,False,False,5496.002,20,Mexico City Grand Prix
+SAI,22.0,84.41,1.0,SOFT,25.0,1,True,Ferrari,False,5.0,29.556,32.86,21.994,,False,False,5580.412,20,Mexico City Grand Prix
+SAI,23.0,84.518,1.0,SOFT,26.0,1,True,Ferrari,False,5.0,29.633,32.918,21.967,,False,False,5664.93,20,Mexico City Grand Prix
+SAI,24.0,84.35,1.0,SOFT,27.0,1,True,Ferrari,False,4.0,29.592,32.832,21.926,,False,False,5749.28,20,Mexico City Grand Prix
+SAI,25.0,84.558,1.0,SOFT,28.0,1,True,Ferrari,False,4.0,29.621,32.846,22.091,,False,False,5833.838,20,Mexico City Grand Prix
+SAI,26.0,85.152,1.0,SOFT,29.0,1,True,Ferrari,False,4.0,29.948,33.167,22.037,,False,False,5918.99,20,Mexico City Grand Prix
+SAI,27.0,84.414,1.0,SOFT,30.0,1,True,Ferrari,False,4.0,29.529,32.937,21.948,,False,False,6003.404,20,Mexico City Grand Prix
+SAI,28.0,84.344,1.0,SOFT,31.0,1,True,Ferrari,False,4.0,29.548,32.863,21.933,,False,False,6087.748,20,Mexico City Grand Prix
+SAI,29.0,87.56,1.0,SOFT,32.0,1,False,Ferrari,False,5.0,29.472,32.944,25.144,,True,False,6175.308,20,Mexico City Grand Prix
+SAI,30.0,103.448,2.0,MEDIUM,1.0,1,False,Ferrari,True,9.0,49.526,32.628,21.294,,False,True,6278.756,20,Mexico City Grand Prix
+SAI,31.0,83.485,2.0,MEDIUM,2.0,1,True,Ferrari,True,8.0,29.243,32.456,21.786,,False,False,6362.241,20,Mexico City Grand Prix
+SAI,32.0,82.199,2.0,MEDIUM,3.0,1,True,Ferrari,True,8.0,28.839,32.08,21.28,,False,False,6444.44,20,Mexico City Grand Prix
+SAI,33.0,83.096,2.0,MEDIUM,4.0,1,True,Ferrari,True,7.0,29.254,32.317,21.525,,False,False,6527.536,20,Mexico City Grand Prix
+SAI,34.0,82.428,2.0,MEDIUM,5.0,1,True,Ferrari,True,7.0,28.876,32.177,21.375,,False,False,6609.964,20,Mexico City Grand Prix
+SAI,35.0,83.082,2.0,MEDIUM,6.0,1,True,Ferrari,True,7.0,29.345,32.379,21.358,,False,False,6693.046,20,Mexico City Grand Prix
+SAI,36.0,83.0,2.0,MEDIUM,7.0,1,True,Ferrari,True,7.0,29.321,32.2,21.479,,False,False,6776.046,20,Mexico City Grand Prix
+SAI,37.0,83.362,2.0,MEDIUM,8.0,1,True,Ferrari,True,7.0,29.241,32.295,21.826,,False,False,6859.408,20,Mexico City Grand Prix
+SAI,38.0,82.587,2.0,MEDIUM,9.0,1,True,Ferrari,True,6.0,28.704,32.203,21.68,,False,False,6941.995,20,Mexico City Grand Prix
+SAI,39.0,83.336,2.0,MEDIUM,10.0,1,True,Ferrari,True,6.0,29.366,32.256,21.714,,False,False,7025.331,20,Mexico City Grand Prix
+SAI,40.0,83.532,2.0,MEDIUM,11.0,1,True,Ferrari,True,5.0,29.191,32.705,21.636,,False,False,7108.863,20,Mexico City Grand Prix
+SAI,41.0,83.429,2.0,MEDIUM,12.0,1,True,Ferrari,True,5.0,29.429,32.35,21.65,,False,False,7192.292,20,Mexico City Grand Prix
+SAI,42.0,83.565,2.0,MEDIUM,13.0,1,True,Ferrari,True,5.0,29.321,32.559,21.685,,False,False,7275.857,20,Mexico City Grand Prix
+SAI,43.0,83.061,2.0,MEDIUM,14.0,1,True,Ferrari,True,5.0,29.226,32.384,21.451,,False,False,7358.918,20,Mexico City Grand Prix
+SAI,44.0,82.85,2.0,MEDIUM,15.0,1,True,Ferrari,True,5.0,29.097,32.209,21.544,,False,False,7441.768,20,Mexico City Grand Prix
+SAI,45.0,82.225,2.0,MEDIUM,16.0,1,True,Ferrari,True,5.0,28.624,32.16,21.441,,False,False,7523.993,20,Mexico City Grand Prix
+SAI,46.0,82.743,2.0,MEDIUM,17.0,1,True,Ferrari,True,5.0,29.205,32.161,21.377,,False,False,7606.736,20,Mexico City Grand Prix
+SAI,47.0,82.597,2.0,MEDIUM,18.0,1,True,Ferrari,True,5.0,29.117,32.176,21.304,,False,False,7689.333,20,Mexico City Grand Prix
+SAI,48.0,82.64,2.0,MEDIUM,19.0,1,True,Ferrari,True,5.0,29.175,31.996,21.469,,False,False,7771.973,20,Mexico City Grand Prix
+SAI,49.0,82.624,2.0,MEDIUM,20.0,1,True,Ferrari,True,5.0,29.039,32.18,21.405,,False,False,7854.597,20,Mexico City Grand Prix
+SAI,50.0,82.81,2.0,MEDIUM,21.0,1,True,Ferrari,True,5.0,29.105,32.191,21.514,,False,False,7937.407,20,Mexico City Grand Prix
+SAI,51.0,83.175,2.0,MEDIUM,22.0,1,True,Ferrari,True,5.0,29.188,32.33,21.657,,False,False,8020.582,20,Mexico City Grand Prix
+SAI,52.0,83.371,2.0,MEDIUM,23.0,1,True,Ferrari,True,5.0,29.298,32.405,21.668,,False,False,8103.953,20,Mexico City Grand Prix
+SAI,53.0,83.251,2.0,MEDIUM,24.0,1,True,Ferrari,True,5.0,29.195,32.469,21.587,,False,False,8187.204,20,Mexico City Grand Prix
+SAI,54.0,83.108,2.0,MEDIUM,25.0,1,True,Ferrari,True,5.0,29.194,32.392,21.522,,False,False,8270.312,20,Mexico City Grand Prix
+SAI,55.0,83.06,2.0,MEDIUM,26.0,1,True,Ferrari,True,5.0,29.297,32.223,21.54,,False,False,8353.372,20,Mexico City Grand Prix
+SAI,56.0,83.123,2.0,MEDIUM,27.0,1,True,Ferrari,True,5.0,29.22,32.305,21.598,,False,False,8436.495,20,Mexico City Grand Prix
+SAI,57.0,83.029,2.0,MEDIUM,28.0,1,True,Ferrari,True,5.0,29.116,32.263,21.65,,False,False,8519.524,20,Mexico City Grand Prix
+SAI,58.0,83.073,2.0,MEDIUM,29.0,1,True,Ferrari,True,5.0,29.077,32.336,21.66,,False,False,8602.597,20,Mexico City Grand Prix
+SAI,59.0,83.32,2.0,MEDIUM,30.0,1,True,Ferrari,True,5.0,29.251,32.434,21.635,,False,False,8685.917,20,Mexico City Grand Prix
+SAI,60.0,83.412,2.0,MEDIUM,31.0,1,True,Ferrari,True,5.0,29.186,32.511,21.715,,False,False,8769.329,20,Mexico City Grand Prix
+SAI,61.0,83.383,2.0,MEDIUM,32.0,1,True,Ferrari,True,5.0,29.222,32.468,21.693,,False,False,8852.712,20,Mexico City Grand Prix
+SAI,62.0,83.153,2.0,MEDIUM,33.0,1,True,Ferrari,True,5.0,29.294,32.25,21.609,,False,False,8935.865,20,Mexico City Grand Prix
+SAI,63.0,83.117,2.0,MEDIUM,34.0,1,True,Ferrari,True,5.0,29.27,32.14,21.707,,False,False,9018.982,20,Mexico City Grand Prix
+SAI,64.0,83.139,2.0,MEDIUM,35.0,12,True,Ferrari,True,5.0,29.225,32.26,21.654,,False,False,9102.121,20,Mexico City Grand Prix
+SAI,65.0,100.037,2.0,MEDIUM,36.0,2671,False,Ferrari,True,5.0,35.744,41.807,22.486,,False,False,9202.158,20,Mexico City Grand Prix
+SAI,66.0,82.903,2.0,MEDIUM,37.0,1,True,Ferrari,True,5.0,29.239,32.192,21.472,,False,False,9285.061,20,Mexico City Grand Prix
+SAI,67.0,83.12,2.0,MEDIUM,38.0,1,True,Ferrari,True,5.0,29.17,32.135,21.815,,False,False,9368.181,20,Mexico City Grand Prix
+SAI,68.0,83.047,2.0,MEDIUM,39.0,1,True,Ferrari,True,5.0,29.116,32.339,21.592,,False,False,9451.228,20,Mexico City Grand Prix
+SAI,69.0,83.18,2.0,MEDIUM,40.0,1,True,Ferrari,True,5.0,29.189,32.255,21.736,,False,False,9534.408,20,Mexico City Grand Prix
+SAI,70.0,83.746,2.0,MEDIUM,41.0,1,True,Ferrari,True,5.0,29.195,32.708,21.843,,False,False,9618.154,20,Mexico City Grand Prix
+SAI,71.0,83.699,2.0,MEDIUM,42.0,1,True,Ferrari,True,5.0,29.266,32.547,21.886,,False,False,9701.853,20,Mexico City Grand Prix
+LAT,1.0,97.282,1.0,SOFT,1.0,1,False,Williams,True,20.0,,36.816,23.311,,False,False,3824.283,20,Mexico City Grand Prix
+LAT,2.0,87.027,1.0,SOFT,2.0,1,True,Williams,True,20.0,30.184,34.391,22.452,,False,False,3911.31,20,Mexico City Grand Prix
+LAT,3.0,86.576,1.0,SOFT,3.0,1,True,Williams,True,20.0,29.957,34.238,22.381,,False,False,3997.886,20,Mexico City Grand Prix
+LAT,4.0,85.93,1.0,SOFT,4.0,1,True,Williams,True,20.0,29.34,34.206,22.384,,False,False,4083.816,20,Mexico City Grand Prix
+LAT,5.0,86.477,1.0,SOFT,5.0,1,True,Williams,True,20.0,29.374,34.465,22.638,,False,False,4170.293,20,Mexico City Grand Prix
+LAT,6.0,86.053,1.0,SOFT,6.0,1,True,Williams,True,20.0,29.38,34.342,22.331,,False,False,4256.346,20,Mexico City Grand Prix
+LAT,7.0,85.484,1.0,SOFT,7.0,1,True,Williams,True,19.0,29.307,33.871,22.306,,False,False,4341.83,20,Mexico City Grand Prix
+LAT,8.0,85.642,1.0,SOFT,8.0,1,True,Williams,True,19.0,29.747,33.566,22.329,,False,False,4427.472,20,Mexico City Grand Prix
+LAT,9.0,86.479,1.0,SOFT,9.0,1,True,Williams,True,19.0,30.296,33.878,22.305,,False,False,4513.951,20,Mexico City Grand Prix
+LAT,10.0,85.331,1.0,SOFT,10.0,1,True,Williams,True,19.0,29.674,33.454,22.203,,False,False,4599.282,20,Mexico City Grand Prix
+LAT,11.0,85.413,1.0,SOFT,11.0,1,True,Williams,True,19.0,29.606,33.466,22.341,,False,False,4684.695,20,Mexico City Grand Prix
+LAT,12.0,85.38,1.0,SOFT,12.0,1,True,Williams,True,19.0,29.63,33.599,22.151,,False,False,4770.075,20,Mexico City Grand Prix
+LAT,13.0,85.389,1.0,SOFT,13.0,1,True,Williams,True,19.0,29.601,33.558,22.23,,False,False,4855.464,20,Mexico City Grand Prix
+LAT,14.0,85.408,1.0,SOFT,14.0,1,True,Williams,True,19.0,29.528,33.623,22.257,,False,False,4940.872,20,Mexico City Grand Prix
+LAT,15.0,85.223,1.0,SOFT,15.0,1,True,Williams,True,19.0,29.604,33.456,22.163,,False,False,5026.095,20,Mexico City Grand Prix
+LAT,16.0,85.75,1.0,SOFT,16.0,1,True,Williams,True,19.0,29.618,33.767,22.365,,False,False,5111.845,20,Mexico City Grand Prix
+LAT,17.0,85.483,1.0,SOFT,17.0,1,True,Williams,True,19.0,29.687,33.587,22.209,,False,False,5197.328,20,Mexico City Grand Prix
+LAT,18.0,85.501,1.0,SOFT,18.0,1,True,Williams,True,18.0,29.396,33.7,22.405,,False,False,5282.829,20,Mexico City Grand Prix
+LAT,19.0,85.667,1.0,SOFT,19.0,1,True,Williams,True,18.0,29.469,33.71,22.488,,False,False,5368.496,20,Mexico City Grand Prix
+LAT,20.0,85.661,1.0,SOFT,20.0,1,True,Williams,True,18.0,29.42,33.797,22.444,,False,False,5454.157,20,Mexico City Grand Prix
+LAT,21.0,87.125,1.0,SOFT,21.0,1,True,Williams,True,18.0,29.942,34.151,23.032,,False,False,5541.282,20,Mexico City Grand Prix
+LAT,22.0,86.424,1.0,SOFT,22.0,1,True,Williams,True,18.0,29.878,33.979,22.567,,False,False,5627.706,20,Mexico City Grand Prix
+LAT,23.0,89.76,1.0,SOFT,23.0,1,False,Williams,True,19.0,29.85,34.099,25.811,,True,False,5717.466,20,Mexico City Grand Prix
+LAT,24.0,106.197,2.0,HARD,1.0,1,False,Williams,True,20.0,50.311,33.708,22.178,,False,True,5823.663,20,Mexico City Grand Prix
+LAT,25.0,85.057,2.0,HARD,2.0,1,True,Williams,True,20.0,29.494,33.253,22.31,,False,False,5908.72,20,Mexico City Grand Prix
+LAT,26.0,85.078,2.0,HARD,3.0,1,True,Williams,True,20.0,29.617,33.301,22.16,,False,False,5993.798,20,Mexico City Grand Prix
+LAT,27.0,84.982,2.0,HARD,4.0,1,True,Williams,True,20.0,29.508,33.425,22.049,,False,False,6078.78,20,Mexico City Grand Prix
+LAT,28.0,86.416,2.0,HARD,5.0,1,True,Williams,True,20.0,29.504,34.108,22.804,,False,False,6165.196,20,Mexico City Grand Prix
+LAT,29.0,84.986,2.0,HARD,6.0,1,True,Williams,True,20.0,29.575,33.425,21.986,,False,False,6250.182,20,Mexico City Grand Prix
+LAT,30.0,86.492,2.0,HARD,7.0,1,True,Williams,True,20.0,29.61,33.717,23.165,,False,False,6336.674,20,Mexico City Grand Prix
+LAT,31.0,85.77,2.0,HARD,8.0,1,True,Williams,True,20.0,30.164,33.554,22.052,,False,False,6422.444,20,Mexico City Grand Prix
+LAT,32.0,85.534,2.0,HARD,9.0,1,True,Williams,True,20.0,30.172,33.277,22.085,,False,False,6507.978,20,Mexico City Grand Prix
+LAT,33.0,84.878,2.0,HARD,10.0,1,True,Williams,True,20.0,29.546,33.215,22.117,,False,False,6592.856,20,Mexico City Grand Prix
+LAT,34.0,85.297,2.0,HARD,11.0,1,True,Williams,True,20.0,29.703,33.44,22.154,,False,False,6678.153,20,Mexico City Grand Prix
+LAT,35.0,84.755,2.0,HARD,12.0,1,True,Williams,True,20.0,29.561,33.069,22.125,,False,False,6762.908,20,Mexico City Grand Prix
+LAT,36.0,84.983,2.0,HARD,13.0,1,True,Williams,True,20.0,29.563,33.252,22.168,,False,False,6847.891,20,Mexico City Grand Prix
+LAT,37.0,85.461,2.0,HARD,14.0,1,True,Williams,True,20.0,29.627,33.504,22.33,,False,False,6933.352,20,Mexico City Grand Prix
+LAT,38.0,85.193,2.0,HARD,15.0,1,True,Williams,True,20.0,29.614,33.341,22.238,,False,False,7018.545,20,Mexico City Grand Prix
+LAT,39.0,86.091,2.0,HARD,16.0,1,True,Williams,True,20.0,29.8,33.673,22.618,,False,False,7104.636,20,Mexico City Grand Prix
+LAT,40.0,85.397,2.0,HARD,17.0,1,True,Williams,True,20.0,29.639,33.337,22.421,,False,False,7190.033,20,Mexico City Grand Prix
+LAT,41.0,87.221,2.0,HARD,18.0,1,True,Williams,True,20.0,29.609,33.77,23.842,,False,False,7277.254,20,Mexico City Grand Prix
+LAT,42.0,86.306,2.0,HARD,19.0,1,True,Williams,True,20.0,29.333,33.698,23.275,,False,False,7363.56,20,Mexico City Grand Prix
+LAT,43.0,85.186,2.0,HARD,20.0,1,True,Williams,True,20.0,29.356,33.662,22.168,,False,False,7448.746,20,Mexico City Grand Prix
+LAT,44.0,84.931,2.0,HARD,21.0,1,True,Williams,True,20.0,29.53,33.37,22.031,,False,False,7533.677,20,Mexico City Grand Prix
+LAT,45.0,85.163,2.0,HARD,22.0,1,True,Williams,True,20.0,29.555,33.405,22.203,,False,False,7618.84,20,Mexico City Grand Prix
+LAT,46.0,85.07,2.0,HARD,23.0,1,True,Williams,True,20.0,29.472,33.557,22.041,,False,False,7703.91,20,Mexico City Grand Prix
+LAT,47.0,85.135,2.0,HARD,24.0,1,True,Williams,True,20.0,29.495,33.51,22.13,,False,False,7789.045,20,Mexico City Grand Prix
+LAT,48.0,85.057,2.0,HARD,25.0,1,True,Williams,True,20.0,29.417,33.571,22.069,,False,False,7874.102,20,Mexico City Grand Prix
+LAT,49.0,85.21,2.0,HARD,26.0,1,True,Williams,True,20.0,29.505,33.492,22.213,,False,False,7959.312,20,Mexico City Grand Prix
+LAT,50.0,85.068,2.0,HARD,27.0,1,True,Williams,True,20.0,29.508,33.371,22.189,,False,False,8044.38,20,Mexico City Grand Prix
+LAT,51.0,85.562,2.0,HARD,28.0,1,True,Williams,True,19.0,29.525,33.771,22.266,,False,False,8129.942,20,Mexico City Grand Prix
+LAT,52.0,88.407,2.0,HARD,29.0,1,False,Williams,True,19.0,29.585,33.474,25.348,,True,False,8218.349,20,Mexico City Grand Prix
+LAT,53.0,104.507,3.0,SOFT,1.0,1,False,Williams,True,19.0,50.144,32.873,21.49,,False,True,8322.856,20,Mexico City Grand Prix
+LAT,54.0,85.321,3.0,SOFT,2.0,1,True,Williams,True,19.0,28.991,33.51,22.82,,False,False,8408.177,20,Mexico City Grand Prix
+LAT,55.0,84.096,3.0,SOFT,3.0,1,True,Williams,True,19.0,28.895,33.446,21.755,,False,False,8492.273,20,Mexico City Grand Prix
+LAT,56.0,83.709,3.0,SOFT,4.0,1,True,Williams,True,19.0,28.972,33.026,21.711,,False,False,8575.982,20,Mexico City Grand Prix
+LAT,57.0,84.027,3.0,SOFT,5.0,1,True,Williams,True,19.0,28.835,33.351,21.841,,False,False,8660.009,20,Mexico City Grand Prix
+LAT,58.0,84.718,3.0,SOFT,6.0,1,True,Williams,True,19.0,29.41,33.26,22.048,,False,False,8744.727,20,Mexico City Grand Prix
+LAT,59.0,84.366,3.0,SOFT,7.0,1,True,Williams,True,19.0,29.284,33.024,22.058,,False,False,8829.093,20,Mexico City Grand Prix
+LAT,60.0,84.896,3.0,SOFT,8.0,1,True,Williams,True,19.0,29.523,33.367,22.006,,False,False,8913.989,20,Mexico City Grand Prix
+LAT,61.0,85.044,3.0,SOFT,9.0,1,True,Williams,True,19.0,29.211,33.111,22.722,,False,False,8999.033,20,Mexico City Grand Prix
+LAT,62.0,88.969,3.0,SOFT,10.0,1,True,Williams,True,19.0,33.26,33.748,21.961,,False,False,9088.002,20,Mexico City Grand Prix
+LAT,63.0,99.112,3.0,SOFT,11.0,1267,False,Williams,True,19.0,29.771,43.162,26.179,,False,False,9187.114,20,Mexico City Grand Prix
+LAT,64.0,85.135,3.0,SOFT,12.0,1,True,Williams,True,18.0,29.815,33.315,22.005,,False,False,9272.249,20,Mexico City Grand Prix
+LAT,65.0,83.894,3.0,SOFT,13.0,1,True,Williams,True,18.0,29.213,32.844,21.837,,False,False,9356.143,20,Mexico City Grand Prix
+LAT,66.0,84.079,3.0,SOFT,14.0,1,True,Williams,True,18.0,29.149,33.162,21.768,,False,False,9440.222,20,Mexico City Grand Prix
+LAT,67.0,84.438,3.0,SOFT,15.0,1,True,Williams,True,18.0,29.288,33.222,21.928,,False,False,9524.66,20,Mexico City Grand Prix
+LAT,68.0,88.144,3.0,SOFT,16.0,1,True,Williams,True,18.0,30.903,33.912,23.329,,False,False,9612.804,20,Mexico City Grand Prix
+LAT,69.0,85.849,3.0,SOFT,17.0,1,True,Williams,True,18.0,29.953,33.677,22.219,,False,False,9698.653,20,Mexico City Grand Prix
+RUS,1.0,88.892,1.0,MEDIUM,1.0,1,False,Mercedes,True,4.0,,34.237,21.724,,False,False,3815.893,20,Mexico City Grand Prix
+RUS,2.0,83.76,1.0,MEDIUM,2.0,1,True,Mercedes,True,4.0,29.686,32.655,21.419,,False,False,3899.653,20,Mexico City Grand Prix
+RUS,3.0,83.656,1.0,MEDIUM,3.0,1,True,Mercedes,True,4.0,29.63,32.682,21.344,,False,False,3983.309,20,Mexico City Grand Prix
+RUS,4.0,83.549,1.0,MEDIUM,4.0,1,True,Mercedes,True,4.0,29.567,32.449,21.533,,False,False,4066.858,20,Mexico City Grand Prix
+RUS,5.0,83.266,1.0,MEDIUM,5.0,1,True,Mercedes,True,4.0,29.506,32.282,21.478,,False,False,4150.124,20,Mexico City Grand Prix
+RUS,6.0,83.549,1.0,MEDIUM,6.0,1,True,Mercedes,True,4.0,29.632,32.476,21.441,,False,False,4233.673,20,Mexico City Grand Prix
+RUS,7.0,83.22,1.0,MEDIUM,7.0,1,True,Mercedes,True,4.0,29.498,32.348,21.374,,False,False,4316.893,20,Mexico City Grand Prix
+RUS,8.0,83.481,1.0,MEDIUM,8.0,1,True,Mercedes,True,4.0,29.607,32.319,21.555,,False,False,4400.374,20,Mexico City Grand Prix
+RUS,9.0,83.654,1.0,MEDIUM,9.0,1,True,Mercedes,True,4.0,29.658,32.402,21.594,,False,False,4484.028,20,Mexico City Grand Prix
+RUS,10.0,83.487,1.0,MEDIUM,10.0,1,True,Mercedes,True,4.0,29.543,32.372,21.572,,False,False,4567.515,20,Mexico City Grand Prix
+RUS,11.0,83.327,1.0,MEDIUM,11.0,1,True,Mercedes,True,4.0,29.529,32.17,21.628,,False,False,4650.842,20,Mexico City Grand Prix
+RUS,12.0,83.42,1.0,MEDIUM,12.0,1,True,Mercedes,True,4.0,29.467,32.358,21.595,,False,False,4734.262,20,Mexico City Grand Prix
+RUS,13.0,83.273,1.0,MEDIUM,13.0,1,True,Mercedes,True,4.0,29.478,32.296,21.499,,False,False,4817.535,20,Mexico City Grand Prix
+RUS,14.0,83.413,1.0,MEDIUM,14.0,1,True,Mercedes,True,4.0,29.472,32.36,21.581,,False,False,4900.948,20,Mexico City Grand Prix
+RUS,15.0,83.239,1.0,MEDIUM,15.0,1,True,Mercedes,True,4.0,29.476,32.293,21.47,,False,False,4984.187,20,Mexico City Grand Prix
+RUS,16.0,83.155,1.0,MEDIUM,16.0,1,True,Mercedes,True,4.0,29.419,32.292,21.444,,False,False,5067.342,20,Mexico City Grand Prix
+RUS,17.0,83.465,1.0,MEDIUM,17.0,1,True,Mercedes,True,4.0,29.468,32.411,21.586,,False,False,5150.807,20,Mexico City Grand Prix
+RUS,18.0,83.316,1.0,MEDIUM,18.0,1,True,Mercedes,True,4.0,29.481,32.347,21.488,,False,False,5234.123,20,Mexico City Grand Prix
+RUS,19.0,83.457,1.0,MEDIUM,19.0,1,True,Mercedes,True,4.0,29.452,32.4,21.605,,False,False,5317.58,20,Mexico City Grand Prix
+RUS,20.0,83.645,1.0,MEDIUM,20.0,1,True,Mercedes,True,4.0,29.464,32.399,21.782,,False,False,5401.225,20,Mexico City Grand Prix
+RUS,21.0,83.415,1.0,MEDIUM,21.0,1,True,Mercedes,True,4.0,29.369,32.383,21.663,,False,False,5484.64,20,Mexico City Grand Prix
+RUS,22.0,83.769,1.0,MEDIUM,22.0,1,True,Mercedes,True,4.0,29.423,32.584,21.762,,False,False,5568.409,20,Mexico City Grand Prix
+RUS,23.0,83.602,1.0,MEDIUM,23.0,1,True,Mercedes,True,3.0,29.313,32.592,21.697,,False,False,5652.011,20,Mexico City Grand Prix
+RUS,24.0,83.46,1.0,MEDIUM,24.0,1,True,Mercedes,True,3.0,29.47,32.364,21.626,,False,False,5735.471,20,Mexico City Grand Prix
+RUS,25.0,83.499,1.0,MEDIUM,25.0,1,True,Mercedes,True,3.0,29.572,32.342,21.585,,False,False,5818.97,20,Mexico City Grand Prix
+RUS,26.0,83.227,1.0,MEDIUM,26.0,1,True,Mercedes,True,2.0,29.389,32.269,21.569,,False,False,5902.197,20,Mexico City Grand Prix
+RUS,27.0,83.233,1.0,MEDIUM,27.0,1,True,Mercedes,True,2.0,29.334,32.347,21.552,,False,False,5985.43,20,Mexico City Grand Prix
+RUS,28.0,83.052,1.0,MEDIUM,28.0,1,True,Mercedes,True,2.0,29.398,32.175,21.479,,False,False,6068.482,20,Mexico City Grand Prix
+RUS,29.0,82.934,1.0,MEDIUM,29.0,1,True,Mercedes,True,2.0,29.305,32.206,21.423,,False,False,6151.416,20,Mexico City Grand Prix
+RUS,30.0,82.934,1.0,MEDIUM,30.0,1,True,Mercedes,True,1.0,29.304,32.186,21.444,,False,False,6234.35,20,Mexico City Grand Prix
+RUS,31.0,83.056,1.0,MEDIUM,31.0,1,True,Mercedes,True,1.0,29.337,32.255,21.464,,False,False,6317.406,20,Mexico City Grand Prix
+RUS,32.0,83.275,1.0,MEDIUM,32.0,1,True,Mercedes,True,1.0,29.43,32.236,21.609,,False,False,6400.681,20,Mexico City Grand Prix
+RUS,33.0,83.269,1.0,MEDIUM,33.0,1,True,Mercedes,True,1.0,29.53,32.191,21.548,,False,False,6483.95,20,Mexico City Grand Prix
+RUS,34.0,86.763,1.0,MEDIUM,34.0,1,False,Mercedes,True,1.0,29.526,32.328,24.909,,True,False,6570.713,20,Mexico City Grand Prix
+RUS,35.0,102.467,2.0,HARD,1.0,1,False,Mercedes,True,4.0,48.974,32.248,21.245,,False,True,6673.18,20,Mexico City Grand Prix
+RUS,36.0,81.956,2.0,HARD,2.0,1,True,Mercedes,True,4.0,29.225,31.704,21.027,,False,False,6755.136,20,Mexico City Grand Prix
+RUS,37.0,82.248,2.0,HARD,3.0,1,True,Mercedes,True,4.0,29.257,31.869,21.122,,False,False,6837.384,20,Mexico City Grand Prix
+RUS,38.0,82.641,2.0,HARD,4.0,1,True,Mercedes,True,4.0,29.238,31.966,21.437,,False,False,6920.025,20,Mexico City Grand Prix
+RUS,39.0,83.018,2.0,HARD,5.0,1,True,Mercedes,True,4.0,29.521,32.082,21.415,,False,False,7003.043,20,Mexico City Grand Prix
+RUS,40.0,83.341,2.0,HARD,6.0,1,True,Mercedes,True,4.0,29.292,32.5,21.549,,False,False,7086.384,20,Mexico City Grand Prix
+RUS,41.0,82.858,2.0,HARD,7.0,1,True,Mercedes,True,4.0,29.334,32.014,21.51,,False,False,7169.242,20,Mexico City Grand Prix
+RUS,42.0,82.793,2.0,HARD,8.0,1,True,Mercedes,True,4.0,29.182,32.119,21.492,,False,False,7252.035,20,Mexico City Grand Prix
+RUS,43.0,82.522,2.0,HARD,9.0,1,True,Mercedes,True,4.0,29.34,32.004,21.178,,False,False,7334.557,20,Mexico City Grand Prix
+RUS,44.0,82.366,2.0,HARD,10.0,1,True,Mercedes,True,4.0,29.23,31.866,21.27,,False,False,7416.923,20,Mexico City Grand Prix
+RUS,45.0,82.418,2.0,HARD,11.0,1,True,Mercedes,True,4.0,29.218,31.875,21.325,,False,False,7499.341,20,Mexico City Grand Prix
+RUS,46.0,82.536,2.0,HARD,12.0,1,True,Mercedes,True,4.0,29.239,31.955,21.342,,False,False,7581.877,20,Mexico City Grand Prix
+RUS,47.0,82.369,2.0,HARD,13.0,1,True,Mercedes,True,4.0,29.152,31.918,21.299,,False,False,7664.246,20,Mexico City Grand Prix
+RUS,48.0,82.452,2.0,HARD,14.0,1,True,Mercedes,True,4.0,29.096,32.084,21.272,,False,False,7746.698,20,Mexico City Grand Prix
+RUS,49.0,83.079,2.0,HARD,15.0,1,True,Mercedes,True,4.0,29.351,32.355,21.373,,False,False,7829.777,20,Mexico City Grand Prix
+RUS,50.0,82.246,2.0,HARD,16.0,1,True,Mercedes,True,4.0,29.184,31.848,21.214,,False,False,7912.023,20,Mexico City Grand Prix
+RUS,51.0,82.682,2.0,HARD,17.0,1,True,Mercedes,True,4.0,29.155,32.047,21.48,,False,False,7994.705,20,Mexico City Grand Prix
+RUS,52.0,82.356,2.0,HARD,18.0,1,True,Mercedes,True,4.0,29.194,31.872,21.29,,False,False,8077.061,20,Mexico City Grand Prix
+RUS,53.0,82.256,2.0,HARD,19.0,1,True,Mercedes,True,4.0,29.072,31.829,21.355,,False,False,8159.317,20,Mexico City Grand Prix
+RUS,54.0,82.537,2.0,HARD,20.0,1,True,Mercedes,True,4.0,29.209,31.897,21.431,,False,False,8241.854,20,Mexico City Grand Prix
+RUS,55.0,82.518,2.0,HARD,21.0,1,True,Mercedes,True,4.0,29.155,32.003,21.36,,False,False,8324.372,20,Mexico City Grand Prix
+RUS,56.0,82.816,2.0,HARD,22.0,1,True,Mercedes,True,4.0,29.078,32.275,21.463,,False,False,8407.188,20,Mexico City Grand Prix
+RUS,57.0,82.749,2.0,HARD,23.0,1,True,Mercedes,True,4.0,29.205,32.167,21.377,,False,False,8489.937,20,Mexico City Grand Prix
+RUS,58.0,83.123,2.0,HARD,24.0,1,True,Mercedes,True,4.0,29.353,32.284,21.486,,False,False,8573.06,20,Mexico City Grand Prix
+RUS,59.0,82.894,2.0,HARD,25.0,1,True,Mercedes,True,4.0,29.306,32.118,21.47,,False,False,8655.954,20,Mexico City Grand Prix
+RUS,60.0,82.908,2.0,HARD,26.0,1,True,Mercedes,True,4.0,29.319,32.06,21.529,,False,False,8738.862,20,Mexico City Grand Prix
+RUS,61.0,83.342,2.0,HARD,27.0,1,True,Mercedes,True,4.0,29.206,32.423,21.713,,False,False,8822.204,20,Mexico City Grand Prix
+RUS,62.0,83.049,2.0,HARD,28.0,1,True,Mercedes,True,4.0,28.876,32.538,21.635,,False,False,8905.253,20,Mexico City Grand Prix
+RUS,63.0,82.763,2.0,HARD,29.0,1,True,Mercedes,True,4.0,29.15,32.032,21.581,,False,False,8988.016,20,Mexico City Grand Prix
+RUS,64.0,82.393,2.0,HARD,30.0,1,True,Mercedes,True,4.0,28.932,32.028,21.433,,False,False,9070.409,20,Mexico City Grand Prix
+RUS,65.0,97.061,2.0,HARD,31.0,126,False,Mercedes,True,4.0,29.05,38.682,29.329,,False,False,9167.47,20,Mexico City Grand Prix
+RUS,66.0,86.925,2.0,HARD,32.0,671,False,Mercedes,True,4.0,33.243,32.171,21.511,,False,False,9254.395,20,Mexico City Grand Prix
+RUS,67.0,82.271,2.0,HARD,33.0,1,True,Mercedes,True,4.0,29.06,31.892,21.319,,False,False,9336.666,20,Mexico City Grand Prix
+RUS,68.0,82.566,2.0,HARD,34.0,1,True,Mercedes,True,4.0,29.082,31.873,21.611,,False,False,9419.232,20,Mexico City Grand Prix
+RUS,69.0,85.973,2.0,HARD,35.0,1,False,Mercedes,True,4.0,28.935,32.209,24.829,,True,False,9505.205,20,Mexico City Grand Prix
+RUS,70.0,107.803,3.0,SOFT,4.0,1,False,Mercedes,False,4.0,50.06,33.262,24.481,,False,True,9613.008,20,Mexico City Grand Prix
+RUS,71.0,80.153,3.0,SOFT,5.0,1,True,Mercedes,False,4.0,28.186,31.082,20.885,,False,False,9693.161,20,Mexico City Grand Prix
+BOT,1.0,91.463,1.0,MEDIUM,1.0,1,False,Alfa Romeo,True,8.0,,35.104,22.253,,False,False,3818.464,20,Mexico City Grand Prix
+BOT,2.0,85.388,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,8.0,29.928,33.625,21.835,,False,False,3903.852,20,Mexico City Grand Prix
+BOT,3.0,84.837,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,8.0,29.802,33.323,21.712,,False,False,3988.689,20,Mexico City Grand Prix
+BOT,4.0,84.805,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,8.0,29.425,33.533,21.847,,False,False,4073.494,20,Mexico City Grand Prix
+BOT,5.0,85.064,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,8.0,29.653,33.489,21.922,,False,False,4158.558,20,Mexico City Grand Prix
+BOT,6.0,84.671,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,8.0,29.422,33.249,22.0,,False,False,4243.229,20,Mexico City Grand Prix
+BOT,7.0,84.431,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,8.0,29.273,33.197,21.961,,False,False,4327.66,20,Mexico City Grand Prix
+BOT,8.0,84.531,1.0,MEDIUM,8.0,1,True,Alfa Romeo,True,8.0,29.279,33.22,22.032,,False,False,4412.191,20,Mexico City Grand Prix
+BOT,9.0,84.353,1.0,MEDIUM,9.0,1,True,Alfa Romeo,True,8.0,29.312,32.978,22.063,,False,False,4496.544,20,Mexico City Grand Prix
+BOT,10.0,84.443,1.0,MEDIUM,10.0,1,True,Alfa Romeo,True,8.0,29.246,33.223,21.974,,False,False,4580.987,20,Mexico City Grand Prix
+BOT,11.0,84.676,1.0,MEDIUM,11.0,1,True,Alfa Romeo,True,8.0,29.498,33.024,22.154,,False,False,4665.663,20,Mexico City Grand Prix
+BOT,12.0,84.792,1.0,MEDIUM,12.0,1,True,Alfa Romeo,True,8.0,29.796,32.954,22.042,,False,False,4750.455,20,Mexico City Grand Prix
+BOT,13.0,84.474,1.0,MEDIUM,13.0,1,True,Alfa Romeo,True,8.0,29.756,32.83,21.888,,False,False,4834.929,20,Mexico City Grand Prix
+BOT,14.0,84.354,1.0,MEDIUM,14.0,1,True,Alfa Romeo,True,8.0,29.65,32.86,21.844,,False,False,4919.283,20,Mexico City Grand Prix
+BOT,15.0,84.252,1.0,MEDIUM,15.0,1,True,Alfa Romeo,True,8.0,29.616,32.738,21.898,,False,False,5003.535,20,Mexico City Grand Prix
+BOT,16.0,84.433,1.0,MEDIUM,16.0,1,True,Alfa Romeo,True,8.0,29.6,32.892,21.941,,False,False,5087.968,20,Mexico City Grand Prix
+BOT,17.0,84.483,1.0,MEDIUM,17.0,1,True,Alfa Romeo,True,8.0,29.636,32.922,21.925,,False,False,5172.451,20,Mexico City Grand Prix
+BOT,18.0,84.407,1.0,MEDIUM,18.0,1,True,Alfa Romeo,True,8.0,29.696,32.677,22.034,,False,False,5256.858,20,Mexico City Grand Prix
+BOT,19.0,84.303,1.0,MEDIUM,19.0,1,True,Alfa Romeo,True,8.0,29.693,32.718,21.892,,False,False,5341.161,20,Mexico City Grand Prix
+BOT,20.0,84.464,1.0,MEDIUM,20.0,1,True,Alfa Romeo,True,8.0,29.61,32.837,22.017,,False,False,5425.625,20,Mexico City Grand Prix
+BOT,21.0,84.346,1.0,MEDIUM,21.0,1,True,Alfa Romeo,True,8.0,29.566,32.803,21.977,,False,False,5509.971,20,Mexico City Grand Prix
+BOT,22.0,84.376,1.0,MEDIUM,22.0,1,True,Alfa Romeo,True,8.0,29.657,32.795,21.924,,False,False,5594.347,20,Mexico City Grand Prix
+BOT,23.0,84.528,1.0,MEDIUM,23.0,1,True,Alfa Romeo,True,8.0,29.684,32.818,22.026,,False,False,5678.875,20,Mexico City Grand Prix
+BOT,24.0,84.569,1.0,MEDIUM,24.0,1,True,Alfa Romeo,True,8.0,29.668,32.886,22.015,,False,False,5763.444,20,Mexico City Grand Prix
+BOT,25.0,84.526,1.0,MEDIUM,25.0,1,True,Alfa Romeo,True,8.0,29.584,32.753,22.189,,False,False,5847.97,20,Mexico City Grand Prix
+BOT,26.0,84.758,1.0,MEDIUM,26.0,1,True,Alfa Romeo,True,8.0,29.767,32.879,22.112,,False,False,5932.728,20,Mexico City Grand Prix
+BOT,27.0,84.347,1.0,MEDIUM,27.0,1,True,Alfa Romeo,True,8.0,29.627,32.682,22.038,,False,False,6017.075,20,Mexico City Grand Prix
+BOT,28.0,84.24,1.0,MEDIUM,28.0,1,True,Alfa Romeo,True,8.0,29.624,32.717,21.899,,False,False,6101.315,20,Mexico City Grand Prix
+BOT,29.0,84.229,1.0,MEDIUM,29.0,1,True,Alfa Romeo,True,7.0,29.593,32.736,21.9,,False,False,6185.544,20,Mexico City Grand Prix
+BOT,30.0,84.394,1.0,MEDIUM,30.0,1,True,Alfa Romeo,True,6.0,29.6,32.783,22.011,,False,False,6269.938,20,Mexico City Grand Prix
+BOT,31.0,83.933,1.0,MEDIUM,31.0,1,True,Alfa Romeo,True,6.0,29.576,32.661,21.696,,False,False,6353.871,20,Mexico City Grand Prix
+BOT,32.0,84.012,1.0,MEDIUM,32.0,1,True,Alfa Romeo,True,6.0,29.586,32.712,21.714,,False,False,6437.883,20,Mexico City Grand Prix
+BOT,33.0,84.146,1.0,MEDIUM,33.0,1,True,Alfa Romeo,True,6.0,29.617,32.733,21.796,,False,False,6522.029,20,Mexico City Grand Prix
+BOT,34.0,84.376,1.0,MEDIUM,34.0,1,True,Alfa Romeo,True,6.0,29.678,32.702,21.996,,False,False,6606.405,20,Mexico City Grand Prix
+BOT,35.0,84.105,1.0,MEDIUM,35.0,1,True,Alfa Romeo,True,6.0,29.622,32.675,21.808,,False,False,6690.51,20,Mexico City Grand Prix
+BOT,36.0,84.169,1.0,MEDIUM,36.0,1,True,Alfa Romeo,True,6.0,29.565,32.761,21.843,,False,False,6774.679,20,Mexico City Grand Prix
+BOT,37.0,84.41,1.0,MEDIUM,37.0,1,True,Alfa Romeo,True,6.0,29.586,32.649,22.175,,False,False,6859.089,20,Mexico City Grand Prix
+BOT,38.0,85.151,1.0,MEDIUM,38.0,1,True,Alfa Romeo,True,7.0,29.968,33.014,22.169,,False,False,6944.24,20,Mexico City Grand Prix
+BOT,39.0,88.292,1.0,MEDIUM,39.0,1,False,Alfa Romeo,True,8.0,29.857,32.972,25.463,,True,False,7032.532,20,Mexico City Grand Prix
+BOT,40.0,104.987,2.0,HARD,1.0,1,False,Alfa Romeo,False,10.0,50.085,33.045,21.857,,False,True,7137.519,20,Mexico City Grand Prix
+BOT,41.0,86.967,2.0,HARD,2.0,1,True,Alfa Romeo,False,11.0,30.53,34.441,21.996,,False,False,7224.486,20,Mexico City Grand Prix
+BOT,42.0,84.068,2.0,HARD,3.0,1,True,Alfa Romeo,False,11.0,29.161,33.016,21.891,,False,False,7308.554,20,Mexico City Grand Prix
+BOT,43.0,83.363,2.0,HARD,4.0,1,True,Alfa Romeo,False,11.0,28.927,32.656,21.78,,False,False,7391.917,20,Mexico City Grand Prix
+BOT,44.0,84.213,2.0,HARD,5.0,1,True,Alfa Romeo,False,11.0,29.051,33.125,22.037,,False,False,7476.13,20,Mexico City Grand Prix
+BOT,45.0,83.889,2.0,HARD,6.0,1,True,Alfa Romeo,False,9.0,28.962,33.243,21.684,,False,False,7560.019,20,Mexico City Grand Prix
+BOT,46.0,83.566,2.0,HARD,7.0,1,True,Alfa Romeo,False,9.0,28.845,32.983,21.738,,False,False,7643.585,20,Mexico City Grand Prix
+BOT,47.0,83.572,2.0,HARD,8.0,1,True,Alfa Romeo,False,9.0,28.934,32.892,21.746,,False,False,7727.157,20,Mexico City Grand Prix
+BOT,48.0,85.562,2.0,HARD,9.0,1,True,Alfa Romeo,False,9.0,28.869,32.885,23.808,,False,False,7812.719,20,Mexico City Grand Prix
+BOT,49.0,84.228,2.0,HARD,10.0,1,True,Alfa Romeo,False,9.0,29.686,32.708,21.834,,False,False,7896.947,20,Mexico City Grand Prix
+BOT,50.0,83.659,2.0,HARD,11.0,1,True,Alfa Romeo,False,9.0,29.411,32.567,21.681,,False,False,7980.606,20,Mexico City Grand Prix
+BOT,51.0,83.873,2.0,HARD,12.0,1,True,Alfa Romeo,False,9.0,29.324,32.631,21.918,,False,False,8064.479,20,Mexico City Grand Prix
+BOT,52.0,83.606,2.0,HARD,13.0,1,True,Alfa Romeo,False,9.0,29.484,32.383,21.739,,False,False,8148.085,20,Mexico City Grand Prix
+BOT,53.0,83.602,2.0,HARD,14.0,1,True,Alfa Romeo,False,9.0,29.389,32.531,21.682,,False,False,8231.687,20,Mexico City Grand Prix
+BOT,54.0,83.97,2.0,HARD,15.0,1,True,Alfa Romeo,False,9.0,29.498,32.577,21.895,,False,False,8315.657,20,Mexico City Grand Prix
+BOT,55.0,84.124,2.0,HARD,16.0,1,True,Alfa Romeo,False,9.0,29.524,32.667,21.933,,False,False,8399.781,20,Mexico City Grand Prix
+BOT,56.0,86.842,2.0,HARD,17.0,1,True,Alfa Romeo,False,9.0,32.06,32.906,21.876,,False,False,8486.623,20,Mexico City Grand Prix
+BOT,57.0,85.427,2.0,HARD,18.0,1,True,Alfa Romeo,False,10.0,30.092,33.277,22.058,,False,False,8572.05,20,Mexico City Grand Prix
+BOT,58.0,85.697,2.0,HARD,19.0,1,True,Alfa Romeo,False,10.0,30.578,33.157,21.962,,False,False,8657.747,20,Mexico City Grand Prix
+BOT,59.0,83.921,2.0,HARD,20.0,1,True,Alfa Romeo,False,10.0,29.457,32.517,21.947,,False,False,8741.668,20,Mexico City Grand Prix
+BOT,60.0,83.954,2.0,HARD,21.0,1,True,Alfa Romeo,False,10.0,29.514,32.52,21.92,,False,False,8825.622,20,Mexico City Grand Prix
+BOT,61.0,84.067,2.0,HARD,22.0,1,True,Alfa Romeo,False,10.0,29.485,32.739,21.843,,False,False,8909.689,20,Mexico City Grand Prix
+BOT,62.0,84.102,2.0,HARD,23.0,1,True,Alfa Romeo,False,10.0,29.414,32.816,21.872,,False,False,8993.791,20,Mexico City Grand Prix
+BOT,63.0,84.616,2.0,HARD,24.0,1,True,Alfa Romeo,False,10.0,29.609,33.01,21.997,,False,False,9078.407,20,Mexico City Grand Prix
+BOT,64.0,100.13,2.0,HARD,25.0,1267,False,Alfa Romeo,False,10.0,30.156,42.949,27.025,,False,False,9178.537,20,Mexico City Grand Prix
+BOT,65.0,86.808,2.0,HARD,26.0,71,False,Alfa Romeo,False,10.0,31.437,33.388,21.983,,False,False,9265.345,20,Mexico City Grand Prix
+BOT,66.0,84.514,2.0,HARD,27.0,1,True,Alfa Romeo,False,10.0,29.624,32.909,21.981,,False,False,9349.859,20,Mexico City Grand Prix
+BOT,67.0,83.972,2.0,HARD,28.0,1,True,Alfa Romeo,False,10.0,29.435,32.682,21.855,,False,False,9433.831,20,Mexico City Grand Prix
+BOT,68.0,84.44,2.0,HARD,29.0,1,True,Alfa Romeo,False,10.0,29.46,33.048,21.932,,False,False,9518.271,20,Mexico City Grand Prix
+BOT,69.0,83.497,2.0,HARD,30.0,1,True,Alfa Romeo,False,10.0,29.381,32.461,21.655,,False,False,9601.768,20,Mexico City Grand Prix
+BOT,70.0,84.341,2.0,HARD,31.0,1,True,Alfa Romeo,False,10.0,29.503,32.843,21.995,,False,False,9686.109,20,Mexico City Grand Prix

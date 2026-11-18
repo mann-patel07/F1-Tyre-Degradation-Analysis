@@ -1,0 +1,1265 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,83.396,1.0,MEDIUM,1.0,1,False,Red Bull Racing,True,1.0,,25.32,31.346,,False,False,3817.385,9,Canadian Grand Prix
+VER,2.0,78.96,1.0,MEDIUM,2.0,1,True,Red Bull Racing,True,1.0,22.137,25.309,31.514,,False,False,3896.345,9,Canadian Grand Prix
+VER,3.0,78.818,1.0,MEDIUM,3.0,1,True,Red Bull Racing,True,1.0,22.112,25.39,31.316,,False,False,3975.163,9,Canadian Grand Prix
+VER,4.0,78.393,1.0,MEDIUM,4.0,1,True,Red Bull Racing,True,1.0,21.98,25.135,31.278,,False,False,4053.556,9,Canadian Grand Prix
+VER,5.0,78.293,1.0,MEDIUM,5.0,1,True,Red Bull Racing,True,1.0,21.83,25.2,31.263,,False,False,4131.849,9,Canadian Grand Prix
+VER,6.0,78.275,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,1.0,22.04,25.039,31.196,,False,False,4210.124,9,Canadian Grand Prix
+VER,7.0,77.828,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,1.0,21.671,24.985,31.172,,False,False,4287.952,9,Canadian Grand Prix
+VER,8.0,77.757,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,1.0,21.774,24.91,31.073,,False,False,4365.709,9,Canadian Grand Prix
+VER,9.0,112.842,1.0,MEDIUM,9.0,126,False,Red Bull Racing,True,3.0,21.827,34.68,56.335,,True,False,4478.551,9,Canadian Grand Prix
+VER,10.0,104.647,2.0,HARD,1.0,671,False,Red Bull Racing,True,3.0,30.729,34.611,39.307,,False,True,4583.198,9,Canadian Grand Prix
+VER,11.0,77.808,2.0,HARD,2.0,1,True,Red Bull Racing,True,3.0,21.891,24.889,31.028,,False,False,4661.006,9,Canadian Grand Prix
+VER,12.0,77.37,2.0,HARD,3.0,1,True,Red Bull Racing,True,3.0,21.634,24.808,30.928,,False,False,4738.376,9,Canadian Grand Prix
+VER,13.0,77.518,2.0,HARD,4.0,1,True,Red Bull Racing,True,3.0,21.687,24.807,31.024,,False,False,4815.894,9,Canadian Grand Prix
+VER,14.0,77.791,2.0,HARD,5.0,1,True,Red Bull Racing,True,3.0,21.675,24.827,31.289,,False,False,4893.685,9,Canadian Grand Prix
+VER,15.0,78.076,2.0,HARD,6.0,1,True,Red Bull Racing,True,2.0,22.033,25.36,30.683,,False,False,4971.761,9,Canadian Grand Prix
+VER,16.0,77.457,2.0,HARD,7.0,1,True,Red Bull Racing,True,2.0,21.595,24.767,31.095,,False,False,5049.218,9,Canadian Grand Prix
+VER,17.0,77.356,2.0,HARD,8.0,1,True,Red Bull Racing,True,2.0,21.517,24.809,31.03,,False,False,5126.574,9,Canadian Grand Prix
+VER,18.0,77.45,2.0,HARD,9.0,1,True,Red Bull Racing,True,2.0,21.607,24.771,31.072,,False,False,5204.024,9,Canadian Grand Prix
+VER,19.0,77.458,2.0,HARD,10.0,12,True,Red Bull Racing,True,2.0,21.646,24.785,31.027,,False,False,5281.482,9,Canadian Grand Prix
+VER,20.0,106.72,2.0,HARD,11.0,267,False,Red Bull Racing,True,1.0,28.18,35.377,43.163,,False,False,5388.202,9,Canadian Grand Prix
+VER,21.0,79.307,2.0,HARD,12.0,71,False,Red Bull Racing,True,1.0,23.203,24.993,31.111,,False,False,5467.509,9,Canadian Grand Prix
+VER,22.0,77.592,2.0,HARD,13.0,1,True,Red Bull Racing,True,1.0,21.766,24.813,31.013,,False,False,5545.101,9,Canadian Grand Prix
+VER,23.0,77.634,2.0,HARD,14.0,1,True,Red Bull Racing,True,1.0,21.777,24.859,30.998,,False,False,5622.735,9,Canadian Grand Prix
+VER,24.0,77.581,2.0,HARD,15.0,1,True,Red Bull Racing,True,1.0,21.684,24.863,31.034,,False,False,5700.316,9,Canadian Grand Prix
+VER,25.0,77.676,2.0,HARD,16.0,1,True,Red Bull Racing,True,1.0,21.828,24.687,31.161,,False,False,5777.992,9,Canadian Grand Prix
+VER,26.0,77.418,2.0,HARD,17.0,1,True,Red Bull Racing,True,1.0,21.646,24.708,31.064,,False,False,5855.41,9,Canadian Grand Prix
+VER,27.0,77.528,2.0,HARD,18.0,1,True,Red Bull Racing,True,1.0,21.734,24.73,31.064,,False,False,5932.938,9,Canadian Grand Prix
+VER,28.0,77.43,2.0,HARD,19.0,1,True,Red Bull Racing,True,1.0,21.767,24.699,30.964,,False,False,6010.368,9,Canadian Grand Prix
+VER,29.0,77.426,2.0,HARD,20.0,1,True,Red Bull Racing,True,1.0,21.586,24.906,30.934,,False,False,6087.794,9,Canadian Grand Prix
+VER,30.0,77.541,2.0,HARD,21.0,1,True,Red Bull Racing,True,1.0,21.783,24.741,31.017,,False,False,6165.335,9,Canadian Grand Prix
+VER,31.0,77.458,2.0,HARD,22.0,1,True,Red Bull Racing,True,1.0,21.808,24.993,30.657,,False,False,6242.793,9,Canadian Grand Prix
+VER,32.0,77.866,2.0,HARD,23.0,1,True,Red Bull Racing,True,1.0,21.962,24.842,31.062,,False,False,6320.659,9,Canadian Grand Prix
+VER,33.0,77.724,2.0,HARD,24.0,1,True,Red Bull Racing,True,1.0,21.924,24.805,30.995,,False,False,6398.383,9,Canadian Grand Prix
+VER,34.0,77.595,2.0,HARD,25.0,1,True,Red Bull Racing,True,1.0,21.715,24.832,31.048,,False,False,6475.978,9,Canadian Grand Prix
+VER,35.0,77.634,2.0,HARD,26.0,1,True,Red Bull Racing,True,1.0,21.823,24.791,31.02,,False,False,6553.612,9,Canadian Grand Prix
+VER,36.0,77.817,2.0,HARD,27.0,1,True,Red Bull Racing,True,1.0,21.88,24.921,31.016,,False,False,6631.429,9,Canadian Grand Prix
+VER,37.0,77.722,2.0,HARD,28.0,1,True,Red Bull Racing,True,1.0,21.86,24.991,30.871,,False,False,6709.151,9,Canadian Grand Prix
+VER,38.0,77.695,2.0,HARD,29.0,1,True,Red Bull Racing,True,1.0,21.832,24.903,30.96,,False,False,6786.846,9,Canadian Grand Prix
+VER,39.0,77.707,2.0,HARD,30.0,1,True,Red Bull Racing,True,1.0,21.772,24.907,31.028,,False,False,6864.553,9,Canadian Grand Prix
+VER,40.0,77.809,2.0,HARD,31.0,1,True,Red Bull Racing,True,1.0,21.781,24.879,31.149,,False,False,6942.362,9,Canadian Grand Prix
+VER,41.0,78.371,2.0,HARD,32.0,1,True,Red Bull Racing,True,1.0,21.948,24.809,31.614,,False,False,7020.733,9,Canadian Grand Prix
+VER,42.0,78.191,2.0,HARD,33.0,1,True,Red Bull Racing,True,1.0,22.043,24.907,31.241,,False,False,7098.924,9,Canadian Grand Prix
+VER,43.0,93.478,2.0,HARD,34.0,1,False,Red Bull Racing,True,2.0,21.756,24.865,46.857,,True,False,7192.402,9,Canadian Grand Prix
+VER,44.0,79.629,3.0,HARD,1.0,1,False,Red Bull Racing,True,2.0,24.61,24.646,30.373,,False,True,7272.031,9,Canadian Grand Prix
+VER,45.0,76.959,3.0,HARD,2.0,1,True,Red Bull Racing,True,2.0,21.409,24.63,30.92,,False,False,7348.99,9,Canadian Grand Prix
+VER,46.0,76.83,3.0,HARD,3.0,1,True,Red Bull Racing,True,2.0,21.518,24.508,30.804,,False,False,7425.82,9,Canadian Grand Prix
+VER,47.0,77.087,3.0,HARD,4.0,1,True,Red Bull Racing,True,2.0,21.666,24.641,30.78,,False,False,7502.907,9,Canadian Grand Prix
+VER,48.0,76.759,3.0,HARD,5.0,1,True,Red Bull Racing,True,2.0,21.432,24.68,30.647,,False,False,7579.666,9,Canadian Grand Prix
+VER,49.0,85.267,3.0,HARD,6.0,124,False,Red Bull Racing,True,1.0,21.743,24.586,38.938,,False,False,7664.933,9,Canadian Grand Prix
+VER,50.0,118.968,3.0,HARD,7.0,4,False,Red Bull Racing,True,1.0,30.454,38.515,49.999,,False,False,7783.901,9,Canadian Grand Prix
+VER,51.0,120.304,3.0,HARD,8.0,4,False,Red Bull Racing,True,1.0,35.108,37.405,47.791,,False,False,7904.205,9,Canadian Grand Prix
+VER,52.0,127.872,3.0,HARD,9.0,4,False,Red Bull Racing,True,1.0,36.295,40.358,51.219,,False,False,8032.077,9,Canadian Grand Prix
+VER,53.0,124.402,3.0,HARD,10.0,4,False,Red Bull Racing,True,1.0,35.474,40.483,48.445,,False,False,8156.479,9,Canadian Grand Prix
+VER,54.0,140.984,3.0,HARD,11.0,41,False,Red Bull Racing,True,1.0,32.175,40.026,68.783,,False,False,8297.463,9,Canadian Grand Prix
+VER,55.0,76.971,3.0,HARD,12.0,1,True,Red Bull Racing,True,1.0,21.629,24.475,30.867,,False,False,8374.434,9,Canadian Grand Prix
+VER,56.0,76.293,3.0,HARD,13.0,1,True,Red Bull Racing,True,1.0,21.184,24.417,30.692,,False,False,8450.727,9,Canadian Grand Prix
+VER,57.0,76.389,3.0,HARD,14.0,1,True,Red Bull Racing,True,1.0,21.207,24.37,30.812,,False,False,8527.116,9,Canadian Grand Prix
+VER,58.0,76.268,3.0,HARD,15.0,1,True,Red Bull Racing,True,1.0,21.159,24.382,30.727,,False,False,8603.384,9,Canadian Grand Prix
+VER,59.0,76.196,3.0,HARD,16.0,1,True,Red Bull Racing,True,1.0,21.164,24.321,30.711,,False,False,8679.58,9,Canadian Grand Prix
+VER,60.0,76.063,3.0,HARD,17.0,1,True,Red Bull Racing,True,1.0,21.147,24.279,30.637,,False,False,8755.643,9,Canadian Grand Prix
+VER,61.0,76.027,3.0,HARD,18.0,1,True,Red Bull Racing,True,1.0,21.189,24.255,30.583,,False,False,8831.67,9,Canadian Grand Prix
+VER,62.0,76.09,3.0,HARD,19.0,1,True,Red Bull Racing,True,1.0,21.072,24.313,30.705,,False,False,8907.76,9,Canadian Grand Prix
+VER,63.0,76.062,3.0,HARD,20.0,1,True,Red Bull Racing,True,1.0,21.137,24.238,30.687,,False,False,8983.822,9,Canadian Grand Prix
+VER,64.0,75.839,3.0,HARD,21.0,1,True,Red Bull Racing,True,1.0,21.084,24.147,30.608,,False,False,9059.661,9,Canadian Grand Prix
+VER,65.0,75.924,3.0,HARD,22.0,1,True,Red Bull Racing,True,1.0,21.061,24.186,30.677,,False,False,9135.585,9,Canadian Grand Prix
+VER,66.0,75.98,3.0,HARD,23.0,1,True,Red Bull Racing,True,1.0,21.256,24.116,30.608,,False,False,9211.565,9,Canadian Grand Prix
+VER,67.0,75.93,3.0,HARD,24.0,1,True,Red Bull Racing,True,1.0,21.081,24.21,30.639,,False,False,9287.495,9,Canadian Grand Prix
+VER,68.0,76.338,3.0,HARD,25.0,1,True,Red Bull Racing,True,1.0,21.319,24.304,30.715,,False,False,9363.833,9,Canadian Grand Prix
+VER,69.0,75.997,3.0,HARD,26.0,1,True,Red Bull Racing,True,1.0,21.117,24.292,30.588,,False,False,9439.83,9,Canadian Grand Prix
+VER,70.0,75.916,3.0,HARD,27.0,1,True,Red Bull Racing,True,1.0,21.145,24.087,30.684,,False,False,9515.746,9,Canadian Grand Prix
+GAS,1.0,93.394,1.0,MEDIUM,1.0,1,False,AlphaTauri,True,17.0,,27.445,32.725,,False,False,3827.383,9,Canadian Grand Prix
+GAS,2.0,83.231,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,18.0,24.637,26.465,32.129,,False,False,3910.614,9,Canadian Grand Prix
+GAS,3.0,80.406,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,18.0,22.887,25.884,31.635,,False,False,3991.02,9,Canadian Grand Prix
+GAS,4.0,80.01,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,18.0,22.837,25.675,31.498,,False,False,4071.03,9,Canadian Grand Prix
+GAS,5.0,95.629,1.0,MEDIUM,5.0,1,False,AlphaTauri,True,20.0,22.674,25.535,47.42,,True,False,4166.659,9,Canadian Grand Prix
+GAS,6.0,81.958,2.0,HARD,1.0,1,False,AlphaTauri,True,20.0,25.092,25.595,31.271,,False,True,4248.617,9,Canadian Grand Prix
+GAS,7.0,78.941,2.0,HARD,2.0,1,True,AlphaTauri,True,19.0,22.309,25.238,31.394,,False,False,4327.558,9,Canadian Grand Prix
+GAS,8.0,85.744,2.0,HARD,3.0,126,False,AlphaTauri,True,18.0,22.22,25.25,38.274,,False,False,4413.302,9,Canadian Grand Prix
+GAS,9.0,108.3,2.0,HARD,4.0,6,False,AlphaTauri,True,17.0,29.615,35.859,42.826,,False,False,4521.602,9,Canadian Grand Prix
+GAS,10.0,93.442,2.0,HARD,5.0,671,False,AlphaTauri,True,17.0,32.333,29.37,31.739,,False,False,4615.044,9,Canadian Grand Prix
+GAS,11.0,78.739,2.0,HARD,6.0,1,True,AlphaTauri,True,17.0,22.196,25.263,31.28,,False,False,4693.783,9,Canadian Grand Prix
+GAS,12.0,78.675,2.0,HARD,7.0,1,True,AlphaTauri,True,17.0,22.115,25.286,31.274,,False,False,4772.458,9,Canadian Grand Prix
+GAS,13.0,78.549,2.0,HARD,8.0,1,True,AlphaTauri,True,17.0,21.977,25.349,31.223,,False,False,4851.007,9,Canadian Grand Prix
+GAS,14.0,79.232,2.0,HARD,9.0,1,True,AlphaTauri,True,17.0,22.031,25.588,31.613,,False,False,4930.239,9,Canadian Grand Prix
+GAS,15.0,78.631,2.0,HARD,10.0,1,True,AlphaTauri,True,17.0,22.061,25.166,31.404,,False,False,5008.87,9,Canadian Grand Prix
+GAS,16.0,78.645,2.0,HARD,11.0,1,True,AlphaTauri,True,17.0,22.093,25.188,31.364,,False,False,5087.515,9,Canadian Grand Prix
+GAS,17.0,78.677,2.0,HARD,12.0,1,True,AlphaTauri,True,17.0,22.055,25.19,31.432,,False,False,5166.192,9,Canadian Grand Prix
+GAS,18.0,78.993,2.0,HARD,13.0,1,True,AlphaTauri,True,16.0,22.227,25.33,31.436,,False,False,5245.185,9,Canadian Grand Prix
+GAS,19.0,93.085,2.0,HARD,14.0,126,False,AlphaTauri,True,13.0,22.304,25.707,45.074,,False,False,5338.27,9,Canadian Grand Prix
+GAS,20.0,93.501,2.0,HARD,15.0,671,False,AlphaTauri,True,13.0,30.153,31.595,31.753,,False,False,5431.771,9,Canadian Grand Prix
+GAS,21.0,78.792,2.0,HARD,16.0,1,True,AlphaTauri,True,13.0,22.236,25.216,31.34,,False,False,5510.563,9,Canadian Grand Prix
+GAS,22.0,79.086,2.0,HARD,17.0,1,True,AlphaTauri,True,13.0,22.176,25.323,31.587,,False,False,5589.649,9,Canadian Grand Prix
+GAS,23.0,79.153,2.0,HARD,18.0,1,True,AlphaTauri,True,13.0,22.353,25.285,31.515,,False,False,5668.802,9,Canadian Grand Prix
+GAS,24.0,79.21,2.0,HARD,19.0,1,True,AlphaTauri,True,13.0,22.377,25.204,31.629,,False,False,5748.012,9,Canadian Grand Prix
+GAS,25.0,79.227,2.0,HARD,20.0,1,True,AlphaTauri,True,13.0,22.41,25.413,31.404,,False,False,5827.239,9,Canadian Grand Prix
+GAS,26.0,78.764,2.0,HARD,21.0,1,True,AlphaTauri,True,13.0,22.157,25.179,31.428,,False,False,5906.003,9,Canadian Grand Prix
+GAS,27.0,79.171,2.0,HARD,22.0,1,True,AlphaTauri,True,13.0,22.346,25.374,31.451,,False,False,5985.174,9,Canadian Grand Prix
+GAS,28.0,79.315,2.0,HARD,23.0,1,True,AlphaTauri,True,13.0,22.423,25.336,31.556,,False,False,6064.489,9,Canadian Grand Prix
+GAS,29.0,79.405,2.0,HARD,24.0,1,True,AlphaTauri,True,13.0,22.45,25.284,31.671,,False,False,6143.894,9,Canadian Grand Prix
+GAS,30.0,80.179,2.0,HARD,25.0,1,True,AlphaTauri,True,14.0,22.446,25.165,32.568,,False,False,6224.073,9,Canadian Grand Prix
+GAS,31.0,80.584,2.0,HARD,26.0,1,True,AlphaTauri,True,14.0,23.209,25.637,31.738,,False,False,6304.657,9,Canadian Grand Prix
+GAS,32.0,80.165,2.0,HARD,27.0,1,True,AlphaTauri,True,14.0,22.65,25.575,31.94,,False,False,6384.822,9,Canadian Grand Prix
+GAS,33.0,79.604,2.0,HARD,28.0,1,True,AlphaTauri,True,14.0,22.669,25.287,31.648,,False,False,6464.426,9,Canadian Grand Prix
+GAS,34.0,79.559,2.0,HARD,29.0,1,True,AlphaTauri,True,14.0,22.528,25.27,31.761,,False,False,6543.985,9,Canadian Grand Prix
+GAS,35.0,79.375,2.0,HARD,30.0,1,True,AlphaTauri,True,14.0,22.317,25.208,31.85,,False,False,6623.36,9,Canadian Grand Prix
+GAS,36.0,95.091,2.0,HARD,31.0,1,False,AlphaTauri,True,17.0,22.569,25.411,47.111,,True,False,6718.451,9,Canadian Grand Prix
+GAS,37.0,82.058,3.0,HARD,1.0,1,False,AlphaTauri,True,17.0,24.965,25.579,31.514,,False,True,6800.509,9,Canadian Grand Prix
+GAS,38.0,78.945,3.0,HARD,2.0,1,True,AlphaTauri,True,17.0,22.114,25.214,31.617,,False,False,6879.454,9,Canadian Grand Prix
+GAS,39.0,78.835,3.0,HARD,3.0,1,True,AlphaTauri,True,17.0,22.207,25.2,31.428,,False,False,6958.289,9,Canadian Grand Prix
+GAS,40.0,79.632,3.0,HARD,4.0,1,True,AlphaTauri,True,17.0,21.994,25.114,32.524,,False,False,7037.921,9,Canadian Grand Prix
+GAS,41.0,79.827,3.0,HARD,5.0,1,True,AlphaTauri,True,17.0,22.948,25.287,31.592,,False,False,7117.748,9,Canadian Grand Prix
+GAS,42.0,78.491,3.0,HARD,6.0,1,True,AlphaTauri,True,16.0,21.917,25.109,31.465,,False,False,7196.239,9,Canadian Grand Prix
+GAS,43.0,78.904,3.0,HARD,7.0,1,True,AlphaTauri,True,16.0,22.244,25.193,31.467,,False,False,7275.143,9,Canadian Grand Prix
+GAS,44.0,78.733,3.0,HARD,8.0,1,True,AlphaTauri,True,16.0,22.306,24.996,31.431,,False,False,7353.876,9,Canadian Grand Prix
+GAS,45.0,78.667,3.0,HARD,9.0,1,True,AlphaTauri,True,16.0,22.087,25.001,31.579,,False,False,7432.543,9,Canadian Grand Prix
+GAS,46.0,78.194,3.0,HARD,10.0,1,True,AlphaTauri,True,16.0,21.982,24.928,31.284,,False,False,7510.737,9,Canadian Grand Prix
+GAS,47.0,78.275,3.0,HARD,11.0,1,True,AlphaTauri,True,16.0,22.059,24.973,31.243,,False,False,7589.012,9,Canadian Grand Prix
+GAS,48.0,90.372,3.0,HARD,12.0,124,False,AlphaTauri,True,14.0,22.155,25.087,43.13,,False,False,7679.384,9,Canadian Grand Prix
+GAS,49.0,108.323,3.0,HARD,13.0,4,False,AlphaTauri,True,14.0,30.18,35.669,42.474,,False,False,7787.707,9,Canadian Grand Prix
+GAS,50.0,121.761,3.0,HARD,14.0,4,False,AlphaTauri,True,14.0,34.625,38.692,48.444,,False,False,7909.468,9,Canadian Grand Prix
+GAS,51.0,126.133,3.0,HARD,15.0,4,False,AlphaTauri,True,14.0,35.227,40.412,50.494,,False,False,8035.601,9,Canadian Grand Prix
+GAS,52.0,91.945,3.0,HARD,16.0,4,False,AlphaTauri,True,14.0,31.298,27.893,32.754,,False,False,8127.546,9,Canadian Grand Prix
+GAS,53.0,80.377,3.0,HARD,17.0,4,False,AlphaTauri,True,14.0,23.313,25.494,31.57,,False,False,8207.923,9,Canadian Grand Prix
+GAS,54.0,95.5,3.0,HARD,18.0,41,False,AlphaTauri,True,14.0,22.225,25.241,48.034,,False,False,8303.423,9,Canadian Grand Prix
+GAS,55.0,80.36,3.0,HARD,19.0,1,True,AlphaTauri,True,14.0,22.972,25.685,31.703,,False,False,8383.783,9,Canadian Grand Prix
+GAS,56.0,79.669,3.0,HARD,20.0,1,True,AlphaTauri,True,14.0,22.842,25.343,31.484,,False,False,8463.452,9,Canadian Grand Prix
+GAS,57.0,80.988,3.0,HARD,21.0,1,True,AlphaTauri,True,15.0,23.771,25.791,31.426,,False,False,8544.44,9,Canadian Grand Prix
+GAS,58.0,77.913,3.0,HARD,22.0,1,True,AlphaTauri,True,14.0,22.239,24.831,30.843,,False,False,8622.353,9,Canadian Grand Prix
+GAS,59.0,78.065,3.0,HARD,23.0,1,True,AlphaTauri,True,14.0,22.195,25.07,30.8,,False,False,8700.418,9,Canadian Grand Prix
+GAS,60.0,77.81,3.0,HARD,24.0,1,True,AlphaTauri,True,14.0,22.128,24.84,30.842,,False,False,8778.228,9,Canadian Grand Prix
+GAS,61.0,78.198,3.0,HARD,25.0,1,True,AlphaTauri,True,14.0,22.474,24.815,30.909,,False,False,8856.426,9,Canadian Grand Prix
+GAS,62.0,78.094,3.0,HARD,26.0,1,True,AlphaTauri,True,14.0,22.388,24.821,30.885,,False,False,8934.52,9,Canadian Grand Prix
+GAS,63.0,78.081,3.0,HARD,27.0,1,True,AlphaTauri,True,14.0,22.202,25.072,30.807,,False,False,9012.601,9,Canadian Grand Prix
+GAS,64.0,77.938,3.0,HARD,28.0,1,True,AlphaTauri,True,14.0,22.289,24.809,30.84,,False,False,9090.539,9,Canadian Grand Prix
+GAS,65.0,78.114,3.0,HARD,29.0,1,True,AlphaTauri,True,14.0,22.248,24.922,30.944,,False,False,9168.653,9,Canadian Grand Prix
+GAS,66.0,78.521,3.0,HARD,30.0,1,True,AlphaTauri,True,14.0,22.358,25.1,31.063,,False,False,9247.174,9,Canadian Grand Prix
+GAS,67.0,78.806,3.0,HARD,31.0,1,True,AlphaTauri,True,14.0,22.526,24.873,31.407,,False,False,9325.98,9,Canadian Grand Prix
+GAS,68.0,78.64,3.0,HARD,32.0,1,True,AlphaTauri,True,14.0,22.496,25.04,31.104,,False,False,9404.62,9,Canadian Grand Prix
+GAS,69.0,78.07,3.0,HARD,33.0,1,True,AlphaTauri,True,14.0,22.266,24.832,30.972,,False,False,9482.69,9,Canadian Grand Prix
+GAS,70.0,78.239,3.0,HARD,34.0,1,True,AlphaTauri,True,14.0,22.258,25.056,30.925,,False,False,9560.929,9,Canadian Grand Prix
+PER,1.0,91.21,1.0,HARD,1.0,1,False,Red Bull Racing,True,11.0,,27.509,32.307,,False,False,3825.199,9,Canadian Grand Prix
+PER,2.0,81.239,1.0,HARD,2.0,1,True,Red Bull Racing,True,11.0,23.056,26.241,31.942,,False,False,3906.438,9,Canadian Grand Prix
+PER,3.0,79.654,1.0,HARD,3.0,1,True,Red Bull Racing,True,11.0,22.477,25.697,31.48,,False,False,3986.092,9,Canadian Grand Prix
+PER,4.0,79.428,1.0,HARD,4.0,1,True,Red Bull Racing,True,11.0,22.323,25.617,31.488,,False,False,4065.52,9,Canadian Grand Prix
+PER,5.0,79.787,1.0,HARD,5.0,1,True,Red Bull Racing,True,11.0,22.912,25.426,31.449,,False,False,4145.307,9,Canadian Grand Prix
+PER,6.0,79.4,1.0,HARD,6.0,1,True,Red Bull Racing,True,11.0,22.451,25.564,31.385,,False,False,4224.707,9,Canadian Grand Prix
+PER,7.0,78.844,1.0,HARD,7.0,1,True,Red Bull Racing,True,10.0,22.428,25.286,31.13,,False,False,4303.551,9,Canadian Grand Prix
+PER,8.0,,1.0,HARD,8.0,126,False,Red Bull Racing,True,,,,,,False,False,4453.551,9,Canadian Grand Prix
+ALO,1.0,84.435,1.0,MEDIUM,1.0,1,False,Alpine,True,2.0,,25.596,31.445,,False,False,3818.424,9,Canadian Grand Prix
+ALO,2.0,79.603,1.0,MEDIUM,2.0,1,True,Alpine,True,2.0,22.401,25.617,31.585,,False,False,3898.027,9,Canadian Grand Prix
+ALO,3.0,80.136,1.0,MEDIUM,3.0,1,True,Alpine,True,3.0,22.399,25.839,31.898,,False,False,3978.163,9,Canadian Grand Prix
+ALO,4.0,78.98,1.0,MEDIUM,4.0,1,True,Alpine,True,3.0,22.441,25.365,31.174,,False,False,4057.143,9,Canadian Grand Prix
+ALO,5.0,78.455,1.0,MEDIUM,5.0,1,True,Alpine,True,3.0,22.184,25.288,30.983,,False,False,4135.598,9,Canadian Grand Prix
+ALO,6.0,78.053,1.0,MEDIUM,6.0,1,True,Alpine,True,3.0,21.995,25.091,30.967,,False,False,4213.651,9,Canadian Grand Prix
+ALO,7.0,77.868,1.0,MEDIUM,7.0,1,True,Alpine,True,3.0,22.025,25.016,30.827,,False,False,4291.519,9,Canadian Grand Prix
+ALO,8.0,78.387,1.0,MEDIUM,8.0,12,True,Alpine,True,3.0,21.922,24.937,31.528,,False,False,4369.906,9,Canadian Grand Prix
+ALO,9.0,102.327,1.0,MEDIUM,9.0,26,False,Alpine,True,2.0,22.175,36.795,43.357,,False,False,4472.233,9,Canadian Grand Prix
+ALO,10.0,105.992,1.0,MEDIUM,10.0,671,False,Alpine,True,2.0,30.815,36.176,39.001,,False,False,4578.225,9,Canadian Grand Prix
+ALO,11.0,78.773,1.0,MEDIUM,11.0,1,True,Alpine,True,2.0,22.275,25.311,31.187,,False,False,4656.998,9,Canadian Grand Prix
+ALO,12.0,78.499,1.0,MEDIUM,12.0,1,True,Alpine,True,2.0,21.926,25.332,31.241,,False,False,4735.497,9,Canadian Grand Prix
+ALO,13.0,78.783,1.0,MEDIUM,13.0,1,True,Alpine,True,2.0,22.031,25.361,31.391,,False,False,4814.28,9,Canadian Grand Prix
+ALO,14.0,78.671,1.0,MEDIUM,14.0,1,True,Alpine,True,2.0,21.846,25.225,31.6,,False,False,4892.951,9,Canadian Grand Prix
+ALO,15.0,79.534,1.0,MEDIUM,15.0,1,True,Alpine,True,3.0,22.17,25.43,31.934,,False,False,4972.485,9,Canadian Grand Prix
+ALO,16.0,78.973,1.0,MEDIUM,16.0,1,True,Alpine,True,3.0,22.11,25.318,31.545,,False,False,5051.458,9,Canadian Grand Prix
+ALO,17.0,78.975,1.0,MEDIUM,17.0,1,True,Alpine,True,3.0,22.121,25.383,31.471,,False,False,5130.433,9,Canadian Grand Prix
+ALO,18.0,79.256,1.0,MEDIUM,18.0,1,True,Alpine,True,3.0,22.165,25.378,31.713,,False,False,5209.689,9,Canadian Grand Prix
+ALO,19.0,79.279,1.0,MEDIUM,19.0,12,True,Alpine,True,3.0,22.222,25.382,31.675,,False,False,5288.968,9,Canadian Grand Prix
+ALO,20.0,107.108,1.0,MEDIUM,20.0,2671,False,Alpine,True,2.0,30.457,36.17,40.481,,False,False,5396.076,9,Canadian Grand Prix
+ALO,21.0,79.228,1.0,MEDIUM,21.0,1,True,Alpine,True,2.0,22.47,25.391,31.367,,False,False,5475.304,9,Canadian Grand Prix
+ALO,22.0,79.991,1.0,MEDIUM,22.0,1,True,Alpine,True,3.0,22.442,25.507,32.042,,False,False,5555.295,9,Canadian Grand Prix
+ALO,23.0,79.879,1.0,MEDIUM,23.0,1,True,Alpine,True,4.0,22.371,25.437,32.071,,False,False,5635.174,9,Canadian Grand Prix
+ALO,24.0,79.672,1.0,MEDIUM,24.0,1,True,Alpine,True,4.0,22.451,25.433,31.788,,False,False,5714.846,9,Canadian Grand Prix
+ALO,25.0,79.566,1.0,MEDIUM,25.0,1,True,Alpine,True,4.0,22.463,25.385,31.718,,False,False,5794.412,9,Canadian Grand Prix
+ALO,26.0,79.759,1.0,MEDIUM,26.0,1,True,Alpine,True,4.0,22.393,25.46,31.906,,False,False,5874.171,9,Canadian Grand Prix
+ALO,27.0,79.874,1.0,MEDIUM,27.0,1,True,Alpine,True,4.0,22.496,25.583,31.795,,False,False,5954.045,9,Canadian Grand Prix
+ALO,28.0,95.395,1.0,MEDIUM,28.0,1,False,Alpine,True,6.0,22.411,25.377,47.607,,True,False,6049.44,9,Canadian Grand Prix
+ALO,29.0,81.81,2.0,HARD,1.0,1,False,Alpine,True,7.0,24.602,25.566,31.642,,False,True,6131.25,9,Canadian Grand Prix
+ALO,30.0,78.769,2.0,HARD,2.0,1,True,Alpine,True,7.0,22.115,25.305,31.349,,False,False,6210.019,9,Canadian Grand Prix
+ALO,31.0,78.713,2.0,HARD,3.0,1,True,Alpine,True,7.0,22.076,25.312,31.325,,False,False,6288.732,9,Canadian Grand Prix
+ALO,32.0,78.749,2.0,HARD,4.0,1,True,Alpine,True,7.0,22.077,25.231,31.441,,False,False,6367.481,9,Canadian Grand Prix
+ALO,33.0,78.323,2.0,HARD,5.0,1,True,Alpine,True,7.0,22.006,25.124,31.193,,False,False,6445.804,9,Canadian Grand Prix
+ALO,34.0,78.24,2.0,HARD,6.0,1,True,Alpine,True,7.0,22.003,25.019,31.218,,False,False,6524.044,9,Canadian Grand Prix
+ALO,35.0,78.146,2.0,HARD,7.0,1,True,Alpine,True,7.0,21.856,25.032,31.258,,False,False,6602.19,9,Canadian Grand Prix
+ALO,36.0,78.062,2.0,HARD,8.0,1,True,Alpine,True,7.0,21.821,24.924,31.317,,False,False,6680.252,9,Canadian Grand Prix
+ALO,37.0,78.291,2.0,HARD,9.0,1,True,Alpine,True,7.0,21.93,25.083,31.278,,False,False,6758.543,9,Canadian Grand Prix
+ALO,38.0,78.481,2.0,HARD,10.0,1,True,Alpine,True,7.0,21.959,25.31,31.212,,False,False,6837.024,9,Canadian Grand Prix
+ALO,39.0,78.791,2.0,HARD,11.0,1,True,Alpine,True,7.0,22.27,25.27,31.251,,False,False,6915.815,9,Canadian Grand Prix
+ALO,40.0,78.198,2.0,HARD,12.0,1,True,Alpine,True,7.0,22.036,25.048,31.114,,False,False,6994.013,9,Canadian Grand Prix
+ALO,41.0,78.44,2.0,HARD,13.0,1,True,Alpine,True,6.0,21.908,25.259,31.273,,False,False,7072.453,9,Canadian Grand Prix
+ALO,42.0,78.466,2.0,HARD,14.0,1,True,Alpine,True,6.0,21.962,25.13,31.374,,False,False,7150.919,9,Canadian Grand Prix
+ALO,43.0,78.479,2.0,HARD,15.0,1,True,Alpine,True,6.0,21.884,25.167,31.428,,False,False,7229.398,9,Canadian Grand Prix
+ALO,44.0,78.757,2.0,HARD,16.0,1,True,Alpine,True,6.0,22.117,25.161,31.479,,False,False,7308.155,9,Canadian Grand Prix
+ALO,45.0,78.655,2.0,HARD,17.0,1,True,Alpine,True,6.0,21.936,25.172,31.547,,False,False,7386.81,9,Canadian Grand Prix
+ALO,46.0,78.569,2.0,HARD,18.0,1,True,Alpine,True,6.0,22.014,25.192,31.363,,False,False,7465.379,9,Canadian Grand Prix
+ALO,47.0,78.44,2.0,HARD,19.0,1,True,Alpine,True,6.0,21.887,25.228,31.325,,False,False,7543.819,9,Canadian Grand Prix
+ALO,48.0,78.185,2.0,HARD,20.0,12,True,Alpine,True,6.0,21.941,24.96,31.284,,False,False,7622.004,9,Canadian Grand Prix
+ALO,49.0,124.106,2.0,HARD,21.0,24,False,Alpine,True,6.0,26.581,36.42,61.105,,True,False,7746.11,9,Canadian Grand Prix
+ALO,50.0,103.678,3.0,MEDIUM,1.0,4,False,Alpine,True,6.0,30.861,31.467,41.35,,False,True,7849.788,9,Canadian Grand Prix
+ALO,51.0,90.076,3.0,MEDIUM,2.0,4,False,Alpine,True,6.0,26.209,29.301,34.566,,False,False,7939.864,9,Canadian Grand Prix
+ALO,52.0,106.901,3.0,MEDIUM,3.0,4,False,Alpine,True,6.0,26.559,30.419,49.923,,False,False,8046.765,9,Canadian Grand Prix
+ALO,53.0,114.518,3.0,MEDIUM,4.0,4,False,Alpine,True,6.0,29.096,38.517,46.905,,False,False,8161.283,9,Canadian Grand Prix
+ALO,54.0,137.944,3.0,MEDIUM,5.0,41,False,Alpine,True,6.0,32.758,40.924,64.262,,False,False,8299.227,9,Canadian Grand Prix
+ALO,55.0,79.472,3.0,MEDIUM,6.0,1,True,Alpine,True,6.0,22.838,25.286,31.348,,False,False,8378.699,9,Canadian Grand Prix
+ALO,56.0,77.7,3.0,MEDIUM,7.0,1,True,Alpine,True,6.0,21.865,24.88,30.955,,False,False,8456.399,9,Canadian Grand Prix
+ALO,57.0,77.221,3.0,MEDIUM,8.0,1,True,Alpine,True,6.0,21.708,24.702,30.811,,False,False,8533.62,9,Canadian Grand Prix
+ALO,58.0,77.777,3.0,MEDIUM,9.0,1,True,Alpine,True,7.0,21.734,24.72,31.323,,False,False,8611.397,9,Canadian Grand Prix
+ALO,59.0,78.184,3.0,MEDIUM,10.0,1,True,Alpine,True,7.0,21.757,24.704,31.723,,False,False,8689.581,9,Canadian Grand Prix
+ALO,60.0,77.028,3.0,MEDIUM,11.0,1,True,Alpine,True,7.0,21.695,24.509,30.824,,False,False,8766.609,9,Canadian Grand Prix
+ALO,61.0,77.382,3.0,MEDIUM,12.0,1,True,Alpine,True,7.0,21.862,24.741,30.779,,False,False,8843.991,9,Canadian Grand Prix
+ALO,62.0,77.273,3.0,MEDIUM,13.0,1,True,Alpine,True,7.0,21.826,24.732,30.715,,False,False,8921.264,9,Canadian Grand Prix
+ALO,63.0,77.156,3.0,MEDIUM,14.0,1,True,Alpine,True,7.0,21.691,24.715,30.75,,False,False,8998.42,9,Canadian Grand Prix
+ALO,64.0,77.01,3.0,MEDIUM,15.0,1,True,Alpine,True,7.0,21.627,24.676,30.707,,False,False,9075.43,9,Canadian Grand Prix
+ALO,65.0,77.272,3.0,MEDIUM,16.0,1,True,Alpine,True,7.0,21.606,24.753,30.913,,False,False,9152.702,9,Canadian Grand Prix
+ALO,66.0,77.423,3.0,MEDIUM,17.0,1,True,Alpine,True,7.0,21.857,24.702,30.864,,False,False,9230.125,9,Canadian Grand Prix
+ALO,67.0,77.644,3.0,MEDIUM,18.0,1,True,Alpine,True,7.0,21.708,24.832,31.104,,False,False,9307.769,9,Canadian Grand Prix
+ALO,68.0,77.358,3.0,MEDIUM,19.0,1,True,Alpine,True,7.0,21.729,24.746,30.883,,False,False,9385.127,9,Canadian Grand Prix
+ALO,69.0,77.407,3.0,MEDIUM,20.0,1,True,Alpine,True,7.0,21.716,24.731,30.96,,False,False,9462.534,9,Canadian Grand Prix
+ALO,70.0,78.157,3.0,MEDIUM,21.0,1,True,Alpine,True,7.0,21.864,24.876,31.417,,False,False,9540.691,9,Canadian Grand Prix
+LEC,1.0,93.701,1.0,HARD,1.0,1,False,Ferrari,True,18.0,,27.746,32.596,,False,False,3827.69,9,Canadian Grand Prix
+LEC,2.0,82.27,1.0,HARD,2.0,1,True,Ferrari,True,17.0,23.849,26.211,32.21,,False,False,3909.96,9,Canadian Grand Prix
+LEC,3.0,80.117,1.0,HARD,3.0,1,True,Ferrari,True,16.0,22.885,25.938,31.294,,False,False,3990.077,9,Canadian Grand Prix
+LEC,4.0,79.397,1.0,HARD,4.0,1,True,Ferrari,True,16.0,22.651,25.545,31.201,,False,False,4069.474,9,Canadian Grand Prix
+LEC,5.0,79.294,1.0,HARD,5.0,1,True,Ferrari,True,15.0,22.354,25.651,31.289,,False,False,4148.768,9,Canadian Grand Prix
+LEC,6.0,79.075,1.0,HARD,6.0,1,True,Ferrari,True,15.0,22.323,25.655,31.097,,False,False,4227.843,9,Canadian Grand Prix
+LEC,7.0,79.588,1.0,HARD,7.0,1,True,Ferrari,True,14.0,22.47,25.647,31.471,,False,False,4307.431,9,Canadian Grand Prix
+LEC,8.0,79.445,1.0,HARD,8.0,12,True,Ferrari,True,13.0,22.43,25.519,31.496,,False,False,4386.876,9,Canadian Grand Prix
+LEC,9.0,110.618,1.0,HARD,9.0,26,False,Ferrari,True,13.0,32.026,35.808,42.784,,False,False,4497.494,9,Canadian Grand Prix
+LEC,10.0,98.449,1.0,HARD,10.0,671,False,Ferrari,True,13.0,30.255,36.498,31.696,,False,False,4595.943,9,Canadian Grand Prix
+LEC,11.0,79.065,1.0,HARD,11.0,1,True,Ferrari,True,13.0,22.328,25.485,31.252,,False,False,4675.008,9,Canadian Grand Prix
+LEC,12.0,79.245,1.0,HARD,12.0,1,True,Ferrari,True,13.0,22.462,25.508,31.275,,False,False,4754.253,9,Canadian Grand Prix
+LEC,13.0,79.277,1.0,HARD,13.0,1,True,Ferrari,True,12.0,22.52,25.508,31.249,,False,False,4833.53,9,Canadian Grand Prix
+LEC,14.0,79.232,1.0,HARD,14.0,1,True,Ferrari,True,12.0,22.239,25.66,31.333,,False,False,4912.762,9,Canadian Grand Prix
+LEC,15.0,79.631,1.0,HARD,15.0,1,True,Ferrari,True,12.0,22.464,25.478,31.689,,False,False,4992.393,9,Canadian Grand Prix
+LEC,16.0,80.453,1.0,HARD,16.0,1,True,Ferrari,True,12.0,22.862,25.812,31.779,,False,False,5072.846,9,Canadian Grand Prix
+LEC,17.0,80.294,1.0,HARD,17.0,1,True,Ferrari,True,11.0,22.894,25.582,31.818,,False,False,5153.14,9,Canadian Grand Prix
+LEC,18.0,78.702,1.0,HARD,18.0,1,True,Ferrari,True,11.0,22.176,25.183,31.343,,False,False,5231.842,9,Canadian Grand Prix
+LEC,19.0,89.248,1.0,HARD,19.0,126,False,Ferrari,True,8.0,22.349,25.482,41.417,,False,False,5321.09,9,Canadian Grand Prix
+LEC,20.0,99.707,1.0,HARD,20.0,671,False,Ferrari,True,8.0,36.57,30.613,32.524,,False,False,5420.797,9,Canadian Grand Prix
+LEC,21.0,80.077,1.0,HARD,21.0,1,True,Ferrari,True,7.0,22.538,25.532,32.007,,False,False,5500.874,9,Canadian Grand Prix
+LEC,22.0,78.895,1.0,HARD,22.0,1,True,Ferrari,True,7.0,22.135,25.262,31.498,,False,False,5579.769,9,Canadian Grand Prix
+LEC,23.0,78.242,1.0,HARD,23.0,1,True,Ferrari,True,7.0,22.035,25.12,31.087,,False,False,5658.011,9,Canadian Grand Prix
+LEC,24.0,77.901,1.0,HARD,24.0,1,True,Ferrari,True,7.0,21.903,24.942,31.056,,False,False,5735.912,9,Canadian Grand Prix
+LEC,25.0,77.977,1.0,HARD,25.0,1,True,Ferrari,True,7.0,21.935,25.184,30.858,,False,False,5813.889,9,Canadian Grand Prix
+LEC,26.0,78.07,1.0,HARD,26.0,1,True,Ferrari,True,7.0,22.123,25.032,30.915,,False,False,5891.959,9,Canadian Grand Prix
+LEC,27.0,78.603,1.0,HARD,27.0,1,True,Ferrari,True,7.0,22.187,25.111,31.305,,False,False,5970.562,9,Canadian Grand Prix
+LEC,28.0,79.043,1.0,HARD,28.0,1,True,Ferrari,True,7.0,22.258,25.328,31.457,,False,False,6049.605,9,Canadian Grand Prix
+LEC,29.0,78.727,1.0,HARD,29.0,1,True,Ferrari,True,6.0,22.272,25.285,31.17,,False,False,6128.332,9,Canadian Grand Prix
+LEC,30.0,78.567,1.0,HARD,30.0,1,True,Ferrari,True,6.0,22.204,25.244,31.119,,False,False,6206.899,9,Canadian Grand Prix
+LEC,31.0,78.673,1.0,HARD,31.0,1,True,Ferrari,True,6.0,22.156,25.26,31.257,,False,False,6285.572,9,Canadian Grand Prix
+LEC,32.0,78.574,1.0,HARD,32.0,1,True,Ferrari,True,6.0,22.293,25.161,31.12,,False,False,6364.146,9,Canadian Grand Prix
+LEC,33.0,78.323,1.0,HARD,33.0,1,True,Ferrari,True,6.0,22.208,25.013,31.102,,False,False,6442.469,9,Canadian Grand Prix
+LEC,34.0,78.647,1.0,HARD,34.0,1,True,Ferrari,True,6.0,22.368,25.059,31.22,,False,False,6521.116,9,Canadian Grand Prix
+LEC,35.0,78.504,1.0,HARD,35.0,1,True,Ferrari,True,6.0,22.021,25.115,31.368,,False,False,6599.62,9,Canadian Grand Prix
+LEC,36.0,78.339,1.0,HARD,36.0,1,True,Ferrari,True,6.0,22.093,25.029,31.217,,False,False,6677.959,9,Canadian Grand Prix
+LEC,37.0,78.645,1.0,HARD,37.0,1,True,Ferrari,True,6.0,22.059,25.15,31.436,,False,False,6756.604,9,Canadian Grand Prix
+LEC,38.0,78.087,1.0,HARD,38.0,1,True,Ferrari,True,6.0,22.093,25.086,30.908,,False,False,6834.691,9,Canadian Grand Prix
+LEC,39.0,78.434,1.0,HARD,39.0,1,True,Ferrari,True,6.0,22.182,25.178,31.074,,False,False,6913.125,9,Canadian Grand Prix
+LEC,40.0,78.651,1.0,HARD,40.0,1,True,Ferrari,True,6.0,22.439,25.031,31.181,,False,False,6991.776,9,Canadian Grand Prix
+LEC,41.0,97.332,1.0,HARD,41.0,1,False,Ferrari,True,9.0,22.221,25.125,49.986,,True,False,7089.108,9,Canadian Grand Prix
+LEC,42.0,80.636,2.0,MEDIUM,1.0,1,False,Ferrari,True,12.0,24.111,25.399,31.126,,False,True,7169.744,9,Canadian Grand Prix
+LEC,43.0,79.4,2.0,MEDIUM,2.0,1,True,Ferrari,True,11.0,23.024,25.523,30.853,,False,False,7249.144,9,Canadian Grand Prix
+LEC,44.0,79.167,2.0,MEDIUM,3.0,1,True,Ferrari,True,10.0,22.523,25.401,31.243,,False,False,7328.311,9,Canadian Grand Prix
+LEC,45.0,77.854,2.0,MEDIUM,4.0,1,True,Ferrari,True,10.0,21.854,24.99,31.01,,False,False,7406.165,9,Canadian Grand Prix
+LEC,46.0,78.006,2.0,MEDIUM,5.0,1,True,Ferrari,True,10.0,21.893,25.121,30.992,,False,False,7484.171,9,Canadian Grand Prix
+LEC,47.0,78.2,2.0,MEDIUM,6.0,1,True,Ferrari,True,8.0,22.061,24.938,31.201,,False,False,7562.371,9,Canadian Grand Prix
+LEC,48.0,77.187,2.0,MEDIUM,7.0,124,False,Ferrari,True,8.0,21.531,24.676,30.98,,False,False,7639.558,9,Canadian Grand Prix
+LEC,49.0,110.23,2.0,MEDIUM,8.0,4,False,Ferrari,True,7.0,31.467,36.069,42.694,,False,False,7749.788,9,Canadian Grand Prix
+LEC,50.0,109.927,2.0,MEDIUM,9.0,4,False,Ferrari,True,7.0,31.773,34.7,43.454,,False,False,7859.715,9,Canadian Grand Prix
+LEC,51.0,83.91,2.0,MEDIUM,10.0,4,False,Ferrari,True,7.0,22.954,26.333,34.623,,False,False,7943.625,9,Canadian Grand Prix
+LEC,52.0,105.88,2.0,MEDIUM,11.0,4,False,Ferrari,True,7.0,24.435,31.157,50.288,,False,False,8049.505,9,Canadian Grand Prix
+LEC,53.0,113.567,2.0,MEDIUM,12.0,4,False,Ferrari,True,7.0,27.839,38.474,47.254,,False,False,8163.072,9,Canadian Grand Prix
+LEC,54.0,136.735,2.0,MEDIUM,13.0,41,False,Ferrari,True,7.0,32.824,40.354,63.557,,False,False,8299.807,9,Canadian Grand Prix
+LEC,55.0,79.258,2.0,MEDIUM,14.0,1,True,Ferrari,True,7.0,22.648,25.457,31.153,,False,False,8379.065,9,Canadian Grand Prix
+LEC,56.0,77.667,2.0,MEDIUM,15.0,1,True,Ferrari,True,7.0,21.91,24.846,30.911,,False,False,8456.732,9,Canadian Grand Prix
+LEC,57.0,77.185,2.0,MEDIUM,16.0,1,True,Ferrari,True,7.0,21.918,24.596,30.671,,False,False,8533.917,9,Canadian Grand Prix
+LEC,58.0,76.93,2.0,MEDIUM,17.0,1,True,Ferrari,True,6.0,21.929,24.51,30.491,,False,False,8610.847,9,Canadian Grand Prix
+LEC,59.0,77.795,2.0,MEDIUM,18.0,1,True,Ferrari,True,6.0,21.536,24.489,31.77,,False,False,8688.642,9,Canadian Grand Prix
+LEC,60.0,76.611,2.0,MEDIUM,19.0,1,True,Ferrari,True,5.0,21.816,24.304,30.491,,False,False,8765.253,9,Canadian Grand Prix
+LEC,61.0,76.767,2.0,MEDIUM,20.0,1,True,Ferrari,True,5.0,21.445,24.666,30.656,,False,False,8842.02,9,Canadian Grand Prix
+LEC,62.0,75.901,2.0,MEDIUM,21.0,1,True,Ferrari,True,5.0,21.185,24.317,30.399,,False,False,8917.921,9,Canadian Grand Prix
+LEC,63.0,76.189,2.0,MEDIUM,22.0,1,True,Ferrari,True,5.0,21.224,24.416,30.549,,False,False,8994.11,9,Canadian Grand Prix
+LEC,64.0,76.308,2.0,MEDIUM,23.0,1,True,Ferrari,True,5.0,21.179,24.326,30.803,,False,False,9070.418,9,Canadian Grand Prix
+LEC,65.0,76.482,2.0,MEDIUM,24.0,1,True,Ferrari,True,5.0,21.315,24.412,30.755,,False,False,9146.9,9,Canadian Grand Prix
+LEC,66.0,76.706,2.0,MEDIUM,25.0,1,True,Ferrari,True,5.0,21.449,24.483,30.774,,False,False,9223.606,9,Canadian Grand Prix
+LEC,67.0,76.784,2.0,MEDIUM,26.0,1,True,Ferrari,True,5.0,21.297,24.533,30.954,,False,False,9300.39,9,Canadian Grand Prix
+LEC,68.0,76.772,2.0,MEDIUM,27.0,1,True,Ferrari,True,5.0,21.499,24.588,30.685,,False,False,9377.162,9,Canadian Grand Prix
+LEC,69.0,76.708,2.0,MEDIUM,28.0,1,True,Ferrari,True,5.0,21.412,24.506,30.79,,False,False,9453.87,9,Canadian Grand Prix
+LEC,70.0,77.044,2.0,MEDIUM,29.0,1,True,Ferrari,True,5.0,21.598,24.449,30.997,,False,False,9530.914,9,Canadian Grand Prix
+STR,1.0,93.179,1.0,HARD,1.0,1,False,Aston Martin,True,16.0,,27.745,32.855,,False,False,3827.168,9,Canadian Grand Prix
+STR,2.0,82.423,1.0,HARD,2.0,1,True,Aston Martin,True,16.0,23.661,26.301,32.461,,False,False,3909.591,9,Canadian Grand Prix
+STR,3.0,80.762,1.0,HARD,3.0,1,True,Aston Martin,True,17.0,22.993,25.906,31.863,,False,False,3990.353,9,Canadian Grand Prix
+STR,4.0,80.067,1.0,HARD,4.0,1,True,Aston Martin,True,17.0,22.991,25.697,31.379,,False,False,4070.42,9,Canadian Grand Prix
+STR,5.0,79.595,1.0,HARD,5.0,1,True,Aston Martin,True,16.0,22.579,25.56,31.456,,False,False,4150.015,9,Canadian Grand Prix
+STR,6.0,79.951,1.0,HARD,6.0,1,True,Aston Martin,True,16.0,22.725,25.704,31.522,,False,False,4229.966,9,Canadian Grand Prix
+STR,7.0,79.559,1.0,HARD,7.0,1,True,Aston Martin,True,15.0,22.472,25.428,31.659,,False,False,4309.525,9,Canadian Grand Prix
+STR,8.0,79.659,1.0,HARD,8.0,12,True,Aston Martin,True,14.0,22.543,25.515,31.601,,False,False,4389.184,9,Canadian Grand Prix
+STR,9.0,109.067,1.0,HARD,9.0,26,False,Aston Martin,True,14.0,31.23,35.257,42.58,,False,False,4498.251,9,Canadian Grand Prix
+STR,10.0,99.17,1.0,HARD,10.0,671,False,Aston Martin,True,14.0,30.506,36.016,32.648,,False,False,4597.421,9,Canadian Grand Prix
+STR,11.0,79.571,1.0,HARD,11.0,1,True,Aston Martin,True,14.0,22.557,25.491,31.523,,False,False,4676.992,9,Canadian Grand Prix
+STR,12.0,79.815,1.0,HARD,12.0,1,True,Aston Martin,True,14.0,22.525,25.66,31.63,,False,False,4756.807,9,Canadian Grand Prix
+STR,13.0,79.372,1.0,HARD,13.0,1,True,Aston Martin,True,14.0,22.409,25.347,31.616,,False,False,4836.179,9,Canadian Grand Prix
+STR,14.0,79.444,1.0,HARD,14.0,1,True,Aston Martin,True,14.0,22.381,25.392,31.671,,False,False,4915.623,9,Canadian Grand Prix
+STR,15.0,79.575,1.0,HARD,15.0,1,True,Aston Martin,True,14.0,22.362,25.39,31.823,,False,False,4995.198,9,Canadian Grand Prix
+STR,16.0,79.939,1.0,HARD,16.0,1,True,Aston Martin,True,14.0,22.499,25.575,31.865,,False,False,5075.137,9,Canadian Grand Prix
+STR,17.0,79.825,1.0,HARD,17.0,1,True,Aston Martin,True,14.0,22.513,25.659,31.653,,False,False,5154.962,9,Canadian Grand Prix
+STR,18.0,79.94,1.0,HARD,18.0,1,True,Aston Martin,True,13.0,22.631,25.678,31.631,,False,False,5234.902,9,Canadian Grand Prix
+STR,19.0,90.523,1.0,HARD,19.0,126,False,Aston Martin,True,9.0,22.438,25.603,42.482,,False,False,5325.425,9,Canadian Grand Prix
+STR,20.0,97.629,1.0,HARD,20.0,671,False,Aston Martin,True,9.0,33.667,31.553,32.409,,False,False,5423.054,9,Canadian Grand Prix
+STR,21.0,79.445,1.0,HARD,21.0,1,True,Aston Martin,True,9.0,22.35,25.383,31.712,,False,False,5502.499,9,Canadian Grand Prix
+STR,22.0,79.85,1.0,HARD,22.0,1,True,Aston Martin,True,9.0,22.555,25.587,31.708,,False,False,5582.349,9,Canadian Grand Prix
+STR,23.0,79.447,1.0,HARD,23.0,1,True,Aston Martin,True,9.0,22.578,25.268,31.601,,False,False,5661.796,9,Canadian Grand Prix
+STR,24.0,79.259,1.0,HARD,24.0,1,True,Aston Martin,True,9.0,22.503,25.246,31.51,,False,False,5741.055,9,Canadian Grand Prix
+STR,25.0,78.908,1.0,HARD,25.0,1,True,Aston Martin,True,9.0,22.291,25.232,31.385,,False,False,5819.963,9,Canadian Grand Prix
+STR,26.0,79.022,1.0,HARD,26.0,1,True,Aston Martin,True,9.0,22.291,25.263,31.468,,False,False,5898.985,9,Canadian Grand Prix
+STR,27.0,79.302,1.0,HARD,27.0,1,True,Aston Martin,True,9.0,22.598,25.242,31.462,,False,False,5978.287,9,Canadian Grand Prix
+STR,28.0,79.547,1.0,HARD,28.0,1,True,Aston Martin,True,9.0,22.374,25.416,31.757,,False,False,6057.834,9,Canadian Grand Prix
+STR,29.0,79.708,1.0,HARD,29.0,1,True,Aston Martin,True,9.0,22.652,25.486,31.57,,False,False,6137.542,9,Canadian Grand Prix
+STR,30.0,79.805,1.0,HARD,30.0,1,True,Aston Martin,True,9.0,22.472,25.527,31.806,,False,False,6217.347,9,Canadian Grand Prix
+STR,31.0,79.27,1.0,HARD,31.0,1,True,Aston Martin,True,9.0,22.412,25.396,31.462,,False,False,6296.617,9,Canadian Grand Prix
+STR,32.0,79.083,1.0,HARD,32.0,1,True,Aston Martin,True,9.0,22.273,25.34,31.47,,False,False,6375.7,9,Canadian Grand Prix
+STR,33.0,78.916,1.0,HARD,33.0,1,True,Aston Martin,True,9.0,22.225,25.255,31.436,,False,False,6454.616,9,Canadian Grand Prix
+STR,34.0,79.412,1.0,HARD,34.0,1,True,Aston Martin,True,9.0,22.396,25.342,31.674,,False,False,6534.028,9,Canadian Grand Prix
+STR,35.0,79.254,1.0,HARD,35.0,1,True,Aston Martin,True,9.0,22.359,25.248,31.647,,False,False,6613.282,9,Canadian Grand Prix
+STR,36.0,79.47,1.0,HARD,36.0,1,True,Aston Martin,True,9.0,22.68,25.157,31.633,,False,False,6692.752,9,Canadian Grand Prix
+STR,37.0,79.513,1.0,HARD,37.0,1,True,Aston Martin,True,9.0,22.466,25.404,31.643,,False,False,6772.265,9,Canadian Grand Prix
+STR,38.0,79.294,1.0,HARD,38.0,1,True,Aston Martin,True,9.0,22.31,25.32,31.664,,False,False,6851.559,9,Canadian Grand Prix
+STR,39.0,79.042,1.0,HARD,39.0,1,True,Aston Martin,True,9.0,22.325,25.195,31.522,,False,False,6930.601,9,Canadian Grand Prix
+STR,40.0,78.911,1.0,HARD,40.0,1,True,Aston Martin,True,9.0,22.27,25.079,31.562,,False,False,7009.512,9,Canadian Grand Prix
+STR,41.0,79.057,1.0,HARD,41.0,1,True,Aston Martin,True,8.0,22.292,25.281,31.484,,False,False,7088.569,9,Canadian Grand Prix
+STR,42.0,79.097,1.0,HARD,42.0,1,True,Aston Martin,True,8.0,22.295,25.216,31.586,,False,False,7167.666,9,Canadian Grand Prix
+STR,43.0,79.152,1.0,HARD,43.0,1,True,Aston Martin,True,8.0,22.224,25.219,31.709,,False,False,7246.818,9,Canadian Grand Prix
+STR,44.0,78.707,1.0,HARD,44.0,1,True,Aston Martin,True,8.0,22.225,25.089,31.393,,False,False,7325.525,9,Canadian Grand Prix
+STR,45.0,79.0,1.0,HARD,45.0,1,True,Aston Martin,True,8.0,22.168,25.275,31.557,,False,False,7404.525,9,Canadian Grand Prix
+STR,46.0,78.911,1.0,HARD,46.0,1,True,Aston Martin,True,8.0,22.31,25.157,31.444,,False,False,7483.436,9,Canadian Grand Prix
+STR,47.0,96.353,1.0,HARD,47.0,1,False,Aston Martin,True,13.0,22.225,25.215,48.913,,True,False,7579.789,9,Canadian Grand Prix
+STR,48.0,92.19,2.0,MEDIUM,2.0,124,False,Aston Martin,False,13.0,25.227,25.238,41.725,,False,True,7671.979,9,Canadian Grand Prix
+STR,49.0,114.399,2.0,MEDIUM,3.0,4,False,Aston Martin,False,13.0,29.162,36.242,48.995,,False,False,7786.378,9,Canadian Grand Prix
+STR,50.0,121.614,2.0,MEDIUM,4.0,4,False,Aston Martin,False,13.0,34.874,38.163,48.577,,False,False,7907.992,9,Canadian Grand Prix
+STR,51.0,126.858,2.0,MEDIUM,5.0,4,False,Aston Martin,False,13.0,35.412,40.343,51.103,,False,False,8034.85,9,Canadian Grand Prix
+STR,52.0,90.504,2.0,MEDIUM,6.0,4,False,Aston Martin,False,13.0,31.306,27.006,32.192,,False,False,8125.354,9,Canadian Grand Prix
+STR,53.0,79.025,2.0,MEDIUM,7.0,4,False,Aston Martin,False,13.0,22.262,25.014,31.749,,False,False,8204.379,9,Canadian Grand Prix
+STR,54.0,98.688,2.0,MEDIUM,8.0,41,False,Aston Martin,False,13.0,22.893,25.597,50.198,,False,False,8303.067,9,Canadian Grand Prix
+STR,55.0,80.385,2.0,MEDIUM,9.0,1,True,Aston Martin,False,13.0,22.85,25.661,31.874,,False,False,8383.452,9,Canadian Grand Prix
+STR,56.0,79.748,2.0,MEDIUM,10.0,1,True,Aston Martin,False,13.0,22.759,25.183,31.806,,False,False,8463.2,9,Canadian Grand Prix
+STR,57.0,79.085,2.0,MEDIUM,11.0,1,True,Aston Martin,False,12.0,23.125,24.953,31.007,,False,False,8542.285,9,Canadian Grand Prix
+STR,58.0,77.871,2.0,MEDIUM,12.0,1,True,Aston Martin,False,12.0,22.053,24.927,30.891,,False,False,8620.156,9,Canadian Grand Prix
+STR,59.0,77.932,2.0,MEDIUM,13.0,1,True,Aston Martin,False,12.0,21.898,24.934,31.1,,False,False,8698.088,9,Canadian Grand Prix
+STR,60.0,77.689,2.0,MEDIUM,14.0,1,True,Aston Martin,False,11.0,21.977,24.89,30.822,,False,False,8775.777,9,Canadian Grand Prix
+STR,61.0,77.606,2.0,MEDIUM,15.0,1,True,Aston Martin,False,11.0,21.788,24.832,30.986,,False,False,8853.383,9,Canadian Grand Prix
+STR,62.0,77.427,2.0,MEDIUM,16.0,1,True,Aston Martin,False,11.0,21.792,24.711,30.924,,False,False,8930.81,9,Canadian Grand Prix
+STR,63.0,77.834,2.0,MEDIUM,17.0,1,True,Aston Martin,False,10.0,21.98,25.055,30.799,,False,False,9008.644,9,Canadian Grand Prix
+STR,64.0,77.421,2.0,MEDIUM,18.0,1,True,Aston Martin,False,10.0,21.64,24.723,31.058,,False,False,9086.065,9,Canadian Grand Prix
+STR,65.0,77.554,2.0,MEDIUM,19.0,1,True,Aston Martin,False,10.0,21.795,24.76,30.999,,False,False,9163.619,9,Canadian Grand Prix
+STR,66.0,77.725,2.0,MEDIUM,20.0,1,True,Aston Martin,False,10.0,21.805,24.755,31.165,,False,False,9241.344,9,Canadian Grand Prix
+STR,67.0,77.83,2.0,MEDIUM,21.0,1,True,Aston Martin,False,10.0,21.847,24.756,31.227,,False,False,9319.174,9,Canadian Grand Prix
+STR,68.0,78.052,2.0,MEDIUM,22.0,1,True,Aston Martin,False,10.0,21.941,24.934,31.177,,False,False,9397.226,9,Canadian Grand Prix
+STR,69.0,77.698,2.0,MEDIUM,23.0,1,True,Aston Martin,False,10.0,21.758,24.779,31.161,,False,False,9474.924,9,Canadian Grand Prix
+STR,70.0,79.044,2.0,MEDIUM,24.0,1,True,Aston Martin,False,10.0,22.103,25.011,31.93,,False,False,9553.968,9,Canadian Grand Prix
+MAG,1.0,87.088,1.0,MEDIUM,1.0,1,False,Haas F1 Team,True,5.0,,26.221,31.646,,False,False,3821.077,9,Canadian Grand Prix
+MAG,2.0,80.105,1.0,MEDIUM,2.0,1,True,Haas F1 Team,True,5.0,22.592,25.839,31.674,,False,False,3901.182,9,Canadian Grand Prix
+MAG,3.0,79.833,1.0,MEDIUM,3.0,1,True,Haas F1 Team,True,5.0,22.389,25.669,31.775,,False,False,3981.015,9,Canadian Grand Prix
+MAG,4.0,79.729,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,5.0,22.442,25.559,31.728,,False,False,4060.744,9,Canadian Grand Prix
+MAG,5.0,80.233,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,6.0,22.212,25.586,32.435,,False,False,4140.977,9,Canadian Grand Prix
+MAG,6.0,79.808,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,6.0,22.58,25.563,31.665,,False,False,4220.785,9,Canadian Grand Prix
+MAG,7.0,109.469,1.0,MEDIUM,7.0,1,False,Haas F1 Team,True,20.0,22.196,25.403,61.87,,True,False,4330.254,9,Canadian Grand Prix
+MAG,8.0,91.282,2.0,HARD,1.0,126,False,Haas F1 Team,True,19.0,24.523,25.796,40.963,,False,True,4421.536,9,Canadian Grand Prix
+MAG,9.0,109.87,2.0,HARD,2.0,6,False,Haas F1 Team,True,19.0,30.018,35.476,44.376,,False,False,4531.406,9,Canadian Grand Prix
+MAG,10.0,90.606,2.0,HARD,3.0,671,False,Haas F1 Team,True,19.0,29.853,29.183,31.57,,False,False,4622.012,9,Canadian Grand Prix
+MAG,11.0,78.046,2.0,HARD,4.0,1,True,Haas F1 Team,True,19.0,21.895,25.03,31.121,,False,False,4700.058,9,Canadian Grand Prix
+MAG,12.0,78.458,2.0,HARD,5.0,1,True,Haas F1 Team,True,19.0,21.805,25.264,31.389,,False,False,4778.516,9,Canadian Grand Prix
+MAG,13.0,78.461,2.0,HARD,6.0,1,True,Haas F1 Team,True,19.0,21.915,25.133,31.413,,False,False,4856.977,9,Canadian Grand Prix
+MAG,14.0,79.056,2.0,HARD,7.0,1,True,Haas F1 Team,True,19.0,22.25,25.358,31.448,,False,False,4936.033,9,Canadian Grand Prix
+MAG,15.0,79.404,2.0,HARD,8.0,1,True,Haas F1 Team,True,18.0,22.347,25.523,31.534,,False,False,5015.437,9,Canadian Grand Prix
+MAG,16.0,79.171,2.0,HARD,9.0,1,True,Haas F1 Team,True,18.0,22.158,25.478,31.535,,False,False,5094.608,9,Canadian Grand Prix
+MAG,17.0,78.908,2.0,HARD,10.0,1,True,Haas F1 Team,True,18.0,22.063,25.284,31.561,,False,False,5173.516,9,Canadian Grand Prix
+MAG,18.0,78.641,2.0,HARD,11.0,1,True,Haas F1 Team,True,18.0,22.026,25.189,31.426,,False,False,5252.157,9,Canadian Grand Prix
+MAG,19.0,95.118,2.0,HARD,12.0,126,False,Haas F1 Team,True,15.0,22.243,30.879,41.996,,False,False,5347.275,9,Canadian Grand Prix
+MAG,20.0,91.98,2.0,HARD,13.0,671,False,Haas F1 Team,True,15.0,31.086,29.384,31.51,,False,False,5439.255,9,Canadian Grand Prix
+MAG,21.0,78.58,2.0,HARD,14.0,1,True,Haas F1 Team,True,15.0,21.966,25.217,31.397,,False,False,5517.835,9,Canadian Grand Prix
+MAG,22.0,78.717,2.0,HARD,15.0,1,True,Haas F1 Team,True,15.0,21.973,25.348,31.396,,False,False,5596.552,9,Canadian Grand Prix
+MAG,23.0,78.753,2.0,HARD,16.0,1,True,Haas F1 Team,True,15.0,22.028,25.273,31.452,,False,False,5675.305,9,Canadian Grand Prix
+MAG,24.0,78.954,2.0,HARD,17.0,1,True,Haas F1 Team,True,15.0,22.158,25.128,31.668,,False,False,5754.259,9,Canadian Grand Prix
+MAG,25.0,78.864,2.0,HARD,18.0,1,True,Haas F1 Team,True,15.0,22.032,25.315,31.517,,False,False,5833.123,9,Canadian Grand Prix
+MAG,26.0,78.814,2.0,HARD,19.0,1,True,Haas F1 Team,True,15.0,22.095,25.295,31.424,,False,False,5911.937,9,Canadian Grand Prix
+MAG,27.0,79.108,2.0,HARD,20.0,1,True,Haas F1 Team,True,15.0,22.176,25.38,31.552,,False,False,5991.045,9,Canadian Grand Prix
+MAG,28.0,78.973,2.0,HARD,21.0,1,True,Haas F1 Team,True,15.0,22.142,25.341,31.49,,False,False,6070.018,9,Canadian Grand Prix
+MAG,29.0,79.099,2.0,HARD,22.0,1,True,Haas F1 Team,True,15.0,22.208,25.316,31.575,,False,False,6149.117,9,Canadian Grand Prix
+MAG,30.0,79.055,2.0,HARD,23.0,1,True,Haas F1 Team,True,15.0,22.142,25.227,31.686,,False,False,6228.172,9,Canadian Grand Prix
+MAG,31.0,79.569,2.0,HARD,24.0,1,True,Haas F1 Team,True,15.0,22.523,25.406,31.64,,False,False,6307.741,9,Canadian Grand Prix
+MAG,32.0,79.516,2.0,HARD,25.0,1,True,Haas F1 Team,True,15.0,22.195,25.378,31.943,,False,False,6387.257,9,Canadian Grand Prix
+MAG,33.0,79.208,2.0,HARD,26.0,1,True,Haas F1 Team,True,15.0,22.276,25.358,31.574,,False,False,6466.465,9,Canadian Grand Prix
+MAG,34.0,79.222,2.0,HARD,27.0,1,True,Haas F1 Team,True,15.0,22.301,25.275,31.646,,False,False,6545.687,9,Canadian Grand Prix
+MAG,35.0,79.263,2.0,HARD,28.0,1,True,Haas F1 Team,True,15.0,22.293,25.401,31.569,,False,False,6624.95,9,Canadian Grand Prix
+MAG,36.0,79.632,2.0,HARD,29.0,1,True,Haas F1 Team,True,14.0,22.354,25.419,31.859,,False,False,6704.582,9,Canadian Grand Prix
+MAG,37.0,78.8,2.0,HARD,30.0,1,True,Haas F1 Team,True,14.0,22.091,25.192,31.517,,False,False,6783.382,9,Canadian Grand Prix
+MAG,38.0,78.931,2.0,HARD,31.0,1,True,Haas F1 Team,True,14.0,22.116,25.303,31.512,,False,False,6862.313,9,Canadian Grand Prix
+MAG,39.0,78.858,2.0,HARD,32.0,1,True,Haas F1 Team,True,14.0,22.201,25.188,31.469,,False,False,6941.171,9,Canadian Grand Prix
+MAG,40.0,81.211,2.0,HARD,33.0,1,True,Haas F1 Team,True,14.0,24.247,25.401,31.563,,False,False,7022.382,9,Canadian Grand Prix
+MAG,41.0,79.371,2.0,HARD,34.0,1,True,Haas F1 Team,True,14.0,22.331,25.434,31.606,,False,False,7101.753,9,Canadian Grand Prix
+MAG,42.0,79.488,2.0,HARD,35.0,1,True,Haas F1 Team,True,14.0,22.28,25.265,31.943,,False,False,7181.241,9,Canadian Grand Prix
+MAG,43.0,79.91,2.0,HARD,36.0,1,True,Haas F1 Team,True,14.0,22.236,25.306,32.368,,False,False,7261.151,9,Canadian Grand Prix
+MAG,44.0,79.791,2.0,HARD,37.0,1,True,Haas F1 Team,True,14.0,23.013,25.314,31.464,,False,False,7340.942,9,Canadian Grand Prix
+MAG,45.0,79.042,2.0,HARD,38.0,1,True,Haas F1 Team,True,14.0,22.166,25.163,31.713,,False,False,7419.984,9,Canadian Grand Prix
+MAG,46.0,79.139,2.0,HARD,39.0,1,True,Haas F1 Team,True,14.0,22.193,25.337,31.609,,False,False,7499.123,9,Canadian Grand Prix
+MAG,47.0,79.869,2.0,HARD,40.0,1,True,Haas F1 Team,True,12.0,22.346,25.476,32.047,,False,False,7578.992,9,Canadian Grand Prix
+MAG,48.0,90.4,2.0,HARD,41.0,124,False,Haas F1 Team,True,12.0,23.237,25.363,41.8,,False,False,7669.392,9,Canadian Grand Prix
+MAG,49.0,115.894,2.0,HARD,42.0,4,False,Haas F1 Team,True,12.0,29.84,36.239,49.815,,False,False,7785.286,9,Canadian Grand Prix
+MAG,50.0,121.129,2.0,HARD,43.0,4,False,Haas F1 Team,True,12.0,34.947,37.865,48.317,,False,False,7906.415,9,Canadian Grand Prix
+MAG,51.0,127.02,2.0,HARD,44.0,4,False,Haas F1 Team,True,12.0,35.775,40.108,51.137,,False,False,8033.435,9,Canadian Grand Prix
+MAG,52.0,87.571,2.0,HARD,45.0,4,False,Haas F1 Team,True,12.0,29.915,25.824,31.832,,False,False,8121.006,9,Canadian Grand Prix
+MAG,53.0,78.842,2.0,HARD,46.0,4,False,Haas F1 Team,True,12.0,22.0,25.17,31.672,,False,False,8199.848,9,Canadian Grand Prix
+MAG,54.0,102.521,2.0,HARD,47.0,41,False,Haas F1 Team,True,12.0,22.156,25.198,55.167,,False,False,8302.369,9,Canadian Grand Prix
+MAG,55.0,80.909,2.0,HARD,48.0,1,True,Haas F1 Team,True,12.0,23.046,25.8,32.063,,False,False,8383.278,9,Canadian Grand Prix
+MAG,56.0,79.853,2.0,HARD,49.0,1,True,Haas F1 Team,True,12.0,22.343,25.358,32.152,,False,False,8463.131,9,Canadian Grand Prix
+MAG,57.0,81.192,2.0,HARD,50.0,1,True,Haas F1 Team,True,14.0,23.466,25.738,31.988,,False,False,8544.323,9,Canadian Grand Prix
+MAG,58.0,81.014,2.0,HARD,51.0,1,True,Haas F1 Team,True,16.0,23.271,25.554,32.189,,False,False,8625.337,9,Canadian Grand Prix
+MAG,59.0,80.279,2.0,HARD,52.0,1,True,Haas F1 Team,True,17.0,22.65,25.504,32.125,,False,False,8705.616,9,Canadian Grand Prix
+MAG,60.0,79.601,2.0,HARD,53.0,1,True,Haas F1 Team,True,17.0,22.678,25.365,31.558,,False,False,8785.217,9,Canadian Grand Prix
+MAG,61.0,79.468,2.0,HARD,54.0,1,True,Haas F1 Team,True,17.0,22.553,25.232,31.683,,False,False,8864.685,9,Canadian Grand Prix
+MAG,62.0,79.687,2.0,HARD,55.0,1,True,Haas F1 Team,True,17.0,22.658,25.433,31.596,,False,False,8944.372,9,Canadian Grand Prix
+MAG,63.0,79.498,2.0,HARD,56.0,1,True,Haas F1 Team,True,17.0,22.327,25.302,31.869,,False,False,9023.87,9,Canadian Grand Prix
+MAG,64.0,79.474,2.0,HARD,57.0,1,True,Haas F1 Team,True,17.0,22.311,25.457,31.706,,False,False,9103.344,9,Canadian Grand Prix
+MAG,65.0,79.792,2.0,HARD,58.0,1,True,Haas F1 Team,True,17.0,22.481,25.351,31.96,,False,False,9183.136,9,Canadian Grand Prix
+MAG,66.0,79.974,2.0,HARD,59.0,1,True,Haas F1 Team,True,17.0,22.51,25.46,32.004,,False,False,9263.11,9,Canadian Grand Prix
+MAG,67.0,80.193,2.0,HARD,60.0,1,True,Haas F1 Team,True,17.0,22.59,25.537,32.066,,False,False,9343.303,9,Canadian Grand Prix
+MAG,68.0,79.929,2.0,HARD,61.0,1,True,Haas F1 Team,True,17.0,22.527,25.486,31.916,,False,False,9423.232,9,Canadian Grand Prix
+MAG,69.0,80.177,2.0,HARD,62.0,1,True,Haas F1 Team,True,17.0,22.729,25.473,31.975,,False,False,9503.409,9,Canadian Grand Prix
+MAG,70.0,80.517,2.0,HARD,63.0,1,True,Haas F1 Team,True,17.0,22.811,25.708,31.998,,False,False,9583.926,9,Canadian Grand Prix
+TSU,1.0,94.569,1.0,MEDIUM,1.0,1,False,AlphaTauri,True,19.0,,27.467,32.972,,False,False,3828.558,9,Canadian Grand Prix
+TSU,2.0,82.382,1.0,MEDIUM,2.0,1,True,AlphaTauri,True,19.0,23.707,26.437,32.238,,False,False,3910.94,9,Canadian Grand Prix
+TSU,3.0,80.513,1.0,MEDIUM,3.0,1,True,AlphaTauri,True,19.0,23.066,25.679,31.768,,False,False,3991.453,9,Canadian Grand Prix
+TSU,4.0,80.11,1.0,MEDIUM,4.0,1,True,AlphaTauri,True,19.0,23.039,25.6,31.471,,False,False,4071.563,9,Canadian Grand Prix
+TSU,5.0,80.065,1.0,MEDIUM,5.0,1,True,AlphaTauri,True,17.0,22.464,26.162,31.439,,False,False,4151.628,9,Canadian Grand Prix
+TSU,6.0,78.981,1.0,MEDIUM,6.0,1,True,AlphaTauri,True,17.0,22.307,25.441,31.233,,False,False,4230.609,9,Canadian Grand Prix
+TSU,7.0,79.796,1.0,MEDIUM,7.0,1,True,AlphaTauri,True,16.0,22.508,25.379,31.909,,False,False,4310.405,9,Canadian Grand Prix
+TSU,8.0,79.348,1.0,MEDIUM,8.0,12,True,AlphaTauri,True,15.0,22.449,25.4,31.499,,False,False,4389.753,9,Canadian Grand Prix
+TSU,9.0,122.57,1.0,MEDIUM,9.0,26,False,AlphaTauri,True,15.0,33.255,34.33,54.985,,True,False,4512.323,9,Canadian Grand Prix
+TSU,10.0,96.651,2.0,HARD,1.0,671,False,AlphaTauri,True,15.0,29.178,34.543,32.93,,False,True,4608.974,9,Canadian Grand Prix
+TSU,11.0,79.884,2.0,HARD,2.0,1,True,AlphaTauri,True,15.0,22.82,25.62,31.444,,False,False,4688.858,9,Canadian Grand Prix
+TSU,12.0,78.532,2.0,HARD,3.0,1,True,AlphaTauri,True,15.0,22.117,25.144,31.271,,False,False,4767.39,9,Canadian Grand Prix
+TSU,13.0,78.608,2.0,HARD,4.0,1,True,AlphaTauri,True,15.0,22.043,25.375,31.19,,False,False,4845.998,9,Canadian Grand Prix
+TSU,14.0,78.66,2.0,HARD,5.0,1,True,AlphaTauri,True,15.0,21.978,25.209,31.473,,False,False,4924.658,9,Canadian Grand Prix
+TSU,15.0,78.309,2.0,HARD,6.0,1,True,AlphaTauri,True,15.0,21.912,24.986,31.411,,False,False,5002.967,9,Canadian Grand Prix
+TSU,16.0,78.549,2.0,HARD,7.0,1,True,AlphaTauri,True,15.0,22.131,25.122,31.296,,False,False,5081.516,9,Canadian Grand Prix
+TSU,17.0,78.493,2.0,HARD,8.0,1,True,AlphaTauri,True,15.0,21.985,25.063,31.445,,False,False,5160.009,9,Canadian Grand Prix
+TSU,18.0,78.721,2.0,HARD,9.0,1,True,AlphaTauri,True,14.0,21.99,25.3,31.431,,False,False,5238.73,9,Canadian Grand Prix
+TSU,19.0,90.601,2.0,HARD,10.0,126,False,AlphaTauri,True,11.0,21.989,25.215,43.397,,False,False,5329.331,9,Canadian Grand Prix
+TSU,20.0,96.253,2.0,HARD,11.0,671,False,AlphaTauri,True,11.0,33.691,30.822,31.74,,False,False,5425.584,9,Canadian Grand Prix
+TSU,21.0,78.444,2.0,HARD,12.0,1,True,AlphaTauri,True,11.0,22.238,25.042,31.164,,False,False,5504.028,9,Canadian Grand Prix
+TSU,22.0,79.235,2.0,HARD,13.0,1,True,AlphaTauri,True,11.0,22.579,25.355,31.301,,False,False,5583.263,9,Canadian Grand Prix
+TSU,23.0,79.431,2.0,HARD,14.0,1,True,AlphaTauri,True,11.0,22.65,25.473,31.308,,False,False,5662.694,9,Canadian Grand Prix
+TSU,24.0,79.238,2.0,HARD,15.0,1,True,AlphaTauri,True,11.0,22.674,25.501,31.063,,False,False,5741.932,9,Canadian Grand Prix
+TSU,25.0,79.611,2.0,HARD,16.0,1,True,AlphaTauri,True,11.0,22.723,25.436,31.452,,False,False,5821.543,9,Canadian Grand Prix
+TSU,26.0,78.892,2.0,HARD,17.0,1,True,AlphaTauri,True,11.0,22.319,25.212,31.361,,False,False,5900.435,9,Canadian Grand Prix
+TSU,27.0,79.003,2.0,HARD,18.0,1,True,AlphaTauri,True,11.0,22.351,25.195,31.457,,False,False,5979.438,9,Canadian Grand Prix
+TSU,28.0,79.287,2.0,HARD,19.0,1,True,AlphaTauri,True,11.0,22.481,25.409,31.397,,False,False,6058.725,9,Canadian Grand Prix
+TSU,29.0,79.506,2.0,HARD,20.0,1,True,AlphaTauri,True,11.0,22.716,25.435,31.355,,False,False,6138.231,9,Canadian Grand Prix
+TSU,30.0,79.804,2.0,HARD,21.0,1,True,AlphaTauri,True,11.0,22.782,25.371,31.651,,False,False,6218.035,9,Canadian Grand Prix
+TSU,31.0,79.535,2.0,HARD,22.0,1,True,AlphaTauri,True,11.0,22.786,25.495,31.254,,False,False,6297.57,9,Canadian Grand Prix
+TSU,32.0,79.37,2.0,HARD,23.0,1,True,AlphaTauri,True,11.0,22.65,25.435,31.285,,False,False,6376.94,9,Canadian Grand Prix
+TSU,33.0,78.96,2.0,HARD,24.0,1,True,AlphaTauri,True,11.0,22.499,25.223,31.238,,False,False,6455.9,9,Canadian Grand Prix
+TSU,34.0,79.07,2.0,HARD,25.0,1,True,AlphaTauri,True,11.0,22.518,25.224,31.328,,False,False,6534.97,9,Canadian Grand Prix
+TSU,35.0,79.179,2.0,HARD,26.0,1,True,AlphaTauri,True,11.0,22.551,25.173,31.455,,False,False,6614.149,9,Canadian Grand Prix
+TSU,36.0,79.489,2.0,HARD,27.0,1,True,AlphaTauri,True,11.0,22.707,25.209,31.573,,False,False,6693.638,9,Canadian Grand Prix
+TSU,37.0,79.434,2.0,HARD,28.0,1,True,AlphaTauri,True,11.0,22.527,25.589,31.318,,False,False,6773.072,9,Canadian Grand Prix
+TSU,38.0,79.517,2.0,HARD,29.0,1,True,AlphaTauri,True,11.0,22.569,25.438,31.51,,False,False,6852.589,9,Canadian Grand Prix
+TSU,39.0,79.505,2.0,HARD,30.0,1,True,AlphaTauri,True,11.0,22.758,25.428,31.319,,False,False,6932.094,9,Canadian Grand Prix
+TSU,40.0,78.766,2.0,HARD,31.0,1,True,AlphaTauri,True,11.0,22.469,25.162,31.135,,False,False,7010.86,9,Canadian Grand Prix
+TSU,41.0,79.139,2.0,HARD,32.0,1,True,AlphaTauri,True,11.0,22.446,25.318,31.375,,False,False,7089.999,9,Canadian Grand Prix
+TSU,42.0,79.311,2.0,HARD,33.0,1,True,AlphaTauri,True,10.0,22.341,25.367,31.603,,False,False,7169.31,9,Canadian Grand Prix
+TSU,43.0,79.608,2.0,HARD,34.0,1,True,AlphaTauri,True,10.0,22.653,25.454,31.501,,False,False,7248.918,9,Canadian Grand Prix
+TSU,44.0,79.788,2.0,HARD,35.0,1,True,AlphaTauri,True,11.0,22.358,25.465,31.965,,False,False,7328.706,9,Canadian Grand Prix
+TSU,45.0,79.423,2.0,HARD,36.0,1,True,AlphaTauri,True,11.0,22.502,25.586,31.335,,False,False,7408.129,9,Canadian Grand Prix
+TSU,46.0,79.656,2.0,HARD,37.0,1,True,AlphaTauri,True,12.0,22.291,25.477,31.888,,False,False,7487.785,9,Canadian Grand Prix
+TSU,47.0,95.346,2.0,HARD,38.0,1,False,AlphaTauri,True,15.0,22.81,25.262,47.274,,True,False,7583.131,9,Canadian Grand Prix
+ALB,1.0,91.675,1.0,MEDIUM,1.0,1,False,Williams,True,12.0,,27.401,32.455,,False,False,3825.664,9,Canadian Grand Prix
+ALB,2.0,81.297,1.0,MEDIUM,2.0,1,True,Williams,True,12.0,23.41,26.051,31.836,,False,False,3906.961,9,Canadian Grand Prix
+ALB,3.0,80.304,1.0,MEDIUM,3.0,1,True,Williams,True,12.0,22.97,25.73,31.604,,False,False,3987.265,9,Canadian Grand Prix
+ALB,4.0,79.484,1.0,MEDIUM,4.0,1,True,Williams,True,12.0,22.502,25.419,31.563,,False,False,4066.749,9,Canadian Grand Prix
+ALB,5.0,79.69,1.0,MEDIUM,5.0,1,True,Williams,True,12.0,22.672,25.457,31.561,,False,False,4146.439,9,Canadian Grand Prix
+ALB,6.0,79.682,1.0,MEDIUM,6.0,1,True,Williams,True,12.0,22.662,25.584,31.436,,False,False,4226.121,9,Canadian Grand Prix
+ALB,7.0,79.727,1.0,MEDIUM,7.0,1,True,Williams,True,11.0,22.636,25.552,31.539,,False,False,4305.848,9,Canadian Grand Prix
+ALB,8.0,79.811,1.0,MEDIUM,8.0,12,True,Williams,True,10.0,22.645,25.616,31.55,,False,False,4385.659,9,Canadian Grand Prix
+ALB,9.0,108.251,1.0,MEDIUM,9.0,26,False,Williams,True,10.0,30.409,35.78,42.062,,False,False,4493.91,9,Canadian Grand Prix
+ALB,10.0,100.051,1.0,MEDIUM,10.0,671,False,Williams,True,10.0,31.111,35.24,33.7,,False,False,4593.961,9,Canadian Grand Prix
+ALB,11.0,79.354,1.0,MEDIUM,11.0,1,True,Williams,True,10.0,22.55,25.447,31.357,,False,False,4673.315,9,Canadian Grand Prix
+ALB,12.0,79.472,1.0,MEDIUM,12.0,1,True,Williams,True,10.0,22.726,25.337,31.409,,False,False,4752.787,9,Canadian Grand Prix
+ALB,13.0,79.72,1.0,MEDIUM,13.0,1,True,Williams,True,10.0,22.432,25.446,31.842,,False,False,4832.507,9,Canadian Grand Prix
+ALB,14.0,79.436,1.0,MEDIUM,14.0,1,True,Williams,True,10.0,22.449,25.434,31.553,,False,False,4911.943,9,Canadian Grand Prix
+ALB,15.0,79.849,1.0,MEDIUM,15.0,1,True,Williams,True,10.0,22.453,25.533,31.863,,False,False,4991.792,9,Canadian Grand Prix
+ALB,16.0,80.496,1.0,MEDIUM,16.0,1,True,Williams,True,10.0,22.852,25.567,32.077,,False,False,5072.288,9,Canadian Grand Prix
+ALB,17.0,80.927,1.0,MEDIUM,17.0,1,True,Williams,True,12.0,22.675,25.603,32.649,,False,False,5153.215,9,Canadian Grand Prix
+ALB,18.0,96.605,1.0,MEDIUM,18.0,1,False,Williams,True,17.0,23.109,25.718,47.778,,True,False,5249.82,9,Canadian Grand Prix
+ALB,19.0,99.132,2.0,HARD,1.0,126,False,Williams,True,16.0,25.297,32.415,41.42,,False,True,5348.952,9,Canadian Grand Prix
+ALB,20.0,91.737,2.0,HARD,2.0,671,False,Williams,True,16.0,32.022,28.175,31.54,,False,False,5440.689,9,Canadian Grand Prix
+ALB,21.0,79.373,2.0,HARD,3.0,1,True,Williams,True,16.0,22.539,25.411,31.423,,False,False,5520.062,9,Canadian Grand Prix
+ALB,22.0,79.518,2.0,HARD,4.0,1,True,Williams,True,16.0,22.573,25.443,31.502,,False,False,5599.58,9,Canadian Grand Prix
+ALB,23.0,79.514,2.0,HARD,5.0,1,True,Williams,True,16.0,22.446,25.505,31.563,,False,False,5679.094,9,Canadian Grand Prix
+ALB,24.0,79.111,2.0,HARD,6.0,1,True,Williams,True,16.0,22.326,25.333,31.452,,False,False,5758.205,9,Canadian Grand Prix
+ALB,25.0,79.049,2.0,HARD,7.0,1,True,Williams,True,16.0,22.403,25.296,31.35,,False,False,5837.254,9,Canadian Grand Prix
+ALB,26.0,79.115,2.0,HARD,8.0,1,True,Williams,True,16.0,22.426,25.283,31.406,,False,False,5916.369,9,Canadian Grand Prix
+ALB,27.0,79.006,2.0,HARD,9.0,1,True,Williams,True,16.0,22.393,25.204,31.409,,False,False,5995.375,9,Canadian Grand Prix
+ALB,28.0,79.248,2.0,HARD,10.0,1,True,Williams,True,16.0,22.477,25.284,31.487,,False,False,6074.623,9,Canadian Grand Prix
+ALB,29.0,79.244,2.0,HARD,11.0,1,True,Williams,True,16.0,22.377,25.434,31.433,,False,False,6153.867,9,Canadian Grand Prix
+ALB,30.0,79.225,2.0,HARD,12.0,1,True,Williams,True,16.0,22.451,25.339,31.435,,False,False,6233.092,9,Canadian Grand Prix
+ALB,31.0,79.254,2.0,HARD,13.0,1,True,Williams,True,16.0,22.433,25.314,31.507,,False,False,6312.346,9,Canadian Grand Prix
+ALB,32.0,79.155,2.0,HARD,14.0,1,True,Williams,True,16.0,22.315,25.278,31.562,,False,False,6391.501,9,Canadian Grand Prix
+ALB,33.0,78.934,2.0,HARD,15.0,1,True,Williams,True,16.0,22.289,25.238,31.407,,False,False,6470.435,9,Canadian Grand Prix
+ALB,34.0,79.184,2.0,HARD,16.0,1,True,Williams,True,16.0,22.435,25.265,31.484,,False,False,6549.619,9,Canadian Grand Prix
+ALB,35.0,79.201,2.0,HARD,17.0,1,True,Williams,True,16.0,22.536,25.235,31.43,,False,False,6628.82,9,Canadian Grand Prix
+ALB,36.0,79.268,2.0,HARD,18.0,1,True,Williams,True,15.0,22.326,25.467,31.475,,False,False,6708.088,9,Canadian Grand Prix
+ALB,37.0,80.493,2.0,HARD,19.0,1,True,Williams,True,15.0,23.745,25.264,31.484,,False,False,6788.581,9,Canadian Grand Prix
+ALB,38.0,79.027,2.0,HARD,20.0,1,True,Williams,True,15.0,22.319,25.343,31.365,,False,False,6867.608,9,Canadian Grand Prix
+ALB,39.0,79.068,2.0,HARD,21.0,1,True,Williams,True,15.0,22.387,25.158,31.523,,False,False,6946.676,9,Canadian Grand Prix
+ALB,40.0,80.948,2.0,HARD,22.0,1,True,Williams,True,15.0,22.38,25.276,33.292,,False,False,7027.624,9,Canadian Grand Prix
+ALB,41.0,79.58,2.0,HARD,23.0,1,True,Williams,True,15.0,22.694,25.401,31.485,,False,False,7107.204,9,Canadian Grand Prix
+ALB,42.0,79.004,2.0,HARD,24.0,1,True,Williams,True,15.0,22.38,25.219,31.405,,False,False,7186.208,9,Canadian Grand Prix
+ALB,43.0,79.511,2.0,HARD,25.0,1,True,Williams,True,15.0,22.512,25.557,31.442,,False,False,7265.719,9,Canadian Grand Prix
+ALB,44.0,79.262,2.0,HARD,26.0,1,True,Williams,True,15.0,22.471,25.289,31.502,,False,False,7344.981,9,Canadian Grand Prix
+ALB,45.0,79.196,2.0,HARD,27.0,1,True,Williams,True,15.0,22.372,25.3,31.524,,False,False,7424.177,9,Canadian Grand Prix
+ALB,46.0,79.919,2.0,HARD,28.0,1,True,Williams,True,15.0,22.398,26.433,31.088,,False,False,7504.096,9,Canadian Grand Prix
+ALB,47.0,78.941,2.0,HARD,29.0,1,True,Williams,True,14.0,22.353,25.281,31.307,,False,False,7583.037,9,Canadian Grand Prix
+ALB,48.0,104.349,2.0,HARD,30.0,124,False,Williams,True,15.0,22.645,25.43,56.274,,True,False,7687.386,9,Canadian Grand Prix
+ALB,49.0,108.042,3.0,HARD,1.0,4,False,Williams,True,15.0,30.584,35.468,41.99,,False,True,7795.428,9,Canadian Grand Prix
+ALB,50.0,114.901,3.0,HARD,2.0,4,False,Williams,True,15.0,29.809,37.717,47.375,,False,False,7910.329,9,Canadian Grand Prix
+ALB,51.0,127.356,3.0,HARD,3.0,4,False,Williams,True,15.0,35.494,40.136,51.726,,False,False,8037.685,9,Canadian Grand Prix
+ALB,52.0,91.112,3.0,HARD,4.0,4,False,Williams,True,15.0,30.586,28.131,32.395,,False,False,8128.797,9,Canadian Grand Prix
+ALB,53.0,81.692,3.0,HARD,5.0,4,False,Williams,True,15.0,23.797,26.108,31.787,,False,False,8210.489,9,Canadian Grand Prix
+ALB,54.0,93.434,3.0,HARD,6.0,41,False,Williams,True,15.0,22.455,25.206,45.773,,False,False,8303.923,9,Canadian Grand Prix
+ALB,55.0,80.263,3.0,HARD,7.0,1,True,Williams,True,15.0,22.933,25.668,31.662,,False,False,8384.186,9,Canadian Grand Prix
+ALB,56.0,79.776,3.0,HARD,8.0,1,True,Williams,True,15.0,22.83,25.543,31.403,,False,False,8463.962,9,Canadian Grand Prix
+ALB,57.0,79.638,3.0,HARD,9.0,1,True,Williams,True,13.0,22.995,25.688,30.955,,False,False,8543.6,9,Canadian Grand Prix
+ALB,58.0,78.161,3.0,HARD,10.0,1,True,Williams,True,13.0,22.137,25.043,30.981,,False,False,8621.761,9,Canadian Grand Prix
+ALB,59.0,77.951,3.0,HARD,11.0,1,True,Williams,True,13.0,22.134,24.857,30.96,,False,False,8699.712,9,Canadian Grand Prix
+ALB,60.0,78.067,3.0,HARD,12.0,1,True,Williams,True,13.0,22.071,25.053,30.943,,False,False,8777.779,9,Canadian Grand Prix
+ALB,61.0,78.25,3.0,HARD,13.0,1,True,Williams,True,13.0,22.209,24.966,31.075,,False,False,8856.029,9,Canadian Grand Prix
+ALB,62.0,77.964,3.0,HARD,14.0,1,True,Williams,True,13.0,22.075,24.865,31.024,,False,False,8933.993,9,Canadian Grand Prix
+ALB,63.0,78.086,3.0,HARD,15.0,1,True,Williams,True,13.0,22.096,24.996,30.994,,False,False,9012.079,9,Canadian Grand Prix
+ALB,64.0,78.007,3.0,HARD,16.0,1,True,Williams,True,13.0,22.128,24.91,30.969,,False,False,9090.086,9,Canadian Grand Prix
+ALB,65.0,78.185,3.0,HARD,17.0,1,True,Williams,True,13.0,22.059,25.016,31.11,,False,False,9168.271,9,Canadian Grand Prix
+ALB,66.0,78.572,3.0,HARD,18.0,1,True,Williams,True,13.0,22.355,25.021,31.196,,False,False,9246.843,9,Canadian Grand Prix
+ALB,67.0,78.792,3.0,HARD,19.0,1,True,Williams,True,13.0,22.362,24.94,31.49,,False,False,9325.635,9,Canadian Grand Prix
+ALB,68.0,78.569,3.0,HARD,20.0,1,True,Williams,True,13.0,22.21,25.022,31.337,,False,False,9404.204,9,Canadian Grand Prix
+ALB,69.0,78.087,3.0,HARD,21.0,1,True,Williams,True,13.0,22.038,24.93,31.119,,False,False,9482.291,9,Canadian Grand Prix
+ALB,70.0,78.348,3.0,HARD,22.0,1,True,Williams,True,13.0,22.176,25.039,31.133,,False,False,9560.639,9,Canadian Grand Prix
+ZHO,1.0,90.286,1.0,MEDIUM,1.0,1,False,Alfa Romeo,True,10.0,,27.284,32.254,,False,False,3824.275,9,Canadian Grand Prix
+ZHO,2.0,81.166,1.0,MEDIUM,2.0,1,True,Alfa Romeo,True,10.0,23.156,26.063,31.947,,False,False,3905.441,9,Canadian Grand Prix
+ZHO,3.0,79.583,1.0,MEDIUM,3.0,1,True,Alfa Romeo,True,10.0,22.632,25.593,31.358,,False,False,3985.024,9,Canadian Grand Prix
+ZHO,4.0,79.457,1.0,MEDIUM,4.0,1,True,Alfa Romeo,True,9.0,22.674,25.573,31.21,,False,False,4064.481,9,Canadian Grand Prix
+ZHO,5.0,79.573,1.0,MEDIUM,5.0,1,True,Alfa Romeo,True,9.0,22.444,25.509,31.62,,False,False,4144.054,9,Canadian Grand Prix
+ZHO,6.0,79.046,1.0,MEDIUM,6.0,1,True,Alfa Romeo,True,9.0,22.295,25.496,31.255,,False,False,4223.1,9,Canadian Grand Prix
+ZHO,7.0,78.943,1.0,MEDIUM,7.0,1,True,Alfa Romeo,True,8.0,22.509,25.272,31.162,,False,False,4302.043,9,Canadian Grand Prix
+ZHO,8.0,79.358,1.0,MEDIUM,8.0,12,True,Alfa Romeo,True,8.0,22.495,25.38,31.483,,False,False,4381.401,9,Canadian Grand Prix
+ZHO,9.0,106.997,1.0,MEDIUM,9.0,26,False,Alfa Romeo,True,8.0,28.61,35.396,42.991,,False,False,4488.398,9,Canadian Grand Prix
+ZHO,10.0,102.772,1.0,MEDIUM,10.0,671,False,Alfa Romeo,True,8.0,31.681,35.407,35.684,,False,False,4591.17,9,Canadian Grand Prix
+ZHO,11.0,79.243,1.0,MEDIUM,11.0,1,True,Alfa Romeo,True,8.0,22.438,25.304,31.501,,False,False,4670.413,9,Canadian Grand Prix
+ZHO,12.0,79.642,1.0,MEDIUM,12.0,1,True,Alfa Romeo,True,8.0,22.803,25.439,31.4,,False,False,4750.055,9,Canadian Grand Prix
+ZHO,13.0,79.012,1.0,MEDIUM,13.0,1,True,Alfa Romeo,True,8.0,22.421,25.4,31.191,,False,False,4829.067,9,Canadian Grand Prix
+ZHO,14.0,78.923,1.0,MEDIUM,14.0,1,True,Alfa Romeo,True,8.0,22.251,25.255,31.417,,False,False,4907.99,9,Canadian Grand Prix
+ZHO,15.0,79.52,1.0,MEDIUM,15.0,1,True,Alfa Romeo,True,8.0,22.827,25.358,31.335,,False,False,4987.51,9,Canadian Grand Prix
+ZHO,16.0,79.506,1.0,MEDIUM,16.0,1,True,Alfa Romeo,True,8.0,22.504,25.382,31.62,,False,False,5067.016,9,Canadian Grand Prix
+ZHO,17.0,79.954,1.0,MEDIUM,17.0,1,True,Alfa Romeo,True,8.0,23.002,25.481,31.471,,False,False,5146.97,9,Canadian Grand Prix
+ZHO,18.0,79.23,1.0,MEDIUM,18.0,1,True,Alfa Romeo,True,8.0,22.429,25.344,31.457,,False,False,5226.2,9,Canadian Grand Prix
+ZHO,19.0,101.392,1.0,MEDIUM,19.0,126,False,Alfa Romeo,True,10.0,22.453,25.965,52.974,,True,False,5327.592,9,Canadian Grand Prix
+ZHO,20.0,97.141,2.0,HARD,1.0,671,False,Alfa Romeo,True,10.0,33.005,31.995,32.141,,False,True,5424.733,9,Canadian Grand Prix
+ZHO,21.0,78.683,2.0,HARD,2.0,1,True,Alfa Romeo,True,10.0,22.108,25.229,31.346,,False,False,5503.416,9,Canadian Grand Prix
+ZHO,22.0,79.1,2.0,HARD,3.0,1,True,Alfa Romeo,True,10.0,22.363,25.296,31.441,,False,False,5582.516,9,Canadian Grand Prix
+ZHO,23.0,79.468,2.0,HARD,4.0,1,True,Alfa Romeo,True,10.0,22.827,25.236,31.405,,False,False,5661.984,9,Canadian Grand Prix
+ZHO,24.0,79.461,2.0,HARD,5.0,1,True,Alfa Romeo,True,10.0,22.893,25.361,31.207,,False,False,5741.445,9,Canadian Grand Prix
+ZHO,25.0,78.884,2.0,HARD,6.0,1,True,Alfa Romeo,True,10.0,22.351,25.278,31.255,,False,False,5820.329,9,Canadian Grand Prix
+ZHO,26.0,79.11,2.0,HARD,7.0,1,True,Alfa Romeo,True,10.0,22.229,25.389,31.492,,False,False,5899.439,9,Canadian Grand Prix
+ZHO,27.0,79.283,2.0,HARD,8.0,1,True,Alfa Romeo,True,10.0,22.489,25.41,31.384,,False,False,5978.722,9,Canadian Grand Prix
+ZHO,28.0,79.354,2.0,HARD,9.0,1,True,Alfa Romeo,True,10.0,22.366,25.528,31.46,,False,False,6058.076,9,Canadian Grand Prix
+ZHO,29.0,79.724,2.0,HARD,10.0,1,True,Alfa Romeo,True,10.0,22.833,25.513,31.378,,False,False,6137.8,9,Canadian Grand Prix
+ZHO,30.0,79.828,2.0,HARD,11.0,1,True,Alfa Romeo,True,10.0,22.543,25.507,31.778,,False,False,6217.628,9,Canadian Grand Prix
+ZHO,31.0,79.458,2.0,HARD,12.0,1,True,Alfa Romeo,True,10.0,22.669,25.534,31.255,,False,False,6297.086,9,Canadian Grand Prix
+ZHO,32.0,79.188,2.0,HARD,13.0,1,True,Alfa Romeo,True,10.0,22.358,25.521,31.309,,False,False,6376.274,9,Canadian Grand Prix
+ZHO,33.0,78.881,2.0,HARD,14.0,1,True,Alfa Romeo,True,10.0,22.336,25.318,31.227,,False,False,6455.155,9,Canadian Grand Prix
+ZHO,34.0,79.286,2.0,HARD,15.0,1,True,Alfa Romeo,True,10.0,22.345,25.333,31.608,,False,False,6534.441,9,Canadian Grand Prix
+ZHO,35.0,79.244,2.0,HARD,16.0,1,True,Alfa Romeo,True,10.0,22.322,25.282,31.64,,False,False,6613.685,9,Canadian Grand Prix
+ZHO,36.0,79.494,2.0,HARD,17.0,1,True,Alfa Romeo,True,10.0,22.601,25.378,31.515,,False,False,6693.179,9,Canadian Grand Prix
+ZHO,37.0,79.432,2.0,HARD,18.0,1,True,Alfa Romeo,True,10.0,22.392,25.585,31.455,,False,False,6772.611,9,Canadian Grand Prix
+ZHO,38.0,79.501,2.0,HARD,19.0,1,True,Alfa Romeo,True,10.0,22.404,25.465,31.632,,False,False,6852.112,9,Canadian Grand Prix
+ZHO,39.0,79.295,2.0,HARD,20.0,1,True,Alfa Romeo,True,10.0,22.615,25.363,31.317,,False,False,6931.407,9,Canadian Grand Prix
+ZHO,40.0,78.638,2.0,HARD,21.0,1,True,Alfa Romeo,True,10.0,22.296,25.153,31.189,,False,False,7010.045,9,Canadian Grand Prix
+ZHO,41.0,79.101,2.0,HARD,22.0,1,True,Alfa Romeo,True,10.0,22.482,25.404,31.215,,False,False,7089.146,9,Canadian Grand Prix
+ZHO,42.0,78.909,2.0,HARD,23.0,1,True,Alfa Romeo,True,9.0,22.142,25.33,31.437,,False,False,7168.055,9,Canadian Grand Prix
+ZHO,43.0,79.308,2.0,HARD,24.0,1,True,Alfa Romeo,True,9.0,22.404,25.415,31.489,,False,False,7247.363,9,Canadian Grand Prix
+ZHO,44.0,78.976,2.0,HARD,25.0,1,True,Alfa Romeo,True,9.0,22.386,25.328,31.262,,False,False,7326.339,9,Canadian Grand Prix
+ZHO,45.0,78.675,2.0,HARD,26.0,1,True,Alfa Romeo,True,9.0,22.16,25.247,31.268,,False,False,7405.014,9,Canadian Grand Prix
+ZHO,46.0,79.041,2.0,HARD,27.0,1,True,Alfa Romeo,True,9.0,22.407,25.373,31.261,,False,False,7484.055,9,Canadian Grand Prix
+ZHO,47.0,79.967,2.0,HARD,28.0,1,True,Alfa Romeo,True,9.0,23.077,25.157,31.733,,False,False,7564.022,9,Canadian Grand Prix
+ZHO,48.0,79.721,2.0,HARD,29.0,124,False,Alfa Romeo,True,9.0,22.212,25.258,32.251,,False,False,7643.743,9,Canadian Grand Prix
+ZHO,49.0,123.273,2.0,HARD,30.0,4,False,Alfa Romeo,True,10.0,35.299,31.807,56.167,,True,False,7767.016,9,Canadian Grand Prix
+ZHO,50.0,109.531,3.0,HARD,1.0,4,False,Alfa Romeo,True,10.0,30.876,36.534,42.121,,False,True,7876.547,9,Canadian Grand Prix
+ZHO,51.0,89.885,3.0,HARD,2.0,4,False,Alfa Romeo,True,10.0,24.16,28.71,37.015,,False,False,7966.432,9,Canadian Grand Prix
+ZHO,52.0,94.51,3.0,HARD,3.0,4,False,Alfa Romeo,True,10.0,27.048,29.723,37.739,,False,False,8060.942,9,Canadian Grand Prix
+ZHO,53.0,106.885,3.0,HARD,4.0,4,False,Alfa Romeo,True,10.0,26.516,35.452,44.917,,False,False,8167.827,9,Canadian Grand Prix
+ZHO,54.0,133.502,3.0,HARD,5.0,41,False,Alfa Romeo,True,10.0,32.3,39.153,62.049,,False,False,8301.329,9,Canadian Grand Prix
+ZHO,55.0,79.918,3.0,HARD,6.0,1,True,Alfa Romeo,True,10.0,22.885,25.35,31.683,,False,False,8381.247,9,Canadian Grand Prix
+ZHO,56.0,79.061,3.0,HARD,7.0,1,True,Alfa Romeo,True,10.0,22.622,25.118,31.321,,False,False,8460.308,9,Canadian Grand Prix
+ZHO,57.0,78.05,3.0,HARD,8.0,1,True,Alfa Romeo,True,9.0,22.061,24.9,31.089,,False,False,8538.358,9,Canadian Grand Prix
+ZHO,58.0,76.757,3.0,HARD,9.0,1,True,Alfa Romeo,True,9.0,21.367,24.626,30.764,,False,False,8615.115,9,Canadian Grand Prix
+ZHO,59.0,76.799,3.0,HARD,10.0,1,True,Alfa Romeo,True,9.0,21.432,24.596,30.771,,False,False,8691.914,9,Canadian Grand Prix
+ZHO,60.0,77.087,3.0,HARD,11.0,1,True,Alfa Romeo,True,9.0,21.459,24.612,31.016,,False,False,8769.001,9,Canadian Grand Prix
+ZHO,61.0,77.15,3.0,HARD,12.0,1,True,Alfa Romeo,True,9.0,21.671,24.769,30.71,,False,False,8846.151,9,Canadian Grand Prix
+ZHO,62.0,77.049,3.0,HARD,13.0,1,True,Alfa Romeo,True,9.0,21.547,24.68,30.822,,False,False,8923.2,9,Canadian Grand Prix
+ZHO,63.0,76.578,3.0,HARD,14.0,1,True,Alfa Romeo,True,9.0,21.573,24.556,30.449,,False,False,8999.778,9,Canadian Grand Prix
+ZHO,64.0,76.947,3.0,HARD,15.0,1,True,Alfa Romeo,True,9.0,21.752,24.662,30.533,,False,False,9076.725,9,Canadian Grand Prix
+ZHO,65.0,77.24,3.0,HARD,16.0,1,True,Alfa Romeo,True,9.0,21.785,24.726,30.729,,False,False,9153.965,9,Canadian Grand Prix
+ZHO,66.0,77.436,3.0,HARD,17.0,1,True,Alfa Romeo,True,9.0,21.941,24.822,30.673,,False,False,9231.401,9,Canadian Grand Prix
+ZHO,67.0,77.604,3.0,HARD,18.0,1,True,Alfa Romeo,True,9.0,21.803,24.775,31.026,,False,False,9309.005,9,Canadian Grand Prix
+ZHO,68.0,78.456,3.0,HARD,19.0,1,True,Alfa Romeo,True,9.0,22.259,24.994,31.203,,False,False,9387.461,9,Canadian Grand Prix
+ZHO,69.0,77.634,3.0,HARD,20.0,1,True,Alfa Romeo,True,9.0,21.733,24.784,31.117,,False,False,9465.095,9,Canadian Grand Prix
+ZHO,70.0,77.603,3.0,HARD,21.0,1,True,Alfa Romeo,True,9.0,21.689,24.804,31.11,,False,False,9542.698,9,Canadian Grand Prix
+RIC,1.0,89.928,1.0,MEDIUM,1.0,1,False,McLaren,True,9.0,,27.193,32.271,,False,False,3823.917,9,Canadian Grand Prix
+RIC,2.0,81.014,1.0,MEDIUM,2.0,1,True,McLaren,True,9.0,23.076,26.072,31.866,,False,False,3904.931,9,Canadian Grand Prix
+RIC,3.0,79.773,1.0,MEDIUM,3.0,1,True,McLaren,True,9.0,22.673,25.586,31.514,,False,False,3984.704,9,Canadian Grand Prix
+RIC,4.0,80.389,1.0,MEDIUM,4.0,1,True,McLaren,True,10.0,22.574,25.553,32.262,,False,False,4065.093,9,Canadian Grand Prix
+RIC,5.0,79.655,1.0,MEDIUM,5.0,1,True,McLaren,True,10.0,22.582,25.544,31.529,,False,False,4144.748,9,Canadian Grand Prix
+RIC,6.0,79.451,1.0,MEDIUM,6.0,1,True,McLaren,True,10.0,22.402,25.495,31.554,,False,False,4224.199,9,Canadian Grand Prix
+RIC,7.0,78.931,1.0,MEDIUM,7.0,1,True,McLaren,True,9.0,22.297,25.341,31.293,,False,False,4303.13,9,Canadian Grand Prix
+RIC,8.0,79.154,1.0,MEDIUM,8.0,12,True,McLaren,True,9.0,22.318,25.385,31.451,,False,False,4382.284,9,Canadian Grand Prix
+RIC,9.0,107.368,1.0,MEDIUM,9.0,26,False,McLaren,True,9.0,29.071,35.144,43.153,,False,False,4489.652,9,Canadian Grand Prix
+RIC,10.0,101.988,1.0,MEDIUM,10.0,671,False,McLaren,True,9.0,31.454,35.203,35.331,,False,False,4591.64,9,Canadian Grand Prix
+RIC,11.0,79.735,1.0,MEDIUM,11.0,1,True,McLaren,True,9.0,22.759,25.566,31.41,,False,False,4671.375,9,Canadian Grand Prix
+RIC,12.0,79.601,1.0,MEDIUM,12.0,1,True,McLaren,True,9.0,22.46,25.626,31.515,,False,False,4750.976,9,Canadian Grand Prix
+RIC,13.0,79.157,1.0,MEDIUM,13.0,1,True,McLaren,True,9.0,22.4,25.363,31.394,,False,False,4830.133,9,Canadian Grand Prix
+RIC,14.0,79.523,1.0,MEDIUM,14.0,1,True,McLaren,True,9.0,22.311,25.406,31.806,,False,False,4909.656,9,Canadian Grand Prix
+RIC,15.0,79.57,1.0,MEDIUM,15.0,1,True,McLaren,True,9.0,22.397,25.368,31.805,,False,False,4989.226,9,Canadian Grand Prix
+RIC,16.0,79.509,1.0,MEDIUM,16.0,1,True,McLaren,True,9.0,22.384,25.4,31.725,,False,False,5068.735,9,Canadian Grand Prix
+RIC,17.0,79.643,1.0,MEDIUM,17.0,1,True,McLaren,True,9.0,22.479,25.488,31.676,,False,False,5148.378,9,Canadian Grand Prix
+RIC,18.0,79.444,1.0,MEDIUM,18.0,1,True,McLaren,True,9.0,22.364,25.4,31.68,,False,False,5227.822,9,Canadian Grand Prix
+RIC,19.0,105.448,1.0,MEDIUM,19.0,126,False,McLaren,True,12.0,22.31,25.63,57.508,,True,False,5333.27,9,Canadian Grand Prix
+RIC,20.0,94.705,2.0,HARD,1.0,671,False,McLaren,True,12.0,30.945,32.006,31.754,,False,True,5427.975,9,Canadian Grand Prix
+RIC,21.0,79.162,2.0,HARD,2.0,1,True,McLaren,True,12.0,22.327,25.391,31.444,,False,False,5507.137,9,Canadian Grand Prix
+RIC,22.0,79.312,2.0,HARD,3.0,1,True,McLaren,True,12.0,22.283,25.394,31.635,,False,False,5586.449,9,Canadian Grand Prix
+RIC,23.0,79.076,2.0,HARD,4.0,1,True,McLaren,True,12.0,22.388,25.199,31.489,,False,False,5665.525,9,Canadian Grand Prix
+RIC,24.0,79.235,2.0,HARD,5.0,1,True,McLaren,True,12.0,22.336,25.322,31.577,,False,False,5744.76,9,Canadian Grand Prix
+RIC,25.0,79.091,2.0,HARD,6.0,1,True,McLaren,True,12.0,22.271,25.357,31.463,,False,False,5823.851,9,Canadian Grand Prix
+RIC,26.0,79.014,2.0,HARD,7.0,1,True,McLaren,True,12.0,22.219,25.311,31.484,,False,False,5902.865,9,Canadian Grand Prix
+RIC,27.0,79.018,2.0,HARD,8.0,1,True,McLaren,True,12.0,22.32,25.215,31.483,,False,False,5981.883,9,Canadian Grand Prix
+RIC,28.0,78.86,2.0,HARD,9.0,1,True,McLaren,True,12.0,22.225,25.247,31.388,,False,False,6060.743,9,Canadian Grand Prix
+RIC,29.0,79.023,2.0,HARD,10.0,1,True,McLaren,True,12.0,22.309,25.252,31.462,,False,False,6139.766,9,Canadian Grand Prix
+RIC,30.0,79.524,2.0,HARD,11.0,1,True,McLaren,True,12.0,22.39,25.373,31.761,,False,False,6219.29,9,Canadian Grand Prix
+RIC,31.0,79.13,2.0,HARD,12.0,1,True,McLaren,True,12.0,22.325,25.46,31.345,,False,False,6298.42,9,Canadian Grand Prix
+RIC,32.0,79.329,2.0,HARD,13.0,1,True,McLaren,True,12.0,22.549,25.363,31.417,,False,False,6377.749,9,Canadian Grand Prix
+RIC,33.0,79.019,2.0,HARD,14.0,1,True,McLaren,True,12.0,22.585,25.138,31.296,,False,False,6456.768,9,Canadian Grand Prix
+RIC,34.0,79.159,2.0,HARD,15.0,1,True,McLaren,True,12.0,22.603,25.269,31.287,,False,False,6535.927,9,Canadian Grand Prix
+RIC,35.0,79.082,2.0,HARD,16.0,1,True,McLaren,True,12.0,22.54,25.193,31.349,,False,False,6615.009,9,Canadian Grand Prix
+RIC,36.0,79.278,2.0,HARD,17.0,1,True,McLaren,True,12.0,22.498,25.267,31.513,,False,False,6694.287,9,Canadian Grand Prix
+RIC,37.0,79.225,2.0,HARD,18.0,1,True,McLaren,True,12.0,22.555,25.337,31.333,,False,False,6773.512,9,Canadian Grand Prix
+RIC,38.0,79.538,2.0,HARD,19.0,1,True,McLaren,True,12.0,22.753,25.356,31.429,,False,False,6853.05,9,Canadian Grand Prix
+RIC,39.0,79.526,2.0,HARD,20.0,1,True,McLaren,True,12.0,22.756,25.363,31.407,,False,False,6932.576,9,Canadian Grand Prix
+RIC,40.0,78.978,2.0,HARD,21.0,1,True,McLaren,True,12.0,22.539,25.105,31.334,,False,False,7011.554,9,Canadian Grand Prix
+RIC,41.0,78.932,2.0,HARD,22.0,1,True,McLaren,True,12.0,22.5,25.265,31.167,,False,False,7090.486,9,Canadian Grand Prix
+RIC,42.0,79.011,2.0,HARD,23.0,1,True,McLaren,True,11.0,22.335,25.277,31.399,,False,False,7169.497,9,Canadian Grand Prix
+RIC,43.0,80.593,2.0,HARD,24.0,1,True,McLaren,True,12.0,23.113,25.99,31.49,,False,False,7250.09,9,Canadian Grand Prix
+RIC,44.0,79.004,2.0,HARD,25.0,1,True,McLaren,True,12.0,22.437,25.206,31.361,,False,False,7329.094,9,Canadian Grand Prix
+RIC,45.0,79.432,2.0,HARD,26.0,1,True,McLaren,True,12.0,22.651,25.46,31.321,,False,False,7408.526,9,Canadian Grand Prix
+RIC,46.0,78.918,2.0,HARD,27.0,1,True,McLaren,True,11.0,22.529,25.295,31.094,,False,False,7487.444,9,Canadian Grand Prix
+RIC,47.0,79.314,2.0,HARD,28.0,1,True,McLaren,True,10.0,22.438,25.422,31.454,,False,False,7566.758,9,Canadian Grand Prix
+RIC,48.0,84.258,2.0,HARD,29.0,124,False,McLaren,True,10.0,22.159,25.235,36.864,,False,False,7651.016,9,Canadian Grand Prix
+RIC,49.0,121.58,2.0,HARD,30.0,4,False,McLaren,True,11.0,31.811,34.013,55.756,,True,False,7772.596,9,Canadian Grand Prix
+RIC,50.0,109.016,3.0,HARD,1.0,4,False,McLaren,True,11.0,30.123,34.766,44.127,,False,True,7881.612,9,Canadian Grand Prix
+RIC,51.0,88.673,3.0,HARD,2.0,4,False,McLaren,True,11.0,25.598,28.534,34.541,,False,False,7970.285,9,Canadian Grand Prix
+RIC,52.0,93.488,3.0,HARD,3.0,4,False,McLaren,True,11.0,25.553,29.088,38.847,,False,False,8063.773,9,Canadian Grand Prix
+RIC,53.0,106.972,3.0,HARD,4.0,4,False,McLaren,True,11.0,24.582,35.559,46.831,,False,False,8170.745,9,Canadian Grand Prix
+RIC,54.0,131.316,3.0,HARD,5.0,41,False,McLaren,True,11.0,31.678,38.336,61.302,,False,False,8302.061,9,Canadian Grand Prix
+RIC,55.0,79.745,3.0,HARD,6.0,1,True,McLaren,True,11.0,22.838,25.572,31.335,,False,False,8381.806,9,Canadian Grand Prix
+RIC,56.0,79.482,3.0,HARD,7.0,1,True,McLaren,True,11.0,22.588,25.352,31.542,,False,False,8461.288,9,Canadian Grand Prix
+RIC,57.0,78.661,3.0,HARD,8.0,1,True,McLaren,True,10.0,22.363,25.084,31.214,,False,False,8539.949,9,Canadian Grand Prix
+RIC,58.0,78.074,3.0,HARD,9.0,1,True,McLaren,True,10.0,21.812,24.91,31.352,,False,False,8618.023,9,Canadian Grand Prix
+RIC,59.0,77.932,3.0,HARD,10.0,1,True,McLaren,True,10.0,21.871,24.875,31.186,,False,False,8695.955,9,Canadian Grand Prix
+RIC,60.0,78.153,3.0,HARD,11.0,1,True,McLaren,True,10.0,21.884,25.049,31.22,,False,False,8774.108,9,Canadian Grand Prix
+RIC,61.0,78.121,3.0,HARD,12.0,1,True,McLaren,True,10.0,21.923,25.078,31.12,,False,False,8852.229,9,Canadian Grand Prix
+RIC,62.0,78.155,3.0,HARD,13.0,1,True,McLaren,True,10.0,21.948,24.923,31.284,,False,False,8930.384,9,Canadian Grand Prix
+RIC,63.0,78.926,3.0,HARD,14.0,1,True,McLaren,True,11.0,21.925,25.177,31.824,,False,False,9009.31,9,Canadian Grand Prix
+RIC,64.0,78.39,3.0,HARD,15.0,1,True,McLaren,True,11.0,22.133,25.011,31.246,,False,False,9087.7,9,Canadian Grand Prix
+RIC,65.0,78.183,3.0,HARD,16.0,1,True,McLaren,True,11.0,21.905,24.978,31.3,,False,False,9165.883,9,Canadian Grand Prix
+RIC,66.0,78.495,3.0,HARD,17.0,1,True,McLaren,True,11.0,22.077,25.019,31.399,,False,False,9244.378,9,Canadian Grand Prix
+RIC,67.0,78.624,3.0,HARD,18.0,1,True,McLaren,True,11.0,22.077,24.992,31.555,,False,False,9323.002,9,Canadian Grand Prix
+RIC,68.0,78.503,3.0,HARD,19.0,1,True,McLaren,True,11.0,21.969,25.013,31.521,,False,False,9401.505,9,Canadian Grand Prix
+RIC,69.0,78.427,3.0,HARD,20.0,1,True,McLaren,True,11.0,22.005,24.891,31.531,,False,False,9479.932,9,Canadian Grand Prix
+RIC,70.0,78.861,3.0,HARD,21.0,1,True,McLaren,True,11.0,22.117,24.987,31.757,,False,False,9558.793,9,Canadian Grand Prix
+OCO,1.0,87.881,1.0,MEDIUM,1.0,1,False,Alpine,True,6.0,,26.285,31.982,,False,False,3821.87,9,Canadian Grand Prix
+OCO,2.0,80.334,1.0,MEDIUM,2.0,1,True,Alpine,True,6.0,22.634,25.786,31.914,,False,False,3902.204,9,Canadian Grand Prix
+OCO,3.0,80.692,1.0,MEDIUM,3.0,1,True,Alpine,True,7.0,22.575,25.856,32.261,,False,False,3982.896,9,Canadian Grand Prix
+OCO,4.0,79.474,1.0,MEDIUM,4.0,1,True,Alpine,True,7.0,22.468,25.443,31.563,,False,False,4062.37,9,Canadian Grand Prix
+OCO,5.0,79.384,1.0,MEDIUM,5.0,1,True,Alpine,True,7.0,22.267,25.393,31.724,,False,False,4141.754,9,Canadian Grand Prix
+OCO,6.0,79.383,1.0,MEDIUM,6.0,1,True,Alpine,True,7.0,22.35,25.546,31.487,,False,False,4221.137,9,Canadian Grand Prix
+OCO,7.0,79.11,1.0,MEDIUM,7.0,1,True,Alpine,True,6.0,22.343,25.382,31.385,,False,False,4300.247,9,Canadian Grand Prix
+OCO,8.0,79.143,1.0,MEDIUM,8.0,12,True,Alpine,True,6.0,22.211,25.334,31.598,,False,False,4379.39,9,Canadian Grand Prix
+OCO,9.0,106.385,1.0,MEDIUM,9.0,26,False,Alpine,True,5.0,28.124,35.066,43.195,,False,False,4485.775,9,Canadian Grand Prix
+OCO,10.0,103.13,1.0,MEDIUM,10.0,671,False,Alpine,True,5.0,31.248,35.865,36.017,,False,False,4588.905,9,Canadian Grand Prix
+OCO,11.0,79.457,1.0,MEDIUM,11.0,1,True,Alpine,True,5.0,22.297,25.325,31.835,,False,False,4668.362,9,Canadian Grand Prix
+OCO,12.0,79.847,1.0,MEDIUM,12.0,1,True,Alpine,True,6.0,22.897,25.41,31.54,,False,False,4748.209,9,Canadian Grand Prix
+OCO,13.0,78.946,1.0,MEDIUM,13.0,1,True,Alpine,True,6.0,22.201,25.27,31.475,,False,False,4827.155,9,Canadian Grand Prix
+OCO,14.0,78.808,1.0,MEDIUM,14.0,1,True,Alpine,True,6.0,22.055,25.211,31.542,,False,False,4905.963,9,Canadian Grand Prix
+OCO,15.0,79.096,1.0,MEDIUM,15.0,1,True,Alpine,True,6.0,22.223,25.379,31.494,,False,False,4985.059,9,Canadian Grand Prix
+OCO,16.0,78.915,1.0,MEDIUM,16.0,1,True,Alpine,True,6.0,22.092,25.256,31.567,,False,False,5063.974,9,Canadian Grand Prix
+OCO,17.0,78.902,1.0,MEDIUM,17.0,1,True,Alpine,True,6.0,22.216,25.275,31.411,,False,False,5142.876,9,Canadian Grand Prix
+OCO,18.0,79.088,1.0,MEDIUM,18.0,1,True,Alpine,True,6.0,22.159,25.365,31.564,,False,False,5221.964,9,Canadian Grand Prix
+OCO,19.0,98.624,1.0,MEDIUM,19.0,126,False,Alpine,True,7.0,22.16,25.383,51.081,,True,False,5320.588,9,Canadian Grand Prix
+OCO,20.0,99.319,2.0,HARD,1.0,671,False,Alpine,True,6.0,34.421,32.42,32.478,,False,True,5419.907,9,Canadian Grand Prix
+OCO,21.0,78.547,2.0,HARD,2.0,1,True,Alpine,True,6.0,22.009,25.238,31.3,,False,False,5498.454,9,Canadian Grand Prix
+OCO,22.0,78.732,2.0,HARD,3.0,1,True,Alpine,True,6.0,22.117,25.242,31.373,,False,False,5577.186,9,Canadian Grand Prix
+OCO,23.0,78.816,2.0,HARD,4.0,1,True,Alpine,True,6.0,22.083,25.306,31.427,,False,False,5656.002,9,Canadian Grand Prix
+OCO,24.0,78.822,2.0,HARD,5.0,1,True,Alpine,True,6.0,22.006,25.354,31.462,,False,False,5734.824,9,Canadian Grand Prix
+OCO,25.0,78.664,2.0,HARD,6.0,1,True,Alpine,True,6.0,21.988,25.331,31.345,,False,False,5813.488,9,Canadian Grand Prix
+OCO,26.0,78.163,2.0,HARD,7.0,1,True,Alpine,True,6.0,21.847,25.043,31.273,,False,False,5891.651,9,Canadian Grand Prix
+OCO,27.0,78.543,2.0,HARD,8.0,1,True,Alpine,True,6.0,21.991,25.239,31.313,,False,False,5970.194,9,Canadian Grand Prix
+OCO,28.0,78.826,2.0,HARD,9.0,1,True,Alpine,True,5.0,22.177,25.218,31.431,,False,False,6049.02,9,Canadian Grand Prix
+OCO,29.0,78.854,2.0,HARD,10.0,1,True,Alpine,True,5.0,22.179,25.362,31.313,,False,False,6127.874,9,Canadian Grand Prix
+OCO,30.0,78.594,2.0,HARD,11.0,1,True,Alpine,True,5.0,21.958,25.193,31.443,,False,False,6206.468,9,Canadian Grand Prix
+OCO,31.0,78.811,2.0,HARD,12.0,1,True,Alpine,True,5.0,22.085,25.294,31.432,,False,False,6285.279,9,Canadian Grand Prix
+OCO,32.0,78.511,2.0,HARD,13.0,1,True,Alpine,True,5.0,22.003,25.166,31.342,,False,False,6363.79,9,Canadian Grand Prix
+OCO,33.0,78.371,2.0,HARD,14.0,1,True,Alpine,True,5.0,21.966,25.185,31.22,,False,False,6442.161,9,Canadian Grand Prix
+OCO,34.0,78.507,2.0,HARD,15.0,1,True,Alpine,True,5.0,22.162,25.141,31.204,,False,False,6520.668,9,Canadian Grand Prix
+OCO,35.0,78.382,2.0,HARD,16.0,1,True,Alpine,True,5.0,21.959,25.112,31.311,,False,False,6599.05,9,Canadian Grand Prix
+OCO,36.0,78.435,2.0,HARD,17.0,1,True,Alpine,True,5.0,21.917,25.17,31.348,,False,False,6677.485,9,Canadian Grand Prix
+OCO,37.0,78.396,2.0,HARD,18.0,1,True,Alpine,True,5.0,22.026,25.227,31.143,,False,False,6755.881,9,Canadian Grand Prix
+OCO,38.0,78.321,2.0,HARD,19.0,1,True,Alpine,True,5.0,22.052,25.092,31.177,,False,False,6834.202,9,Canadian Grand Prix
+OCO,39.0,78.611,2.0,HARD,20.0,1,True,Alpine,True,5.0,22.039,25.204,31.368,,False,False,6912.813,9,Canadian Grand Prix
+OCO,40.0,78.51,2.0,HARD,21.0,1,True,Alpine,True,5.0,22.129,25.156,31.225,,False,False,6991.323,9,Canadian Grand Prix
+OCO,41.0,78.538,2.0,HARD,22.0,1,True,Alpine,True,5.0,22.038,25.211,31.289,,False,False,7069.861,9,Canadian Grand Prix
+OCO,42.0,78.59,2.0,HARD,23.0,1,True,Alpine,True,5.0,22.048,25.262,31.28,,False,False,7148.451,9,Canadian Grand Prix
+OCO,43.0,78.834,2.0,HARD,24.0,1,True,Alpine,True,5.0,22.025,25.327,31.482,,False,False,7227.285,9,Canadian Grand Prix
+OCO,44.0,78.6,2.0,HARD,25.0,1,True,Alpine,True,5.0,21.919,25.255,31.426,,False,False,7305.885,9,Canadian Grand Prix
+OCO,45.0,78.569,2.0,HARD,26.0,1,True,Alpine,True,5.0,22.034,25.188,31.347,,False,False,7384.454,9,Canadian Grand Prix
+OCO,46.0,78.644,2.0,HARD,27.0,1,True,Alpine,True,5.0,22.087,25.168,31.389,,False,False,7463.098,9,Canadian Grand Prix
+OCO,47.0,78.415,2.0,HARD,28.0,1,True,Alpine,True,5.0,21.973,25.18,31.262,,False,False,7541.513,9,Canadian Grand Prix
+OCO,48.0,79.014,2.0,HARD,29.0,12,True,Alpine,True,5.0,22.087,25.135,31.792,,False,False,7620.527,9,Canadian Grand Prix
+OCO,49.0,116.379,2.0,HARD,30.0,24,False,Alpine,True,5.0,26.227,34.834,55.318,,True,False,7736.906,9,Canadian Grand Prix
+OCO,50.0,107.909,3.0,MEDIUM,1.0,4,False,Alpine,True,5.0,33.104,34.437,40.368,,False,True,7844.815,9,Canadian Grand Prix
+OCO,51.0,83.144,3.0,MEDIUM,2.0,4,False,Alpine,True,5.0,23.706,26.366,33.072,,False,False,7927.959,9,Canadian Grand Prix
+OCO,52.0,116.201,3.0,MEDIUM,3.0,4,False,Alpine,True,5.0,25.347,40.562,50.292,,False,False,8044.16,9,Canadian Grand Prix
+OCO,53.0,116.168,3.0,MEDIUM,4.0,4,False,Alpine,True,5.0,30.457,37.943,47.768,,False,False,8160.328,9,Canadian Grand Prix
+OCO,54.0,138.756,3.0,MEDIUM,5.0,41,False,Alpine,True,5.0,32.113,40.475,66.168,,False,False,8299.084,9,Canadian Grand Prix
+OCO,55.0,78.947,3.0,MEDIUM,6.0,1,True,Alpine,True,5.0,22.7,25.158,31.089,,False,False,8378.031,9,Canadian Grand Prix
+OCO,56.0,77.351,3.0,MEDIUM,7.0,1,True,Alpine,True,5.0,21.759,24.61,30.982,,False,False,8455.382,9,Canadian Grand Prix
+OCO,57.0,77.671,3.0,MEDIUM,8.0,1,True,Alpine,True,5.0,21.921,24.829,30.921,,False,False,8533.053,9,Canadian Grand Prix
+OCO,58.0,77.318,3.0,MEDIUM,9.0,1,True,Alpine,True,5.0,21.527,24.853,30.938,,False,False,8610.371,9,Canadian Grand Prix
+OCO,59.0,77.602,3.0,MEDIUM,10.0,1,True,Alpine,True,5.0,21.522,24.669,31.411,,False,False,8687.973,9,Canadian Grand Prix
+OCO,60.0,78.133,3.0,MEDIUM,11.0,1,True,Alpine,True,6.0,21.741,24.789,31.603,,False,False,8766.106,9,Canadian Grand Prix
+OCO,61.0,77.481,3.0,MEDIUM,12.0,1,True,Alpine,True,6.0,21.813,24.81,30.858,,False,False,8843.587,9,Canadian Grand Prix
+OCO,62.0,77.11,3.0,MEDIUM,13.0,1,True,Alpine,True,6.0,21.577,24.663,30.87,,False,False,8920.697,9,Canadian Grand Prix
+OCO,63.0,77.147,3.0,MEDIUM,14.0,1,True,Alpine,True,6.0,21.565,24.702,30.88,,False,False,8997.844,9,Canadian Grand Prix
+OCO,64.0,77.11,3.0,MEDIUM,15.0,1,True,Alpine,True,6.0,21.503,24.637,30.97,,False,False,9074.954,9,Canadian Grand Prix
+OCO,65.0,77.342,3.0,MEDIUM,16.0,1,True,Alpine,True,6.0,21.569,24.782,30.991,,False,False,9152.296,9,Canadian Grand Prix
+OCO,66.0,77.282,3.0,MEDIUM,17.0,1,True,Alpine,True,6.0,21.66,24.798,30.824,,False,False,9229.578,9,Canadian Grand Prix
+OCO,67.0,77.559,3.0,MEDIUM,18.0,1,True,Alpine,True,6.0,21.593,24.81,31.156,,False,False,9307.137,9,Canadian Grand Prix
+OCO,68.0,77.403,3.0,MEDIUM,19.0,1,True,Alpine,True,6.0,21.591,24.802,31.01,,False,False,9384.54,9,Canadian Grand Prix
+OCO,69.0,77.586,3.0,MEDIUM,20.0,1,True,Alpine,True,6.0,21.617,24.798,31.171,,False,False,9462.126,9,Canadian Grand Prix
+OCO,70.0,77.51,3.0,MEDIUM,21.0,1,True,Alpine,True,6.0,21.667,24.692,31.151,,False,False,9539.636,9,Canadian Grand Prix
+NOR,1.0,92.333,1.0,HARD,1.0,1,False,McLaren,True,14.0,,27.476,32.798,,False,False,3826.322,9,Canadian Grand Prix
+NOR,2.0,82.278,1.0,HARD,2.0,1,True,McLaren,True,14.0,23.571,26.348,32.359,,False,False,3908.6,9,Canadian Grand Prix
+NOR,3.0,79.98,1.0,HARD,3.0,1,True,McLaren,True,14.0,22.667,25.707,31.606,,False,False,3988.58,9,Canadian Grand Prix
+NOR,4.0,79.663,1.0,HARD,4.0,1,True,McLaren,True,14.0,22.614,25.369,31.68,,False,False,4068.243,9,Canadian Grand Prix
+NOR,5.0,79.602,1.0,HARD,5.0,1,True,McLaren,True,14.0,22.434,25.515,31.653,,False,False,4147.845,9,Canadian Grand Prix
+NOR,6.0,79.644,1.0,HARD,6.0,1,True,McLaren,True,14.0,22.593,25.459,31.592,,False,False,4227.489,9,Canadian Grand Prix
+NOR,7.0,79.603,1.0,HARD,7.0,1,True,McLaren,True,13.0,22.397,25.554,31.652,,False,False,4307.092,9,Canadian Grand Prix
+NOR,8.0,79.428,1.0,HARD,8.0,12,True,McLaren,True,12.0,22.422,25.506,31.5,,False,False,4386.52,9,Canadian Grand Prix
+NOR,9.0,110.613,1.0,HARD,9.0,26,False,McLaren,True,12.0,31.501,36.101,43.011,,False,False,4497.133,9,Canadian Grand Prix
+NOR,10.0,97.801,1.0,HARD,10.0,671,False,McLaren,True,12.0,30.101,35.049,32.651,,False,False,4594.934,9,Canadian Grand Prix
+NOR,11.0,79.648,1.0,HARD,11.0,1,True,McLaren,True,12.0,22.774,25.444,31.43,,False,False,4674.582,9,Canadian Grand Prix
+NOR,12.0,79.465,1.0,HARD,12.0,1,True,McLaren,True,12.0,22.387,25.526,31.552,,False,False,4754.047,9,Canadian Grand Prix
+NOR,13.0,79.973,1.0,HARD,13.0,1,True,McLaren,True,13.0,22.411,25.479,32.083,,False,False,4834.02,9,Canadian Grand Prix
+NOR,14.0,79.826,1.0,HARD,14.0,1,True,McLaren,True,13.0,22.647,25.579,31.6,,False,False,4913.846,9,Canadian Grand Prix
+NOR,15.0,79.787,1.0,HARD,15.0,1,True,McLaren,True,13.0,22.362,25.549,31.876,,False,False,4993.633,9,Canadian Grand Prix
+NOR,16.0,80.241,1.0,HARD,16.0,1,True,McLaren,True,13.0,22.628,25.666,31.947,,False,False,5073.874,9,Canadian Grand Prix
+NOR,17.0,79.862,1.0,HARD,17.0,1,True,McLaren,True,13.0,22.726,25.536,31.6,,False,False,5153.736,9,Canadian Grand Prix
+NOR,18.0,80.362,1.0,HARD,18.0,1,True,McLaren,True,12.0,22.991,25.737,31.634,,False,False,5234.098,9,Canadian Grand Prix
+NOR,19.0,122.715,1.0,HARD,19.0,126,False,McLaren,True,18.0,22.23,25.557,74.928,,True,False,5356.813,9,Canadian Grand Prix
+NOR,20.0,87.203,2.0,HARD,1.0,671,False,McLaren,True,18.0,28.715,26.705,31.783,,False,True,5444.016,9,Canadian Grand Prix
+NOR,21.0,79.373,2.0,HARD,2.0,1,True,McLaren,True,17.0,22.636,25.576,31.161,,False,False,5523.389,9,Canadian Grand Prix
+NOR,22.0,79.317,2.0,HARD,3.0,1,True,McLaren,True,17.0,22.333,25.435,31.549,,False,False,5602.706,9,Canadian Grand Prix
+NOR,23.0,78.699,2.0,HARD,4.0,1,True,McLaren,True,17.0,22.015,25.295,31.389,,False,False,5681.405,9,Canadian Grand Prix
+NOR,24.0,78.71,2.0,HARD,5.0,1,True,McLaren,True,17.0,22.03,25.216,31.464,,False,False,5760.115,9,Canadian Grand Prix
+NOR,25.0,78.643,2.0,HARD,6.0,1,True,McLaren,True,17.0,22.115,25.189,31.339,,False,False,5838.758,9,Canadian Grand Prix
+NOR,26.0,78.861,2.0,HARD,7.0,1,True,McLaren,True,17.0,22.151,25.264,31.446,,False,False,5917.619,9,Canadian Grand Prix
+NOR,27.0,78.342,2.0,HARD,8.0,1,True,McLaren,True,17.0,21.986,25.177,31.179,,False,False,5995.961,9,Canadian Grand Prix
+NOR,28.0,79.123,2.0,HARD,9.0,1,True,McLaren,True,17.0,22.295,25.294,31.534,,False,False,6075.084,9,Canadian Grand Prix
+NOR,29.0,79.166,2.0,HARD,10.0,1,True,McLaren,True,17.0,22.394,25.271,31.501,,False,False,6154.25,9,Canadian Grand Prix
+NOR,30.0,79.378,2.0,HARD,11.0,1,True,McLaren,True,17.0,22.479,25.284,31.615,,False,False,6233.628,9,Canadian Grand Prix
+NOR,31.0,79.268,2.0,HARD,12.0,1,True,McLaren,True,17.0,22.323,25.391,31.554,,False,False,6312.896,9,Canadian Grand Prix
+NOR,32.0,79.271,2.0,HARD,13.0,1,True,McLaren,True,17.0,22.412,25.26,31.599,,False,False,6392.167,9,Canadian Grand Prix
+NOR,33.0,78.962,2.0,HARD,14.0,1,True,McLaren,True,17.0,22.251,25.213,31.498,,False,False,6471.129,9,Canadian Grand Prix
+NOR,34.0,79.025,2.0,HARD,15.0,1,True,McLaren,True,17.0,22.27,25.278,31.477,,False,False,6550.154,9,Canadian Grand Prix
+NOR,35.0,79.276,2.0,HARD,16.0,1,True,McLaren,True,17.0,22.391,25.328,31.557,,False,False,6629.43,9,Canadian Grand Prix
+NOR,36.0,80.554,2.0,HARD,17.0,1,True,McLaren,True,16.0,22.396,25.833,32.325,,False,False,6709.984,9,Canadian Grand Prix
+NOR,37.0,79.134,2.0,HARD,18.0,1,True,McLaren,True,16.0,22.284,25.377,31.473,,False,False,6789.118,9,Canadian Grand Prix
+NOR,38.0,79.187,2.0,HARD,19.0,1,True,McLaren,True,16.0,22.422,25.312,31.453,,False,False,6868.305,9,Canadian Grand Prix
+NOR,39.0,79.202,2.0,HARD,20.0,1,True,McLaren,True,16.0,22.327,25.144,31.731,,False,False,6947.507,9,Canadian Grand Prix
+NOR,40.0,80.548,2.0,HARD,21.0,1,True,McLaren,True,16.0,22.317,26.63,31.601,,False,False,7028.055,9,Canadian Grand Prix
+NOR,41.0,79.875,2.0,HARD,22.0,1,True,McLaren,True,16.0,22.701,25.547,31.627,,False,False,7107.93,9,Canadian Grand Prix
+NOR,42.0,96.06,2.0,HARD,23.0,1,False,McLaren,True,17.0,22.753,25.944,47.363,,True,False,7203.99,9,Canadian Grand Prix
+NOR,43.0,80.745,3.0,MEDIUM,1.0,1,False,McLaren,True,17.0,24.373,25.141,31.231,,False,True,7284.735,9,Canadian Grand Prix
+NOR,44.0,78.114,3.0,MEDIUM,2.0,1,True,McLaren,True,17.0,21.961,24.961,31.192,,False,False,7362.849,9,Canadian Grand Prix
+NOR,45.0,77.726,3.0,MEDIUM,3.0,1,True,McLaren,True,17.0,21.752,24.922,31.052,,False,False,7440.575,9,Canadian Grand Prix
+NOR,46.0,77.968,3.0,MEDIUM,4.0,1,True,McLaren,True,17.0,21.849,24.852,31.267,,False,False,7518.543,9,Canadian Grand Prix
+NOR,47.0,78.084,3.0,MEDIUM,5.0,12,True,McLaren,True,17.0,21.607,24.892,31.585,,False,False,7596.627,9,Canadian Grand Prix
+NOR,48.0,93.78,3.0,MEDIUM,6.0,24,False,McLaren,True,16.0,22.492,25.776,45.512,,False,False,7690.407,9,Canadian Grand Prix
+NOR,49.0,107.356,3.0,MEDIUM,7.0,4,False,McLaren,True,16.0,31.456,35.594,40.306,,False,False,7797.763,9,Canadian Grand Prix
+NOR,50.0,114.791,3.0,MEDIUM,8.0,4,False,McLaren,True,16.0,28.871,38.768,47.152,,False,False,7912.554,9,Canadian Grand Prix
+NOR,51.0,127.138,3.0,MEDIUM,9.0,4,False,McLaren,True,16.0,35.003,40.074,52.061,,False,False,8039.692,9,Canadian Grand Prix
+NOR,52.0,89.875,3.0,MEDIUM,10.0,4,False,McLaren,True,16.0,29.054,28.533,32.288,,False,False,8129.567,9,Canadian Grand Prix
+NOR,53.0,81.664,3.0,MEDIUM,11.0,4,False,McLaren,True,16.0,23.482,26.167,32.015,,False,False,8211.231,9,Canadian Grand Prix
+NOR,54.0,93.047,3.0,MEDIUM,12.0,41,False,McLaren,True,16.0,22.318,25.327,45.402,,False,False,8304.278,9,Canadian Grand Prix
+NOR,55.0,80.262,3.0,MEDIUM,13.0,1,True,McLaren,True,16.0,22.997,25.551,31.714,,False,False,8384.54,9,Canadian Grand Prix
+NOR,56.0,80.08,3.0,MEDIUM,14.0,1,True,McLaren,True,16.0,22.831,25.567,31.682,,False,False,8464.62,9,Canadian Grand Prix
+NOR,57.0,80.316,3.0,MEDIUM,15.0,1,True,McLaren,True,16.0,22.816,25.874,31.626,,False,False,8544.936,9,Canadian Grand Prix
+NOR,58.0,79.486,3.0,MEDIUM,16.0,1,True,McLaren,True,15.0,22.824,25.586,31.076,,False,False,8624.422,9,Canadian Grand Prix
+NOR,59.0,77.89,3.0,MEDIUM,17.0,1,True,McLaren,True,15.0,21.7,25.025,31.165,,False,False,8702.312,9,Canadian Grand Prix
+NOR,60.0,78.148,3.0,MEDIUM,18.0,1,True,McLaren,True,15.0,21.787,25.126,31.235,,False,False,8780.46,9,Canadian Grand Prix
+NOR,61.0,77.78,3.0,MEDIUM,19.0,1,True,McLaren,True,15.0,21.754,24.873,31.153,,False,False,8858.24,9,Canadian Grand Prix
+NOR,62.0,77.613,3.0,MEDIUM,20.0,1,True,McLaren,True,15.0,21.842,24.765,31.006,,False,False,8935.853,9,Canadian Grand Prix
+NOR,63.0,77.495,3.0,MEDIUM,21.0,1,True,McLaren,True,15.0,21.816,24.867,30.812,,False,False,9013.348,9,Canadian Grand Prix
+NOR,64.0,77.896,3.0,MEDIUM,22.0,1,True,McLaren,True,15.0,22.026,24.895,30.975,,False,False,9091.244,9,Canadian Grand Prix
+NOR,65.0,78.081,3.0,MEDIUM,23.0,1,True,McLaren,True,15.0,21.943,25.077,31.061,,False,False,9169.325,9,Canadian Grand Prix
+NOR,66.0,78.439,3.0,MEDIUM,24.0,1,True,McLaren,True,15.0,22.289,25.043,31.107,,False,False,9247.764,9,Canadian Grand Prix
+NOR,67.0,79.134,3.0,MEDIUM,25.0,1,True,McLaren,True,15.0,22.355,25.017,31.762,,False,False,9326.898,9,Canadian Grand Prix
+NOR,68.0,78.432,3.0,MEDIUM,26.0,1,True,McLaren,True,15.0,22.209,24.939,31.284,,False,False,9405.33,9,Canadian Grand Prix
+NOR,69.0,78.601,3.0,MEDIUM,27.0,1,True,McLaren,True,15.0,22.148,25.006,31.447,,False,False,9483.931,9,Canadian Grand Prix
+NOR,70.0,78.96,3.0,MEDIUM,28.0,1,True,McLaren,True,15.0,22.049,25.102,31.809,,False,False,9562.891,9,Canadian Grand Prix
+HAM,1.0,86.209,1.0,MEDIUM,1.0,1,False,Mercedes,True,4.0,,25.779,31.594,,False,False,3820.198,9,Canadian Grand Prix
+HAM,2.0,79.549,1.0,MEDIUM,2.0,1,True,Mercedes,True,4.0,22.5,25.467,31.582,,False,False,3899.747,9,Canadian Grand Prix
+HAM,3.0,79.013,1.0,MEDIUM,3.0,1,True,Mercedes,True,4.0,22.24,25.537,31.236,,False,False,3978.76,9,Canadian Grand Prix
+HAM,4.0,79.158,1.0,MEDIUM,4.0,1,True,Mercedes,True,4.0,22.308,25.452,31.398,,False,False,4057.918,9,Canadian Grand Prix
+HAM,5.0,78.66,1.0,MEDIUM,5.0,1,True,Mercedes,True,4.0,22.247,25.28,31.133,,False,False,4136.578,9,Canadian Grand Prix
+HAM,6.0,78.591,1.0,MEDIUM,6.0,1,True,Mercedes,True,4.0,22.028,25.26,31.303,,False,False,4215.169,9,Canadian Grand Prix
+HAM,7.0,78.386,1.0,MEDIUM,7.0,1,True,Mercedes,True,4.0,21.918,25.197,31.271,,False,False,4293.555,9,Canadian Grand Prix
+HAM,8.0,78.163,1.0,MEDIUM,8.0,12,True,Mercedes,True,4.0,21.869,24.99,31.304,,False,False,4371.718,9,Canadian Grand Prix
+HAM,9.0,115.793,1.0,MEDIUM,9.0,26,False,Mercedes,True,6.0,22.102,36.426,57.265,,True,False,4487.511,9,Canadian Grand Prix
+HAM,10.0,102.149,2.0,HARD,1.0,671,False,Mercedes,True,6.0,30.043,36.311,35.795,,False,True,4589.66,9,Canadian Grand Prix
+HAM,11.0,78.734,2.0,HARD,2.0,1,True,Mercedes,True,6.0,22.096,25.193,31.445,,False,False,4668.394,9,Canadian Grand Prix
+HAM,12.0,78.187,2.0,HARD,3.0,1,True,Mercedes,True,5.0,22.011,25.015,31.161,,False,False,4746.581,9,Canadian Grand Prix
+HAM,13.0,77.973,2.0,HARD,4.0,1,True,Mercedes,True,5.0,21.8,25.03,31.143,,False,False,4824.554,9,Canadian Grand Prix
+HAM,14.0,77.726,2.0,HARD,5.0,1,True,Mercedes,True,5.0,21.72,24.857,31.149,,False,False,4902.28,9,Canadian Grand Prix
+HAM,15.0,77.82,2.0,HARD,6.0,1,True,Mercedes,True,5.0,21.799,24.87,31.151,,False,False,4980.1,9,Canadian Grand Prix
+HAM,16.0,77.904,2.0,HARD,7.0,1,True,Mercedes,True,5.0,21.797,24.87,31.237,,False,False,5058.004,9,Canadian Grand Prix
+HAM,17.0,78.019,2.0,HARD,8.0,1,True,Mercedes,True,5.0,21.9,25.014,31.105,,False,False,5136.023,9,Canadian Grand Prix
+HAM,18.0,77.855,2.0,HARD,9.0,1,True,Mercedes,True,5.0,21.797,24.908,31.15,,False,False,5213.878,9,Canadian Grand Prix
+HAM,19.0,77.926,2.0,HARD,10.0,126,False,Mercedes,True,4.0,21.682,24.96,31.284,,False,False,5291.804,9,Canadian Grand Prix
+HAM,20.0,106.918,2.0,HARD,11.0,671,False,Mercedes,True,4.0,32.188,35.112,39.618,,False,False,5398.722,9,Canadian Grand Prix
+HAM,21.0,78.711,2.0,HARD,12.0,1,True,Mercedes,True,4.0,22.293,25.419,30.999,,False,False,5477.433,9,Canadian Grand Prix
+HAM,22.0,78.438,2.0,HARD,13.0,1,True,Mercedes,True,4.0,22.161,25.05,31.227,,False,False,5555.871,9,Canadian Grand Prix
+HAM,23.0,78.758,2.0,HARD,14.0,1,True,Mercedes,True,3.0,22.197,25.371,31.19,,False,False,5634.629,9,Canadian Grand Prix
+HAM,24.0,78.099,2.0,HARD,15.0,1,True,Mercedes,True,3.0,21.987,24.845,31.267,,False,False,5712.728,9,Canadian Grand Prix
+HAM,25.0,77.996,2.0,HARD,16.0,1,True,Mercedes,True,3.0,21.933,24.808,31.255,,False,False,5790.724,9,Canadian Grand Prix
+HAM,26.0,77.793,2.0,HARD,17.0,1,True,Mercedes,True,3.0,21.694,24.874,31.225,,False,False,5868.517,9,Canadian Grand Prix
+HAM,27.0,78.03,2.0,HARD,18.0,1,True,Mercedes,True,3.0,21.806,24.94,31.284,,False,False,5946.547,9,Canadian Grand Prix
+HAM,28.0,77.885,2.0,HARD,19.0,1,True,Mercedes,True,3.0,21.845,24.835,31.205,,False,False,6024.432,9,Canadian Grand Prix
+HAM,29.0,77.739,2.0,HARD,20.0,1,True,Mercedes,True,3.0,21.842,24.776,31.121,,False,False,6102.171,9,Canadian Grand Prix
+HAM,30.0,77.811,2.0,HARD,21.0,1,True,Mercedes,True,3.0,21.806,24.838,31.167,,False,False,6179.982,9,Canadian Grand Prix
+HAM,31.0,78.137,2.0,HARD,22.0,1,True,Mercedes,True,3.0,22.065,24.798,31.274,,False,False,6258.119,9,Canadian Grand Prix
+HAM,32.0,78.299,2.0,HARD,23.0,1,True,Mercedes,True,3.0,22.027,24.896,31.376,,False,False,6336.418,9,Canadian Grand Prix
+HAM,33.0,78.104,2.0,HARD,24.0,1,True,Mercedes,True,3.0,22.003,24.861,31.24,,False,False,6414.522,9,Canadian Grand Prix
+HAM,34.0,77.793,2.0,HARD,25.0,1,True,Mercedes,True,3.0,21.79,24.793,31.21,,False,False,6492.315,9,Canadian Grand Prix
+HAM,35.0,77.923,2.0,HARD,26.0,1,True,Mercedes,True,3.0,21.849,24.866,31.208,,False,False,6570.238,9,Canadian Grand Prix
+HAM,36.0,78.092,2.0,HARD,27.0,1,True,Mercedes,True,3.0,21.847,24.905,31.34,,False,False,6648.33,9,Canadian Grand Prix
+HAM,37.0,78.179,2.0,HARD,28.0,1,True,Mercedes,True,3.0,21.96,25.001,31.218,,False,False,6726.509,9,Canadian Grand Prix
+HAM,38.0,77.695,2.0,HARD,29.0,1,True,Mercedes,True,3.0,21.716,24.921,31.058,,False,False,6804.204,9,Canadian Grand Prix
+HAM,39.0,77.878,2.0,HARD,30.0,1,True,Mercedes,True,3.0,21.891,24.756,31.231,,False,False,6882.082,9,Canadian Grand Prix
+HAM,40.0,77.605,2.0,HARD,31.0,1,True,Mercedes,True,3.0,21.747,24.722,31.136,,False,False,6959.687,9,Canadian Grand Prix
+HAM,41.0,78.16,2.0,HARD,32.0,1,True,Mercedes,True,3.0,21.811,24.943,31.406,,False,False,7037.847,9,Canadian Grand Prix
+HAM,42.0,77.949,2.0,HARD,33.0,1,True,Mercedes,True,3.0,21.807,24.917,31.225,,False,False,7115.796,9,Canadian Grand Prix
+HAM,43.0,78.25,2.0,HARD,34.0,1,True,Mercedes,True,3.0,21.78,24.835,31.635,,False,False,7194.046,9,Canadian Grand Prix
+HAM,44.0,95.224,2.0,HARD,35.0,1,False,Mercedes,True,4.0,22.093,24.856,48.275,,True,False,7289.27,9,Canadian Grand Prix
+HAM,45.0,79.878,3.0,HARD,1.0,1,False,Mercedes,True,3.0,23.733,24.953,31.192,,False,True,7369.148,9,Canadian Grand Prix
+HAM,46.0,76.769,3.0,HARD,2.0,1,True,Mercedes,True,3.0,21.483,24.43,30.856,,False,False,7445.917,9,Canadian Grand Prix
+HAM,47.0,76.891,3.0,HARD,3.0,1,True,Mercedes,True,3.0,21.507,24.554,30.83,,False,False,7522.808,9,Canadian Grand Prix
+HAM,48.0,76.549,3.0,HARD,4.0,12,True,Mercedes,True,3.0,21.362,24.447,30.74,,False,False,7599.357,9,Canadian Grand Prix
+HAM,49.0,92.952,3.0,HARD,5.0,24,False,Mercedes,True,3.0,21.862,31.544,39.546,,False,False,7692.309,9,Canadian Grand Prix
+HAM,50.0,108.856,3.0,HARD,6.0,4,False,Mercedes,True,3.0,31.69,36.998,40.168,,False,False,7801.165,9,Canadian Grand Prix
+HAM,51.0,112.627,3.0,HARD,7.0,4,False,Mercedes,True,3.0,27.726,37.945,46.956,,False,False,7913.792,9,Canadian Grand Prix
+HAM,52.0,127.201,3.0,HARD,8.0,4,False,Mercedes,True,3.0,35.082,42.374,49.745,,False,False,8040.993,9,Canadian Grand Prix
+HAM,53.0,116.938,3.0,HARD,9.0,4,False,Mercedes,True,3.0,29.671,39.068,48.199,,False,False,8157.931,9,Canadian Grand Prix
+HAM,54.0,140.31,3.0,HARD,10.0,41,False,Mercedes,True,3.0,32.416,39.979,67.915,,False,False,8298.241,9,Canadian Grand Prix
+HAM,55.0,77.885,3.0,HARD,11.0,1,True,Mercedes,True,3.0,22.093,24.787,31.005,,False,False,8376.126,9,Canadian Grand Prix
+HAM,56.0,76.784,3.0,HARD,12.0,1,True,Mercedes,True,3.0,21.411,24.538,30.835,,False,False,8452.91,9,Canadian Grand Prix
+HAM,57.0,76.272,3.0,HARD,13.0,1,True,Mercedes,True,3.0,21.254,24.261,30.757,,False,False,8529.182,9,Canadian Grand Prix
+HAM,58.0,76.291,3.0,HARD,14.0,1,True,Mercedes,True,3.0,21.234,24.309,30.748,,False,False,8605.473,9,Canadian Grand Prix
+HAM,59.0,76.231,3.0,HARD,15.0,1,True,Mercedes,True,3.0,21.298,24.31,30.623,,False,False,8681.704,9,Canadian Grand Prix
+HAM,60.0,76.394,3.0,HARD,16.0,1,True,Mercedes,True,3.0,21.385,24.286,30.723,,False,False,8758.098,9,Canadian Grand Prix
+HAM,61.0,76.316,3.0,HARD,17.0,1,True,Mercedes,True,3.0,21.401,24.445,30.47,,False,False,8834.414,9,Canadian Grand Prix
+HAM,62.0,76.23,3.0,HARD,18.0,1,True,Mercedes,True,3.0,21.271,24.223,30.736,,False,False,8910.644,9,Canadian Grand Prix
+HAM,63.0,76.468,3.0,HARD,19.0,1,True,Mercedes,True,3.0,21.352,24.362,30.754,,False,False,8987.112,9,Canadian Grand Prix
+HAM,64.0,76.283,3.0,HARD,20.0,1,True,Mercedes,True,3.0,21.301,24.242,30.74,,False,False,9063.395,9,Canadian Grand Prix
+HAM,65.0,76.333,3.0,HARD,21.0,1,True,Mercedes,True,3.0,21.323,24.256,30.754,,False,False,9139.728,9,Canadian Grand Prix
+HAM,66.0,76.716,3.0,HARD,22.0,1,True,Mercedes,True,3.0,21.634,24.346,30.736,,False,False,9216.444,9,Canadian Grand Prix
+HAM,67.0,76.625,3.0,HARD,23.0,1,True,Mercedes,True,3.0,21.245,24.459,30.921,,False,False,9293.069,9,Canadian Grand Prix
+HAM,68.0,76.937,3.0,HARD,24.0,1,True,Mercedes,True,3.0,21.507,24.495,30.935,,False,False,9370.006,9,Canadian Grand Prix
+HAM,69.0,76.167,3.0,HARD,25.0,1,True,Mercedes,True,3.0,21.142,24.246,30.779,,False,False,9446.173,9,Canadian Grand Prix
+HAM,70.0,76.579,3.0,HARD,26.0,1,True,Mercedes,True,3.0,21.324,24.272,30.983,,False,False,9522.752,9,Canadian Grand Prix
+MSC,1.0,89.342,1.0,MEDIUM,1.0,1,False,Haas F1 Team,True,8.0,,26.678,32.704,,False,False,3823.331,9,Canadian Grand Prix
+MSC,2.0,80.785,1.0,MEDIUM,2.0,1,True,Haas F1 Team,True,8.0,23.044,26.074,31.667,,False,False,3904.116,9,Canadian Grand Prix
+MSC,3.0,79.589,1.0,MEDIUM,3.0,1,True,Haas F1 Team,True,8.0,22.621,25.426,31.542,,False,False,3983.705,9,Canadian Grand Prix
+MSC,4.0,79.195,1.0,MEDIUM,4.0,1,True,Haas F1 Team,True,8.0,22.396,25.508,31.291,,False,False,4062.9,9,Canadian Grand Prix
+MSC,5.0,80.064,1.0,MEDIUM,5.0,1,True,Haas F1 Team,True,8.0,22.733,25.555,31.776,,False,False,4142.964,9,Canadian Grand Prix
+MSC,6.0,79.502,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,8.0,22.336,25.617,31.549,,False,False,4222.466,9,Canadian Grand Prix
+MSC,7.0,79.213,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,7.0,22.453,25.443,31.317,,False,False,4301.679,9,Canadian Grand Prix
+MSC,8.0,79.247,1.0,MEDIUM,8.0,12,True,Haas F1 Team,True,7.0,22.346,25.398,31.503,,False,False,4380.926,9,Canadian Grand Prix
+MSC,9.0,106.691,1.0,MEDIUM,9.0,26,False,Haas F1 Team,True,7.0,28.04,35.403,43.248,,False,False,4487.617,9,Canadian Grand Prix
+MSC,10.0,102.964,1.0,MEDIUM,10.0,671,False,Haas F1 Team,True,7.0,31.266,35.907,35.791,,False,False,4590.581,9,Canadian Grand Prix
+MSC,11.0,79.589,1.0,MEDIUM,11.0,1,True,Haas F1 Team,True,7.0,22.37,25.582,31.637,,False,False,4670.17,9,Canadian Grand Prix
+MSC,12.0,79.402,1.0,MEDIUM,12.0,1,True,Haas F1 Team,True,7.0,22.481,25.397,31.524,,False,False,4749.572,9,Canadian Grand Prix
+MSC,13.0,78.967,1.0,MEDIUM,13.0,1,True,Haas F1 Team,True,7.0,22.219,25.134,31.614,,False,False,4828.539,9,Canadian Grand Prix
+MSC,14.0,79.238,1.0,MEDIUM,14.0,1,True,Haas F1 Team,True,7.0,22.172,25.275,31.791,,False,False,4907.777,9,Canadian Grand Prix
+MSC,15.0,79.252,1.0,MEDIUM,15.0,1,True,Haas F1 Team,True,7.0,22.427,25.247,31.578,,False,False,4987.029,9,Canadian Grand Prix
+MSC,16.0,79.83,1.0,MEDIUM,16.0,1,True,Haas F1 Team,True,7.0,22.413,25.463,31.954,,False,False,5066.859,9,Canadian Grand Prix
+MSC,17.0,79.598,1.0,MEDIUM,17.0,1,True,Haas F1 Team,True,7.0,22.569,25.486,31.543,,False,False,5146.457,9,Canadian Grand Prix
+MSC,18.0,79.142,1.0,MEDIUM,18.0,1,True,Haas F1 Team,True,7.0,22.27,25.319,31.553,,False,False,5225.599,9,Canadian Grand Prix
+MSC,19.0,,1.0,MEDIUM,19.0,126,False,Haas F1 Team,True,,,,,,False,False,5375.599,9,Canadian Grand Prix
+VET,1.0,92.647,1.0,MEDIUM,2.0,1,False,Aston Martin,False,15.0,,27.582,32.796,,False,False,3826.636,9,Canadian Grand Prix
+VET,2.0,82.343,1.0,MEDIUM,3.0,1,True,Aston Martin,False,15.0,23.601,26.313,32.429,,False,False,3908.979,9,Canadian Grand Prix
+VET,3.0,80.173,1.0,MEDIUM,4.0,1,True,Aston Martin,False,15.0,22.852,25.72,31.601,,False,False,3989.152,9,Canadian Grand Prix
+VET,4.0,79.529,1.0,MEDIUM,5.0,1,True,Aston Martin,False,15.0,22.621,25.471,31.437,,False,False,4068.681,9,Canadian Grand Prix
+VET,5.0,95.658,1.0,MEDIUM,6.0,1,False,Aston Martin,False,19.0,22.52,25.535,47.603,,True,False,4164.339,9,Canadian Grand Prix
+VET,6.0,81.159,2.0,HARD,1.0,1,False,Aston Martin,False,19.0,24.382,25.412,31.365,,False,True,4245.498,9,Canadian Grand Prix
+VET,7.0,78.429,2.0,HARD,2.0,1,True,Aston Martin,False,18.0,21.963,25.09,31.376,,False,False,4323.927,9,Canadian Grand Prix
+VET,8.0,85.031,2.0,HARD,3.0,126,False,Aston Martin,False,17.0,22.094,25.219,37.718,,False,False,4408.958,9,Canadian Grand Prix
+VET,9.0,107.867,2.0,HARD,4.0,6,False,Aston Martin,False,16.0,29.751,34.551,43.565,,False,False,4516.825,9,Canadian Grand Prix
+VET,10.0,94.32,2.0,HARD,5.0,671,False,Aston Martin,False,16.0,30.269,32.219,31.832,,False,False,4611.145,9,Canadian Grand Prix
+VET,11.0,79.033,2.0,HARD,6.0,1,True,Aston Martin,False,16.0,22.076,25.372,31.585,,False,False,4690.178,9,Canadian Grand Prix
+VET,12.0,78.691,2.0,HARD,7.0,1,True,Aston Martin,False,16.0,22.059,25.19,31.442,,False,False,4768.869,9,Canadian Grand Prix
+VET,13.0,78.991,2.0,HARD,8.0,1,True,Aston Martin,False,16.0,22.249,25.161,31.581,,False,False,4847.86,9,Canadian Grand Prix
+VET,14.0,78.87,2.0,HARD,9.0,1,True,Aston Martin,False,16.0,22.023,25.377,31.47,,False,False,4926.73,9,Canadian Grand Prix
+VET,15.0,78.654,2.0,HARD,10.0,1,True,Aston Martin,False,16.0,22.055,25.045,31.554,,False,False,5005.384,9,Canadian Grand Prix
+VET,16.0,78.642,2.0,HARD,11.0,1,True,Aston Martin,False,16.0,22.12,25.047,31.475,,False,False,5084.026,9,Canadian Grand Prix
+VET,17.0,78.859,2.0,HARD,12.0,1,True,Aston Martin,False,16.0,22.13,25.105,31.624,,False,False,5162.885,9,Canadian Grand Prix
+VET,18.0,78.975,2.0,HARD,13.0,1,True,Aston Martin,False,15.0,22.221,25.193,31.561,,False,False,5241.86,9,Canadian Grand Prix
+VET,19.0,105.322,2.0,HARD,14.0,126,False,Aston Martin,False,14.0,22.134,25.257,57.931,,True,False,5347.182,9,Canadian Grand Prix
+VET,20.0,89.725,3.0,HARD,1.0,671,False,Aston Martin,False,14.0,28.697,29.629,31.399,,False,True,5436.907,9,Canadian Grand Prix
+VET,21.0,78.31,3.0,HARD,2.0,1,True,Aston Martin,False,14.0,21.966,24.934,31.41,,False,False,5515.217,9,Canadian Grand Prix
+VET,22.0,78.498,3.0,HARD,3.0,1,True,Aston Martin,False,14.0,21.929,25.252,31.317,,False,False,5593.715,9,Canadian Grand Prix
+VET,23.0,78.501,3.0,HARD,4.0,1,True,Aston Martin,False,14.0,21.963,25.137,31.401,,False,False,5672.216,9,Canadian Grand Prix
+VET,24.0,78.483,3.0,HARD,5.0,1,True,Aston Martin,False,14.0,22.002,25.02,31.461,,False,False,5750.699,9,Canadian Grand Prix
+VET,25.0,78.744,3.0,HARD,6.0,1,True,Aston Martin,False,14.0,22.066,25.213,31.465,,False,False,5829.443,9,Canadian Grand Prix
+VET,26.0,78.651,3.0,HARD,7.0,1,True,Aston Martin,False,14.0,22.206,25.077,31.368,,False,False,5908.094,9,Canadian Grand Prix
+VET,27.0,78.745,3.0,HARD,8.0,1,True,Aston Martin,False,14.0,22.141,25.111,31.493,,False,False,5986.839,9,Canadian Grand Prix
+VET,28.0,78.908,3.0,HARD,9.0,1,True,Aston Martin,False,14.0,22.119,25.234,31.555,,False,False,6065.747,9,Canadian Grand Prix
+VET,29.0,78.571,3.0,HARD,10.0,1,True,Aston Martin,False,14.0,22.137,25.116,31.318,,False,False,6144.318,9,Canadian Grand Prix
+VET,30.0,79.567,3.0,HARD,11.0,1,True,Aston Martin,False,13.0,22.568,25.102,31.897,,False,False,6223.885,9,Canadian Grand Prix
+VET,31.0,79.036,3.0,HARD,12.0,1,True,Aston Martin,False,13.0,22.399,25.098,31.539,,False,False,6302.921,9,Canadian Grand Prix
+VET,32.0,78.728,3.0,HARD,13.0,1,True,Aston Martin,False,13.0,22.199,25.003,31.526,,False,False,6381.649,9,Canadian Grand Prix
+VET,33.0,78.638,3.0,HARD,14.0,1,True,Aston Martin,False,13.0,22.01,25.084,31.544,,False,False,6460.287,9,Canadian Grand Prix
+VET,34.0,79.035,3.0,HARD,15.0,1,True,Aston Martin,False,13.0,22.213,25.129,31.693,,False,False,6539.322,9,Canadian Grand Prix
+VET,35.0,78.662,3.0,HARD,16.0,1,True,Aston Martin,False,13.0,21.982,25.079,31.601,,False,False,6617.984,9,Canadian Grand Prix
+VET,36.0,78.815,3.0,HARD,17.0,1,True,Aston Martin,False,13.0,22.161,25.054,31.6,,False,False,6696.799,9,Canadian Grand Prix
+VET,37.0,79.053,3.0,HARD,18.0,1,True,Aston Martin,False,13.0,22.305,25.136,31.612,,False,False,6775.852,9,Canadian Grand Prix
+VET,38.0,79.088,3.0,HARD,19.0,1,True,Aston Martin,False,13.0,22.248,25.267,31.573,,False,False,6854.94,9,Canadian Grand Prix
+VET,39.0,79.072,3.0,HARD,20.0,1,True,Aston Martin,False,13.0,22.138,25.259,31.675,,False,False,6934.012,9,Canadian Grand Prix
+VET,40.0,79.175,3.0,HARD,21.0,1,True,Aston Martin,False,13.0,22.407,25.14,31.628,,False,False,7013.187,9,Canadian Grand Prix
+VET,41.0,79.109,3.0,HARD,22.0,1,True,Aston Martin,False,13.0,22.134,25.193,31.782,,False,False,7092.296,9,Canadian Grand Prix
+VET,42.0,79.1,3.0,HARD,23.0,1,True,Aston Martin,False,13.0,22.292,25.241,31.567,,False,False,7171.396,9,Canadian Grand Prix
+VET,43.0,79.289,3.0,HARD,24.0,1,True,Aston Martin,False,13.0,22.215,25.604,31.47,,False,False,7250.685,9,Canadian Grand Prix
+VET,44.0,79.156,3.0,HARD,25.0,1,True,Aston Martin,False,13.0,22.521,25.343,31.292,,False,False,7329.841,9,Canadian Grand Prix
+VET,45.0,79.363,3.0,HARD,26.0,1,True,Aston Martin,False,13.0,22.402,25.394,31.567,,False,False,7409.204,9,Canadian Grand Prix
+VET,46.0,79.214,3.0,HARD,27.0,1,True,Aston Martin,False,13.0,22.372,25.438,31.404,,False,False,7488.418,9,Canadian Grand Prix
+VET,47.0,79.482,3.0,HARD,28.0,1,True,Aston Martin,False,11.0,22.685,25.327,31.47,,False,False,7567.9,9,Canadian Grand Prix
+VET,48.0,85.022,3.0,HARD,29.0,124,False,Aston Martin,False,11.0,22.144,25.317,37.561,,False,False,7652.922,9,Canadian Grand Prix
+VET,49.0,106.954,3.0,HARD,30.0,4,False,Aston Martin,False,9.0,30.185,34.484,42.285,,False,False,7759.876,9,Canadian Grand Prix
+VET,50.0,109.605,3.0,HARD,31.0,4,False,Aston Martin,False,9.0,31.369,37.664,40.572,,False,False,7869.481,9,Canadian Grand Prix
+VET,51.0,94.383,3.0,HARD,32.0,4,False,Aston Martin,False,9.0,26.826,30.936,36.621,,False,False,7963.864,9,Canadian Grand Prix
+VET,52.0,95.858,3.0,HARD,33.0,4,False,Aston Martin,False,9.0,27.284,31.308,37.266,,False,False,8059.722,9,Canadian Grand Prix
+VET,53.0,106.965,3.0,HARD,34.0,4,False,Aston Martin,False,9.0,26.392,36.205,44.368,,False,False,8166.687,9,Canadian Grand Prix
+VET,54.0,134.159,3.0,HARD,35.0,41,False,Aston Martin,False,9.0,31.983,39.538,62.638,,False,False,8300.846,9,Canadian Grand Prix
+VET,55.0,80.244,3.0,HARD,36.0,1,True,Aston Martin,False,9.0,22.891,25.577,31.776,,False,False,8381.09,9,Canadian Grand Prix
+VET,56.0,79.176,3.0,HARD,37.0,1,True,Aston Martin,False,9.0,22.278,25.029,31.869,,False,False,8460.266,9,Canadian Grand Prix
+VET,57.0,80.045,3.0,HARD,38.0,1,True,Aston Martin,False,11.0,22.808,25.215,32.022,,False,False,8540.311,9,Canadian Grand Prix
+VET,58.0,78.757,3.0,HARD,39.0,1,True,Aston Martin,False,11.0,22.31,24.914,31.533,,False,False,8619.068,9,Canadian Grand Prix
+VET,59.0,78.143,3.0,HARD,40.0,1,True,Aston Martin,False,11.0,21.895,24.948,31.3,,False,False,8697.211,9,Canadian Grand Prix
+VET,60.0,79.322,3.0,HARD,41.0,1,True,Aston Martin,False,12.0,21.936,24.997,32.389,,False,False,8776.533,9,Canadian Grand Prix
+VET,61.0,78.412,3.0,HARD,42.0,1,True,Aston Martin,False,12.0,22.079,25.117,31.216,,False,False,8854.945,9,Canadian Grand Prix
+VET,62.0,78.203,3.0,HARD,43.0,1,True,Aston Martin,False,12.0,21.893,24.977,31.333,,False,False,8933.148,9,Canadian Grand Prix
+VET,63.0,77.956,3.0,HARD,44.0,1,True,Aston Martin,False,12.0,21.905,24.84,31.211,,False,False,9011.104,9,Canadian Grand Prix
+VET,64.0,78.074,3.0,HARD,45.0,1,True,Aston Martin,False,12.0,21.857,24.935,31.282,,False,False,9089.178,9,Canadian Grand Prix
+VET,65.0,78.322,3.0,HARD,46.0,1,True,Aston Martin,False,12.0,21.872,24.996,31.454,,False,False,9167.5,9,Canadian Grand Prix
+VET,66.0,78.482,3.0,HARD,47.0,1,True,Aston Martin,False,12.0,22.045,25.011,31.426,,False,False,9245.982,9,Canadian Grand Prix
+VET,67.0,78.511,3.0,HARD,48.0,1,True,Aston Martin,False,12.0,21.991,25.058,31.462,,False,False,9324.493,9,Canadian Grand Prix
+VET,68.0,78.463,3.0,HARD,49.0,1,True,Aston Martin,False,12.0,21.926,25.067,31.47,,False,False,9402.956,9,Canadian Grand Prix
+VET,69.0,78.301,3.0,HARD,50.0,1,True,Aston Martin,False,12.0,21.944,24.957,31.4,,False,False,9481.257,9,Canadian Grand Prix
+VET,70.0,78.734,3.0,HARD,51.0,1,True,Aston Martin,False,12.0,22.032,25.142,31.56,,False,False,9559.991,9,Canadian Grand Prix
+SAI,1.0,85.16,1.0,MEDIUM,1.0,1,False,Ferrari,True,3.0,,25.645,31.533,,False,False,3819.149,9,Canadian Grand Prix
+SAI,2.0,79.339,1.0,MEDIUM,2.0,1,True,Ferrari,True,3.0,22.469,25.298,31.572,,False,False,3898.488,9,Canadian Grand Prix
+SAI,3.0,79.147,1.0,MEDIUM,3.0,1,True,Ferrari,True,2.0,22.395,25.807,30.945,,False,False,3977.635,9,Canadian Grand Prix
+SAI,4.0,79.086,1.0,MEDIUM,4.0,1,True,Ferrari,True,2.0,22.114,25.387,31.585,,False,False,4056.721,9,Canadian Grand Prix
+SAI,5.0,78.214,1.0,MEDIUM,5.0,1,True,Ferrari,True,2.0,22.045,25.11,31.059,,False,False,4134.935,9,Canadian Grand Prix
+SAI,6.0,77.974,1.0,MEDIUM,6.0,1,True,Ferrari,True,2.0,21.873,24.984,31.117,,False,False,4212.909,9,Canadian Grand Prix
+SAI,7.0,77.963,1.0,MEDIUM,7.0,1,True,Ferrari,True,2.0,21.949,24.988,31.026,,False,False,4290.872,9,Canadian Grand Prix
+SAI,8.0,77.466,1.0,MEDIUM,8.0,12,True,Ferrari,True,2.0,21.688,24.702,31.076,,False,False,4368.338,9,Canadian Grand Prix
+SAI,9.0,102.472,1.0,MEDIUM,9.0,26,False,Ferrari,True,1.0,21.866,36.142,44.464,,False,False,4470.81,9,Canadian Grand Prix
+SAI,10.0,105.981,1.0,MEDIUM,10.0,671,False,Ferrari,True,1.0,30.272,35.756,39.953,,False,False,4576.791,9,Canadian Grand Prix
+SAI,11.0,77.654,1.0,MEDIUM,11.0,1,True,Ferrari,True,1.0,21.9,24.776,30.978,,False,False,4654.445,9,Canadian Grand Prix
+SAI,12.0,77.48,1.0,MEDIUM,12.0,1,True,Ferrari,True,1.0,21.653,24.839,30.988,,False,False,4731.925,9,Canadian Grand Prix
+SAI,13.0,77.675,1.0,MEDIUM,13.0,1,True,Ferrari,True,1.0,21.776,24.835,31.064,,False,False,4809.6,9,Canadian Grand Prix
+SAI,14.0,78.361,1.0,MEDIUM,14.0,1,True,Ferrari,True,1.0,22.066,24.947,31.348,,False,False,4887.961,9,Canadian Grand Prix
+SAI,15.0,78.073,1.0,MEDIUM,15.0,1,True,Ferrari,True,1.0,21.854,24.998,31.221,,False,False,4966.034,9,Canadian Grand Prix
+SAI,16.0,77.764,1.0,MEDIUM,16.0,1,True,Ferrari,True,1.0,21.718,24.87,31.176,,False,False,5043.798,9,Canadian Grand Prix
+SAI,17.0,77.706,1.0,MEDIUM,17.0,1,True,Ferrari,True,1.0,21.682,24.8,31.224,,False,False,5121.504,9,Canadian Grand Prix
+SAI,18.0,77.851,1.0,MEDIUM,18.0,1,True,Ferrari,True,1.0,21.866,24.906,31.079,,False,False,5199.355,9,Canadian Grand Prix
+SAI,19.0,77.765,1.0,MEDIUM,19.0,12,True,Ferrari,True,1.0,21.802,24.818,31.145,,False,False,5277.12,9,Canadian Grand Prix
+SAI,20.0,119.333,1.0,MEDIUM,20.0,2671,False,Ferrari,True,3.0,28.357,33.94,57.036,,True,False,5396.453,9,Canadian Grand Prix
+SAI,21.0,80.548,2.0,HARD,1.0,1,False,Ferrari,True,3.0,24.257,25.294,30.997,,False,True,5477.001,9,Canadian Grand Prix
+SAI,22.0,77.533,2.0,HARD,2.0,1,True,Ferrari,True,2.0,21.873,24.886,30.774,,False,False,5554.534,9,Canadian Grand Prix
+SAI,23.0,77.564,2.0,HARD,3.0,1,True,Ferrari,True,2.0,21.666,24.816,31.082,,False,False,5632.098,9,Canadian Grand Prix
+SAI,24.0,77.534,2.0,HARD,4.0,1,True,Ferrari,True,2.0,21.714,24.79,31.03,,False,False,5709.632,9,Canadian Grand Prix
+SAI,25.0,77.458,2.0,HARD,5.0,1,True,Ferrari,True,2.0,21.718,24.689,31.051,,False,False,5787.09,9,Canadian Grand Prix
+SAI,26.0,77.21,2.0,HARD,6.0,1,True,Ferrari,True,2.0,21.589,24.663,30.958,,False,False,5864.3,9,Canadian Grand Prix
+SAI,27.0,77.351,2.0,HARD,7.0,1,True,Ferrari,True,2.0,21.708,24.717,30.926,,False,False,5941.651,9,Canadian Grand Prix
+SAI,28.0,77.258,2.0,HARD,8.0,1,True,Ferrari,True,2.0,21.684,24.708,30.866,,False,False,6018.909,9,Canadian Grand Prix
+SAI,29.0,77.343,2.0,HARD,9.0,1,True,Ferrari,True,2.0,21.863,24.577,30.903,,False,False,6096.252,9,Canadian Grand Prix
+SAI,30.0,77.311,2.0,HARD,10.0,1,True,Ferrari,True,2.0,21.649,24.719,30.943,,False,False,6173.563,9,Canadian Grand Prix
+SAI,31.0,77.533,2.0,HARD,11.0,1,True,Ferrari,True,2.0,22.007,24.608,30.918,,False,False,6251.096,9,Canadian Grand Prix
+SAI,32.0,77.675,2.0,HARD,12.0,1,True,Ferrari,True,2.0,21.799,24.641,31.235,,False,False,6328.771,9,Canadian Grand Prix
+SAI,33.0,77.666,2.0,HARD,13.0,1,True,Ferrari,True,2.0,21.804,24.796,31.066,,False,False,6406.437,9,Canadian Grand Prix
+SAI,34.0,77.707,2.0,HARD,14.0,1,True,Ferrari,True,2.0,21.959,24.628,31.12,,False,False,6484.144,9,Canadian Grand Prix
+SAI,35.0,77.474,2.0,HARD,15.0,1,True,Ferrari,True,2.0,21.799,24.67,31.005,,False,False,6561.618,9,Canadian Grand Prix
+SAI,36.0,77.298,2.0,HARD,16.0,1,True,Ferrari,True,2.0,21.611,24.656,31.031,,False,False,6638.916,9,Canadian Grand Prix
+SAI,37.0,77.673,2.0,HARD,17.0,1,True,Ferrari,True,2.0,21.771,24.808,31.094,,False,False,6716.589,9,Canadian Grand Prix
+SAI,38.0,77.38,2.0,HARD,18.0,1,True,Ferrari,True,2.0,21.658,24.753,30.969,,False,False,6793.969,9,Canadian Grand Prix
+SAI,39.0,77.5,2.0,HARD,19.0,1,True,Ferrari,True,2.0,21.681,24.819,31.0,,False,False,6871.469,9,Canadian Grand Prix
+SAI,40.0,77.362,2.0,HARD,20.0,1,True,Ferrari,True,2.0,21.691,24.727,30.944,,False,False,6948.831,9,Canadian Grand Prix
+SAI,41.0,77.847,2.0,HARD,21.0,1,True,Ferrari,True,2.0,21.852,24.846,31.149,,False,False,7026.678,9,Canadian Grand Prix
+SAI,42.0,78.352,2.0,HARD,22.0,1,True,Ferrari,True,2.0,21.99,24.971,31.391,,False,False,7105.03,9,Canadian Grand Prix
+SAI,43.0,77.972,2.0,HARD,23.0,1,True,Ferrari,True,1.0,21.773,24.853,31.346,,False,False,7183.002,9,Canadian Grand Prix
+SAI,44.0,78.224,2.0,HARD,24.0,1,True,Ferrari,True,1.0,21.861,25.003,31.36,,False,False,7261.226,9,Canadian Grand Prix
+SAI,45.0,77.892,2.0,HARD,25.0,1,True,Ferrari,True,1.0,21.861,24.866,31.165,,False,False,7339.118,9,Canadian Grand Prix
+SAI,46.0,77.832,2.0,HARD,26.0,1,True,Ferrari,True,1.0,21.811,24.864,31.157,,False,False,7416.95,9,Canadian Grand Prix
+SAI,47.0,77.451,2.0,HARD,27.0,1,True,Ferrari,True,1.0,21.644,24.736,31.071,,False,False,7494.401,9,Canadian Grand Prix
+SAI,48.0,77.508,2.0,HARD,28.0,1,True,Ferrari,True,1.0,21.787,24.768,30.953,,False,False,7571.909,9,Canadian Grand Prix
+SAI,49.0,96.178,2.0,HARD,29.0,124,False,Ferrari,True,2.0,21.813,24.732,49.633,,True,False,7668.087,9,Canadian Grand Prix
+SAI,50.0,116.554,3.0,HARD,1.0,4,False,Ferrari,True,2.0,30.239,36.321,49.994,,False,True,7784.641,9,Canadian Grand Prix
+SAI,51.0,120.701,3.0,HARD,2.0,4,False,Ferrari,True,2.0,35.111,37.448,48.142,,False,False,7905.342,9,Canadian Grand Prix
+SAI,52.0,127.534,3.0,HARD,3.0,4,False,Ferrari,True,2.0,36.147,40.001,51.386,,False,False,8032.876,9,Canadian Grand Prix
+SAI,53.0,124.253,3.0,HARD,4.0,4,False,Ferrari,True,2.0,36.538,39.393,48.322,,False,False,8157.129,9,Canadian Grand Prix
+SAI,54.0,140.583,3.0,HARD,5.0,41,False,Ferrari,True,2.0,32.263,39.991,68.329,,False,False,8297.712,9,Canadian Grand Prix
+SAI,55.0,77.59,3.0,HARD,6.0,1,True,Ferrari,True,2.0,22.05,24.756,30.784,,False,False,8375.302,9,Canadian Grand Prix
+SAI,56.0,76.287,3.0,HARD,7.0,1,True,Ferrari,True,2.0,21.291,24.394,30.602,,False,False,8451.589,9,Canadian Grand Prix
+SAI,57.0,75.897,3.0,HARD,8.0,1,True,Ferrari,True,2.0,21.255,24.182,30.46,,False,False,8527.486,9,Canadian Grand Prix
+SAI,58.0,76.422,3.0,HARD,9.0,1,True,Ferrari,True,2.0,21.524,24.402,30.496,,False,False,8603.908,9,Canadian Grand Prix
+SAI,59.0,75.998,3.0,HARD,10.0,1,True,Ferrari,True,2.0,21.365,24.168,30.465,,False,False,8679.906,9,Canadian Grand Prix
+SAI,60.0,76.159,3.0,HARD,11.0,1,True,Ferrari,True,2.0,21.47,24.218,30.471,,False,False,8756.065,9,Canadian Grand Prix
+SAI,61.0,76.033,3.0,HARD,12.0,1,True,Ferrari,True,2.0,21.4,24.275,30.358,,False,False,8832.098,9,Canadian Grand Prix
+SAI,62.0,76.397,3.0,HARD,13.0,1,True,Ferrari,True,2.0,21.487,24.436,30.474,,False,False,8908.495,9,Canadian Grand Prix
+SAI,63.0,75.749,3.0,HARD,14.0,1,True,Ferrari,True,2.0,21.263,24.13,30.356,,False,False,8984.244,9,Canadian Grand Prix
+SAI,64.0,75.94,3.0,HARD,15.0,1,True,Ferrari,True,2.0,21.391,24.186,30.363,,False,False,9060.184,9,Canadian Grand Prix
+SAI,65.0,75.962,3.0,HARD,16.0,1,True,Ferrari,True,2.0,21.311,24.208,30.443,,False,False,9136.146,9,Canadian Grand Prix
+SAI,66.0,75.992,3.0,HARD,17.0,1,True,Ferrari,True,2.0,21.512,24.192,30.288,,False,False,9212.138,9,Canadian Grand Prix
+SAI,67.0,76.051,3.0,HARD,18.0,1,True,Ferrari,True,2.0,21.356,24.263,30.432,,False,False,9288.189,9,Canadian Grand Prix
+SAI,68.0,76.268,3.0,HARD,19.0,1,True,Ferrari,True,2.0,21.482,24.122,30.664,,False,False,9364.457,9,Canadian Grand Prix
+SAI,69.0,75.84,3.0,HARD,20.0,1,True,Ferrari,True,2.0,21.125,24.261,30.454,,False,False,9440.297,9,Canadian Grand Prix
+SAI,70.0,76.442,3.0,HARD,21.0,1,True,Ferrari,True,2.0,21.519,24.19,30.733,,False,False,9516.739,9,Canadian Grand Prix
+LAT,1.0,95.457,1.0,MEDIUM,1.0,1,False,Williams,True,20.0,,28.314,33.083,,False,False,3829.446,9,Canadian Grand Prix
+LAT,2.0,82.432,1.0,MEDIUM,2.0,1,True,Williams,True,20.0,23.519,26.566,32.347,,False,False,3911.878,9,Canadian Grand Prix
+LAT,3.0,81.123,1.0,MEDIUM,3.0,1,True,Williams,True,20.0,23.126,26.024,31.973,,False,False,3993.001,9,Canadian Grand Prix
+LAT,4.0,80.61,1.0,MEDIUM,4.0,1,True,Williams,True,20.0,22.851,25.986,31.773,,False,False,4073.611,9,Canadian Grand Prix
+LAT,5.0,80.483,1.0,MEDIUM,5.0,1,True,Williams,True,18.0,22.778,25.876,31.829,,False,False,4154.094,9,Canadian Grand Prix
+LAT,6.0,80.257,1.0,MEDIUM,6.0,1,True,Williams,True,18.0,22.802,25.784,31.671,,False,False,4234.351,9,Canadian Grand Prix
+LAT,7.0,81.099,1.0,MEDIUM,7.0,1,True,Williams,True,17.0,22.887,25.588,32.624,,False,False,4315.45,9,Canadian Grand Prix
+LAT,8.0,85.144,1.0,MEDIUM,8.0,126,False,Williams,True,16.0,23.053,26.164,35.927,,False,False,4400.594,9,Canadian Grand Prix
+LAT,9.0,121.354,1.0,MEDIUM,9.0,6,False,Williams,True,18.0,30.709,34.674,55.971,,True,False,4521.948,9,Canadian Grand Prix
+LAT,10.0,93.955,2.0,HARD,1.0,671,False,Williams,True,18.0,33.16,28.926,31.869,,False,True,4615.903,9,Canadian Grand Prix
+LAT,11.0,80.548,2.0,HARD,2.0,1,True,Williams,True,18.0,23.018,25.695,31.835,,False,False,4696.451,9,Canadian Grand Prix
+LAT,12.0,79.765,2.0,HARD,3.0,1,True,Williams,True,18.0,22.649,25.542,31.574,,False,False,4776.216,9,Canadian Grand Prix
+LAT,13.0,79.429,2.0,HARD,4.0,1,True,Williams,True,18.0,22.411,25.482,31.536,,False,False,4855.645,9,Canadian Grand Prix
+LAT,14.0,79.934,2.0,HARD,5.0,1,True,Williams,True,18.0,22.737,25.633,31.564,,False,False,4935.579,9,Canadian Grand Prix
+LAT,15.0,80.591,2.0,HARD,6.0,1,True,Williams,True,19.0,22.609,26.401,31.581,,False,False,5016.17,9,Canadian Grand Prix
+LAT,16.0,80.172,2.0,HARD,7.0,1,True,Williams,True,19.0,22.7,25.735,31.737,,False,False,5096.342,9,Canadian Grand Prix
+LAT,17.0,79.952,2.0,HARD,8.0,1,True,Williams,True,19.0,22.632,25.523,31.797,,False,False,5176.294,9,Canadian Grand Prix
+LAT,18.0,79.869,2.0,HARD,9.0,1,True,Williams,True,19.0,22.56,25.533,31.776,,False,False,5256.163,9,Canadian Grand Prix
+LAT,19.0,98.027,2.0,HARD,10.0,126,False,Williams,True,17.0,22.663,33.451,41.913,,False,False,5354.19,9,Canadian Grand Prix
+LAT,20.0,89.388,2.0,HARD,11.0,671,False,Williams,True,17.0,29.989,27.705,31.694,,False,False,5443.578,9,Canadian Grand Prix
+LAT,21.0,80.283,2.0,HARD,12.0,1,True,Williams,True,18.0,22.667,25.555,32.061,,False,False,5523.861,9,Canadian Grand Prix
+LAT,22.0,80.347,2.0,HARD,13.0,1,True,Williams,True,18.0,22.904,25.704,31.739,,False,False,5604.208,9,Canadian Grand Prix
+LAT,23.0,79.941,2.0,HARD,14.0,1,True,Williams,True,18.0,22.72,25.578,31.643,,False,False,5684.149,9,Canadian Grand Prix
+LAT,24.0,79.553,2.0,HARD,15.0,1,True,Williams,True,18.0,22.643,25.405,31.505,,False,False,5763.702,9,Canadian Grand Prix
+LAT,25.0,79.629,2.0,HARD,16.0,1,True,Williams,True,18.0,22.49,25.438,31.701,,False,False,5843.331,9,Canadian Grand Prix
+LAT,26.0,79.806,2.0,HARD,17.0,1,True,Williams,True,18.0,22.657,25.559,31.59,,False,False,5923.137,9,Canadian Grand Prix
+LAT,27.0,79.796,2.0,HARD,18.0,1,True,Williams,True,18.0,22.734,25.423,31.639,,False,False,6002.933,9,Canadian Grand Prix
+LAT,28.0,79.897,2.0,HARD,19.0,1,True,Williams,True,18.0,22.841,25.371,31.685,,False,False,6082.83,9,Canadian Grand Prix
+LAT,29.0,80.247,2.0,HARD,20.0,1,True,Williams,True,18.0,22.761,25.527,31.959,,False,False,6163.077,9,Canadian Grand Prix
+LAT,30.0,81.537,2.0,HARD,21.0,1,True,Williams,True,18.0,22.777,26.52,32.24,,False,False,6244.614,9,Canadian Grand Prix
+LAT,31.0,80.673,2.0,HARD,22.0,1,True,Williams,True,18.0,22.997,25.658,32.018,,False,False,6325.287,9,Canadian Grand Prix
+LAT,32.0,80.264,2.0,HARD,23.0,1,True,Williams,True,18.0,22.812,25.644,31.808,,False,False,6405.551,9,Canadian Grand Prix
+LAT,33.0,81.802,2.0,HARD,24.0,1,True,Williams,True,18.0,24.39,25.579,31.833,,False,False,6487.353,9,Canadian Grand Prix
+LAT,34.0,80.124,2.0,HARD,25.0,1,True,Williams,True,18.0,22.863,25.544,31.717,,False,False,6567.477,9,Canadian Grand Prix
+LAT,35.0,82.06,2.0,HARD,26.0,1,True,Williams,True,18.0,22.746,25.674,33.64,,False,False,6649.537,9,Canadian Grand Prix
+LAT,36.0,80.185,2.0,HARD,27.0,1,True,Williams,True,18.0,22.94,25.532,31.713,,False,False,6729.722,9,Canadian Grand Prix
+LAT,37.0,101.659,2.0,HARD,28.0,1,False,Williams,True,18.0,22.535,25.478,53.646,,True,False,6831.381,9,Canadian Grand Prix
+LAT,38.0,86.728,3.0,HARD,1.0,1,False,Williams,True,18.0,28.972,26.108,31.648,,False,True,6918.109,9,Canadian Grand Prix
+LAT,39.0,79.052,3.0,HARD,2.0,1,True,Williams,True,18.0,22.664,25.174,31.214,,False,False,6997.161,9,Canadian Grand Prix
+LAT,40.0,78.779,3.0,HARD,3.0,1,True,Williams,True,18.0,22.286,25.258,31.235,,False,False,7075.94,9,Canadian Grand Prix
+LAT,41.0,78.738,3.0,HARD,4.0,1,True,Williams,True,18.0,22.232,25.175,31.331,,False,False,7154.678,9,Canadian Grand Prix
+LAT,42.0,79.142,3.0,HARD,5.0,1,True,Williams,True,18.0,22.398,25.398,31.346,,False,False,7233.82,9,Canadian Grand Prix
+LAT,43.0,79.242,3.0,HARD,6.0,1,True,Williams,True,18.0,22.502,25.276,31.464,,False,False,7313.062,9,Canadian Grand Prix
+LAT,44.0,78.899,3.0,HARD,7.0,1,True,Williams,True,18.0,22.338,25.193,31.368,,False,False,7391.961,9,Canadian Grand Prix
+LAT,45.0,79.122,3.0,HARD,8.0,1,True,Williams,True,18.0,22.505,25.349,31.268,,False,False,7471.083,9,Canadian Grand Prix
+LAT,46.0,78.928,3.0,HARD,9.0,1,True,Williams,True,18.0,22.321,25.257,31.35,,False,False,7550.011,9,Canadian Grand Prix
+LAT,47.0,81.585,3.0,HARD,10.0,12,True,Williams,True,18.0,22.509,25.586,33.49,,False,False,7631.596,9,Canadian Grand Prix
+LAT,48.0,107.404,3.0,HARD,11.0,24,False,Williams,True,17.0,31.94,34.716,40.748,,False,False,7739.0,9,Canadian Grand Prix
+LAT,49.0,108.482,3.0,HARD,12.0,4,False,Williams,True,17.0,35.151,32.582,40.749,,False,False,7847.482,9,Canadian Grand Prix
+LAT,50.0,84.575,3.0,HARD,13.0,4,False,Williams,True,17.0,25.187,26.859,32.529,,False,False,7932.057,9,Canadian Grand Prix
+LAT,51.0,113.29,3.0,HARD,14.0,4,False,Williams,True,17.0,24.083,39.283,49.924,,False,False,8045.347,9,Canadian Grand Prix
+LAT,52.0,86.995,3.0,HARD,15.0,4,False,Williams,True,17.0,26.848,28.272,31.875,,False,False,8132.342,9,Canadian Grand Prix
+LAT,53.0,80.65,3.0,HARD,16.0,4,False,Williams,True,17.0,22.888,26.013,31.749,,False,False,8212.992,9,Canadian Grand Prix
+LAT,54.0,91.819,3.0,HARD,17.0,41,False,Williams,True,17.0,22.582,25.533,43.704,,False,False,8304.811,9,Canadian Grand Prix
+LAT,55.0,80.631,3.0,HARD,18.0,1,True,Williams,True,17.0,23.195,25.807,31.629,,False,False,8385.442,9,Canadian Grand Prix
+LAT,56.0,80.07,3.0,HARD,19.0,1,True,Williams,True,17.0,22.84,25.563,31.667,,False,False,8465.512,9,Canadian Grand Prix
+LAT,57.0,80.057,3.0,HARD,20.0,1,True,Williams,True,17.0,22.771,25.772,31.514,,False,False,8545.569,9,Canadian Grand Prix
+LAT,58.0,79.926,3.0,HARD,21.0,1,True,Williams,True,17.0,22.856,25.509,31.561,,False,False,8625.495,9,Canadian Grand Prix
+LAT,59.0,79.477,3.0,HARD,22.0,1,True,Williams,True,16.0,22.975,25.393,31.109,,False,False,8704.972,9,Canadian Grand Prix
+LAT,60.0,79.514,3.0,HARD,23.0,1,True,Williams,True,16.0,22.49,25.253,31.771,,False,False,8784.486,9,Canadian Grand Prix
+LAT,61.0,78.54,3.0,HARD,24.0,1,True,Williams,True,16.0,22.346,24.991,31.203,,False,False,8863.026,9,Canadian Grand Prix
+LAT,62.0,79.143,3.0,HARD,25.0,1,True,Williams,True,16.0,22.58,25.197,31.366,,False,False,8942.169,9,Canadian Grand Prix
+LAT,63.0,79.066,3.0,HARD,26.0,1,True,Williams,True,16.0,22.514,25.241,31.311,,False,False,9021.235,9,Canadian Grand Prix
+LAT,64.0,78.823,3.0,HARD,27.0,1,True,Williams,True,16.0,22.424,25.224,31.175,,False,False,9100.058,9,Canadian Grand Prix
+LAT,65.0,79.143,3.0,HARD,28.0,1,True,Williams,True,16.0,22.524,25.259,31.36,,False,False,9179.201,9,Canadian Grand Prix
+LAT,66.0,79.156,3.0,HARD,29.0,1,True,Williams,True,16.0,22.504,25.381,31.271,,False,False,9258.357,9,Canadian Grand Prix
+LAT,67.0,79.159,3.0,HARD,30.0,1,True,Williams,True,16.0,22.426,25.279,31.454,,False,False,9337.516,9,Canadian Grand Prix
+LAT,68.0,79.249,3.0,HARD,31.0,1,True,Williams,True,16.0,22.478,25.344,31.427,,False,False,9416.765,9,Canadian Grand Prix
+LAT,69.0,79.483,3.0,HARD,32.0,1,True,Williams,True,16.0,22.66,25.435,31.388,,False,False,9496.248,9,Canadian Grand Prix
+LAT,70.0,79.476,3.0,HARD,33.0,1,True,Williams,True,16.0,22.559,25.295,31.622,,False,False,9575.724,9,Canadian Grand Prix
+RUS,1.0,88.761,1.0,MEDIUM,1.0,1,False,Mercedes,True,7.0,,26.727,31.801,,False,False,3822.75,9,Canadian Grand Prix
+RUS,2.0,80.352,1.0,MEDIUM,2.0,1,True,Mercedes,True,7.0,22.881,25.669,31.802,,False,False,3903.102,9,Canadian Grand Prix
+RUS,3.0,79.238,1.0,MEDIUM,3.0,1,True,Mercedes,True,6.0,22.543,25.283,31.412,,False,False,3982.34,9,Canadian Grand Prix
+RUS,4.0,79.154,1.0,MEDIUM,4.0,1,True,Mercedes,True,6.0,22.257,25.277,31.62,,False,False,4061.494,9,Canadian Grand Prix
+RUS,5.0,78.867,1.0,MEDIUM,5.0,1,True,Mercedes,True,5.0,22.132,25.174,31.561,,False,False,4140.361,9,Canadian Grand Prix
+RUS,6.0,79.419,1.0,MEDIUM,6.0,1,True,Mercedes,True,5.0,22.574,25.21,31.635,,False,False,4219.78,9,Canadian Grand Prix
+RUS,7.0,78.53,1.0,MEDIUM,7.0,1,True,Mercedes,True,5.0,22.069,25.045,31.416,,False,False,4298.31,9,Canadian Grand Prix
+RUS,8.0,78.987,1.0,MEDIUM,8.0,12,True,Mercedes,True,5.0,22.019,24.962,32.006,,False,False,4377.297,9,Canadian Grand Prix
+RUS,9.0,104.714,1.0,MEDIUM,9.0,26,False,Mercedes,True,4.0,26.478,35.992,42.244,,False,False,4482.011,9,Canadian Grand Prix
+RUS,10.0,104.903,1.0,MEDIUM,10.0,671,False,Mercedes,True,4.0,30.869,36.407,37.627,,False,False,4586.914,9,Canadian Grand Prix
+RUS,11.0,78.951,1.0,MEDIUM,11.0,1,True,Mercedes,True,4.0,22.092,25.237,31.622,,False,False,4665.865,9,Canadian Grand Prix
+RUS,12.0,78.261,1.0,MEDIUM,12.0,1,True,Mercedes,True,4.0,21.831,25.18,31.25,,False,False,4744.126,9,Canadian Grand Prix
+RUS,13.0,78.052,1.0,MEDIUM,13.0,1,True,Mercedes,True,4.0,21.833,24.86,31.359,,False,False,4822.178,9,Canadian Grand Prix
+RUS,14.0,77.773,1.0,MEDIUM,14.0,1,True,Mercedes,True,4.0,21.648,24.756,31.369,,False,False,4899.951,9,Canadian Grand Prix
+RUS,15.0,78.125,1.0,MEDIUM,15.0,1,True,Mercedes,True,4.0,21.656,24.933,31.536,,False,False,4978.076,9,Canadian Grand Prix
+RUS,16.0,78.019,1.0,MEDIUM,16.0,1,True,Mercedes,True,4.0,21.752,24.921,31.346,,False,False,5056.095,9,Canadian Grand Prix
+RUS,17.0,78.152,1.0,MEDIUM,17.0,1,True,Mercedes,True,4.0,21.745,25.007,31.4,,False,False,5134.247,9,Canadian Grand Prix
+RUS,18.0,77.873,1.0,MEDIUM,18.0,1,True,Mercedes,True,4.0,21.68,24.842,31.351,,False,False,5212.12,9,Canadian Grand Prix
+RUS,19.0,94.337,1.0,MEDIUM,19.0,126,False,Mercedes,True,5.0,21.773,25.024,47.54,,True,False,5306.457,9,Canadian Grand Prix
+RUS,20.0,102.984,2.0,HARD,1.0,671,False,Mercedes,True,5.0,29.275,37.872,35.837,,False,True,5409.441,9,Canadian Grand Prix
+RUS,21.0,78.708,2.0,HARD,2.0,1,True,Mercedes,True,5.0,22.159,25.224,31.325,,False,False,5488.149,9,Canadian Grand Prix
+RUS,22.0,78.52,2.0,HARD,3.0,1,True,Mercedes,True,5.0,22.041,25.169,31.31,,False,False,5566.669,9,Canadian Grand Prix
+RUS,23.0,78.129,2.0,HARD,4.0,1,True,Mercedes,True,5.0,21.698,25.063,31.368,,False,False,5644.798,9,Canadian Grand Prix
+RUS,24.0,77.735,2.0,HARD,5.0,1,True,Mercedes,True,5.0,21.61,24.83,31.295,,False,False,5722.533,9,Canadian Grand Prix
+RUS,25.0,77.795,2.0,HARD,6.0,1,True,Mercedes,True,5.0,21.615,24.828,31.352,,False,False,5800.328,9,Canadian Grand Prix
+RUS,26.0,77.895,2.0,HARD,7.0,1,True,Mercedes,True,5.0,21.652,24.828,31.415,,False,False,5878.223,9,Canadian Grand Prix
+RUS,27.0,78.234,2.0,HARD,8.0,1,True,Mercedes,True,5.0,21.848,24.921,31.465,,False,False,5956.457,9,Canadian Grand Prix
+RUS,28.0,78.137,2.0,HARD,9.0,1,True,Mercedes,True,4.0,21.821,24.9,31.416,,False,False,6034.594,9,Canadian Grand Prix
+RUS,29.0,77.955,2.0,HARD,10.0,1,True,Mercedes,True,4.0,21.692,24.882,31.381,,False,False,6112.549,9,Canadian Grand Prix
+RUS,30.0,77.955,2.0,HARD,11.0,1,True,Mercedes,True,4.0,21.628,25.008,31.319,,False,False,6190.504,9,Canadian Grand Prix
+RUS,31.0,78.398,2.0,HARD,12.0,1,True,Mercedes,True,4.0,21.86,24.973,31.565,,False,False,6268.902,9,Canadian Grand Prix
+RUS,32.0,77.915,2.0,HARD,13.0,1,True,Mercedes,True,4.0,21.726,24.755,31.434,,False,False,6346.817,9,Canadian Grand Prix
+RUS,33.0,77.891,2.0,HARD,14.0,1,True,Mercedes,True,4.0,21.647,24.851,31.393,,False,False,6424.708,9,Canadian Grand Prix
+RUS,34.0,77.945,2.0,HARD,15.0,1,True,Mercedes,True,4.0,21.625,24.806,31.514,,False,False,6502.653,9,Canadian Grand Prix
+RUS,35.0,77.836,2.0,HARD,16.0,1,True,Mercedes,True,4.0,21.649,24.756,31.431,,False,False,6580.489,9,Canadian Grand Prix
+RUS,36.0,77.671,2.0,HARD,17.0,1,True,Mercedes,True,4.0,21.503,24.736,31.432,,False,False,6658.16,9,Canadian Grand Prix
+RUS,37.0,77.649,2.0,HARD,18.0,1,True,Mercedes,True,4.0,21.601,24.761,31.287,,False,False,6735.809,9,Canadian Grand Prix
+RUS,38.0,77.565,2.0,HARD,19.0,1,True,Mercedes,True,4.0,21.486,24.793,31.286,,False,False,6813.374,9,Canadian Grand Prix
+RUS,39.0,77.786,2.0,HARD,20.0,1,True,Mercedes,True,4.0,21.603,24.815,31.368,,False,False,6891.16,9,Canadian Grand Prix
+RUS,40.0,77.4,2.0,HARD,21.0,1,True,Mercedes,True,4.0,21.576,24.632,31.192,,False,False,6968.56,9,Canadian Grand Prix
+RUS,41.0,77.389,2.0,HARD,22.0,1,True,Mercedes,True,4.0,21.382,24.742,31.265,,False,False,7045.949,9,Canadian Grand Prix
+RUS,42.0,77.968,2.0,HARD,23.0,1,True,Mercedes,True,4.0,21.757,24.877,31.334,,False,False,7123.917,9,Canadian Grand Prix
+RUS,43.0,77.676,2.0,HARD,24.0,1,True,Mercedes,True,4.0,21.486,24.691,31.499,,False,False,7201.593,9,Canadian Grand Prix
+RUS,44.0,77.709,2.0,HARD,25.0,1,True,Mercedes,True,3.0,21.604,24.713,31.392,,False,False,7279.302,9,Canadian Grand Prix
+RUS,45.0,93.94,2.0,HARD,26.0,1,False,Mercedes,True,4.0,21.704,24.744,47.492,,True,False,7373.242,9,Canadian Grand Prix
+RUS,46.0,80.579,3.0,HARD,1.0,1,False,Mercedes,True,4.0,24.155,24.99,31.434,,False,True,7453.821,9,Canadian Grand Prix
+RUS,47.0,77.284,3.0,HARD,2.0,1,True,Mercedes,True,4.0,21.452,24.68,31.152,,False,False,7531.105,9,Canadian Grand Prix
+RUS,48.0,77.056,3.0,HARD,3.0,12,True,Mercedes,True,4.0,21.437,24.563,31.056,,False,False,7608.161,9,Canadian Grand Prix
+RUS,49.0,96.724,3.0,HARD,4.0,24,False,Mercedes,True,4.0,21.788,32.165,42.771,,False,False,7704.885,9,Canadian Grand Prix
+RUS,50.0,109.147,3.0,HARD,5.0,4,False,Mercedes,True,4.0,33.171,33.784,42.192,,False,False,7814.032,9,Canadian Grand Prix
+RUS,51.0,102.764,3.0,HARD,6.0,4,False,Mercedes,True,4.0,26.935,32.001,43.828,,False,False,7916.796,9,Canadian Grand Prix
+RUS,52.0,125.748,3.0,HARD,7.0,4,False,Mercedes,True,4.0,35.525,39.99,50.233,,False,False,8042.544,9,Canadian Grand Prix
+RUS,53.0,116.346,3.0,HARD,8.0,4,False,Mercedes,True,4.0,30.807,37.809,47.73,,False,False,8158.89,9,Canadian Grand Prix
+RUS,54.0,139.907,3.0,HARD,9.0,41,False,Mercedes,True,4.0,32.701,40.082,67.124,,False,False,8298.797,9,Canadian Grand Prix
+RUS,55.0,78.629,3.0,HARD,10.0,1,True,Mercedes,True,4.0,22.288,24.977,31.364,,False,False,8377.426,9,Canadian Grand Prix
+RUS,56.0,76.899,3.0,HARD,11.0,1,True,Mercedes,True,4.0,21.374,24.415,31.11,,False,False,8454.325,9,Canadian Grand Prix
+RUS,57.0,76.793,3.0,HARD,12.0,1,True,Mercedes,True,4.0,21.255,24.529,31.009,,False,False,8531.118,9,Canadian Grand Prix
+RUS,58.0,76.854,3.0,HARD,13.0,1,True,Mercedes,True,4.0,21.305,24.497,31.052,,False,False,8607.972,9,Canadian Grand Prix
+RUS,59.0,76.882,3.0,HARD,14.0,1,True,Mercedes,True,4.0,21.332,24.496,31.054,,False,False,8684.854,9,Canadian Grand Prix
+RUS,60.0,76.655,3.0,HARD,15.0,1,True,Mercedes,True,4.0,21.377,24.361,30.917,,False,False,8761.509,9,Canadian Grand Prix
+RUS,61.0,76.672,3.0,HARD,16.0,1,True,Mercedes,True,4.0,21.338,24.373,30.961,,False,False,8838.181,9,Canadian Grand Prix
+RUS,62.0,76.865,3.0,HARD,17.0,1,True,Mercedes,True,4.0,21.345,24.486,31.034,,False,False,8915.046,9,Canadian Grand Prix
+RUS,63.0,76.418,3.0,HARD,18.0,1,True,Mercedes,True,4.0,21.177,24.332,30.909,,False,False,8991.464,9,Canadian Grand Prix
+RUS,64.0,76.468,3.0,HARD,19.0,1,True,Mercedes,True,4.0,21.18,24.28,31.008,,False,False,9067.932,9,Canadian Grand Prix
+RUS,65.0,76.487,3.0,HARD,20.0,1,True,Mercedes,True,4.0,21.218,24.217,31.052,,False,False,9144.419,9,Canadian Grand Prix
+RUS,66.0,76.648,3.0,HARD,21.0,1,True,Mercedes,True,4.0,21.295,24.368,30.985,,False,False,9221.067,9,Canadian Grand Prix
+RUS,67.0,76.578,3.0,HARD,22.0,1,True,Mercedes,True,4.0,21.119,24.366,31.093,,False,False,9297.645,9,Canadian Grand Prix
+RUS,68.0,76.88,3.0,HARD,23.0,1,True,Mercedes,True,4.0,21.287,24.434,31.159,,False,False,9374.525,9,Canadian Grand Prix
+RUS,69.0,76.749,3.0,HARD,24.0,1,True,Mercedes,True,4.0,21.099,24.469,31.181,,False,False,9451.274,9,Canadian Grand Prix
+RUS,70.0,76.785,3.0,HARD,25.0,1,True,Mercedes,True,4.0,21.407,24.274,31.104,,False,False,9528.059,9,Canadian Grand Prix
+BOT,1.0,91.719,1.0,HARD,1.0,1,False,Alfa Romeo,True,13.0,,27.221,33.325,,False,False,3825.708,9,Canadian Grand Prix
+BOT,2.0,81.92,1.0,HARD,2.0,1,True,Alfa Romeo,True,13.0,23.723,26.21,31.987,,False,False,3907.628,9,Canadian Grand Prix
+BOT,3.0,80.082,1.0,HARD,3.0,1,True,Alfa Romeo,True,13.0,22.802,25.778,31.502,,False,False,3987.71,9,Canadian Grand Prix
+BOT,4.0,79.433,1.0,HARD,4.0,1,True,Alfa Romeo,True,13.0,22.736,25.356,31.341,,False,False,4067.143,9,Canadian Grand Prix
+BOT,5.0,79.942,1.0,HARD,5.0,1,True,Alfa Romeo,True,13.0,22.816,25.493,31.633,,False,False,4147.085,9,Canadian Grand Prix
+BOT,6.0,79.262,1.0,HARD,6.0,1,True,Alfa Romeo,True,13.0,22.643,25.351,31.268,,False,False,4226.347,9,Canadian Grand Prix
+BOT,7.0,79.998,1.0,HARD,7.0,1,True,Alfa Romeo,True,12.0,22.919,25.582,31.497,,False,False,4306.345,9,Canadian Grand Prix
+BOT,8.0,79.512,1.0,HARD,8.0,12,True,Alfa Romeo,True,11.0,22.608,25.531,31.373,,False,False,4385.857,9,Canadian Grand Prix
+BOT,9.0,108.885,1.0,HARD,9.0,26,False,Alfa Romeo,True,11.0,31.239,35.44,42.206,,False,False,4494.742,9,Canadian Grand Prix
+BOT,10.0,99.626,1.0,HARD,10.0,671,False,Alfa Romeo,True,11.0,31.325,35.345,32.956,,False,False,4594.368,9,Canadian Grand Prix
+BOT,11.0,79.51,1.0,HARD,11.0,1,True,Alfa Romeo,True,11.0,22.745,25.467,31.298,,False,False,4673.878,9,Canadian Grand Prix
+BOT,12.0,79.355,1.0,HARD,12.0,1,True,Alfa Romeo,True,11.0,22.616,25.397,31.342,,False,False,4753.233,9,Canadian Grand Prix
+BOT,13.0,79.584,1.0,HARD,13.0,1,True,Alfa Romeo,True,11.0,22.506,25.313,31.765,,False,False,4832.817,9,Canadian Grand Prix
+BOT,14.0,79.661,1.0,HARD,14.0,1,True,Alfa Romeo,True,11.0,22.639,25.481,31.541,,False,False,4912.478,9,Canadian Grand Prix
+BOT,15.0,79.506,1.0,HARD,15.0,1,True,Alfa Romeo,True,11.0,22.423,25.292,31.791,,False,False,4991.984,9,Canadian Grand Prix
+BOT,16.0,80.545,1.0,HARD,16.0,1,True,Alfa Romeo,True,11.0,22.996,25.667,31.882,,False,False,5072.529,9,Canadian Grand Prix
+BOT,17.0,79.765,1.0,HARD,17.0,1,True,Alfa Romeo,True,10.0,22.9,25.295,31.57,,False,False,5152.294,9,Canadian Grand Prix
+BOT,18.0,79.258,1.0,HARD,18.0,1,True,Alfa Romeo,True,10.0,22.151,25.374,31.733,,False,False,5231.552,9,Canadian Grand Prix
+BOT,19.0,88.829,1.0,HARD,19.0,126,False,Alfa Romeo,True,6.0,22.293,25.544,40.992,,False,False,5320.381,9,Canadian Grand Prix
+BOT,20.0,100.06,1.0,HARD,20.0,671,False,Alfa Romeo,True,7.0,36.444,31.009,32.607,,False,False,5420.441,9,Canadian Grand Prix
+BOT,21.0,80.584,1.0,HARD,21.0,1,True,Alfa Romeo,True,8.0,22.544,25.568,32.472,,False,False,5501.025,9,Canadian Grand Prix
+BOT,22.0,80.11,1.0,HARD,22.0,1,True,Alfa Romeo,True,8.0,22.942,25.383,31.785,,False,False,5581.135,9,Canadian Grand Prix
+BOT,23.0,79.214,1.0,HARD,23.0,1,True,Alfa Romeo,True,8.0,22.294,25.33,31.59,,False,False,5660.349,9,Canadian Grand Prix
+BOT,24.0,78.935,1.0,HARD,24.0,1,True,Alfa Romeo,True,8.0,22.271,25.147,31.517,,False,False,5739.284,9,Canadian Grand Prix
+BOT,25.0,78.67,1.0,HARD,25.0,1,True,Alfa Romeo,True,8.0,22.058,25.125,31.487,,False,False,5817.954,9,Canadian Grand Prix
+BOT,26.0,78.744,1.0,HARD,26.0,1,True,Alfa Romeo,True,8.0,22.06,25.199,31.485,,False,False,5896.698,9,Canadian Grand Prix
+BOT,27.0,78.902,1.0,HARD,27.0,1,True,Alfa Romeo,True,8.0,22.128,25.174,31.6,,False,False,5975.6,9,Canadian Grand Prix
+BOT,28.0,78.831,1.0,HARD,28.0,1,True,Alfa Romeo,True,8.0,22.06,25.111,31.66,,False,False,6054.431,9,Canadian Grand Prix
+BOT,29.0,78.921,1.0,HARD,29.0,1,True,Alfa Romeo,True,8.0,22.25,25.034,31.637,,False,False,6133.352,9,Canadian Grand Prix
+BOT,30.0,79.042,1.0,HARD,30.0,1,True,Alfa Romeo,True,8.0,22.32,25.124,31.598,,False,False,6212.394,9,Canadian Grand Prix
+BOT,31.0,78.948,1.0,HARD,31.0,1,True,Alfa Romeo,True,8.0,22.239,25.131,31.578,,False,False,6291.342,9,Canadian Grand Prix
+BOT,32.0,78.992,1.0,HARD,32.0,1,True,Alfa Romeo,True,8.0,22.311,25.112,31.569,,False,False,6370.334,9,Canadian Grand Prix
+BOT,33.0,78.725,1.0,HARD,33.0,1,True,Alfa Romeo,True,8.0,22.146,25.094,31.485,,False,False,6449.059,9,Canadian Grand Prix
+BOT,34.0,78.86,1.0,HARD,34.0,1,True,Alfa Romeo,True,8.0,22.193,25.132,31.535,,False,False,6527.919,9,Canadian Grand Prix
+BOT,35.0,78.793,1.0,HARD,35.0,1,True,Alfa Romeo,True,8.0,22.11,25.09,31.593,,False,False,6606.712,9,Canadian Grand Prix
+BOT,36.0,79.016,1.0,HARD,36.0,1,True,Alfa Romeo,True,8.0,22.324,25.15,31.542,,False,False,6685.728,9,Canadian Grand Prix
+BOT,37.0,78.861,1.0,HARD,37.0,1,True,Alfa Romeo,True,8.0,22.219,25.062,31.58,,False,False,6764.589,9,Canadian Grand Prix
+BOT,38.0,78.732,1.0,HARD,38.0,1,True,Alfa Romeo,True,8.0,22.148,25.099,31.485,,False,False,6843.321,9,Canadian Grand Prix
+BOT,39.0,78.75,1.0,HARD,39.0,1,True,Alfa Romeo,True,8.0,22.063,25.162,31.525,,False,False,6922.071,9,Canadian Grand Prix
+BOT,40.0,78.503,1.0,HARD,40.0,1,True,Alfa Romeo,True,8.0,22.187,24.902,31.414,,False,False,7000.574,9,Canadian Grand Prix
+BOT,41.0,78.691,1.0,HARD,41.0,1,True,Alfa Romeo,True,7.0,22.09,25.064,31.537,,False,False,7079.265,9,Canadian Grand Prix
+BOT,42.0,78.815,1.0,HARD,42.0,1,True,Alfa Romeo,True,7.0,22.15,25.1,31.565,,False,False,7158.08,9,Canadian Grand Prix
+BOT,43.0,78.749,1.0,HARD,43.0,1,True,Alfa Romeo,True,7.0,22.179,25.057,31.513,,False,False,7236.829,9,Canadian Grand Prix
+BOT,44.0,78.668,1.0,HARD,44.0,1,True,Alfa Romeo,True,7.0,22.152,25.023,31.493,,False,False,7315.497,9,Canadian Grand Prix
+BOT,45.0,78.828,1.0,HARD,45.0,1,True,Alfa Romeo,True,7.0,22.136,25.155,31.537,,False,False,7394.325,9,Canadian Grand Prix
+BOT,46.0,78.489,1.0,HARD,46.0,1,True,Alfa Romeo,True,7.0,22.076,25.026,31.387,,False,False,7472.814,9,Canadian Grand Prix
+BOT,47.0,78.796,1.0,HARD,47.0,1,True,Alfa Romeo,True,7.0,22.331,25.094,31.371,,False,False,7551.61,9,Canadian Grand Prix
+BOT,48.0,79.152,1.0,HARD,48.0,12,True,Alfa Romeo,True,7.0,22.255,25.262,31.635,,False,False,7630.762,9,Canadian Grand Prix
+BOT,49.0,124.303,1.0,HARD,49.0,24,False,Alfa Romeo,True,8.0,29.941,35.403,58.959,,True,False,7755.065,9,Canadian Grand Prix
+BOT,50.0,109.499,2.0,MEDIUM,1.0,4,False,Alfa Romeo,True,8.0,31.863,35.177,42.459,,False,True,7864.564,9,Canadian Grand Prix
+BOT,51.0,89.565,2.0,MEDIUM,2.0,4,False,Alfa Romeo,True,8.0,25.923,28.741,34.901,,False,False,7954.129,9,Canadian Grand Prix
+BOT,52.0,96.8,2.0,MEDIUM,3.0,4,False,Alfa Romeo,True,8.0,25.857,28.146,42.797,,False,False,8050.929,9,Canadian Grand Prix
+BOT,53.0,113.577,2.0,MEDIUM,4.0,4,False,Alfa Romeo,True,8.0,27.74,39.276,46.561,,False,False,8164.506,9,Canadian Grand Prix
+BOT,54.0,135.927,2.0,MEDIUM,5.0,41,False,Alfa Romeo,True,8.0,32.978,39.702,63.247,,False,False,8300.433,9,Canadian Grand Prix
+BOT,55.0,79.561,2.0,MEDIUM,6.0,1,True,Alfa Romeo,True,8.0,22.705,25.511,31.345,,False,False,8379.994,9,Canadian Grand Prix
+BOT,56.0,78.145,2.0,MEDIUM,7.0,1,True,Alfa Romeo,True,8.0,22.016,24.994,31.135,,False,False,8458.139,9,Canadian Grand Prix
+BOT,57.0,77.783,2.0,MEDIUM,8.0,1,True,Alfa Romeo,True,8.0,21.943,24.848,30.992,,False,False,8535.922,9,Canadian Grand Prix
+BOT,58.0,77.359,2.0,MEDIUM,9.0,1,True,Alfa Romeo,True,8.0,21.847,24.645,30.867,,False,False,8613.281,9,Canadian Grand Prix
+BOT,59.0,77.069,2.0,MEDIUM,10.0,1,True,Alfa Romeo,True,8.0,21.663,24.621,30.785,,False,False,8690.35,9,Canadian Grand Prix
+BOT,60.0,76.927,2.0,MEDIUM,11.0,1,True,Alfa Romeo,True,8.0,21.864,24.519,30.544,,False,False,8767.277,9,Canadian Grand Prix
+BOT,61.0,77.349,2.0,MEDIUM,12.0,1,True,Alfa Romeo,True,8.0,21.91,24.83,30.609,,False,False,8844.626,9,Canadian Grand Prix
+BOT,62.0,77.431,2.0,MEDIUM,13.0,1,True,Alfa Romeo,True,8.0,21.976,24.638,30.817,,False,False,8922.057,9,Canadian Grand Prix
+BOT,63.0,76.986,2.0,MEDIUM,14.0,1,True,Alfa Romeo,True,8.0,21.749,24.619,30.618,,False,False,8999.043,9,Canadian Grand Prix
+BOT,64.0,77.054,2.0,MEDIUM,15.0,1,True,Alfa Romeo,True,8.0,21.873,24.511,30.67,,False,False,9076.097,9,Canadian Grand Prix
+BOT,65.0,77.257,2.0,MEDIUM,16.0,1,True,Alfa Romeo,True,8.0,21.843,24.703,30.711,,False,False,9153.354,9,Canadian Grand Prix
+BOT,66.0,77.246,2.0,MEDIUM,17.0,1,True,Alfa Romeo,True,8.0,21.882,24.711,30.653,,False,False,9230.6,9,Canadian Grand Prix
+BOT,67.0,77.57,2.0,MEDIUM,18.0,1,True,Alfa Romeo,True,8.0,21.946,24.602,31.022,,False,False,9308.17,9,Canadian Grand Prix
+BOT,68.0,77.557,2.0,MEDIUM,19.0,1,True,Alfa Romeo,True,8.0,22.111,24.681,30.765,,False,False,9385.727,9,Canadian Grand Prix
+BOT,69.0,77.289,2.0,MEDIUM,20.0,1,True,Alfa Romeo,True,8.0,21.888,24.599,30.802,,False,False,9463.016,9,Canadian Grand Prix
+BOT,70.0,77.977,2.0,MEDIUM,21.0,1,True,Alfa Romeo,True,8.0,21.906,24.503,31.568,,False,False,9540.993,9,Canadian Grand Prix
