@@ -1,0 +1,21 @@
+Round,EventName,raw_laps,s1_laptime_notnull,s2_lap_ge_2,s3_no_pit,s4_green,s5_accurate,s6_dry_compound_tyrelife,s7_not_slow
+1,Bahrain Grand Prix,1056,1055,1035,933,889,889,889,798
+2,Saudi Arabian Grand Prix,943,942,922,874,824,824,824,808
+3,Australian Grand Prix,1003,928,909,863,756,756,756,734
+4,Azerbaijan Grand Prix,962,961,941,894,804,804,804,793
+5,Miami Grand Prix,1138,1138,1118,1078,1078,1078,1078,1077
+7,Spanish Grand Prix,1312,1312,1292,1207,1207,1207,1207,1081
+8,Canadian Grand Prix,1317,1314,1294,1230,1074,1074,1039,1016
+9,Austrian Grand Prix,1354,1352,1332,1211,1168,1168,1168,1040
+10,British Grand Prix,971,970,950,900,802,802,802,800
+11,Hungarian Grand Prix,1252,1252,1232,1158,1140,1140,1140,1040
+12,Belgian Grand Prix,816,815,796,721,666,666,666,642
+14,Italian Grand Prix,957,948,929,878,878,878,878,877
+15,Singapore Grand Prix,1088,1083,1065,1016,838,838,838,806
+16,Japanese Grand Prix,880,878,858,778,686,686,686,653
+17,Qatar Grand Prix,1006,1005,987,879,806,806,806,660
+18,United States Grand Prix,1014,1014,994,919,912,912,912,907
+19,Mexico City Grand Prix,1282,1260,1240,1183,1070,1070,1070,1050
+20,São Paulo Grand Prix,1108,1089,1072,986,986,986,986,925
+21,Las Vegas Grand Prix,946,943,923,864,644,644,644,622
+22,Abu Dhabi Grand Prix,1157,1157,1137,1063,1063,1063,1063,1061

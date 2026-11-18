@@ -1,0 +1,789 @@
+season,round,event,team,team_pace,drivers
+2022,1,Bahrain Grand Prix,Alfa Romeo,-0.003571612645953459,2
+2022,1,Bahrain Grand Prix,AlphaTauri,0.16527420355317846,2
+2022,1,Bahrain Grand Prix,Alpine,0.18483453672117167,2
+2022,1,Bahrain Grand Prix,Aston Martin,1.173946744987623,2
+2022,1,Bahrain Grand Prix,Ferrari,-1.3298620019412055,2
+2022,1,Bahrain Grand Prix,Haas F1 Team,0.08100589273973102,2
+2022,1,Bahrain Grand Prix,McLaren,1.262074963228806,1
+2022,1,Bahrain Grand Prix,Mercedes,-0.8602812356551157,2
+2022,1,Bahrain Grand Prix,Red Bull Racing,-1.3142372686997799,2
+2022,1,Bahrain Grand Prix,Williams,1.2718532593259473,2
+2022,2,Saudi Arabian Grand Prix,Alfa Romeo,0.406388908223845,2
+2022,2,Saudi Arabian Grand Prix,AlphaTauri,0.5431774206522129,1
+2022,2,Saudi Arabian Grand Prix,Alpine,0.1619403167984491,2
+2022,2,Saudi Arabian Grand Prix,Aston Martin,1.1156346601468692,2
+2022,2,Saudi Arabian Grand Prix,Ferrari,-1.4094098528817163,2
+2022,2,Saudi Arabian Grand Prix,Haas F1 Team,0.20615214433850704,1
+2022,2,Saudi Arabian Grand Prix,McLaren,0.3966365101382746,2
+2022,2,Saudi Arabian Grand Prix,Mercedes,-0.24327714706502057,2
+2022,2,Saudi Arabian Grand Prix,Red Bull Racing,-1.4379734036673812,2
+2022,2,Saudi Arabian Grand Prix,Williams,1.270790451622643,1
+2022,3,Australian Grand Prix,Alfa Romeo,0.28964724744162496,2
+2022,3,Australian Grand Prix,AlphaTauri,0.6178605119881707,2
+2022,3,Australian Grand Prix,Alpine,0.27500038458252096,2
+2022,3,Australian Grand Prix,Aston Martin,0.8365329476950781,1
+2022,3,Australian Grand Prix,Ferrari,-1.6275119031276795,1
+2022,3,Australian Grand Prix,Haas F1 Team,0.5304191249332072,2
+2022,3,Australian Grand Prix,McLaren,-0.08787969980519927,2
+2022,3,Australian Grand Prix,Mercedes,-0.7590166489431222,2
+2022,3,Australian Grand Prix,Red Bull Racing,-1.052007804653776,2
+2022,3,Australian Grand Prix,Williams,0.5814663621728738,2
+2022,5,Miami Grand Prix,Alfa Romeo,-0.2751253839195024,1
+2022,5,Miami Grand Prix,AlphaTauri,0.4528303599522172,2
+2022,5,Miami Grand Prix,Alpine,0.38129499488229757,2
+2022,5,Miami Grand Prix,Aston Martin,0.5619864253363696,2
+2022,5,Miami Grand Prix,Ferrari,-1.2320447785435993,2
+2022,5,Miami Grand Prix,Haas F1 Team,0.3018606239489506,2
+2022,5,Miami Grand Prix,McLaren,0.29286296651812116,2
+2022,5,Miami Grand Prix,Mercedes,-0.25548698587517377,2
+2022,5,Miami Grand Prix,Red Bull Racing,-1.2523697009845924,2
+2022,5,Miami Grand Prix,Williams,0.8866287867251605,2
+2022,6,Spanish Grand Prix,Alfa Romeo,-0.3355313454093245,1
+2022,6,Spanish Grand Prix,AlphaTauri,0.3250791055453679,2
+2022,6,Spanish Grand Prix,Alpine,0.1439370176645245,2
+2022,6,Spanish Grand Prix,Aston Martin,0.5087058283565444,2
+2022,6,Spanish Grand Prix,Ferrari,-1.0260765750671548,2
+2022,6,Spanish Grand Prix,Haas F1 Team,0.3900693393353809,1
+2022,6,Spanish Grand Prix,McLaren,0.381664428906608,2
+2022,6,Spanish Grand Prix,Mercedes,-0.8971680701357723,2
+2022,6,Spanish Grand Prix,Red Bull Racing,-1.0330752402873553,2
+2022,6,Spanish Grand Prix,Williams,1.5696645080542073,2
+2022,8,Azerbaijan Grand Prix,Alfa Romeo,0.5927057435049014,1
+2022,8,Azerbaijan Grand Prix,AlphaTauri,-0.09816938741586911,2
+2022,8,Azerbaijan Grand Prix,Alpine,0.22073815600496682,2
+2022,8,Azerbaijan Grand Prix,Aston Martin,0.2351372458447048,2
+2022,8,Azerbaijan Grand Prix,Haas F1 Team,0.5158424574027631,2
+2022,8,Azerbaijan Grand Prix,McLaren,0.08697166674242643,2
+2022,8,Azerbaijan Grand Prix,Mercedes,-0.5281528560854494,2
+2022,8,Azerbaijan Grand Prix,Red Bull Racing,-1.627066215225827,2
+2022,8,Azerbaijan Grand Prix,Williams,0.8983460609798333,2
+2022,9,Canadian Grand Prix,Alfa Romeo,0.09991435125922979,2
+2022,9,Canadian Grand Prix,AlphaTauri,0.31035132917368347,2
+2022,9,Canadian Grand Prix,Alpine,-0.008612046818628483,2
+2022,9,Canadian Grand Prix,Aston Martin,0.21517520148487995,2
+2022,9,Canadian Grand Prix,Ferrari,-0.7743665591073501,2
+2022,9,Canadian Grand Prix,Haas F1 Team,0.3620560836705654,1
+2022,9,Canadian Grand Prix,McLaren,0.6398543250306208,2
+2022,9,Canadian Grand Prix,Mercedes,-0.8927664822053573,2
+2022,9,Canadian Grand Prix,Red Bull Racing,-1.3785480822277183,1
+2022,9,Canadian Grand Prix,Williams,0.9186958804614984,2
+2022,10,British Grand Prix,AlphaTauri,1.3838088644168702,1
+2022,10,British Grand Prix,Alpine,0.09112029788167486,2
+2022,10,British Grand Prix,Aston Martin,0.43781013306329974,2
+2022,10,British Grand Prix,Ferrari,-1.3113589364575111,2
+2022,10,British Grand Prix,Haas F1 Team,0.4891784069959997,2
+2022,10,British Grand Prix,McLaren,0.2073500371667211,2
+2022,10,British Grand Prix,Mercedes,-1.3049630598593298,1
+2022,10,British Grand Prix,Red Bull Racing,-0.44370426918869166,2
+2022,10,British Grand Prix,Williams,0.9803628565194747,1
+2022,11,Austrian Grand Prix,Alfa Romeo,0.14548691372407085,2
+2022,11,Austrian Grand Prix,AlphaTauri,0.4159653836807533,2
+2022,11,Austrian Grand Prix,Alpine,0.060938277608643676,2
+2022,11,Austrian Grand Prix,Aston Martin,0.3641746417451912,2
+2022,11,Austrian Grand Prix,Ferrari,-0.8041448997358236,2
+2022,11,Austrian Grand Prix,Haas F1 Team,0.11721198715014725,2
+2022,11,Austrian Grand Prix,McLaren,0.14955323533295817,2
+2022,11,Austrian Grand Prix,Mercedes,-0.2559881391906388,2
+2022,11,Austrian Grand Prix,Red Bull Racing,-0.6772065616813788,1
+2022,11,Austrian Grand Prix,Williams,0.2908117610507751,1
+2022,12,French Grand Prix,Alfa Romeo,0.7020134803049358,2
+2022,12,French Grand Prix,AlphaTauri,0.5678702887812368,1
+2022,12,French Grand Prix,Alpine,-0.041561048801216166,2
+2022,12,French Grand Prix,Aston Martin,0.2829840565022811,2
+2022,12,French Grand Prix,Ferrari,-0.7492923898565096,1
+2022,12,French Grand Prix,Haas F1 Team,0.43090823073802864,2
+2022,12,French Grand Prix,McLaren,0.2210833956434289,2
+2022,12,French Grand Prix,Mercedes,-0.993570886834286,2
+2022,12,French Grand Prix,Red Bull Racing,-1.194873669836011,2
+2022,12,French Grand Prix,Williams,0.6837274928204748,2
+2022,13,Hungarian Grand Prix,Alfa Romeo,0.23137230766888522,2
+2022,13,Hungarian Grand Prix,AlphaTauri,0.7362003893630185,2
+2022,13,Hungarian Grand Prix,Alpine,0.1959115689758979,2
+2022,13,Hungarian Grand Prix,Aston Martin,0.21045871779027284,2
+2022,13,Hungarian Grand Prix,Ferrari,-0.9213132073572571,2
+2022,13,Hungarian Grand Prix,Haas F1 Team,0.46802696687891626,2
+2022,13,Hungarian Grand Prix,McLaren,-0.037608619162320944,2
+2022,13,Hungarian Grand Prix,Mercedes,-0.8150112795041637,2
+2022,13,Hungarian Grand Prix,Red Bull Racing,-0.8751577349853771,2
+2022,13,Hungarian Grand Prix,Williams,0.8071208903321285,2
+2022,14,Belgian Grand Prix,Alfa Romeo,0.7756056632846351,1
+2022,14,Belgian Grand Prix,AlphaTauri,0.40464923852585954,2
+2022,14,Belgian Grand Prix,Alpine,-0.08153235812122833,2
+2022,14,Belgian Grand Prix,Aston Martin,0.17854424928800294,2
+2022,14,Belgian Grand Prix,Ferrari,-0.942272909698644,2
+2022,14,Belgian Grand Prix,Haas F1 Team,0.7115397823471181,2
+2022,14,Belgian Grand Prix,McLaren,0.6989558383492047,2
+2022,14,Belgian Grand Prix,Mercedes,-1.1311470554408944,1
+2022,14,Belgian Grand Prix,Red Bull Racing,-1.5605417572124756,2
+2022,14,Belgian Grand Prix,Williams,0.7684286126002928,2
+2022,15,Dutch Grand Prix,Alfa Romeo,0.6055656931292372,2
+2022,15,Dutch Grand Prix,AlphaTauri,0.24148064211014547,2
+2022,15,Dutch Grand Prix,Alpine,-0.05629124245443329,2
+2022,15,Dutch Grand Prix,Aston Martin,0.14191411561993905,2
+2022,15,Dutch Grand Prix,Ferrari,-0.5897822638716773,2
+2022,15,Dutch Grand Prix,Haas F1 Team,0.38754021745857625,2
+2022,15,Dutch Grand Prix,McLaren,0.2805893866676304,2
+2022,15,Dutch Grand Prix,Mercedes,-0.95105279308747,2
+2022,15,Dutch Grand Prix,Red Bull Racing,-0.8770343457180168,2
+2022,15,Dutch Grand Prix,Williams,0.8170705901460691,2
+2022,16,Italian Grand Prix,Alfa Romeo,0.3921835640762271,2
+2022,16,Italian Grand Prix,AlphaTauri,0.27806499964767617,2
+2022,16,Italian Grand Prix,Alpine,0.3410625074412702,2
+2022,16,Italian Grand Prix,Aston Martin,0.728839261862486,1
+2022,16,Italian Grand Prix,Ferrari,-0.9312923714975028,2
+2022,16,Italian Grand Prix,Haas F1 Team,0.6926663989930439,2
+2022,16,Italian Grand Prix,McLaren,0.03058718079886938,2
+2022,16,Italian Grand Prix,Mercedes,-0.4931755260465338,2
+2022,16,Italian Grand Prix,Red Bull Racing,-1.1568763538620819,2
+2022,16,Italian Grand Prix,Williams,0.48235996951778837,2
+2022,19,United States Grand Prix,Alfa Romeo,0.7907550161656517,1
+2022,19,United States Grand Prix,AlphaTauri,0.3865441965631054,2
+2022,19,United States Grand Prix,Alpine,0.3302307197859283,2
+2022,19,United States Grand Prix,Aston Martin,-0.07140124161448025,1
+2022,19,United States Grand Prix,Ferrari,-0.9853047254943359,1
+2022,19,United States Grand Prix,Haas F1 Team,0.6276033605076659,2
+2022,19,United States Grand Prix,McLaren,0.5085297092831083,2
+2022,19,United States Grand Prix,Mercedes,-1.2208055196220178,2
+2022,19,United States Grand Prix,Red Bull Racing,-1.4177460269009838,2
+2022,19,United States Grand Prix,Williams,0.9186190358547757,2
+2022,20,Mexico City Grand Prix,Alfa Romeo,0.38776842650330995,2
+2022,20,Mexico City Grand Prix,AlphaTauri,0.3554296812291,2
+2022,20,Mexico City Grand Prix,Alpine,0.07716580578595056,2
+2022,20,Mexico City Grand Prix,Aston Martin,0.5038964412781806,2
+2022,20,Mexico City Grand Prix,Ferrari,-0.42273188806032314,2
+2022,20,Mexico City Grand Prix,Haas F1 Team,0.6048794311683511,2
+2022,20,Mexico City Grand Prix,McLaren,0.1329517610962953,2
+2022,20,Mexico City Grand Prix,Mercedes,-1.2549013244629288,2
+2022,20,Mexico City Grand Prix,Red Bull Racing,-1.1668493352472191,2
+2022,20,Mexico City Grand Prix,Williams,0.7823910007092838,2
+2022,21,São Paulo Grand Prix,Alfa Romeo,0.3537169307944089,2
+2022,21,São Paulo Grand Prix,AlphaTauri,0.5841059023276387,2
+2022,21,São Paulo Grand Prix,Alpine,-0.12181796418450452,2
+2022,21,São Paulo Grand Prix,Aston Martin,0.1833333445322401,2
+2022,21,São Paulo Grand Prix,Ferrari,-0.6535973521204357,2
+2022,21,São Paulo Grand Prix,Haas F1 Team,0.5129535348590932,1
+2022,21,São Paulo Grand Prix,McLaren,0.33498961436902724,1
+2022,21,São Paulo Grand Prix,Mercedes,-0.9855589872557531,2
+2022,21,São Paulo Grand Prix,Red Bull Racing,-0.6065648677044004,2
+2022,21,São Paulo Grand Prix,Williams,0.8224114189967457,2
+2022,22,Abu Dhabi Grand Prix,Alfa Romeo,0.5944207581398453,2
+2022,22,Abu Dhabi Grand Prix,AlphaTauri,0.3354838977881782,2
+2022,22,Abu Dhabi Grand Prix,Alpine,-0.042272994885985904,2
+2022,22,Abu Dhabi Grand Prix,Aston Martin,0.09856663655011189,2
+2022,22,Abu Dhabi Grand Prix,Ferrari,-0.8566601985852332,2
+2022,22,Abu Dhabi Grand Prix,Haas F1 Team,0.8734356393371343,2
+2022,22,Abu Dhabi Grand Prix,McLaren,-0.018643453692162304,2
+2022,22,Abu Dhabi Grand Prix,Mercedes,-0.7304628664679444,2
+2022,22,Abu Dhabi Grand Prix,Red Bull Racing,-1.039638337925336,2
+2022,22,Abu Dhabi Grand Prix,Williams,0.7857709197413911,2
+2023,1,Bahrain Grand Prix,Alfa Romeo,0.22009447396466572,2
+2023,1,Bahrain Grand Prix,AlphaTauri,0.4614787975050556,2
+2023,1,Bahrain Grand Prix,Alpine,0.12770920891903492,2
+2023,1,Bahrain Grand Prix,Aston Martin,-0.34885741740888876,2
+2023,1,Bahrain Grand Prix,Ferrari,-0.32283004430378653,2
+2023,1,Bahrain Grand Prix,Haas F1 Team,0.5094837464033795,2
+2023,1,Bahrain Grand Prix,McLaren,0.021774449457963807,1
+2023,1,Bahrain Grand Prix,Mercedes,-0.21664266484011546,2
+2023,1,Bahrain Grand Prix,Red Bull Racing,-0.999985893844033,2
+2023,1,Bahrain Grand Prix,Williams,0.5586625688757054,2
+2023,2,Saudi Arabian Grand Prix,Alfa Romeo,0.6798947099871289,2
+2023,2,Saudi Arabian Grand Prix,AlphaTauri,0.5740913028366673,2
+2023,2,Saudi Arabian Grand Prix,Alpine,0.05520291517840892,2
+2023,2,Saudi Arabian Grand Prix,Aston Martin,-1.0055374129371573,1
+2023,2,Saudi Arabian Grand Prix,Ferrari,-0.34250136969473677,2
+2023,2,Saudi Arabian Grand Prix,Haas F1 Team,0.424163747149811,2
+2023,2,Saudi Arabian Grand Prix,McLaren,0.6662996401887747,2
+2023,2,Saudi Arabian Grand Prix,Mercedes,-0.6115667554526121,2
+2023,2,Saudi Arabian Grand Prix,Red Bull Racing,-1.3867933140502862,2
+2023,2,Saudi Arabian Grand Prix,Williams,0.8879556606508443,1
+2023,3,Australian Grand Prix,Alfa Romeo,0.7516124202256238,2
+2023,3,Australian Grand Prix,AlphaTauri,0.6872700743352155,2
+2023,3,Australian Grand Prix,Alpine,-0.21843325520850643,2
+2023,3,Australian Grand Prix,Aston Martin,-0.4972844808041157,2
+2023,3,Australian Grand Prix,Ferrari,-0.6024898299238726,1
+2023,3,Australian Grand Prix,Haas F1 Team,0.18059569907542317,2
+2023,3,Australian Grand Prix,McLaren,0.019239367609305003,2
+2023,3,Australian Grand Prix,Mercedes,-0.5858769114604212,1
+2023,3,Australian Grand Prix,Red Bull Racing,-0.6601632259564805,2
+2023,3,Australian Grand Prix,Williams,0.6626935428313641,1
+2023,4,Azerbaijan Grand Prix,Alfa Romeo,1.0234363671094266,2
+2023,4,Azerbaijan Grand Prix,AlphaTauri,0.40236760147298545,1
+2023,4,Azerbaijan Grand Prix,Alpine,0.26615018615587216,2
+2023,4,Azerbaijan Grand Prix,Aston Martin,-0.5838496590773647,2
+2023,4,Azerbaijan Grand Prix,Ferrari,-0.6672664776714274,2
+2023,4,Azerbaijan Grand Prix,Haas F1 Team,0.5161433654096959,2
+2023,4,Azerbaijan Grand Prix,McLaren,0.3893147542500274,2
+2023,4,Azerbaijan Grand Prix,Mercedes,-0.33511389382488155,2
+2023,4,Azerbaijan Grand Prix,Red Bull Racing,-1.455911629049171,2
+2023,4,Azerbaijan Grand Prix,Williams,0.64591318596133,2
+2023,5,Miami Grand Prix,Alfa Romeo,0.28975737966294746,2
+2023,5,Miami Grand Prix,AlphaTauri,0.25069509097873777,2
+2023,5,Miami Grand Prix,Alpine,0.016194889868242537,2
+2023,5,Miami Grand Prix,Aston Martin,-0.21182600895466563,2
+2023,5,Miami Grand Prix,Ferrari,-0.15226023696453234,2
+2023,5,Miami Grand Prix,Haas F1 Team,0.19056577889937484,2
+2023,5,Miami Grand Prix,McLaren,0.473092112468971,2
+2023,5,Miami Grand Prix,Mercedes,-0.2503821443266251,2
+2023,5,Miami Grand Prix,Red Bull Racing,-0.9504046523816627,2
+2023,5,Miami Grand Prix,Williams,0.3445677907492119,2
+2023,7,Spanish Grand Prix,Alfa Romeo,0.3429121027135276,2
+2023,7,Spanish Grand Prix,AlphaTauri,0.12022142016917595,2
+2023,7,Spanish Grand Prix,Alpine,0.08464946516306152,2
+2023,7,Spanish Grand Prix,Aston Martin,-0.0013159121206150204,2
+2023,7,Spanish Grand Prix,Ferrari,-0.29411574822359615,2
+2023,7,Spanish Grand Prix,Haas F1 Team,0.1815199389902738,2
+2023,7,Spanish Grand Prix,McLaren,0.16379750188254505,2
+2023,7,Spanish Grand Prix,Mercedes,-0.5597257846305288,2
+2023,7,Spanish Grand Prix,Red Bull Racing,-0.6087405176893372,2
+2023,7,Spanish Grand Prix,Williams,0.5707975337454928,2
+2023,8,Canadian Grand Prix,Alfa Romeo,0.4120373034268996,2
+2023,8,Canadian Grand Prix,AlphaTauri,0.3897830212912622,2
+2023,8,Canadian Grand Prix,Alpine,0.12228402017659584,2
+2023,8,Canadian Grand Prix,Aston Martin,-0.30696642334112934,2
+2023,8,Canadian Grand Prix,Ferrari,-0.5496766654716281,2
+2023,8,Canadian Grand Prix,Haas F1 Team,0.5788053681077746,2
+2023,8,Canadian Grand Prix,McLaren,0.20176162228286548,2
+2023,8,Canadian Grand Prix,Mercedes,-0.3013698154130704,2
+2023,8,Canadian Grand Prix,Red Bull Racing,-0.6006715530684616,2
+2023,8,Canadian Grand Prix,Williams,0.10802624401778367,1
+2023,9,Austrian Grand Prix,Alfa Romeo,0.3127121816957171,2
+2023,9,Austrian Grand Prix,AlphaTauri,0.5140998353071332,2
+2023,9,Austrian Grand Prix,Alpine,0.13700338756472996,2
+2023,9,Austrian Grand Prix,Aston Martin,-0.16306388804382543,2
+2023,9,Austrian Grand Prix,Ferrari,-0.5291623012089032,2
+2023,9,Austrian Grand Prix,Haas F1 Team,0.49250779205191686,1
+2023,9,Austrian Grand Prix,McLaren,0.0848924898804076,2
+2023,9,Austrian Grand Prix,Mercedes,-0.09153815279173028,2
+2023,9,Austrian Grand Prix,Red Bull Racing,-0.7743095401020111,2
+2023,9,Austrian Grand Prix,Williams,0.2631120916725236,2
+2023,10,British Grand Prix,Alfa Romeo,0.5158242222563543,2
+2023,10,British Grand Prix,AlphaTauri,0.5495916293246683,2
+2023,10,British Grand Prix,Alpine,-0.009531606886630822,1
+2023,10,British Grand Prix,Aston Martin,0.07669065217174661,2
+2023,10,British Grand Prix,Ferrari,-0.18929803859237232,2
+2023,10,British Grand Prix,Haas F1 Team,0.5994002990999004,2
+2023,10,British Grand Prix,McLaren,-0.6349250558897285,2
+2023,10,British Grand Prix,Mercedes,-0.46267974357984065,2
+2023,10,British Grand Prix,Red Bull Racing,-0.6174505460618758,2
+2023,10,British Grand Prix,Williams,0.167612384714463,2
+2023,11,Hungarian Grand Prix,Alfa Romeo,0.2804687049293218,2
+2023,11,Hungarian Grand Prix,AlphaTauri,0.36835224730345506,2
+2023,11,Hungarian Grand Prix,Aston Martin,-0.1347420171439058,2
+2023,11,Hungarian Grand Prix,Ferrari,-0.1962939140780403,2
+2023,11,Hungarian Grand Prix,Haas F1 Team,0.6318539489118498,2
+2023,11,Hungarian Grand Prix,McLaren,-0.24446157208972297,2
+2023,11,Hungarian Grand Prix,Mercedes,-0.3145922317680141,2
+2023,11,Hungarian Grand Prix,Red Bull Racing,-0.8166095240728334,2
+2023,11,Hungarian Grand Prix,Williams,0.42602435800788974,2
+2023,12,Belgian Grand Prix,Alfa Romeo,0.3267989975931961,2
+2023,12,Belgian Grand Prix,AlphaTauri,0.16860120870528778,2
+2023,12,Belgian Grand Prix,Alpine,-0.002958046944774362,2
+2023,12,Belgian Grand Prix,Aston Martin,-0.1992815576161167,2
+2023,12,Belgian Grand Prix,Ferrari,-0.386533476351942,1
+2023,12,Belgian Grand Prix,Haas F1 Team,0.654854974145115,2
+2023,12,Belgian Grand Prix,McLaren,-0.38613647218471014,1
+2023,12,Belgian Grand Prix,Mercedes,-0.39219698546773374,2
+2023,12,Belgian Grand Prix,Red Bull Racing,-0.9045002617940343,2
+2023,12,Belgian Grand Prix,Williams,0.735016645647386,2
+2023,14,Italian Grand Prix,Alfa Romeo,0.29054678646877263,2
+2023,14,Italian Grand Prix,AlphaTauri,0.12776597543178847,1
+2023,14,Italian Grand Prix,Alpine,0.5230218894491058,2
+2023,14,Italian Grand Prix,Aston Martin,0.21107994866416468,2
+2023,14,Italian Grand Prix,Ferrari,-0.544895822038929,2
+2023,14,Italian Grand Prix,Haas F1 Team,0.5514842833826963,2
+2023,14,Italian Grand Prix,McLaren,-0.04558065480194873,2
+2023,14,Italian Grand Prix,Mercedes,-0.3615967585236316,2
+2023,14,Italian Grand Prix,Red Bull Racing,-0.6912841560741123,2
+2023,14,Italian Grand Prix,Williams,0.003341495757988061,2
+2023,15,Singapore Grand Prix,Alfa Romeo,0.37098854979804746,2
+2023,15,Singapore Grand Prix,AlphaTauri,0.5300239706354164,1
+2023,15,Singapore Grand Prix,Alpine,0.13672341112040803,2
+2023,15,Singapore Grand Prix,Aston Martin,0.12297197352275152,1
+2023,15,Singapore Grand Prix,Ferrari,-0.49550527370818453,2
+2023,15,Singapore Grand Prix,Haas F1 Team,0.6144373410856495,2
+2023,15,Singapore Grand Prix,McLaren,-0.22835386631061594,2
+2023,15,Singapore Grand Prix,Mercedes,-0.619937901730481,2
+2023,15,Singapore Grand Prix,Red Bull Racing,-0.39497651786137633,2
+2023,15,Singapore Grand Prix,Williams,0.2901262855274691,2
+2023,16,Japanese Grand Prix,Alfa Romeo,0.6506950966624712,1
+2023,16,Japanese Grand Prix,AlphaTauri,0.5890313403490066,2
+2023,16,Japanese Grand Prix,Alpine,0.19378080611438664,2
+2023,16,Japanese Grand Prix,Aston Martin,-0.07269741342698977,1
+2023,16,Japanese Grand Prix,Ferrari,-0.22744547506301727,2
+2023,16,Japanese Grand Prix,Haas F1 Team,0.619669156027753,2
+2023,16,Japanese Grand Prix,McLaren,-0.6601066783973795,2
+2023,16,Japanese Grand Prix,Mercedes,-0.17270851437984502,2
+2023,16,Japanese Grand Prix,Red Bull Racing,-1.2624389525372908,1
+2023,17,Qatar Grand Prix,Alfa Romeo,0.2737032961437269,2
+2023,17,Qatar Grand Prix,AlphaTauri,0.9521914656220618,2
+2023,17,Qatar Grand Prix,Alpine,0.025129381853517596,2
+2023,17,Qatar Grand Prix,Aston Martin,-0.007076891510454986,2
+2023,17,Qatar Grand Prix,Ferrari,-0.4408371036617329,1
+2023,17,Qatar Grand Prix,Haas F1 Team,0.6280051357828009,2
+2023,17,Qatar Grand Prix,McLaren,-1.0879605437650877,2
+2023,17,Qatar Grand Prix,Mercedes,-0.8262566028758616,1
+2023,17,Qatar Grand Prix,Red Bull Racing,-0.6856669957436176,2
+2023,17,Qatar Grand Prix,Williams,0.53522200488585,2
+2023,18,United States Grand Prix,Alfa Romeo,0.6220199493304676,2
+2023,18,United States Grand Prix,AlphaTauri,0.4881976392341457,2
+2023,18,United States Grand Prix,Alpine,0.009041958454374222,1
+2023,18,United States Grand Prix,Aston Martin,-0.07627861053565316,2
+2023,18,United States Grand Prix,Ferrari,-0.49181350968359117,2
+2023,18,United States Grand Prix,Haas F1 Team,0.6504987831303346,2
+2023,18,United States Grand Prix,McLaren,-0.6461837731804179,1
+2023,18,United States Grand Prix,Mercedes,-0.6065201251768945,2
+2023,18,United States Grand Prix,Red Bull Racing,-0.6819355661640311,2
+2023,18,United States Grand Prix,Williams,0.4144023472282439,2
+2023,19,Mexico City Grand Prix,Alfa Romeo,0.4383907610632277,2
+2023,19,Mexico City Grand Prix,AlphaTauri,-0.16616904179495712,2
+2023,19,Mexico City Grand Prix,Alpine,0.39549865641143866,2
+2023,19,Mexico City Grand Prix,Aston Martin,0.5515427044577823,2
+2023,19,Mexico City Grand Prix,Ferrari,-0.7062636564415433,2
+2023,19,Mexico City Grand Prix,Haas F1 Team,0.5359362526474621,2
+2023,19,Mexico City Grand Prix,McLaren,-0.33631753188849406,2
+2023,19,Mexico City Grand Prix,Mercedes,-0.537355327459282,2
+2023,19,Mexico City Grand Prix,Red Bull Racing,-1.1569389835392736,1
+2023,19,Mexico City Grand Prix,Williams,0.4032066747740022,2
+2023,20,São Paulo Grand Prix,Alfa Romeo,0.36201232256810784,1
+2023,20,São Paulo Grand Prix,AlphaTauri,-0.00827879552242039,2
+2023,20,São Paulo Grand Prix,Alpine,0.176446745625997,2
+2023,20,São Paulo Grand Prix,Aston Martin,-0.22123294464874543,2
+2023,20,São Paulo Grand Prix,Ferrari,-0.07293855885640471,1
+2023,20,São Paulo Grand Prix,Haas F1 Team,0.48494711389888506,1
+2023,20,São Paulo Grand Prix,McLaren,-0.3382319776527227,2
+2023,20,São Paulo Grand Prix,Mercedes,0.17699265525050598,2
+2023,20,São Paulo Grand Prix,Red Bull Racing,-0.5371577944499812,2
+2023,20,São Paulo Grand Prix,Williams,0.7289033451841449,1
+2023,21,Las Vegas Grand Prix,Alfa Romeo,1.23318781487326,2
+2023,21,Las Vegas Grand Prix,AlphaTauri,0.7821381396994737,2
+2023,21,Las Vegas Grand Prix,Alpine,-0.251449571358173,2
+2023,21,Las Vegas Grand Prix,Aston Martin,-0.13202455484943754,2
+2023,21,Las Vegas Grand Prix,Ferrari,-0.5457905543009223,2
+2023,21,Las Vegas Grand Prix,Haas F1 Team,0.46803566050671475,2
+2023,21,Las Vegas Grand Prix,McLaren,-0.6963844087259075,1
+2023,21,Las Vegas Grand Prix,Mercedes,-0.3977955570791705,2
+2023,21,Las Vegas Grand Prix,Red Bull Racing,-1.0171413780853675,2
+2023,21,Las Vegas Grand Prix,Williams,0.20903220495657607,2
+2023,22,Abu Dhabi Grand Prix,Alfa Romeo,0.6268198617108132,2
+2023,22,Abu Dhabi Grand Prix,AlphaTauri,-0.06214569527096886,2
+2023,22,Abu Dhabi Grand Prix,Alpine,0.1991033875619697,2
+2023,22,Abu Dhabi Grand Prix,Aston Martin,-0.10538137490651495,2
+2023,22,Abu Dhabi Grand Prix,Ferrari,-0.17641514514949877,2
+2023,22,Abu Dhabi Grand Prix,Haas F1 Team,0.5949298920753193,2
+2023,22,Abu Dhabi Grand Prix,McLaren,-0.3498153659790373,2
+2023,22,Abu Dhabi Grand Prix,Mercedes,-0.2976446324126397,2
+2023,22,Abu Dhabi Grand Prix,Red Bull Racing,-0.7439458080716759,2
+2023,22,Abu Dhabi Grand Prix,Williams,0.31449488044223345,2
+2024,1,Bahrain Grand Prix,Alpine,0.7450293372152406,2
+2024,1,Bahrain Grand Prix,Aston Martin,0.0314004311508671,2
+2024,1,Bahrain Grand Prix,Ferrari,-0.6903718183461522,2
+2024,1,Bahrain Grand Prix,Haas F1 Team,0.24209760930995539,2
+2024,1,Bahrain Grand Prix,Kick Sauber,0.5827637867413943,2
+2024,1,Bahrain Grand Prix,McLaren,-0.42551488701435114,2
+2024,1,Bahrain Grand Prix,Mercedes,-0.45587332817552795,2
+2024,1,Bahrain Grand Prix,RB,0.5136864967080152,2
+2024,1,Bahrain Grand Prix,Red Bull Racing,-1.1363799553374643,2
+2024,1,Bahrain Grand Prix,Williams,0.5931623277480231,2
+2024,2,Saudi Arabian Grand Prix,Alpine,0.7554285280282957,1
+2024,2,Saudi Arabian Grand Prix,Aston Martin,-0.6915634836297185,1
+2024,2,Saudi Arabian Grand Prix,Ferrari,-0.7946141366244523,2
+2024,2,Saudi Arabian Grand Prix,Haas F1 Team,0.5921923276919732,2
+2024,2,Saudi Arabian Grand Prix,Kick Sauber,1.0034670320731356,2
+2024,2,Saudi Arabian Grand Prix,McLaren,-0.57702628235994,2
+2024,2,Saudi Arabian Grand Prix,Mercedes,-0.35257696691568563,2
+2024,2,Saudi Arabian Grand Prix,RB,0.8333831203956549,2
+2024,2,Saudi Arabian Grand Prix,Red Bull Racing,-1.3898387955853904,2
+2024,2,Saudi Arabian Grand Prix,Williams,0.6530811791254163,2
+2024,3,Australian Grand Prix,Alpine,0.5670070175579212,2
+2024,3,Australian Grand Prix,Aston Martin,-0.02683966300552168,2
+2024,3,Australian Grand Prix,Ferrari,-0.9019463361699923,2
+2024,3,Australian Grand Prix,Haas F1 Team,0.47407341163798555,2
+2024,3,Australian Grand Prix,Kick Sauber,0.37973641875980646,2
+2024,3,Australian Grand Prix,McLaren,-0.7601463776479785,2
+2024,3,Australian Grand Prix,Mercedes,-0.1829370180085641,1
+2024,3,Australian Grand Prix,RB,0.30367695352922536,2
+2024,3,Australian Grand Prix,Red Bull Racing,-0.39055035419603124,1
+2024,3,Australian Grand Prix,Williams,0.5023645228817043,1
+2024,4,Japanese Grand Prix,Alpine,1.3406672656295249,2
+2024,4,Japanese Grand Prix,Aston Martin,0.20271144180178657,2
+2024,4,Japanese Grand Prix,Ferrari,-0.8211322044102847,2
+2024,4,Japanese Grand Prix,Haas F1 Team,0.5323625213065877,2
+2024,4,Japanese Grand Prix,Kick Sauber,0.522443215539345,1
+2024,4,Japanese Grand Prix,McLaren,-0.6159791139023034,2
+2024,4,Japanese Grand Prix,Mercedes,-0.34777354835025664,2
+2024,4,Japanese Grand Prix,RB,0.3503195927076965,1
+2024,4,Japanese Grand Prix,Red Bull Racing,-1.0729345331384508,2
+2024,4,Japanese Grand Prix,Williams,0.6913935338797521,1
+2024,5,Chinese Grand Prix,Alpine,0.5757184708800426,2
+2024,5,Chinese Grand Prix,Aston Martin,0.06787241231603192,2
+2024,5,Chinese Grand Prix,Ferrari,-0.9060573220595487,2
+2024,5,Chinese Grand Prix,Haas F1 Team,0.7208167239690966,2
+2024,5,Chinese Grand Prix,Kick Sauber,1.0048117007611657,1
+2024,5,Chinese Grand Prix,McLaren,-0.5620582016576412,2
+2024,5,Chinese Grand Prix,Mercedes,-0.0010143044128615442,2
+2024,5,Chinese Grand Prix,Red Bull Racing,-1.36642127340951,2
+2024,5,Chinese Grand Prix,Williams,0.9687376439938074,2
+2024,6,Miami Grand Prix,Alpine,0.2432603672378849,2
+2024,6,Miami Grand Prix,Aston Martin,0.35177054117711803,2
+2024,6,Miami Grand Prix,Ferrari,-0.7608206465385287,2
+2024,6,Miami Grand Prix,Haas F1 Team,0.39978261743394916,2
+2024,6,Miami Grand Prix,Kick Sauber,0.5664166932862388,2
+2024,6,Miami Grand Prix,McLaren,-0.6855364367189707,2
+2024,6,Miami Grand Prix,Mercedes,-0.11674577004168663,2
+2024,6,Miami Grand Prix,RB,0.34116727092668275,2
+2024,6,Miami Grand Prix,Red Bull Racing,-0.6842931931398287,2
+2024,6,Miami Grand Prix,Williams,0.34499855637714016,2
+2024,7,Emilia Romagna Grand Prix,Alpine,0.7600402589786025,2
+2024,7,Emilia Romagna Grand Prix,Aston Martin,0.2416005387460134,2
+2024,7,Emilia Romagna Grand Prix,Ferrari,-0.7940010151274525,2
+2024,7,Emilia Romagna Grand Prix,Haas F1 Team,0.4914781890735934,2
+2024,7,Emilia Romagna Grand Prix,Kick Sauber,0.6609353525524891,2
+2024,7,Emilia Romagna Grand Prix,McLaren,-0.9609306267265754,2
+2024,7,Emilia Romagna Grand Prix,Mercedes,-0.5526281737948541,2
+2024,7,Emilia Romagna Grand Prix,RB,0.35040347065658434,2
+2024,7,Emilia Romagna Grand Prix,Red Bull Racing,-0.6506844687431896,2
+2024,7,Emilia Romagna Grand Prix,Williams,0.4537864743847887,2
+2024,8,Monaco Grand Prix,Aston Martin,6.205631768891553,1
+2024,8,Monaco Grand Prix,Ferrari,-3.191514471256089,2
+2024,8,Monaco Grand Prix,Kick Sauber,0.2130305642810999,1
+2024,8,Monaco Grand Prix,McLaren,-3.318179335466662,2
+2024,8,Monaco Grand Prix,Mercedes,4.501941062713375,2
+2024,8,Monaco Grand Prix,RB,-2.5273917426394066,2
+2024,8,Monaco Grand Prix,Red Bull Racing,4.752926496769099,1
+2024,8,Monaco Grand Prix,Williams,-2.101299856644188,1
+2024,10,Spanish Grand Prix,Alpine,-0.08986159023440676,2
+2024,10,Spanish Grand Prix,Aston Martin,0.356229441795452,2
+2024,10,Spanish Grand Prix,Ferrari,-0.5648544436829402,2
+2024,10,Spanish Grand Prix,Haas F1 Team,0.33081399563036784,2
+2024,10,Spanish Grand Prix,Kick Sauber,0.3400214518842931,2
+2024,10,Spanish Grand Prix,McLaren,-0.739889450405047,2
+2024,10,Spanish Grand Prix,Mercedes,-0.7328208555318648,2
+2024,10,Spanish Grand Prix,RB,0.7161627018315991,2
+2024,10,Spanish Grand Prix,Red Bull Racing,-0.5891741125512896,2
+2024,10,Spanish Grand Prix,Williams,0.9733728612638362,2
+2024,11,Austrian Grand Prix,Alpine,0.25635289303058517,2
+2024,11,Austrian Grand Prix,Aston Martin,0.3433838273622013,2
+2024,11,Austrian Grand Prix,Ferrari,-0.4248302440825083,2
+2024,11,Austrian Grand Prix,Haas F1 Team,0.09341817374759827,2
+2024,11,Austrian Grand Prix,Kick Sauber,0.5870872665475144,2
+2024,11,Austrian Grand Prix,McLaren,-0.6727397550392527,2
+2024,11,Austrian Grand Prix,Mercedes,-0.44463778792668174,2
+2024,11,Austrian Grand Prix,RB,0.28435780336111893,2
+2024,11,Austrian Grand Prix,Red Bull Racing,-0.4929292804027595,2
+2024,11,Austrian Grand Prix,Williams,0.4705371034021838,2
+2024,13,Hungarian Grand Prix,Alpine,0.5499411372429092,1
+2024,13,Hungarian Grand Prix,Aston Martin,0.11475558403627206,2
+2024,13,Hungarian Grand Prix,Ferrari,-0.4465193204001384,2
+2024,13,Hungarian Grand Prix,Haas F1 Team,0.34812570310691243,2
+2024,13,Hungarian Grand Prix,Kick Sauber,0.7150372939477815,2
+2024,13,Hungarian Grand Prix,McLaren,-0.7571315832825053,2
+2024,13,Hungarian Grand Prix,Mercedes,-0.4943096886398093,2
+2024,13,Hungarian Grand Prix,RB,0.1075569528536462,2
+2024,13,Hungarian Grand Prix,Red Bull Racing,-0.4315814361368864,2
+2024,13,Hungarian Grand Prix,Williams,0.5690959258932724,2
+2024,14,Belgian Grand Prix,Alpine,0.39270941852695207,2
+2024,14,Belgian Grand Prix,Aston Martin,0.2184369474779168,2
+2024,14,Belgian Grand Prix,Ferrari,-0.5333660633839373,2
+2024,14,Belgian Grand Prix,Haas F1 Team,0.7590210892505238,2
+2024,14,Belgian Grand Prix,Kick Sauber,0.5808417430237041,1
+2024,14,Belgian Grand Prix,McLaren,-0.722088726873543,2
+2024,14,Belgian Grand Prix,Mercedes,-0.8451785914000558,2
+2024,14,Belgian Grand Prix,RB,0.47494950140985126,2
+2024,14,Belgian Grand Prix,Red Bull Racing,-0.6281712547888502,2
+2024,14,Belgian Grand Prix,Williams,0.5932668082692911,2
+2024,15,Dutch Grand Prix,Alpine,0.24132210342193405,2
+2024,15,Dutch Grand Prix,Aston Martin,0.18077849939125656,2
+2024,15,Dutch Grand Prix,Ferrari,-0.7048002710617267,2
+2024,15,Dutch Grand Prix,Haas F1 Team,0.344259417661429,2
+2024,15,Dutch Grand Prix,Kick Sauber,1.0682157506928607,2
+2024,15,Dutch Grand Prix,McLaren,-0.8854772452263631,2
+2024,15,Dutch Grand Prix,Mercedes,-0.504175523895608,2
+2024,15,Dutch Grand Prix,RB,0.46025801856316684,2
+2024,15,Dutch Grand Prix,Red Bull Racing,-0.6510304321511077,2
+2024,15,Dutch Grand Prix,Williams,0.4506496826041582,2
+2024,16,Italian Grand Prix,Alpine,0.7714934764056605,2
+2024,16,Italian Grand Prix,Aston Martin,0.28045311959135394,2
+2024,16,Italian Grand Prix,Ferrari,-0.7665650400506183,2
+2024,16,Italian Grand Prix,Haas F1 Team,0.17846399538249053,2
+2024,16,Italian Grand Prix,Kick Sauber,1.0045100194630123,2
+2024,16,Italian Grand Prix,McLaren,-1.0090806436171915,2
+2024,16,Italian Grand Prix,Mercedes,-0.639156363354521,2
+2024,16,Italian Grand Prix,RB,0.22674034073674887,1
+2024,16,Italian Grand Prix,Red Bull Racing,-0.31320754381316795,2
+2024,16,Italian Grand Prix,Williams,0.37971880962460636,2
+2024,17,Azerbaijan Grand Prix,Alpine,0.6124091274265453,2
+2024,17,Azerbaijan Grand Prix,Aston Martin,0.27161791092638965,2
+2024,17,Azerbaijan Grand Prix,Ferrari,-0.7332646812019205,2
+2024,17,Azerbaijan Grand Prix,Haas F1 Team,0.17461822201561356,2
+2024,17,Azerbaijan Grand Prix,Kick Sauber,0.9165209088086779,2
+2024,17,Azerbaijan Grand Prix,McLaren,-0.6741412432269039,2
+2024,17,Azerbaijan Grand Prix,Mercedes,-0.3130242103688433,2
+2024,17,Azerbaijan Grand Prix,RB,0.5488206769965049,1
+2024,17,Azerbaijan Grand Prix,Red Bull Racing,-0.6316505985168782,2
+2024,17,Azerbaijan Grand Prix,Williams,0.10250422563906691,2
+2024,18,Singapore Grand Prix,Alpine,0.7412413381268363,2
+2024,18,Singapore Grand Prix,Aston Martin,0.24230284950896944,2
+2024,18,Singapore Grand Prix,Ferrari,-0.42738767092959495,2
+2024,18,Singapore Grand Prix,Haas F1 Team,0.3465114077985181,2
+2024,18,Singapore Grand Prix,Kick Sauber,0.77072178967678,2
+2024,18,Singapore Grand Prix,McLaren,-1.208747866286207,2
+2024,18,Singapore Grand Prix,Mercedes,-0.37375188721484154,2
+2024,18,Singapore Grand Prix,RB,0.4162301999526461,2
+2024,18,Singapore Grand Prix,Red Bull Racing,-0.5225680596314506,2
+2024,18,Singapore Grand Prix,Williams,0.03089579799668757,1
+2024,19,United States Grand Prix,Alpine,0.4694727985367326,2
+2024,19,United States Grand Prix,Aston Martin,0.7404623890914389,2
+2024,19,United States Grand Prix,Ferrari,-1.173370091191536,2
+2024,19,United States Grand Prix,Haas F1 Team,0.0013830775537002626,2
+2024,19,United States Grand Prix,Kick Sauber,1.0834898160070663,2
+2024,19,United States Grand Prix,McLaren,-0.9266041737689411,2
+2024,19,United States Grand Prix,Mercedes,-0.5677425722413252,1
+2024,19,United States Grand Prix,RB,0.1621288929264515,2
+2024,19,United States Grand Prix,Red Bull Racing,-0.5161917931277005,2
+2024,19,United States Grand Prix,Williams,0.44310037009345105,2
+2024,20,Mexico City Grand Prix,Alpine,0.5086734881572977,2
+2024,20,Mexico City Grand Prix,Aston Martin,0.4286427986018265,1
+2024,20,Mexico City Grand Prix,Ferrari,-0.9291022376896496,2
+2024,20,Mexico City Grand Prix,Haas F1 Team,-0.0034816846210804497,2
+2024,20,Mexico City Grand Prix,Kick Sauber,0.7431631205919936,2
+2024,20,Mexico City Grand Prix,McLaren,-0.6901724104885165,2
+2024,20,Mexico City Grand Prix,Mercedes,-0.36132851950655176,2
+2024,20,Mexico City Grand Prix,RB,0.5092985137212792,1
+2024,20,Mexico City Grand Prix,Red Bull Racing,0.04012138215743255,2
+2024,20,Mexico City Grand Prix,Williams,0.4463124104750432,1
+2024,22,Las Vegas Grand Prix,Alpine,0.4775565083884197,1
+2024,22,Las Vegas Grand Prix,Aston Martin,0.19028041557040123,2
+2024,22,Las Vegas Grand Prix,Ferrari,-0.6083263853302774,2
+2024,22,Las Vegas Grand Prix,Haas F1 Team,0.2376033770705086,2
+2024,22,Las Vegas Grand Prix,Kick Sauber,0.5033359757091014,2
+2024,22,Las Vegas Grand Prix,McLaren,-0.18220176144605693,2
+2024,22,Las Vegas Grand Prix,Mercedes,-0.8531122629662042,2
+2024,22,Las Vegas Grand Prix,RB,0.47370096841081955,2
+2024,22,Las Vegas Grand Prix,Red Bull Racing,-0.20165303666932521,2
+2024,22,Las Vegas Grand Prix,Williams,0.20159445545682297,2
+2024,23,Qatar Grand Prix,Alpine,-0.04019417388693203,1
+2024,23,Qatar Grand Prix,Aston Martin,0.17386262551903653,1
+2024,23,Qatar Grand Prix,Ferrari,-0.6697490132181451,2
+2024,23,Qatar Grand Prix,Haas F1 Team,0.5545391430243329,2
+2024,23,Qatar Grand Prix,Kick Sauber,0.7138480352881011,2
+2024,23,Qatar Grand Prix,McLaren,-0.9627132289098619,2
+2024,23,Qatar Grand Prix,Mercedes,-0.3173005984413445,2
+2024,23,Qatar Grand Prix,RB,0.9523147536005581,2
+2024,23,Qatar Grand Prix,Red Bull Racing,-0.7077806634408942,2
+2024,23,Qatar Grand Prix,Williams,0.7400146925624013,1
+2024,24,Abu Dhabi Grand Prix,Alpine,0.4571501009464735,2
+2024,24,Abu Dhabi Grand Prix,Aston Martin,0.3023651536908605,2
+2024,24,Abu Dhabi Grand Prix,Ferrari,-0.7073146317182,2
+2024,24,Abu Dhabi Grand Prix,Haas F1 Team,0.29427913057245825,2
+2024,24,Abu Dhabi Grand Prix,Kick Sauber,0.26154161021586464,2
+2024,24,Abu Dhabi Grand Prix,McLaren,-0.6516438515245961,2
+2024,24,Abu Dhabi Grand Prix,Mercedes,-0.43506032320895277,2
+2024,24,Abu Dhabi Grand Prix,RB,0.5089300990656477,2
+2024,24,Abu Dhabi Grand Prix,Red Bull Racing,-0.3834785901995457,1
+2024,24,Abu Dhabi Grand Prix,Williams,0.32298401412043515,1
+2025,2,Chinese Grand Prix,Alpine,0.2606769969877675,2
+2025,2,Chinese Grand Prix,Aston Martin,0.37130388139225246,1
+2025,2,Chinese Grand Prix,Ferrari,-0.49456061382619565,2
+2025,2,Chinese Grand Prix,Haas F1 Team,-0.013221317332878457,2
+2025,2,Chinese Grand Prix,Kick Sauber,0.7611479830236094,2
+2025,2,Chinese Grand Prix,McLaren,-0.7580468209861128,2
+2025,2,Chinese Grand Prix,Mercedes,-0.3225574146608781,2
+2025,2,Chinese Grand Prix,Racing Bulls,0.3250825222651392,2
+2025,2,Chinese Grand Prix,Red Bull Racing,-0.16360163958853147,2
+2025,2,Chinese Grand Prix,Williams,0.21942836342195424,2
+2025,3,Japanese Grand Prix,Alpine,0.3426140290139339,2
+2025,3,Japanese Grand Prix,Aston Martin,0.3441651331867961,2
+2025,3,Japanese Grand Prix,Ferrari,-0.39431019369892806,2
+2025,3,Japanese Grand Prix,Haas F1 Team,0.38285753051262017,2
+2025,3,Japanese Grand Prix,Kick Sauber,0.6210707343196579,2
+2025,3,Japanese Grand Prix,McLaren,-0.7534852489358392,2
+2025,3,Japanese Grand Prix,Mercedes,-0.5276818851048869,2
+2025,3,Japanese Grand Prix,Racing Bulls,0.16236024453830783,2
+2025,3,Japanese Grand Prix,Red Bull Racing,-0.27850766699965596,2
+2025,3,Japanese Grand Prix,Williams,0.10091732316799397,2
+2025,4,Bahrain Grand Prix,Alpine,-0.18141845793314815,2
+2025,4,Bahrain Grand Prix,Aston Martin,0.7819293447628255,2
+2025,4,Bahrain Grand Prix,Ferrari,-0.5328534615267062,2
+2025,4,Bahrain Grand Prix,Haas F1 Team,0.07163222895013441,2
+2025,4,Bahrain Grand Prix,Kick Sauber,0.6374095947300156,2
+2025,4,Bahrain Grand Prix,McLaren,-0.9902651371757287,2
+2025,4,Bahrain Grand Prix,Mercedes,-0.4006119773960912,2
+2025,4,Bahrain Grand Prix,Racing Bulls,0.37484903183420354,2
+2025,4,Bahrain Grand Prix,Red Bull Racing,-0.1822592736178267,2
+2025,4,Bahrain Grand Prix,Williams,0.42158810737232183,2
+2025,5,Saudi Arabian Grand Prix,Alpine,1.0992660400669299,1
+2025,5,Saudi Arabian Grand Prix,Aston Martin,0.5163100334822004,2
+2025,5,Saudi Arabian Grand Prix,Ferrari,-0.715408730373996,2
+2025,5,Saudi Arabian Grand Prix,Haas F1 Team,0.5939799389447789,2
+2025,5,Saudi Arabian Grand Prix,Kick Sauber,0.9276567651425514,2
+2025,5,Saudi Arabian Grand Prix,McLaren,-1.089102655126777,2
+2025,5,Saudi Arabian Grand Prix,Mercedes,-0.5273909640419613,2
+2025,5,Saudi Arabian Grand Prix,Racing Bulls,0.21665472950614115,2
+2025,5,Saudi Arabian Grand Prix,Red Bull Racing,-1.2080822173549521,1
+2025,5,Saudi Arabian Grand Prix,Williams,0.13170897111107346,2
+2025,6,Miami Grand Prix,Alpine,0.6781524302021646,1
+2025,6,Miami Grand Prix,Aston Martin,0.7381427864535633,2
+2025,6,Miami Grand Prix,Ferrari,-0.00905527955033622,2
+2025,6,Miami Grand Prix,Haas F1 Team,-0.18421151471737995,1
+2025,6,Miami Grand Prix,Kick Sauber,0.39776846541644384,2
+2025,6,Miami Grand Prix,McLaren,-0.841763464455298,2
+2025,6,Miami Grand Prix,Mercedes,-0.11055249562435658,2
+2025,6,Miami Grand Prix,Racing Bulls,-0.3617798173647233,1
+2025,6,Miami Grand Prix,Red Bull Racing,-0.07810602212653461,2
+2025,6,Miami Grand Prix,Williams,-0.1625145391735125,2
+2025,7,Emilia Romagna Grand Prix,Alpine,0.4374157760489569,2
+2025,7,Emilia Romagna Grand Prix,Aston Martin,0.4044466097868089,2
+2025,7,Emilia Romagna Grand Prix,Ferrari,-0.326251200100004,2
+2025,7,Emilia Romagna Grand Prix,Haas F1 Team,0.038834793393219075,2
+2025,7,Emilia Romagna Grand Prix,Kick Sauber,0.5146913914597935,2
+2025,7,Emilia Romagna Grand Prix,McLaren,-0.8340336856222527,2
+2025,7,Emilia Romagna Grand Prix,Mercedes,-0.021533255285084985,2
+2025,7,Emilia Romagna Grand Prix,Racing Bulls,0.24526168662242787,2
+2025,7,Emilia Romagna Grand Prix,Red Bull Racing,-0.3610993153707027,2
+2025,7,Emilia Romagna Grand Prix,Williams,-0.0977328009331618,2
+2025,8,Monaco Grand Prix,Alpine,0.47373558084065137,1
+2025,8,Monaco Grand Prix,Aston Martin,0.6506535894652874,2
+2025,8,Monaco Grand Prix,Ferrari,-0.7002558046910065,2
+2025,8,Monaco Grand Prix,Haas F1 Team,0.4476353421109377,2
+2025,8,Monaco Grand Prix,Kick Sauber,0.6622797763047885,1
+2025,8,Monaco Grand Prix,McLaren,-0.7956043262308815,2
+2025,8,Monaco Grand Prix,Mercedes,-0.4103361374270491,1
+2025,8,Monaco Grand Prix,Racing Bulls,0.5228858557215148,2
+2025,8,Monaco Grand Prix,Red Bull Racing,-0.2965790591664262,2
+2025,8,Monaco Grand Prix,Williams,-0.19157520706862097,2
+2025,9,Spanish Grand Prix,Ferrari,-0.2100611063774111,2
+2025,9,Spanish Grand Prix,McLaren,-0.6679092220557984,2
+2025,9,Spanish Grand Prix,Mercedes,0.038786615337955306,2
+2025,9,Spanish Grand Prix,Racing Bulls,0.37270153745730733,1
+2025,9,Spanish Grand Prix,Red Bull Racing,0.12685301322198672,2
+2025,9,Spanish Grand Prix,Williams,1.0519598622892277,1
+2025,10,Canadian Grand Prix,Alpine,0.6031456407029279,2
+2025,10,Canadian Grand Prix,Aston Martin,0.16261441267340215,2
+2025,10,Canadian Grand Prix,Ferrari,-0.49307696907598075,2
+2025,10,Canadian Grand Prix,Haas F1 Team,0.36626899212036035,2
+2025,10,Canadian Grand Prix,Kick Sauber,0.4346388558246843,2
+2025,10,Canadian Grand Prix,McLaren,-0.8822280845915125,2
+2025,10,Canadian Grand Prix,Mercedes,-0.9924585279992884,2
+2025,10,Canadian Grand Prix,Racing Bulls,0.7429816229523757,2
+2025,10,Canadian Grand Prix,Red Bull Racing,-0.22548146097775235,2
+2025,10,Canadian Grand Prix,Williams,0.2835955183707838,2
+2025,11,Austrian Grand Prix,Alpine,0.4517783221841794,2
+2025,11,Austrian Grand Prix,Aston Martin,0.22615046984500387,2
+2025,11,Austrian Grand Prix,Ferrari,-0.5651172592975631,2
+2025,11,Austrian Grand Prix,Haas F1 Team,0.2743583293714404,2
+2025,11,Austrian Grand Prix,Kick Sauber,0.08487295785792054,2
+2025,11,Austrian Grand Prix,McLaren,-0.9161091653195232,2
+2025,11,Austrian Grand Prix,Mercedes,0.0004355027876907294,1
+2025,11,Austrian Grand Prix,Racing Bulls,0.25111270408881364,2
+2025,11,Austrian Grand Prix,Red Bull Racing,0.38547177975176633,1
+2025,14,Hungarian Grand Prix,Alpine,0.5397501263490619,2
+2025,14,Hungarian Grand Prix,Aston Martin,-0.2540627438999525,2
+2025,14,Hungarian Grand Prix,Ferrari,-0.15781014415331185,2
+2025,14,Hungarian Grand Prix,Haas F1 Team,0.5485188258010018,2
+2025,14,Hungarian Grand Prix,Kick Sauber,-0.04336937499556401,2
+2025,14,Hungarian Grand Prix,McLaren,-1.0636501334660793,2
+2025,14,Hungarian Grand Prix,Mercedes,-0.34564786330807806,2
+2025,14,Hungarian Grand Prix,Racing Bulls,0.013488518077776845,2
+2025,14,Hungarian Grand Prix,Red Bull Racing,0.2620142420758632,2
+2025,14,Hungarian Grand Prix,Williams,0.5007685475192816,2
+2025,15,Dutch Grand Prix,Alpine,0.6356375244217227,2
+2025,15,Dutch Grand Prix,Aston Martin,0.2969197141442994,2
+2025,15,Dutch Grand Prix,Ferrari,-0.388996577984046,2
+2025,15,Dutch Grand Prix,Haas F1 Team,0.36031825169703013,2
+2025,15,Dutch Grand Prix,Kick Sauber,0.7440503029360004,2
+2025,15,Dutch Grand Prix,McLaren,-1.256694659472722,2
+2025,15,Dutch Grand Prix,Mercedes,-0.22442465020368257,2
+2025,15,Dutch Grand Prix,Racing Bulls,-0.22454212466145926,2
+2025,15,Dutch Grand Prix,Red Bull Racing,0.014239008949559873,2
+2025,15,Dutch Grand Prix,Williams,0.04349321017329737,2
+2025,16,Italian Grand Prix,Alpine,0.5626855466349376,2
+2025,16,Italian Grand Prix,Aston Martin,0.23615234892977222,2
+2025,16,Italian Grand Prix,Ferrari,-0.33977054508967874,2
+2025,16,Italian Grand Prix,Haas F1 Team,0.18456575800439934,2
+2025,16,Italian Grand Prix,Kick Sauber,0.1059393592958463,1
+2025,16,Italian Grand Prix,McLaren,-0.6928697705466312,2
+2025,16,Italian Grand Prix,Mercedes,-0.10654172696065795,2
+2025,16,Italian Grand Prix,Racing Bulls,0.26332264762331486,2
+2025,16,Italian Grand Prix,Red Bull Racing,-0.19330075589494433,2
+2025,16,Italian Grand Prix,Williams,0.032786817651565214,2
+2025,17,Azerbaijan Grand Prix,Alpine,1.0482755014623533,2
+2025,17,Azerbaijan Grand Prix,Aston Martin,0.5991982168375249,2
+2025,17,Azerbaijan Grand Prix,Ferrari,-0.32326167038717907,2
+2025,17,Azerbaijan Grand Prix,Haas F1 Team,0.47181627595856557,2
+2025,17,Azerbaijan Grand Prix,Kick Sauber,0.39314089638737876,2
+2025,17,Azerbaijan Grand Prix,McLaren,-0.41844901721697664,1
+2025,17,Azerbaijan Grand Prix,Mercedes,-0.7031849157915736,2
+2025,17,Azerbaijan Grand Prix,Racing Bulls,-0.3183114165971915,2
+2025,17,Azerbaijan Grand Prix,Red Bull Racing,-0.7020498802998568,2
+2025,17,Azerbaijan Grand Prix,Williams,-0.2563984989615331,2
+2025,18,Singapore Grand Prix,Alpine,0.7916412969331648,2
+2025,18,Singapore Grand Prix,Aston Martin,0.3949728469287359,2
+2025,18,Singapore Grand Prix,Ferrari,-0.7215486983798092,2
+2025,18,Singapore Grand Prix,Haas F1 Team,0.46134822875159703,2
+2025,18,Singapore Grand Prix,Kick Sauber,0.5564927693040839,2
+2025,18,Singapore Grand Prix,McLaren,-1.0563470062863616,2
+2025,18,Singapore Grand Prix,Mercedes,-0.9297359419759263,2
+2025,18,Singapore Grand Prix,Racing Bulls,0.5255224509697272,2
+2025,18,Singapore Grand Prix,Red Bull Racing,-0.5138311226635759,2
+2025,18,Singapore Grand Prix,Williams,0.49148517641836303,2
+2025,19,United States Grand Prix,Alpine,0.8514936363263282,2
+2025,19,United States Grand Prix,Aston Martin,0.2297261835058334,2
+2025,19,United States Grand Prix,Ferrari,-0.5627184001226851,2
+2025,19,United States Grand Prix,Haas F1 Team,0.1696016370592864,2
+2025,19,United States Grand Prix,Kick Sauber,0.3345450261914461,2
+2025,19,United States Grand Prix,McLaren,-0.7093367833029242,2
+2025,19,United States Grand Prix,Mercedes,-0.28449416141041606,2
+2025,19,United States Grand Prix,Racing Bulls,0.3715082502683903,2
+2025,19,United States Grand Prix,Red Bull Racing,-0.490882834169159,2
+2025,19,United States Grand Prix,Williams,0.18111489130780054,1
+2025,20,Mexico City Grand Prix,Alpine,0.7470093320838873,2
+2025,20,Mexico City Grand Prix,Aston Martin,0.3247707293182166,2
+2025,20,Mexico City Grand Prix,Ferrari,-0.33619056835861827,2
+2025,20,Mexico City Grand Prix,Haas F1 Team,-0.09871829177111191,2
+2025,20,Mexico City Grand Prix,Kick Sauber,0.2810573674721616,1
+2025,20,Mexico City Grand Prix,McLaren,-0.5622034824873473,2
+2025,20,Mexico City Grand Prix,Mercedes,-0.21975440998218798,2
+2025,20,Mexico City Grand Prix,Racing Bulls,0.27313298901297045,1
+2025,20,Mexico City Grand Prix,Red Bull Racing,-0.19174062552342452,2
+2025,20,Mexico City Grand Prix,Williams,0.05973213847802017,2
+2025,21,São Paulo Grand Prix,Alpine,0.25534561297188635,2
+2025,21,São Paulo Grand Prix,Aston Martin,0.10070529656478178,2
+2025,21,São Paulo Grand Prix,Ferrari,0.6332674223095295,1
+2025,21,São Paulo Grand Prix,Haas F1 Team,-0.025017295301731066,2
+2025,21,São Paulo Grand Prix,Kick Sauber,0.11092106790458678,1
+2025,21,São Paulo Grand Prix,McLaren,-0.6623353177389777,2
+2025,21,São Paulo Grand Prix,Mercedes,-0.43055361093368966,2
+2025,21,São Paulo Grand Prix,Racing Bulls,0.1519067374435627,2
+2025,21,São Paulo Grand Prix,Red Bull Racing,-0.015473983589317009,2
+2025,21,São Paulo Grand Prix,Williams,0.2533283154764263,2
+2025,22,Las Vegas Grand Prix,Alpine,0.7804375099822685,2
+2025,22,Las Vegas Grand Prix,Aston Martin,0.7878288947989579,1
+2025,22,Las Vegas Grand Prix,Ferrari,-0.18234437916323815,2
+2025,22,Las Vegas Grand Prix,Haas F1 Team,0.28506832650157504,2
+2025,22,Las Vegas Grand Prix,Kick Sauber,-0.020025257215726382,1
+2025,22,Las Vegas Grand Prix,McLaren,-0.4558313469617485,2
+2025,22,Las Vegas Grand Prix,Mercedes,-0.5650480005516537,2
+2025,22,Las Vegas Grand Prix,Racing Bulls,0.20210049462883212,2
+2025,22,Las Vegas Grand Prix,Red Bull Racing,-0.3014697874475213,2
+2025,22,Las Vegas Grand Prix,Williams,-0.14681463578012982,2
+2025,23,Qatar Grand Prix,Alpine,0.6197527092863562,2
+2025,23,Qatar Grand Prix,Aston Martin,0.18214116062096564,2
+2025,23,Qatar Grand Prix,Ferrari,0.2943046861103126,2
+2025,23,Qatar Grand Prix,Haas F1 Team,0.477113130787582,2
+2025,23,Qatar Grand Prix,Kick Sauber,0.5112979083084086,1
+2025,23,Qatar Grand Prix,McLaren,-1.187596035960848,2
+2025,23,Qatar Grand Prix,Mercedes,-0.2480767527869701,2
+2025,23,Qatar Grand Prix,Racing Bulls,0.10108005871957665,2
+2025,23,Qatar Grand Prix,Red Bull Racing,-0.36850470754017217,2
+2025,23,Qatar Grand Prix,Williams,-0.12586320339100684,2
+2025,24,Abu Dhabi Grand Prix,Alpine,0.42556288283752114,2
+2025,24,Abu Dhabi Grand Prix,Aston Martin,0.058478506780631906,2
+2025,24,Abu Dhabi Grand Prix,Ferrari,-0.41877004093589126,2
+2025,24,Abu Dhabi Grand Prix,Haas F1 Team,0.15747086508574185,2
+2025,24,Abu Dhabi Grand Prix,Kick Sauber,0.20061257160857635,2
+2025,24,Abu Dhabi Grand Prix,McLaren,-0.8272947076161982,2
+2025,24,Abu Dhabi Grand Prix,Mercedes,0.028433836999097295,2
+2025,24,Abu Dhabi Grand Prix,Racing Bulls,0.4286856011858622,2
+2025,24,Abu Dhabi Grand Prix,Red Bull Racing,-0.32702325478992067,2
+2025,24,Abu Dhabi Grand Prix,Williams,0.2738437388445795,2

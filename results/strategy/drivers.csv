@@ -1,0 +1,1827 @@
+season,round,event,driver,team,completed,n_changes,sequence,label,differences,differing_stops
+2022,1,Bahrain Grand Prix,ALB,Williams,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence,
+2022,1,Bahrain Grand Prix,ALO,Alpine,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2022,1,Bahrain Grand Prix,BOT,Alfa Romeo,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence,
+2022,1,Bahrain Grand Prix,GAS,AlphaTauri,False,2,SOFT>MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,1,Bahrain Grand Prix,HAM,Mercedes,True,3,SOFT>HARD>MEDIUM>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2022,1,Bahrain Grand Prix,HUL,Aston Martin,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2022,1,Bahrain Grand Prix,LAT,Williams,True,3,SOFT>SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,1,Bahrain Grand Prix,LEC,Ferrari,True,3,SOFT>SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,1,Bahrain Grand Prix,MAG,Haas F1 Team,True,3,SOFT>SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,1,Bahrain Grand Prix,MSC,Haas F1 Team,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence,
+2022,1,Bahrain Grand Prix,NOR,McLaren,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2022,1,Bahrain Grand Prix,OCO,Alpine,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,sequence,
+2022,1,Bahrain Grand Prix,PER,Red Bull Racing,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,sequence,
+2022,1,Bahrain Grand Prix,RIC,McLaren,True,3,MEDIUM>SOFT>HARD>SOFT,DIFFERS,sequence,
+2022,1,Bahrain Grand Prix,RUS,Mercedes,True,3,SOFT>HARD>MEDIUM>SOFT,DIFFERS,sequence,
+2022,1,Bahrain Grand Prix,SAI,Ferrari,True,3,SOFT>SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,1,Bahrain Grand Prix,STR,Aston Martin,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2022,1,Bahrain Grand Prix,TSU,AlphaTauri,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2022,1,Bahrain Grand Prix,VER,Red Bull Racing,True,3,SOFT>SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,1,Bahrain Grand Prix,ZHO,Alfa Romeo,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,2:COVER
+2022,2,Saudi Arabian Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,ALO,Alpine,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,2,Saudi Arabian Grand Prix,BOT,Alfa Romeo,False,2,MEDIUM>HARD>MEDIUM,DID_NOT_COMPLETE,,
+2022,2,Saudi Arabian Grand Prix,GAS,AlphaTauri,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,HAM,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,2,Saudi Arabian Grand Prix,HUL,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,2,Saudi Arabian Grand Prix,LAT,Williams,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,2,Saudi Arabian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,2,Saudi Arabian Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,RIC,McLaren,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,2,Saudi Arabian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,2,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,ALB,Williams,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,3,Australian Grand Prix,ALO,Alpine,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2022,3,Australian Grand Prix,BOT,Alfa Romeo,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,GAS,AlphaTauri,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,LAT,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2022,3,Australian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,MAG,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,3,Australian Grand Prix,MSC,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,3,Australian Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,3,Australian Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,RIC,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,SAI,Ferrari,False,0,HARD,DID_NOT_COMPLETE,,
+2022,3,Australian Grand Prix,STR,Aston Martin,True,3,HARD>MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR;3:SAFETY_CAR
+2022,3,Australian Grand Prix,TSU,AlphaTauri,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,3,Australian Grand Prix,VER,Red Bull Racing,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,3,Australian Grand Prix,VET,Aston Martin,False,0,HARD,DID_NOT_COMPLETE,,
+2022,3,Australian Grand Prix,ZHO,Alfa Romeo,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,ALB,Williams,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,ALO,Alpine,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,4,Emilia Romagna Grand Prix,BOT,Alfa Romeo,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,GAS,AlphaTauri,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,HAM,Mercedes,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,LAT,Williams,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,LEC,Ferrari,True,3,INTERMEDIATE>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP;3:EXTRA_STOP
+2022,4,Emilia Romagna Grand Prix,MAG,Haas F1 Team,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,MSC,Haas F1 Team,True,2,INTERMEDIATE>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2022,4,Emilia Romagna Grand Prix,NOR,McLaren,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,OCO,Alpine,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,PER,Red Bull Racing,True,2,INTERMEDIATE>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2022,4,Emilia Romagna Grand Prix,RIC,McLaren,True,2,INTERMEDIATE>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2022,4,Emilia Romagna Grand Prix,RUS,Mercedes,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,SAI,Ferrari,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,4,Emilia Romagna Grand Prix,STR,Aston Martin,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,TSU,AlphaTauri,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,VER,Red Bull Racing,True,2,INTERMEDIATE>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2022,4,Emilia Romagna Grand Prix,VET,Aston Martin,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,4,Emilia Romagna Grand Prix,ZHO,Alfa Romeo,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,5,Miami Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2022,5,Miami Grand Prix,ALO,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2022,5,Miami Grand Prix,BOT,Alfa Romeo,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,5,Miami Grand Prix,GAS,AlphaTauri,False,2,MEDIUM>HARD>SOFT,DID_NOT_COMPLETE,,
+2022,5,Miami Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,5,Miami Grand Prix,LAT,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,5,Miami Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,5,Miami Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2022,5,Miami Grand Prix,MSC,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2022,5,Miami Grand Prix,NOR,McLaren,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,5,Miami Grand Prix,OCO,Alpine,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:SAFETY_CAR
+2022,5,Miami Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR
+2022,5,Miami Grand Prix,RIC,McLaren,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2022,5,Miami Grand Prix,RUS,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,5,Miami Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,5,Miami Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,5,Miami Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2022,5,Miami Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,5,Miami Grand Prix,VET,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2022,5,Miami Grand Prix,ZHO,Alfa Romeo,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,6,Spanish Grand Prix,ALB,Williams,True,4,SOFT>MEDIUM>SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EARLIER_THAN_REFERENCE;4:EXTRA_STOP
+2022,6,Spanish Grand Prix,ALO,Alpine,True,3,SOFT>MEDIUM>SOFT>SOFT,MATCHES_REFERENCE,,
+2022,6,Spanish Grand Prix,BOT,Alfa Romeo,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,stop count;sequence,
+2022,6,Spanish Grand Prix,GAS,AlphaTauri,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,3:EARLIER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,HAM,Mercedes,True,3,MEDIUM>SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2022,6,Spanish Grand Prix,LAT,Williams,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,LEC,Ferrari,False,1,SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2022,6,Spanish Grand Prix,MAG,Haas F1 Team,True,2,SOFT>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,MSC,Haas F1 Team,True,2,SOFT>SOFT>MEDIUM,DIFFERS,stop count;sequence,
+2022,6,Spanish Grand Prix,NOR,McLaren,True,3,SOFT>MEDIUM>SOFT>SOFT,MATCHES_REFERENCE,,
+2022,6,Spanish Grand Prix,OCO,Alpine,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,PER,Red Bull Racing,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,RIC,McLaren,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,sequence,
+2022,6,Spanish Grand Prix,RUS,Mercedes,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,SAI,Ferrari,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,3:UNDERCUT_ATTEMPT
+2022,6,Spanish Grand Prix,STR,Aston Martin,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT;3:EARLIER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,TSU,AlphaTauri,True,3,SOFT>MEDIUM>SOFT>SOFT,MATCHES_REFERENCE,,
+2022,6,Spanish Grand Prix,VER,Red Bull Racing,True,3,SOFT>MEDIUM>SOFT>MEDIUM,DIFFERS,sequence;timing,3:EARLIER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,VET,Aston Martin,True,2,SOFT>SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2022,6,Spanish Grand Prix,ZHO,Alfa Romeo,False,1,SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2022,7,Monaco Grand Prix,ALB,Williams,False,2,WET>HARD>MEDIUM,DID_NOT_COMPLETE,,
+2022,7,Monaco Grand Prix,ALO,Alpine,True,2,WET>HARD>MEDIUM,DIFFERS,timing,2:RED_FLAG
+2022,7,Monaco Grand Prix,BOT,Alfa Romeo,True,2,WET>HARD>HARD,DIFFERS,sequence;timing,2:RED_FLAG
+2022,7,Monaco Grand Prix,GAS,AlphaTauri,True,3,INTERMEDIATE>INTERMEDIATE>HARD>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:WEATHER_TO_DRY;3:RED_FLAG
+2022,7,Monaco Grand Prix,HAM,Mercedes,True,3,WET>INTERMEDIATE>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:WEATHER_TO_DRY;3:RED_FLAG
+2022,7,Monaco Grand Prix,LAT,Williams,True,3,WET>INTERMEDIATE>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:WEATHER_TO_DRY;3:EXTRA_STOP
+2022,7,Monaco Grand Prix,LEC,Ferrari,True,2,WET>INTERMEDIATE>HARD,DIFFERS,sequence;timing,2:WEATHER_TO_DRY
+2022,7,Monaco Grand Prix,MAG,Haas F1 Team,False,0,WET,DID_NOT_COMPLETE,,
+2022,7,Monaco Grand Prix,MSC,Haas F1 Team,False,2,WET>INTERMEDIATE>HARD,DID_NOT_COMPLETE,,
+2022,7,Monaco Grand Prix,NOR,McLaren,True,3,WET>INTERMEDIATE>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:WEATHER_TO_DRY;3:EXTRA_STOP
+2022,7,Monaco Grand Prix,OCO,Alpine,True,2,WET>HARD>MEDIUM,DIFFERS,timing,2:RED_FLAG
+2022,7,Monaco Grand Prix,PER,Red Bull Racing,True,3,WET>INTERMEDIATE>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:WEATHER_TO_DRY;3:RED_FLAG
+2022,7,Monaco Grand Prix,RIC,McLaren,True,2,WET>HARD>HARD,DIFFERS,sequence;timing,2:RED_FLAG
+2022,7,Monaco Grand Prix,RUS,Mercedes,True,2,WET>HARD>MEDIUM,DIFFERS,timing,2:RED_FLAG
+2022,7,Monaco Grand Prix,SAI,Ferrari,True,2,WET>HARD>HARD,DIFFERS,sequence;timing,2:RED_FLAG
+2022,7,Monaco Grand Prix,STR,Aston Martin,True,3,WET>INTERMEDIATE>HARD>?,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:WEATHER_TO_DRY;3:RED_FLAG
+2022,7,Monaco Grand Prix,TSU,AlphaTauri,True,4,WET>INTERMEDIATE>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:WEATHER_TO_DRY;3:RED_FLAG;4:EXTRA_STOP
+2022,7,Monaco Grand Prix,VER,Red Bull Racing,True,3,WET>INTERMEDIATE>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:WEATHER_TO_DRY;3:RED_FLAG
+2022,7,Monaco Grand Prix,VET,Aston Martin,True,2,WET>INTERMEDIATE>HARD,DIFFERS,sequence;timing,1:WET_TO_WET;2:WEATHER_TO_DRY
+2022,7,Monaco Grand Prix,ZHO,Alfa Romeo,True,2,WET>HARD>MEDIUM,DIFFERS,timing,2:RED_FLAG
+2022,8,Azerbaijan Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2022,8,Azerbaijan Grand Prix,ALO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,8,Azerbaijan Grand Prix,BOT,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,GAS,AlphaTauri,True,1,MEDIUM>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,LAT,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,8,Azerbaijan Grand Prix,LEC,Ferrari,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,8,Azerbaijan Grand Prix,MAG,Haas F1 Team,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,8,Azerbaijan Grand Prix,MSC,Haas F1 Team,True,2,HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:EXTRA_STOP
+2022,8,Azerbaijan Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2022,8,Azerbaijan Grand Prix,OCO,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,RIC,McLaren,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,SAI,Ferrari,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,8,Azerbaijan Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,8,Azerbaijan Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:EXTRA_STOP
+2022,8,Azerbaijan Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,VET,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2022,8,Azerbaijan Grand Prix,ZHO,Alfa Romeo,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,9,Canadian Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2022,9,Canadian Grand Prix,ALO,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2022,9,Canadian Grand Prix,BOT,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR
+2022,9,Canadian Grand Prix,GAS,AlphaTauri,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2022,9,Canadian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2022,9,Canadian Grand Prix,LAT,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2022,9,Canadian Grand Prix,LEC,Ferrari,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2022,9,Canadian Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2022,9,Canadian Grand Prix,MSC,Haas F1 Team,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,9,Canadian Grand Prix,NOR,McLaren,True,2,HARD>HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2022,9,Canadian Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2022,9,Canadian Grand Prix,PER,Red Bull Racing,False,0,HARD,DID_NOT_COMPLETE,,
+2022,9,Canadian Grand Prix,RIC,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2022,9,Canadian Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2022,9,Canadian Grand Prix,SAI,Ferrari,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2022,9,Canadian Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,9,Canadian Grand Prix,TSU,AlphaTauri,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,9,Canadian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2022,9,Canadian Grand Prix,VET,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:VIRTUAL_SAFETY_CAR
+2022,9,Canadian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2022,10,British Grand Prix,ALB,Williams,False,0,SOFT,DID_NOT_COMPLETE,,
+2022,10,British Grand Prix,ALO,Alpine,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,timing,1:RED_FLAG;2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2022,10,British Grand Prix,BOT,Alfa Romeo,False,1,MEDIUM>MEDIUM,DID_NOT_COMPLETE,,
+2022,10,British Grand Prix,GAS,AlphaTauri,False,2,MEDIUM>SOFT>HARD,DID_NOT_COMPLETE,,
+2022,10,British Grand Prix,HAM,Mercedes,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,timing,1:RED_FLAG;2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2022,10,British Grand Prix,LAT,Williams,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:RED_FLAG;3:SAFETY_CAR
+2022,10,British Grand Prix,LEC,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:LATER_THAN_REFERENCE
+2022,10,British Grand Prix,MAG,Haas F1 Team,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:RED_FLAG
+2022,10,British Grand Prix,MSC,Haas F1 Team,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,timing,1:RED_FLAG;3:SAFETY_CAR
+2022,10,British Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:COVER;2:SAFETY_CAR
+2022,10,British Grand Prix,OCO,Alpine,False,2,MEDIUM>SOFT>HARD,DID_NOT_COMPLETE,,
+2022,10,British Grand Prix,PER,Red Bull Racing,True,3,MEDIUM>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:SAFETY_CAR
+2022,10,British Grand Prix,RIC,McLaren,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,sequence;timing,1:COVER;2:UNDERCUT_ATTEMPT;3:SAFETY_CAR
+2022,10,British Grand Prix,RUS,Mercedes,False,0,HARD,DID_NOT_COMPLETE,,
+2022,10,British Grand Prix,SAI,Ferrari,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,timing,1:RED_FLAG;3:SAFETY_CAR
+2022,10,British Grand Prix,STR,Aston Martin,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:SAFETY_CAR
+2022,10,British Grand Prix,TSU,AlphaTauri,True,3,MEDIUM>SOFT>HARD>SOFT,DIFFERS,sequence;timing,1:RED_FLAG;3:SAFETY_CAR
+2022,10,British Grand Prix,VER,Red Bull Racing,True,4,SOFT>MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:NO_REFERENCE;4:SAFETY_CAR
+2022,10,British Grand Prix,VET,Aston Martin,True,3,SOFT>SOFT>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:SAFETY_CAR
+2022,10,British Grand Prix,ZHO,Alfa Romeo,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,11,Austrian Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>?,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2022,11,Austrian Grand Prix,ALO,Alpine,True,3,HARD>HARD>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:VIRTUAL_SAFETY_CAR;3:VIRTUAL_SAFETY_CAR
+2022,11,Austrian Grand Prix,BOT,Alfa Romeo,True,2,MEDIUM>HARD>?,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2022,11,Austrian Grand Prix,GAS,AlphaTauri,True,2,MEDIUM>HARD>?,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2022,11,Austrian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:COVER;2:LATER_THAN_REFERENCE
+2022,11,Austrian Grand Prix,LAT,Williams,False,2,MEDIUM>HARD>?,DID_NOT_COMPLETE,,
+2022,11,Austrian Grand Prix,LEC,Ferrari,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2022,11,Austrian Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>?,MATCHES_REFERENCE,,
+2022,11,Austrian Grand Prix,MSC,Haas F1 Team,True,2,MEDIUM>HARD>?,MATCHES_REFERENCE,,
+2022,11,Austrian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>?,MATCHES_REFERENCE,,
+2022,11,Austrian Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>?,MATCHES_REFERENCE,,
+2022,11,Austrian Grand Prix,PER,Red Bull Racing,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,11,Austrian Grand Prix,RIC,McLaren,True,2,MEDIUM>HARD>?,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,11,Austrian Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>?,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2022,11,Austrian Grand Prix,SAI,Ferrari,False,2,MEDIUM>HARD>?,DID_NOT_COMPLETE,,
+2022,11,Austrian Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2022,11,Austrian Grand Prix,TSU,AlphaTauri,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,11,Austrian Grand Prix,VER,Red Bull Racing,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2022,11,Austrian Grand Prix,VET,Aston Martin,True,2,HARD>MEDIUM>?,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2022,11,Austrian Grand Prix,ZHO,Alfa Romeo,True,2,HARD>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2022,12,French Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,ALO,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,BOT,Alfa Romeo,True,2,HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2022,12,French Grand Prix,GAS,AlphaTauri,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2022,12,French Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,LAT,Williams,False,2,MEDIUM>HARD>MEDIUM,DID_NOT_COMPLETE,,
+2022,12,French Grand Prix,LEC,Ferrari,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,12,French Grand Prix,MAG,Haas F1 Team,False,2,MEDIUM>HARD>HARD,DID_NOT_COMPLETE,,
+2022,12,French Grand Prix,MSC,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2022,12,French Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,RIC,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,SAI,Ferrari,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:EXTRA_STOP
+2022,12,French Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,TSU,AlphaTauri,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,12,French Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2022,12,French Grand Prix,VET,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2022,12,French Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2022,13,Hungarian Grand Prix,ALB,Williams,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2022,13,Hungarian Grand Prix,ALO,Alpine,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2022,13,Hungarian Grand Prix,BOT,Alfa Romeo,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,13,Hungarian Grand Prix,GAS,AlphaTauri,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence,
+2022,13,Hungarian Grand Prix,HAM,Mercedes,True,2,MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2022,13,Hungarian Grand Prix,LAT,Williams,True,3,MEDIUM>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2022,13,Hungarian Grand Prix,LEC,Ferrari,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2022,13,Hungarian Grand Prix,MAG,Haas F1 Team,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2022,13,Hungarian Grand Prix,MSC,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2022,13,Hungarian Grand Prix,NOR,McLaren,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2022,13,Hungarian Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,13,Hungarian Grand Prix,PER,Red Bull Racing,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2022,13,Hungarian Grand Prix,RIC,McLaren,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence,
+2022,13,Hungarian Grand Prix,RUS,Mercedes,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2022,13,Hungarian Grand Prix,SAI,Ferrari,True,2,MEDIUM>MEDIUM>SOFT,DIFFERS,sequence,
+2022,13,Hungarian Grand Prix,STR,Aston Martin,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence,
+2022,13,Hungarian Grand Prix,TSU,AlphaTauri,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2022,13,Hungarian Grand Prix,VER,Red Bull Racing,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2022,13,Hungarian Grand Prix,VET,Aston Martin,True,2,SOFT>MEDIUM>MEDIUM,MATCHES_REFERENCE,,
+2022,13,Hungarian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:COVER;2:LATER_THAN_REFERENCE
+2022,14,Belgian Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,14,Belgian Grand Prix,ALO,Alpine,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2022,14,Belgian Grand Prix,BOT,Alfa Romeo,False,0,SOFT,DID_NOT_COMPLETE,,
+2022,14,Belgian Grand Prix,GAS,AlphaTauri,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT
+2022,14,Belgian Grand Prix,HAM,Mercedes,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,14,Belgian Grand Prix,LAT,Williams,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:COVER;3:EXTRA_STOP
+2022,14,Belgian Grand Prix,LEC,Ferrari,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2022,14,Belgian Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,14,Belgian Grand Prix,MSC,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,14,Belgian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,14,Belgian Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2022,14,Belgian Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2022,14,Belgian Grand Prix,RIC,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2022,14,Belgian Grand Prix,RUS,Mercedes,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2022,14,Belgian Grand Prix,SAI,Ferrari,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2022,14,Belgian Grand Prix,STR,Aston Martin,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2022,14,Belgian Grand Prix,TSU,AlphaTauri,True,2,HARD>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,14,Belgian Grand Prix,VER,Red Bull Racing,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence,
+2022,14,Belgian Grand Prix,VET,Aston Martin,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2022,14,Belgian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>MEDIUM>SOFT,DIFFERS,sequence,
+2022,15,Dutch Grand Prix,ALB,Williams,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,ALO,Alpine,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:VIRTUAL_SAFETY_CAR
+2022,15,Dutch Grand Prix,BOT,Alfa Romeo,False,2,SOFT>SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2022,15,Dutch Grand Prix,GAS,AlphaTauri,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,timing,2:EARLIER_THAN_REFERENCE;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:VIRTUAL_SAFETY_CAR
+2022,15,Dutch Grand Prix,LAT,Williams,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,timing,2:EARLIER_THAN_REFERENCE;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,LEC,Ferrari,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,timing,2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,MAG,Haas F1 Team,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,3:VIRTUAL_SAFETY_CAR
+2022,15,Dutch Grand Prix,MSC,Haas F1 Team,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,3:VIRTUAL_SAFETY_CAR
+2022,15,Dutch Grand Prix,NOR,McLaren,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,sequence;timing,2:VIRTUAL_SAFETY_CAR;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,OCO,Alpine,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2022,15,Dutch Grand Prix,PER,Red Bull Racing,True,3,SOFT>MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,RIC,McLaren,True,4,SOFT>MEDIUM>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT;3:VIRTUAL_SAFETY_CAR;4:SAFETY_CAR
+2022,15,Dutch Grand Prix,RUS,Mercedes,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:VIRTUAL_SAFETY_CAR;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,SAI,Ferrari,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,timing,2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,STR,Aston Martin,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,timing,3:SAFETY_CAR
+2022,15,Dutch Grand Prix,TSU,AlphaTauri,False,2,SOFT>MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,15,Dutch Grand Prix,VER,Red Bull Racing,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:VIRTUAL_SAFETY_CAR;3:SAFETY_CAR
+2022,15,Dutch Grand Prix,VET,Aston Martin,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,timing,1:UNDERCUT_ATTEMPT;3:VIRTUAL_SAFETY_CAR
+2022,15,Dutch Grand Prix,ZHO,Alfa Romeo,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,3:SAFETY_CAR
+2022,16,Italian Grand Prix,ALO,Alpine,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,16,Italian Grand Prix,BOT,Alfa Romeo,True,1,MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,16,Italian Grand Prix,DEV,Williams,True,1,SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:COVER
+2022,16,Italian Grand Prix,GAS,AlphaTauri,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2022,16,Italian Grand Prix,HAM,Mercedes,True,1,MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,16,Italian Grand Prix,LAT,Williams,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2022,16,Italian Grand Prix,LEC,Ferrari,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:NO_REFERENCE;3:SAFETY_CAR
+2022,16,Italian Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,2:SAFETY_CAR
+2022,16,Italian Grand Prix,MSC,Haas F1 Team,True,1,MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,16,Italian Grand Prix,NOR,McLaren,True,2,MEDIUM>SOFT>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2022,16,Italian Grand Prix,OCO,Alpine,True,1,SOFT>HARD,DIFFERS,stop count;sequence;timing,1:COVER
+2022,16,Italian Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:NO_REFERENCE
+2022,16,Italian Grand Prix,RIC,McLaren,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,16,Italian Grand Prix,RUS,Mercedes,True,2,SOFT>HARD>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2022,16,Italian Grand Prix,SAI,Ferrari,True,2,MEDIUM>SOFT>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2022,16,Italian Grand Prix,STR,Aston Martin,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,16,Italian Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2022,16,Italian Grand Prix,VER,Red Bull Racing,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2022,16,Italian Grand Prix,VET,Aston Martin,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,16,Italian Grand Prix,ZHO,Alfa Romeo,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2022,17,Singapore Grand Prix,ALB,Williams,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,17,Singapore Grand Prix,ALO,Alpine,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,17,Singapore Grand Prix,BOT,Alfa Romeo,True,1,INTERMEDIATE>SOFT,DIFFERS,sequence,
+2022,17,Singapore Grand Prix,GAS,AlphaTauri,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,HAM,Mercedes,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,LAT,Williams,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,17,Singapore Grand Prix,LEC,Ferrari,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,MAG,Haas F1 Team,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:WEATHER_TO_DRY
+2022,17,Singapore Grand Prix,MSC,Haas F1 Team,True,2,INTERMEDIATE>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2022,17,Singapore Grand Prix,NOR,McLaren,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,OCO,Alpine,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,17,Singapore Grand Prix,PER,Red Bull Racing,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,RIC,McLaren,True,1,INTERMEDIATE>SOFT,DIFFERS,sequence,
+2022,17,Singapore Grand Prix,RUS,Mercedes,True,4,INTERMEDIATE>MEDIUM>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_DRY;2:SAFETY_CAR;3:EXTRA_STOP;4:EXTRA_STOP
+2022,17,Singapore Grand Prix,SAI,Ferrari,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,STR,Aston Martin,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,TSU,AlphaTauri,False,1,INTERMEDIATE>MEDIUM,DID_NOT_COMPLETE,,
+2022,17,Singapore Grand Prix,VER,Red Bull Racing,True,2,INTERMEDIATE>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2022,17,Singapore Grand Prix,VET,Aston Martin,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2022,17,Singapore Grand Prix,ZHO,Alfa Romeo,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,18,Japanese Grand Prix,ALB,Williams,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,18,Japanese Grand Prix,ALO,Alpine,True,3,INTERMEDIATE>WET>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG;3:UNDERCUT_ATTEMPT
+2022,18,Japanese Grand Prix,BOT,Alfa Romeo,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,GAS,AlphaTauri,True,4,INTERMEDIATE>WET>WET>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:RED_FLAG;3:WET_TO_WET;4:EXTRA_STOP
+2022,18,Japanese Grand Prix,HAM,Mercedes,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,LAT,Williams,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,LEC,Ferrari,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,MAG,Haas F1 Team,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,MSC,Haas F1 Team,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG;2:WET_TO_WET
+2022,18,Japanese Grand Prix,NOR,McLaren,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,OCO,Alpine,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,PER,Red Bull Racing,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,RIC,McLaren,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,RUS,Mercedes,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,SAI,Ferrari,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2022,18,Japanese Grand Prix,STR,Aston Martin,True,3,INTERMEDIATE>WET>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG;3:UNDERCUT_ATTEMPT
+2022,18,Japanese Grand Prix,TSU,AlphaTauri,True,3,INTERMEDIATE>WET>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG;3:UNDERCUT_ATTEMPT
+2022,18,Japanese Grand Prix,VER,Red Bull Racing,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,VET,Aston Martin,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,timing,1:RED_FLAG
+2022,18,Japanese Grand Prix,ZHO,Alfa Romeo,True,3,INTERMEDIATE>WET>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG;3:UNDERCUT_ATTEMPT
+2022,19,United States Grand Prix,ALB,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:SAFETY_CAR
+2022,19,United States Grand Prix,ALO,Alpine,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR
+2022,19,United States Grand Prix,BOT,Alfa Romeo,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,19,United States Grand Prix,GAS,AlphaTauri,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2022,19,United States Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2022,19,United States Grand Prix,LAT,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2022,19,United States Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2022,19,United States Grand Prix,MAG,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR
+2022,19,United States Grand Prix,MSC,Haas F1 Team,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR
+2022,19,United States Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2022,19,United States Grand Prix,OCO,Alpine,True,2,HARD>HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR;2:LATER_THAN_REFERENCE
+2022,19,United States Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:COVER
+2022,19,United States Grand Prix,RIC,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2022,19,United States Grand Prix,RUS,Mercedes,True,3,MEDIUM>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,3:EXTRA_STOP
+2022,19,United States Grand Prix,SAI,Ferrari,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,19,United States Grand Prix,STR,Aston Martin,False,1,MEDIUM>MEDIUM,DID_NOT_COMPLETE,,
+2022,19,United States Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2022,19,United States Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2022,19,United States Grand Prix,VET,Aston Martin,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR;2:LATER_THAN_REFERENCE
+2022,19,United States Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:SAFETY_CAR
+2022,20,Mexico City Grand Prix,ALB,Williams,True,1,MEDIUM>SOFT,DIFFERS,sequence,
+2022,20,Mexico City Grand Prix,ALO,Alpine,True,1,MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,BOT,Alfa Romeo,True,1,MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,GAS,AlphaTauri,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,LAT,Williams,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2022,20,Mexico City Grand Prix,LEC,Ferrari,True,1,SOFT>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>SOFT,DIFFERS,sequence,
+2022,20,Mexico City Grand Prix,MSC,Haas F1 Team,True,1,SOFT>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,sequence;timing,1:COVER
+2022,20,Mexico City Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,DIFFERS,sequence,
+2022,20,Mexico City Grand Prix,PER,Red Bull Racing,True,1,SOFT>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,RIC,McLaren,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2022,20,Mexico City Grand Prix,SAI,Ferrari,True,1,SOFT>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,STR,Aston Martin,True,2,MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:COVER
+2022,20,Mexico City Grand Prix,TSU,AlphaTauri,False,1,SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2022,20,Mexico City Grand Prix,VER,Red Bull Racing,True,1,SOFT>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2022,20,Mexico City Grand Prix,VET,Aston Martin,True,1,SOFT>MEDIUM,MATCHES_REFERENCE,,
+2022,20,Mexico City Grand Prix,ZHO,Alfa Romeo,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,21,São Paulo Grand Prix,ALB,Williams,True,3,HARD>MEDIUM>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2022,21,São Paulo Grand Prix,ALO,Alpine,True,3,MEDIUM>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2022,21,São Paulo Grand Prix,BOT,Alfa Romeo,True,2,SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,21,São Paulo Grand Prix,GAS,AlphaTauri,True,3,SOFT>MEDIUM>SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2022,21,São Paulo Grand Prix,HAM,Mercedes,True,2,SOFT>MEDIUM>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2022,21,São Paulo Grand Prix,LAT,Williams,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2022,21,São Paulo Grand Prix,LEC,Ferrari,True,3,MEDIUM>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:COVER;3:EXTRA_STOP
+2022,21,São Paulo Grand Prix,MAG,Haas F1 Team,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2022,21,São Paulo Grand Prix,MSC,Haas F1 Team,True,2,MEDIUM>SOFT>SOFT,DIFFERS,sequence,
+2022,21,São Paulo Grand Prix,NOR,McLaren,False,2,SOFT>MEDIUM>SOFT,DID_NOT_COMPLETE,,
+2022,21,São Paulo Grand Prix,OCO,Alpine,True,2,SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,21,São Paulo Grand Prix,PER,Red Bull Racing,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence,
+2022,21,São Paulo Grand Prix,RIC,McLaren,False,0,SOFT,DID_NOT_COMPLETE,,
+2022,21,São Paulo Grand Prix,RUS,Mercedes,True,2,SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2022,21,São Paulo Grand Prix,SAI,Ferrari,True,3,MEDIUM>SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2022,21,São Paulo Grand Prix,STR,Aston Martin,True,2,MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2022,21,São Paulo Grand Prix,TSU,AlphaTauri,True,3,MEDIUM>SOFT>SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE;3:SAFETY_CAR
+2022,21,São Paulo Grand Prix,VER,Red Bull Racing,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT;3:COVER
+2022,21,São Paulo Grand Prix,VET,Aston Martin,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence,
+2022,21,São Paulo Grand Prix,ZHO,Alfa Romeo,True,2,SOFT>MEDIUM>SOFT,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2022,22,Abu Dhabi Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2022,22,Abu Dhabi Grand Prix,ALO,Alpine,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2022,22,Abu Dhabi Grand Prix,BOT,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,22,Abu Dhabi Grand Prix,GAS,AlphaTauri,True,1,SOFT>HARD,DIFFERS,stop count;sequence,
+2022,22,Abu Dhabi Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2022,22,Abu Dhabi Grand Prix,LAT,Williams,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,22,Abu Dhabi Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,22,Abu Dhabi Grand Prix,MAG,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2022,22,Abu Dhabi Grand Prix,MSC,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2022,22,Abu Dhabi Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,22,Abu Dhabi Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2022,22,Abu Dhabi Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2022,22,Abu Dhabi Grand Prix,RIC,McLaren,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,22,Abu Dhabi Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,22,Abu Dhabi Grand Prix,SAI,Ferrari,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2022,22,Abu Dhabi Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2022,22,Abu Dhabi Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence,
+2022,22,Abu Dhabi Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2022,22,Abu Dhabi Grand Prix,VET,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2022,22,Abu Dhabi Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,1,Bahrain Grand Prix,ALB,Williams,True,3,SOFT>SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2023,1,Bahrain Grand Prix,ALO,Aston Martin,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2023,1,Bahrain Grand Prix,BOT,Alfa Romeo,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2023,1,Bahrain Grand Prix,DEV,AlphaTauri,True,2,SOFT>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2023,1,Bahrain Grand Prix,GAS,Alpine,True,3,SOFT>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT;3:VIRTUAL_SAFETY_CAR
+2023,1,Bahrain Grand Prix,HAM,Mercedes,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2023,1,Bahrain Grand Prix,HUL,Haas F1 Team,True,3,SOFT>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2023,1,Bahrain Grand Prix,LEC,Ferrari,False,2,SOFT>HARD>HARD,DID_NOT_COMPLETE,,
+2023,1,Bahrain Grand Prix,MAG,Haas F1 Team,True,3,HARD>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,3:VIRTUAL_SAFETY_CAR
+2023,1,Bahrain Grand Prix,NOR,McLaren,True,6,SOFT>HARD>SOFT>MEDIUM>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP;4:EXTRA_STOP;5:EXTRA_STOP;6:EXTRA_STOP
+2023,1,Bahrain Grand Prix,OCO,Alpine,False,2,SOFT>HARD>HARD,DID_NOT_COMPLETE,,
+2023,1,Bahrain Grand Prix,PER,Red Bull Racing,True,2,SOFT>SOFT>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,1,Bahrain Grand Prix,PIA,McLaren,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,1,Bahrain Grand Prix,RUS,Mercedes,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2023,1,Bahrain Grand Prix,SAI,Ferrari,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2023,1,Bahrain Grand Prix,SAR,Williams,True,3,SOFT>SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,3:VIRTUAL_SAFETY_CAR
+2023,1,Bahrain Grand Prix,STR,Aston Martin,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2023,1,Bahrain Grand Prix,TSU,AlphaTauri,True,3,SOFT>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:VIRTUAL_SAFETY_CAR
+2023,1,Bahrain Grand Prix,VER,Red Bull Racing,True,2,SOFT>SOFT>HARD,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,1,Bahrain Grand Prix,ZHO,Alfa Romeo,True,3,SOFT>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,3:EXTRA_STOP
+2023,2,Saudi Arabian Grand Prix,ALB,Williams,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,2,Saudi Arabian Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,2,Saudi Arabian Grand Prix,BOT,Alfa Romeo,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR;3:EXTRA_STOP
+2023,2,Saudi Arabian Grand Prix,DEV,AlphaTauri,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,2,Saudi Arabian Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,2,Saudi Arabian Grand Prix,HAM,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2023,2,Saudi Arabian Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,2,Saudi Arabian Grand Prix,LEC,Ferrari,True,1,SOFT>HARD,DIFFERS,sequence,
+2023,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2023,2,Saudi Arabian Grand Prix,NOR,McLaren,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2023,2,Saudi Arabian Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,2,Saudi Arabian Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,2,Saudi Arabian Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,2,Saudi Arabian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,2,Saudi Arabian Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,2,Saudi Arabian Grand Prix,SAR,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2023,2,Saudi Arabian Grand Prix,STR,Aston Martin,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,2,Saudi Arabian Grand Prix,TSU,AlphaTauri,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,2,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR
+2023,3,Australian Grand Prix,ALB,Williams,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,3,Australian Grand Prix,ALO,Aston Martin,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG
+2023,3,Australian Grand Prix,BOT,Alfa Romeo,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:RED_FLAG
+2023,3,Australian Grand Prix,DEV,AlphaTauri,True,3,HARD>MEDIUM>SOFT>SOFT,DIFFERS,sequence;timing,1:RED_FLAG;2:NO_REFERENCE;3:RED_FLAG
+2023,3,Australian Grand Prix,GAS,Alpine,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:RED_FLAG
+2023,3,Australian Grand Prix,HAM,Mercedes,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG
+2023,3,Australian Grand Prix,HUL,Haas F1 Team,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG
+2023,3,Australian Grand Prix,LEC,Ferrari,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,3,Australian Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG
+2023,3,Australian Grand Prix,NOR,McLaren,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG
+2023,3,Australian Grand Prix,OCO,Alpine,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:RED_FLAG
+2023,3,Australian Grand Prix,PER,Red Bull Racing,True,5,HARD>MEDIUM>HARD>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR;3:RED_FLAG;4:RED_FLAG;5:RED_FLAG
+2023,3,Australian Grand Prix,PIA,McLaren,True,4,MEDIUM>HARD>SOFT>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG;4:RED_FLAG
+2023,3,Australian Grand Prix,RUS,Mercedes,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,3,Australian Grand Prix,SAI,Ferrari,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG
+2023,3,Australian Grand Prix,SAR,Williams,True,5,HARD>MEDIUM>HARD>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR;3:RED_FLAG;4:UNDERCUT_ATTEMPT;5:RED_FLAG
+2023,3,Australian Grand Prix,STR,Aston Martin,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG
+2023,3,Australian Grand Prix,TSU,AlphaTauri,True,4,MEDIUM>HARD>SOFT>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:RED_FLAG;3:RED_FLAG;4:RED_FLAG
+2023,3,Australian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:RED_FLAG
+2023,3,Australian Grand Prix,ZHO,Alfa Romeo,True,3,SOFT>HARD>SOFT>SOFT,DIFFERS,sequence;timing,1:SAFETY_CAR;2:RED_FLAG;3:RED_FLAG
+2023,4,Azerbaijan Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,BOT,Alfa Romeo,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR;3:EXTRA_STOP
+2023,4,Azerbaijan Grand Prix,DEV,AlphaTauri,False,0,HARD,DID_NOT_COMPLETE,,
+2023,4,Azerbaijan Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2023,4,Azerbaijan Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,HUL,Haas F1 Team,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,4,Azerbaijan Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,OCO,Alpine,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,4,Azerbaijan Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2023,4,Azerbaijan Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,SAR,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,TSU,AlphaTauri,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,4,Azerbaijan Grand Prix,ZHO,Alfa Romeo,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,5,Miami Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,5,Miami Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2023,5,Miami Grand Prix,BOT,Alfa Romeo,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2023,5,Miami Grand Prix,DEV,AlphaTauri,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,5,Miami Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,5,Miami Grand Prix,HAM,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,5,Miami Grand Prix,HUL,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,5,Miami Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,5,Miami Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,5,Miami Grand Prix,NOR,McLaren,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,5,Miami Grand Prix,OCO,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,5,Miami Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,5,Miami Grand Prix,PIA,McLaren,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,5,Miami Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,5,Miami Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,5,Miami Grand Prix,SAR,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2023,5,Miami Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,5,Miami Grand Prix,TSU,AlphaTauri,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,5,Miami Grand Prix,VER,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,5,Miami Grand Prix,ZHO,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>INTERMEDIATE,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,ALO,Aston Martin,True,2,HARD>MEDIUM>INTERMEDIATE,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,BOT,Alfa Romeo,True,1,HARD>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,DEV,AlphaTauri,True,1,MEDIUM>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,GAS,Alpine,True,2,HARD>MEDIUM>INTERMEDIATE,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>INTERMEDIATE,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,HUL,Haas F1 Team,True,3,MEDIUM>HARD>INTERMEDIATE>WET,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;3:WET_TO_WET
+2023,6,Monaco Grand Prix,LEC,Ferrari,True,2,HARD>MEDIUM>INTERMEDIATE,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,MAG,Haas F1 Team,True,1,HARD>WET,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>INTERMEDIATE,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>INTERMEDIATE,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,PER,Red Bull Racing,True,5,MEDIUM>HARD>MEDIUM>INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT;3:WEATHER_TO_WET;4:WET_TO_WET;5:WET_TO_WET
+2023,6,Monaco Grand Prix,PIA,McLaren,True,1,HARD>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,RUS,Mercedes,True,1,HARD>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,SAI,Ferrari,True,2,HARD>MEDIUM>INTERMEDIATE,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,6,Monaco Grand Prix,SAR,Williams,True,3,MEDIUM>HARD>SOFT>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE;3:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,STR,Aston Martin,False,1,HARD>INTERMEDIATE,DID_NOT_COMPLETE,,
+2023,6,Monaco Grand Prix,TSU,AlphaTauri,True,1,MEDIUM>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET
+2023,6,Monaco Grand Prix,ZHO,Alfa Romeo,True,2,SOFT>HARD>INTERMEDIATE,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,ALB,Williams,True,2,SOFT>HARD>MEDIUM,MATCHES_REFERENCE,,
+2023,7,Spanish Grand Prix,ALO,Aston Martin,True,2,SOFT>SOFT>HARD,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,BOT,Alfa Romeo,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,7,Spanish Grand Prix,DEV,AlphaTauri,True,2,SOFT>HARD>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2023,7,Spanish Grand Prix,GAS,Alpine,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence,
+2023,7,Spanish Grand Prix,HAM,Mercedes,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,HUL,Haas F1 Team,True,3,SOFT>MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2023,7,Spanish Grand Prix,LEC,Ferrari,True,2,HARD>SOFT>HARD,DIFFERS,sequence,
+2023,7,Spanish Grand Prix,MAG,Haas F1 Team,True,3,SOFT>MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:COVER;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2023,7,Spanish Grand Prix,NOR,McLaren,True,3,SOFT>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2023,7,Spanish Grand Prix,OCO,Alpine,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,2:COVER
+2023,7,Spanish Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,PIA,McLaren,True,2,SOFT>HARD>MEDIUM,MATCHES_REFERENCE,,
+2023,7,Spanish Grand Prix,RUS,Mercedes,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,SAI,Ferrari,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence,
+2023,7,Spanish Grand Prix,SAR,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2023,7,Spanish Grand Prix,STR,Aston Martin,True,2,SOFT>SOFT>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,TSU,AlphaTauri,True,2,SOFT>HARD>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,7,Spanish Grand Prix,ZHO,Alfa Romeo,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,8,Canadian Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2023,8,Canadian Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,8,Canadian Grand Prix,BOT,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,8,Canadian Grand Prix,DEV,AlphaTauri,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2023,8,Canadian Grand Prix,GAS,Alpine,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT
+2023,8,Canadian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2023,8,Canadian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2023,8,Canadian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,8,Canadian Grand Prix,MAG,Haas F1 Team,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,8,Canadian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2023,8,Canadian Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2023,8,Canadian Grand Prix,PER,Red Bull Racing,True,2,HARD>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,8,Canadian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,8,Canadian Grand Prix,RUS,Mercedes,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,8,Canadian Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2023,8,Canadian Grand Prix,SAR,Williams,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,8,Canadian Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2023,8,Canadian Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>HARD>?,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:COVER
+2023,8,Canadian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2023,8,Canadian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2023,9,Austrian Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,9,Austrian Grand Prix,ALO,Aston Martin,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence,
+2023,9,Austrian Grand Prix,BOT,Alfa Romeo,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2023,9,Austrian Grand Prix,DEV,AlphaTauri,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2023,9,Austrian Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2023,9,Austrian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2023,9,Austrian Grand Prix,HUL,Haas F1 Team,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,9,Austrian Grand Prix,LEC,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,9,Austrian Grand Prix,MAG,Haas F1 Team,True,3,HARD>MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR;3:EXTRA_STOP
+2023,9,Austrian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,9,Austrian Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,9,Austrian Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,9,Austrian Grand Prix,PIA,McLaren,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT;3:COVER
+2023,9,Austrian Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2023,9,Austrian Grand Prix,SAI,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,9,Austrian Grand Prix,SAR,Williams,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,9,Austrian Grand Prix,STR,Aston Martin,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2023,9,Austrian Grand Prix,TSU,AlphaTauri,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:COVER
+2023,9,Austrian Grand Prix,VER,Red Bull Racing,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE;3:EXTRA_STOP
+2023,9,Austrian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2023,10,British Grand Prix,ALB,Williams,True,1,MEDIUM>SOFT,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2023,10,British Grand Prix,ALO,Aston Martin,True,1,MEDIUM>SOFT,DIFFERS,timing,1:SAFETY_CAR
+2023,10,British Grand Prix,BOT,Alfa Romeo,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2023,10,British Grand Prix,DEV,AlphaTauri,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:VIRTUAL_SAFETY_CAR
+2023,10,British Grand Prix,GAS,Alpine,False,1,MEDIUM>SOFT,DID_NOT_COMPLETE,,
+2023,10,British Grand Prix,HAM,Mercedes,True,1,MEDIUM>SOFT,DIFFERS,timing,1:SAFETY_CAR
+2023,10,British Grand Prix,HUL,Haas F1 Team,True,2,HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:VIRTUAL_SAFETY_CAR
+2023,10,British Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:VIRTUAL_SAFETY_CAR
+2023,10,British Grand Prix,MAG,Haas F1 Team,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,10,British Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR
+2023,10,British Grand Prix,OCO,Alpine,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,10,British Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2023,10,British Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,sequence,
+2023,10,British Grand Prix,RUS,Mercedes,True,1,SOFT>MEDIUM,DIFFERS,sequence,
+2023,10,British Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,DIFFERS,sequence,
+2023,10,British Grand Prix,SAR,Williams,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2023,10,British Grand Prix,STR,Aston Martin,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2023,10,British Grand Prix,TSU,AlphaTauri,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:VIRTUAL_SAFETY_CAR
+2023,10,British Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>SOFT,DIFFERS,timing,1:SAFETY_CAR
+2023,10,British Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2023,11,Hungarian Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,BOT,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,GAS,Alpine,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,11,Hungarian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,11,Hungarian Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,11,Hungarian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2023,11,Hungarian Grand Prix,OCO,Alpine,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,11,Hungarian Grand Prix,PER,Red Bull Racing,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2023,11,Hungarian Grand Prix,RIC,AlphaTauri,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT
+2023,11,Hungarian Grand Prix,RUS,Mercedes,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,SAI,Ferrari,True,2,SOFT>HARD>HARD,DIFFERS,sequence,
+2023,11,Hungarian Grand Prix,SAR,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2023,11,Hungarian Grand Prix,STR,Aston Martin,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,TSU,AlphaTauri,True,2,SOFT>HARD>MEDIUM,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,11,Hungarian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:COVER;2:EARLIER_THAN_REFERENCE
+2023,12,Belgian Grand Prix,ALB,Williams,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,3:UNDERCUT_ATTEMPT
+2023,12,Belgian Grand Prix,ALO,Aston Martin,True,2,MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,2:COVER
+2023,12,Belgian Grand Prix,BOT,Alfa Romeo,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence,
+2023,12,Belgian Grand Prix,GAS,Alpine,True,1,SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,12,Belgian Grand Prix,HAM,Mercedes,True,3,SOFT>MEDIUM>SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;3:EXTRA_STOP
+2023,12,Belgian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>SOFT>SOFT,DIFFERS,sequence;timing,1:COVER
+2023,12,Belgian Grand Prix,LEC,Ferrari,True,2,SOFT>MEDIUM>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2023,12,Belgian Grand Prix,MAG,Haas F1 Team,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence,
+2023,12,Belgian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT
+2023,12,Belgian Grand Prix,OCO,Alpine,True,2,SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2023,12,Belgian Grand Prix,PER,Red Bull Racing,True,2,SOFT>MEDIUM>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,12,Belgian Grand Prix,PIA,McLaren,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,12,Belgian Grand Prix,RIC,AlphaTauri,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence,
+2023,12,Belgian Grand Prix,RUS,Mercedes,True,1,MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,12,Belgian Grand Prix,SAI,Ferrari,False,1,SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2023,12,Belgian Grand Prix,SAR,Williams,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,3:UNDERCUT_ATTEMPT
+2023,12,Belgian Grand Prix,STR,Aston Martin,True,1,MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2023,12,Belgian Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>MEDIUM>SOFT,DIFFERS,sequence,
+2023,12,Belgian Grand Prix,VER,Red Bull Racing,True,2,SOFT>MEDIUM>SOFT,DIFFERS,timing,1:COVER;2:LATER_THAN_REFERENCE
+2023,12,Belgian Grand Prix,ZHO,Alfa Romeo,True,2,SOFT>MEDIUM>SOFT,MATCHES_REFERENCE,,
+2023,13,Dutch Grand Prix,ALB,Williams,True,3,SOFT>MEDIUM>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:WEATHER_TO_WET;3:RED_FLAG
+2023,13,Dutch Grand Prix,ALO,Aston Martin,True,4,SOFT>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE,DIFFERS,timing,3:EARLIER_THAN_REFERENCE
+2023,13,Dutch Grand Prix,BOT,Alfa Romeo,True,4,SOFT>MEDIUM>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:SAFETY_CAR;2:COVER
+2023,13,Dutch Grand Prix,GAS,Alpine,True,4,SOFT>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE,DIFFERS,timing,3:EARLIER_THAN_REFERENCE
+2023,13,Dutch Grand Prix,HAM,Mercedes,True,5,MEDIUM>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:UNDERCUT_ATTEMPT;5:RED_FLAG
+2023,13,Dutch Grand Prix,HUL,Haas F1 Team,True,4,SOFT>MEDIUM>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2023,13,Dutch Grand Prix,LAW,AlphaTauri,True,6,SOFT>INTERMEDIATE>SOFT>MEDIUM>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:SAFETY_CAR;4:UNDERCUT_ATTEMPT;5:WEATHER_TO_WET;6:RED_FLAG
+2023,13,Dutch Grand Prix,LEC,Ferrari,False,2,SOFT>INTERMEDIATE>SOFT,DID_NOT_COMPLETE,,
+2023,13,Dutch Grand Prix,MAG,Haas F1 Team,True,4,SOFT>INTERMEDIATE>SOFT>MEDIUM>INTERMEDIATE,DIFFERS,sequence;timing,3:UNDERCUT_ATTEMPT
+2023,13,Dutch Grand Prix,NOR,McLaren,True,5,SOFT>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:UNDERCUT_ATTEMPT;5:RED_FLAG
+2023,13,Dutch Grand Prix,OCO,Alpine,True,5,SOFT>INTERMEDIATE>SOFT>SOFT>WET>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:EARLIER_THAN_REFERENCE;5:RED_FLAG
+2023,13,Dutch Grand Prix,PER,Red Bull Racing,True,5,SOFT>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:EARLIER_THAN_REFERENCE;5:RED_FLAG
+2023,13,Dutch Grand Prix,PIA,McLaren,True,4,SOFT>SOFT>MEDIUM>INTERMEDIATE>INTERMEDIATE,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2023,13,Dutch Grand Prix,RUS,Mercedes,True,6,SOFT>INTERMEDIATE>SOFT>HARD>INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:SAFETY_CAR;5:RED_FLAG;6:UNDERCUT_ATTEMPT
+2023,13,Dutch Grand Prix,SAI,Ferrari,True,5,SOFT>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:EARLIER_THAN_REFERENCE;5:RED_FLAG
+2023,13,Dutch Grand Prix,SAR,Williams,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,13,Dutch Grand Prix,STR,Aston Martin,True,6,SOFT>INTERMEDIATE>SOFT>MEDIUM>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:SAFETY_CAR;4:UNDERCUT_ATTEMPT;5:WEATHER_TO_WET;6:RED_FLAG
+2023,13,Dutch Grand Prix,TSU,AlphaTauri,True,4,SOFT>INTERMEDIATE>SOFT>INTERMEDIATE>INTERMEDIATE,DIFFERS,sequence,
+2023,13,Dutch Grand Prix,VER,Red Bull Racing,True,6,SOFT>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,stop count;sequence;timing,3:EARLIER_THAN_REFERENCE;5:RED_FLAG;6:RED_FLAG
+2023,13,Dutch Grand Prix,ZHO,Alfa Romeo,False,4,SOFT>INTERMEDIATE>MEDIUM>SOFT>INTERMEDIATE,DID_NOT_COMPLETE,,
+2023,14,Italian Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,14,Italian Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,BOT,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,14,Italian Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2023,14,Italian Grand Prix,HAM,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2023,14,Italian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2023,14,Italian Grand Prix,LAW,AlphaTauri,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2023,14,Italian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,MAG,Haas F1 Team,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2023,14,Italian Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,OCO,Alpine,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,14,Italian Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2023,14,Italian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,SAR,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,14,Italian Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,14,Italian Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2023,15,Singapore Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2023,15,Singapore Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2023,15,Singapore Grand Prix,BOT,Alfa Romeo,False,1,HARD>MEDIUM,DID_NOT_COMPLETE,,
+2023,15,Singapore Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,15,Singapore Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2023,15,Singapore Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,15,Singapore Grand Prix,LAW,AlphaTauri,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,15,Singapore Grand Prix,LEC,Ferrari,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR
+2023,15,Singapore Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2023,15,Singapore Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,15,Singapore Grand Prix,OCO,Alpine,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,15,Singapore Grand Prix,PER,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:NO_REFERENCE
+2023,15,Singapore Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,15,Singapore Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2023,15,Singapore Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,15,Singapore Grand Prix,SAR,Williams,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:VIRTUAL_SAFETY_CAR
+2023,15,Singapore Grand Prix,TSU,AlphaTauri,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,15,Singapore Grand Prix,VER,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:NO_REFERENCE
+2023,15,Singapore Grand Prix,ZHO,Alfa Romeo,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:NO_REFERENCE;2:SAFETY_CAR
+2023,16,Japanese Grand Prix,ALB,Williams,False,2,MEDIUM>MEDIUM>SOFT,DID_NOT_COMPLETE,,
+2023,16,Japanese Grand Prix,ALO,Aston Martin,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2023,16,Japanese Grand Prix,BOT,Alfa Romeo,False,2,SOFT>SOFT>HARD,DID_NOT_COMPLETE,,
+2023,16,Japanese Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,16,Japanese Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,16,Japanese Grand Prix,HUL,Haas F1 Team,True,3,SOFT>MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2023,16,Japanese Grand Prix,LAW,AlphaTauri,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2023,16,Japanese Grand Prix,LEC,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,16,Japanese Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2023,16,Japanese Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,16,Japanese Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE
+2023,16,Japanese Grand Prix,PER,Red Bull Racing,False,4,MEDIUM>HARD>SOFT>SOFT>SOFT,DID_NOT_COMPLETE,,
+2023,16,Japanese Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,16,Japanese Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,16,Japanese Grand Prix,SAI,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,16,Japanese Grand Prix,SAR,Williams,False,2,MEDIUM>MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,16,Japanese Grand Prix,STR,Aston Martin,False,1,SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2023,16,Japanese Grand Prix,TSU,AlphaTauri,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2023,16,Japanese Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,16,Japanese Grand Prix,ZHO,Alfa Romeo,True,3,SOFT>SOFT>SOFT>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2023,17,Qatar Grand Prix,ALB,Williams,True,3,MEDIUM>MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,17,Qatar Grand Prix,ALO,Aston Martin,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2023,17,Qatar Grand Prix,BOT,Alfa Romeo,True,3,SOFT>MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:UNDERCUT_ATTEMPT
+2023,17,Qatar Grand Prix,GAS,Alpine,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2023,17,Qatar Grand Prix,HAM,Mercedes,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,17,Qatar Grand Prix,HUL,Haas F1 Team,True,3,MEDIUM>HARD>MEDIUM>HARD,DIFFERS,sequence;timing,3:EARLIER_THAN_REFERENCE
+2023,17,Qatar Grand Prix,LAW,AlphaTauri,True,3,SOFT>HARD>HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE;3:EARLIER_THAN_REFERENCE
+2023,17,Qatar Grand Prix,LEC,Ferrari,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2023,17,Qatar Grand Prix,MAG,Haas F1 Team,True,3,SOFT>MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE;3:EARLIER_THAN_REFERENCE
+2023,17,Qatar Grand Prix,NOR,McLaren,True,3,MEDIUM>MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,17,Qatar Grand Prix,OCO,Alpine,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2023,17,Qatar Grand Prix,PER,Red Bull Racing,True,3,HARD>MEDIUM>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,17,Qatar Grand Prix,PIA,McLaren,True,3,MEDIUM>MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,17,Qatar Grand Prix,RUS,Mercedes,True,4,MEDIUM>MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE;3:EARLIER_THAN_REFERENCE;4:EXTRA_STOP
+2023,17,Qatar Grand Prix,SAR,Williams,False,2,MEDIUM>MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,17,Qatar Grand Prix,STR,Aston Martin,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE;3:UNDERCUT_ATTEMPT
+2023,17,Qatar Grand Prix,TSU,AlphaTauri,True,3,MEDIUM>MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2023,17,Qatar Grand Prix,VER,Red Bull Racing,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE;3:LATER_THAN_REFERENCE
+2023,17,Qatar Grand Prix,ZHO,Alfa Romeo,True,3,MEDIUM>HARD>HARD>SOFT,DIFFERS,sequence;timing,1:COVER;2:LATER_THAN_REFERENCE;3:LATER_THAN_REFERENCE
+2023,18,United States Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2023,18,United States Grand Prix,ALO,Aston Martin,False,2,MEDIUM>MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,18,United States Grand Prix,BOT,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2023,18,United States Grand Prix,GAS,Alpine,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,18,United States Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2023,18,United States Grand Prix,HUL,Haas F1 Team,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence,
+2023,18,United States Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,18,United States Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2023,18,United States Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2023,18,United States Grand Prix,OCO,Alpine,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,18,United States Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,18,United States Grand Prix,PIA,McLaren,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,18,United States Grand Prix,RIC,AlphaTauri,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2023,18,United States Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2023,18,United States Grand Prix,SAI,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,18,United States Grand Prix,SAR,Williams,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2023,18,United States Grand Prix,STR,Aston Martin,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,18,United States Grand Prix,TSU,AlphaTauri,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,3:EXTRA_STOP
+2023,18,United States Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2023,18,United States Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2023,19,Mexico City Grand Prix,ALB,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2023,19,Mexico City Grand Prix,ALO,Aston Martin,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,19,Mexico City Grand Prix,BOT,Alfa Romeo,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,19,Mexico City Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,19,Mexico City Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:RED_FLAG
+2023,19,Mexico City Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:RED_FLAG
+2023,19,Mexico City Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,19,Mexico City Grand Prix,MAG,Haas F1 Team,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2023,19,Mexico City Grand Prix,NOR,McLaren,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:RED_FLAG
+2023,19,Mexico City Grand Prix,OCO,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:RED_FLAG
+2023,19,Mexico City Grand Prix,PER,Red Bull Racing,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,19,Mexico City Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:RED_FLAG
+2023,19,Mexico City Grand Prix,RIC,AlphaTauri,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,19,Mexico City Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:COVER;2:RED_FLAG
+2023,19,Mexico City Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,19,Mexico City Grand Prix,SAR,Williams,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:COVER;2:RED_FLAG
+2023,19,Mexico City Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2023,19,Mexico City Grand Prix,TSU,AlphaTauri,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:RED_FLAG
+2023,19,Mexico City Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:RED_FLAG
+2023,19,Mexico City Grand Prix,ZHO,Alfa Romeo,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2023,20,São Paulo Grand Prix,ALB,Williams,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,20,São Paulo Grand Prix,ALO,Aston Martin,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG;3:EARLIER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,BOT,Alfa Romeo,False,2,SOFT>SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2023,20,São Paulo Grand Prix,GAS,Alpine,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG;3:EARLIER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,HAM,Mercedes,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:EARLIER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,HUL,Haas F1 Team,True,4,SOFT>MEDIUM>SOFT>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:RED_FLAG;3:EARLIER_THAN_REFERENCE;4:EXTRA_STOP
+2023,20,São Paulo Grand Prix,MAG,Haas F1 Team,False,0,SOFT,DID_NOT_COMPLETE,,
+2023,20,São Paulo Grand Prix,NOR,McLaren,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG;3:LATER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,OCO,Alpine,True,4,SOFT>SOFT>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:EARLIER_THAN_REFERENCE;4:EXTRA_STOP
+2023,20,São Paulo Grand Prix,PER,Red Bull Racing,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:EARLIER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,PIA,McLaren,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,sequence;timing,1:SAFETY_CAR
+2023,20,São Paulo Grand Prix,RIC,AlphaTauri,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:SAFETY_CAR
+2023,20,São Paulo Grand Prix,RUS,Mercedes,False,3,SOFT>SOFT>MEDIUM>SOFT,DID_NOT_COMPLETE,,
+2023,20,São Paulo Grand Prix,SAI,Ferrari,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:NO_REFERENCE;2:LATER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,SAR,Williams,True,3,MEDIUM>SOFT>SOFT>SOFT,DIFFERS,sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:EARLIER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,STR,Aston Martin,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG
+2023,20,São Paulo Grand Prix,TSU,AlphaTauri,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG
+2023,20,São Paulo Grand Prix,VER,Red Bull Racing,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,timing,1:RED_FLAG;3:LATER_THAN_REFERENCE
+2023,20,São Paulo Grand Prix,ZHO,Alfa Romeo,False,2,SOFT>SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2023,21,Las Vegas Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2023,21,Las Vegas Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2023,21,Las Vegas Grand Prix,BOT,Alfa Romeo,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2023,21,Las Vegas Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2023,21,Las Vegas Grand Prix,HAM,Mercedes,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence,
+2023,21,Las Vegas Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2023,21,Las Vegas Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,21,Las Vegas Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,21,Las Vegas Grand Prix,NOR,McLaren,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2023,21,Las Vegas Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,21,Las Vegas Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2023,21,Las Vegas Grand Prix,PIA,McLaren,True,2,HARD>HARD>MEDIUM,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2023,21,Las Vegas Grand Prix,RIC,AlphaTauri,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2023,21,Las Vegas Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,21,Las Vegas Grand Prix,SAI,Ferrari,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:SAFETY_CAR
+2023,21,Las Vegas Grand Prix,SAR,Williams,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2023,21,Las Vegas Grand Prix,STR,Aston Martin,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR
+2023,21,Las Vegas Grand Prix,TSU,AlphaTauri,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2023,21,Las Vegas Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,21,Las Vegas Grand Prix,ZHO,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR
+2023,22,Abu Dhabi Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2023,22,Abu Dhabi Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,22,Abu Dhabi Grand Prix,BOT,Alfa Romeo,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2023,22,Abu Dhabi Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:COVER
+2023,22,Abu Dhabi Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,22,Abu Dhabi Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,22,Abu Dhabi Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,22,Abu Dhabi Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2023,22,Abu Dhabi Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,22,Abu Dhabi Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2023,22,Abu Dhabi Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2023,22,Abu Dhabi Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,22,Abu Dhabi Grand Prix,RIC,AlphaTauri,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2023,22,Abu Dhabi Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2023,22,Abu Dhabi Grand Prix,SAI,Ferrari,True,2,HARD>HARD>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2023,22,Abu Dhabi Grand Prix,SAR,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2023,22,Abu Dhabi Grand Prix,STR,Aston Martin,True,2,HARD>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2023,22,Abu Dhabi Grand Prix,TSU,AlphaTauri,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2023,22,Abu Dhabi Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2023,22,Abu Dhabi Grand Prix,ZHO,Alfa Romeo,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2024,1,Bahrain Grand Prix,ALB,Williams,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,ALO,Aston Martin,True,2,SOFT>HARD>HARD,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2024,1,Bahrain Grand Prix,BOT,Kick Sauber,True,2,SOFT>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2024,1,Bahrain Grand Prix,GAS,Alpine,True,3,SOFT>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,3:EXTRA_STOP
+2024,1,Bahrain Grand Prix,HAM,Mercedes,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,HUL,Haas F1 Team,True,3,SOFT>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,1,Bahrain Grand Prix,LEC,Ferrari,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,MAG,Haas F1 Team,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,NOR,McLaren,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,OCO,Alpine,True,2,SOFT>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2024,1,Bahrain Grand Prix,PER,Red Bull Racing,True,2,SOFT>HARD>SOFT,DIFFERS,sequence,
+2024,1,Bahrain Grand Prix,PIA,McLaren,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,RIC,RB,True,2,SOFT>HARD>SOFT,DIFFERS,sequence,
+2024,1,Bahrain Grand Prix,RUS,Mercedes,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,SAI,Ferrari,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,SAR,Williams,True,3,SOFT>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,1,Bahrain Grand Prix,STR,Aston Martin,True,2,SOFT>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2024,1,Bahrain Grand Prix,TSU,RB,True,2,SOFT>HARD>HARD,MATCHES_REFERENCE,,
+2024,1,Bahrain Grand Prix,VER,Red Bull Racing,True,2,SOFT>HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,1,Bahrain Grand Prix,ZHO,Kick Sauber,True,2,SOFT>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2024,2,Saudi Arabian Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,BEA,Ferrari,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,BOT,Kick Sauber,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2024,2,Saudi Arabian Grand Prix,GAS,Alpine,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,2,Saudi Arabian Grand Prix,HAM,Mercedes,True,1,MEDIUM>SOFT,DIFFERS,sequence,
+2024,2,Saudi Arabian Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,2,Saudi Arabian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,NOR,McLaren,True,1,MEDIUM>SOFT,DIFFERS,sequence,
+2024,2,Saudi Arabian Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,RIC,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,SAR,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,STR,Aston Martin,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,2,Saudi Arabian Grand Prix,TSU,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,2,Saudi Arabian Grand Prix,ZHO,Kick Sauber,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,3,Australian Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2024,3,Australian Grand Prix,ALO,Aston Martin,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR;2:COVER
+2024,3,Australian Grand Prix,BOT,Kick Sauber,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,3,Australian Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2024,3,Australian Grand Prix,HAM,Mercedes,False,1,SOFT>HARD,DID_NOT_COMPLETE,,
+2024,3,Australian Grand Prix,HUL,Haas F1 Team,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2024,3,Australian Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,3,Australian Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,3,Australian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,3,Australian Grand Prix,OCO,Alpine,True,3,MEDIUM>HARD>HARD>HARD,DIFFERS,stop count;sequence;timing,2:VIRTUAL_SAFETY_CAR;3:EXTRA_STOP
+2024,3,Australian Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,3,Australian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,3,Australian Grand Prix,RIC,RB,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2024,3,Australian Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2024,3,Australian Grand Prix,SAI,Ferrari,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,3,Australian Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,3,Australian Grand Prix,TSU,RB,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,3,Australian Grand Prix,VER,Red Bull Racing,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,3,Australian Grand Prix,ZHO,Kick Sauber,True,2,SOFT>HARD>HARD,DIFFERS,sequence,
+2024,4,Japanese Grand Prix,ALB,Williams,False,0,SOFT,DID_NOT_COMPLETE,,
+2024,4,Japanese Grand Prix,ALO,Aston Martin,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence,
+2024,4,Japanese Grand Prix,BOT,Kick Sauber,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2024,4,Japanese Grand Prix,GAS,Alpine,True,3,SOFT>HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,4,Japanese Grand Prix,HAM,Mercedes,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:COVER;3:EXTRA_STOP
+2024,4,Japanese Grand Prix,HUL,Haas F1 Team,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2024,4,Japanese Grand Prix,LEC,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE
+2024,4,Japanese Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE
+2024,4,Japanese Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2024,4,Japanese Grand Prix,OCO,Alpine,True,3,SOFT>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2024,4,Japanese Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,4,Japanese Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2024,4,Japanese Grand Prix,RIC,RB,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,4,Japanese Grand Prix,RUS,Mercedes,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2024,4,Japanese Grand Prix,SAI,Ferrari,True,3,MEDIUM>MEDIUM>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,4,Japanese Grand Prix,SAR,Williams,True,4,SOFT>HARD>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:UNDERCUT_ATTEMPT;4:EXTRA_STOP
+2024,4,Japanese Grand Prix,STR,Aston Martin,True,4,SOFT>SOFT>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP;4:UNDERCUT_ATTEMPT
+2024,4,Japanese Grand Prix,TSU,RB,True,3,MEDIUM>SOFT>HARD>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2024,4,Japanese Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,4,Japanese Grand Prix,ZHO,Kick Sauber,False,2,MEDIUM>SOFT>HARD,DID_NOT_COMPLETE,,
+2024,5,Chinese Grand Prix,ALB,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:SAFETY_CAR
+2024,5,Chinese Grand Prix,ALO,Aston Martin,True,3,MEDIUM>HARD>SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR;3:EXTRA_STOP
+2024,5,Chinese Grand Prix,BOT,Kick Sauber,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,5,Chinese Grand Prix,GAS,Alpine,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR;3:EXTRA_STOP
+2024,5,Chinese Grand Prix,HAM,Mercedes,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,2:VIRTUAL_SAFETY_CAR
+2024,5,Chinese Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2024,5,Chinese Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR
+2024,5,Chinese Grand Prix,MAG,Haas F1 Team,True,2,HARD>HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2024,5,Chinese Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR
+2024,5,Chinese Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:SAFETY_CAR
+2024,5,Chinese Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:SAFETY_CAR
+2024,5,Chinese Grand Prix,PIA,McLaren,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2024,5,Chinese Grand Prix,RIC,RB,False,1,MEDIUM>MEDIUM,DID_NOT_COMPLETE,,
+2024,5,Chinese Grand Prix,RUS,Mercedes,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:SAFETY_CAR
+2024,5,Chinese Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2024,5,Chinese Grand Prix,SAR,Williams,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,2:SAFETY_CAR
+2024,5,Chinese Grand Prix,STR,Aston Martin,True,4,SOFT>MEDIUM>HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,2:VIRTUAL_SAFETY_CAR;3:SAFETY_CAR;4:UNDERCUT_ATTEMPT
+2024,5,Chinese Grand Prix,TSU,RB,False,2,SOFT>MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,5,Chinese Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:SAFETY_CAR
+2024,5,Chinese Grand Prix,ZHO,Kick Sauber,True,3,MEDIUM>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR;3:EXTRA_STOP
+2024,6,Miami Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,6,Miami Grand Prix,ALO,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2024,6,Miami Grand Prix,BOT,Kick Sauber,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:COVER;2:SAFETY_CAR
+2024,6,Miami Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,6,Miami Grand Prix,HAM,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2024,6,Miami Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2024,6,Miami Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,6,Miami Grand Prix,MAG,Haas F1 Team,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR
+2024,6,Miami Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,6,Miami Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,6,Miami Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2024,6,Miami Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2024,6,Miami Grand Prix,RIC,RB,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2024,6,Miami Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,6,Miami Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,6,Miami Grand Prix,SAR,Williams,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,6,Miami Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2024,6,Miami Grand Prix,TSU,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2024,6,Miami Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,6,Miami Grand Prix,ZHO,Kick Sauber,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:SAFETY_CAR
+2024,7,Emilia Romagna Grand Prix,ALB,Williams,False,3,MEDIUM>HARD>MEDIUM>MEDIUM,DID_NOT_COMPLETE,,
+2024,7,Emilia Romagna Grand Prix,ALO,Aston Martin,True,3,SOFT>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP;3:UNDERCUT_ATTEMPT
+2024,7,Emilia Romagna Grand Prix,BOT,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,7,Emilia Romagna Grand Prix,GAS,Alpine,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2024,7,Emilia Romagna Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,7,Emilia Romagna Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,7,Emilia Romagna Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,7,Emilia Romagna Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,7,Emilia Romagna Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,7,Emilia Romagna Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,7,Emilia Romagna Grand Prix,PER,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,7,Emilia Romagna Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,7,Emilia Romagna Grand Prix,RIC,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,7,Emilia Romagna Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2024,7,Emilia Romagna Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,7,Emilia Romagna Grand Prix,SAR,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,7,Emilia Romagna Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,7,Emilia Romagna Grand Prix,TSU,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,7,Emilia Romagna Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,7,Emilia Romagna Grand Prix,ZHO,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,8,Monaco Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,ALO,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,BOT,Kick Sauber,True,2,HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT
+2024,8,Monaco Grand Prix,GAS,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,HAM,Mercedes,True,2,HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT
+2024,8,Monaco Grand Prix,HUL,Haas F1 Team,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,8,Monaco Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,MAG,Haas F1 Team,False,0,HARD,DID_NOT_COMPLETE,,
+2024,8,Monaco Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,OCO,Alpine,False,0,HARD,DID_NOT_COMPLETE,,
+2024,8,Monaco Grand Prix,PER,Red Bull Racing,False,0,HARD,DID_NOT_COMPLETE,,
+2024,8,Monaco Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,RIC,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,RUS,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,SAR,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:NO_REFERENCE
+2024,8,Monaco Grand Prix,STR,Aston Martin,True,3,HARD>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2024,8,Monaco Grand Prix,TSU,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:RED_FLAG
+2024,8,Monaco Grand Prix,VER,Red Bull Racing,True,2,HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:EXTRA_STOP
+2024,8,Monaco Grand Prix,ZHO,Kick Sauber,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:RED_FLAG;2:EXTRA_STOP
+2024,9,Canadian Grand Prix,ALB,Williams,False,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DID_NOT_COMPLETE,,
+2024,9,Canadian Grand Prix,ALO,Aston Martin,True,2,INTERMEDIATE>INTERMEDIATE>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR
+2024,9,Canadian Grand Prix,BOT,Kick Sauber,True,1,INTERMEDIATE>MEDIUM,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_DRY
+2024,9,Canadian Grand Prix,GAS,Alpine,True,2,INTERMEDIATE>INTERMEDIATE>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR;2:WEATHER_TO_DRY
+2024,9,Canadian Grand Prix,HAM,Mercedes,True,3,INTERMEDIATE>INTERMEDIATE>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;3:SAFETY_CAR
+2024,9,Canadian Grand Prix,HUL,Haas F1 Team,True,3,WET>INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:SAFETY_CAR;3:WEATHER_TO_DRY
+2024,9,Canadian Grand Prix,LEC,Ferrari,False,3,INTERMEDIATE>INTERMEDIATE>HARD>INTERMEDIATE,DID_NOT_COMPLETE,,
+2024,9,Canadian Grand Prix,MAG,Haas F1 Team,True,4,WET>INTERMEDIATE>INTERMEDIATE>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:WET_TO_WET;2:SAFETY_CAR;3:WEATHER_TO_DRY;4:SAFETY_CAR
+2024,9,Canadian Grand Prix,NOR,McLaren,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,timing,1:SAFETY_CAR
+2024,9,Canadian Grand Prix,OCO,Alpine,True,1,INTERMEDIATE>MEDIUM,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_DRY
+2024,9,Canadian Grand Prix,PER,Red Bull Racing,False,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DID_NOT_COMPLETE,,
+2024,9,Canadian Grand Prix,PIA,McLaren,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,timing,1:SAFETY_CAR
+2024,9,Canadian Grand Prix,RIC,RB,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,timing,1:SAFETY_CAR
+2024,9,Canadian Grand Prix,RUS,Mercedes,True,3,INTERMEDIATE>INTERMEDIATE>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;3:SAFETY_CAR
+2024,9,Canadian Grand Prix,SAI,Ferrari,False,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DID_NOT_COMPLETE,,
+2024,9,Canadian Grand Prix,SAR,Williams,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2024,9,Canadian Grand Prix,STR,Aston Martin,True,2,INTERMEDIATE>INTERMEDIATE>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR
+2024,9,Canadian Grand Prix,TSU,RB,True,1,INTERMEDIATE>MEDIUM,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_DRY
+2024,9,Canadian Grand Prix,VER,Red Bull Racing,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,timing,1:SAFETY_CAR
+2024,9,Canadian Grand Prix,ZHO,Kick Sauber,True,3,INTERMEDIATE>INTERMEDIATE>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;3:SAFETY_CAR
+2024,10,Spanish Grand Prix,ALB,Williams,True,2,MEDIUM>SOFT>SOFT,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,ALO,Aston Martin,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,BOT,Kick Sauber,True,2,SOFT>SOFT>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2024,10,Spanish Grand Prix,GAS,Alpine,True,2,SOFT>MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,10,Spanish Grand Prix,HAM,Mercedes,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,HUL,Haas F1 Team,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,LEC,Ferrari,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:COVER;2:LATER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,MAG,Haas F1 Team,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:COVER
+2024,10,Spanish Grand Prix,NOR,McLaren,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,OCO,Alpine,True,2,SOFT>MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,10,Spanish Grand Prix,PER,Red Bull Racing,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,10,Spanish Grand Prix,PIA,McLaren,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,RIC,RB,True,2,SOFT>MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,10,Spanish Grand Prix,RUS,Mercedes,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2024,10,Spanish Grand Prix,SAI,Ferrari,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,SAR,Williams,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,STR,Aston Martin,True,2,SOFT>MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,10,Spanish Grand Prix,TSU,RB,True,3,SOFT>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,10,Spanish Grand Prix,VER,Red Bull Racing,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2024,10,Spanish Grand Prix,ZHO,Kick Sauber,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,11,Austrian Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,11,Austrian Grand Prix,ALO,Aston Martin,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:COVER;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2024,11,Austrian Grand Prix,BOT,Kick Sauber,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2024,11,Austrian Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2024,11,Austrian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2024,11,Austrian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2024,11,Austrian Grand Prix,LEC,Ferrari,True,4,MEDIUM>HARD>MEDIUM>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT;3:UNDERCUT_ATTEMPT;4:UNDERCUT_ATTEMPT
+2024,11,Austrian Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2024,11,Austrian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2024,11,Austrian Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2024,11,Austrian Grand Prix,PER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2024,11,Austrian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:COVER;2:LATER_THAN_REFERENCE
+2024,11,Austrian Grand Prix,RIC,RB,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,11,Austrian Grand Prix,RUS,Mercedes,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2024,11,Austrian Grand Prix,SAI,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:COVER
+2024,11,Austrian Grand Prix,SAR,Williams,True,3,MEDIUM>MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,11,Austrian Grand Prix,STR,Aston Martin,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2024,11,Austrian Grand Prix,TSU,RB,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2024,11,Austrian Grand Prix,VER,Red Bull Racing,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:LATER_THAN_REFERENCE;3:EXTRA_STOP
+2024,11,Austrian Grand Prix,ZHO,Kick Sauber,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,12,British Grand Prix,ALB,Williams,True,2,MEDIUM>INTERMEDIATE>MEDIUM,DIFFERS,sequence,
+2024,12,British Grand Prix,ALO,Aston Martin,True,2,MEDIUM>INTERMEDIATE>MEDIUM,DIFFERS,sequence,
+2024,12,British Grand Prix,BOT,Kick Sauber,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,HAM,Mercedes,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,LEC,Ferrari,True,3,MEDIUM>INTERMEDIATE>INTERMEDIATE>SOFT,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET;2:EARLIER_THAN_REFERENCE;3:WEATHER_TO_DRY
+2024,12,British Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,NOR,McLaren,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,OCO,Alpine,True,4,SOFT>INTERMEDIATE>MEDIUM>INTERMEDIATE>MEDIUM,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET;2:WEATHER_TO_DRY;3:WEATHER_TO_WET;4:WEATHER_TO_DRY
+2024,12,British Grand Prix,PER,Red Bull Racing,True,4,HARD>INTERMEDIATE>INTERMEDIATE>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_WET;2:EARLIER_THAN_REFERENCE;3:WEATHER_TO_DRY;4:EXTRA_STOP
+2024,12,British Grand Prix,PIA,McLaren,True,2,MEDIUM>INTERMEDIATE>MEDIUM,DIFFERS,sequence,
+2024,12,British Grand Prix,RIC,RB,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,RUS,Mercedes,False,1,MEDIUM>INTERMEDIATE,DID_NOT_COMPLETE,,
+2024,12,British Grand Prix,SAI,Ferrari,True,3,MEDIUM>INTERMEDIATE>HARD>SOFT,DIFFERS,stop count;sequence;timing,3:EXTRA_STOP
+2024,12,British Grand Prix,SAR,Williams,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,STR,Aston Martin,True,2,MEDIUM>INTERMEDIATE>MEDIUM,DIFFERS,sequence,
+2024,12,British Grand Prix,TSU,RB,True,2,MEDIUM>INTERMEDIATE>SOFT,MATCHES_REFERENCE,,
+2024,12,British Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>INTERMEDIATE>HARD,DIFFERS,sequence,
+2024,12,British Grand Prix,ZHO,Kick Sauber,True,4,SOFT>MEDIUM>INTERMEDIATE>INTERMEDIATE>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:WEATHER_TO_WET;3:EXTRA_STOP;4:WEATHER_TO_DRY
+2024,13,Hungarian Grand Prix,ALB,Williams,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,ALO,Aston Martin,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,BOT,Kick Sauber,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,13,Hungarian Grand Prix,GAS,Alpine,False,1,HARD>MEDIUM,DID_NOT_COMPLETE,,
+2024,13,Hungarian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,13,Hungarian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:COVER
+2024,13,Hungarian Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,MAG,Haas F1 Team,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2024,13,Hungarian Grand Prix,OCO,Alpine,True,3,MEDIUM>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:COVER;3:EXTRA_STOP
+2024,13,Hungarian Grand Prix,PER,Red Bull Racing,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,RIC,RB,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,13,Hungarian Grand Prix,RUS,Mercedes,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,SAI,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:COVER
+2024,13,Hungarian Grand Prix,SAR,Williams,True,3,MEDIUM>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,13,Hungarian Grand Prix,STR,Aston Martin,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence,
+2024,13,Hungarian Grand Prix,TSU,RB,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,13,Hungarian Grand Prix,ZHO,Kick Sauber,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:COVER;2:EARLIER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,ALB,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,ALO,Aston Martin,True,1,MEDIUM>MEDIUM,DIFFERS,stop count;sequence,
+2024,14,Belgian Grand Prix,BOT,Kick Sauber,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,2:LATER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,14,Belgian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,14,Belgian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,14,Belgian Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,14,Belgian Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,14,Belgian Grand Prix,PER,Red Bull Racing,True,3,MEDIUM>MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2024,14,Belgian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,14,Belgian Grand Prix,RIC,RB,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT
+2024,14,Belgian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2024,14,Belgian Grand Prix,SAI,Ferrari,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,SAR,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,STR,Aston Martin,True,1,MEDIUM>MEDIUM,DIFFERS,stop count;sequence,
+2024,14,Belgian Grand Prix,TSU,RB,True,1,MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2024,14,Belgian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence,
+2024,14,Belgian Grand Prix,ZHO,Kick Sauber,False,0,HARD,DID_NOT_COMPLETE,,
+2024,15,Dutch Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2024,15,Dutch Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,BOT,Kick Sauber,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:COVER;2:EXTRA_STOP
+2024,15,Dutch Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,HAM,Mercedes,True,2,SOFT>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2024,15,Dutch Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,15,Dutch Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,15,Dutch Grand Prix,MAG,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2024,15,Dutch Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,15,Dutch Grand Prix,RIC,RB,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2024,15,Dutch Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,SAR,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,15,Dutch Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,TSU,RB,True,2,SOFT>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2024,15,Dutch Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,15,Dutch Grand Prix,ZHO,Kick Sauber,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2024,16,Italian Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,16,Italian Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2024,16,Italian Grand Prix,BOT,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2024,16,Italian Grand Prix,COL,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,16,Italian Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,16,Italian Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2024,16,Italian Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2024,16,Italian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,16,Italian Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,16,Italian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2024,16,Italian Grand Prix,OCO,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,16,Italian Grand Prix,PER,Red Bull Racing,True,2,HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:COVER;2:EXTRA_STOP
+2024,16,Italian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2024,16,Italian Grand Prix,RIC,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,16,Italian Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2024,16,Italian Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,16,Italian Grand Prix,STR,Aston Martin,True,3,HARD>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2024,16,Italian Grand Prix,TSU,RB,False,0,HARD,DID_NOT_COMPLETE,,
+2024,16,Italian Grand Prix,VER,Red Bull Racing,True,2,HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:EXTRA_STOP
+2024,16,Italian Grand Prix,ZHO,Kick Sauber,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,ALB,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,17,Azerbaijan Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,17,Azerbaijan Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,BOT,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,17,Azerbaijan Grand Prix,COL,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,17,Azerbaijan Grand Prix,GAS,Alpine,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2024,17,Azerbaijan Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,NOR,McLaren,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,17,Azerbaijan Grand Prix,OCO,Alpine,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2024,17,Azerbaijan Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,RIC,RB,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,17,Azerbaijan Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,17,Azerbaijan Grand Prix,STR,Aston Martin,False,2,MEDIUM>HARD>HARD,DID_NOT_COMPLETE,,
+2024,17,Azerbaijan Grand Prix,TSU,RB,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,17,Azerbaijan Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2024,17,Azerbaijan Grand Prix,ZHO,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,18,Singapore Grand Prix,ALB,Williams,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,18,Singapore Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,18,Singapore Grand Prix,BOT,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,18,Singapore Grand Prix,COL,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,18,Singapore Grand Prix,GAS,Alpine,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,18,Singapore Grand Prix,HAM,Mercedes,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2024,18,Singapore Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,18,Singapore Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,18,Singapore Grand Prix,MAG,Haas F1 Team,True,2,HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2024,18,Singapore Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,18,Singapore Grand Prix,OCO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,18,Singapore Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,18,Singapore Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,18,Singapore Grand Prix,RIC,RB,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2024,18,Singapore Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,18,Singapore Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,18,Singapore Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2024,18,Singapore Grand Prix,TSU,RB,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,18,Singapore Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,18,Singapore Grand Prix,ZHO,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,19,United States Grand Prix,ALB,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:EXTRA_STOP
+2024,19,United States Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,19,United States Grand Prix,BOT,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,19,United States Grand Prix,COL,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:COVER
+2024,19,United States Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:COVER
+2024,19,United States Grand Prix,HAM,Mercedes,False,0,HARD,DID_NOT_COMPLETE,,
+2024,19,United States Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,19,United States Grand Prix,LAW,RB,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,19,United States Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,19,United States Grand Prix,MAG,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2024,19,United States Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,19,United States Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:EXTRA_STOP
+2024,19,United States Grand Prix,PER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,19,United States Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,19,United States Grand Prix,RUS,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,19,United States Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,19,United States Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2024,19,United States Grand Prix,TSU,RB,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,19,United States Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,19,United States Grand Prix,ZHO,Kick Sauber,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:COVER
+2024,20,Mexico City Grand Prix,ALB,Williams,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,20,Mexico City Grand Prix,ALO,Aston Martin,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,20,Mexico City Grand Prix,BOT,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,20,Mexico City Grand Prix,COL,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,20,Mexico City Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,20,Mexico City Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,20,Mexico City Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,20,Mexico City Grand Prix,LAW,RB,True,2,HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2024,20,Mexico City Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2024,20,Mexico City Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,20,Mexico City Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,20,Mexico City Grand Prix,OCO,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,20,Mexico City Grand Prix,PER,Red Bull Racing,True,3,HARD>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP;3:EXTRA_STOP
+2024,20,Mexico City Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,20,Mexico City Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,20,Mexico City Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,20,Mexico City Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,20,Mexico City Grand Prix,TSU,RB,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,20,Mexico City Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,20,Mexico City Grand Prix,ZHO,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,21,São Paulo Grand Prix,ALO,Aston Martin,True,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:RED_FLAG
+2024,21,São Paulo Grand Prix,BEA,Haas F1 Team,True,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:RED_FLAG
+2024,21,São Paulo Grand Prix,BOT,Kick Sauber,True,1,INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG
+2024,21,São Paulo Grand Prix,COL,Williams,False,1,INTERMEDIATE>INTERMEDIATE,DID_NOT_COMPLETE,,
+2024,21,São Paulo Grand Prix,GAS,Alpine,True,1,INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG
+2024,21,São Paulo Grand Prix,HAM,Mercedes,True,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:RED_FLAG
+2024,21,São Paulo Grand Prix,HUL,Haas F1 Team,False,3,INTERMEDIATE>INTERMEDIATE>WET>INTERMEDIATE,DID_NOT_COMPLETE,,
+2024,21,São Paulo Grand Prix,LAW,RB,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,sequence;timing,1:WET_TO_WET;2:RED_FLAG
+2024,21,São Paulo Grand Prix,LEC,Ferrari,True,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:RED_FLAG
+2024,21,São Paulo Grand Prix,NOR,McLaren,True,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:RED_FLAG
+2024,21,São Paulo Grand Prix,OCO,Alpine,True,1,INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG
+2024,21,São Paulo Grand Prix,PER,Red Bull Racing,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,sequence;timing,1:WET_TO_WET;2:RED_FLAG
+2024,21,São Paulo Grand Prix,PIA,McLaren,True,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:RED_FLAG
+2024,21,São Paulo Grand Prix,RUS,Mercedes,True,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:RED_FLAG
+2024,21,São Paulo Grand Prix,SAI,Ferrari,False,2,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,DID_NOT_COMPLETE,,
+2024,21,São Paulo Grand Prix,TSU,RB,True,2,INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,sequence;timing,1:WET_TO_WET;2:RED_FLAG
+2024,21,São Paulo Grand Prix,VER,Red Bull Racing,True,1,INTERMEDIATE>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:RED_FLAG
+2024,21,São Paulo Grand Prix,ZHO,Kick Sauber,True,3,INTERMEDIATE>INTERMEDIATE>WET>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:WET_TO_WET;3:RED_FLAG
+2024,22,Las Vegas Grand Prix,ALB,Williams,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,22,Las Vegas Grand Prix,ALO,Aston Martin,True,2,SOFT>HARD>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,22,Las Vegas Grand Prix,BOT,Kick Sauber,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2024,22,Las Vegas Grand Prix,COL,Williams,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,22,Las Vegas Grand Prix,GAS,Alpine,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,22,Las Vegas Grand Prix,HAM,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,HUL,Haas F1 Team,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,LAW,RB,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2024,22,Las Vegas Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2024,22,Las Vegas Grand Prix,NOR,McLaren,True,3,MEDIUM>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,3:EXTRA_STOP
+2024,22,Las Vegas Grand Prix,OCO,Alpine,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT
+2024,22,Las Vegas Grand Prix,PER,Red Bull Racing,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2024,22,Las Vegas Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2024,22,Las Vegas Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,SAI,Ferrari,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,TSU,RB,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2024,22,Las Vegas Grand Prix,ZHO,Kick Sauber,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2024,23,Qatar Grand Prix,ALB,Williams,True,2,MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2024,23,Qatar Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR
+2024,23,Qatar Grand Prix,BOT,Kick Sauber,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2024,23,Qatar Grand Prix,COL,Williams,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,23,Qatar Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,23,Qatar Grand Prix,HAM,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,23,Qatar Grand Prix,HUL,Haas F1 Team,False,2,HARD>HARD>MEDIUM,DID_NOT_COMPLETE,,
+2024,23,Qatar Grand Prix,LAW,RB,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR
+2024,23,Qatar Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,23,Qatar Grand Prix,MAG,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,23,Qatar Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,23,Qatar Grand Prix,OCO,Alpine,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,23,Qatar Grand Prix,PER,Red Bull Racing,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,23,Qatar Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,23,Qatar Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:SAFETY_CAR
+2024,23,Qatar Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,23,Qatar Grand Prix,STR,Aston Martin,False,2,MEDIUM>HARD>HARD,DID_NOT_COMPLETE,,
+2024,23,Qatar Grand Prix,TSU,RB,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR
+2024,23,Qatar Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,23,Qatar Grand Prix,ZHO,Kick Sauber,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,24,Abu Dhabi Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,24,Abu Dhabi Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,24,Abu Dhabi Grand Prix,BOT,Kick Sauber,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,24,Abu Dhabi Grand Prix,COL,Williams,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2024,24,Abu Dhabi Grand Prix,DOO,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,24,Abu Dhabi Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2024,24,Abu Dhabi Grand Prix,HAM,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2024,24,Abu Dhabi Grand Prix,HUL,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2024,24,Abu Dhabi Grand Prix,LAW,RB,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,24,Abu Dhabi Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,24,Abu Dhabi Grand Prix,MAG,Haas F1 Team,True,4,MEDIUM>HARD>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP;4:EXTRA_STOP
+2024,24,Abu Dhabi Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,24,Abu Dhabi Grand Prix,PER,Red Bull Racing,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2024,24,Abu Dhabi Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,24,Abu Dhabi Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,24,Abu Dhabi Grand Prix,SAI,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,24,Abu Dhabi Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2024,24,Abu Dhabi Grand Prix,TSU,RB,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2024,24,Abu Dhabi Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2024,24,Abu Dhabi Grand Prix,ZHO,Kick Sauber,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,1,Australian Grand Prix,ALB,Williams,True,3,INTERMEDIATE>INTERMEDIATE>MEDIUM>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:WEATHER_TO_DRY;3:WEATHER_TO_WET
+2025,1,Australian Grand Prix,ALO,Aston Martin,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,1,Australian Grand Prix,ANT,Mercedes,True,2,INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,BEA,Haas F1 Team,True,3,INTERMEDIATE>INTERMEDIATE>MEDIUM>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:WEATHER_TO_DRY;3:WEATHER_TO_WET
+2025,1,Australian Grand Prix,BOR,Kick Sauber,False,2,INTERMEDIATE>MEDIUM>INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,1,Australian Grand Prix,DOO,Alpine,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,1,Australian Grand Prix,GAS,Alpine,True,2,INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,HAD,Racing Bulls,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,1,Australian Grand Prix,HAM,Ferrari,True,2,INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,HUL,Kick Sauber,True,2,INTERMEDIATE>MEDIUM>INTERMEDIATE,DIFFERS,sequence;timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,LAW,Red Bull Racing,False,3,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE>MEDIUM,DID_NOT_COMPLETE,,
+2025,1,Australian Grand Prix,LEC,Ferrari,True,2,INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,NOR,McLaren,True,2,INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,OCO,Haas F1 Team,True,3,INTERMEDIATE>INTERMEDIATE>MEDIUM>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:WEATHER_TO_DRY;3:WEATHER_TO_WET
+2025,1,Australian Grand Prix,PIA,McLaren,True,2,INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,RUS,Mercedes,True,2,INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,SAI,Williams,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,1,Australian Grand Prix,STR,Aston Martin,True,5,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE>INTERMEDIATE>HARD>INTERMEDIATE,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR;3:SAFETY_CAR;4:WEATHER_TO_DRY;5:WEATHER_TO_WET
+2025,1,Australian Grand Prix,TSU,Racing Bulls,True,2,INTERMEDIATE>MEDIUM>INTERMEDIATE,DIFFERS,sequence;timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,1,Australian Grand Prix,VER,Red Bull Racing,True,2,INTERMEDIATE>MEDIUM>INTERMEDIATE,DIFFERS,sequence;timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET
+2025,2,Chinese Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,ALO,Aston Martin,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,2,Chinese Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,2,Chinese Grand Prix,BEA,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,BOR,Kick Sauber,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,2,Chinese Grand Prix,DOO,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:COVER
+2025,2,Chinese Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,HAD,Racing Bulls,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,HAM,Ferrari,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2025,2,Chinese Grand Prix,HUL,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,LAW,Red Bull Racing,True,2,HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:COVER;2:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,2,Chinese Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,2,Chinese Grand Prix,OCO,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,2,Chinese Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,2,Chinese Grand Prix,SAI,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,2,Chinese Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,2,Chinese Grand Prix,TSU,Racing Bulls,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP;3:UNDERCUT_ATTEMPT
+2025,2,Chinese Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,3,Japanese Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,BOR,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,3,Japanese Grand Prix,DOO,Alpine,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2025,3,Japanese Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,HAD,Racing Bulls,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,HAM,Ferrari,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,3,Japanese Grand Prix,HUL,Kick Sauber,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,3,Japanese Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,OCO,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,3,Japanese Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,3,Japanese Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,3,Japanese Grand Prix,SAI,Williams,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,3,Japanese Grand Prix,STR,Aston Martin,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2025,3,Japanese Grand Prix,TSU,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,3,Japanese Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,4,Bahrain Grand Prix,ALB,Williams,True,2,SOFT>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,ALO,Aston Martin,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,ANT,Mercedes,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,3:SAFETY_CAR
+2025,4,Bahrain Grand Prix,BEA,Haas F1 Team,True,2,SOFT>HARD>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,BOR,Kick Sauber,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,DOO,Alpine,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,4,Bahrain Grand Prix,GAS,Alpine,True,2,SOFT>MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,4,Bahrain Grand Prix,HAD,Racing Bulls,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,4,Bahrain Grand Prix,HAM,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,HUL,Kick Sauber,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,4,Bahrain Grand Prix,LAW,Racing Bulls,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,LEC,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,NOR,McLaren,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,OCO,Haas F1 Team,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,4,Bahrain Grand Prix,PIA,McLaren,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,RUS,Mercedes,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,SAI,Williams,False,3,SOFT>MEDIUM>HARD>SOFT,DID_NOT_COMPLETE,,
+2025,4,Bahrain Grand Prix,STR,Aston Martin,True,2,SOFT>MEDIUM>HARD,DIFFERS,timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,TSU,Red Bull Racing,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,4,Bahrain Grand Prix,VER,Red Bull Racing,True,2,SOFT>HARD>MEDIUM,DIFFERS,sequence,
+2025,5,Saudi Arabian Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,BOR,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,5,Saudi Arabian Grand Prix,DOO,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2025,5,Saudi Arabian Grand Prix,GAS,Alpine,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,5,Saudi Arabian Grand Prix,HAD,Racing Bulls,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,5,Saudi Arabian Grand Prix,HAM,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,HUL,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,5,Saudi Arabian Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,5,Saudi Arabian Grand Prix,NOR,McLaren,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,5,Saudi Arabian Grand Prix,OCO,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,5,Saudi Arabian Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,SAI,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,5,Saudi Arabian Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,5,Saudi Arabian Grand Prix,TSU,Red Bull Racing,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,5,Saudi Arabian Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,ALB,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,ALO,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,6,Miami Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,BEA,Haas F1 Team,False,0,HARD,DID_NOT_COMPLETE,,
+2025,6,Miami Grand Prix,BOR,Kick Sauber,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2025,6,Miami Grand Prix,DOO,Alpine,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,6,Miami Grand Prix,GAS,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,6,Miami Grand Prix,HAD,Racing Bulls,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,6,Miami Grand Prix,HAM,Ferrari,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,6,Miami Grand Prix,HUL,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,6,Miami Grand Prix,LAW,Racing Bulls,False,1,HARD>MEDIUM,DID_NOT_COMPLETE,,
+2025,6,Miami Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,OCO,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,6,Miami Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,RUS,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,6,Miami Grand Prix,SAI,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,6,Miami Grand Prix,TSU,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,6,Miami Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,7,Emilia Romagna Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,ANT,Mercedes,False,1,HARD>MEDIUM,DID_NOT_COMPLETE,,
+2025,7,Emilia Romagna Grand Prix,BEA,Haas F1 Team,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR;2:COVER
+2025,7,Emilia Romagna Grand Prix,BOR,Kick Sauber,True,3,MEDIUM>HARD>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:VIRTUAL_SAFETY_CAR;3:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,COL,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,HAD,Racing Bulls,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,HAM,Ferrari,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,HUL,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,LAW,Racing Bulls,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,OCO,Haas F1 Team,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2025,7,Emilia Romagna Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,SAI,Williams,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,TSU,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR
+2025,7,Emilia Romagna Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:SAFETY_CAR
+2025,8,Monaco Grand Prix,ALB,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,ALO,Aston Martin,False,1,HARD>HARD,DID_NOT_COMPLETE,,
+2025,8,Monaco Grand Prix,ANT,Mercedes,True,2,HARD>MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,BEA,Haas F1 Team,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2025,8,Monaco Grand Prix,BOR,Kick Sauber,True,3,MEDIUM>HARD>SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:UNDERCUT_ATTEMPT
+2025,8,Monaco Grand Prix,COL,Alpine,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,8,Monaco Grand Prix,GAS,Alpine,False,1,MEDIUM>MEDIUM,DID_NOT_COMPLETE,,
+2025,8,Monaco Grand Prix,HAD,Racing Bulls,True,2,MEDIUM>SOFT>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,HAM,Ferrari,True,2,HARD>HARD>MEDIUM,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,HUL,Kick Sauber,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,8,Monaco Grand Prix,LAW,Racing Bulls,True,2,MEDIUM>SOFT>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2025,8,Monaco Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2025,8,Monaco Grand Prix,OCO,Haas F1 Team,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2025,8,Monaco Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2025,8,Monaco Grand Prix,RUS,Mercedes,True,2,HARD>MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,SAI,Williams,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,STR,Aston Martin,True,2,HARD>HARD>MEDIUM,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2025,8,Monaco Grand Prix,TSU,Red Bull Racing,True,2,SOFT>HARD>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR;2:LATER_THAN_REFERENCE
+2025,8,Monaco Grand Prix,VER,Red Bull Racing,True,2,HARD>MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2025,9,Spanish Grand Prix,ALB,Williams,False,1,SOFT>SOFT,DID_NOT_COMPLETE,,
+2025,9,Spanish Grand Prix,ALO,Aston Martin,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,3:SAFETY_CAR
+2025,9,Spanish Grand Prix,ANT,Mercedes,False,2,SOFT>MEDIUM>SOFT,DID_NOT_COMPLETE,,
+2025,9,Spanish Grand Prix,BEA,Haas F1 Team,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,BOR,Kick Sauber,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2025,9,Spanish Grand Prix,COL,Alpine,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,3:SAFETY_CAR
+2025,9,Spanish Grand Prix,GAS,Alpine,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE;2:EARLIER_THAN_REFERENCE;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,HAD,Racing Bulls,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:COVER;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,HAM,Ferrari,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,HUL,Kick Sauber,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,LAW,Racing Bulls,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence,
+2025,9,Spanish Grand Prix,LEC,Ferrari,True,3,SOFT>MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,3:SAFETY_CAR
+2025,9,Spanish Grand Prix,NOR,McLaren,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,OCO,Haas F1 Team,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2025,9,Spanish Grand Prix,PIA,McLaren,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,RUS,Mercedes,True,3,SOFT>MEDIUM>SOFT>SOFT,DIFFERS,timing,1:UNDERCUT_ATTEMPT;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,SAI,Williams,True,3,SOFT>SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:COVER;2:EARLIER_THAN_REFERENCE;3:SAFETY_CAR
+2025,9,Spanish Grand Prix,TSU,Red Bull Racing,True,4,MEDIUM>SOFT>SOFT>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT;3:NO_REFERENCE;4:SAFETY_CAR
+2025,9,Spanish Grand Prix,VER,Red Bull Racing,True,4,SOFT>SOFT>MEDIUM>SOFT>HARD,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:NO_REFERENCE;4:SAFETY_CAR
+2025,10,Canadian Grand Prix,ALB,Williams,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2025,10,Canadian Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:LATER_THAN_REFERENCE
+2025,10,Canadian Grand Prix,ANT,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2025,10,Canadian Grand Prix,BEA,Haas F1 Team,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,10,Canadian Grand Prix,BOR,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2025,10,Canadian Grand Prix,COL,Alpine,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence,
+2025,10,Canadian Grand Prix,GAS,Alpine,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2025,10,Canadian Grand Prix,HAD,Racing Bulls,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,10,Canadian Grand Prix,HAM,Ferrari,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2025,10,Canadian Grand Prix,HUL,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2025,10,Canadian Grand Prix,LAW,Racing Bulls,False,1,HARD>MEDIUM,DID_NOT_COMPLETE,,
+2025,10,Canadian Grand Prix,LEC,Ferrari,True,2,HARD>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2025,10,Canadian Grand Prix,NOR,McLaren,True,2,HARD>MEDIUM>HARD,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,10,Canadian Grand Prix,OCO,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2025,10,Canadian Grand Prix,PIA,McLaren,True,3,MEDIUM>HARD>HARD>SOFT,DIFFERS,stop count;sequence;timing,3:SAFETY_CAR
+2025,10,Canadian Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,MATCHES_REFERENCE,,
+2025,10,Canadian Grand Prix,SAI,Williams,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT
+2025,10,Canadian Grand Prix,STR,Aston Martin,True,3,HARD>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT;3:SAFETY_CAR
+2025,10,Canadian Grand Prix,TSU,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2025,10,Canadian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:EARLIER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,ALB,Williams,False,1,MEDIUM>MEDIUM,DID_NOT_COMPLETE,,
+2025,11,Austrian Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:COVER
+2025,11,Austrian Grand Prix,ANT,Mercedes,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,11,Austrian Grand Prix,BEA,Haas F1 Team,True,2,SOFT>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,BOR,Kick Sauber,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence,
+2025,11,Austrian Grand Prix,COL,Alpine,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,1:COVER;2:EARLIER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,GAS,Alpine,True,2,SOFT>HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,HAD,Racing Bulls,True,2,SOFT>MEDIUM>HARD,DIFFERS,sequence;timing,1:SAFETY_CAR;2:EARLIER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,HAM,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:COVER
+2025,11,Austrian Grand Prix,HUL,Kick Sauber,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:COVER;2:EARLIER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>MEDIUM,MATCHES_REFERENCE,,
+2025,11,Austrian Grand Prix,OCO,Haas F1 Team,True,2,MEDIUM>HARD>HARD,DIFFERS,sequence,
+2025,11,Austrian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:COVER
+2025,11,Austrian Grand Prix,RUS,Mercedes,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,sequence;timing,2:EARLIER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2025,11,Austrian Grand Prix,TSU,Red Bull Racing,True,3,MEDIUM>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:EARLIER_THAN_REFERENCE;3:EXTRA_STOP
+2025,11,Austrian Grand Prix,VER,Red Bull Racing,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,12,British Grand Prix,ALB,Williams,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,12,British Grand Prix,ALO,Aston Martin,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,timing,2:WEATHER_TO_DRY
+2025,12,British Grand Prix,ANT,Mercedes,False,3,INTERMEDIATE>HARD>INTERMEDIATE>INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,12,British Grand Prix,BEA,Haas F1 Team,True,2,HARD>INTERMEDIATE>MEDIUM,DIFFERS,sequence,
+2025,12,British Grand Prix,BOR,Kick Sauber,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,12,British Grand Prix,GAS,Alpine,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,12,British Grand Prix,HAD,Racing Bulls,False,1,MEDIUM>INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,12,British Grand Prix,HAM,Ferrari,True,2,INTERMEDIATE>INTERMEDIATE>SOFT,DIFFERS,sequence,
+2025,12,British Grand Prix,HUL,Kick Sauber,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,12,British Grand Prix,LAW,Racing Bulls,False,0,INTERMEDIATE,DID_NOT_COMPLETE,,
+2025,12,British Grand Prix,LEC,Ferrari,True,2,MEDIUM>INTERMEDIATE>SOFT,DIFFERS,sequence,
+2025,12,British Grand Prix,NOR,McLaren,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,12,British Grand Prix,OCO,Haas F1 Team,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,DIFFERS,timing,1:SAFETY_CAR
+2025,12,British Grand Prix,PIA,McLaren,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,12,British Grand Prix,RUS,Mercedes,True,2,HARD>INTERMEDIATE>HARD,DIFFERS,sequence,
+2025,12,British Grand Prix,SAI,Williams,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,12,British Grand Prix,STR,Aston Martin,True,3,INTERMEDIATE>SOFT>INTERMEDIATE>SOFT,DIFFERS,stop count;sequence;timing,1:WEATHER_TO_DRY;2:WEATHER_TO_WET;3:WEATHER_TO_DRY
+2025,12,British Grand Prix,TSU,Red Bull Racing,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,12,British Grand Prix,VER,Red Bull Racing,True,2,INTERMEDIATE>INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,ALB,Williams,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,ALO,Aston Martin,True,2,INTERMEDIATE>MEDIUM>?,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2025,13,Belgian Grand Prix,ANT,Mercedes,True,2,INTERMEDIATE>MEDIUM>?,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2025,13,Belgian Grand Prix,BEA,Haas F1 Team,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,BOR,Kick Sauber,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,COL,Alpine,True,2,INTERMEDIATE>MEDIUM>?,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2025,13,Belgian Grand Prix,GAS,Alpine,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,HAD,Racing Bulls,True,2,INTERMEDIATE>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2025,13,Belgian Grand Prix,HAM,Ferrari,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,HUL,Kick Sauber,True,2,INTERMEDIATE>MEDIUM>?,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2025,13,Belgian Grand Prix,LAW,Racing Bulls,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,LEC,Ferrari,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,NOR,McLaren,True,1,INTERMEDIATE>HARD,DIFFERS,sequence,
+2025,13,Belgian Grand Prix,OCO,Haas F1 Team,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,PIA,McLaren,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,RUS,Mercedes,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,SAI,Williams,True,2,INTERMEDIATE>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2025,13,Belgian Grand Prix,STR,Aston Martin,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,TSU,Red Bull Racing,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,13,Belgian Grand Prix,VER,Red Bull Racing,True,1,INTERMEDIATE>MEDIUM,MATCHES_REFERENCE,,
+2025,14,Hungarian Grand Prix,ALB,Williams,True,2,SOFT>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:COVER
+2025,14,Hungarian Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,14,Hungarian Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,14,Hungarian Grand Prix,BEA,Haas F1 Team,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2025,14,Hungarian Grand Prix,BOR,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:COVER
+2025,14,Hungarian Grand Prix,COL,Alpine,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,14,Hungarian Grand Prix,GAS,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,14,Hungarian Grand Prix,HAD,Racing Bulls,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,14,Hungarian Grand Prix,HAM,Ferrari,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:COVER
+2025,14,Hungarian Grand Prix,HUL,Kick Sauber,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2025,14,Hungarian Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,14,Hungarian Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,14,Hungarian Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,14,Hungarian Grand Prix,OCO,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,14,Hungarian Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,14,Hungarian Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:COVER;2:EXTRA_STOP
+2025,14,Hungarian Grand Prix,SAI,Williams,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2025,14,Hungarian Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,14,Hungarian Grand Prix,TSU,Red Bull Racing,True,2,MEDIUM>SOFT>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,14,Hungarian Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,15,Dutch Grand Prix,ALB,Williams,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,1:SAFETY_CAR;2:SAFETY_CAR
+2025,15,Dutch Grand Prix,ALO,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2025,15,Dutch Grand Prix,ANT,Mercedes,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:NO_REFERENCE;3:SAFETY_CAR
+2025,15,Dutch Grand Prix,BEA,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR
+2025,15,Dutch Grand Prix,BOR,Kick Sauber,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2025,15,Dutch Grand Prix,COL,Alpine,True,3,SOFT>HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,2:SAFETY_CAR;3:SAFETY_CAR
+2025,15,Dutch Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR
+2025,15,Dutch Grand Prix,HAD,Racing Bulls,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,1:SAFETY_CAR;2:SAFETY_CAR
+2025,15,Dutch Grand Prix,HAM,Ferrari,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,15,Dutch Grand Prix,HUL,Kick Sauber,True,2,SOFT>HARD>MEDIUM,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,15,Dutch Grand Prix,LAW,Racing Bulls,True,3,MEDIUM>HARD>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:SAFETY_CAR
+2025,15,Dutch Grand Prix,LEC,Ferrari,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2025,15,Dutch Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:SAFETY_CAR;2:SAFETY_CAR
+2025,15,Dutch Grand Prix,OCO,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2025,15,Dutch Grand Prix,PIA,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:SAFETY_CAR;2:SAFETY_CAR
+2025,15,Dutch Grand Prix,RUS,Mercedes,True,2,MEDIUM>HARD>SOFT,DIFFERS,timing,1:SAFETY_CAR;2:SAFETY_CAR
+2025,15,Dutch Grand Prix,SAI,Williams,True,4,MEDIUM>HARD>SOFT>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:NO_REFERENCE;3:EXTRA_STOP;4:SAFETY_CAR
+2025,15,Dutch Grand Prix,STR,Aston Martin,True,2,MEDIUM>HARD>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:NO_REFERENCE
+2025,15,Dutch Grand Prix,TSU,Red Bull Racing,True,2,SOFT>HARD>SOFT,DIFFERS,sequence;timing,2:SAFETY_CAR
+2025,15,Dutch Grand Prix,VER,Red Bull Racing,True,2,SOFT>MEDIUM>SOFT,DIFFERS,sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR
+2025,16,Italian Grand Prix,ALB,Williams,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,16,Italian Grand Prix,ALO,Aston Martin,False,1,MEDIUM>HARD,DID_NOT_COMPLETE,,
+2025,16,Italian Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,16,Italian Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,16,Italian Grand Prix,BOR,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,16,Italian Grand Prix,COL,Alpine,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,16,Italian Grand Prix,GAS,Alpine,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,16,Italian Grand Prix,HAD,Racing Bulls,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,16,Italian Grand Prix,HAM,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,16,Italian Grand Prix,LAW,Racing Bulls,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,16,Italian Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,16,Italian Grand Prix,NOR,McLaren,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,16,Italian Grand Prix,OCO,Haas F1 Team,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,16,Italian Grand Prix,PIA,McLaren,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,16,Italian Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,16,Italian Grand Prix,SAI,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,16,Italian Grand Prix,STR,Aston Martin,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,16,Italian Grand Prix,TSU,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,16,Italian Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,17,Azerbaijan Grand Prix,ALB,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT
+2025,17,Azerbaijan Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,17,Azerbaijan Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,17,Azerbaijan Grand Prix,BEA,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,17,Azerbaijan Grand Prix,BOR,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,17,Azerbaijan Grand Prix,COL,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,17,Azerbaijan Grand Prix,GAS,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,17,Azerbaijan Grand Prix,HAD,Racing Bulls,True,1,MEDIUM>HARD,DIFFERS,timing,1:COVER
+2025,17,Azerbaijan Grand Prix,HAM,Ferrari,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,17,Azerbaijan Grand Prix,HUL,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,17,Azerbaijan Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,17,Azerbaijan Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:COVER
+2025,17,Azerbaijan Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,17,Azerbaijan Grand Prix,OCO,Haas F1 Team,True,2,HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR
+2025,17,Azerbaijan Grand Prix,PIA,McLaren,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,17,Azerbaijan Grand Prix,RUS,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,17,Azerbaijan Grand Prix,SAI,Williams,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,17,Azerbaijan Grand Prix,STR,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,17,Azerbaijan Grand Prix,TSU,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,17,Azerbaijan Grand Prix,VER,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,18,Singapore Grand Prix,ALB,Williams,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,18,Singapore Grand Prix,ALO,Aston Martin,True,1,SOFT>MEDIUM,DIFFERS,sequence,
+2025,18,Singapore Grand Prix,ANT,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,18,Singapore Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,18,Singapore Grand Prix,BOR,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,18,Singapore Grand Prix,COL,Alpine,True,1,SOFT>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,18,Singapore Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2025,18,Singapore Grand Prix,HAD,Racing Bulls,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2025,18,Singapore Grand Prix,HAM,Ferrari,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:UNDERCUT_ATTEMPT
+2025,18,Singapore Grand Prix,HUL,Kick Sauber,True,2,MEDIUM>HARD>SOFT,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2025,18,Singapore Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,18,Singapore Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,18,Singapore Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,18,Singapore Grand Prix,OCO,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,18,Singapore Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,18,Singapore Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,18,Singapore Grand Prix,SAI,Williams,True,1,MEDIUM>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,18,Singapore Grand Prix,STR,Aston Martin,True,1,SOFT>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,18,Singapore Grand Prix,TSU,Red Bull Racing,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,18,Singapore Grand Prix,VER,Red Bull Racing,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2025,19,United States Grand Prix,ALB,Williams,True,2,HARD>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:EXTRA_STOP
+2025,19,United States Grand Prix,ALO,Aston Martin,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,ANT,Mercedes,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,BOR,Kick Sauber,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,19,United States Grand Prix,COL,Alpine,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,GAS,Alpine,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,HAD,Racing Bulls,True,1,HARD>SOFT,DIFFERS,sequence,
+2025,19,United States Grand Prix,HAM,Ferrari,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,HUL,Kick Sauber,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,LEC,Ferrari,True,1,SOFT>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,19,United States Grand Prix,NOR,McLaren,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,OCO,Haas F1 Team,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,19,United States Grand Prix,PIA,McLaren,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,RUS,Mercedes,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,SAI,Williams,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,19,United States Grand Prix,STR,Aston Martin,True,1,SOFT>MEDIUM,DIFFERS,sequence,
+2025,19,United States Grand Prix,TSU,Red Bull Racing,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,19,United States Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,20,Mexico City Grand Prix,ALB,Williams,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,20,Mexico City Grand Prix,ALO,Aston Martin,False,1,SOFT>MEDIUM,DID_NOT_COMPLETE,,
+2025,20,Mexico City Grand Prix,ANT,Mercedes,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,20,Mexico City Grand Prix,BEA,Haas F1 Team,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:COVER;2:EXTRA_STOP
+2025,20,Mexico City Grand Prix,BOR,Kick Sauber,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,20,Mexico City Grand Prix,COL,Alpine,True,1,HARD>SOFT,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,20,Mexico City Grand Prix,GAS,Alpine,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,20,Mexico City Grand Prix,HAD,Racing Bulls,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,20,Mexico City Grand Prix,HAM,Ferrari,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,20,Mexico City Grand Prix,HUL,Kick Sauber,False,0,SOFT,DID_NOT_COMPLETE,,
+2025,20,Mexico City Grand Prix,LAW,Racing Bulls,False,1,SOFT>HARD,DID_NOT_COMPLETE,,
+2025,20,Mexico City Grand Prix,LEC,Ferrari,True,1,SOFT>MEDIUM,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2025,20,Mexico City Grand Prix,NOR,McLaren,True,1,SOFT>MEDIUM,DIFFERS,sequence,
+2025,20,Mexico City Grand Prix,OCO,Haas F1 Team,True,1,SOFT>MEDIUM,DIFFERS,sequence;timing,1:EARLIER_THAN_REFERENCE
+2025,20,Mexico City Grand Prix,PIA,McLaren,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:EXTRA_STOP
+2025,20,Mexico City Grand Prix,RUS,Mercedes,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:COVER;2:EXTRA_STOP
+2025,20,Mexico City Grand Prix,SAI,Williams,True,2,MEDIUM>SOFT>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,20,Mexico City Grand Prix,STR,Aston Martin,True,2,SOFT>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,20,Mexico City Grand Prix,TSU,Red Bull Racing,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,20,Mexico City Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>SOFT,MATCHES_REFERENCE,,
+2025,21,São Paulo Grand Prix,ALB,Williams,True,2,MEDIUM>SOFT>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:LATER_THAN_REFERENCE
+2025,21,São Paulo Grand Prix,ALO,Aston Martin,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence,
+2025,21,São Paulo Grand Prix,ANT,Mercedes,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,21,São Paulo Grand Prix,BEA,Haas F1 Team,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:EARLIER_THAN_REFERENCE
+2025,21,São Paulo Grand Prix,BOR,Kick Sauber,False,0,SOFT,DID_NOT_COMPLETE,,
+2025,21,São Paulo Grand Prix,COL,Alpine,True,2,MEDIUM>SOFT>MEDIUM,DIFFERS,timing,2:UNDERCUT_ATTEMPT
+2025,21,São Paulo Grand Prix,GAS,Alpine,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,21,São Paulo Grand Prix,HAD,Racing Bulls,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,1:EARLIER_THAN_REFERENCE;2:COVER
+2025,21,São Paulo Grand Prix,HAM,Ferrari,False,3,SOFT>HARD>MEDIUM>MEDIUM,DID_NOT_COMPLETE,,
+2025,21,São Paulo Grand Prix,HUL,Kick Sauber,True,1,MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:LATER_THAN_REFERENCE
+2025,21,São Paulo Grand Prix,LAW,Racing Bulls,True,1,SOFT>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE
+2025,21,São Paulo Grand Prix,LEC,Ferrari,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,21,São Paulo Grand Prix,NOR,McLaren,True,2,MEDIUM>SOFT>MEDIUM,MATCHES_REFERENCE,,
+2025,21,São Paulo Grand Prix,OCO,Haas F1 Team,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2025,21,São Paulo Grand Prix,PIA,McLaren,True,2,MEDIUM>SOFT>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE;2:LATER_THAN_REFERENCE
+2025,21,São Paulo Grand Prix,RUS,Mercedes,True,2,MEDIUM>SOFT>MEDIUM,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,21,São Paulo Grand Prix,SAI,Williams,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,timing,1:UNDERCUT_ATTEMPT;2:COVER
+2025,21,São Paulo Grand Prix,STR,Aston Martin,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,2:UNDERCUT_ATTEMPT
+2025,21,São Paulo Grand Prix,TSU,Red Bull Racing,True,3,HARD>MEDIUM>MEDIUM>MEDIUM,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2025,21,São Paulo Grand Prix,VER,Red Bull Racing,True,3,HARD>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2025,22,Las Vegas Grand Prix,ALB,Williams,False,3,HARD>MEDIUM>HARD>MEDIUM,DID_NOT_COMPLETE,,
+2025,22,Las Vegas Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2025,22,Las Vegas Grand Prix,ANT,Mercedes,True,1,SOFT>HARD,DIFFERS,sequence;timing,1:VIRTUAL_SAFETY_CAR
+2025,22,Las Vegas Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,22,Las Vegas Grand Prix,BOR,Kick Sauber,False,1,HARD>MEDIUM,DID_NOT_COMPLETE,,
+2025,22,Las Vegas Grand Prix,COL,Alpine,True,1,HARD>MEDIUM,DIFFERS,sequence,
+2025,22,Las Vegas Grand Prix,GAS,Alpine,True,1,MEDIUM>HARD,DIFFERS,timing,1:VIRTUAL_SAFETY_CAR
+2025,22,Las Vegas Grand Prix,HAD,Racing Bulls,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,22,Las Vegas Grand Prix,HAM,Ferrari,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,22,Las Vegas Grand Prix,HUL,Kick Sauber,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,22,Las Vegas Grand Prix,LAW,Racing Bulls,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,1:VIRTUAL_SAFETY_CAR;2:COVER
+2025,22,Las Vegas Grand Prix,LEC,Ferrari,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,22,Las Vegas Grand Prix,NOR,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,22,Las Vegas Grand Prix,OCO,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE
+2025,22,Las Vegas Grand Prix,PIA,McLaren,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,22,Las Vegas Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,22,Las Vegas Grand Prix,SAI,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,22,Las Vegas Grand Prix,STR,Aston Martin,False,0,MEDIUM,DID_NOT_COMPLETE,,
+2025,22,Las Vegas Grand Prix,TSU,Red Bull Racing,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:EXTRA_STOP
+2025,22,Las Vegas Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,23,Qatar Grand Prix,ALB,Williams,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,ALO,Aston Martin,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,ANT,Mercedes,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,BEA,Haas F1 Team,False,2,MEDIUM>MEDIUM>HARD,DID_NOT_COMPLETE,,
+2025,23,Qatar Grand Prix,BOR,Kick Sauber,True,2,MEDIUM>MEDIUM>SOFT,DIFFERS,sequence;timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,COL,Alpine,True,2,HARD>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,HAD,Racing Bulls,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,HAM,Ferrari,True,2,SOFT>MEDIUM>MEDIUM,DIFFERS,sequence;timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,HUL,Kick Sauber,False,0,SOFT,DID_NOT_COMPLETE,,
+2025,23,Qatar Grand Prix,LAW,Racing Bulls,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,LEC,Ferrari,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,NOR,McLaren,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:COVER;2:LATER_THAN_REFERENCE
+2025,23,Qatar Grand Prix,OCO,Haas F1 Team,True,3,MEDIUM>HARD>MEDIUM>HARD,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:SAFETY_CAR;3:COVER
+2025,23,Qatar Grand Prix,PIA,McLaren,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:NO_REFERENCE;2:LATER_THAN_REFERENCE
+2025,23,Qatar Grand Prix,RUS,Mercedes,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,SAI,Williams,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,STR,Aston Martin,True,3,MEDIUM>MEDIUM>MEDIUM>SOFT,DIFFERS,stop count;sequence;timing,1:SAFETY_CAR;2:UNDERCUT_ATTEMPT;3:EXTRA_STOP
+2025,23,Qatar Grand Prix,TSU,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,23,Qatar Grand Prix,VER,Red Bull Racing,True,2,MEDIUM>MEDIUM>HARD,DIFFERS,timing,1:SAFETY_CAR
+2025,24,Abu Dhabi Grand Prix,ALB,Williams,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:COVER
+2025,24,Abu Dhabi Grand Prix,ALO,Aston Martin,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,24,Abu Dhabi Grand Prix,ANT,Mercedes,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:UNDERCUT_ATTEMPT
+2025,24,Abu Dhabi Grand Prix,BEA,Haas F1 Team,True,1,MEDIUM>HARD,DIFFERS,timing,1:UNDERCUT_ATTEMPT
+2025,24,Abu Dhabi Grand Prix,BOR,Kick Sauber,True,1,MEDIUM>HARD,DIFFERS,timing,1:COVER
+2025,24,Abu Dhabi Grand Prix,COL,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2025,24,Abu Dhabi Grand Prix,GAS,Alpine,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:EARLIER_THAN_REFERENCE;2:UNDERCUT_ATTEMPT
+2025,24,Abu Dhabi Grand Prix,HAD,Racing Bulls,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,24,Abu Dhabi Grand Prix,HAM,Ferrari,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,24,Abu Dhabi Grand Prix,HUL,Kick Sauber,True,2,SOFT>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,1:UNDERCUT_ATTEMPT;2:UNDERCUT_ATTEMPT
+2025,24,Abu Dhabi Grand Prix,LAW,Racing Bulls,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,24,Abu Dhabi Grand Prix,LEC,Ferrari,True,2,MEDIUM>HARD>MEDIUM,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2025,24,Abu Dhabi Grand Prix,NOR,McLaren,True,2,MEDIUM>HARD>HARD,DIFFERS,stop count;sequence;timing,2:EXTRA_STOP
+2025,24,Abu Dhabi Grand Prix,OCO,Haas F1 Team,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,24,Abu Dhabi Grand Prix,PIA,McLaren,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,24,Abu Dhabi Grand Prix,RUS,Mercedes,True,1,MEDIUM>HARD,DIFFERS,timing,1:EARLIER_THAN_REFERENCE
+2025,24,Abu Dhabi Grand Prix,SAI,Williams,True,1,MEDIUM>HARD,MATCHES_REFERENCE,,
+2025,24,Abu Dhabi Grand Prix,STR,Aston Martin,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,24,Abu Dhabi Grand Prix,TSU,Red Bull Racing,True,1,HARD>MEDIUM,DIFFERS,sequence;timing,1:LATER_THAN_REFERENCE
+2025,24,Abu Dhabi Grand Prix,VER,Red Bull Racing,True,1,MEDIUM>HARD,DIFFERS,timing,1:LATER_THAN_REFERENCE

@@ -1,0 +1,7 @@
+metric,value,lo,hi,n,note
+T1,0.0003838182503649205,0.0002500491356962211,0.0005252424135582918,21,
+races_used,21.0,,,21,
+races_G_positive,19.0,,,21,
+density_BRAKING,0.0007041976289428901,0.0005466180009552864,0.0008677710338030775,21,"mean over races, primary compound, seconds of degradation per second of lap time"
+density_CORNER_NO_BRAKE,0.000494989935033153,0.0003385321297690566,0.0006448482057342682,21,"mean over races, primary compound, seconds of degradation per second of lap time"
+density_STRAIGHT,0.0002615448188111798,0.00018162849067866114,0.000360581601480362,21,"mean over races, primary compound, seconds of degradation per second of lap time"

@@ -1,0 +1,47 @@
+metric,value,label
+R1,0.16945567746149395,
+R1_lo,0.1012007504499847,
+R1_hi,0.24137579984543012,
+R2,-0.1755177808738518,
+R2_lo,-0.29675271200530307,
+R2_hi,-0.07946620318619249,
+races_pooled,59.0,
+races_M1_beat_M0,45.0,
+races_M2_beat_M1,15.0,
+pooled_test_MAE_M0,0.8006939378364596,
+pooled_test_MAE_M1,0.6312382603749657,
+pooled_test_MAE_M2,0.8067560412488173,
+2022_D1,0.2145136763015824,
+2022_D1_lo,0.09280449278968886,
+2022_D1_hi,0.34755553060622707,
+2022_D2,-0.13067203994423104,
+2022_D2_lo,-0.3285069297132923,
+2022_D2_hi,-0.01307443741066731,
+2022_validation_eligible_races,18.0,
+2022_wet_races,4.0,
+2022_failed_loads,0.0,
+2023_D1,0.09015330876501143,
+2023_D1_lo,-0.029595755410968375,
+2023_D1_hi,0.21944618750702716,
+2023_D2,-0.0975130920134035,
+2023_D2_lo,-0.20098913936157697,
+2023_D2_hi,-0.02428230899149283,
+2023_validation_eligible_races,20.0,
+2023_wet_races,2.0,
+2023_failed_loads,0.0,
+2024_D1,0.20636060102378243,
+2024_D1_lo,0.10573217664097222,
+2024_D1_hi,0.3164043604453182,
+2024_D2,-0.2882471672520489,
+2024_D2_lo,-0.5549964327545374,
+2024_D2_hi,-0.07055702747595251,
+2024_validation_eligible_races,21.0,
+2024_wet_races,3.0,
+2024_failed_loads,0.0,
+ALL4_D1,0.1613603762550678,"original plus replication, shown for reference"
+ALL4_D2,-0.15019120526953209,"original plus replication, shown for reference"
+ALL4_D1_lo,0.10081559564728922,"original plus replication, shown for reference"
+ALL4_D1_hi,0.2238860265718137,"original plus replication, shown for reference"
+ALL4_D2_lo,-0.24249789432044347,"original plus replication, shown for reference"
+ALL4_D2_hi,-0.07494395745379089,"original plus replication, shown for reference"
+ALL4_races,78.0,"original plus replication, shown for reference"

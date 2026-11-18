@@ -1,0 +1,23 @@
+Round,EventName,total_laps,status,eligible,reason,cutoff_lap,train_laps,test_laps,compounds_dropped,test_laps_removed,mean_track_temp
+1,Bahrain Grand Prix,57,used,True,,34.0,536.0,345.0,MEDIUM,2.0,31.01180124223602
+2,Saudi Arabian Grand Prix,50,used,True,,30.0,448.0,344.0,SOFT,13.0,31.79256756756757
+3,Australian Grand Prix,58,used,True,,34.0,434.0,295.0,SOFT,5.0,30.13963963963964
+4,Azerbaijan Grand Prix,51,used,True,,30.0,444.0,355.0,,1.0,41.209999999999994
+5,Miami Grand Prix,57,used,True,,34.0,625.0,448.0,SOFT,0.0,36.689032258064515
+6,Monaco Grand Prix,78,wet,False,wet race,,,,,,39.25568181818182
+7,Spanish Grand Prix,66,used,True,,39.0,698.0,509.0,,0.0,33.838961038961045
+8,Canadian Grand Prix,70,used,True,,42.0,557.0,475.0,SOFT,1.0,30.59320987654321
+9,Austrian Grand Prix,71,used,True,,42.0,644.0,520.0,,1.0,32.05424836601307
+10,British Grand Prix,52,used,True,,31.0,555.0,247.0,,0.0,30.94105960264901
+11,Hungarian Grand Prix,70,used,True,,42.0,657.0,456.0,SOFT,0.0,48.579268292682926
+12,Belgian Grand Prix,44,used,True,,26.0,361.0,291.0,HARD,0.0,28.24066666666667
+13,Dutch Grand Prix,72,wet,False,wet race,,,,,,24.94114832535885
+14,Italian Grand Prix,51,used,True,,30.0,513.0,365.0,,0.0,42.928205128205136
+15,Singapore Grand Prix,62,used,True,,37.0,539.0,256.0,SOFT,25.0,36.42215909090909
+16,Japanese Grand Prix,53,used,True,,31.0,377.0,307.0,,0.0,42.070253164556966
+17,Qatar Grand Prix,57,used,True,,34.0,433.0,334.0,,10.0,36.93207547169812
+18,United States Grand Prix,56,used,True,,33.0,540.0,362.0,,7.0,40.62857142857143
+19,Mexico City Grand Prix,71,used,True,,42.0,597.0,449.0,SOFT,0.0,45.63947368421053
+20,São Paulo Grand Prix,71,used,True,,42.0,586.0,384.0,,0.0,46.77595628415301
+21,Las Vegas Grand Prix,50,used,True,,30.0,327.0,312.0,SOFT,0.0,17.99444444444444
+22,Abu Dhabi Grand Prix,58,used,True,,34.0,609.0,454.0,,0.0,33.46089743589744

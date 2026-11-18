@@ -1,0 +1,21 @@
+link,season,races,rho,p_value
+deg_index vs reference number of stops,2022,17,0.4555973021063105,0.06608546936860986
+deg_index vs reference number of stops,2023,20,0.25241459739144817,0.2829776580925791
+deg_index vs reference number of stops,2024,21,0.6356417261637282,0.0019565365376305157
+deg_index vs reference number of stops,2025,20,0.23627054397701328,0.31591363354026514
+deg_index vs reference number of stops,ALL,78,0.36919357465619157,0.0008799741634356023
+deg_index vs share of completing drivers labeled DIFFERS,2022,17,0.09747294138767224,0.709768173251762
+deg_index vs share of completing drivers labeled DIFFERS,2023,20,-0.09732232622488447,0.683137667567596
+deg_index vs share of completing drivers labeled DIFFERS,2024,21,0.5045590025494316,0.019669393614450737
+deg_index vs share of completing drivers labeled DIFFERS,2025,20,0.2439602089853526,0.299950051666634
+deg_index vs share of completing drivers labeled DIFFERS,ALL,78,0.15530010742101158,0.17456445953429756
+deg_index vs forecast gain (MAE_M0 minus MAE_M1),2022,18,0.6718266253869969,0.0022613045197175125
+deg_index vs forecast gain (MAE_M0 minus MAE_M1),2023,20,0.8466165413533834,2.5220574871575774e-06
+deg_index vs forecast gain (MAE_M0 minus MAE_M1),2024,21,0.2597402597402597,0.2555191301623942
+deg_index vs forecast gain (MAE_M0 minus MAE_M1),2025,19,0.5877192982456141,0.008139305847095216
+deg_index vs forecast gain (MAE_M0 minus MAE_M1),ALL,78,0.6282704637135016,7.379576128109843e-10
+deg_index vs density difference G (2025 only),2022,0,,
+deg_index vs density difference G (2025 only),2023,0,,
+deg_index vs density difference G (2025 only),2024,0,,
+deg_index vs density difference G (2025 only),2025,21,0.5909090909090908,0.004791420615320218
+deg_index vs density difference G (2025 only),ALL,21,0.5909090909090908,0.004791420615320218

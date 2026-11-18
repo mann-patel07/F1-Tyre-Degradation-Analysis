@@ -1,0 +1,93 @@
+season,round,event,incomplete,reference_stops,reference_laps,qualifying_stops,reference_sequences,artifacts,pit_passes,same_tyre_continuations
+2022,1,Bahrain Grand Prix,False,3,15;33;43,10;18;7,SOFT>SOFT>MEDIUM>SOFT,0,0,0
+2022,2,Saudi Arabian Grand Prix,False,1,14,4,MEDIUM>HARD,0,0,1
+2022,3,Australian Grand Prix,False,1,21,12,MEDIUM>HARD,0,0,0
+2022,4,Emilia Romagna Grand Prix,False,1,18,13,INTERMEDIATE>MEDIUM,0,0,1
+2022,5,Miami Grand Prix,False,1,25,8,MEDIUM>HARD,0,0,0
+2022,6,Spanish Grand Prix,False,3,12;31;50,12;13;13,SOFT>MEDIUM>SOFT>SOFT,0,0,0
+2022,7,Monaco Grand Prix,False,2,21;,5;1,WET>HARD>MEDIUM,0,2,5
+2022,8,Azerbaijan Grand Prix,False,1,19,4,MEDIUM>HARD,0,0,1
+2022,9,Canadian Grand Prix,False,2,11.5;42.5,4;6,MEDIUM>HARD>HARD,0,0,0
+2022,10,British Grand Prix,False,3,;19;,1;10;0,MEDIUM>MEDIUM>HARD>SOFT,0,0,2
+2022,11,Austrian Grand Prix,True,2,15.5;44,14;13,MEDIUM>HARD>?,0,4,0
+2022,12,French Grand Prix,False,1,,1,MEDIUM>HARD,0,0,0
+2022,13,Hungarian Grand Prix,False,2,16;46,12;11,SOFT>MEDIUM>MEDIUM,0,0,0
+2022,14,Belgian Grand Prix,False,2,13;28.5,16;16,MEDIUM>HARD>MEDIUM,0,0,0
+2022,15,Dutch Grand Prix,False,3,14;36;,14;10;0,SOFT>MEDIUM>HARD>SOFT,0,0,15
+2022,16,Italian Grand Prix,False,2,23.5;,8;1,MEDIUM>HARD>SOFT,0,0,0
+2022,17,Singapore Grand Prix,False,1,34,6,INTERMEDIATE>MEDIUM,0,0,0
+2022,18,Japanese Grand Prix,False,2,;7,0;13,INTERMEDIATE>WET>INTERMEDIATE,0,0,0
+2022,19,United States Grand Prix,False,2,10.5;35,10;11,MEDIUM>HARD>HARD,0,0,0
+2022,20,Mexico City Grand Prix,False,1,35.5,16,SOFT>MEDIUM,0,0,0
+2022,21,São Paulo Grand Prix,False,2,24;47,9;9,SOFT>MEDIUM>SOFT,0,0,0
+2022,22,Abu Dhabi Grand Prix,False,2,15;40,11;7,MEDIUM>HARD>MEDIUM,0,0,0
+2023,1,Bahrain Grand Prix,False,2,13;31,9;9,SOFT>HARD>HARD,0,0,1
+2023,2,Saudi Arabian Grand Prix,False,1,14,7,MEDIUM>HARD,0,0,0
+2023,3,Australian Grand Prix,False,3,;;,0;1;0,MEDIUM>HARD>SOFT>SOFT,0,0,13
+2023,4,Azerbaijan Grand Prix,False,1,8.5,8,MEDIUM>HARD,0,0,0
+2023,5,Miami Grand Prix,False,1,19,20,MEDIUM>HARD,0,0,0
+2023,6,Monaco Grand Prix,False,2,38.5;53,8;4,HARD>MEDIUM>INTERMEDIATE | MEDIUM>HARD>INTERMEDIATE,0,0,0
+2023,7,Spanish Grand Prix,False,2,16;39,17;17,SOFT>HARD>MEDIUM,0,0,0
+2023,8,Canadian Grand Prix,False,2,11;40,6;11,MEDIUM>HARD>HARD,0,1,0
+2023,9,Austrian Grand Prix,False,2,16.5;41.5,4;14,MEDIUM>HARD>HARD,0,0,19
+2023,10,British Grand Prix,False,1,28.5,6,MEDIUM>SOFT,0,0,1
+2023,11,Hungarian Grand Prix,False,2,16;42,18;18,MEDIUM>HARD>HARD,0,0,0
+2023,12,Belgian Grand Prix,False,2,8;25,12;12,SOFT>MEDIUM>SOFT,0,0,0
+2023,13,Dutch Grand Prix,False,4,1;11;59;60,5;7;7;3,SOFT>INTERMEDIATE>SOFT>SOFT>INTERMEDIATE | SOFT>MEDIUM>SOFT>INTERMEDIATE>INTERMEDIATE,0,0,15
+2023,14,Italian Grand Prix,False,1,20,12,MEDIUM>HARD,0,0,0
+2023,15,Singapore Grand Prix,False,1,,2,MEDIUM>HARD,0,0,0
+2023,16,Japanese Grand Prix,False,2,16;34,10;12,MEDIUM>HARD>HARD,0,0,1
+2023,17,Qatar Grand Prix,False,3,12.5;25.5;43,12;16;15,MEDIUM>MEDIUM>HARD>MEDIUM,0,0,0
+2023,18,United States Grand Prix,False,2,17;35,15;15,MEDIUM>HARD>MEDIUM,0,0,0
+2023,19,Mexico City Grand Prix,False,1,30,7,MEDIUM>HARD,0,0,11
+2023,20,São Paulo Grand Prix,False,3,;25;52,0;11;11,SOFT>SOFT>MEDIUM>SOFT,0,0,17
+2023,21,Las Vegas Grand Prix,False,2,15.5;24,6;3,MEDIUM>HARD>HARD,0,0,0
+2023,22,Abu Dhabi Grand Prix,False,2,15;36,17;17,MEDIUM>HARD>HARD,0,0,0
+2024,1,Bahrain Grand Prix,False,2,12;34,16;17,SOFT>HARD>HARD,0,0,0
+2024,2,Saudi Arabian Grand Prix,False,1,36.5,4,MEDIUM>HARD,0,0,0
+2024,3,Australian Grand Prix,False,2,8;36,13;16,MEDIUM>HARD>HARD,0,0,0
+2024,4,Japanese Grand Prix,False,2,12;32,7;9,MEDIUM>MEDIUM>HARD,0,0,8
+2024,5,Chinese Grand Prix,False,2,11.5;,10;0,MEDIUM>HARD>HARD,0,0,0
+2024,6,Miami Grand Prix,False,1,24,5,MEDIUM>HARD,0,0,1
+2024,7,Emilia Romagna Grand Prix,False,1,25,16,MEDIUM>HARD,0,0,1
+2024,8,Monaco Grand Prix,False,1,,1,MEDIUM>HARD,0,0,1
+2024,9,Canadian Grand Prix,False,2,;44,0;7,INTERMEDIATE>INTERMEDIATE>MEDIUM,0,0,0
+2024,10,Spanish Grand Prix,False,2,15.5;39.5,18;18,SOFT>MEDIUM>HARD,0,0,0
+2024,11,Austrian Grand Prix,False,2,20.5;43.5,16;16,MEDIUM>HARD>MEDIUM,0,0,0
+2024,12,British Grand Prix,False,2,27;38,13;13,MEDIUM>INTERMEDIATE>SOFT,0,0,0
+2024,13,Hungarian Grand Prix,False,2,16;42.5,16;16,MEDIUM>HARD>HARD | MEDIUM>HARD>MEDIUM,0,0,0
+2024,14,Belgian Grand Prix,False,2,10.5;28,12;13,MEDIUM>HARD>HARD,0,0,0
+2024,15,Dutch Grand Prix,False,1,29.5,14,MEDIUM>HARD,0,0,0
+2024,16,Italian Grand Prix,False,1,16,9,MEDIUM>HARD,0,0,0
+2024,17,Azerbaijan Grand Prix,False,1,14.5,14,MEDIUM>HARD,0,0,0
+2024,18,Singapore Grand Prix,False,1,29,17,MEDIUM>HARD,0,0,0
+2024,19,United States Grand Prix,False,1,26,15,MEDIUM>HARD,0,0,0
+2024,20,Mexico City Grand Prix,False,1,30.5,14,MEDIUM>HARD,0,0,0
+2024,21,São Paulo Grand Prix,False,2,;,1;0,INTERMEDIATE>INTERMEDIATE>INTERMEDIATE,0,0,1
+2024,22,Las Vegas Grand Prix,False,2,11;30,16;16,MEDIUM>HARD>HARD,0,0,1
+2024,23,Qatar Grand Prix,False,1,34,3,MEDIUM>HARD,0,0,34
+2024,24,Abu Dhabi Grand Prix,False,1,22.5,12,MEDIUM>HARD,0,0,2
+2025,1,Australian Grand Prix,False,2,;,0;2,INTERMEDIATE>HARD>INTERMEDIATE,0,0,43
+2025,2,Chinese Grand Prix,False,1,14.5,14,MEDIUM>HARD,0,0,0
+2025,3,Japanese Grand Prix,False,1,24,19,MEDIUM>HARD,0,0,0
+2025,4,Bahrain Grand Prix,False,2,12.5;27.5,18;6,SOFT>MEDIUM>HARD,0,0,0
+2025,5,Saudi Arabian Grand Prix,False,1,21,15,MEDIUM>HARD,0,0,0
+2025,6,Miami Grand Prix,True,1,32,13,MEDIUM>HARD,0,12,0
+2025,7,Emilia Romagna Grand Prix,False,2,11.5;,10;1,MEDIUM>HARD>HARD,0,0,0
+2025,8,Monaco Grand Prix,False,2,20;49,15;17,HARD>HARD>MEDIUM | HARD>MEDIUM>HARD | HARD>MEDIUM>MEDIUM | MEDIUM>HARD>HARD | MEDIUM>HARD>MEDIUM | MEDIUM>MEDIUM>HARD | MEDIUM>SOFT>HARD,0,1,0
+2025,9,Spanish Grand Prix,False,3,15.5;41.5;,12;12;0,SOFT>MEDIUM>SOFT>SOFT,0,0,1
+2025,10,Canadian Grand Prix,False,2,15;45,9;7,MEDIUM>HARD>HARD,0,0,49
+2025,11,Austrian Grand Prix,False,2,19.5;49,12;13,MEDIUM>HARD>MEDIUM,0,0,0
+2025,12,British Grand Prix,False,2,11;41,13;9,INTERMEDIATE>INTERMEDIATE>MEDIUM,0,0,0
+2025,13,Belgian Grand Prix,True,1,12,14,INTERMEDIATE>MEDIUM,0,0,0
+2025,14,Hungarian Grand Prix,False,1,34.5,10,MEDIUM>HARD,0,0,0
+2025,15,Dutch Grand Prix,False,2,18.5;,4;2,MEDIUM>HARD>HARD | MEDIUM>HARD>SOFT,0,0,0
+2025,16,Italian Grand Prix,False,1,33,18,MEDIUM>HARD,0,0,0
+2025,17,Azerbaijan Grand Prix,False,1,35,15,MEDIUM>HARD,0,0,0
+2025,18,Singapore Grand Prix,False,1,25,17,MEDIUM>HARD,0,0,0
+2025,19,United States Grand Prix,False,1,30,17,MEDIUM>SOFT,0,0,0
+2025,20,Mexico City Grand Prix,False,1,35,10,MEDIUM>SOFT,0,0,1
+2025,21,São Paulo Grand Prix,False,2,28.5;47,12;13,MEDIUM>SOFT>MEDIUM | SOFT>MEDIUM>MEDIUM,0,0,0
+2025,22,Las Vegas Grand Prix,False,1,23,12,MEDIUM>HARD,0,0,0
+2025,23,Qatar Grand Prix,False,2,;32,2;16,MEDIUM>MEDIUM>HARD,0,0,1
+2025,24,Abu Dhabi Grand Prix,False,1,19,13,MEDIUM>HARD,0,0,0
