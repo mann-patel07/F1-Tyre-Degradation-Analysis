@@ -1,0 +1,944 @@
+Driver,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,Team,FreshTyre,Position,Sector1Time,Sector2Time,Sector3Time,Deleted,is_pit_in_lap,is_pit_out_lap,lap_end_s,Round,EventName
+VER,1.0,111.344,1.0,MEDIUM,1.0,124,False,Red Bull Racing,True,1.0,,29.908,47.019,,False,False,3401.503,23,Qatar Grand Prix
+VER,2.0,141.257,1.0,MEDIUM,2.0,4,False,Red Bull Racing,True,1.0,55.914,43.653,41.69,,False,False,3542.76,23,Qatar Grand Prix
+VER,3.0,137.39,1.0,MEDIUM,3.0,4,False,Red Bull Racing,True,1.0,51.955,42.864,42.571,,False,False,3680.15,23,Qatar Grand Prix
+VER,4.0,153.079,1.0,MEDIUM,4.0,41,False,Red Bull Racing,True,1.0,48.051,42.711,62.317,,False,False,3833.229,23,Qatar Grand Prix
+VER,5.0,86.724,1.0,MEDIUM,5.0,12,True,Red Bull Racing,True,1.0,32.248,29.054,25.422,,False,False,3919.953,23,Qatar Grand Prix
+VER,6.0,86.502,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,1.0,32.141,29.044,25.317,,False,False,4006.455,23,Qatar Grand Prix
+VER,7.0,86.376,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,1.0,32.062,28.973,25.341,,False,False,4092.831,23,Qatar Grand Prix
+VER,8.0,86.28,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,1.0,32.029,29.033,25.218,,False,False,4179.111,23,Qatar Grand Prix
+VER,9.0,86.2,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,1.0,31.963,29.032,25.205,,False,False,4265.311,23,Qatar Grand Prix
+VER,10.0,85.973,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,1.0,31.908,29.002,25.063,,False,False,4351.284,23,Qatar Grand Prix
+VER,11.0,85.808,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,1.0,31.923,28.93,24.955,,False,False,4437.092,23,Qatar Grand Prix
+VER,12.0,85.903,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,1.0,31.866,29.005,25.032,,False,False,4522.995,23,Qatar Grand Prix
+VER,13.0,85.843,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,1.0,31.903,28.955,24.985,,False,False,4608.838,23,Qatar Grand Prix
+VER,14.0,85.812,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,1.0,31.899,28.998,24.915,,False,False,4694.65,23,Qatar Grand Prix
+VER,15.0,85.698,1.0,MEDIUM,15.0,1,True,Red Bull Racing,True,1.0,31.819,28.962,24.917,,False,False,4780.348,23,Qatar Grand Prix
+VER,16.0,85.605,1.0,MEDIUM,16.0,1,True,Red Bull Racing,True,1.0,31.776,28.999,24.83,,False,False,4865.953,23,Qatar Grand Prix
+VER,17.0,85.46,1.0,MEDIUM,17.0,1,True,Red Bull Racing,True,1.0,31.727,28.954,24.779,,False,False,4951.413,23,Qatar Grand Prix
+VER,18.0,85.079,1.0,MEDIUM,18.0,1,True,Red Bull Racing,True,1.0,31.6,28.89,24.589,,False,False,5036.492,23,Qatar Grand Prix
+VER,19.0,85.309,1.0,MEDIUM,19.0,1,True,Red Bull Racing,True,1.0,31.713,28.894,24.702,,False,False,5121.801,23,Qatar Grand Prix
+VER,20.0,84.896,1.0,MEDIUM,20.0,1,True,Red Bull Racing,True,1.0,31.57,28.845,24.481,,False,False,5206.697,23,Qatar Grand Prix
+VER,21.0,84.97,1.0,MEDIUM,21.0,1,True,Red Bull Racing,True,1.0,31.578,28.803,24.589,,False,False,5291.667,23,Qatar Grand Prix
+VER,22.0,84.908,1.0,MEDIUM,22.0,1,True,Red Bull Racing,True,1.0,31.559,28.869,24.48,,False,False,5376.575,23,Qatar Grand Prix
+VER,23.0,84.856,1.0,MEDIUM,23.0,1,True,Red Bull Racing,True,1.0,31.542,28.855,24.459,,False,False,5461.431,23,Qatar Grand Prix
+VER,24.0,84.825,1.0,MEDIUM,24.0,1,True,Red Bull Racing,True,1.0,31.522,28.842,24.461,,False,False,5546.256,23,Qatar Grand Prix
+VER,25.0,84.702,1.0,MEDIUM,25.0,1,True,Red Bull Racing,True,1.0,31.487,28.807,24.408,,False,False,5630.958,23,Qatar Grand Prix
+VER,26.0,84.775,1.0,MEDIUM,26.0,1,True,Red Bull Racing,True,1.0,31.528,28.774,24.473,,False,False,5715.733,23,Qatar Grand Prix
+VER,27.0,84.72,1.0,MEDIUM,27.0,1,True,Red Bull Racing,True,1.0,31.48,28.776,24.464,,False,False,5800.453,23,Qatar Grand Prix
+VER,28.0,84.719,1.0,MEDIUM,28.0,1,True,Red Bull Racing,True,1.0,31.554,28.728,24.437,,False,False,5885.172,23,Qatar Grand Prix
+VER,29.0,84.861,1.0,MEDIUM,29.0,1,True,Red Bull Racing,True,1.0,31.506,28.938,24.417,,False,False,5970.033,23,Qatar Grand Prix
+VER,30.0,85.127,1.0,MEDIUM,30.0,12,True,Red Bull Racing,True,1.0,32.006,28.661,24.46,,False,False,6055.16,23,Qatar Grand Prix
+VER,31.0,84.413,1.0,MEDIUM,31.0,1,True,Red Bull Racing,True,1.0,31.331,28.66,24.422,,False,False,6139.573,23,Qatar Grand Prix
+VER,32.0,84.427,1.0,MEDIUM,32.0,1,True,Red Bull Racing,True,1.0,31.35,28.605,24.472,,False,False,6224.0,23,Qatar Grand Prix
+VER,33.0,84.35,1.0,MEDIUM,33.0,1,True,Red Bull Racing,True,1.0,31.382,28.648,24.32,,False,False,6308.35,23,Qatar Grand Prix
+VER,34.0,84.468,1.0,MEDIUM,34.0,1,True,Red Bull Racing,True,1.0,31.402,28.639,24.427,,False,False,6392.818,23,Qatar Grand Prix
+VER,35.0,92.307,1.0,MEDIUM,35.0,14,False,Red Bull Racing,True,1.0,31.358,28.651,32.298,,True,False,6485.125,23,Qatar Grand Prix
+VER,36.0,169.155,2.0,HARD,1.0,4,False,Red Bull Racing,True,1.0,63.617,52.4,53.138,,True,True,6654.28,23,Qatar Grand Prix
+VER,37.0,168.652,3.0,HARD,2.0,4,False,Red Bull Racing,False,1.0,73.984,45.776,48.892,,True,True,6822.932,23,Qatar Grand Prix
+VER,38.0,151.089,4.0,HARD,3.0,4,False,Red Bull Racing,False,1.0,64.647,45.118,41.324,,False,True,6974.021,23,Qatar Grand Prix
+VER,39.0,146.153,4.0,HARD,4.0,41,False,Red Bull Racing,False,1.0,52.041,42.307,51.805,,False,False,7120.174,23,Qatar Grand Prix
+VER,40.0,99.436,4.0,HARD,5.0,1264,False,Red Bull Racing,False,1.0,32.495,28.608,38.333,,False,False,7219.61,23,Qatar Grand Prix
+VER,41.0,136.076,4.0,HARD,6.0,4,False,Red Bull Racing,False,1.0,45.761,45.063,45.252,,False,False,7355.686,23,Qatar Grand Prix
+VER,42.0,149.083,4.0,HARD,7.0,41,False,Red Bull Racing,False,1.0,49.03,43.045,57.008,,False,False,7504.769,23,Qatar Grand Prix
+VER,43.0,84.509,4.0,HARD,8.0,1,True,Red Bull Racing,False,1.0,31.8,28.273,24.436,,False,False,7589.278,23,Qatar Grand Prix
+VER,44.0,83.533,4.0,HARD,9.0,1,True,Red Bull Racing,False,1.0,31.171,28.141,24.221,,False,False,7672.811,23,Qatar Grand Prix
+VER,45.0,83.393,4.0,HARD,10.0,1,True,Red Bull Racing,False,1.0,31.026,28.21,24.157,,False,False,7756.204,23,Qatar Grand Prix
+VER,46.0,83.37,4.0,HARD,11.0,1,True,Red Bull Racing,False,1.0,31.045,28.104,24.221,,False,False,7839.574,23,Qatar Grand Prix
+VER,47.0,83.303,4.0,HARD,12.0,1,True,Red Bull Racing,False,1.0,31.11,28.072,24.121,,False,False,7922.877,23,Qatar Grand Prix
+VER,48.0,83.423,4.0,HARD,13.0,1,True,Red Bull Racing,False,1.0,31.055,28.226,24.142,,False,False,8006.3,23,Qatar Grand Prix
+VER,49.0,83.468,4.0,HARD,14.0,1,True,Red Bull Racing,False,1.0,31.01,28.159,24.299,,False,False,8089.768,23,Qatar Grand Prix
+VER,50.0,83.321,4.0,HARD,15.0,1,True,Red Bull Racing,False,1.0,31.006,28.109,24.206,,False,False,8173.089,23,Qatar Grand Prix
+VER,51.0,83.043,4.0,HARD,16.0,1,True,Red Bull Racing,False,1.0,30.912,28.078,24.053,,False,False,8256.132,23,Qatar Grand Prix
+VER,52.0,83.162,4.0,HARD,17.0,1,True,Red Bull Racing,False,1.0,30.936,28.109,24.117,,False,False,8339.294,23,Qatar Grand Prix
+VER,53.0,83.132,4.0,HARD,18.0,1,True,Red Bull Racing,False,1.0,30.833,28.166,24.133,,False,False,8422.426,23,Qatar Grand Prix
+VER,54.0,83.006,4.0,HARD,19.0,1,True,Red Bull Racing,False,1.0,30.855,28.119,24.032,,False,False,8505.432,23,Qatar Grand Prix
+VER,55.0,82.905,4.0,HARD,20.0,1,True,Red Bull Racing,False,1.0,30.904,28.005,23.996,,False,False,8588.337,23,Qatar Grand Prix
+VER,56.0,83.369,4.0,HARD,21.0,1,True,Red Bull Racing,False,1.0,30.895,28.11,24.364,,False,False,8671.706,23,Qatar Grand Prix
+VER,57.0,83.776,4.0,HARD,22.0,1,True,Red Bull Racing,False,1.0,30.933,28.157,24.686,,False,False,8755.482,23,Qatar Grand Prix
+GAS,1.0,130.912,1.0,MEDIUM,1.0,124,False,Alpine,True,12.0,,49.614,42.077,,False,False,3421.071,23,Qatar Grand Prix
+GAS,2.0,143.807,1.0,MEDIUM,2.0,4,False,Alpine,True,12.0,51.905,45.644,46.258,,False,False,3564.878,23,Qatar Grand Prix
+GAS,3.0,139.509,1.0,MEDIUM,3.0,4,False,Alpine,True,12.0,47.334,42.604,49.571,,False,False,3704.387,23,Qatar Grand Prix
+GAS,4.0,133.088,1.0,MEDIUM,4.0,41,False,Alpine,True,12.0,40.906,40.187,51.995,,False,False,3837.475,23,Qatar Grand Prix
+GAS,5.0,91.425,1.0,MEDIUM,5.0,12,True,Alpine,True,12.0,34.282,30.33,26.813,,False,False,3928.9,23,Qatar Grand Prix
+GAS,6.0,88.418,1.0,MEDIUM,6.0,1,True,Alpine,True,11.0,32.726,29.765,25.927,,False,False,4017.318,23,Qatar Grand Prix
+GAS,7.0,87.738,1.0,MEDIUM,7.0,1,True,Alpine,True,11.0,32.521,29.453,25.764,,False,False,4105.056,23,Qatar Grand Prix
+GAS,8.0,87.881,1.0,MEDIUM,8.0,1,True,Alpine,True,11.0,32.603,29.575,25.703,,False,False,4192.937,23,Qatar Grand Prix
+GAS,9.0,87.58,1.0,MEDIUM,9.0,1,True,Alpine,True,11.0,32.447,29.563,25.57,,False,False,4280.517,23,Qatar Grand Prix
+GAS,10.0,88.272,1.0,MEDIUM,10.0,1,True,Alpine,True,11.0,32.868,29.806,25.598,,False,False,4368.789,23,Qatar Grand Prix
+GAS,11.0,88.181,1.0,MEDIUM,11.0,1,True,Alpine,True,11.0,32.973,29.776,25.432,,False,False,4456.97,23,Qatar Grand Prix
+GAS,12.0,87.827,1.0,MEDIUM,12.0,1,True,Alpine,True,11.0,32.795,29.655,25.377,,False,False,4544.797,23,Qatar Grand Prix
+GAS,13.0,86.986,1.0,MEDIUM,13.0,1,True,Alpine,True,10.0,32.127,29.376,25.483,,False,False,4631.783,23,Qatar Grand Prix
+GAS,14.0,87.011,1.0,MEDIUM,14.0,1,True,Alpine,True,10.0,32.414,29.277,25.32,,False,False,4718.794,23,Qatar Grand Prix
+GAS,15.0,86.737,1.0,MEDIUM,15.0,1,True,Alpine,True,10.0,32.245,29.261,25.231,,False,False,4805.531,23,Qatar Grand Prix
+GAS,16.0,86.7,1.0,MEDIUM,16.0,1,True,Alpine,True,10.0,32.303,29.209,25.188,,False,False,4892.231,23,Qatar Grand Prix
+GAS,17.0,86.514,1.0,MEDIUM,17.0,1,True,Alpine,True,10.0,32.078,29.277,25.159,,False,False,4978.745,23,Qatar Grand Prix
+GAS,18.0,86.694,1.0,MEDIUM,18.0,1,True,Alpine,True,10.0,32.118,29.355,25.221,,False,False,5065.439,23,Qatar Grand Prix
+GAS,19.0,86.696,1.0,MEDIUM,19.0,1,True,Alpine,True,10.0,32.166,29.394,25.136,,False,False,5152.135,23,Qatar Grand Prix
+GAS,20.0,86.369,1.0,MEDIUM,20.0,1,True,Alpine,True,10.0,32.071,29.356,24.942,,False,False,5238.504,23,Qatar Grand Prix
+GAS,21.0,86.946,1.0,MEDIUM,21.0,1,True,Alpine,True,10.0,32.197,29.566,25.183,,False,False,5325.45,23,Qatar Grand Prix
+GAS,22.0,86.453,1.0,MEDIUM,22.0,1,True,Alpine,True,10.0,32.1,29.201,25.152,,False,False,5411.903,23,Qatar Grand Prix
+GAS,23.0,86.298,1.0,MEDIUM,23.0,1,True,Alpine,True,10.0,32.082,29.142,25.074,,False,False,5498.201,23,Qatar Grand Prix
+GAS,24.0,86.235,1.0,MEDIUM,24.0,1,True,Alpine,True,9.0,32.077,29.163,24.995,,False,False,5584.436,23,Qatar Grand Prix
+GAS,25.0,86.174,1.0,MEDIUM,25.0,1,True,Alpine,True,9.0,32.08,29.131,24.963,,False,False,5670.61,23,Qatar Grand Prix
+GAS,26.0,86.12,1.0,MEDIUM,26.0,1,True,Alpine,True,9.0,31.97,29.155,24.995,,False,False,5756.73,23,Qatar Grand Prix
+GAS,27.0,85.969,1.0,MEDIUM,27.0,1,True,Alpine,True,8.0,32.094,29.035,24.84,,False,False,5842.699,23,Qatar Grand Prix
+GAS,28.0,85.533,1.0,MEDIUM,28.0,1,True,Alpine,True,8.0,31.861,28.868,24.804,,False,False,5928.232,23,Qatar Grand Prix
+GAS,29.0,85.588,1.0,MEDIUM,29.0,12,True,Alpine,True,8.0,31.852,28.873,24.863,,False,False,6013.82,23,Qatar Grand Prix
+GAS,30.0,85.344,1.0,MEDIUM,30.0,1,True,Alpine,True,8.0,31.754,28.826,24.764,,False,False,6099.164,23,Qatar Grand Prix
+GAS,31.0,85.335,1.0,MEDIUM,31.0,1,True,Alpine,True,8.0,31.701,28.914,24.72,,False,False,6184.499,23,Qatar Grand Prix
+GAS,32.0,85.331,1.0,MEDIUM,32.0,1,True,Alpine,True,8.0,31.803,28.863,24.665,,False,False,6269.83,23,Qatar Grand Prix
+GAS,33.0,85.122,1.0,MEDIUM,33.0,1,True,Alpine,True,8.0,31.594,28.821,24.707,,False,False,6354.952,23,Qatar Grand Prix
+GAS,34.0,85.622,1.0,MEDIUM,34.0,1,True,Alpine,True,7.0,31.639,29.087,24.896,,False,False,6440.574,23,Qatar Grand Prix
+GAS,35.0,111.497,1.0,MEDIUM,35.0,14,False,Alpine,True,6.0,32.286,41.08,38.131,,True,False,6552.071,23,Qatar Grand Prix
+GAS,36.0,142.16,2.0,HARD,1.0,4,False,Alpine,True,6.0,63.197,42.11,36.853,,True,True,6694.231,23,Qatar Grand Prix
+GAS,37.0,141.304,3.0,HARD,2.0,4,False,Alpine,False,6.0,51.311,35.985,54.008,,True,True,6835.535,23,Qatar Grand Prix
+GAS,38.0,146.588,4.0,HARD,3.0,4,False,Alpine,False,6.0,60.138,41.959,44.491,,False,True,6982.123,23,Qatar Grand Prix
+GAS,39.0,139.279,4.0,HARD,4.0,41,False,Alpine,False,5.0,50.038,42.243,46.998,,False,False,7121.402,23,Qatar Grand Prix
+GAS,40.0,108.476,4.0,HARD,5.0,1264,False,Alpine,False,6.0,34.603,30.985,42.888,,False,False,7229.878,23,Qatar Grand Prix
+GAS,41.0,133.101,4.0,HARD,6.0,4,False,Alpine,False,6.0,40.939,45.715,46.447,,False,False,7362.979,23,Qatar Grand Prix
+GAS,42.0,143.945,4.0,HARD,7.0,41,False,Alpine,False,6.0,47.288,45.397,51.26,,False,False,7506.924,23,Qatar Grand Prix
+GAS,43.0,87.285,4.0,HARD,8.0,1,True,Alpine,False,6.0,33.232,29.232,24.821,,False,False,7594.209,23,Qatar Grand Prix
+GAS,44.0,85.421,4.0,HARD,9.0,1,True,Alpine,False,6.0,31.881,28.794,24.746,,False,False,7679.63,23,Qatar Grand Prix
+GAS,45.0,84.508,4.0,HARD,10.0,1,True,Alpine,False,6.0,31.549,28.423,24.536,,False,False,7764.138,23,Qatar Grand Prix
+GAS,46.0,84.238,4.0,HARD,11.0,1,True,Alpine,False,5.0,31.374,28.478,24.386,,False,False,7848.376,23,Qatar Grand Prix
+GAS,47.0,84.097,4.0,HARD,12.0,1,True,Alpine,False,5.0,31.286,28.462,24.349,,False,False,7932.473,23,Qatar Grand Prix
+GAS,48.0,84.156,4.0,HARD,13.0,1,True,Alpine,False,5.0,31.348,28.435,24.373,,False,False,8016.629,23,Qatar Grand Prix
+GAS,49.0,83.942,4.0,HARD,14.0,1,True,Alpine,False,5.0,31.302,28.324,24.316,,False,False,8100.571,23,Qatar Grand Prix
+GAS,50.0,83.866,4.0,HARD,15.0,1,True,Alpine,False,5.0,31.215,28.33,24.321,,False,False,8184.437,23,Qatar Grand Prix
+GAS,51.0,83.904,4.0,HARD,16.0,1,True,Alpine,False,5.0,31.271,28.337,24.296,,False,False,8268.341,23,Qatar Grand Prix
+GAS,52.0,84.057,4.0,HARD,17.0,1,True,Alpine,False,5.0,31.266,28.44,24.351,,False,False,8352.398,23,Qatar Grand Prix
+GAS,53.0,83.984,4.0,HARD,18.0,1,True,Alpine,False,5.0,31.152,28.304,24.528,,False,False,8436.382,23,Qatar Grand Prix
+GAS,54.0,84.082,4.0,HARD,19.0,1,True,Alpine,False,5.0,31.374,28.278,24.43,,False,False,8520.464,23,Qatar Grand Prix
+GAS,55.0,84.158,4.0,HARD,20.0,1,True,Alpine,False,5.0,31.584,28.3,24.274,,False,False,8604.622,23,Qatar Grand Prix
+GAS,56.0,83.705,4.0,HARD,21.0,1,True,Alpine,False,5.0,31.221,28.182,24.302,,False,False,8688.327,23,Qatar Grand Prix
+GAS,57.0,83.937,4.0,HARD,22.0,1,True,Alpine,False,5.0,31.305,28.295,24.337,,False,False,8772.264,23,Qatar Grand Prix
+PER,1.0,120.204,1.0,MEDIUM,1.0,124,False,Red Bull Racing,True,7.0,,42.56,40.288,,False,False,3410.363,23,Qatar Grand Prix
+PER,2.0,143.708,1.0,MEDIUM,2.0,4,False,Red Bull Racing,True,7.0,53.741,45.239,44.728,,False,False,3554.071,23,Qatar Grand Prix
+PER,3.0,138.267,1.0,MEDIUM,3.0,4,False,Red Bull Racing,True,7.0,49.406,42.649,46.212,,False,False,3692.338,23,Qatar Grand Prix
+PER,4.0,143.573,1.0,MEDIUM,4.0,41,False,Red Bull Racing,True,7.0,45.073,41.641,56.859,,False,False,3835.911,23,Qatar Grand Prix
+PER,5.0,89.55,1.0,MEDIUM,5.0,12,True,Red Bull Racing,True,7.0,33.672,29.885,25.993,,False,False,3925.461,23,Qatar Grand Prix
+PER,6.0,87.827,1.0,MEDIUM,6.0,1,True,Red Bull Racing,True,7.0,32.778,29.661,25.388,,False,False,4013.288,23,Qatar Grand Prix
+PER,7.0,87.28,1.0,MEDIUM,7.0,1,True,Red Bull Racing,True,7.0,32.316,29.518,25.446,,False,False,4100.568,23,Qatar Grand Prix
+PER,8.0,87.403,1.0,MEDIUM,8.0,1,True,Red Bull Racing,True,7.0,32.519,29.637,25.247,,False,False,4187.971,23,Qatar Grand Prix
+PER,9.0,87.124,1.0,MEDIUM,9.0,1,True,Red Bull Racing,True,7.0,32.461,29.477,25.186,,False,False,4275.095,23,Qatar Grand Prix
+PER,10.0,86.884,1.0,MEDIUM,10.0,1,True,Red Bull Racing,True,7.0,32.34,29.425,25.119,,False,False,4361.979,23,Qatar Grand Prix
+PER,11.0,86.788,1.0,MEDIUM,11.0,1,True,Red Bull Racing,True,7.0,32.379,29.36,25.049,,False,False,4448.767,23,Qatar Grand Prix
+PER,12.0,86.729,1.0,MEDIUM,12.0,1,True,Red Bull Racing,True,7.0,32.426,29.329,24.974,,False,False,4535.496,23,Qatar Grand Prix
+PER,13.0,86.631,1.0,MEDIUM,13.0,1,True,Red Bull Racing,True,7.0,32.274,29.379,24.978,,False,False,4622.127,23,Qatar Grand Prix
+PER,14.0,86.483,1.0,MEDIUM,14.0,1,True,Red Bull Racing,True,7.0,32.263,29.275,24.945,,False,False,4708.61,23,Qatar Grand Prix
+PER,15.0,86.409,1.0,MEDIUM,15.0,1,True,Red Bull Racing,True,7.0,32.284,29.198,24.927,,False,False,4795.019,23,Qatar Grand Prix
+PER,16.0,86.359,1.0,MEDIUM,16.0,1,True,Red Bull Racing,True,7.0,32.28,29.198,24.881,,False,False,4881.378,23,Qatar Grand Prix
+PER,17.0,85.929,1.0,MEDIUM,17.0,1,True,Red Bull Racing,True,7.0,32.118,29.093,24.718,,False,False,4967.307,23,Qatar Grand Prix
+PER,18.0,86.455,1.0,MEDIUM,18.0,1,True,Red Bull Racing,True,7.0,32.267,29.236,24.952,,False,False,5053.762,23,Qatar Grand Prix
+PER,19.0,86.152,1.0,MEDIUM,19.0,1,True,Red Bull Racing,True,7.0,32.072,29.239,24.841,,False,False,5139.914,23,Qatar Grand Prix
+PER,20.0,86.049,1.0,MEDIUM,20.0,1,True,Red Bull Racing,True,7.0,32.125,29.157,24.767,,False,False,5225.963,23,Qatar Grand Prix
+PER,21.0,85.714,1.0,MEDIUM,21.0,1,True,Red Bull Racing,True,7.0,31.925,29.076,24.713,,False,False,5311.677,23,Qatar Grand Prix
+PER,22.0,85.973,1.0,MEDIUM,22.0,1,True,Red Bull Racing,True,7.0,32.082,29.119,24.772,,False,False,5397.65,23,Qatar Grand Prix
+PER,23.0,85.85,1.0,MEDIUM,23.0,1,True,Red Bull Racing,True,7.0,32.046,29.072,24.732,,False,False,5483.5,23,Qatar Grand Prix
+PER,24.0,85.642,1.0,MEDIUM,24.0,1,True,Red Bull Racing,True,6.0,31.963,28.998,24.681,,False,False,5569.142,23,Qatar Grand Prix
+PER,25.0,85.498,1.0,MEDIUM,25.0,1,True,Red Bull Racing,True,6.0,31.827,29.031,24.64,,False,False,5654.64,23,Qatar Grand Prix
+PER,26.0,85.458,1.0,MEDIUM,26.0,1,True,Red Bull Racing,True,6.0,31.881,28.926,24.651,,False,False,5740.098,23,Qatar Grand Prix
+PER,27.0,85.576,1.0,MEDIUM,27.0,1,True,Red Bull Racing,True,6.0,31.926,28.939,24.711,,False,False,5825.674,23,Qatar Grand Prix
+PER,28.0,85.555,1.0,MEDIUM,28.0,1,True,Red Bull Racing,True,6.0,31.939,28.956,24.66,,False,False,5911.229,23,Qatar Grand Prix
+PER,29.0,85.507,1.0,MEDIUM,29.0,12,True,Red Bull Racing,True,6.0,31.858,28.976,24.673,,False,False,5996.736,23,Qatar Grand Prix
+PER,30.0,85.409,1.0,MEDIUM,30.0,1,True,Red Bull Racing,True,6.0,31.814,28.902,24.693,,False,False,6082.145,23,Qatar Grand Prix
+PER,31.0,85.288,1.0,MEDIUM,31.0,1,True,Red Bull Racing,True,6.0,31.815,28.867,24.606,,False,False,6167.433,23,Qatar Grand Prix
+PER,32.0,85.39,1.0,MEDIUM,32.0,1,True,Red Bull Racing,True,6.0,31.747,29.023,24.62,,False,False,6252.823,23,Qatar Grand Prix
+PER,33.0,85.382,1.0,MEDIUM,33.0,1,True,Red Bull Racing,True,6.0,31.709,29.059,24.614,,False,False,6338.205,23,Qatar Grand Prix
+PER,34.0,86.5,1.0,MEDIUM,34.0,1,True,Red Bull Racing,True,5.0,31.797,28.987,25.716,,False,False,6424.705,23,Qatar Grand Prix
+PER,35.0,106.636,1.0,MEDIUM,35.0,14,False,Red Bull Racing,True,4.0,31.92,36.891,37.825,,True,False,6531.341,23,Qatar Grand Prix
+PER,36.0,143.642,2.0,HARD,1.0,4,False,Red Bull Racing,True,5.0,62.67,47.711,33.261,,True,True,6674.983,23,Qatar Grand Prix
+PER,37.0,158.29,3.0,HARD,2.0,4,False,Red Bull Racing,False,5.0,60.593,44.367,53.33,,True,True,6833.273,23,Qatar Grand Prix
+PER,38.0,147.063,4.0,HARD,3.0,4,False,Red Bull Racing,False,5.0,61.55,41.635,43.878,,False,True,6980.336,23,Qatar Grand Prix
+PER,39.0,,4.0,HARD,4.0,41,False,Red Bull Racing,False,,,,,,False,False,7130.336,23,Qatar Grand Prix
+ALO,1.0,123.172,1.0,MEDIUM,1.0,124,False,Aston Martin,False,8.0,,43.423,41.864,,False,False,3413.331,23,Qatar Grand Prix
+ALO,2.0,142.483,1.0,MEDIUM,2.0,4,False,Aston Martin,False,8.0,52.172,45.263,45.048,,False,False,3555.814,23,Qatar Grand Prix
+ALO,3.0,138.215,1.0,MEDIUM,3.0,4,False,Aston Martin,False,8.0,49.19,42.378,46.647,,False,False,3694.029,23,Qatar Grand Prix
+ALO,4.0,142.341,1.0,MEDIUM,4.0,41,False,Aston Martin,False,8.0,44.85,41.302,56.189,,False,False,3836.37,23,Qatar Grand Prix
+ALO,5.0,92.386,1.0,MEDIUM,5.0,12,True,Aston Martin,False,11.0,34.531,30.144,27.711,,False,False,3928.756,23,Qatar Grand Prix
+ALO,6.0,89.044,1.0,MEDIUM,6.0,1,True,Aston Martin,False,12.0,33.264,29.934,25.846,,False,False,4017.8,23,Qatar Grand Prix
+ALO,7.0,88.057,1.0,MEDIUM,7.0,1,True,Aston Martin,False,12.0,32.52,29.757,25.78,,False,False,4105.857,23,Qatar Grand Prix
+ALO,8.0,88.028,1.0,MEDIUM,8.0,1,True,Aston Martin,False,12.0,32.494,29.736,25.798,,False,False,4193.885,23,Qatar Grand Prix
+ALO,9.0,87.644,1.0,MEDIUM,9.0,1,True,Aston Martin,False,12.0,32.349,29.734,25.561,,False,False,4281.529,23,Qatar Grand Prix
+ALO,10.0,88.156,1.0,MEDIUM,10.0,1,True,Aston Martin,False,12.0,32.492,29.85,25.814,,False,False,4369.685,23,Qatar Grand Prix
+ALO,11.0,88.253,1.0,MEDIUM,11.0,1,True,Aston Martin,False,12.0,32.643,29.833,25.777,,False,False,4457.938,23,Qatar Grand Prix
+ALO,12.0,87.906,1.0,MEDIUM,12.0,1,True,Aston Martin,False,12.0,32.489,29.743,25.674,,False,False,4545.844,23,Qatar Grand Prix
+ALO,13.0,87.721,1.0,MEDIUM,13.0,1,True,Aston Martin,False,12.0,32.408,29.686,25.627,,False,False,4633.565,23,Qatar Grand Prix
+ALO,14.0,86.802,1.0,MEDIUM,14.0,1,True,Aston Martin,False,11.0,32.17,29.338,25.294,,False,False,4720.367,23,Qatar Grand Prix
+ALO,15.0,86.7,1.0,MEDIUM,15.0,1,True,Aston Martin,False,11.0,32.234,29.352,25.114,,False,False,4807.067,23,Qatar Grand Prix
+ALO,16.0,86.867,1.0,MEDIUM,16.0,1,True,Aston Martin,False,11.0,32.178,29.487,25.202,,False,False,4893.934,23,Qatar Grand Prix
+ALO,17.0,86.687,1.0,MEDIUM,17.0,1,True,Aston Martin,False,11.0,32.103,29.401,25.183,,False,False,4980.621,23,Qatar Grand Prix
+ALO,18.0,86.744,1.0,MEDIUM,18.0,1,True,Aston Martin,False,11.0,32.218,29.429,25.097,,False,False,5067.365,23,Qatar Grand Prix
+ALO,19.0,86.629,1.0,MEDIUM,19.0,1,True,Aston Martin,False,11.0,32.251,29.308,25.07,,False,False,5153.994,23,Qatar Grand Prix
+ALO,20.0,86.855,1.0,MEDIUM,20.0,1,True,Aston Martin,False,11.0,32.611,29.25,24.994,,False,False,5240.849,23,Qatar Grand Prix
+ALO,21.0,86.37,1.0,MEDIUM,21.0,1,True,Aston Martin,False,11.0,32.063,29.23,25.077,,False,False,5327.219,23,Qatar Grand Prix
+ALO,22.0,86.481,1.0,MEDIUM,22.0,1,True,Aston Martin,False,11.0,32.196,29.254,25.031,,False,False,5413.7,23,Qatar Grand Prix
+ALO,23.0,86.268,1.0,MEDIUM,23.0,1,True,Aston Martin,False,11.0,32.213,29.155,24.9,,False,False,5499.968,23,Qatar Grand Prix
+ALO,24.0,86.377,1.0,MEDIUM,24.0,1,True,Aston Martin,False,10.0,32.132,29.206,25.039,,False,False,5586.345,23,Qatar Grand Prix
+ALO,25.0,86.245,1.0,MEDIUM,25.0,1,True,Aston Martin,False,10.0,32.13,29.167,24.948,,False,False,5672.59,23,Qatar Grand Prix
+ALO,26.0,86.3,1.0,MEDIUM,26.0,1,True,Aston Martin,False,10.0,32.128,29.197,24.975,,False,False,5758.89,23,Qatar Grand Prix
+ALO,27.0,86.085,1.0,MEDIUM,27.0,1,True,Aston Martin,False,9.0,32.079,29.18,24.826,,False,False,5844.975,23,Qatar Grand Prix
+ALO,28.0,85.941,1.0,MEDIUM,28.0,1,True,Aston Martin,False,9.0,32.074,29.034,24.833,,False,False,5930.916,23,Qatar Grand Prix
+ALO,29.0,85.957,1.0,MEDIUM,29.0,12,True,Aston Martin,False,9.0,31.975,29.152,24.83,,False,False,6016.873,23,Qatar Grand Prix
+ALO,30.0,85.893,1.0,MEDIUM,30.0,1,True,Aston Martin,False,9.0,32.096,28.985,24.812,,False,False,6102.766,23,Qatar Grand Prix
+ALO,31.0,85.724,1.0,MEDIUM,31.0,1,True,Aston Martin,False,9.0,31.995,28.952,24.777,,False,False,6188.49,23,Qatar Grand Prix
+ALO,32.0,85.649,1.0,MEDIUM,32.0,1,True,Aston Martin,False,9.0,31.82,29.015,24.814,,False,False,6274.139,23,Qatar Grand Prix
+ALO,33.0,85.797,1.0,MEDIUM,33.0,1,True,Aston Martin,False,9.0,31.928,29.116,24.753,,False,False,6359.936,23,Qatar Grand Prix
+ALO,34.0,87.518,1.0,MEDIUM,34.0,1,True,Aston Martin,False,9.0,32.51,29.798,25.21,,False,False,6447.454,23,Qatar Grand Prix
+ALO,35.0,115.097,1.0,MEDIUM,35.0,14,False,Aston Martin,False,8.0,36.154,40.874,38.069,,True,False,6562.551,23,Qatar Grand Prix
+ALO,36.0,146.362,2.0,HARD,1.0,4,False,Aston Martin,False,9.0,65.532,39.666,41.164,,True,True,6708.913,23,Qatar Grand Prix
+ALO,37.0,135.542,3.0,MEDIUM,7.0,4,False,Aston Martin,False,10.0,59.33,33.258,42.954,,True,True,6844.455,23,Qatar Grand Prix
+ALO,38.0,144.47,4.0,MEDIUM,8.0,4,False,Aston Martin,False,10.0,61.55,39.836,43.084,,False,True,6988.925,23,Qatar Grand Prix
+ALO,39.0,134.005,4.0,MEDIUM,9.0,41,False,Aston Martin,False,9.0,48.572,41.587,43.846,,False,False,7122.93,23,Qatar Grand Prix
+ALO,40.0,111.269,4.0,MEDIUM,10.0,1264,False,Aston Martin,False,8.0,33.278,35.263,42.728,,False,False,7234.199,23,Qatar Grand Prix
+ALO,41.0,132.579,4.0,MEDIUM,11.0,4,False,Aston Martin,False,8.0,38.484,46.744,47.351,,False,False,7366.778,23,Qatar Grand Prix
+ALO,42.0,140.832,4.0,MEDIUM,12.0,41,False,Aston Martin,False,8.0,46.528,45.192,49.112,,False,False,7507.61,23,Qatar Grand Prix
+ALO,43.0,87.771,4.0,MEDIUM,13.0,1,True,Aston Martin,False,8.0,33.227,29.424,25.12,,False,False,7595.381,23,Qatar Grand Prix
+ALO,44.0,85.477,4.0,MEDIUM,14.0,1,True,Aston Martin,False,8.0,31.96,28.773,24.744,,False,False,7680.858,23,Qatar Grand Prix
+ALO,45.0,85.0,4.0,MEDIUM,15.0,1,True,Aston Martin,False,8.0,31.463,28.865,24.672,,False,False,7765.858,23,Qatar Grand Prix
+ALO,46.0,84.44,4.0,MEDIUM,16.0,1,True,Aston Martin,False,7.0,31.225,28.649,24.566,,False,False,7850.298,23,Qatar Grand Prix
+ALO,47.0,84.383,4.0,MEDIUM,17.0,1,True,Aston Martin,False,7.0,31.441,28.458,24.484,,False,False,7934.681,23,Qatar Grand Prix
+ALO,48.0,84.472,4.0,MEDIUM,18.0,1,True,Aston Martin,False,7.0,31.319,28.604,24.549,,False,False,8019.153,23,Qatar Grand Prix
+ALO,49.0,84.395,4.0,MEDIUM,19.0,1,True,Aston Martin,False,7.0,31.396,28.467,24.532,,False,False,8103.548,23,Qatar Grand Prix
+ALO,50.0,84.057,4.0,MEDIUM,20.0,1,True,Aston Martin,False,7.0,31.296,28.362,24.399,,False,False,8187.605,23,Qatar Grand Prix
+ALO,51.0,84.054,4.0,MEDIUM,21.0,1,True,Aston Martin,False,7.0,31.284,28.467,24.303,,False,False,8271.659,23,Qatar Grand Prix
+ALO,52.0,84.196,4.0,MEDIUM,22.0,1,True,Aston Martin,False,7.0,31.379,28.462,24.355,,False,False,8355.855,23,Qatar Grand Prix
+ALO,53.0,83.993,4.0,MEDIUM,23.0,1,True,Aston Martin,False,7.0,31.189,28.411,24.393,,False,False,8439.848,23,Qatar Grand Prix
+ALO,54.0,83.871,4.0,MEDIUM,24.0,1,True,Aston Martin,False,7.0,31.183,28.371,24.317,,False,False,8523.719,23,Qatar Grand Prix
+ALO,55.0,84.078,4.0,MEDIUM,25.0,1,True,Aston Martin,False,7.0,31.336,28.454,24.288,,False,False,8607.797,23,Qatar Grand Prix
+ALO,56.0,83.885,4.0,MEDIUM,26.0,1,True,Aston Martin,False,7.0,31.186,28.377,24.322,,False,False,8691.682,23,Qatar Grand Prix
+ALO,57.0,83.667,4.0,MEDIUM,27.0,1,True,Aston Martin,False,7.0,31.08,28.468,24.119,,False,False,8775.349,23,Qatar Grand Prix
+LEC,1.0,117.439,1.0,MEDIUM,2.0,124,False,Ferrari,False,4.0,,38.757,42.509,,False,False,3407.598,23,Qatar Grand Prix
+LEC,2.0,142.075,1.0,MEDIUM,3.0,4,False,Ferrari,False,4.0,54.07,43.798,44.207,,False,False,3549.673,23,Qatar Grand Prix
+LEC,3.0,137.488,1.0,MEDIUM,4.0,4,False,Ferrari,False,4.0,50.121,41.569,45.798,,False,False,3687.161,23,Qatar Grand Prix
+LEC,4.0,147.558,1.0,MEDIUM,5.0,41,False,Ferrari,False,4.0,45.627,42.117,59.814,,False,False,3834.719,23,Qatar Grand Prix
+LEC,5.0,89.202,1.0,MEDIUM,6.0,12,True,Ferrari,False,5.0,33.653,29.814,25.735,,False,False,3923.921,23,Qatar Grand Prix
+LEC,6.0,87.556,1.0,MEDIUM,7.0,1,True,Ferrari,False,5.0,32.56,29.402,25.594,,False,False,4011.477,23,Qatar Grand Prix
+LEC,7.0,86.887,1.0,MEDIUM,8.0,1,True,Ferrari,False,5.0,32.159,29.388,25.34,,False,False,4098.364,23,Qatar Grand Prix
+LEC,8.0,87.19,1.0,MEDIUM,9.0,1,True,Ferrari,False,5.0,32.33,29.473,25.387,,False,False,4185.554,23,Qatar Grand Prix
+LEC,9.0,86.914,1.0,MEDIUM,10.0,1,True,Ferrari,False,5.0,32.197,29.377,25.34,,False,False,4272.468,23,Qatar Grand Prix
+LEC,10.0,86.435,1.0,MEDIUM,11.0,1,True,Ferrari,False,5.0,32.068,29.169,25.198,,False,False,4358.903,23,Qatar Grand Prix
+LEC,11.0,86.381,1.0,MEDIUM,12.0,1,True,Ferrari,False,5.0,31.915,29.269,25.197,,False,False,4445.284,23,Qatar Grand Prix
+LEC,12.0,86.027,1.0,MEDIUM,13.0,1,True,Ferrari,False,5.0,31.875,29.219,24.933,,False,False,4531.311,23,Qatar Grand Prix
+LEC,13.0,86.272,1.0,MEDIUM,14.0,1,True,Ferrari,False,5.0,32.054,29.187,25.031,,False,False,4617.583,23,Qatar Grand Prix
+LEC,14.0,85.66,1.0,MEDIUM,15.0,1,True,Ferrari,False,5.0,31.876,29.037,24.747,,False,False,4703.243,23,Qatar Grand Prix
+LEC,15.0,85.805,1.0,MEDIUM,16.0,1,True,Ferrari,False,5.0,31.883,29.046,24.876,,False,False,4789.048,23,Qatar Grand Prix
+LEC,16.0,85.93,1.0,MEDIUM,17.0,1,True,Ferrari,False,5.0,31.922,29.198,24.81,,False,False,4874.978,23,Qatar Grand Prix
+LEC,17.0,85.835,1.0,MEDIUM,18.0,1,True,Ferrari,False,5.0,31.863,29.125,24.847,,False,False,4960.813,23,Qatar Grand Prix
+LEC,18.0,85.496,1.0,MEDIUM,19.0,1,True,Ferrari,False,5.0,31.752,29.048,24.696,,False,False,5046.309,23,Qatar Grand Prix
+LEC,19.0,85.647,1.0,MEDIUM,20.0,1,True,Ferrari,False,5.0,31.887,29.087,24.673,,False,False,5131.956,23,Qatar Grand Prix
+LEC,20.0,85.467,1.0,MEDIUM,21.0,1,True,Ferrari,False,5.0,31.821,28.965,24.681,,False,False,5217.423,23,Qatar Grand Prix
+LEC,21.0,85.323,1.0,MEDIUM,22.0,1,True,Ferrari,False,5.0,31.748,28.898,24.677,,False,False,5302.746,23,Qatar Grand Prix
+LEC,22.0,85.036,1.0,MEDIUM,23.0,1,True,Ferrari,False,5.0,31.662,28.897,24.477,,False,False,5387.782,23,Qatar Grand Prix
+LEC,23.0,85.189,1.0,MEDIUM,24.0,1,True,Ferrari,False,4.0,31.662,29.006,24.521,,False,False,5472.971,23,Qatar Grand Prix
+LEC,24.0,85.133,1.0,MEDIUM,25.0,1,True,Ferrari,False,4.0,31.655,28.877,24.601,,False,False,5558.104,23,Qatar Grand Prix
+LEC,25.0,84.801,1.0,MEDIUM,26.0,1,True,Ferrari,False,4.0,31.564,28.87,24.367,,False,False,5642.905,23,Qatar Grand Prix
+LEC,26.0,85.099,1.0,MEDIUM,27.0,1,True,Ferrari,False,4.0,31.672,28.929,24.498,,False,False,5728.004,23,Qatar Grand Prix
+LEC,27.0,84.749,1.0,MEDIUM,28.0,1,True,Ferrari,False,4.0,31.465,28.901,24.383,,False,False,5812.753,23,Qatar Grand Prix
+LEC,28.0,84.909,1.0,MEDIUM,29.0,1,True,Ferrari,False,4.0,31.573,28.791,24.545,,False,False,5897.662,23,Qatar Grand Prix
+LEC,29.0,84.653,1.0,MEDIUM,30.0,12,True,Ferrari,False,4.0,31.477,28.748,24.428,,False,False,5982.315,23,Qatar Grand Prix
+LEC,30.0,85.168,1.0,MEDIUM,31.0,12,True,Ferrari,False,4.0,31.981,28.766,24.421,,False,False,6067.483,23,Qatar Grand Prix
+LEC,31.0,84.71,1.0,MEDIUM,32.0,1,True,Ferrari,False,4.0,31.474,28.892,24.344,,False,False,6152.193,23,Qatar Grand Prix
+LEC,32.0,84.679,1.0,MEDIUM,33.0,1,True,Ferrari,False,4.0,31.562,28.768,24.349,,False,False,6236.872,23,Qatar Grand Prix
+LEC,33.0,84.9,1.0,MEDIUM,34.0,1,True,Ferrari,False,4.0,31.545,28.902,24.453,,False,False,6321.772,23,Qatar Grand Prix
+LEC,34.0,84.754,1.0,MEDIUM,35.0,1,True,Ferrari,False,3.0,31.54,28.825,24.389,,False,False,6406.526,23,Qatar Grand Prix
+LEC,35.0,98.515,1.0,MEDIUM,36.0,14,False,Ferrari,False,3.0,31.539,28.73,38.246,,True,False,6505.041,23,Qatar Grand Prix
+LEC,36.0,157.723,2.0,HARD,1.0,4,False,Ferrari,True,3.0,64.967,40.64,52.116,,True,True,6662.764,23,Qatar Grand Prix
+LEC,37.0,166.965,3.0,HARD,2.0,4,False,Ferrari,False,3.0,70.334,43.905,52.726,,True,True,6829.729,23,Qatar Grand Prix
+LEC,38.0,148.35,4.0,HARD,3.0,4,False,Ferrari,False,3.0,61.958,43.783,42.609,,False,True,6978.079,23,Qatar Grand Prix
+LEC,39.0,142.818,4.0,HARD,4.0,41,False,Ferrari,False,3.0,50.281,43.403,49.134,,False,False,7120.897,23,Qatar Grand Prix
+LEC,40.0,101.971,4.0,HARD,5.0,1264,False,Ferrari,False,3.0,33.413,29.072,39.486,,False,False,7222.868,23,Qatar Grand Prix
+LEC,41.0,135.614,4.0,HARD,6.0,4,False,Ferrari,False,3.0,44.813,44.529,46.272,,False,False,7358.482,23,Qatar Grand Prix
+LEC,42.0,147.125,4.0,HARD,7.0,41,False,Ferrari,False,3.0,48.028,44.534,54.563,,False,False,7505.607,23,Qatar Grand Prix
+LEC,43.0,85.854,4.0,HARD,8.0,1,True,Ferrari,False,3.0,32.572,28.788,24.494,,False,False,7591.461,23,Qatar Grand Prix
+LEC,44.0,84.012,4.0,HARD,9.0,1,True,Ferrari,False,3.0,31.374,28.396,24.242,,False,False,7675.473,23,Qatar Grand Prix
+LEC,45.0,83.937,4.0,HARD,10.0,1,True,Ferrari,False,2.0,31.343,28.436,24.158,,False,False,7759.41,23,Qatar Grand Prix
+LEC,46.0,83.665,4.0,HARD,11.0,1,True,Ferrari,False,2.0,31.268,28.332,24.065,,False,False,7843.075,23,Qatar Grand Prix
+LEC,47.0,83.722,4.0,HARD,12.0,1,True,Ferrari,False,2.0,31.359,28.253,24.11,,False,False,7926.797,23,Qatar Grand Prix
+LEC,48.0,83.68,4.0,HARD,13.0,1,True,Ferrari,False,2.0,31.299,28.371,24.01,,False,False,8010.477,23,Qatar Grand Prix
+LEC,49.0,83.47,4.0,HARD,14.0,1,True,Ferrari,False,2.0,31.173,28.347,23.95,,False,False,8093.947,23,Qatar Grand Prix
+LEC,50.0,83.405,4.0,HARD,15.0,1,True,Ferrari,False,2.0,31.154,28.229,24.022,,False,False,8177.352,23,Qatar Grand Prix
+LEC,51.0,83.332,4.0,HARD,16.0,1,True,Ferrari,False,2.0,31.128,28.275,23.929,,False,False,8260.684,23,Qatar Grand Prix
+LEC,52.0,83.72,4.0,HARD,17.0,1,True,Ferrari,False,2.0,31.076,28.757,23.887,,False,False,8344.404,23,Qatar Grand Prix
+LEC,53.0,83.242,4.0,HARD,18.0,1,True,Ferrari,False,2.0,31.086,28.252,23.904,,False,False,8427.646,23,Qatar Grand Prix
+LEC,54.0,83.454,4.0,HARD,19.0,1,True,Ferrari,False,2.0,31.144,28.352,23.958,,False,False,8511.1,23,Qatar Grand Prix
+LEC,55.0,83.498,4.0,HARD,20.0,1,True,Ferrari,False,2.0,31.171,28.328,23.999,,False,False,8594.598,23,Qatar Grand Prix
+LEC,56.0,83.356,4.0,HARD,21.0,1,True,Ferrari,False,2.0,31.124,28.343,23.889,,False,False,8677.954,23,Qatar Grand Prix
+LEC,57.0,83.559,4.0,HARD,22.0,1,True,Ferrari,False,2.0,31.086,28.407,24.066,,False,False,8761.513,23,Qatar Grand Prix
+STR,1.0,136.793,1.0,MEDIUM,1.0,124,False,Aston Martin,False,17.0,,51.899,41.483,,True,False,3426.952,23,Qatar Grand Prix
+STR,2.0,147.099,2.0,HARD,1.0,4,False,Aston Martin,False,17.0,64.417,34.856,47.826,,False,True,3574.051,23,Qatar Grand Prix
+STR,3.0,136.92,2.0,HARD,2.0,4,False,Aston Martin,False,17.0,44.903,42.636,49.381,,False,False,3710.971,23,Qatar Grand Prix
+STR,4.0,129.1,2.0,HARD,3.0,41,False,Aston Martin,False,17.0,40.803,39.847,48.45,,False,False,3840.071,23,Qatar Grand Prix
+STR,5.0,93.523,2.0,HARD,4.0,12,True,Aston Martin,False,17.0,36.05,30.574,26.899,,False,False,3933.594,23,Qatar Grand Prix
+STR,6.0,90.935,2.0,HARD,5.0,1,True,Aston Martin,False,17.0,34.1,30.223,26.612,,False,False,4024.529,23,Qatar Grand Prix
+STR,7.0,96.33,2.0,HARD,6.0,1,False,Aston Martin,False,18.0,34.402,30.3,31.628,,True,False,4120.859,23,Qatar Grand Prix
+STR,8.0,140.862,3.0,HARD,1.0,1,False,Aston Martin,True,18.0,71.374,32.672,36.816,,True,True,4261.721,23,Qatar Grand Prix
+MAG,1.0,129.92,1.0,MEDIUM,1.0,124,False,Haas F1 Team,True,11.0,,49.468,41.81,,False,False,3420.079,23,Qatar Grand Prix
+MAG,2.0,143.343,1.0,MEDIUM,2.0,4,False,Haas F1 Team,True,11.0,52.175,45.605,45.563,,False,False,3563.422,23,Qatar Grand Prix
+MAG,3.0,138.697,1.0,MEDIUM,3.0,4,False,Haas F1 Team,True,11.0,47.731,42.078,48.888,,False,False,3702.119,23,Qatar Grand Prix
+MAG,4.0,134.923,1.0,MEDIUM,4.0,41,False,Haas F1 Team,True,11.0,42.035,40.226,52.662,,False,False,3837.042,23,Qatar Grand Prix
+MAG,5.0,90.89,1.0,MEDIUM,5.0,12,True,Haas F1 Team,True,10.0,34.322,30.27,26.298,,False,False,3927.932,23,Qatar Grand Prix
+MAG,6.0,88.533,1.0,MEDIUM,6.0,1,True,Haas F1 Team,True,10.0,33.022,29.65,25.861,,False,False,4016.465,23,Qatar Grand Prix
+MAG,7.0,88.075,1.0,MEDIUM,7.0,1,True,Haas F1 Team,True,10.0,32.646,29.479,25.95,,False,False,4104.54,23,Qatar Grand Prix
+MAG,8.0,87.707,1.0,MEDIUM,8.0,1,True,Haas F1 Team,True,10.0,32.541,29.516,25.65,,False,False,4192.247,23,Qatar Grand Prix
+MAG,9.0,87.395,1.0,MEDIUM,9.0,1,True,Haas F1 Team,True,10.0,32.338,29.526,25.531,,False,False,4279.642,23,Qatar Grand Prix
+MAG,10.0,87.601,1.0,MEDIUM,10.0,1,True,Haas F1 Team,True,9.0,32.745,29.19,25.666,,False,False,4367.243,23,Qatar Grand Prix
+MAG,11.0,88.499,1.0,MEDIUM,11.0,1,True,Haas F1 Team,True,9.0,32.941,29.409,26.149,,False,False,4455.742,23,Qatar Grand Prix
+MAG,12.0,87.513,1.0,MEDIUM,12.0,1,True,Haas F1 Team,True,9.0,32.488,29.238,25.787,,False,False,4543.255,23,Qatar Grand Prix
+MAG,13.0,87.321,1.0,MEDIUM,13.0,1,True,Haas F1 Team,True,9.0,32.394,29.371,25.556,,False,False,4630.576,23,Qatar Grand Prix
+MAG,14.0,86.989,1.0,MEDIUM,14.0,1,True,Haas F1 Team,True,9.0,32.371,29.257,25.361,,False,False,4717.565,23,Qatar Grand Prix
+MAG,15.0,86.911,1.0,MEDIUM,15.0,1,True,Haas F1 Team,True,9.0,32.317,29.294,25.3,,False,False,4804.476,23,Qatar Grand Prix
+MAG,16.0,86.797,1.0,MEDIUM,16.0,1,True,Haas F1 Team,True,9.0,32.344,29.145,25.308,,False,False,4891.273,23,Qatar Grand Prix
+MAG,17.0,86.65,1.0,MEDIUM,17.0,1,True,Haas F1 Team,True,9.0,32.144,29.116,25.39,,False,False,4977.923,23,Qatar Grand Prix
+MAG,18.0,86.763,1.0,MEDIUM,18.0,1,True,Haas F1 Team,True,9.0,32.339,29.252,25.172,,False,False,5064.686,23,Qatar Grand Prix
+MAG,19.0,86.607,1.0,MEDIUM,19.0,1,True,Haas F1 Team,True,9.0,32.133,29.33,25.144,,False,False,5151.293,23,Qatar Grand Prix
+MAG,20.0,86.58,1.0,MEDIUM,20.0,1,True,Haas F1 Team,True,9.0,32.321,29.173,25.086,,False,False,5237.873,23,Qatar Grand Prix
+MAG,21.0,86.46,1.0,MEDIUM,21.0,1,True,Haas F1 Team,True,9.0,32.224,29.107,25.129,,False,False,5324.333,23,Qatar Grand Prix
+MAG,22.0,86.377,1.0,MEDIUM,22.0,1,True,Haas F1 Team,True,9.0,32.149,29.125,25.103,,False,False,5410.71,23,Qatar Grand Prix
+MAG,23.0,86.237,1.0,MEDIUM,23.0,1,True,Haas F1 Team,True,9.0,32.019,28.95,25.268,,False,False,5496.947,23,Qatar Grand Prix
+MAG,24.0,86.304,1.0,MEDIUM,24.0,1,True,Haas F1 Team,True,8.0,32.067,29.176,25.061,,False,False,5583.251,23,Qatar Grand Prix
+MAG,25.0,86.106,1.0,MEDIUM,25.0,1,True,Haas F1 Team,True,8.0,32.077,29.031,24.998,,False,False,5669.357,23,Qatar Grand Prix
+MAG,26.0,86.148,1.0,MEDIUM,26.0,1,True,Haas F1 Team,True,8.0,32.089,29.044,25.015,,False,False,5755.505,23,Qatar Grand Prix
+MAG,27.0,90.05,1.0,MEDIUM,27.0,1,False,Haas F1 Team,True,10.0,32.083,28.962,29.005,,True,False,5845.555,23,Qatar Grand Prix
+MAG,28.0,108.853,2.0,HARD,1.0,1,False,Haas F1 Team,True,16.0,54.765,28.955,25.133,,False,True,5954.408,23,Qatar Grand Prix
+MAG,29.0,85.682,2.0,HARD,2.0,12,True,Haas F1 Team,True,16.0,31.988,28.769,24.925,,False,False,6040.09,23,Qatar Grand Prix
+MAG,30.0,85.602,2.0,HARD,3.0,1,True,Haas F1 Team,True,16.0,31.958,28.727,24.917,,False,False,6125.692,23,Qatar Grand Prix
+MAG,31.0,85.307,2.0,HARD,4.0,1,True,Haas F1 Team,True,16.0,31.727,28.722,24.858,,False,False,6210.999,23,Qatar Grand Prix
+MAG,32.0,85.877,2.0,HARD,5.0,1,True,Haas F1 Team,True,15.0,31.832,28.899,25.146,,False,False,6296.876,23,Qatar Grand Prix
+MAG,33.0,85.58,2.0,HARD,6.0,1,True,Haas F1 Team,True,15.0,32.06,28.789,24.731,,False,False,6382.456,23,Qatar Grand Prix
+MAG,34.0,86.137,2.0,HARD,7.0,1,True,Haas F1 Team,True,14.0,31.775,28.915,25.447,,False,False,6468.593,23,Qatar Grand Prix
+MAG,35.0,120.651,2.0,HARD,8.0,14,False,Haas F1 Team,True,13.0,46.169,39.347,35.135,,False,False,6589.244,23,Qatar Grand Prix
+MAG,36.0,125.526,2.0,HARD,9.0,4,False,Haas F1 Team,True,11.0,46.145,40.052,39.329,,True,False,6714.77,23,Qatar Grand Prix
+MAG,37.0,130.074,3.0,HARD,10.0,4,False,Haas F1 Team,False,11.0,54.136,33.331,42.607,,True,True,6844.844,23,Qatar Grand Prix
+MAG,38.0,146.776,4.0,HARD,11.0,4,False,Haas F1 Team,False,11.0,62.659,39.293,44.824,,False,True,6991.62,23,Qatar Grand Prix
+MAG,39.0,132.021,4.0,HARD,12.0,41,False,Haas F1 Team,False,10.0,47.015,41.312,43.694,,False,False,7123.641,23,Qatar Grand Prix
+MAG,40.0,113.041,4.0,HARD,13.0,1264,False,Haas F1 Team,False,10.0,33.574,36.165,43.302,,False,False,7236.682,23,Qatar Grand Prix
+MAG,41.0,133.54,4.0,HARD,14.0,4,False,Haas F1 Team,False,10.0,37.548,46.89,49.102,,False,False,7370.222,23,Qatar Grand Prix
+MAG,42.0,138.376,4.0,HARD,15.0,41,False,Haas F1 Team,False,10.0,45.344,44.445,48.587,,False,False,7508.598,23,Qatar Grand Prix
+MAG,43.0,89.014,4.0,HARD,16.0,1,True,Haas F1 Team,False,11.0,34.114,29.393,25.507,,False,False,7597.612,23,Qatar Grand Prix
+MAG,44.0,86.26,4.0,HARD,17.0,1,True,Haas F1 Team,False,11.0,32.162,29.054,25.044,,False,False,7683.872,23,Qatar Grand Prix
+MAG,45.0,85.784,4.0,HARD,18.0,1,True,Haas F1 Team,False,11.0,31.806,28.985,24.993,,False,False,7769.656,23,Qatar Grand Prix
+MAG,46.0,85.823,4.0,HARD,19.0,1,True,Haas F1 Team,False,10.0,32.106,28.853,24.864,,False,False,7855.479,23,Qatar Grand Prix
+MAG,47.0,85.542,4.0,HARD,20.0,1,True,Haas F1 Team,False,10.0,31.881,28.827,24.834,,False,False,7941.021,23,Qatar Grand Prix
+MAG,48.0,85.56,4.0,HARD,21.0,1,True,Haas F1 Team,False,10.0,31.791,28.917,24.852,,False,False,8026.581,23,Qatar Grand Prix
+MAG,49.0,84.603,4.0,HARD,22.0,1,True,Haas F1 Team,False,9.0,31.389,28.513,24.701,,False,False,8111.184,23,Qatar Grand Prix
+MAG,50.0,84.584,4.0,HARD,23.0,1,True,Haas F1 Team,False,9.0,31.56,28.398,24.626,,False,False,8195.768,23,Qatar Grand Prix
+MAG,51.0,84.558,4.0,HARD,24.0,1,True,Haas F1 Team,False,9.0,31.483,28.476,24.599,,False,False,8280.326,23,Qatar Grand Prix
+MAG,52.0,84.593,4.0,HARD,25.0,1,True,Haas F1 Team,False,9.0,31.545,28.468,24.58,,False,False,8364.919,23,Qatar Grand Prix
+MAG,53.0,84.482,4.0,HARD,26.0,1,True,Haas F1 Team,False,9.0,31.61,28.405,24.467,,False,False,8449.401,23,Qatar Grand Prix
+MAG,54.0,84.431,4.0,HARD,27.0,1,True,Haas F1 Team,False,9.0,31.613,28.247,24.571,,False,False,8533.832,23,Qatar Grand Prix
+MAG,55.0,84.259,4.0,HARD,28.0,1,True,Haas F1 Team,False,9.0,31.439,28.326,24.494,,False,False,8618.091,23,Qatar Grand Prix
+MAG,56.0,84.741,4.0,HARD,29.0,1,True,Haas F1 Team,False,9.0,31.536,28.436,24.769,,False,False,8702.832,23,Qatar Grand Prix
+MAG,57.0,84.827,4.0,HARD,30.0,1,True,Haas F1 Team,False,9.0,31.591,28.431,24.805,,False,False,8787.659,23,Qatar Grand Prix
+TSU,1.0,127.75,1.0,MEDIUM,1.0,124,False,RB,True,10.0,,48.859,40.326,,False,False,3417.909,23,Qatar Grand Prix
+TSU,2.0,143.351,1.0,MEDIUM,2.0,4,False,RB,True,10.0,51.071,47.577,44.703,,False,False,3561.26,23,Qatar Grand Prix
+TSU,3.0,138.497,1.0,MEDIUM,3.0,4,False,RB,True,10.0,47.859,42.325,48.313,,False,False,3699.757,23,Qatar Grand Prix
+TSU,4.0,136.969,1.0,MEDIUM,4.0,41,False,RB,True,10.0,42.169,42.128,52.672,,False,False,3836.726,23,Qatar Grand Prix
+TSU,5.0,90.04,1.0,MEDIUM,5.0,12,True,RB,True,9.0,33.793,30.102,26.145,,False,False,3926.766,23,Qatar Grand Prix
+TSU,6.0,88.679,1.0,MEDIUM,6.0,1,True,RB,True,9.0,33.185,29.78,25.714,,False,False,4015.445,23,Qatar Grand Prix
+TSU,7.0,88.217,1.0,MEDIUM,7.0,1,True,RB,True,9.0,32.728,29.707,25.782,,False,False,4103.662,23,Qatar Grand Prix
+TSU,8.0,87.737,1.0,MEDIUM,8.0,1,True,RB,True,9.0,32.831,29.455,25.451,,False,False,4191.399,23,Qatar Grand Prix
+TSU,9.0,87.661,1.0,MEDIUM,9.0,1,True,RB,True,9.0,32.609,29.581,25.471,,False,False,4279.06,23,Qatar Grand Prix
+TSU,10.0,89.206,1.0,MEDIUM,10.0,1,True,RB,True,10.0,33.831,29.783,25.592,,False,False,4368.266,23,Qatar Grand Prix
+TSU,11.0,88.174,1.0,MEDIUM,11.0,1,True,RB,True,10.0,32.938,29.724,25.512,,False,False,4456.44,23,Qatar Grand Prix
+TSU,12.0,87.91,1.0,MEDIUM,12.0,1,True,RB,True,10.0,32.689,29.775,25.446,,False,False,4544.35,23,Qatar Grand Prix
+TSU,13.0,88.7,1.0,MEDIUM,13.0,1,True,RB,True,11.0,33.331,29.815,25.554,,False,False,4633.05,23,Qatar Grand Prix
+TSU,14.0,88.832,1.0,MEDIUM,14.0,1,True,RB,True,12.0,33.385,29.895,25.552,,False,False,4721.882,23,Qatar Grand Prix
+TSU,15.0,88.648,1.0,MEDIUM,15.0,1,True,RB,True,13.0,33.257,29.794,25.597,,False,False,4810.53,23,Qatar Grand Prix
+TSU,16.0,87.635,1.0,MEDIUM,16.0,1,True,RB,True,13.0,32.548,29.587,25.5,,False,False,4898.165,23,Qatar Grand Prix
+TSU,17.0,87.433,1.0,MEDIUM,17.0,1,True,RB,True,13.0,32.598,29.475,25.36,,False,False,4985.598,23,Qatar Grand Prix
+TSU,18.0,87.574,1.0,MEDIUM,18.0,1,True,RB,True,13.0,32.583,29.445,25.546,,False,False,5073.172,23,Qatar Grand Prix
+TSU,19.0,87.537,1.0,MEDIUM,19.0,1,True,RB,True,13.0,32.506,29.533,25.498,,False,False,5160.709,23,Qatar Grand Prix
+TSU,20.0,88.247,1.0,MEDIUM,20.0,1,True,RB,True,14.0,33.132,29.546,25.569,,False,False,5248.956,23,Qatar Grand Prix
+TSU,21.0,87.301,1.0,MEDIUM,21.0,1,True,RB,True,14.0,32.556,29.353,25.392,,False,False,5336.257,23,Qatar Grand Prix
+TSU,22.0,87.162,1.0,MEDIUM,22.0,1,True,RB,True,14.0,32.489,29.263,25.41,,False,False,5423.419,23,Qatar Grand Prix
+TSU,23.0,87.139,1.0,MEDIUM,23.0,1,True,RB,True,14.0,32.421,29.362,25.356,,False,False,5510.558,23,Qatar Grand Prix
+TSU,24.0,87.036,1.0,MEDIUM,24.0,1,True,RB,True,13.0,32.453,29.217,25.366,,False,False,5597.594,23,Qatar Grand Prix
+TSU,25.0,86.975,1.0,MEDIUM,25.0,1,True,RB,True,13.0,32.471,29.141,25.363,,False,False,5684.569,23,Qatar Grand Prix
+TSU,26.0,86.725,1.0,MEDIUM,26.0,1,True,RB,True,13.0,32.387,29.05,25.288,,False,False,5771.294,23,Qatar Grand Prix
+TSU,27.0,86.505,1.0,MEDIUM,27.0,1,True,RB,True,13.0,32.309,28.979,25.217,,False,False,5857.799,23,Qatar Grand Prix
+TSU,28.0,86.46,1.0,MEDIUM,28.0,1,True,RB,True,12.0,32.321,28.988,25.151,,False,False,5944.259,23,Qatar Grand Prix
+TSU,29.0,86.505,1.0,MEDIUM,29.0,12,True,RB,True,12.0,32.313,29.013,25.179,,False,False,6030.764,23,Qatar Grand Prix
+TSU,30.0,86.912,1.0,MEDIUM,30.0,1,True,RB,True,12.0,32.684,29.088,25.14,,False,False,6117.676,23,Qatar Grand Prix
+TSU,31.0,86.369,1.0,MEDIUM,31.0,1,True,RB,True,12.0,32.247,29.01,25.112,,False,False,6204.045,23,Qatar Grand Prix
+TSU,32.0,86.456,1.0,MEDIUM,32.0,1,True,RB,True,12.0,32.323,28.946,25.187,,False,False,6290.501,23,Qatar Grand Prix
+TSU,33.0,86.519,1.0,MEDIUM,33.0,1,True,RB,True,12.0,32.243,28.958,25.318,,False,False,6377.02,23,Qatar Grand Prix
+TSU,34.0,86.33,1.0,MEDIUM,34.0,1,True,RB,True,11.0,32.266,28.905,25.159,,False,False,6463.35,23,Qatar Grand Prix
+TSU,35.0,121.862,1.0,MEDIUM,35.0,14,False,RB,True,11.0,44.707,39.885,37.27,,True,False,6585.212,23,Qatar Grand Prix
+TSU,36.0,143.242,2.0,HARD,1.0,4,False,RB,True,12.0,64.359,42.519,36.364,,True,True,6728.454,23,Qatar Grand Prix
+TSU,37.0,118.996,3.0,HARD,2.0,4,False,RB,False,12.0,50.636,30.124,38.236,,True,True,6847.45,23,Qatar Grand Prix
+TSU,38.0,146.782,4.0,HARD,3.0,4,False,RB,False,12.0,62.733,39.584,44.465,,False,True,6994.232,23,Qatar Grand Prix
+TSU,39.0,129.747,4.0,HARD,4.0,41,False,RB,False,11.0,45.25,43.191,41.306,,False,False,7123.979,23,Qatar Grand Prix
+TSU,40.0,119.241,4.0,HARD,5.0,1264,False,RB,False,13.0,33.78,39.825,45.636,,True,False,7243.22,23,Qatar Grand Prix
+TSU,41.0,134.978,5.0,SOFT,1.0,4,False,RB,True,14.0,57.858,34.553,42.567,,False,True,7378.198,23,Qatar Grand Prix
+TSU,42.0,131.701,5.0,SOFT,2.0,41,False,RB,True,14.0,43.109,44.75,43.842,,False,False,7509.899,23,Qatar Grand Prix
+TSU,43.0,88.689,5.0,SOFT,3.0,1,True,RB,True,13.0,33.602,29.465,25.622,,False,False,7598.588,23,Qatar Grand Prix
+TSU,44.0,87.188,5.0,SOFT,4.0,1,True,RB,True,13.0,32.692,29.265,25.231,,False,False,7685.776,23,Qatar Grand Prix
+TSU,45.0,86.798,5.0,SOFT,5.0,1,True,RB,True,14.0,32.804,29.035,24.959,,False,False,7772.574,23,Qatar Grand Prix
+TSU,46.0,86.367,5.0,SOFT,6.0,1,True,RB,True,13.0,32.178,29.054,25.135,,False,False,7858.941,23,Qatar Grand Prix
+TSU,47.0,86.144,5.0,SOFT,7.0,1,True,RB,True,12.0,32.121,29.006,25.017,,False,False,7945.085,23,Qatar Grand Prix
+TSU,48.0,86.154,5.0,SOFT,8.0,1,True,RB,True,12.0,32.258,28.935,24.961,,False,False,8031.239,23,Qatar Grand Prix
+TSU,49.0,86.28,5.0,SOFT,9.0,1,True,RB,True,12.0,32.195,28.937,25.148,,False,False,8117.519,23,Qatar Grand Prix
+TSU,50.0,87.03,5.0,SOFT,10.0,1,True,RB,True,12.0,32.422,29.118,25.49,,False,False,8204.549,23,Qatar Grand Prix
+TSU,51.0,87.301,5.0,SOFT,11.0,1,True,RB,True,12.0,32.532,29.267,25.502,,False,False,8291.85,23,Qatar Grand Prix
+TSU,52.0,87.78,5.0,SOFT,12.0,1,True,RB,True,13.0,33.009,29.386,25.385,,False,False,8379.63,23,Qatar Grand Prix
+TSU,53.0,87.383,5.0,SOFT,13.0,1,True,RB,True,13.0,32.635,29.29,25.458,,False,False,8467.013,23,Qatar Grand Prix
+TSU,54.0,87.337,5.0,SOFT,14.0,1,True,RB,True,13.0,32.574,29.367,25.396,,False,False,8554.35,23,Qatar Grand Prix
+TSU,55.0,87.433,5.0,SOFT,15.0,1,True,RB,True,12.0,32.705,29.394,25.334,,False,False,8641.783,23,Qatar Grand Prix
+TSU,56.0,87.674,5.0,SOFT,16.0,1,True,RB,True,13.0,33.092,29.287,25.295,,False,False,8729.457,23,Qatar Grand Prix
+TSU,57.0,87.125,5.0,SOFT,17.0,1,True,RB,True,13.0,32.655,29.067,25.403,,False,False,8816.582,23,Qatar Grand Prix
+ALB,1.0,135.384,1.0,MEDIUM,1.0,124,False,Williams,True,16.0,,52.8,37.468,,False,False,3425.543,23,Qatar Grand Prix
+ALB,2.0,146.296,1.0,MEDIUM,2.0,4,False,Williams,True,16.0,52.552,45.611,48.133,,False,False,3571.839,23,Qatar Grand Prix
+ALB,3.0,137.47,1.0,MEDIUM,3.0,4,False,Williams,True,16.0,44.799,43.538,49.133,,False,False,3709.309,23,Qatar Grand Prix
+ALB,4.0,129.827,1.0,MEDIUM,4.0,41,False,Williams,True,16.0,40.208,40.041,49.578,,False,False,3839.136,23,Qatar Grand Prix
+ALB,5.0,91.146,1.0,MEDIUM,5.0,12,True,Williams,True,15.0,34.065,30.574,26.507,,False,False,3930.282,23,Qatar Grand Prix
+ALB,6.0,89.921,1.0,MEDIUM,6.0,1,True,Williams,True,15.0,33.65,30.128,26.143,,False,False,4020.203,23,Qatar Grand Prix
+ALB,7.0,88.528,1.0,MEDIUM,7.0,1,True,Williams,True,15.0,32.674,29.779,26.075,,False,False,4108.731,23,Qatar Grand Prix
+ALB,8.0,88.499,1.0,MEDIUM,8.0,1,True,Williams,True,15.0,32.96,29.674,25.865,,False,False,4197.23,23,Qatar Grand Prix
+ALB,9.0,88.038,1.0,MEDIUM,9.0,1,True,Williams,True,15.0,32.629,29.653,25.756,,False,False,4285.268,23,Qatar Grand Prix
+ALB,10.0,87.781,1.0,MEDIUM,10.0,1,True,Williams,True,15.0,32.568,29.482,25.731,,False,False,4373.049,23,Qatar Grand Prix
+ALB,11.0,89.252,1.0,MEDIUM,11.0,1,True,Williams,True,15.0,33.813,29.794,25.645,,False,False,4462.301,23,Qatar Grand Prix
+ALB,12.0,87.299,1.0,MEDIUM,12.0,1,True,Williams,True,15.0,32.462,29.438,25.399,,False,False,4549.6,23,Qatar Grand Prix
+ALB,13.0,87.771,1.0,MEDIUM,13.0,1,True,Williams,True,15.0,32.623,29.656,25.492,,False,False,4637.371,23,Qatar Grand Prix
+ALB,14.0,87.525,1.0,MEDIUM,14.0,1,True,Williams,True,15.0,32.461,29.63,25.434,,False,False,4724.896,23,Qatar Grand Prix
+ALB,15.0,87.793,1.0,MEDIUM,15.0,1,True,Williams,True,15.0,32.741,29.59,25.462,,False,False,4812.689,23,Qatar Grand Prix
+ALB,16.0,87.6,1.0,MEDIUM,16.0,1,True,Williams,True,15.0,32.583,29.475,25.542,,False,False,4900.289,23,Qatar Grand Prix
+ALB,17.0,87.556,1.0,MEDIUM,17.0,1,True,Williams,True,15.0,32.371,29.673,25.512,,False,False,4987.845,23,Qatar Grand Prix
+ALB,18.0,87.321,1.0,MEDIUM,18.0,1,True,Williams,True,15.0,32.514,29.439,25.368,,False,False,5075.166,23,Qatar Grand Prix
+ALB,19.0,87.428,1.0,MEDIUM,19.0,1,True,Williams,True,15.0,32.449,29.529,25.45,,False,False,5162.594,23,Qatar Grand Prix
+ALB,20.0,87.347,1.0,MEDIUM,20.0,1,True,Williams,True,15.0,32.529,29.461,25.357,,False,False,5249.941,23,Qatar Grand Prix
+ALB,21.0,87.42,1.0,MEDIUM,21.0,1,True,Williams,True,15.0,32.563,29.492,25.365,,False,False,5337.361,23,Qatar Grand Prix
+ALB,22.0,87.133,1.0,MEDIUM,22.0,1,True,Williams,True,15.0,32.245,29.472,25.416,,False,False,5424.494,23,Qatar Grand Prix
+ALB,23.0,86.951,1.0,MEDIUM,23.0,1,True,Williams,True,15.0,32.227,29.395,25.329,,False,False,5511.445,23,Qatar Grand Prix
+ALB,24.0,86.968,1.0,MEDIUM,24.0,1,True,Williams,True,15.0,32.288,29.374,25.306,,False,False,5598.413,23,Qatar Grand Prix
+ALB,25.0,86.998,1.0,MEDIUM,25.0,1,True,Williams,True,14.0,32.322,29.45,25.226,,False,False,5685.411,23,Qatar Grand Prix
+ALB,26.0,86.774,1.0,MEDIUM,26.0,1,True,Williams,True,14.0,32.188,29.34,25.246,,False,False,5772.185,23,Qatar Grand Prix
+ALB,27.0,86.663,1.0,MEDIUM,27.0,1,True,Williams,True,14.0,32.134,29.278,25.251,,False,False,5858.848,23,Qatar Grand Prix
+ALB,28.0,86.553,1.0,MEDIUM,28.0,1,True,Williams,True,13.0,32.077,29.303,25.173,,False,False,5945.401,23,Qatar Grand Prix
+ALB,29.0,86.395,1.0,MEDIUM,29.0,12,True,Williams,True,13.0,31.943,29.317,25.135,,False,False,6031.796,23,Qatar Grand Prix
+ALB,30.0,86.708,1.0,MEDIUM,30.0,1,True,Williams,True,13.0,32.26,29.352,25.096,,False,False,6118.504,23,Qatar Grand Prix
+ALB,31.0,86.39,1.0,MEDIUM,31.0,1,True,Williams,True,13.0,32.01,29.313,25.067,,False,False,6204.894,23,Qatar Grand Prix
+ALB,32.0,86.572,1.0,MEDIUM,32.0,1,True,Williams,True,13.0,32.084,29.303,25.185,,False,False,6291.466,23,Qatar Grand Prix
+ALB,33.0,86.303,1.0,MEDIUM,33.0,1,True,Williams,True,13.0,32.044,29.214,25.045,,False,False,6377.769,23,Qatar Grand Prix
+ALB,34.0,87.708,1.0,MEDIUM,34.0,1,True,Williams,True,12.0,32.098,29.334,26.276,,False,False,6465.477,23,Qatar Grand Prix
+ALB,35.0,121.917,1.0,MEDIUM,35.0,14,False,Williams,True,12.0,43.962,40.382,37.573,,True,False,6587.394,23,Qatar Grand Prix
+ALB,36.0,142.739,2.0,SOFT,1.0,4,False,Williams,True,13.0,64.975,40.763,37.001,,True,True,6730.133,23,Qatar Grand Prix
+ALB,37.0,118.603,3.0,SOFT,2.0,4,False,Williams,False,13.0,51.519,30.969,36.115,,True,True,6848.736,23,Qatar Grand Prix
+ALB,38.0,146.301,4.0,SOFT,3.0,4,False,Williams,False,13.0,63.306,38.621,44.374,,False,True,6995.037,23,Qatar Grand Prix
+ALB,39.0,129.058,4.0,SOFT,4.0,41,False,Williams,False,12.0,45.3,42.894,40.864,,False,False,7124.095,23,Qatar Grand Prix
+ALB,40.0,114.034,4.0,SOFT,5.0,1264,False,Williams,False,11.0,33.36,36.444,44.23,,False,False,7238.129,23,Qatar Grand Prix
+ALB,41.0,134.065,4.0,SOFT,6.0,4,False,Williams,False,11.0,39.137,44.927,50.001,,False,False,7372.194,23,Qatar Grand Prix
+ALB,42.0,136.483,4.0,SOFT,7.0,41,False,Williams,False,11.0,44.481,43.92,48.082,,False,False,7508.677,23,Qatar Grand Prix
+ALB,43.0,87.968,4.0,SOFT,8.0,1,True,Williams,False,10.0,33.312,29.509,25.147,,False,False,7596.645,23,Qatar Grand Prix
+ALB,44.0,86.524,4.0,SOFT,9.0,1,True,Williams,False,10.0,32.631,28.996,24.897,,False,False,7683.169,23,Qatar Grand Prix
+ALB,45.0,85.844,4.0,SOFT,10.0,1,True,Williams,False,10.0,31.895,28.934,25.015,,False,False,7769.013,23,Qatar Grand Prix
+ALB,46.0,85.701,4.0,SOFT,11.0,1,True,Williams,False,9.0,31.968,28.747,24.986,,False,False,7854.714,23,Qatar Grand Prix
+ALB,47.0,85.559,4.0,SOFT,12.0,1,True,Williams,False,9.0,31.787,28.85,24.922,,False,False,7940.273,23,Qatar Grand Prix
+ALB,48.0,85.751,4.0,SOFT,13.0,1,True,Williams,False,9.0,31.969,28.869,24.913,,False,False,8026.024,23,Qatar Grand Prix
+ALB,49.0,87.222,4.0,SOFT,14.0,1,True,Williams,False,10.0,32.834,29.142,25.246,,False,False,8113.246,23,Qatar Grand Prix
+ALB,50.0,86.781,4.0,SOFT,15.0,1,True,Williams,False,10.0,32.254,29.219,25.308,,False,False,8200.027,23,Qatar Grand Prix
+ALB,51.0,86.66,4.0,SOFT,16.0,1,True,Williams,False,10.0,32.285,29.154,25.221,,False,False,8286.687,23,Qatar Grand Prix
+ALB,52.0,87.51,4.0,SOFT,17.0,1,True,Williams,False,10.0,32.736,29.25,25.524,,False,False,8374.197,23,Qatar Grand Prix
+ALB,53.0,90.321,4.0,SOFT,18.0,1,True,Williams,False,12.0,34.087,30.446,25.788,,False,False,8464.518,23,Qatar Grand Prix
+ALB,54.0,88.167,4.0,SOFT,19.0,1,True,Williams,False,12.0,32.944,29.666,25.557,,False,False,8552.685,23,Qatar Grand Prix
+ALB,55.0,92.223,4.0,SOFT,20.0,1,False,Williams,False,14.0,32.674,29.695,29.854,,True,False,8644.908,23,Qatar Grand Prix
+ALB,56.0,123.543,5.0,SOFT,1.0,1,False,Williams,True,15.0,69.931,28.523,25.089,,False,True,8768.451,23,Qatar Grand Prix
+ZHO,1.0,134.044,1.0,MEDIUM,1.0,124,False,Kick Sauber,True,15.0,,50.928,40.013,,False,False,3424.203,23,Qatar Grand Prix
+ZHO,2.0,145.861,1.0,MEDIUM,2.0,4,False,Kick Sauber,True,15.0,52.61,46.103,47.148,,False,False,3570.064,23,Qatar Grand Prix
+ZHO,3.0,138.331,1.0,MEDIUM,3.0,4,False,Kick Sauber,True,15.0,46.014,43.116,49.201,,False,False,3708.395,23,Qatar Grand Prix
+ZHO,4.0,130.295,1.0,MEDIUM,4.0,41,False,Kick Sauber,True,15.0,40.445,39.521,50.329,,False,False,3838.69,23,Qatar Grand Prix
+ZHO,5.0,90.517,1.0,MEDIUM,5.0,12,True,Kick Sauber,True,13.0,33.499,30.341,26.677,,False,False,3929.207,23,Qatar Grand Prix
+ZHO,6.0,89.258,1.0,MEDIUM,6.0,1,True,Kick Sauber,True,13.0,33.397,29.958,25.903,,False,False,4018.465,23,Qatar Grand Prix
+ZHO,7.0,88.056,1.0,MEDIUM,7.0,1,True,Kick Sauber,True,13.0,32.625,29.704,25.727,,False,False,4106.521,23,Qatar Grand Prix
+ZHO,8.0,88.369,1.0,MEDIUM,8.0,1,True,Kick Sauber,True,13.0,32.515,29.871,25.983,,False,False,4194.89,23,Qatar Grand Prix
+ZHO,9.0,88.078,1.0,MEDIUM,9.0,1,True,Kick Sauber,True,13.0,32.435,29.713,25.93,,False,False,4282.968,23,Qatar Grand Prix
+ZHO,10.0,87.643,1.0,MEDIUM,10.0,1,True,Kick Sauber,True,13.0,32.373,29.569,25.701,,False,False,4370.611,23,Qatar Grand Prix
+ZHO,11.0,88.164,1.0,MEDIUM,11.0,1,True,Kick Sauber,True,13.0,32.388,29.993,25.783,,False,False,4458.775,23,Qatar Grand Prix
+ZHO,12.0,87.973,1.0,MEDIUM,12.0,1,True,Kick Sauber,True,13.0,32.537,29.677,25.759,,False,False,4546.748,23,Qatar Grand Prix
+ZHO,13.0,87.659,1.0,MEDIUM,13.0,1,True,Kick Sauber,True,13.0,32.277,29.668,25.714,,False,False,4634.407,23,Qatar Grand Prix
+ZHO,14.0,87.909,1.0,MEDIUM,14.0,1,True,Kick Sauber,True,13.0,32.454,30.022,25.433,,False,False,4722.316,23,Qatar Grand Prix
+ZHO,15.0,87.024,1.0,MEDIUM,15.0,1,True,Kick Sauber,True,12.0,32.122,29.452,25.45,,False,False,4809.34,23,Qatar Grand Prix
+ZHO,16.0,87.165,1.0,MEDIUM,16.0,1,True,Kick Sauber,True,12.0,32.399,29.337,25.429,,False,False,4896.505,23,Qatar Grand Prix
+ZHO,17.0,87.247,1.0,MEDIUM,17.0,1,True,Kick Sauber,True,12.0,32.354,29.38,25.513,,False,False,4983.752,23,Qatar Grand Prix
+ZHO,18.0,87.02,1.0,MEDIUM,18.0,1,True,Kick Sauber,True,12.0,32.334,29.295,25.391,,False,False,5070.772,23,Qatar Grand Prix
+ZHO,19.0,86.888,1.0,MEDIUM,19.0,1,True,Kick Sauber,True,12.0,32.262,29.298,25.328,,False,False,5157.66,23,Qatar Grand Prix
+ZHO,20.0,86.609,1.0,MEDIUM,20.0,1,True,Kick Sauber,True,12.0,32.256,29.107,25.246,,False,False,5244.269,23,Qatar Grand Prix
+ZHO,21.0,86.594,1.0,MEDIUM,21.0,1,True,Kick Sauber,True,12.0,32.36,29.11,25.124,,False,False,5330.863,23,Qatar Grand Prix
+ZHO,22.0,86.428,1.0,MEDIUM,22.0,1,True,Kick Sauber,True,12.0,32.239,29.067,25.122,,False,False,5417.291,23,Qatar Grand Prix
+ZHO,23.0,86.126,1.0,MEDIUM,23.0,1,True,Kick Sauber,True,12.0,32.111,28.945,25.07,,False,False,5503.417,23,Qatar Grand Prix
+ZHO,24.0,86.397,1.0,MEDIUM,24.0,1,True,Kick Sauber,True,12.0,32.121,29.041,25.235,,False,False,5589.814,23,Qatar Grand Prix
+ZHO,25.0,86.191,1.0,MEDIUM,25.0,1,True,Kick Sauber,True,12.0,32.125,29.001,25.065,,False,False,5676.005,23,Qatar Grand Prix
+ZHO,26.0,85.928,1.0,MEDIUM,26.0,1,True,Kick Sauber,True,12.0,32.051,28.911,24.966,,False,False,5761.933,23,Qatar Grand Prix
+ZHO,27.0,85.912,1.0,MEDIUM,27.0,1,True,Kick Sauber,True,12.0,31.999,28.911,25.002,,False,False,5847.845,23,Qatar Grand Prix
+ZHO,28.0,85.916,1.0,MEDIUM,28.0,1,True,Kick Sauber,True,11.0,31.944,28.972,25.0,,False,False,5933.761,23,Qatar Grand Prix
+ZHO,29.0,85.979,1.0,MEDIUM,29.0,12,True,Kick Sauber,True,11.0,32.071,28.919,24.989,,False,False,6019.74,23,Qatar Grand Prix
+ZHO,30.0,85.849,1.0,MEDIUM,30.0,1,True,Kick Sauber,True,11.0,31.982,28.948,24.919,,False,False,6105.589,23,Qatar Grand Prix
+ZHO,31.0,85.899,1.0,MEDIUM,31.0,1,True,Kick Sauber,True,11.0,32.025,28.911,24.963,,False,False,6191.488,23,Qatar Grand Prix
+ZHO,32.0,85.849,1.0,MEDIUM,32.0,1,True,Kick Sauber,True,11.0,31.916,28.906,25.027,,False,False,6277.337,23,Qatar Grand Prix
+ZHO,33.0,85.659,1.0,MEDIUM,33.0,1,True,Kick Sauber,True,11.0,31.901,28.87,24.888,,False,False,6362.996,23,Qatar Grand Prix
+ZHO,34.0,85.937,1.0,MEDIUM,34.0,1,True,Kick Sauber,True,10.0,31.832,29.17,24.935,,False,False,6448.933,23,Qatar Grand Prix
+ZHO,35.0,115.892,1.0,MEDIUM,35.0,14,False,Kick Sauber,True,9.0,36.988,40.39,38.514,,True,False,6564.825,23,Qatar Grand Prix
+ZHO,36.0,146.39,2.0,HARD,1.0,4,False,Kick Sauber,False,10.0,66.142,39.001,41.247,,True,True,6711.215,23,Qatar Grand Prix
+ZHO,37.0,129.664,3.0,HARD,2.0,4,False,Kick Sauber,False,9.0,51.665,31.286,46.713,,True,True,6840.879,23,Qatar Grand Prix
+ZHO,38.0,146.432,4.0,HARD,3.0,4,False,Kick Sauber,False,9.0,61.872,42.262,42.298,,False,True,6987.311,23,Qatar Grand Prix
+ZHO,39.0,135.506,4.0,HARD,4.0,41,False,Kick Sauber,False,8.0,48.588,41.459,45.459,,False,False,7122.817,23,Qatar Grand Prix
+ZHO,40.0,112.918,4.0,HARD,5.0,1264,False,Kick Sauber,False,9.0,33.866,35.705,43.347,,False,False,7235.735,23,Qatar Grand Prix
+ZHO,41.0,132.403,4.0,HARD,6.0,4,False,Kick Sauber,False,9.0,37.986,46.567,47.85,,False,False,7368.138,23,Qatar Grand Prix
+ZHO,42.0,139.983,4.0,HARD,7.0,41,False,Kick Sauber,False,9.0,46.092,44.936,48.955,,False,False,7508.121,23,Qatar Grand Prix
+ZHO,43.0,88.011,4.0,HARD,8.0,1,True,Kick Sauber,False,9.0,33.327,29.55,25.134,,False,False,7596.132,23,Qatar Grand Prix
+ZHO,44.0,86.299,4.0,HARD,9.0,1,True,Kick Sauber,False,9.0,32.458,28.997,24.844,,False,False,7682.431,23,Qatar Grand Prix
+ZHO,45.0,85.141,4.0,HARD,10.0,1,True,Kick Sauber,False,9.0,31.832,28.547,24.762,,False,False,7767.572,23,Qatar Grand Prix
+ZHO,46.0,85.067,4.0,HARD,11.0,1,True,Kick Sauber,False,8.0,31.614,28.571,24.882,,False,False,7852.639,23,Qatar Grand Prix
+ZHO,47.0,84.936,4.0,HARD,12.0,1,True,Kick Sauber,False,8.0,31.722,28.447,24.767,,False,False,7937.575,23,Qatar Grand Prix
+ZHO,48.0,84.906,4.0,HARD,13.0,1,True,Kick Sauber,False,8.0,31.647,28.406,24.853,,False,False,8022.481,23,Qatar Grand Prix
+ZHO,49.0,84.667,4.0,HARD,14.0,1,True,Kick Sauber,False,8.0,31.499,28.327,24.841,,False,False,8107.148,23,Qatar Grand Prix
+ZHO,50.0,84.428,4.0,HARD,15.0,1,True,Kick Sauber,False,8.0,31.437,28.311,24.68,,False,False,8191.576,23,Qatar Grand Prix
+ZHO,51.0,84.425,4.0,HARD,16.0,1,True,Kick Sauber,False,8.0,31.414,28.346,24.665,,False,False,8276.001,23,Qatar Grand Prix
+ZHO,52.0,84.403,4.0,HARD,17.0,1,True,Kick Sauber,False,8.0,31.385,28.358,24.66,,False,False,8360.404,23,Qatar Grand Prix
+ZHO,53.0,84.294,4.0,HARD,18.0,1,True,Kick Sauber,False,8.0,31.396,28.314,24.584,,False,False,8444.698,23,Qatar Grand Prix
+ZHO,54.0,84.239,4.0,HARD,19.0,1,True,Kick Sauber,False,8.0,31.297,28.285,24.657,,False,False,8528.937,23,Qatar Grand Prix
+ZHO,55.0,84.038,4.0,HARD,20.0,1,True,Kick Sauber,False,8.0,31.227,28.2,24.611,,False,False,8612.975,23,Qatar Grand Prix
+ZHO,56.0,83.978,4.0,HARD,21.0,1,True,Kick Sauber,False,8.0,31.205,28.21,24.563,,False,False,8696.953,23,Qatar Grand Prix
+ZHO,57.0,83.889,4.0,HARD,22.0,1,True,Kick Sauber,False,8.0,31.204,28.217,24.468,,False,False,8780.842,23,Qatar Grand Prix
+HUL,1.0,165.271,1.0,HARD,1.0,124,False,Haas F1 Team,True,18.0,,45.701,56.009,,True,False,3455.43,23,Qatar Grand Prix
+HUL,2.0,127.072,2.0,HARD,1.0,4,False,Haas F1 Team,True,18.0,66.748,31.654,28.67,,False,True,3582.502,23,Qatar Grand Prix
+HUL,3.0,131.639,2.0,HARD,2.0,4,False,Haas F1 Team,True,18.0,37.621,42.994,51.024,,False,False,3714.141,23,Qatar Grand Prix
+HUL,4.0,126.08,2.0,HARD,3.0,41,False,Haas F1 Team,True,18.0,40.426,38.518,47.136,,False,False,3840.221,23,Qatar Grand Prix
+HUL,5.0,91.557,2.0,HARD,4.0,12,True,Haas F1 Team,True,16.0,33.581,30.913,27.063,,False,False,3931.778,23,Qatar Grand Prix
+HUL,6.0,90.682,2.0,HARD,5.0,1,True,Haas F1 Team,True,16.0,33.505,30.461,26.716,,False,False,4022.46,23,Qatar Grand Prix
+HUL,7.0,88.652,2.0,HARD,6.0,1,True,Haas F1 Team,True,16.0,32.643,29.827,26.182,,False,False,4111.112,23,Qatar Grand Prix
+HUL,8.0,88.418,2.0,HARD,7.0,1,True,Haas F1 Team,True,16.0,32.502,29.712,26.204,,False,False,4199.53,23,Qatar Grand Prix
+HUL,9.0,87.812,2.0,HARD,8.0,1,True,Haas F1 Team,True,16.0,32.529,29.559,25.724,,False,False,4287.342,23,Qatar Grand Prix
+HUL,10.0,88.286,2.0,HARD,9.0,1,True,Haas F1 Team,True,16.0,32.533,29.763,25.99,,False,False,4375.628,23,Qatar Grand Prix
+HUL,11.0,88.031,2.0,HARD,10.0,1,True,Haas F1 Team,True,16.0,32.582,29.596,25.853,,False,False,4463.659,23,Qatar Grand Prix
+HUL,12.0,88.229,2.0,HARD,11.0,1,True,Haas F1 Team,True,16.0,32.846,29.583,25.8,,False,False,4551.888,23,Qatar Grand Prix
+HUL,13.0,87.908,2.0,HARD,12.0,1,True,Haas F1 Team,True,16.0,32.614,29.596,25.698,,False,False,4639.796,23,Qatar Grand Prix
+HUL,14.0,87.442,2.0,HARD,13.0,1,True,Haas F1 Team,True,16.0,32.342,29.422,25.678,,False,False,4727.238,23,Qatar Grand Prix
+HUL,15.0,87.232,2.0,HARD,14.0,1,True,Haas F1 Team,True,16.0,32.499,29.349,25.384,,False,False,4814.47,23,Qatar Grand Prix
+HUL,16.0,86.897,2.0,HARD,15.0,1,True,Haas F1 Team,True,16.0,32.179,29.349,25.369,,False,False,4901.367,23,Qatar Grand Prix
+HUL,17.0,87.481,2.0,HARD,16.0,1,True,Haas F1 Team,True,16.0,32.462,29.582,25.437,,False,False,4988.848,23,Qatar Grand Prix
+HUL,18.0,87.808,2.0,HARD,17.0,1,True,Haas F1 Team,True,16.0,32.427,29.662,25.719,,False,False,5076.656,23,Qatar Grand Prix
+HUL,19.0,87.227,2.0,HARD,18.0,1,True,Haas F1 Team,True,16.0,32.315,29.352,25.56,,False,False,5163.883,23,Qatar Grand Prix
+HUL,20.0,87.237,2.0,HARD,19.0,1,True,Haas F1 Team,True,16.0,32.303,29.409,25.525,,False,False,5251.12,23,Qatar Grand Prix
+HUL,21.0,87.327,2.0,HARD,20.0,1,True,Haas F1 Team,True,16.0,32.394,29.443,25.49,,False,False,5338.447,23,Qatar Grand Prix
+HUL,22.0,87.214,2.0,HARD,21.0,1,True,Haas F1 Team,True,16.0,32.172,29.483,25.559,,False,False,5425.661,23,Qatar Grand Prix
+HUL,23.0,87.3,2.0,HARD,22.0,1,True,Haas F1 Team,True,16.0,32.384,29.348,25.568,,False,False,5512.961,23,Qatar Grand Prix
+HUL,24.0,87.021,2.0,HARD,23.0,1,True,Haas F1 Team,True,16.0,32.184,29.449,25.388,,False,False,5599.982,23,Qatar Grand Prix
+HUL,25.0,86.647,2.0,HARD,24.0,1,True,Haas F1 Team,True,15.0,32.153,29.234,25.26,,False,False,5686.629,23,Qatar Grand Prix
+HUL,26.0,86.568,2.0,HARD,25.0,1,True,Haas F1 Team,True,15.0,32.119,29.23,25.219,,False,False,5773.197,23,Qatar Grand Prix
+HUL,27.0,86.737,2.0,HARD,26.0,1,True,Haas F1 Team,True,15.0,32.149,29.316,25.272,,False,False,5859.934,23,Qatar Grand Prix
+HUL,28.0,86.235,2.0,HARD,27.0,1,True,Haas F1 Team,True,14.0,31.938,29.04,25.257,,False,False,5946.169,23,Qatar Grand Prix
+HUL,29.0,86.334,2.0,HARD,28.0,12,True,Haas F1 Team,True,14.0,31.932,29.268,25.134,,False,False,6032.503,23,Qatar Grand Prix
+HUL,30.0,86.595,2.0,HARD,29.0,1,True,Haas F1 Team,True,14.0,32.097,29.346,25.152,,False,False,6119.098,23,Qatar Grand Prix
+HUL,31.0,90.767,2.0,HARD,30.0,1,False,Haas F1 Team,True,15.0,31.925,29.309,29.533,,True,False,6209.865,23,Qatar Grand Prix
+HUL,32.0,106.841,3.0,MEDIUM,1.0,1,False,Haas F1 Team,True,16.0,53.481,28.362,24.998,,False,True,6316.706,23,Qatar Grand Prix
+HUL,33.0,85.767,3.0,MEDIUM,2.0,1,True,Haas F1 Team,True,16.0,32.106,28.536,25.125,,False,False,6402.473,23,Qatar Grand Prix
+HUL,34.0,94.689,3.0,MEDIUM,3.0,14,False,Haas F1 Team,True,16.0,31.782,28.736,34.171,,False,False,6497.162,23,Qatar Grand Prix
+HUL,35.0,118.789,3.0,MEDIUM,4.0,4,False,Haas F1 Team,True,15.0,43.62,40.474,34.695,,False,False,6615.951,23,Qatar Grand Prix
+HUL,36.0,116.135,3.0,MEDIUM,5.0,4,False,Haas F1 Team,True,14.0,37.49,42.059,36.586,,True,False,6732.086,23,Qatar Grand Prix
+HUL,37.0,119.627,4.0,MEDIUM,6.0,4,False,Haas F1 Team,False,14.0,50.074,31.828,37.725,,True,True,6851.713,23,Qatar Grand Prix
+HUL,38.0,144.972,5.0,MEDIUM,7.0,4,False,Haas F1 Team,False,14.0,62.078,39.474,43.42,,False,True,6996.685,23,Qatar Grand Prix
+HUL,39.0,127.982,5.0,MEDIUM,8.0,41,False,Haas F1 Team,False,13.0,44.33,43.88,39.772,,False,False,7124.667,23,Qatar Grand Prix
+HUL,40.0,,5.0,MEDIUM,9.0,1264,False,Haas F1 Team,False,,,,,,False,False,7274.667,23,Qatar Grand Prix
+LAW,1.0,133.331,1.0,MEDIUM,1.0,124,False,RB,True,14.0,,51.884,42.056,,False,False,3423.49,23,Qatar Grand Prix
+LAW,2.0,145.297,1.0,MEDIUM,2.0,4,False,RB,True,14.0,52.159,46.253,46.885,,False,False,3568.787,23,Qatar Grand Prix
+LAW,3.0,138.396,1.0,MEDIUM,3.0,4,False,RB,True,14.0,46.035,43.084,49.277,,False,False,3707.183,23,Qatar Grand Prix
+LAW,4.0,130.85,1.0,MEDIUM,4.0,41,False,RB,True,14.0,40.258,40.332,50.26,,False,False,3838.033,23,Qatar Grand Prix
+LAW,5.0,97.35,1.0,MEDIUM,5.0,12,True,RB,True,18.0,41.409,30.011,25.93,,False,False,3935.383,23,Qatar Grand Prix
+LAW,6.0,89.548,1.0,MEDIUM,6.0,1,True,RB,True,18.0,32.871,30.222,26.455,,False,False,4024.931,23,Qatar Grand Prix
+LAW,7.0,88.165,1.0,MEDIUM,7.0,1,True,RB,True,17.0,32.572,29.855,25.738,,False,False,4113.096,23,Qatar Grand Prix
+LAW,8.0,88.159,1.0,MEDIUM,8.0,1,True,RB,True,17.0,32.805,29.73,25.624,,False,False,4201.255,23,Qatar Grand Prix
+LAW,9.0,87.66,1.0,MEDIUM,9.0,1,True,RB,True,17.0,32.56,29.537,25.563,,False,False,4288.915,23,Qatar Grand Prix
+LAW,10.0,88.209,1.0,MEDIUM,10.0,1,True,RB,True,17.0,32.954,29.705,25.55,,False,False,4377.124,23,Qatar Grand Prix
+LAW,11.0,88.037,1.0,MEDIUM,11.0,1,True,RB,True,17.0,32.773,29.68,25.584,,False,False,4465.161,23,Qatar Grand Prix
+LAW,12.0,88.11,1.0,MEDIUM,12.0,1,True,RB,True,17.0,32.697,29.903,25.51,,False,False,4553.271,23,Qatar Grand Prix
+LAW,13.0,88.275,1.0,MEDIUM,13.0,1,True,RB,True,17.0,32.963,29.714,25.598,,False,False,4641.546,23,Qatar Grand Prix
+LAW,14.0,87.703,1.0,MEDIUM,14.0,1,True,RB,True,17.0,32.774,29.518,25.411,,False,False,4729.249,23,Qatar Grand Prix
+LAW,15.0,87.692,1.0,MEDIUM,15.0,1,True,RB,True,17.0,32.924,29.44,25.328,,False,False,4816.941,23,Qatar Grand Prix
+LAW,16.0,87.514,1.0,MEDIUM,16.0,1,True,RB,True,17.0,32.646,29.544,25.324,,False,False,4904.455,23,Qatar Grand Prix
+LAW,17.0,87.411,1.0,MEDIUM,17.0,1,True,RB,True,17.0,32.509,29.549,25.353,,False,False,4991.866,23,Qatar Grand Prix
+LAW,18.0,87.362,1.0,MEDIUM,18.0,1,True,RB,True,17.0,32.616,29.493,25.253,,False,False,5079.228,23,Qatar Grand Prix
+LAW,19.0,87.288,1.0,MEDIUM,19.0,1,True,RB,True,17.0,32.561,29.469,25.258,,False,False,5166.516,23,Qatar Grand Prix
+LAW,20.0,87.111,1.0,MEDIUM,20.0,1,True,RB,True,17.0,32.526,29.382,25.203,,False,False,5253.627,23,Qatar Grand Prix
+LAW,21.0,87.143,1.0,MEDIUM,21.0,1,True,RB,True,17.0,32.538,29.302,25.303,,False,False,5340.77,23,Qatar Grand Prix
+LAW,22.0,87.107,1.0,MEDIUM,22.0,1,True,RB,True,17.0,32.501,29.32,25.286,,False,False,5427.877,23,Qatar Grand Prix
+LAW,23.0,86.886,1.0,MEDIUM,23.0,1,True,RB,True,17.0,32.441,29.254,25.191,,False,False,5514.763,23,Qatar Grand Prix
+LAW,24.0,87.019,1.0,MEDIUM,24.0,1,True,RB,True,17.0,32.402,29.347,25.27,,False,False,5601.782,23,Qatar Grand Prix
+LAW,25.0,87.045,1.0,MEDIUM,25.0,1,True,RB,True,16.0,32.486,29.31,25.249,,False,False,5688.827,23,Qatar Grand Prix
+LAW,26.0,86.915,1.0,MEDIUM,26.0,1,True,RB,True,16.0,32.454,29.289,25.172,,False,False,5775.742,23,Qatar Grand Prix
+LAW,27.0,86.56,1.0,MEDIUM,27.0,1,True,RB,True,16.0,32.247,29.162,25.151,,False,False,5862.302,23,Qatar Grand Prix
+LAW,28.0,86.533,1.0,MEDIUM,28.0,1,True,RB,True,15.0,32.184,29.167,25.182,,False,False,5948.835,23,Qatar Grand Prix
+LAW,29.0,86.446,1.0,MEDIUM,29.0,12,True,RB,True,15.0,32.275,29.081,25.09,,False,False,6035.281,23,Qatar Grand Prix
+LAW,30.0,86.642,1.0,MEDIUM,30.0,1,True,RB,True,15.0,32.288,29.243,25.111,,False,False,6121.923,23,Qatar Grand Prix
+LAW,31.0,86.242,1.0,MEDIUM,31.0,1,True,RB,True,14.0,32.084,29.079,25.079,,False,False,6208.165,23,Qatar Grand Prix
+LAW,32.0,86.264,1.0,MEDIUM,32.0,1,True,RB,True,14.0,32.071,29.171,25.022,,False,False,6294.429,23,Qatar Grand Prix
+LAW,33.0,86.219,1.0,MEDIUM,33.0,1,True,RB,True,14.0,32.218,29.019,24.982,,False,False,6380.648,23,Qatar Grand Prix
+LAW,34.0,86.194,1.0,MEDIUM,34.0,1,True,RB,True,13.0,32.022,29.068,25.104,,False,False,6466.842,23,Qatar Grand Prix
+LAW,35.0,123.205,1.0,MEDIUM,35.0,14,False,RB,True,14.0,46.075,38.762,38.368,,True,False,6590.047,23,Qatar Grand Prix
+LAW,36.0,159.436,2.0,HARD,1.0,4,False,RB,True,15.0,81.564,39.554,38.318,,True,True,6749.483,23,Qatar Grand Prix
+LAW,37.0,115.739,3.0,HARD,2.0,4,False,RB,False,15.0,52.658,31.361,31.72,,True,True,6865.222,23,Qatar Grand Prix
+LAW,38.0,134.297,4.0,HARD,3.0,4,False,RB,False,15.0,55.613,34.698,43.986,,False,True,6999.519,23,Qatar Grand Prix
+LAW,39.0,125.703,4.0,HARD,4.0,41,False,RB,False,14.0,42.831,44.225,38.647,,False,False,7125.222,23,Qatar Grand Prix
+LAW,40.0,120.647,4.0,HARD,5.0,1264,False,RB,False,15.0,34.24,40.235,46.172,,True,False,7245.869,23,Qatar Grand Prix
+LAW,41.0,135.917,5.0,SOFT,1.0,4,False,RB,True,15.0,64.095,31.536,40.286,,False,True,7381.786,23,Qatar Grand Prix
+LAW,42.0,128.759,5.0,SOFT,2.0,41,False,RB,True,15.0,42.427,42.278,44.054,,False,False,7510.545,23,Qatar Grand Prix
+LAW,43.0,89.07,5.0,SOFT,3.0,1,True,RB,True,15.0,33.678,30.008,25.384,,False,False,7599.615,23,Qatar Grand Prix
+LAW,44.0,87.6,5.0,SOFT,4.0,1,True,RB,True,15.0,33.126,29.255,25.219,,False,False,7687.215,23,Qatar Grand Prix
+LAW,45.0,86.207,5.0,SOFT,5.0,1,True,RB,True,15.0,32.096,29.144,24.967,,False,False,7773.422,23,Qatar Grand Prix
+LAW,46.0,86.076,5.0,SOFT,6.0,1,True,RB,True,14.0,31.999,29.18,24.897,,False,False,7859.498,23,Qatar Grand Prix
+LAW,47.0,86.424,5.0,SOFT,7.0,1,True,RB,True,13.0,32.211,29.244,24.969,,False,False,7945.922,23,Qatar Grand Prix
+LAW,48.0,86.369,5.0,SOFT,8.0,1,True,RB,True,13.0,32.253,29.162,24.954,,False,False,8032.291,23,Qatar Grand Prix
+LAW,49.0,86.753,5.0,SOFT,9.0,1,True,RB,True,13.0,32.391,29.27,25.092,,False,False,8119.044,23,Qatar Grand Prix
+LAW,50.0,87.637,5.0,SOFT,10.0,1,True,RB,True,13.0,32.82,29.545,25.272,,False,False,8206.681,23,Qatar Grand Prix
+LAW,51.0,88.245,5.0,SOFT,11.0,1,True,RB,True,14.0,33.429,29.504,25.312,,False,False,8294.926,23,Qatar Grand Prix
+LAW,52.0,87.612,5.0,SOFT,12.0,1,True,RB,True,14.0,33.05,29.374,25.188,,False,False,8382.538,23,Qatar Grand Prix
+LAW,53.0,87.521,5.0,SOFT,13.0,1,True,RB,True,14.0,33.036,29.22,25.265,,False,False,8470.059,23,Qatar Grand Prix
+LAW,54.0,87.69,5.0,SOFT,14.0,1,True,RB,True,14.0,33.136,29.133,25.421,,False,False,8557.749,23,Qatar Grand Prix
+LAW,55.0,87.54,5.0,SOFT,15.0,1,True,RB,True,15.0,33.126,29.318,25.096,,False,False,8645.289,23,Qatar Grand Prix
+LAW,56.0,86.327,5.0,SOFT,16.0,1,True,RB,True,14.0,32.36,29.016,24.951,,False,False,8731.616,23,Qatar Grand Prix
+LAW,57.0,86.522,5.0,SOFT,17.0,1,True,RB,True,14.0,32.343,29.107,25.072,,False,False,8818.138,23,Qatar Grand Prix
+OCO,1.0,,1.0,MEDIUM,1.0,124,False,Alpine,True,,,,,,False,False,3401.503,23,Qatar Grand Prix
+NOR,1.0,113.635,1.0,MEDIUM,1.0,124,False,McLaren,True,2.0,,31.553,46.998,,False,False,3403.794,23,Qatar Grand Prix
+NOR,2.0,141.28,1.0,MEDIUM,2.0,4,False,McLaren,True,2.0,55.171,43.196,42.913,,False,False,3545.074,23,Qatar Grand Prix
+NOR,3.0,137.622,1.0,MEDIUM,3.0,4,False,McLaren,True,2.0,50.544,42.564,44.514,,False,False,3682.696,23,Qatar Grand Prix
+NOR,4.0,151.036,1.0,MEDIUM,4.0,41,False,McLaren,True,2.0,46.019,42.875,62.142,,False,False,3833.732,23,Qatar Grand Prix
+NOR,5.0,87.175,1.0,MEDIUM,5.0,12,True,McLaren,True,2.0,32.606,29.194,25.375,,False,False,3920.907,23,Qatar Grand Prix
+NOR,6.0,86.683,1.0,MEDIUM,6.0,1,True,McLaren,True,2.0,32.328,29.196,25.159,,False,False,4007.59,23,Qatar Grand Prix
+NOR,7.0,86.5,1.0,MEDIUM,7.0,1,True,McLaren,True,2.0,32.222,29.139,25.139,,False,False,4094.09,23,Qatar Grand Prix
+NOR,8.0,86.668,1.0,MEDIUM,8.0,1,True,McLaren,True,2.0,32.481,29.203,24.984,,False,False,4180.758,23,Qatar Grand Prix
+NOR,9.0,86.344,1.0,MEDIUM,9.0,1,True,McLaren,True,2.0,32.214,29.119,25.011,,False,False,4267.102,23,Qatar Grand Prix
+NOR,10.0,85.972,1.0,MEDIUM,10.0,1,True,McLaren,True,2.0,32.027,29.102,24.843,,False,False,4353.074,23,Qatar Grand Prix
+NOR,11.0,85.985,1.0,MEDIUM,11.0,1,True,McLaren,True,2.0,32.054,29.043,24.888,,False,False,4439.059,23,Qatar Grand Prix
+NOR,12.0,85.813,1.0,MEDIUM,12.0,1,True,McLaren,True,2.0,31.955,29.104,24.754,,False,False,4524.872,23,Qatar Grand Prix
+NOR,13.0,85.794,1.0,MEDIUM,13.0,1,True,McLaren,True,2.0,32.005,29.005,24.784,,False,False,4610.666,23,Qatar Grand Prix
+NOR,14.0,85.924,1.0,MEDIUM,14.0,1,True,McLaren,True,2.0,32.036,29.092,24.796,,False,False,4696.59,23,Qatar Grand Prix
+NOR,15.0,85.535,1.0,MEDIUM,15.0,1,True,McLaren,True,2.0,31.909,28.989,24.637,,False,False,4782.125,23,Qatar Grand Prix
+NOR,16.0,85.508,1.0,MEDIUM,16.0,1,True,McLaren,True,2.0,31.863,28.986,24.659,,False,False,4867.633,23,Qatar Grand Prix
+NOR,17.0,85.39,1.0,MEDIUM,17.0,1,True,McLaren,True,2.0,31.821,28.938,24.631,,False,False,4953.023,23,Qatar Grand Prix
+NOR,18.0,85.253,1.0,MEDIUM,18.0,1,True,McLaren,True,2.0,31.834,28.832,24.587,,False,False,5038.276,23,Qatar Grand Prix
+NOR,19.0,85.276,1.0,MEDIUM,19.0,1,True,McLaren,True,2.0,31.838,28.909,24.529,,False,False,5123.552,23,Qatar Grand Prix
+NOR,20.0,85.017,1.0,MEDIUM,20.0,1,True,McLaren,True,2.0,31.692,28.834,24.491,,False,False,5208.569,23,Qatar Grand Prix
+NOR,21.0,84.997,1.0,MEDIUM,21.0,1,True,McLaren,True,2.0,31.658,28.847,24.492,,False,False,5293.566,23,Qatar Grand Prix
+NOR,22.0,84.865,1.0,MEDIUM,22.0,1,True,McLaren,True,2.0,31.62,28.839,24.406,,False,False,5378.431,23,Qatar Grand Prix
+NOR,23.0,84.977,1.0,MEDIUM,23.0,1,True,McLaren,True,2.0,31.606,28.925,24.446,,False,False,5463.408,23,Qatar Grand Prix
+NOR,24.0,84.67,1.0,MEDIUM,24.0,1,True,McLaren,True,2.0,31.585,28.692,24.393,,False,False,5548.078,23,Qatar Grand Prix
+NOR,25.0,84.721,1.0,MEDIUM,25.0,1,True,McLaren,True,2.0,31.64,28.745,24.336,,False,False,5632.799,23,Qatar Grand Prix
+NOR,26.0,84.537,1.0,MEDIUM,26.0,1,True,McLaren,True,2.0,31.558,28.677,24.302,,False,False,5717.336,23,Qatar Grand Prix
+NOR,27.0,84.861,1.0,MEDIUM,27.0,1,True,McLaren,True,2.0,31.626,28.798,24.437,,False,False,5802.197,23,Qatar Grand Prix
+NOR,28.0,84.751,1.0,MEDIUM,28.0,1,True,McLaren,True,2.0,31.576,28.672,24.503,,False,False,5886.948,23,Qatar Grand Prix
+NOR,29.0,84.915,1.0,MEDIUM,29.0,1,True,McLaren,True,2.0,31.604,28.754,24.557,,False,False,5971.863,23,Qatar Grand Prix
+NOR,30.0,84.556,1.0,MEDIUM,30.0,12,True,McLaren,True,2.0,31.432,28.743,24.381,,False,False,6056.419,23,Qatar Grand Prix
+NOR,31.0,84.794,1.0,MEDIUM,31.0,1,True,McLaren,True,2.0,31.621,28.731,24.442,,False,False,6141.213,23,Qatar Grand Prix
+NOR,32.0,84.65,1.0,MEDIUM,32.0,1,True,McLaren,True,2.0,31.481,28.725,24.444,,False,False,6225.863,23,Qatar Grand Prix
+NOR,33.0,84.96,1.0,MEDIUM,33.0,1,True,McLaren,True,2.0,31.761,28.812,24.387,,False,False,6310.823,23,Qatar Grand Prix
+NOR,34.0,84.562,1.0,MEDIUM,34.0,1,True,McLaren,True,2.0,31.516,28.655,24.391,,False,False,6395.385,23,Qatar Grand Prix
+NOR,35.0,93.654,1.0,MEDIUM,35.0,14,False,McLaren,True,2.0,31.427,28.729,33.498,,True,False,6489.039,23,Qatar Grand Prix
+NOR,36.0,170.429,2.0,HARD,1.0,4,False,McLaren,True,2.0,65.395,51.669,53.365,,True,True,6659.468,23,Qatar Grand Prix
+NOR,37.0,167.29,3.0,HARD,2.0,4,False,McLaren,False,2.0,71.133,44.823,51.334,,True,True,6826.758,23,Qatar Grand Prix
+NOR,38.0,149.162,4.0,HARD,3.0,4,False,McLaren,False,2.0,62.291,44.015,42.856,,False,True,6975.92,23,Qatar Grand Prix
+NOR,39.0,144.447,4.0,HARD,4.0,41,False,McLaren,False,2.0,50.969,42.157,51.321,,False,False,7120.367,23,Qatar Grand Prix
+NOR,40.0,99.808,4.0,HARD,5.0,1264,False,McLaren,False,2.0,33.17,28.727,37.911,,False,False,7220.175,23,Qatar Grand Prix
+NOR,41.0,137.19,4.0,HARD,6.0,4,False,McLaren,False,2.0,45.925,45.596,45.669,,False,False,7357.365,23,Qatar Grand Prix
+NOR,42.0,148.012,4.0,HARD,7.0,41,False,McLaren,False,2.0,48.081,43.055,56.876,,False,False,7505.377,23,Qatar Grand Prix
+NOR,43.0,84.627,4.0,HARD,8.0,1,True,McLaren,False,2.0,31.937,28.445,24.245,,False,False,7590.004,23,Qatar Grand Prix
+NOR,44.0,83.473,4.0,HARD,9.0,1,True,McLaren,False,2.0,31.225,28.19,24.058,,False,False,7673.477,23,Qatar Grand Prix
+NOR,45.0,87.666,4.0,HARD,10.0,1,False,McLaren,False,4.0,31.138,28.243,28.285,,True,False,7761.143,23,Qatar Grand Prix
+NOR,46.0,112.677,5.0,HARD,11.0,1,False,McLaren,False,15.0,60.322,28.177,24.178,,False,True,7873.82,23,Qatar Grand Prix
+NOR,47.0,82.936,5.0,HARD,12.0,1,True,McLaren,False,15.0,30.942,27.98,24.014,,False,False,7956.756,23,Qatar Grand Prix
+NOR,48.0,82.64,5.0,HARD,13.0,1,True,McLaren,False,14.0,30.884,27.885,23.871,,False,False,8039.396,23,Qatar Grand Prix
+NOR,49.0,82.822,5.0,HARD,14.0,1,True,McLaren,False,14.0,30.881,28.067,23.874,,False,False,8122.218,23,Qatar Grand Prix
+NOR,50.0,84.692,5.0,HARD,15.0,1,True,McLaren,False,14.0,30.997,28.603,25.092,,False,False,8206.91,23,Qatar Grand Prix
+NOR,51.0,85.197,5.0,HARD,16.0,1,True,McLaren,False,13.0,30.703,29.191,25.303,,False,False,8292.107,23,Qatar Grand Prix
+NOR,52.0,82.928,5.0,HARD,17.0,1,True,McLaren,False,12.0,30.535,28.128,24.265,,False,False,8375.035,23,Qatar Grand Prix
+NOR,53.0,85.089,5.0,HARD,18.0,1,True,McLaren,False,11.0,32.08,28.46,24.549,,False,False,8460.124,23,Qatar Grand Prix
+NOR,54.0,82.471,5.0,HARD,19.0,1,True,McLaren,False,10.0,30.454,27.991,24.026,,False,False,8542.595,23,Qatar Grand Prix
+NOR,55.0,82.994,5.0,HARD,20.0,1,True,McLaren,False,10.0,31.112,28.034,23.848,,False,False,8625.589,23,Qatar Grand Prix
+NOR,56.0,82.384,5.0,HARD,21.0,1,True,McLaren,False,10.0,30.63,27.959,23.795,,False,False,8707.973,23,Qatar Grand Prix
+NOR,57.0,83.271,5.0,HARD,22.0,1,True,McLaren,False,10.0,31.181,28.239,23.851,,False,False,8791.244,23,Qatar Grand Prix
+COL,1.0,,1.0,MEDIUM,1.0,124,False,Williams,True,,,,,,False,False,3401.503,23,Qatar Grand Prix
+HAM,1.0,124.279,1.0,MEDIUM,1.0,124,False,Mercedes,True,9.0,,46.494,39.496,,False,False,3414.438,23,Qatar Grand Prix
+HAM,2.0,144.03,1.0,MEDIUM,2.0,4,False,Mercedes,True,9.0,51.611,47.411,45.008,,False,False,3558.468,23,Qatar Grand Prix
+HAM,3.0,138.93,1.0,MEDIUM,3.0,4,False,Mercedes,True,9.0,48.143,42.042,48.745,,False,False,3697.398,23,Qatar Grand Prix
+HAM,4.0,139.017,1.0,MEDIUM,4.0,41,False,Mercedes,True,9.0,42.839,41.547,54.631,,False,False,3836.415,23,Qatar Grand Prix
+HAM,5.0,89.473,1.0,MEDIUM,5.0,12,True,Mercedes,True,8.0,33.659,29.868,25.946,,False,False,3925.888,23,Qatar Grand Prix
+HAM,6.0,88.084,1.0,MEDIUM,6.0,1,True,Mercedes,True,8.0,32.97,29.682,25.432,,False,False,4013.972,23,Qatar Grand Prix
+HAM,7.0,87.872,1.0,MEDIUM,7.0,1,True,Mercedes,True,8.0,32.693,29.58,25.599,,False,False,4101.844,23,Qatar Grand Prix
+HAM,8.0,87.043,1.0,MEDIUM,8.0,1,True,Mercedes,True,8.0,32.433,29.315,25.295,,False,False,4188.887,23,Qatar Grand Prix
+HAM,9.0,86.983,1.0,MEDIUM,9.0,1,True,Mercedes,True,8.0,32.145,29.622,25.216,,False,False,4275.87,23,Qatar Grand Prix
+HAM,10.0,87.154,1.0,MEDIUM,10.0,1,True,Mercedes,True,8.0,32.267,29.502,25.385,,False,False,4363.024,23,Qatar Grand Prix
+HAM,11.0,86.816,1.0,MEDIUM,11.0,1,True,Mercedes,True,8.0,32.191,29.467,25.158,,False,False,4449.84,23,Qatar Grand Prix
+HAM,12.0,86.532,1.0,MEDIUM,12.0,1,True,Mercedes,True,8.0,32.059,29.376,25.097,,False,False,4536.372,23,Qatar Grand Prix
+HAM,13.0,86.514,1.0,MEDIUM,13.0,1,True,Mercedes,True,8.0,32.117,29.438,24.959,,False,False,4622.886,23,Qatar Grand Prix
+HAM,14.0,86.558,1.0,MEDIUM,14.0,1,True,Mercedes,True,8.0,32.092,29.437,25.029,,False,False,4709.444,23,Qatar Grand Prix
+HAM,15.0,86.8,1.0,MEDIUM,15.0,1,True,Mercedes,True,8.0,32.072,29.467,25.261,,False,False,4796.244,23,Qatar Grand Prix
+HAM,16.0,86.585,1.0,MEDIUM,16.0,1,True,Mercedes,True,8.0,32.107,29.331,25.147,,False,False,4882.829,23,Qatar Grand Prix
+HAM,17.0,86.276,1.0,MEDIUM,17.0,1,True,Mercedes,True,8.0,32.009,29.246,25.021,,False,False,4969.105,23,Qatar Grand Prix
+HAM,18.0,86.47,1.0,MEDIUM,18.0,1,True,Mercedes,True,8.0,32.041,29.353,25.076,,False,False,5055.575,23,Qatar Grand Prix
+HAM,19.0,86.323,1.0,MEDIUM,19.0,1,True,Mercedes,True,8.0,32.121,29.213,24.989,,False,False,5141.898,23,Qatar Grand Prix
+HAM,20.0,86.383,1.0,MEDIUM,20.0,1,True,Mercedes,True,8.0,32.067,29.381,24.935,,False,False,5228.281,23,Qatar Grand Prix
+HAM,21.0,86.026,1.0,MEDIUM,21.0,1,True,Mercedes,True,8.0,32.018,29.17,24.838,,False,False,5314.307,23,Qatar Grand Prix
+HAM,22.0,86.189,1.0,MEDIUM,22.0,1,True,Mercedes,True,8.0,32.052,29.229,24.908,,False,False,5400.496,23,Qatar Grand Prix
+HAM,23.0,85.618,1.0,MEDIUM,23.0,1,True,Mercedes,True,8.0,31.914,29.031,24.673,,False,False,5486.114,23,Qatar Grand Prix
+HAM,24.0,85.734,1.0,MEDIUM,24.0,1,True,Mercedes,True,7.0,31.863,29.082,24.789,,False,False,5571.848,23,Qatar Grand Prix
+HAM,25.0,85.378,1.0,MEDIUM,25.0,1,True,Mercedes,True,7.0,31.727,28.943,24.708,,False,False,5657.226,23,Qatar Grand Prix
+HAM,26.0,85.326,1.0,MEDIUM,26.0,1,True,Mercedes,True,7.0,31.71,28.933,24.683,,False,False,5742.552,23,Qatar Grand Prix
+HAM,27.0,85.227,1.0,MEDIUM,27.0,1,True,Mercedes,True,7.0,31.702,28.875,24.65,,False,False,5827.779,23,Qatar Grand Prix
+HAM,28.0,86.598,1.0,MEDIUM,28.0,1,True,Mercedes,True,7.0,32.704,28.995,24.899,,False,False,5914.377,23,Qatar Grand Prix
+HAM,29.0,85.25,1.0,MEDIUM,29.0,12,True,Mercedes,True,7.0,31.763,28.813,24.674,,False,False,5999.627,23,Qatar Grand Prix
+HAM,30.0,85.396,1.0,MEDIUM,30.0,1,True,Mercedes,True,7.0,31.819,28.9,24.677,,False,False,6085.023,23,Qatar Grand Prix
+HAM,31.0,85.272,1.0,MEDIUM,31.0,1,True,Mercedes,True,7.0,31.677,28.965,24.63,,False,False,6170.295,23,Qatar Grand Prix
+HAM,32.0,85.253,1.0,MEDIUM,32.0,1,True,Mercedes,True,7.0,31.687,28.958,24.608,,False,False,6255.548,23,Qatar Grand Prix
+HAM,33.0,85.713,1.0,MEDIUM,33.0,1,True,Mercedes,True,7.0,31.663,28.928,25.122,,False,False,6341.261,23,Qatar Grand Prix
+HAM,34.0,136.781,1.0,MEDIUM,34.0,14,False,Mercedes,True,15.0,40.347,46.102,50.332,,True,False,6478.042,23,Qatar Grand Prix
+HAM,35.0,177.756,2.0,HARD,1.0,4,False,Mercedes,False,16.0,73.43,50.512,53.814,,True,True,6655.798,23,Qatar Grand Prix
+HAM,36.0,169.975,3.0,HARD,2.0,4,False,Mercedes,False,16.0,73.376,45.48,51.119,,True,True,6825.773,23,Qatar Grand Prix
+HAM,37.0,120.881,4.0,HARD,3.0,4,False,Mercedes,False,16.0,62.478,32.557,25.846,,False,True,6946.654,23,Qatar Grand Prix
+HAM,38.0,86.953,4.0,HARD,4.0,4,False,Mercedes,False,16.0,32.774,29.015,25.164,,False,False,7033.607,23,Qatar Grand Prix
+HAM,39.0,91.819,4.0,HARD,5.0,41,False,Mercedes,False,15.0,32.226,28.932,30.661,,False,False,7125.426,23,Qatar Grand Prix
+HAM,40.0,114.351,4.0,HARD,6.0,1264,False,Mercedes,False,12.0,33.017,40.299,41.035,,False,False,7239.777,23,Qatar Grand Prix
+HAM,41.0,134.586,4.0,HARD,7.0,4,False,Mercedes,False,12.0,38.011,45.973,50.602,,False,False,7374.363,23,Qatar Grand Prix
+HAM,42.0,135.024,4.0,HARD,8.0,41,False,Mercedes,False,12.0,43.191,43.801,48.032,,False,False,7509.387,23,Qatar Grand Prix
+HAM,43.0,89.654,4.0,HARD,9.0,1,True,Mercedes,False,14.0,34.499,29.826,25.329,,False,False,7599.041,23,Qatar Grand Prix
+HAM,44.0,87.093,4.0,HARD,10.0,1,True,Mercedes,False,14.0,32.745,29.283,25.065,,False,False,7686.134,23,Qatar Grand Prix
+HAM,45.0,85.28,4.0,HARD,11.0,1,True,Mercedes,False,13.0,31.495,28.884,24.901,,False,False,7771.414,23,Qatar Grand Prix
+HAM,46.0,84.726,4.0,HARD,12.0,1,True,Mercedes,False,11.0,31.421,28.698,24.607,,False,False,7856.14,23,Qatar Grand Prix
+HAM,47.0,89.954,4.0,HARD,13.0,1,False,Mercedes,False,14.0,31.759,29.013,29.182,,True,False,7946.094,23,Qatar Grand Prix
+HAM,48.0,102.41,5.0,HARD,14.0,1,False,Mercedes,False,15.0,48.261,29.158,24.991,,False,True,8048.504,23,Qatar Grand Prix
+HAM,49.0,85.096,5.0,HARD,15.0,1,True,Mercedes,False,15.0,31.532,28.559,25.005,,False,False,8133.6,23,Qatar Grand Prix
+HAM,50.0,84.806,5.0,HARD,16.0,1,True,Mercedes,False,15.0,31.317,28.642,24.847,,False,False,8218.406,23,Qatar Grand Prix
+HAM,51.0,84.462,5.0,HARD,17.0,1,True,Mercedes,False,15.0,31.512,28.45,24.5,,False,False,8302.868,23,Qatar Grand Prix
+HAM,52.0,83.865,5.0,HARD,18.0,1,True,Mercedes,False,15.0,31.225,28.381,24.259,,False,False,8386.733,23,Qatar Grand Prix
+HAM,53.0,84.044,5.0,HARD,19.0,1,True,Mercedes,False,15.0,31.207,28.464,24.373,,False,False,8470.777,23,Qatar Grand Prix
+HAM,54.0,87.079,5.0,HARD,20.0,1,True,Mercedes,False,15.0,32.662,29.469,24.948,,False,False,8557.856,23,Qatar Grand Prix
+HAM,55.0,84.25,5.0,HARD,21.0,1,True,Mercedes,False,13.0,31.124,28.558,24.568,,False,False,8642.106,23,Qatar Grand Prix
+HAM,56.0,84.412,5.0,HARD,22.0,1,True,Mercedes,False,12.0,31.396,28.447,24.569,,False,False,8726.518,23,Qatar Grand Prix
+HAM,57.0,85.086,5.0,HARD,23.0,1,True,Mercedes,False,12.0,31.586,28.563,24.937,,False,False,8811.604,23,Qatar Grand Prix
+SAI,1.0,119.394,1.0,MEDIUM,2.0,124,False,Ferrari,False,6.0,,41.664,40.914,,False,False,3409.553,23,Qatar Grand Prix
+SAI,2.0,143.307,1.0,MEDIUM,3.0,4,False,Ferrari,False,6.0,53.921,45.223,44.163,,False,False,3552.86,23,Qatar Grand Prix
+SAI,3.0,137.994,1.0,MEDIUM,4.0,4,False,Ferrari,False,6.0,49.393,41.451,47.15,,False,False,3690.854,23,Qatar Grand Prix
+SAI,4.0,144.487,1.0,MEDIUM,5.0,41,False,Ferrari,False,6.0,44.971,41.855,57.661,,False,False,3835.341,23,Qatar Grand Prix
+SAI,5.0,89.355,1.0,MEDIUM,6.0,12,True,Ferrari,False,6.0,33.498,29.982,25.875,,False,False,3924.696,23,Qatar Grand Prix
+SAI,6.0,87.634,1.0,MEDIUM,7.0,1,True,Ferrari,False,6.0,32.591,29.395,25.648,,False,False,4012.33,23,Qatar Grand Prix
+SAI,7.0,87.189,1.0,MEDIUM,8.0,1,True,Ferrari,False,6.0,32.244,29.346,25.599,,False,False,4099.519,23,Qatar Grand Prix
+SAI,8.0,87.142,1.0,MEDIUM,9.0,1,True,Ferrari,False,6.0,32.107,29.58,25.455,,False,False,4186.661,23,Qatar Grand Prix
+SAI,9.0,86.794,1.0,MEDIUM,10.0,1,True,Ferrari,False,6.0,32.027,29.377,25.39,,False,False,4273.455,23,Qatar Grand Prix
+SAI,10.0,86.466,1.0,MEDIUM,11.0,1,True,Ferrari,False,6.0,31.986,29.252,25.228,,False,False,4359.921,23,Qatar Grand Prix
+SAI,11.0,86.378,1.0,MEDIUM,12.0,1,True,Ferrari,False,6.0,31.831,29.296,25.251,,False,False,4446.299,23,Qatar Grand Prix
+SAI,12.0,86.223,1.0,MEDIUM,13.0,1,True,Ferrari,False,6.0,31.923,29.244,25.056,,False,False,4532.522,23,Qatar Grand Prix
+SAI,13.0,86.126,1.0,MEDIUM,14.0,1,True,Ferrari,False,6.0,31.788,29.262,25.076,,False,False,4618.648,23,Qatar Grand Prix
+SAI,14.0,86.19,1.0,MEDIUM,15.0,1,True,Ferrari,False,6.0,31.844,29.312,25.034,,False,False,4704.838,23,Qatar Grand Prix
+SAI,15.0,86.112,1.0,MEDIUM,16.0,1,True,Ferrari,False,6.0,31.962,29.179,24.971,,False,False,4790.95,23,Qatar Grand Prix
+SAI,16.0,85.887,1.0,MEDIUM,17.0,1,True,Ferrari,False,6.0,31.909,29.162,24.816,,False,False,4876.837,23,Qatar Grand Prix
+SAI,17.0,85.873,1.0,MEDIUM,18.0,1,True,Ferrari,False,6.0,31.863,29.202,24.808,,False,False,4962.71,23,Qatar Grand Prix
+SAI,18.0,85.568,1.0,MEDIUM,19.0,1,True,Ferrari,False,6.0,31.738,29.076,24.754,,False,False,5048.278,23,Qatar Grand Prix
+SAI,19.0,85.852,1.0,MEDIUM,20.0,1,True,Ferrari,False,6.0,31.777,29.199,24.876,,False,False,5134.13,23,Qatar Grand Prix
+SAI,20.0,85.559,1.0,MEDIUM,21.0,1,True,Ferrari,False,6.0,31.816,29.021,24.722,,False,False,5219.689,23,Qatar Grand Prix
+SAI,21.0,85.369,1.0,MEDIUM,22.0,1,True,Ferrari,False,6.0,31.672,28.997,24.7,,False,False,5305.058,23,Qatar Grand Prix
+SAI,22.0,85.353,1.0,MEDIUM,23.0,1,True,Ferrari,False,6.0,31.729,28.943,24.681,,False,False,5390.411,23,Qatar Grand Prix
+SAI,23.0,85.373,1.0,MEDIUM,24.0,1,True,Ferrari,False,6.0,31.756,28.958,24.659,,False,False,5475.784,23,Qatar Grand Prix
+SAI,24.0,85.279,1.0,MEDIUM,25.0,1,True,Ferrari,False,5.0,31.713,28.899,24.667,,False,False,5561.063,23,Qatar Grand Prix
+SAI,25.0,85.331,1.0,MEDIUM,26.0,1,True,Ferrari,False,5.0,31.82,28.982,24.529,,False,False,5646.394,23,Qatar Grand Prix
+SAI,26.0,85.13,1.0,MEDIUM,27.0,1,True,Ferrari,False,5.0,31.622,28.938,24.57,,False,False,5731.524,23,Qatar Grand Prix
+SAI,27.0,84.859,1.0,MEDIUM,28.0,1,True,Ferrari,False,5.0,31.534,28.8,24.525,,False,False,5816.383,23,Qatar Grand Prix
+SAI,28.0,85.144,1.0,MEDIUM,29.0,1,True,Ferrari,False,5.0,31.693,28.865,24.586,,False,False,5901.527,23,Qatar Grand Prix
+SAI,29.0,84.982,1.0,MEDIUM,30.0,12,True,Ferrari,False,5.0,31.495,29.03,24.457,,False,False,5986.509,23,Qatar Grand Prix
+SAI,30.0,85.235,1.0,MEDIUM,31.0,21,True,Ferrari,False,5.0,31.783,28.908,24.544,,False,False,6071.744,23,Qatar Grand Prix
+SAI,31.0,84.802,1.0,MEDIUM,32.0,1,True,Ferrari,False,5.0,31.531,28.839,24.432,,False,False,6156.546,23,Qatar Grand Prix
+SAI,32.0,84.885,1.0,MEDIUM,33.0,1,True,Ferrari,False,5.0,31.637,28.787,24.461,,False,False,6241.431,23,Qatar Grand Prix
+SAI,33.0,85.104,1.0,MEDIUM,34.0,1,True,Ferrari,False,5.0,31.401,28.698,25.005,,False,False,6326.535,23,Qatar Grand Prix
+SAI,34.0,107.696,1.0,MEDIUM,35.0,1,False,Ferrari,False,6.0,34.218,32.651,40.827,,True,False,6434.231,23,Qatar Grand Prix
+SAI,35.0,148.364,2.0,HARD,1.0,14,False,Ferrari,True,10.0,71.118,41.569,35.677,,False,True,6582.595,23,Qatar Grand Prix
+SAI,36.0,123.309,2.0,HARD,2.0,4,False,Ferrari,True,8.0,43.903,40.57,38.836,,True,False,6705.904,23,Qatar Grand Prix
+SAI,37.0,133.402,3.0,HARD,3.0,4,False,Ferrari,False,8.0,51.246,35.466,46.69,,True,True,6839.306,23,Qatar Grand Prix
+SAI,38.0,146.73,4.0,HARD,4.0,4,False,Ferrari,False,8.0,60.529,43.638,42.563,,False,True,6986.036,23,Qatar Grand Prix
+SAI,39.0,135.775,4.0,HARD,5.0,41,False,Ferrari,False,7.0,48.984,41.813,44.978,,False,False,7121.811,23,Qatar Grand Prix
+SAI,40.0,110.298,4.0,HARD,6.0,1264,False,Ferrari,False,7.0,34.222,32.581,43.495,,False,False,7232.109,23,Qatar Grand Prix
+SAI,41.0,133.053,4.0,HARD,7.0,4,False,Ferrari,False,7.0,39.37,46.628,47.055,,False,False,7365.162,23,Qatar Grand Prix
+SAI,42.0,142.05,4.0,HARD,8.0,41,False,Ferrari,False,7.0,46.27,45.331,50.449,,False,False,7507.212,23,Qatar Grand Prix
+SAI,43.0,87.686,4.0,HARD,9.0,1,True,Ferrari,False,7.0,33.276,29.527,24.883,,False,False,7594.898,23,Qatar Grand Prix
+SAI,44.0,85.236,4.0,HARD,10.0,1,True,Ferrari,False,7.0,31.838,28.886,24.512,,False,False,7680.134,23,Qatar Grand Prix
+SAI,45.0,84.607,4.0,HARD,11.0,1,True,Ferrari,False,7.0,31.617,28.598,24.392,,False,False,7764.741,23,Qatar Grand Prix
+SAI,46.0,84.17,4.0,HARD,12.0,1,True,Ferrari,False,6.0,31.379,28.537,24.254,,False,False,7848.911,23,Qatar Grand Prix
+SAI,47.0,84.445,4.0,HARD,13.0,1,True,Ferrari,False,6.0,31.475,28.665,24.305,,False,False,7933.356,23,Qatar Grand Prix
+SAI,48.0,84.094,4.0,HARD,14.0,1,True,Ferrari,False,6.0,31.316,28.513,24.265,,False,False,8017.45,23,Qatar Grand Prix
+SAI,49.0,83.89,4.0,HARD,15.0,1,True,Ferrari,False,6.0,31.125,28.561,24.204,,False,False,8101.34,23,Qatar Grand Prix
+SAI,50.0,83.858,4.0,HARD,16.0,1,True,Ferrari,False,6.0,31.088,28.615,24.155,,False,False,8185.198,23,Qatar Grand Prix
+SAI,51.0,84.922,4.0,HARD,17.0,1,True,Ferrari,False,6.0,31.148,28.477,25.297,,False,False,8270.12,23,Qatar Grand Prix
+SAI,52.0,83.465,4.0,HARD,18.0,1,True,Ferrari,False,6.0,31.095,28.401,23.969,,False,False,8353.585,23,Qatar Grand Prix
+SAI,53.0,83.62,4.0,HARD,19.0,1,True,Ferrari,False,6.0,31.118,28.38,24.122,,False,False,8437.205,23,Qatar Grand Prix
+SAI,54.0,83.745,4.0,HARD,20.0,1,True,Ferrari,False,6.0,31.066,28.556,24.123,,False,False,8520.95,23,Qatar Grand Prix
+SAI,55.0,84.559,4.0,HARD,21.0,1,True,Ferrari,False,6.0,31.654,28.669,24.236,,False,False,8605.509,23,Qatar Grand Prix
+SAI,56.0,83.544,4.0,HARD,22.0,1,True,Ferrari,False,6.0,31.024,28.489,24.031,,False,False,8689.053,23,Qatar Grand Prix
+SAI,57.0,83.905,4.0,HARD,23.0,1,True,Ferrari,False,6.0,31.154,28.709,24.042,,False,False,8772.958,23,Qatar Grand Prix
+RUS,1.0,115.631,1.0,MEDIUM,2.0,124,False,Mercedes,False,3.0,,35.146,45.047,,False,False,3405.79,23,Qatar Grand Prix
+RUS,2.0,141.375,1.0,MEDIUM,3.0,4,False,Mercedes,False,3.0,54.918,43.501,42.956,,False,False,3547.165,23,Qatar Grand Prix
+RUS,3.0,137.726,1.0,MEDIUM,4.0,4,False,Mercedes,False,3.0,50.889,42.08,44.757,,False,False,3684.891,23,Qatar Grand Prix
+RUS,4.0,149.191,1.0,MEDIUM,5.0,41,False,Mercedes,False,3.0,46.522,42.581,60.088,,False,False,3834.082,23,Qatar Grand Prix
+RUS,5.0,87.948,1.0,MEDIUM,6.0,12,True,Mercedes,False,3.0,32.967,29.545,25.436,,False,False,3922.03,23,Qatar Grand Prix
+RUS,6.0,86.797,1.0,MEDIUM,7.0,1,True,Mercedes,False,3.0,32.451,29.125,25.221,,False,False,4008.827,23,Qatar Grand Prix
+RUS,7.0,86.561,1.0,MEDIUM,8.0,1,True,Mercedes,False,3.0,32.284,29.243,25.034,,False,False,4095.388,23,Qatar Grand Prix
+RUS,8.0,86.433,1.0,MEDIUM,9.0,1,True,Mercedes,False,3.0,32.234,29.171,25.028,,False,False,4181.821,23,Qatar Grand Prix
+RUS,9.0,86.498,1.0,MEDIUM,10.0,1,True,Mercedes,False,3.0,32.254,29.284,24.96,,False,False,4268.319,23,Qatar Grand Prix
+RUS,10.0,86.274,1.0,MEDIUM,11.0,1,True,Mercedes,False,3.0,32.098,29.229,24.947,,False,False,4354.593,23,Qatar Grand Prix
+RUS,11.0,86.214,1.0,MEDIUM,12.0,1,True,Mercedes,False,3.0,32.072,29.302,24.84,,False,False,4440.807,23,Qatar Grand Prix
+RUS,12.0,85.989,1.0,MEDIUM,13.0,1,True,Mercedes,False,3.0,32.066,29.146,24.777,,False,False,4526.796,23,Qatar Grand Prix
+RUS,13.0,86.182,1.0,MEDIUM,14.0,1,True,Mercedes,False,3.0,32.047,29.205,24.93,,False,False,4612.978,23,Qatar Grand Prix
+RUS,14.0,86.24,1.0,MEDIUM,15.0,1,True,Mercedes,False,3.0,32.109,29.222,24.909,,False,False,4699.218,23,Qatar Grand Prix
+RUS,15.0,85.958,1.0,MEDIUM,16.0,1,True,Mercedes,False,3.0,31.992,29.173,24.793,,False,False,4785.176,23,Qatar Grand Prix
+RUS,16.0,86.022,1.0,MEDIUM,17.0,1,True,Mercedes,False,3.0,31.894,29.209,24.919,,False,False,4871.198,23,Qatar Grand Prix
+RUS,17.0,85.749,1.0,MEDIUM,18.0,1,True,Mercedes,False,3.0,31.775,29.154,24.82,,False,False,4956.947,23,Qatar Grand Prix
+RUS,18.0,85.56,1.0,MEDIUM,19.0,1,True,Mercedes,False,3.0,31.739,29.093,24.728,,False,False,5042.507,23,Qatar Grand Prix
+RUS,19.0,85.546,1.0,MEDIUM,20.0,1,True,Mercedes,False,3.0,31.786,29.064,24.696,,False,False,5128.053,23,Qatar Grand Prix
+RUS,20.0,85.76,1.0,MEDIUM,21.0,1,True,Mercedes,False,3.0,31.789,29.138,24.833,,False,False,5213.813,23,Qatar Grand Prix
+RUS,21.0,85.721,1.0,MEDIUM,22.0,1,True,Mercedes,False,3.0,31.838,29.133,24.75,,False,False,5299.534,23,Qatar Grand Prix
+RUS,22.0,85.576,1.0,MEDIUM,23.0,1,True,Mercedes,False,3.0,31.808,29.077,24.691,,False,False,5385.11,23,Qatar Grand Prix
+RUS,23.0,89.591,1.0,MEDIUM,24.0,1,False,Mercedes,False,5.0,31.8,28.956,28.835,,True,False,5474.701,23,Qatar Grand Prix
+RUS,24.0,113.294,2.0,HARD,1.0,1,False,Mercedes,True,11.0,59.02,29.256,25.018,,False,True,5587.995,23,Qatar Grand Prix
+RUS,25.0,85.514,2.0,HARD,2.0,1,True,Mercedes,True,11.0,31.804,28.93,24.78,,False,False,5673.509,23,Qatar Grand Prix
+RUS,26.0,85.973,2.0,HARD,3.0,1,True,Mercedes,True,11.0,31.872,29.222,24.879,,False,False,5759.482,23,Qatar Grand Prix
+RUS,27.0,86.155,2.0,HARD,4.0,1,True,Mercedes,True,11.0,32.038,29.303,24.814,,False,False,5845.637,23,Qatar Grand Prix
+RUS,28.0,85.867,2.0,HARD,5.0,1,True,Mercedes,True,10.0,31.859,29.22,24.788,,False,False,5931.504,23,Qatar Grand Prix
+RUS,29.0,85.916,2.0,HARD,6.0,12,True,Mercedes,True,10.0,31.972,29.196,24.748,,False,False,6017.42,23,Qatar Grand Prix
+RUS,30.0,86.145,2.0,HARD,7.0,1,True,Mercedes,True,10.0,32.077,29.211,24.857,,False,False,6103.565,23,Qatar Grand Prix
+RUS,31.0,85.811,2.0,HARD,8.0,1,True,Mercedes,True,10.0,31.836,29.115,24.86,,False,False,6189.376,23,Qatar Grand Prix
+RUS,32.0,85.583,2.0,HARD,9.0,1,True,Mercedes,True,10.0,31.697,29.147,24.739,,False,False,6274.959,23,Qatar Grand Prix
+RUS,33.0,85.498,2.0,HARD,10.0,1,True,Mercedes,True,10.0,31.608,29.189,24.701,,False,False,6360.457,23,Qatar Grand Prix
+RUS,34.0,85.972,2.0,HARD,11.0,1,True,Mercedes,True,8.0,31.232,30.132,24.608,,False,False,6446.429,23,Qatar Grand Prix
+RUS,35.0,114.752,2.0,HARD,12.0,14,False,Mercedes,True,7.0,35.872,39.257,39.623,,True,False,6561.181,23,Qatar Grand Prix
+RUS,36.0,142.188,3.0,HARD,1.0,4,False,Mercedes,True,7.0,62.163,39.588,40.437,,True,True,6703.369,23,Qatar Grand Prix
+RUS,37.0,134.784,4.0,HARD,2.0,4,False,Mercedes,False,7.0,50.34,36.877,47.567,,True,True,6838.153,23,Qatar Grand Prix
+RUS,38.0,146.38,5.0,HARD,3.0,4,False,Mercedes,False,7.0,60.492,43.868,42.02,,False,True,6984.533,23,Qatar Grand Prix
+RUS,39.0,137.029,5.0,HARD,4.0,41,False,Mercedes,False,6.0,49.446,41.99,45.593,,False,False,7121.562,23,Qatar Grand Prix
+RUS,40.0,106.275,5.0,HARD,5.0,1264,False,Mercedes,False,5.0,33.698,30.382,42.195,,False,False,7227.837,23,Qatar Grand Prix
+RUS,41.0,134.121,5.0,HARD,6.0,4,False,Mercedes,False,5.0,41.951,45.826,46.344,,False,False,7361.958,23,Qatar Grand Prix
+RUS,42.0,144.716,5.0,HARD,7.0,41,False,Mercedes,False,5.0,47.571,43.926,53.219,,False,False,7506.674,23,Qatar Grand Prix
+RUS,43.0,86.371,5.0,HARD,8.0,1,True,Mercedes,False,5.0,32.674,29.058,24.639,,False,False,7593.045,23,Qatar Grand Prix
+RUS,44.0,84.644,5.0,HARD,9.0,1,True,Mercedes,False,5.0,31.79,28.416,24.438,,False,False,7677.689,23,Qatar Grand Prix
+RUS,45.0,84.01,5.0,HARD,10.0,1,True,Mercedes,False,5.0,31.379,28.392,24.239,,False,False,7761.699,23,Qatar Grand Prix
+RUS,46.0,83.614,5.0,HARD,11.0,1,True,Mercedes,False,4.0,31.129,28.36,24.125,,False,False,7845.313,23,Qatar Grand Prix
+RUS,47.0,83.889,5.0,HARD,12.0,1,True,Mercedes,False,4.0,31.078,28.546,24.265,,False,False,7929.202,23,Qatar Grand Prix
+RUS,48.0,83.796,5.0,HARD,13.0,1,True,Mercedes,False,4.0,31.13,28.478,24.188,,False,False,8012.998,23,Qatar Grand Prix
+RUS,49.0,83.744,5.0,HARD,14.0,1,True,Mercedes,False,4.0,31.074,28.528,24.142,,False,False,8096.742,23,Qatar Grand Prix
+RUS,50.0,83.355,5.0,HARD,15.0,1,True,Mercedes,False,4.0,30.933,28.364,24.058,,False,False,8180.097,23,Qatar Grand Prix
+RUS,51.0,83.495,5.0,HARD,16.0,1,True,Mercedes,False,4.0,31.098,28.376,24.021,,False,False,8263.592,23,Qatar Grand Prix
+RUS,52.0,83.549,5.0,HARD,17.0,1,True,Mercedes,False,4.0,31.041,28.448,24.06,,False,False,8347.141,23,Qatar Grand Prix
+RUS,53.0,83.681,5.0,HARD,18.0,1,True,Mercedes,False,4.0,31.141,28.435,24.105,,False,False,8430.822,23,Qatar Grand Prix
+RUS,54.0,83.56,5.0,HARD,19.0,1,True,Mercedes,False,4.0,31.119,28.292,24.149,,False,False,8514.382,23,Qatar Grand Prix
+RUS,55.0,83.361,5.0,HARD,20.0,1,True,Mercedes,False,4.0,30.987,28.306,24.068,,False,False,8597.743,23,Qatar Grand Prix
+RUS,56.0,83.366,5.0,HARD,21.0,1,True,Mercedes,False,4.0,30.966,28.328,24.072,,False,False,8681.109,23,Qatar Grand Prix
+RUS,57.0,83.477,5.0,HARD,22.0,1,True,Mercedes,False,4.0,30.99,28.26,24.227,,False,False,8764.586,23,Qatar Grand Prix
+BOT,1.0,132.082,1.0,MEDIUM,1.0,124,False,Kick Sauber,True,13.0,,51.555,41.613,,False,False,3422.241,23,Qatar Grand Prix
+BOT,2.0,144.412,1.0,MEDIUM,2.0,4,False,Kick Sauber,True,13.0,52.671,45.267,46.474,,False,False,3566.653,23,Qatar Grand Prix
+BOT,3.0,138.818,1.0,MEDIUM,3.0,4,False,Kick Sauber,True,13.0,46.965,42.727,49.126,,False,False,3705.471,23,Qatar Grand Prix
+BOT,4.0,132.447,1.0,MEDIUM,4.0,41,False,Kick Sauber,True,13.0,41.084,39.977,51.386,,False,False,3837.918,23,Qatar Grand Prix
+BOT,5.0,92.024,1.0,MEDIUM,5.0,12,True,Kick Sauber,True,14.0,35.119,30.124,26.781,,False,False,3929.942,23,Qatar Grand Prix
+BOT,6.0,89.4,1.0,MEDIUM,6.0,1,True,Kick Sauber,True,14.0,33.365,29.917,26.118,,False,False,4019.342,23,Qatar Grand Prix
+BOT,7.0,88.25,1.0,MEDIUM,7.0,1,True,Kick Sauber,True,14.0,32.623,29.687,25.94,,False,False,4107.592,23,Qatar Grand Prix
+BOT,8.0,88.501,1.0,MEDIUM,8.0,1,True,Kick Sauber,True,14.0,32.733,29.804,25.964,,False,False,4196.093,23,Qatar Grand Prix
+BOT,9.0,87.855,1.0,MEDIUM,9.0,1,True,Kick Sauber,True,14.0,32.574,29.47,25.811,,False,False,4283.948,23,Qatar Grand Prix
+BOT,10.0,87.717,1.0,MEDIUM,10.0,1,True,Kick Sauber,True,14.0,32.276,29.546,25.895,,False,False,4371.665,23,Qatar Grand Prix
+BOT,11.0,88.141,1.0,MEDIUM,11.0,1,True,Kick Sauber,True,14.0,32.575,29.654,25.912,,False,False,4459.806,23,Qatar Grand Prix
+BOT,12.0,87.842,1.0,MEDIUM,12.0,1,True,Kick Sauber,True,14.0,32.415,29.669,25.758,,False,False,4547.648,23,Qatar Grand Prix
+BOT,13.0,87.753,1.0,MEDIUM,13.0,1,True,Kick Sauber,True,14.0,32.307,29.556,25.89,,False,False,4635.401,23,Qatar Grand Prix
+BOT,14.0,87.79,1.0,MEDIUM,14.0,1,True,Kick Sauber,True,14.0,32.261,29.757,25.772,,False,False,4723.191,23,Qatar Grand Prix
+BOT,15.0,88.029,1.0,MEDIUM,15.0,1,True,Kick Sauber,True,14.0,32.504,29.746,25.779,,False,False,4811.22,23,Qatar Grand Prix
+BOT,16.0,87.96,1.0,MEDIUM,16.0,1,True,Kick Sauber,True,14.0,32.424,29.829,25.707,,False,False,4899.18,23,Qatar Grand Prix
+BOT,17.0,87.339,1.0,MEDIUM,17.0,1,True,Kick Sauber,True,14.0,32.397,29.418,25.524,,False,False,4986.519,23,Qatar Grand Prix
+BOT,18.0,87.489,1.0,MEDIUM,18.0,1,True,Kick Sauber,True,14.0,32.273,29.638,25.578,,False,False,5074.008,23,Qatar Grand Prix
+BOT,19.0,87.16,1.0,MEDIUM,19.0,1,True,Kick Sauber,True,14.0,32.283,29.468,25.409,,False,False,5161.168,23,Qatar Grand Prix
+BOT,20.0,86.295,1.0,MEDIUM,20.0,1,True,Kick Sauber,True,13.0,31.951,29.069,25.275,,False,False,5247.463,23,Qatar Grand Prix
+BOT,21.0,86.958,1.0,MEDIUM,21.0,1,True,Kick Sauber,True,13.0,32.471,29.2,25.287,,False,False,5334.421,23,Qatar Grand Prix
+BOT,22.0,86.843,1.0,MEDIUM,22.0,1,True,Kick Sauber,True,13.0,32.403,28.974,25.466,,False,False,5421.264,23,Qatar Grand Prix
+BOT,23.0,86.299,1.0,MEDIUM,23.0,1,True,Kick Sauber,True,13.0,32.164,28.893,25.242,,False,False,5507.563,23,Qatar Grand Prix
+BOT,24.0,90.542,1.0,MEDIUM,24.0,1,False,Kick Sauber,True,14.0,32.155,28.917,29.47,,True,False,5598.105,23,Qatar Grand Prix
+BOT,25.0,111.494,2.0,HARD,1.0,1,False,Kick Sauber,False,17.0,55.973,29.604,25.917,,False,True,5709.599,23,Qatar Grand Prix
+BOT,26.0,87.079,2.0,HARD,2.0,1,True,Kick Sauber,False,17.0,32.552,28.907,25.62,,False,False,5796.678,23,Qatar Grand Prix
+BOT,27.0,86.69,2.0,HARD,3.0,1,True,Kick Sauber,False,17.0,32.341,28.847,25.502,,False,False,5883.368,23,Qatar Grand Prix
+BOT,28.0,89.406,2.0,HARD,4.0,1,True,Kick Sauber,False,17.0,32.166,30.163,27.077,,False,False,5972.774,23,Qatar Grand Prix
+BOT,29.0,86.93,2.0,HARD,5.0,12,True,Kick Sauber,False,17.0,32.47,29.061,25.399,,False,False,6059.704,23,Qatar Grand Prix
+BOT,30.0,86.461,2.0,HARD,6.0,1,True,Kick Sauber,False,17.0,32.248,28.923,25.29,,False,False,6146.165,23,Qatar Grand Prix
+BOT,31.0,86.288,2.0,HARD,7.0,1,True,Kick Sauber,False,17.0,32.158,28.844,25.286,,False,False,6232.453,23,Qatar Grand Prix
+BOT,32.0,88.647,2.0,HARD,8.0,1,True,Kick Sauber,False,17.0,32.599,29.064,26.984,,False,False,6321.1,23,Qatar Grand Prix
+BOT,33.0,88.461,2.0,HARD,9.0,1,True,Kick Sauber,False,17.0,33.872,29.234,25.355,,False,False,6409.561,23,Qatar Grand Prix
+BOT,34.0,97.515,2.0,HARD,10.0,14,False,Kick Sauber,False,17.0,32.133,28.771,36.611,,False,False,6507.076,23,Qatar Grand Prix
+BOT,35.0,150.13,2.0,HARD,11.0,4,False,Kick Sauber,False,17.0,46.342,49.205,54.583,,True,False,6657.206,23,Qatar Grand Prix
+BOT,36.0,171.06,3.0,MEDIUM,9.0,4,False,Kick Sauber,False,17.0,74.313,44.771,51.976,,True,True,6828.266,23,Qatar Grand Prix
+BOT,37.0,120.033,4.0,MEDIUM,10.0,4,False,Kick Sauber,False,17.0,61.88,31.989,26.164,,False,True,6948.299,23,Qatar Grand Prix
+BOT,38.0,88.199,4.0,MEDIUM,11.0,4,False,Kick Sauber,False,17.0,32.967,29.342,25.89,,False,False,7036.498,23,Qatar Grand Prix
+BOT,39.0,89.792,4.0,MEDIUM,12.0,41,False,Kick Sauber,False,16.0,32.545,29.116,28.131,,False,False,7126.29,23,Qatar Grand Prix
+BOT,40.0,117.286,4.0,MEDIUM,13.0,1264,False,Kick Sauber,False,14.0,33.638,40.93,42.718,,False,False,7243.576,23,Qatar Grand Prix
+BOT,41.0,132.721,4.0,MEDIUM,14.0,4,False,Kick Sauber,False,13.0,36.243,44.564,51.914,,False,False,7376.297,23,Qatar Grand Prix
+BOT,42.0,133.244,4.0,MEDIUM,15.0,41,False,Kick Sauber,False,13.0,42.469,44.046,46.729,,False,False,7509.541,23,Qatar Grand Prix
+BOT,43.0,88.386,4.0,MEDIUM,16.0,1,True,Kick Sauber,False,12.0,33.469,29.589,25.328,,False,False,7597.927,23,Qatar Grand Prix
+BOT,44.0,86.779,4.0,MEDIUM,17.0,1,True,Kick Sauber,False,12.0,32.444,29.082,25.253,,False,False,7684.706,23,Qatar Grand Prix
+BOT,45.0,86.296,4.0,MEDIUM,18.0,1,True,Kick Sauber,False,12.0,31.949,28.989,25.358,,False,False,7771.002,23,Qatar Grand Prix
+BOT,46.0,86.979,4.0,MEDIUM,19.0,1,True,Kick Sauber,False,12.0,32.747,28.99,25.242,,False,False,7857.981,23,Qatar Grand Prix
+BOT,47.0,85.92,4.0,MEDIUM,20.0,1,True,Kick Sauber,False,11.0,32.097,28.76,25.063,,False,False,7943.901,23,Qatar Grand Prix
+BOT,48.0,85.548,4.0,MEDIUM,21.0,1,True,Kick Sauber,False,11.0,31.917,28.56,25.071,,False,False,8029.449,23,Qatar Grand Prix
+BOT,49.0,85.639,4.0,MEDIUM,22.0,1,True,Kick Sauber,False,11.0,31.878,28.614,25.147,,False,False,8115.088,23,Qatar Grand Prix
+BOT,50.0,85.881,4.0,MEDIUM,23.0,1,True,Kick Sauber,False,11.0,32.074,28.727,25.08,,False,False,8200.969,23,Qatar Grand Prix
+BOT,51.0,86.352,4.0,MEDIUM,24.0,1,True,Kick Sauber,False,11.0,32.051,29.052,25.249,,False,False,8287.321,23,Qatar Grand Prix
+BOT,52.0,86.927,4.0,MEDIUM,25.0,1,True,Kick Sauber,False,11.0,32.454,29.38,25.093,,False,False,8374.248,23,Qatar Grand Prix
+BOT,53.0,85.533,4.0,MEDIUM,26.0,1,True,Kick Sauber,False,10.0,31.701,28.884,24.948,,False,False,8459.781,23,Qatar Grand Prix
+BOT,54.0,86.568,4.0,MEDIUM,27.0,1,True,Kick Sauber,False,11.0,32.532,28.737,25.299,,False,False,8546.349,23,Qatar Grand Prix
+BOT,55.0,86.051,4.0,MEDIUM,28.0,1,True,Kick Sauber,False,11.0,32.111,28.72,25.22,,False,False,8632.4,23,Qatar Grand Prix
+BOT,56.0,86.311,4.0,MEDIUM,29.0,1,True,Kick Sauber,False,11.0,32.09,28.873,25.348,,False,False,8718.711,23,Qatar Grand Prix
+BOT,57.0,87.014,4.0,MEDIUM,30.0,1,True,Kick Sauber,False,11.0,32.162,28.983,25.869,,False,False,8805.725,23,Qatar Grand Prix
+PIA,1.0,118.513,1.0,MEDIUM,1.0,124,False,McLaren,True,5.0,,40.081,41.779,,False,False,3408.672,23,Qatar Grand Prix
+PIA,2.0,142.913,1.0,MEDIUM,2.0,4,False,McLaren,True,5.0,53.604,44.96,44.349,,False,False,3551.585,23,Qatar Grand Prix
+PIA,3.0,137.707,1.0,MEDIUM,3.0,4,False,McLaren,True,5.0,49.601,41.016,47.09,,False,False,3689.292,23,Qatar Grand Prix
+PIA,4.0,145.626,1.0,MEDIUM,4.0,41,False,McLaren,True,5.0,45.489,41.218,58.919,,False,False,3834.918,23,Qatar Grand Prix
+PIA,5.0,87.603,1.0,MEDIUM,5.0,12,True,McLaren,True,4.0,32.822,29.372,25.409,,False,False,3922.521,23,Qatar Grand Prix
+PIA,6.0,87.02,1.0,MEDIUM,6.0,1,True,McLaren,True,4.0,32.629,29.384,25.007,,False,False,4009.541,23,Qatar Grand Prix
+PIA,7.0,86.851,1.0,MEDIUM,7.0,1,True,McLaren,True,4.0,32.47,29.302,25.079,,False,False,4096.392,23,Qatar Grand Prix
+PIA,8.0,86.322,1.0,MEDIUM,8.0,1,True,McLaren,True,4.0,32.043,29.38,24.899,,False,False,4182.714,23,Qatar Grand Prix
+PIA,9.0,86.464,1.0,MEDIUM,9.0,1,True,McLaren,True,4.0,32.142,29.364,24.958,,False,False,4269.178,23,Qatar Grand Prix
+PIA,10.0,86.169,1.0,MEDIUM,10.0,1,True,McLaren,True,4.0,31.967,29.307,24.895,,False,False,4355.347,23,Qatar Grand Prix
+PIA,11.0,86.382,1.0,MEDIUM,11.0,1,True,McLaren,True,4.0,32.188,29.308,24.886,,False,False,4441.729,23,Qatar Grand Prix
+PIA,12.0,86.288,1.0,MEDIUM,12.0,1,True,McLaren,True,4.0,31.934,29.424,24.93,,False,False,4528.017,23,Qatar Grand Prix
+PIA,13.0,86.035,1.0,MEDIUM,13.0,1,True,McLaren,True,4.0,32.002,29.21,24.823,,False,False,4614.052,23,Qatar Grand Prix
+PIA,14.0,86.056,1.0,MEDIUM,14.0,1,True,McLaren,True,4.0,32.007,29.315,24.734,,False,False,4700.108,23,Qatar Grand Prix
+PIA,15.0,85.803,1.0,MEDIUM,15.0,1,True,McLaren,True,4.0,31.877,29.279,24.647,,False,False,4785.911,23,Qatar Grand Prix
+PIA,16.0,86.474,1.0,MEDIUM,16.0,1,True,McLaren,True,4.0,31.891,29.275,25.308,,False,False,4872.385,23,Qatar Grand Prix
+PIA,17.0,86.031,1.0,MEDIUM,17.0,1,True,McLaren,True,4.0,32.076,29.173,24.782,,False,False,4958.416,23,Qatar Grand Prix
+PIA,18.0,85.703,1.0,MEDIUM,18.0,1,True,McLaren,True,4.0,31.932,29.068,24.703,,False,False,5044.119,23,Qatar Grand Prix
+PIA,19.0,85.494,1.0,MEDIUM,19.0,1,True,McLaren,True,4.0,31.888,28.981,24.625,,False,False,5129.613,23,Qatar Grand Prix
+PIA,20.0,85.517,1.0,MEDIUM,20.0,1,True,McLaren,True,4.0,31.91,28.97,24.637,,False,False,5215.13,23,Qatar Grand Prix
+PIA,21.0,85.366,1.0,MEDIUM,21.0,1,True,McLaren,True,4.0,31.824,28.953,24.589,,False,False,5300.496,23,Qatar Grand Prix
+PIA,22.0,85.218,1.0,MEDIUM,22.0,1,True,McLaren,True,4.0,31.596,29.125,24.497,,False,False,5385.714,23,Qatar Grand Prix
+PIA,23.0,85.634,1.0,MEDIUM,23.0,1,True,McLaren,True,3.0,31.782,29.242,24.61,,False,False,5471.348,23,Qatar Grand Prix
+PIA,24.0,84.75,1.0,MEDIUM,24.0,1,True,McLaren,True,3.0,31.398,28.788,24.564,,False,False,5556.098,23,Qatar Grand Prix
+PIA,25.0,84.897,1.0,MEDIUM,25.0,1,True,McLaren,True,3.0,31.783,28.772,24.342,,False,False,5640.995,23,Qatar Grand Prix
+PIA,26.0,84.898,1.0,MEDIUM,26.0,1,True,McLaren,True,3.0,31.744,28.781,24.373,,False,False,5725.893,23,Qatar Grand Prix
+PIA,27.0,84.727,1.0,MEDIUM,27.0,1,True,McLaren,True,3.0,31.599,28.738,24.39,,False,False,5810.62,23,Qatar Grand Prix
+PIA,28.0,84.71,1.0,MEDIUM,28.0,1,True,McLaren,True,3.0,31.632,28.69,24.388,,False,False,5895.33,23,Qatar Grand Prix
+PIA,29.0,84.761,1.0,MEDIUM,29.0,12,True,McLaren,True,3.0,31.568,28.744,24.449,,False,False,5980.091,23,Qatar Grand Prix
+PIA,30.0,85.129,1.0,MEDIUM,30.0,21,True,McLaren,True,3.0,32.024,28.701,24.404,,False,False,6065.22,23,Qatar Grand Prix
+PIA,31.0,84.883,1.0,MEDIUM,31.0,1,True,McLaren,True,3.0,31.714,28.831,24.338,,False,False,6150.103,23,Qatar Grand Prix
+PIA,32.0,84.894,1.0,MEDIUM,32.0,1,True,McLaren,True,3.0,31.769,28.717,24.408,,False,False,6234.997,23,Qatar Grand Prix
+PIA,33.0,85.284,1.0,MEDIUM,33.0,1,True,McLaren,True,3.0,31.705,28.931,24.648,,False,False,6320.281,23,Qatar Grand Prix
+PIA,34.0,89.34,1.0,MEDIUM,34.0,1,False,McLaren,True,4.0,31.509,28.84,28.991,,True,False,6409.621,23,Qatar Grand Prix
+PIA,35.0,127.624,2.0,HARD,1.0,14,False,McLaren,True,5.0,53.714,41.093,32.817,,False,True,6537.245,23,Qatar Grand Prix
+PIA,36.0,128.14,2.0,HARD,2.0,4,False,McLaren,True,4.0,46.143,39.986,42.011,,True,False,6665.385,23,Qatar Grand Prix
+PIA,37.0,165.54,3.0,HARD,3.0,4,False,McLaren,False,4.0,69.279,43.491,52.77,,True,True,6830.925,23,Qatar Grand Prix
+PIA,38.0,148.28,4.0,HARD,4.0,4,False,McLaren,False,4.0,62.141,42.837,43.302,,False,True,6979.205,23,Qatar Grand Prix
+PIA,39.0,141.872,4.0,HARD,5.0,41,False,McLaren,False,4.0,49.714,43.67,48.488,,False,False,7121.077,23,Qatar Grand Prix
+PIA,40.0,103.378,4.0,HARD,6.0,1264,False,McLaren,False,4.0,33.687,29.843,39.848,,False,False,7224.455,23,Qatar Grand Prix
+PIA,41.0,135.81,4.0,HARD,7.0,4,False,McLaren,False,4.0,44.157,44.77,46.883,,False,False,7360.265,23,Qatar Grand Prix
+PIA,42.0,145.878,4.0,HARD,8.0,41,False,McLaren,False,4.0,47.357,44.528,53.993,,False,False,7506.143,23,Qatar Grand Prix
+PIA,43.0,86.116,4.0,HARD,9.0,1,True,McLaren,False,4.0,32.589,28.879,24.648,,False,False,7592.259,23,Qatar Grand Prix
+PIA,44.0,84.301,4.0,HARD,10.0,1,True,McLaren,False,4.0,31.523,28.442,24.336,,False,False,7676.56,23,Qatar Grand Prix
+PIA,45.0,83.98,4.0,HARD,11.0,1,True,McLaren,False,3.0,31.39,28.358,24.232,,False,False,7760.54,23,Qatar Grand Prix
+PIA,46.0,83.909,4.0,HARD,12.0,1,True,McLaren,False,3.0,31.303,28.432,24.174,,False,False,7844.449,23,Qatar Grand Prix
+PIA,47.0,83.568,4.0,HARD,13.0,1,True,McLaren,False,3.0,31.175,28.317,24.076,,False,False,7928.017,23,Qatar Grand Prix
+PIA,48.0,83.624,4.0,HARD,14.0,1,True,McLaren,False,3.0,31.266,28.279,24.079,,False,False,8011.641,23,Qatar Grand Prix
+PIA,49.0,83.623,4.0,HARD,15.0,1,True,McLaren,False,3.0,31.178,28.361,24.084,,False,False,8095.264,23,Qatar Grand Prix
+PIA,50.0,83.625,4.0,HARD,16.0,1,True,McLaren,False,3.0,31.238,28.314,24.073,,False,False,8178.889,23,Qatar Grand Prix
+PIA,51.0,83.218,4.0,HARD,17.0,1,True,McLaren,False,3.0,31.026,28.232,23.96,,False,False,8262.107,23,Qatar Grand Prix
+PIA,52.0,83.478,4.0,HARD,18.0,1,True,McLaren,False,3.0,31.164,28.287,24.027,,False,False,8345.585,23,Qatar Grand Prix
+PIA,53.0,83.523,4.0,HARD,19.0,1,True,McLaren,False,3.0,31.087,28.409,24.027,,False,False,8429.108,23,Qatar Grand Prix
+PIA,54.0,83.37,4.0,HARD,20.0,1,True,McLaren,False,3.0,31.143,28.268,23.959,,False,False,8512.478,23,Qatar Grand Prix
+PIA,55.0,83.269,4.0,HARD,21.0,1,True,McLaren,False,3.0,31.165,28.214,23.89,,False,False,8595.747,23,Qatar Grand Prix
+PIA,56.0,83.313,4.0,HARD,22.0,1,True,McLaren,False,3.0,31.161,28.231,23.921,,False,False,8679.06,23,Qatar Grand Prix
+PIA,57.0,83.241,4.0,HARD,23.0,1,True,McLaren,False,3.0,31.025,28.159,24.057,,False,False,8762.301,23,Qatar Grand Prix
