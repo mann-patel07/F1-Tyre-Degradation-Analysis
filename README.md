@@ -4,7 +4,7 @@ I tested whether a lap-time model with a tyre degradation term forecasts the res
 
 ## Headline result
 
-- Validation-eligible races: 19 of 24 (3 wet, 0 failed loads).
+- Validation-eligible races: 19 of 24 (3 wet, 0 failed loads). The other 2 dry races fail the eligibility rules, as `results/races.csv` records: the Miami Grand Prix has 187 fitting laps (the minimum is 200) and the Mexico City Grand Prix has a design matrix for M0 that is not full rank.
 - D1 = 0.136 s (indicative interval 0.017 to 0.269). D1 is the mean over races of MAE of the model without degradation minus MAE of the linear degradation model. Positive means the degradation term helped.
 - The linear degradation model beat the model without it in 14 of 19 races.
 - Pooled test MAE: 0.780 s without degradation, 0.640 s with linear degradation.
@@ -158,6 +158,8 @@ jupyter nbconvert --to notebook --execute --inplace 3_Replication.ipynb
 python check_consistency.py
 python offline_check.py
 ```
+
+Tested with Python 3.12.5 on macOS.
 
 Everything except the downloads runs from the committed CSVs, with no account and no network. Since October 2026 FastF1 needs an F1TV account to download timing data from F1 live timing. `python download_data.py --refresh`, `python download_seasons.py` and `python run_telemetry_season.py --download` need a signed-in account. See the FastF1 documentation for how to sign in. `run_telemetry.py` also downloads one race.
 
