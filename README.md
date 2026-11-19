@@ -1,6 +1,6 @@
 # F1 tyre degradation study, 2025 season
 
-I tested whether a lap-time model with a tyre degradation term forecasts the rest of a race better than a model without one, using only laps run before 60 percent race distance. I also fitted the degradation rate by mini-sector in one race (Bahrain) using car telemetry.
+I tested whether a lap-time model with a tyre degradation term forecasts the rest of a race better than a model without one, using only laps run before 60 percent race distance. The forecast is not blind: for each later lap it is given the compound and the tyre age that the driver actually ran. So it tests whether a degradation term predicts lap times when the real stints are known, and it does not predict pit stops or tyre choices. I also fitted the degradation rate by mini-sector in one race (Bahrain) using car telemetry.
 
 ## Headline result
 
@@ -72,6 +72,7 @@ M0 has no degradation term, M1 has a linear term per compound, M2 adds a quadrat
 - Clean lap: lap time present, lap 2 or later, not a pit-in or pit-out lap, track status exactly "1", IsAccurate true, dry compound with tyre age known, and no slower than 107 percent of the fastest such lap.
 - Three OLS models per race, with driver and compound effects and race lap number. M1 adds tyre age per compound, M2 adds tyre age squared per compound.
 - The forecast is made at 60 percent of race laps. Fitting uses laps up to the cutoff. Testing uses later laps. The slow-lap threshold uses fitting laps only.
+- Each test lap is predicted from that lap's real `Driver`, `Compound`, `LapNumber` and `TyreLife` columns. M0 uses the first three and M1 and M2 also use `TyreLife`. The model is never asked which tyre a driver will choose or when they will pit. Test laps on a compound with no kept fitting laps, or for a driver with no fitting laps, are dropped. That removes 109 test laps pooled over the 19 races, which is 1.4 percent of the 7641 test laps before the drop (`test_laps_removed` and `test_laps` in `results/races.csv`).
 - Eligibility: at least 200 fitting laps, 100 test laps, full column rank for all three designs, compounds with at least 30 fitting laps.
 - Primary metric D1 with a race-level bootstrap (10000 resamples, seed 42).
 
@@ -81,7 +82,7 @@ The race is the Bahrain Grand Prix. I cut each clean lap into 25 mini-sectors an
 
 ## Pre-registration
 
-`PREREGISTRATION.md` was written before any data was downloaded. It fixes the question, the models, the split, the eligibility rules, the metrics and every constant. It was not changed afterward.
+`PREREGISTRATION.md` was written before any data was downloaded. It fixes the question, the models, the split, the eligibility rules, the metrics and every constant. It was not changed afterward. The commit history here does not show this order, because I uploaded the finished project in a few commits.
 
 ## Tests
 
@@ -165,7 +166,6 @@ Everything except the downloads runs from the committed CSVs, with no account an
 
 ## What's next
 
-- Seasons 2022 to 2024.
 - Friday practice long runs as a predictor of race degradation.
 - A pit-stop timing model built on the fitted rates.
 - Non-linear track evolution.
