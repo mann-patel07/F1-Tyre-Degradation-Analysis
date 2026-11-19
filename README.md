@@ -1,124 +1,171 @@
-# Moving Average Crossover Backtest: AAPL and a 29-Ticker Sweep
+# F1 tyre degradation study, 2025 season
 
-Python backtest comparing a 20/50-day moving average crossover strategy to buy-and-hold, starting on AAPL and then testing whether that result holds up across 29 tickers and 19 parameter combinations, with a 5 bps transaction cost on every trade, actual historical risk-free rates, and risk-adjusted performance metrics.
+I tested whether a lap-time model with a tyre degradation term forecasts the rest of a race better than a model without one, using only laps run before 60 percent race distance. I also fitted the degradation rate by mini-sector in one race (Bahrain) using car telemetry.
 
-## What this is
+## Headline result
 
-This project started by testing a simple trend-following strategy against AAPL stock data from 2019 to 2026, comparing it to just buying and holding the stock. The strategy generates a buy signal when a short-term moving average crosses above a long-term moving average, and a sell signal when it crosses below.
+- Validation-eligible races: 19 of 24 (3 wet, 0 failed loads). The other 2 dry races fail the eligibility rules, as `results/races.csv` records: the Miami Grand Prix has 187 fitting laps (the minimum is 200) and the Mexico City Grand Prix has a design matrix for M0 that is not full rank.
+- D1 = 0.136 s (indicative interval 0.017 to 0.269). D1 is the mean over races of MAE of the model without degradation minus MAE of the linear degradation model. Positive means the degradation term helped.
+- The linear degradation model beat the model without it in 14 of 19 races.
+- Pooled test MAE: 0.780 s without degradation, 0.640 s with linear degradation.
 
-One stock and one parameter pair isn't enough to draw a real conclusion from, so v2 adds a sweep: the same strategy run across 29 tickers spanning eight sectors and 19 short/long window combinations each, to check whether the AAPL result is a general property of this kind of strategy or just AAPL's particular price path.
+In these races the degradation term improved the forecast on average, and the indicative interval for D1 is above zero.
 
-## Changes in this version
+The quadratic model was worse than the linear one: D2 = -0.072 s (indicative interval -0.134 to -0.021), and the quadratic model beat the linear one in 4 of 19 races.
 
-A code review found three problems in `backtest.py`: the first position was NaN, so the entry cost of a strategy that starts long was never charged; buy-and-hold had one more return day than the strategy; and `max_drawdown` took the running peak from the first equity value instead of the starting capital of 1.0. I fixed all three, added `tests/test_backtest.py`, and ran the sweep and both notebooks again on the frozen price files in `data/`. For AAPL 20/50 the strategy CAGR went from 18.80% to 18.78% and the average holding period from 61.8 to 58.5 trading days. Buy-and-hold, the strategy Sharpe ratio (0.78), the strategy max drawdown (-28.36%) and the share of cells where the strategy wins (7.3% on CAGR, 9.4% on Sharpe) did not change.
+![Forecast gain by race](Images/forecast_gain_by_race.png)
 
-## Result
+![Fitted degradation by mini-sector at Bahrain](Images/track_deg_map.png)
 
-### AAPL, 20/50: the original test
+## Replication on 2022 to 2024 (pre-registered)
 
-| | CAGR | Max Drawdown | Sharpe |
+R1 = 0.169 s (indicative interval 0.101 to 0.241) over 59 races pooled. The linear degradation model beat the model without it in 45 of 59 races. Per season, 2022: D1 = 0.215 (0.093 to 0.348), 2023: D1 = 0.090 (-0.030 to 0.219), 2024: D1 = 0.206 (0.106 to 0.316).
+
+The replication interval for R1 is above zero: the 2025 result held in 2022 to 2024.
+
+![Replication D1](Images/replication_d1.png)
+
+## Where degradation costs time, all dry 2025 races (pre-registered)
+
+T1 = 0.000384 (indicative interval 0.000250 to 0.000525) over 21 races. G was above zero in 19 races. G is the fitted degradation per second of lap time in corner mini-sectors minus the same on straight mini-sectors, for the compound with the most kept laps in each race.
+
+![Density difference by race](Images/telemetry_density_by_race.png)
+
+## Pit strategy (exploratory)
+
+What a team planned before a race is not public, so this analysis never claims to know a plan. It defines a reference strategy from what most of the field did under green and tags each tyre change with the circumstances the data shows. These results are exploratory and were not pre-registered. For all four seasons together, a safety car or a virtual safety car is the primary circumstance of 16.7 percent of tyre changes. The median stop cost is 22.632 s under green and 14.630 s under a safety car, and green minus safety car is 8.001 s (indicative interval 5.290 to 10.869). Undercut attempts: 117 succeeded, 86 failed, 344 not resolved, a success share of 57.6 percent of 203 resolved. 77.8 percent of completing drivers differed from the reference. A stint number change with pit flags set where the same tyre continued is not counted as a tyre change (see `EXPLORATORY_ANALYSIS_PLAN_AMENDMENT_1.md`).
+
+![Stop cost](Images/strategy_stop_cost.png)
+
+![Stint chart of one race](Images/strategy_stint_chart.png)
+
+## Corrected race pace (exploratory)
+
+Pace is the driver coefficient of model M1, centred on the drivers of the race. Car and driver are not separated, and traffic, damage, team orders and pace management are in the numbers. Wet races are left out. These results are exploratory. The top three teams of 2025, in seconds per lap against the field average (negative is faster):
+
+1. McLaren: -0.830 s per lap (indicative interval -0.924 to -0.736, 21 races).
+2. Mercedes: -0.348 s per lap (indicative interval -0.472 to -0.232, 21 races).
+3. Ferrari: -0.331 s per lap (indicative interval -0.457 to -0.186, 21 races).
+
+![Team ranking 2025](Images/pace_team_ranking_2025.png)
+
+## Why this is hard
+
+Inside one stint, tyre age and race lap number both go up by one every lap. Tyre wear makes the car slower. Fuel burn and track rubbering make it faster. From one stint these cannot be separated. Across a race they can, because drivers pit on different laps, so at the same race lap different cars have tyres of different ages. Every model uses driver and compound effects and a race lap number term. No fuel effect is assumed. It is estimated as the lap number coefficient.
+
+## Results table
+
+Pooled over the validation-eligible races, test laps only (seconds).
+
+| Model | MAE | RMSE | Bias |
 |---|---|---|---|
-| Buy & Hold | 31.04% | -33.36% | 0.94 |
-| Strategy | 18.78% | -28.36% | 0.78 |
+| M0 | 0.780 | 1.054 | 0.246 |
+| M1 | 0.640 | 0.904 | -0.050 |
+| M2 | 0.709 | 1.002 | -0.098 |
 
-The archived v1 notebook reported 31.06%/18.81%. The small difference comes from a one-day CAGR-denominator fix made during the v2 refactor.
+M0 has no degradation term, M1 has a linear term per compound, M2 adds a quadratic term. Bias is predicted minus actual.
 
-![AAPL strategy vs buy-and-hold](Images/equity_curve.png)
+## Method
 
-Buy-and-hold outperformed the strategy on both raw and risk-adjusted returns. The strategy made 18 round-trip trades over the period and one more position was still open at the end of the data. It spent about 65% of the time in the market. Transaction costs accounted for roughly 1.9% of cumulative return (verified directly in the notebook by comparing results with and without costs), so the underperformance is mainly about missed time in the market during recoveries, not trading fees.
+- Season 2025, Grand Prix sessions only. Data from FastF1.
+- A race is wet if any lap used INTERMEDIATE or WET tyres. Wet races are excluded.
+- Clean lap: lap time present, lap 2 or later, not a pit-in or pit-out lap, track status exactly "1", IsAccurate true, dry compound with tyre age known, and no slower than 107 percent of the fastest such lap.
+- Three OLS models per race, with driver and compound effects and race lap number. M1 adds tyre age per compound, M2 adds tyre age squared per compound.
+- The forecast is made at 60 percent of race laps. Fitting uses laps up to the cutoff. Testing uses later laps. The slow-lap threshold uses fitting laps only.
+- Eligibility: at least 200 fitting laps, 100 test laps, full column rank for all three designs, compounds with at least 30 fitting laps.
+- Primary metric D1 with a race-level bootstrap (10000 resamples, seed 42).
 
-The numbers come from the price files in `data/`, which were downloaded on 2026-09-02. The code reads those files, so a re-run gives the same numbers.
+## Telemetry case study
 
-### The sweep: is AAPL representative?
+The race is the Bahrain Grand Prix. I cut each clean lap into 25 mini-sectors and fitted the linear model to each one. 945 of 951 clean laps passed the lap time match check. For SOFT, corner mini-sectors carry 72.8 percent of the fitted degradation and straight mini-sectors carry 27.2 percent. For MEDIUM, corner mini-sectors carry 77.3 percent of the fitted degradation and straight mini-sectors carry 22.7 percent. For HARD, corner mini-sectors carry 75.8 percent of the fitted degradation and straight mini-sectors carry 24.2 percent. The mini-sector rates add up to the lap-time rate to within 1e-6. This is one race and says nothing about other circuits.
 
-Turns out this AAPL result wasn't a fluke of that one stock. Across the full sweep (29 tickers × 19 short/long combinations = 551 cells):
+## Pre-registration
 
-- The strategy beat buy-and-hold on CAGR in only **7.3%** of cells, and on Sharpe in **9.4%**.
-- AAPL's own 20/50 result sits at roughly the **17th percentile** of the edge distribution. That is worse than most cells in the sweep, so it is not a lucky or unusually bad draw.
-- A 95% bootstrap confidence interval on mean edge across tickers comes out to roughly **-9.4% to -6.2%**, entirely below zero.
-- Boeing (BA) is the one real exception, beating buy-and-hold in 63% of its parameter combinations. It spent much of this window in extended drawdowns rather than a clean uptrend, which is closer to the kind of choppy price path trend-following is supposed to help with. Exxon (XOM) wins in 42% and Wells Fargo (WFC) in 26%. Every other ticker, AAPL included, wins in 16% of its combinations or fewer, and 20 of the 29 tickers never beat buy-and-hold in a single one of their 19 combinations.
+`PREREGISTRATION.md` was written before any data was downloaded. It fixes the question, the models, the split, the eligibility rules, the metrics and every constant. It was not changed afterward.
 
-So over 2019-2026, in this ticker universe, the strategy is weak on AAPL and weak almost everywhere tested. See `2_Sweep_Analysis.ipynb` for the full breakdown, distribution plots, the parameter heatmap, and the per-ticker win rates.
+## Tests
 
-![Mean edge across the parameter grid](Images/heatmap.png)
+`pytest` runs 50 tests: 15 in `tests/test_f1deg.py` (lap filters, slow-lap rule, wet flag, gap ahead, split and cutoff, absence of leakage, recovery of known rates, null case, unseen drivers and compounds, the fuel and tyre confound, mini-sectors, bootstrap, error metrics), 1 in `tests/test_replication.py` (the season function reproduces every 2025 result table), 20 in `tests/test_strategy.py`, 7 in `tests/test_pace.py`, 5 in `tests/test_telemetry_season.py` and 2 in `tests/test_offline.py` (only the download scripts import FastF1).
 
-## Filling one day later
+## Limitations
 
-The main results assume that each trade is filled at the close of the signal day. That close is also the price the signal is computed from, so a real order could not get exactly that price. I ran the same study again with each trade filled at the next day's close. `sweep_next_close.py` does this and writes `results/sweep_results_next_close.csv`.
+- Lap times show the pace drivers chose, so the fitted rate includes tyre management and is not the physical limit of the tyre.
+- The lap number term is linear and absorbs fuel burn, track evolution and anything else that moves steadily through a race. These are not separated from each other.
+- Fuel loads, engine modes, tyre temperatures and pressures are not public.
+- Dirty air is only handled by the clean-air sensitivity check.
+- Safety car periods cool the tyres and reset nothing in the model.
+- Damage and lift-and-coast are not identified.
+- One season and about 20 dry races is a small sample.
+- Compounds are different physical tyres at different races.
+- Mini-sector boundaries come from integrated speed, so they shift slightly from lap to lap.
+- The timing data is unofficial.
+- Since October 2026 FastF1 needs an F1TV account to download timing data. The committed CSVs let the study and notebooks reproduce without one, but `run_telemetry.py` and `python download_data.py --refresh` need a signed-in account.
+- The replication seasons share the model and filters of 2025, so a flaw shared by all of them would replicate too.
+- Strategy tags are rules applied to lap data and do not know team intent.
+- Pace numbers do not separate car from driver.
+- Telemetry results are for one season.
 
-For AAPL 20/50 the strategy CAGR goes from 18.78% to 20.45%, the Sharpe ratio from 0.78 to 0.83 and the max drawdown from -28.36% to -23.21%. Buy-and-hold does not change, at 31.04% CAGR. Across the 551 cells the strategy beats buy-and-hold on CAGR in 6.9% of cells (7.3% in the main run) and on Sharpe in 10.3% (9.4%), and 19 of the 29 tickers never beat buy-and-hold on CAGR (20 in the main run). Both shares move by less than 2 percentage points, so the conclusion does not change. I only have daily closes, so I could not test a fill at the next day's open.
+## Data source and disclaimer
 
-## A caveat on the sweep universe: survivorship bias
-
-The 29 tickers in the sweep are today's liquid, still-listed large caps (see `sweep.py` for the list). Anything that was delisted, went bankrupt, or got acquired during 2019-2026 isn't in this universe, so it skews toward "the market's winners" rather than a neutral cross-section of everything that existed in 2019. Every ticker is also tested over the exact same 2019-2026 window, which was a strong bull run for large-cap US equities generally. Treat the sweep's numbers as an upper bound on how well this strategy could have done, not a clean, unbiased estimate. Treat "the strategy loses in this universe, in this window" as the actual finding, not "the strategy loses, full stop."
-
-## What I did
-
-- Pulled daily price data and the 13-week T-bill rate from yfinance, caching both to `data/` so re-running doesn't mean re-downloading every time
-- Calculated short/long moving averages and built buy/sell signals from their crossover
-- Used the actual historical T-bill rate for idle cash instead of assuming 0% or a flat guess
-- Charged a small transaction cost on every trade instead of assuming free trading
-- Extracted the backtest logic into `backtest.py` as reusable functions (`load_prices`, `load_risk_free`, `backtest`, `max_drawdown`, `cagr`, `sharpe`, `summarize`, `trade_stats`), so the AAPL notebook and the sweep run the exact same logic instead of two separate implementations that could quietly drift apart
-- Ran that same backtest across 29 tickers and 19 short/long combinations each, to check whether the AAPL finding generalizes
-- Added a sanity check comparing the implied cost drag against the expected drag from the trade count, to verify the transaction cost logic was actually correct rather than just trusting the output
-- Used a ticker-level bootstrap (not a cell-level one) for the sweep's confidence interval. The 19 parameter combinations for one ticker are run on the same price series and are heavily correlated with each other, so treating each of the 551 rows as an independent sample would have understated the real uncertainty
-- Added `tests/test_backtest.py`, which checks `backtest.py` on small made-up price series where the answer is known by hand
-- Ran the sweep a second time with each trade filled at the next day's close (`sweep_next_close.py`), as an added check on the fill assumption
-
-## Assumptions and limitations
-
-- Long/flat only, no short positions
-- Full capital committed on every trade, no partial position sizing
-- Fills happen at the closing price of the signal day. A fill one day later is tested in "Filling one day later" above.
-- Cash return while out of the market uses the actual historical T-bill rate where available, falling back to a flat 4% estimate if that data can't be pulled
-- Prices and T-bill rates are cached to `data/`. The files in this repository were downloaded on 2026-09-02. Delete the cache or pass `refresh=True` to `load_prices`/`load_risk_free` to pull fresh data, which will change the numbers
-- Sweep universe has survivorship bias and is tested over a single historical window (see the caveat above)
+Data comes from the FastF1 library, which reads Formula 1 live timing. This project is unofficial and is not associated with Formula 1, the FIA, or any team. Lap and telemetry data were downloaded once with FastF1 from an F1TV account. Downloading again needs an account. Everything after the download runs from the saved files with no account and no network, and `python offline_check.py` proves it.
 
 ## File layout
 
-- `backtest.py`: the reusable backtest module (data loading/caching, the strategy itself, and the performance metrics)
-- `archive/archive_original_v1.ipynb`: the original AAPL-only notebook, unchanged
-- `1_AAPL_Backtest.ipynb`: the same AAPL result, reproduced using `backtest.py` instead of one-off cells
-- `sweep.py`: runs the strategy across the 29-ticker × 19-parameter grid and writes `results/sweep_results.csv`
-- `results/sweep_results.csv`: one row per (ticker, short, long) cell: CAGR, Sharpe, max drawdown, and edge for strategy vs. buy-and-hold, plus trade stats
-- `sweep_next_close.py`: runs the same sweep with each trade filled one day later and writes `results/sweep_results_next_close.csv`
-- `results/sweep_results_next_close.csv`: the same columns as `results/sweep_results.csv`, for the fill one day later
-- `2_Sweep_Analysis.ipynb`: reads the sweep results and reports the headline numbers, distribution, parameter heatmap, and per-ticker win rates
-- `tests/test_backtest.py`: tests for `backtest.py`
-- `data/`: the 29 price CSVs and the T-bill CSV used by the code
-- `Images/`: the two figures used in this README
+- `config.py`, `expansion_config.py`: constants of the 2025 study and of the expansion.
+- `PREREGISTRATION.md`, `PREREGISTRATION_REPLICATION.md`, `PREREGISTRATION_TELEMETRY_SEASON.md`: designs fixed before the data.
+- `EXPLORATORY_ANALYSIS_PLAN.md`: plan of the exploratory modules.
+- `EXPLORATORY_ANALYSIS_PLAN_AMENDMENT_1.md`: one amendment to the strategy rules, with counts and before and after values.
+- `download_data.py`, `download_seasons.py`: lap downloads with FastF1.
+- `write_download_complete.py`: writes `data/DOWNLOAD_COMPLETE.json`.
+- `f1deg.py`: library for the 2025 study.
+- `run_study.py`: season study, writes `results/`.
+- `run_telemetry.py`: Bahrain telemetry case study.
+- `replication.py`, `run_replication.py`: the season study as a function and its run on 2022 to 2024.
+- `strategy.py`, `run_strategy.py`: pit strategy module.
+- `pace.py`, `run_pace.py`: corrected pace module.
+- `telemetry_season.py`, `run_telemetry_season.py`: mini-sector telemetry for every dry 2025 race.
+- `run_links.py`: rank correlations across modules.
+- `check_consistency.py`: checks README numbers against `results/`.
+- `offline_check.py`: reruns the offline scripts with the network blocked.
+- `tests/test_f1deg.py`: unit tests.
+- `tests/test_replication.py`: unit tests.
+- `tests/test_strategy.py`: unit tests.
+- `tests/test_pace.py`: unit tests.
+- `tests/test_telemetry_season.py`: unit tests.
+- `tests/test_offline.py`: unit tests.
+- `1_Season_Degradation_Analysis.ipynb`, `2_Bahrain_Telemetry_Case_Study.ipynb`, `3_Replication.ipynb`, `4_Pit_Strategy.ipynb`, `5_Corrected_Pace.ipynb`, `6_Telemetry_Season.ipynb`: notebooks.
+- `data/`: lap files by season, race tables, metadata, the download record, the Bahrain files and one folder each of mini-sector, reference lap and corner files for 2025.
+- `results/`: output tables (including `results/strategy_fix_comparison.csv`), with `replication/`, `strategy/`, `pace/` and `telemetry_season/`.
+- `Images/`: figures.
+- `requirements.txt`: pinned packages.
+- `LICENSE`: MIT.
 
-## How to run
+## How to run from a fresh clone
 
-The price files are in `data/`, so everything runs offline.
-
-1. Clone this repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run `pytest`
-4. Open `1_AAPL_Backtest.ipynb` and run all cells for the AAPL-only result (or `archive/archive_original_v1.ipynb` for the original, unrefactored version, which downloads its own prices)
-5. Run `python sweep.py` to regenerate `results/sweep_results.csv`
-6. Run `python sweep_next_close.py` for the version with fills one day later
-7. Open `2_Sweep_Analysis.ipynb` and run all cells to see the sweep results
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+pytest
+python run_study.py
+python run_telemetry.py  # needs an F1TV account; its outputs are already in this repository
+python run_replication.py
+python run_strategy.py
+python run_pace.py
+python run_telemetry_season.py --fit
+python run_links.py
+jupyter nbconvert --to notebook --execute --inplace 3_Replication.ipynb
+python check_consistency.py
+python offline_check.py
+```
 
 Tested with Python 3.12.5 on macOS.
 
-## Tools
-
-yfinance, pandas, NumPy, Matplotlib
+Everything except the downloads runs from the committed CSVs, with no account and no network. Since October 2026 FastF1 needs an F1TV account to download timing data from F1 live timing. `python download_data.py --refresh`, `python download_seasons.py` and `python run_telemetry_season.py --download` need a signed-in account. See the FastF1 documentation for how to sign in. `run_telemetry.py` also downloads one race.
 
 ## What's next
 
-- Walk-forward validation: the 20/50 windows, and every window in the sweep, were picked once and tested on the full history. A more honest test would pick parameters using only past data at each point in time and test forward from there, so results aren't quietly benefiting from hindsight. This is the next planned step.
-- Multiple-testing correction: with 551 cells tested, some combinations look good just by chance. Boeing's result should be read with that in mind, not treated as a real edge until it's checked more carefully.
-- Multiple signals combined: adding something like RSI sounds like it should help, but it also adds more free parameters, and technical indicators tend to be pretty correlated with each other anyway. The real question is whether it adds anything once the extra parameters are accounted for.
-- Position sizing: right now the strategy is either fully in or fully out. A more advanced version might scale position size based on signal strength or volatility, rather than a hard on/off switch.
-- A survivorship-bias-free universe: the current sweep only includes tickers that are still liquid and listed today. Testing against a point-in-time universe (including delisted/acquired names) would remove that bias, but needs data this project doesn't currently have.
-- Machine learning based signals: with a few thousand daily observations across 29 correlated large-cap stocks, there isn't a lot of independent signal to learn from compared to noise. A flexible model would probably overfit before it actually learned anything useful. If ML shows up here at all, it'd make more sense as a way to combine a few existing signals together under strict walk-forward validation, not as something trying to find patterns directly in raw price data.
-
-## Data source
-
-Prices come from yfinance, called with `auto_adjust=True`, and the code uses the adjusted `Close`. The window is 2019-01-01 up to but not including 2026-01-01. The 29 tickers are the ones listed in `sweep.py` (28 stocks plus SPY): KO, PG, WMT, PEP, COST, XOM, CVX, COP, JPM, BAC, WFC, GS, JNJ, UNH, PFE, ABBV, BA, CAT, HON, UPS, NEE, DUK, SO, LIN, APD, FCX, AAPL, MSFT and SPY. The cash rate is the 13-week T-bill series `^IRX` from yfinance, which `backtest.py` divides by 100 and by 252 to get a daily rate. The files in `data/` were downloaded on 2026-09-02, the date of the files.
-
-## License
-
-MIT License. See the LICENSE file.
+- Seasons 2022 to 2024.
+- Friday practice long runs as a predictor of race degradation.
+- A pit-stop timing model built on the fitted rates.
+- Non-linear track evolution.
