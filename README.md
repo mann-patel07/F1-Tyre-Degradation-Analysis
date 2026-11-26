@@ -80,7 +80,7 @@ M0 has no degradation term, M1 has a linear term per compound, M2 adds a quadrat
 
 ## Telemetry case study
 
-The race is the Bahrain Grand Prix. I cut each clean lap into 25 mini-sectors and fitted the linear model to each one. 945 of 951 clean laps passed the lap time match check. For SOFT, corner mini-sectors carry 72.8 percent of the fitted degradation and straight mini-sectors carry 27.2 percent. For MEDIUM, corner mini-sectors carry 77.3 percent of the fitted degradation and straight mini-sectors carry 22.7 percent. For HARD, corner mini-sectors carry 75.8 percent of the fitted degradation and straight mini-sectors carry 24.2 percent. The mini-sector rates add up to the lap-time rate to within 1e-6. This is one race and says nothing about other circuits.
+The race is the Bahrain Grand Prix. I cut each clean lap into 25 mini-sectors and fitted the linear model to each one. 945 of 951 clean laps passed the lap time match check. For SOFT, corner mini-sectors carry 72.8 percent of the fitted degradation and straight mini-sectors carry 27.2 percent. For MEDIUM, corner mini-sectors carry 77.3 percent of the fitted degradation and straight mini-sectors carry 22.7 percent. For HARD, corner mini-sectors carry 75.8 percent of the fitted degradation and straight mini-sectors carry 24.2 percent. Each lap's mini-sector times are scaled to add up to the official lap time, and every mini-sector uses the same model, so the mini-sector rates must add up to the lap-time rate. They do, to within 1e-6. That checks the bookkeeping, not the physics. This is one race and says nothing about other circuits.
 
 ## Pre-registration
 
@@ -137,7 +137,8 @@ Data comes from the FastF1 library, which reads Formula 1 live timing. This proj
 - `tests/test_telemetry_season.py`: unit tests.
 - `tests/test_offline.py`: unit tests.
 - `1_Season_Degradation_Analysis.ipynb`, `2_Bahrain_Telemetry_Case_Study.ipynb`, `3_Replication.ipynb`, `4_Pit_Strategy.ipynb`, `5_Corrected_Pace.ipynb`, `6_Telemetry_Season.ipynb`: notebooks.
-- `data/`: lap files by season, race tables, metadata, the download record, the Bahrain files and one folder each of mini-sector, reference lap and corner files for 2025.
+- `data/`: lap files by season, race tables, metadata, the download record, the Bahrain files and one folder each of mini-sector, reference lap and corner files for 2025. `data/bahrain_minisectors.csv` (from `run_telemetry.py`) and `data/minisectors_2025/04.csv` (from `run_telemetry_season.py`) are the same race built by two scripts, so the two files are identical.
+- `data/_partial/`: one lap file and one race record per race of 2022 to 2024, saved by `download_seasons.py` as it downloads. The script joins them into `data/laps_2022.csv` to `data/laps_2024.csv`, and reuses them instead of downloading a race again.
 - `results/`: output tables (including `results/strategy_fix_comparison.csv`), with `replication/`, `strategy/`, `pace/` and `telemetry_season/`.
 - `Images/`: figures.
 - `requirements.txt`: pinned packages.
