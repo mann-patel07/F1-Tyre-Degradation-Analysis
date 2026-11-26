@@ -5,6 +5,4 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 fastf1_cache/
-NOTES_FOR_MANN.md
 RUN_LOG.md
-Claude outputs/

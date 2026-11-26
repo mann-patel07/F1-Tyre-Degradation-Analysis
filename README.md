@@ -17,7 +17,7 @@ The quadratic model was worse than the linear one: D2 = -0.072 s (indicative int
 
 ![Fitted degradation by mini-sector at Bahrain](Images/track_deg_map.png)
 
-## Replication on 2022 to 2024 (pre-registered)
+## Replication on 2022 to 2024 (planned in advance)
 
 R1 = 0.169 s (indicative interval 0.101 to 0.241) over 59 races pooled. The linear degradation model beat the model without it in 45 of 59 races. Per season, 2022: D1 = 0.215 (0.093 to 0.348), 2023: D1 = 0.090 (-0.030 to 0.219), 2024: D1 = 0.206 (0.106 to 0.316).
 
@@ -25,7 +25,7 @@ The replication interval for R1 is above zero: the 2025 result held in 2022 to 2
 
 ![Replication D1](Images/replication_d1.png)
 
-## Where degradation costs time, all dry 2025 races (pre-registered)
+## Where degradation costs time, all dry 2025 races (planned in advance)
 
 T1 = 0.000384 (indicative interval 0.000250 to 0.000525) over 21 races. G was above zero in 19 races. G is the fitted degradation per second of lap time in corner mini-sectors minus the same on straight mini-sectors, for the compound with the most kept laps in each race.
 
@@ -73,6 +73,8 @@ M0 has no degradation term, M1 has a linear term per compound, M2 adds a quadrat
 - Three OLS models per race, with driver and compound effects and race lap number. M1 adds tyre age per compound, M2 adds tyre age squared per compound.
 - The forecast is made at 60 percent of race laps. Fitting uses laps up to the cutoff. Testing uses later laps. The slow-lap threshold uses fitting laps only.
 - Each test lap is predicted from that lap's real `Driver`, `Compound`, `LapNumber` and `TyreLife` columns. M0 uses the first three and M1 and M2 also use `TyreLife`. The model is never asked which tyre a driver will choose or when they will pit. Test laps on a compound with no kept fitting laps, or for a driver with no fitting laps, are dropped. That removes 109 test laps pooled over the 19 races, which is 1.4 percent of the 7641 test laps before the drop (`test_laps_removed` and `test_laps` in `results/races.csv`).
+- The test laps are only the later laps that pass the clean-lap rules, so every forecast error here is for normal-pace laps. All seven rules are applied to the later laps too. The 107 percent threshold is set from fitting laps only and then applied to every lap.
+- The real tyre age on each later lap also tells M1 and M2 when each driver pitted. M0 has no term for laps since the last stop. So D1 measures what tyre age adds when the stints are known, and it does not separate tyre wear from the jump in pace after a pit stop.
 - Eligibility: at least 200 fitting laps, 100 test laps, full column rank for all three designs, compounds with at least 30 fitting laps.
 - Primary metric D1 with a race-level bootstrap (10000 resamples, seed 42).
 
