@@ -21,7 +21,7 @@ The quadratic model was worse than the linear one: D2 = -0.072 s (indicative int
 
 R1 = 0.169 s (indicative interval 0.101 to 0.241) over 59 races pooled. The linear degradation model beat the model without it in 45 of 59 races. Per season, 2022: D1 = 0.215 (0.093 to 0.348), 2023: D1 = 0.090 (-0.030 to 0.219), 2024: D1 = 0.206 (0.106 to 0.316).
 
-The replication interval for R1 is above zero: the 2025 result held in 2022 to 2024.
+The replication interval for R1 is above zero: the 2025 result held in 2022 to 2024. That holds for the three seasons taken together. On its own, the 2023 interval includes zero.
 
 ![Replication D1](Images/replication_d1.png)
 
