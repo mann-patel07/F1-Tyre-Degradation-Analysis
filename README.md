@@ -17,6 +17,17 @@ The quadratic model was worse than the linear one: D2 = -0.072 s (indicative int
 
 ![Fitted degradation by mini-sector at Bahrain](Images/track_deg_map.png)
 
+## How much of D1 is wear? (added after the first version)
+
+D1 mixes two things, because each later lap is given its real compound and tyre age: the wear within a stint, and the knowledge of when each driver pitted, since a new stint resets tyre age. I split the test laps of each race in two (plan in `UPGRADE_PLAN.md`). A lap is continuing if its driver and stint number also appear among the training laps, so the stint began before the cutoff and no pit stop can happen inside it. Otherwise it is a new-stint lap. For each group with at least 20 test laps in a race, D1 is MAE(M0) minus MAE(M1). The table gives the mean over races with the same race-level bootstrap interval as above (`results/stint_split/summary.csv`).
+
+| Test laps | 2025 D1 (interval) | 2022 to 2024 pooled D1 (interval) |
+|---|---|---|
+| Continuing | 0.039 (-0.000 to 0.079) | 0.057 (0.019 to 0.097) |
+| New stint | 0.221 (-0.054 to 0.501) | 0.342 (0.117 to 0.538) |
+
+Continuing laps are 65.4 percent of the 2025 test laps and 61.3 percent of the pooled 2022 to 2024 test laps. For these laps D1 is the closest this data gets to pure wear, and it is small: 0.039 s in 2025, where the lower end of the interval is -0.0004, and 0.057 s pooled. New-stint laps carry the larger D1 in both, 0.221 s and 0.342 s, but they include the reset of tyre age at the pit stop, and the 2025 interval includes zero. D1 for continuing laps is above zero in 12 of 19 races in 2025 and in 35 of 58 races pooled. So most of the headline D1 comes from laps after a tyre change.
+
 ## Replication on 2022 to 2024 (planned in advance)
 
 R1 = 0.169 s (indicative interval 0.101 to 0.241) over 59 races pooled. The linear degradation model beat the model without it in 45 of 59 races. Per season, 2022: D1 = 0.215 (0.093 to 0.348), 2023: D1 = 0.090 (-0.030 to 0.219), 2024: D1 = 0.206 (0.106 to 0.316).
@@ -25,29 +36,14 @@ The replication interval for R1 is above zero: the 2025 result held in 2022 to 2
 
 ![Replication D1](Images/replication_d1.png)
 
-## Where degradation costs time, all dry 2025 races (planned in advance)
+## Other studies in this repository
 
-T1 = 0.000384 (indicative interval 0.000250 to 0.000525) over 21 races. G was above zero in 19 races. G is the fitted degradation per second of lap time in corner mini-sectors minus the same on straight mini-sectors, for the compound with the most kept laps in each race.
+Each study has its own section in `MORE_RESULTS.md`.
 
-![Density difference by race](Images/telemetry_density_by_race.png)
-
-## Pit strategy (exploratory)
-
-What a team planned before a race is not public, so this analysis never claims to know a plan. It defines a reference strategy from what most of the field did under green and tags each tyre change with the circumstances the data shows. These results are exploratory and were not pre-registered. For all four seasons together, a safety car or a virtual safety car is the primary circumstance of 16.7 percent of tyre changes. The median stop cost is 22.632 s under green and 14.630 s under a safety car, and green minus safety car is 8.001 s (indicative interval 5.290 to 10.869). Undercut attempts: 117 succeeded, 86 failed, 344 not resolved, a success share of 57.6 percent of 203 resolved. 77.8 percent of completing drivers differed from the reference. A stint number change with pit flags set where the same tyre continued is not counted as a tyre change (see `EXPLORATORY_ANALYSIS_PLAN_AMENDMENT_1.md`).
-
-![Stop cost](Images/strategy_stop_cost.png)
-
-![Stint chart of one race](Images/strategy_stint_chart.png)
-
-## Corrected race pace (exploratory)
-
-Pace is the driver coefficient of model M1, centred on the drivers of the race. Car and driver are not separated, and traffic, damage, team orders and pace management are in the numbers. Wet races are left out. These results are exploratory. The top three teams of 2025, in seconds per lap against the field average (negative is faster):
-
-1. McLaren: -0.830 s per lap (indicative interval -0.924 to -0.736, 21 races).
-2. Mercedes: -0.348 s per lap (indicative interval -0.472 to -0.232, 21 races).
-3. Ferrari: -0.331 s per lap (indicative interval -0.457 to -0.186, 21 races).
-
-![Team ranking 2025](Images/pace_team_ranking_2025.png)
+- [Where degradation costs time](MORE_RESULTS.md#where-degradation-costs-time-all-dry-2025-races-planned-in-advance): T1 = 0.000384 over 21 races, and G was above zero in 19 races.
+- [Pit strategy (exploratory)](MORE_RESULTS.md#pit-strategy-exploratory): green minus safety car stop cost is 8.001 s, and 117 undercut attempts succeeded and 86 failed.
+- [Corrected race pace (exploratory)](MORE_RESULTS.md#corrected-race-pace-exploratory): McLaren is fastest in 2025 at -0.830 s per lap against the field average.
+- [Telemetry case study](MORE_RESULTS.md#telemetry-case-study): for SOFT at Bahrain, corner mini-sectors carry 72.8 percent of the fitted degradation.
 
 ## Why this is hard
 
@@ -78,20 +74,17 @@ M0 has no degradation term, M1 has a linear term per compound, M2 adds a quadrat
 - Eligibility: at least 200 fitting laps, 100 test laps, full column rank for all three designs, compounds with at least 30 fitting laps.
 - Primary metric D1 with a race-level bootstrap (10000 resamples, seed 42).
 
-## Telemetry case study
-
-The race is the Bahrain Grand Prix. I cut each clean lap into 25 mini-sectors and fitted the linear model to each one. 945 of 951 clean laps passed the lap time match check. For SOFT, corner mini-sectors carry 72.8 percent of the fitted degradation and straight mini-sectors carry 27.2 percent. For MEDIUM, corner mini-sectors carry 77.3 percent of the fitted degradation and straight mini-sectors carry 22.7 percent. For HARD, corner mini-sectors carry 75.8 percent of the fitted degradation and straight mini-sectors carry 24.2 percent. Each lap's mini-sector times are scaled to add up to the official lap time, and every mini-sector uses the same model, so the mini-sector rates must add up to the lap-time rate. They do, to within 1e-6. That checks the bookkeeping, not the physics. This is one race and says nothing about other circuits.
-
 ## Pre-registration
 
 `PREREGISTRATION.md` was written before any data was downloaded. It fixes the question, the models, the split, the eligibility rules, the metrics and every constant. It was not changed afterward. The commit history here does not show this order, because I uploaded the finished project in a few commits.
 
 ## Tests
 
-`pytest` runs 50 tests: 15 in `tests/test_f1deg.py` (lap filters, slow-lap rule, wet flag, gap ahead, split and cutoff, absence of leakage, recovery of known rates, null case, unseen drivers and compounds, the fuel and tyre confound, mini-sectors, bootstrap, error metrics), 1 in `tests/test_replication.py` (the season function reproduces every 2025 result table), 20 in `tests/test_strategy.py`, 7 in `tests/test_pace.py`, 5 in `tests/test_telemetry_season.py` and 2 in `tests/test_offline.py` (only the download scripts import FastF1).
+`pytest` runs 55 tests: 15 in `tests/test_f1deg.py` (lap filters, slow-lap rule, wet flag, gap ahead, split and cutoff, absence of leakage, recovery of known rates, null case, unseen drivers and compounds, the fuel and tyre confound, mini-sectors, bootstrap, error metrics), 1 in `tests/test_replication.py` (the season function reproduces every 2025 result table), 20 in `tests/test_strategy.py`, 7 in `tests/test_pace.py`, 5 in `tests/test_telemetry_season.py`, 2 in `tests/test_offline.py` (only the download scripts import FastF1) and 5 in `tests/test_stint_split.py` (the continuing mask, the two groups covering every test lap, the 20-lap minimum, the weighted group MAE equal to the race MAE, and the eligible rounds).
 
 ## Limitations
 
+- D1 mixes wear within a stint and the knowledge of when each driver pitted. See "How much of D1 is wear?" above.
 - Lap times show the pace drivers chose, so the fitted rate includes tyre management and is not the physical limit of the tyre.
 - The lap number term is linear and absorbs fuel burn, track evolution and anything else that moves steadily through a race. These are not separated from each other.
 - Fuel loads, engine modes, tyre temperatures and pressures are not public.
@@ -128,6 +121,7 @@ Data comes from the FastF1 library, which reads Formula 1 live timing. This proj
 - `pace.py`, `run_pace.py`: corrected pace module.
 - `telemetry_season.py`, `run_telemetry_season.py`: mini-sector telemetry for every dry 2025 race.
 - `run_links.py`: rank correlations across modules.
+- `stint_split.py`: the stint split of D1 (added after the first version).
 - `check_consistency.py`: checks README numbers against `results/`.
 - `offline_check.py`: reruns the offline scripts with the network blocked.
 - `tests/test_f1deg.py`: unit tests.
@@ -136,32 +130,37 @@ Data comes from the FastF1 library, which reads Formula 1 live timing. This proj
 - `tests/test_pace.py`: unit tests.
 - `tests/test_telemetry_season.py`: unit tests.
 - `tests/test_offline.py`: unit tests.
+- `tests/test_stint_split.py`: unit tests for the stint split.
 - `1_Season_Degradation_Analysis.ipynb`, `2_Bahrain_Telemetry_Case_Study.ipynb`, `3_Replication.ipynb`, `4_Pit_Strategy.ipynb`, `5_Corrected_Pace.ipynb`, `6_Telemetry_Season.ipynb`: notebooks.
 - `data/`: lap files by season, race tables, metadata, the download record, the Bahrain files and one folder each of mini-sector, reference lap and corner files for 2025. `data/bahrain_minisectors.csv` (from `run_telemetry.py`) and `data/minisectors_2025/04.csv` (from `run_telemetry_season.py`) are the same race built by two scripts, so the two files are identical.
 - `data/_partial/`: one lap file and one race record per race of 2022 to 2024, saved by `download_seasons.py` as it downloads. The script joins them into `data/laps_2022.csv` to `data/laps_2024.csv`, and reuses them instead of downloading a race again.
-- `results/`: output tables (including `results/strategy_fix_comparison.csv`), with `replication/`, `strategy/`, `pace/` and `telemetry_season/`.
+- `results/`: output tables (including `results/strategy_fix_comparison.csv`), with `replication/`, `strategy/`, `pace/`, `telemetry_season/` and `stint_split/` (the by-race tables and a summary table).
 - `Images/`: figures.
+- `MORE_RESULTS.md`: the studies moved out of this README.
+- `UPGRADE_PLAN.md`: the plan for the stint split, written before its results.
 - `requirements.txt`: pinned packages.
 - `LICENSE`: MIT.
 
 ## How to run from a fresh clone
 
-```
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-pytest
-python run_study.py
-python run_telemetry.py  # needs an F1TV account; its outputs are already in this repository
-python run_replication.py
-python run_strategy.py
-python run_pace.py
-python run_telemetry_season.py --fit
-python run_links.py
-jupyter nbconvert --to notebook --execute --inplace 3_Replication.ipynb
-python check_consistency.py
-python offline_check.py
-```
+Python 3.12.5 on macOS. The times were measured on my laptop with another job running. Run each command from the project folder with the environment active (`source .venv/bin/activate`).
+
+| Command | What it does | Time |
+|---|---|---|
+| `python3 -m venv .venv` | makes the environment | 1.8 s |
+| `pip install -r requirements.txt` | installs the pinned packages | 28 s |
+| `pytest` | runs the 55 tests | 7.2 s |
+| `python run_study.py` | the 2025 season study | 4.0 s |
+| `python run_telemetry.py` | the Bahrain case study; needs an F1TV account and its outputs are already in this repository | not run |
+| `python run_replication.py` | the replication on 2022 to 2024 | 9.7 s |
+| `python stint_split.py` | the stint split of D1 (added after the first version) | 3.5 s |
+| `python run_strategy.py` | the pit strategy module | 8.5 s |
+| `python run_pace.py` | the corrected pace module | 2.0 s |
+| `python run_telemetry_season.py --fit` | mini-sector fits for the dry 2025 races | 6.2 s |
+| `python run_links.py` | rank correlations across modules | 0.9 s |
+| `jupyter nbconvert --to notebook --execute --inplace 3_Replication.ipynb` | re-executes the replication notebook | 5.0 s |
+| `python check_consistency.py` | checks the numbers in `README.md` and `MORE_RESULTS.md` | 0.3 s |
+| `python offline_check.py` | reruns the offline scripts with the network blocked | 25 s |
 
 Tested with Python 3.12.5 on macOS.
 

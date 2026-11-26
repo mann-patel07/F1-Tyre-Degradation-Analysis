@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 
-readme = Path("README.md").read_text()
+readme = Path("README.md").read_text() + "\n" + Path("MORE_RESULTS.md").read_text()
 s = pd.read_csv("results/summary.csv").set_index("metric")["value"]
 cv = pd.read_csv("results/corner_vs_straight.csv").set_index("compound")
 q = pd.read_csv("results/telemetry_quality.csv").iloc[0]
@@ -72,6 +72,31 @@ need(r"Undercut attempts: (\d+) succeeded, (\d+) failed, (\d+) not resolved, a s
 top = tsn[tsn["season"] == 2025].sort_values("rank").head(3)
 for _, r in top.iterrows():
     need(rf"{int(r['rank'])}\. {re.escape(r['team'])}: (-?[\d.]+) s per lap \(indicative interval (-?[\d.]+) to (-?[\d.]+), (\d+) races\)", [r["mean_pace"], r["lo"], r["hi"], r["races"]], 3)
+
+# stint split section (added after the first version)
+ST = pd.read_csv("results/stint_split/summary.csv").set_index(["scope", "group", "metric"])["value"]
+
+
+def stint_cell(scope, group):
+    return f"{ST[scope, group, 'D1']:.3f} ({ST[scope, group, 'D1_lo']:.3f} to {ST[scope, group, 'D1_hi']:.3f})"
+
+
+for label, grp in (("Continuing", "continuing"), ("New stint", "new")):
+    need_row = f"| {label} | {stint_cell('2025', grp)} | {stint_cell('2022-2024 pooled', grp)} |"
+    assert need_row in readme, f"stint split table row differs: {need_row}"
+    checks += 1
+need(r"Continuing laps are (-?[\d.]+) percent of the 2025 test laps and (-?[\d.]+) percent of the pooled",
+     [100 * ST["2025", "continuing", "share_of_test_laps"], 100 * ST["2022-2024 pooled", "continuing", "share_of_test_laps"]], 1)
+need(r"it is small: (-?[\d.]+) s in 2025, where", [ST["2025", "continuing", "D1"]], 3)
+need(r"where the lower end of the interval is (-?[\d.]+), and", [ST["2025", "continuing", "D1_lo"]], 4)
+need(r"and (-?[\d.]+) s pooled\. New-stint", [ST["2022-2024 pooled", "continuing", "D1"]], 3)
+need(r"larger D1 in both, (-?[\d.]+) s and (-?[\d.]+) s",
+     [ST["2025", "new", "D1"], ST["2022-2024 pooled", "new", "D1"]], 3)
+need(r"above zero in (\d+) of (\d+) races in 2025 and in (\d+) of (\d+) races pooled",
+     [ST["2025", "continuing", "D1_above_zero"], ST["2025", "continuing", "races"],
+      ST["2022-2024 pooled", "continuing", "D1_above_zero"], ST["2022-2024 pooled", "continuing", "races"]], 0)
+assert Path("MORE_RESULTS.md").exists() and Path("UPGRADE_PLAN.md").exists()
+checks += 1
 
 for path in set(re.findall(r"`([^`\s]+\.(?:py|md|csv|json|ipynb|txt|png))`", readme)) | set(re.findall(r"\((Images/[^)]+)\)", readme)):
     if "/" in path or Path(path).suffix:
